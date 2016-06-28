@@ -2,13 +2,14 @@
   "id": 153071041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.211799,50.569157,3.211799,50.569157",
     "geom:latitude":50.569157,
     "geom:longitude":3.211799,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"269, Rue Jean-Baptiste Lebas, 59830 Cysoing",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102070353,
-        85633147,
         85683445,
-        85794639
+        85633147,
+        85794639,
+        102070353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":153071041,
-    "wof:lastmodified":1449040653,
+    "wof:lastmodified":1466246738,
     "wof:name":"Anciens Etablissements Bergerot S.a.",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.211799,50.569157,3.211799,50.569157],
+  "bbox": [
+    3.211799,
+    50.569157,
+    3.211799,
+    50.569157
+],
   "geometry": {"coordinates":[3.211799,50.569157],"type":"Point"}
 }

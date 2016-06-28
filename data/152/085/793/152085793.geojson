@@ -2,13 +2,14 @@
   "id": 152085793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.71028,48.578709,7.71028,48.578709",
     "geom:latitude":48.578709,
     "geom:longitude":7.71028,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Route Des Romains 67200 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152085793,
-    "wof:lastmodified":1449045453,
+    "wof:lastmodified":1466247899,
     "wof:name":"Creation Et Impression Brodart",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.71028,48.578709,7.71028,48.578709],
+  "bbox": [
+    7.71028,
+    48.578709,
+    7.71028,
+    48.578709
+],
   "geometry": {"coordinates":[7.71028,48.578709],"type":"Point"}
 }

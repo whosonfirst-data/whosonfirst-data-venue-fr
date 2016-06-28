@@ -2,13 +2,14 @@
   "id": 152196481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359065,48.863152,2.359065,48.863152",
     "geom:latitude":48.863152,
     "geom:longitude":2.359065,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Rue Pastourelle 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
+        85873803,
         85873801
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152196481,
-    "wof:lastmodified":1449045346,
+    "wof:lastmodified":1466249721,
     "wof:name":"Etablissements E Budin Et Ses Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359065,48.863152,2.359065,48.863152],
+  "bbox": [
+    2.359065,
+    48.863152,
+    2.359065,
+    48.863152
+],
   "geometry": {"coordinates":[2.359065,48.863152],"type":"Point"}
 }

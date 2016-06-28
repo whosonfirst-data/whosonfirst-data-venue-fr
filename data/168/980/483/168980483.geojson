@@ -2,13 +2,14 @@
   "id": 168980483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327037,48.856392,2.327037,48.856392",
     "geom:latitude":48.856392,
     "geom:longitude":2.327037,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue de Gribeauval, 75007 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873845,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168980483,
-    "wof:lastmodified":1449027825,
+    "wof:lastmodified":1466248757,
     "wof:name":"Groz Beckert France S.a.",
     "wof:parent_id":85873845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327037,48.856392,2.327037,48.856392],
+  "bbox": [
+    2.327037,
+    48.856392,
+    2.327037,
+    48.856392
+],
   "geometry": {"coordinates":[2.327037,48.856392],"type":"Point"}
 }

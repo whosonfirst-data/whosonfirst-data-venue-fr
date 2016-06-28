@@ -2,13 +2,14 @@
   "id": 152288785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.094256,49.529613,0.094256,49.529613",
     "geom:latitude":49.529613,
     "geom:longitude":0.094256,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Louis Bl\u00e9riot",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794449,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152288785,
-    "wof:lastmodified":1449044796,
+    "wof:lastmodified":1466250045,
     "wof:name":"A\u00e9roport Du Havre Octeville",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.094256,49.529613,0.094256,49.529613],
+  "bbox": [
+    0.094256,
+    49.529613,
+    0.094256,
+    49.529613
+],
   "geometry": {"coordinates":[0.094256,49.529613],"type":"Point"}
 }

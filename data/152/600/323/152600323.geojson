@@ -2,13 +2,14 @@
   "id": 152600323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.90775,47.129459,4.90775,47.129459",
     "geom:latitude":47.129459,
     "geom:longitude":4.90775,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 42, 21700 Nuits Saint Georges^^4, Rte de Dijon, 21700 Nuits Saint Georges",
     "sg:city":"Agencourt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152600323,
-    "wof:lastmodified":1449044727,
+    "wof:lastmodified":1466251164,
     "wof:name":"M.g.f. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.90775,47.129459,4.90775,47.129459],
+  "bbox": [
+    4.90775,
+    47.129459,
+    4.90775,
+    47.129459
+],
   "geometry": {"coordinates":[4.90775,47.129459],"type":"Point"}
 }

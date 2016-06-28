@@ -2,13 +2,14 @@
   "id": 152075987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544146,47.202087,-1.544146,47.202087",
     "geom:latitude":47.202087,
     "geom:longitude":-1.544146,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Louis Marin 44201 Nantes",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152075987,
-    "wof:lastmodified":1449046806,
+    "wof:lastmodified":1466246460,
     "wof:name":"Mesnier Nantes Sa",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544146,47.202087,-1.544146,47.202087],
+  "bbox": [
+    -1.544146,
+    47.202087,
+    -1.544146,
+    47.202087
+],
   "geometry": {"coordinates":[-1.544146,47.202087],"type":"Point"}
 }

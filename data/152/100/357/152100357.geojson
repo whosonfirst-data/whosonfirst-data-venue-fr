@@ -2,13 +2,14 @@
   "id": 152100357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.508275,47.259834,-1.508275,47.259834",
     "geom:latitude":47.259834,
     "geom:longitude":-1.508275,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue De Belgique 44300 Nantes",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152100357,
-    "wof:lastmodified":1449047730,
+    "wof:lastmodified":1466248804,
     "wof:name":"Le Gal Gravure",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.508275,47.259834,-1.508275,47.259834],
+  "bbox": [
+    -1.508275,
+    47.259834,
+    -1.508275,
+    47.259834
+],
   "geometry": {"coordinates":[-1.508275,47.259834],"type":"Point"}
 }

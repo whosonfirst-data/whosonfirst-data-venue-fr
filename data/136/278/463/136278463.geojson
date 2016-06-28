@@ -2,13 +2,14 @@
   "id": 136278463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.573307,47.219513,-1.573307,47.219513",
     "geom:latitude":47.219513,
     "geom:longitude":-1.573307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Avenue Camus",
     "sg:city":"Nantes",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278463,
-    "wof:lastmodified":1449075661,
+    "wof:lastmodified":1466245330,
     "wof:name":"Norwich Union France",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.573307,47.219513,-1.573307,47.219513],
+  "bbox": [
+    -1.573307,
+    47.219513,
+    -1.573307,
+    47.219513
+],
   "geometry": {"coordinates":[-1.573307,47.219513],"type":"Point"}
 }

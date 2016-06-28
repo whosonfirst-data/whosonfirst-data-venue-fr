@@ -2,13 +2,14 @@
   "id": 152086001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.321475,43.362785,5.321475,43.362785",
     "geom:latitude":43.362785,
     "geom:longitude":5.321475,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Chemin Du Littoral Za Mourepiane Lot 504 13016 Marseille",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152086001,
-    "wof:lastmodified":1449047399,
+    "wof:lastmodified":1466247966,
     "wof:name":"Ets Siline Baches",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.321475,43.362785,5.321475,43.362785],
+  "bbox": [
+    5.321475,
+    43.362785,
+    5.321475,
+    43.362785
+],
   "geometry": {"coordinates":[5.321475,43.362785],"type":"Point"}
 }

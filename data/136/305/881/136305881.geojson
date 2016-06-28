@@ -2,13 +2,14 @@
   "id": 136305881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.923248,40.825745,-73.923248,40.825745",
     "geom:latitude":40.825745,
     "geom:longitude":-73.923248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"123 av Franklin Roosevelt; Bron",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868023,
+        85688543,
         85633793,
         85977539,
         102083063,
-        85688543,
+        85868023,
         85892793
     ],
     "wof:breaches":[],
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136305881,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466247068,
     "wof:name":"Lyonnaise De Banque Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.923248,40.825745,-73.923248,40.825745],
+  "bbox": [
+    -73.923248,
+    40.825745,
+    -73.923248,
+    40.825745
+],
   "geometry": {"coordinates":[-73.923248,40.825745],"type":"Point"}
 }

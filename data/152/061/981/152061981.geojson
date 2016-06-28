@@ -2,13 +2,14 @@
   "id": 152061981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.365325,48.87212,2.365325,48.87212",
     "geom:latitude":48.87212,
     "geom:longitude":2.365325,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Quai De Jemmapes 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152061981,
-    "wof:lastmodified":1449047638,
+    "wof:lastmodified":1466246993,
     "wof:name":"Norki International",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.365325,48.87212,2.365325,48.87212],
+  "bbox": [
+    2.365325,
+    48.87212,
+    2.365325,
+    48.87212
+],
   "geometry": {"coordinates":[2.365325,48.87212],"type":"Point"}
 }

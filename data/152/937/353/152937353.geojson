@@ -2,13 +2,14 @@
   "id": 152937353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.354456,48.854675,2.354456,48.854675",
     "geom:latitude":48.854675,
     "geom:longitude":2.354456,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Quai De L Hotel De Ville 75004 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873809,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152937353,
-    "wof:lastmodified":1449045177,
+    "wof:lastmodified":1466252370,
     "wof:name":"Germond Michel",
     "wof:parent_id":85873809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.354456,48.854675,2.354456,48.854675],
+  "bbox": [
+    2.354456,
+    48.854675,
+    2.354456,
+    48.854675
+],
   "geometry": {"coordinates":[2.354456,48.854675],"type":"Point"}
 }

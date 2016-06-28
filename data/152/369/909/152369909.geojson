@@ -2,13 +2,14 @@
   "id": 152369909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.56144,44.823849,-0.56144,44.823849",
     "geom:latitude":44.823849,
     "geom:longitude":-0.56144,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 55, 33038 Bordeaux C\u00e9dex^^343, Bd Jean Jacques Bosc, 33800 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152369909,
-    "wof:lastmodified":1449048684,
+    "wof:lastmodified":1466250416,
     "wof:name":"Cobatri S.a.",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.56144,44.823849,-0.56144,44.823849],
+  "bbox": [
+    -0.56144,
+    44.823849,
+    -0.56144,
+    44.823849
+],
   "geometry": {"coordinates":[-0.56144,44.823849],"type":"Point"}
 }

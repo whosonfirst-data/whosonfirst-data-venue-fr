@@ -2,13 +2,14 @@
   "id": 152119349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.6404,47.224869,-1.6404,47.224869",
     "geom:latitude":47.224869,
     "geom:longitude":-1.6404,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 rue Gustave Eiffel 44800 ST HERBLAIN",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152119349,
-    "wof:lastmodified":1449047599,
+    "wof:lastmodified":1466249336,
     "wof:name":"Corbe Cuisine Professionnelle Sa",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.6404,47.224869,-1.6404,47.224869],
+  "bbox": [
+    -1.6404,
+    47.224869,
+    -1.6404,
+    47.224869
+],
   "geometry": {"coordinates":[-1.6404,47.224869],"type":"Point"}
 }

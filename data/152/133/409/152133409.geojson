@@ -2,13 +2,14 @@
   "id": 152133409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.081071,49.462673,1.081071,49.462673",
     "geom:latitude":49.462673,
     "geom:longitude":1.081071,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Place Des Coquets 76130 Mont-Saint-Aignan",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133409,
-    "wof:lastmodified":1449048119,
+    "wof:lastmodified":1466249463,
     "wof:name":"Carrier Transicold France Sa",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.081071,49.462673,1.081071,49.462673],
+  "bbox": [
+    1.081071,
+    49.462673,
+    1.081071,
+    49.462673
+],
   "geometry": {"coordinates":[1.081071,49.462673],"type":"Point"}
 }

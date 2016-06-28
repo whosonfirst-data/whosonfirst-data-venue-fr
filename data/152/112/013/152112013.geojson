@@ -2,13 +2,14 @@
   "id": 152112013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.380186,48.859356,2.380186,48.859356",
     "geom:latitude":48.859356,
     "geom:longitude":2.380186,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Cite Industrielle 75011 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152112013,
-    "wof:lastmodified":1449046436,
+    "wof:lastmodified":1466249045,
     "wof:name":"Societe Daniel Delaplace",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.380186,48.859356,2.380186,48.859356],
+  "bbox": [
+    2.380186,
+    48.859356,
+    2.380186,
+    48.859356
+],
   "geometry": {"coordinates":[2.380186,48.859356],"type":"Point"}
 }

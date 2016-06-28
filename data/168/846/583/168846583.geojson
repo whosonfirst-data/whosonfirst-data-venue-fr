@@ -2,13 +2,14 @@
   "id": 168846583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.2493,48.730545,2.2493,48.730545",
     "geom:latitude":48.730545,
     "geom:longitude":2.2493,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Domaine de Vilgenis",
     "sg:city":"Massy",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168846583,
-    "wof:lastmodified":1449028407,
+    "wof:lastmodified":1466247122,
     "wof:name":"C.f.a. Des M\u00e9tiers De L'a\u00e9rien - Centre De Formation Apprentis Des M\u00e9tiers De L'a\u00e9rien",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.2493,48.730545,2.2493,48.730545],
+  "bbox": [
+    2.2493,
+    48.730545,
+    2.2493,
+    48.730545
+],
   "geometry": {"coordinates":[2.2493,48.730545],"type":"Point"}
 }

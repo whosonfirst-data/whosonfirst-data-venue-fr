@@ -2,13 +2,14 @@
   "id": 152047353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30719,48.843399,2.30719,48.843399",
     "geom:latitude":48.843399,
     "geom:longitude":2.30719,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue Blomet 75015 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873949,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152047353,
-    "wof:lastmodified":1449047278,
+    "wof:lastmodified":1466245654,
     "wof:name":"Aberotel ***",
     "wof:parent_id":85873949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30719,48.843399,2.30719,48.843399],
+  "bbox": [
+    2.30719,
+    48.843399,
+    2.30719,
+    48.843399
+],
   "geometry": {"coordinates":[2.30719,48.843399],"type":"Point"}
 }

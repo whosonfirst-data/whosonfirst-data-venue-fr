@@ -2,13 +2,14 @@
   "id": 152889355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.585744,47.59787,7.585744,47.59787",
     "geom:latitude":47.59787,
     "geom:longitude":7.585744,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Du Rhin 68330 Huningue",
     "sg:city":"Huningue",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152889355,
-    "wof:lastmodified":1449044195,
+    "wof:lastmodified":1466252308,
     "wof:name":"Carpenter Pur Sa",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.585744,47.59787,7.585744,47.59787],
+  "bbox": [
+    7.585744,
+    47.59787,
+    7.585744,
+    47.59787
+],
   "geometry": {"coordinates":[7.585744,47.59787],"type":"Point"}
 }

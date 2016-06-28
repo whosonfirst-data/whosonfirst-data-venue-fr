@@ -2,13 +2,14 @@
   "id": 152884805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.24119,48.888939,2.24119,48.888939",
     "geom:latitude":48.888939,
     "geom:longitude":2.24119,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pl De La Pyramide Tour Atlantique 92911 Paris La D\u00e9fense Cedex",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152884805,
-    "wof:lastmodified":1449048024,
+    "wof:lastmodified":1466252182,
     "wof:name":"Dsm France",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.24119,48.888939,2.24119,48.888939],
+  "bbox": [
+    2.24119,
+    48.888939,
+    2.24119,
+    48.888939
+],
   "geometry": {"coordinates":[2.24119,48.888939],"type":"Point"}
 }

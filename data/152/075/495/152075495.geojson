@@ -2,13 +2,14 @@
   "id": 152075495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.419771,48.90266,2.419771,48.90266",
     "geom:latitude":48.90266,
     "geom:longitude":2.419771,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Chemin Des Vignes 93000 Bobigny",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152075495,
-    "wof:lastmodified":1449046806,
+    "wof:lastmodified":1466246363,
     "wof:name":"Twc Europe Sa",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.419771,48.90266,2.419771,48.90266],
+  "bbox": [
+    2.419771,
+    48.90266,
+    2.419771,
+    48.90266
+],
   "geometry": {"coordinates":[2.419771,48.90266],"type":"Point"}
 }

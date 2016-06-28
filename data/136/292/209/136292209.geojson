@@ -2,13 +2,14 @@
   "id": 136292209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.24224,48.845104,2.24224,48.845104",
     "geom:latitude":48.845104,
     "geom:longitude":2.24224,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38 rue Vauthier 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136292209,
-    "wof:lastmodified":1449075006,
+    "wof:lastmodified":1466246217,
     "wof:name":"Audio Cassettes Industries Sa",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.24224,48.845104,2.24224,48.845104],
+  "bbox": [
+    2.24224,
+    48.845104,
+    2.24224,
+    48.845104
+],
   "geometry": {"coordinates":[2.24224,48.845104],"type":"Point"}
 }

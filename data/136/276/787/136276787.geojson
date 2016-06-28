@@ -2,13 +2,14 @@
   "id": 136276787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319078,48.874363,2.319078,48.874363",
     "geom:latitude":48.874363,
     "geom:longitude":2.319078,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue La Bo\u00e9tie",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136276787,
-    "wof:lastmodified":1449074972,
+    "wof:lastmodified":1466245349,
     "wof:name":"Credit Immobilier Europeen",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319078,48.874363,2.319078,48.874363],
+  "bbox": [
+    2.319078,
+    48.874363,
+    2.319078,
+    48.874363
+],
   "geometry": {"coordinates":[2.319078,48.874363],"type":"Point"}
 }

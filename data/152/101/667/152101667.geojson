@@ -2,13 +2,14 @@
   "id": 152101667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.382777,48.81435,2.382777,48.81435",
     "geom:latitude":48.81435,
     "geom:longitude":2.382777,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rue Francisco Ferrer 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152101667,
-    "wof:lastmodified":1449046735,
+    "wof:lastmodified":1466248717,
     "wof:name":"Ateliers Du Val De Marne",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.382777,48.81435,2.382777,48.81435],
+  "bbox": [
+    2.382777,
+    48.81435,
+    2.382777,
+    48.81435
+],
   "geometry": {"coordinates":[2.382777,48.81435],"type":"Point"}
 }

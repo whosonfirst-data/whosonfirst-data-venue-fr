@@ -2,13 +2,14 @@
   "id": 152043911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.250919,48.847198,2.250919,48.847198",
     "geom:latitude":48.847198,
     "geom:longitude":2.250919,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Avenue Gordon Bennett 75016 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873969,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152043911,
-    "wof:lastmodified":1449047753,
+    "wof:lastmodified":1466245315,
     "wof:name":"Federation Francaise De Tennis",
     "wof:parent_id":85873969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.250919,48.847198,2.250919,48.847198],
+  "bbox": [
+    2.250919,
+    48.847198,
+    2.250919,
+    48.847198
+],
   "geometry": {"coordinates":[2.250919,48.847198],"type":"Point"}
 }

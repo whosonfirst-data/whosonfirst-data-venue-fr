@@ -2,13 +2,14 @@
   "id": 136282143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.25323,48.828068,2.25323,48.828068",
     "geom:latitude":48.828068,
     "geom:longitude":2.25323,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1",
     "sg:city":"Point du Jour 92100 Boulogne Billancourt",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136282143,
-    "wof:lastmodified":1449075747,
+    "wof:lastmodified":1466245616,
     "wof:name":"Snptv (syndicat National)",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.25323,48.828068,2.25323,48.828068],
+  "bbox": [
+    2.25323,
+    48.828068,
+    2.25323,
+    48.828068
+],
   "geometry": {"coordinates":[2.25323,48.828068],"type":"Point"}
 }

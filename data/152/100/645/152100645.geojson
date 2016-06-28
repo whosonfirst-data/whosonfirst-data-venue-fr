@@ -2,13 +2,14 @@
   "id": 152100645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.413845,48.889999,2.413845,48.889999",
     "geom:latitude":48.889999,
     "geom:longitude":2.413845,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Rue Rouget De Lisle 93697 Pantin Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152100645,
-    "wof:lastmodified":1449047725,
+    "wof:lastmodified":1466248701,
     "wof:name":"Sebir",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.413845,48.889999,2.413845,48.889999],
+  "bbox": [
+    2.413845,
+    48.889999,
+    2.413845,
+    48.889999
+],
   "geometry": {"coordinates":[2.413845,48.889999],"type":"Point"}
 }

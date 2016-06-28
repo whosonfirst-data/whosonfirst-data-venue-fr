@@ -2,13 +2,14 @@
   "id": 136309135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.275892,48.866112,2.275892,48.866112",
     "geom:latitude":48.866112,
     "geom:longitude":2.275892,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"78",
     "sg:city":"Spontini; Paris; 75116",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873975,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136309135,
-    "wof:lastmodified":1449075188,
+    "wof:lastmodified":1466247169,
     "wof:name":"Union Tunisienne De Banques",
     "wof:parent_id":85873975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.275892,48.866112,2.275892,48.866112],
+  "bbox": [
+    2.275892,
+    48.866112,
+    2.275892,
+    48.866112
+],
   "geometry": {"coordinates":[2.275892,48.866112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152646679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.42564,48.61668,2.42564,48.61668",
     "geom:latitude":48.61668,
     "geom:longitude":2.42564,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue de la Mare Neuve - Parc du Bois Briard, 91021 Courcouronnes C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152646679,
-    "wof:lastmodified":1449044170,
+    "wof:lastmodified":1466251464,
     "wof:name":"Novotel Evry",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.42564,48.61668,2.42564,48.61668],
+  "bbox": [
+    2.42564,
+    48.61668,
+    2.42564,
+    48.61668
+],
   "geometry": {"coordinates":[2.42564,48.61668],"type":"Point"}
 }

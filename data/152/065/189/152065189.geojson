@@ -2,13 +2,14 @@
   "id": 152065189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297435,48.823952,2.297435,48.823952",
     "geom:latitude":48.823952,
     "geom:longitude":2.297435,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Rue Jean Bleuzen 92170 Vanves",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152065189,
-    "wof:lastmodified":1449048852,
+    "wof:lastmodified":1466247162,
     "wof:name":"Ges Comail",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297435,48.823952,2.297435,48.823952],
+  "bbox": [
+    2.297435,
+    48.823952,
+    2.297435,
+    48.823952
+],
   "geometry": {"coordinates":[2.297435,48.823952],"type":"Point"}
 }

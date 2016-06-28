@@ -2,13 +2,14 @@
   "id": 152099567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319634,48.813473,2.319634,48.813473",
     "geom:latitude":48.813473,
     "geom:longitude":2.319634,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"122 avenue Henri Ginoux 92120 Montrouge",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152099567,
-    "wof:lastmodified":1449047310,
+    "wof:lastmodified":1466248489,
     "wof:name":"Borgeaud Biblioth\u00e8ques Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319634,48.813473,2.319634,48.813473],
+  "bbox": [
+    2.319634,
+    48.813473,
+    2.319634,
+    48.813473
+],
   "geometry": {"coordinates":[2.319634,48.813473],"type":"Point"}
 }

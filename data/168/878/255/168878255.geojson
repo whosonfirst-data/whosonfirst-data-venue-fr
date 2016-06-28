@@ -2,13 +2,14 @@
   "id": 168878255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.310384,48.877529,2.310384,48.877529",
     "geom:latitude":48.877529,
     "geom:longitude":2.310384,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Place Rio de Janeiro, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168878255,
-    "wof:lastmodified":1449028174,
+    "wof:lastmodified":1466246635,
     "wof:name":"Cofras Sa",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.310384,48.877529,2.310384,48.877529],
+  "bbox": [
+    2.310384,
+    48.877529,
+    2.310384,
+    48.877529
+],
   "geometry": {"coordinates":[2.310384,48.877529],"type":"Point"}
 }

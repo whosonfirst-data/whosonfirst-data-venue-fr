@@ -2,13 +2,14 @@
   "id": 136302221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.27272,37.815735,-120.27272,37.815735",
     "geom:latitude":37.815735,
     "geom:longitude":-120.27272,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 rue Henri Mar\u00e9chal; S. Priest",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Outre-Mer",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867437,
+        85688637,
         85633793,
         85922327,
         102086939,
-        85688637
+        85867437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136302221,
-    "wof:lastmodified":1449075352,
+    "wof:lastmodified":1466246826,
     "wof:name":"Cr\u00e9dit Agricole Du Centre Est",
     "wof:parent_id":85867437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.27272,37.815735,-120.27272,37.815735],
-  "geometry": {"coordinates":[-120.27272,37.815735],"type":"Point"}
+  "bbox": [
+    -120.27272,
+    37.815735,
+    -120.27272,
+    37.815735
+],
+  "geometry": {"coordinates":[-120.27272000000001,37.815735],"type":"Point"}
 }

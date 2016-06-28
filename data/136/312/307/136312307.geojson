@@ -2,13 +2,14 @@
   "id": 136312307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.354247,47.797329,-4.354247,47.797329",
     "geom:latitude":47.797329,
     "geom:longitude":-4.354247,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai Du G\u00e9n\u00e9ral De Gaulle K\u00e9rity 29760 Penmarch",
     "sg:city":"Penmarch",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136312307,
-    "wof:lastmodified":1449075580,
+    "wof:lastmodified":1466247415,
     "wof:name":"Eurl Lemaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.354247,47.797329,-4.354247,47.797329],
+  "bbox": [
+    -4.354247,
+    47.797329,
+    -4.354247,
+    47.797329
+],
   "geometry": {"coordinates":[-4.354247,47.797329],"type":"Point"}
 }

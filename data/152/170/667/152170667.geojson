@@ -2,13 +2,14 @@
   "id": 152170667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297829,48.870972,2.297829,48.870972",
     "geom:latitude":48.870972,
     "geom:longitude":2.297829,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Rue Galil\u00e9e 75008 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152170667,
-    "wof:lastmodified":1449044738,
+    "wof:lastmodified":1466249618,
     "wof:name":"Groupe Cpc",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297829,48.870972,2.297829,48.870972],
+  "bbox": [
+    2.297829,
+    48.870972,
+    2.297829,
+    48.870972
+],
   "geometry": {"coordinates":[2.297829,48.870972],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169069531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.280898,48.843243,2.280898,48.843243",
     "geom:latitude":48.843243,
     "geom:longitude":2.280898,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"66, Rue S\u00e9bastien Mercier, 75015 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873951,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169069531,
-    "wof:lastmodified":1449034769,
+    "wof:lastmodified":1466247005,
     "wof:name":"M\u00e9discan S.a.",
     "wof:parent_id":85873951,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.280898,48.843243,2.280898,48.843243],
+  "bbox": [
+    2.280898,
+    48.843243,
+    2.280898,
+    48.843243
+],
   "geometry": {"coordinates":[2.280898,48.843243],"type":"Point"}
 }

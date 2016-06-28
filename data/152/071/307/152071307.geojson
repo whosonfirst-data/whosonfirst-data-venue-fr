@@ -2,13 +2,14 @@
   "id": 152071307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.291636,48.845852,2.291636,48.845852",
     "geom:latitude":48.845852,
     "geom:longitude":2.291636,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 rue Violet 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873967,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152071307,
-    "wof:lastmodified":1449047207,
+    "wof:lastmodified":1466245506,
     "wof:name":"T.l. Minerva Sa",
     "wof:parent_id":85873967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.291636,48.845852,2.291636,48.845852],
+  "bbox": [
+    2.291636,
+    48.845852,
+    2.291636,
+    48.845852
+],
   "geometry": {"coordinates":[2.291636,48.845852],"type":"Point"}
 }

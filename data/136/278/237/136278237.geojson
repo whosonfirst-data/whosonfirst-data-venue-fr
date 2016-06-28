@@ -2,13 +2,14 @@
   "id": 136278237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.394087,48.848408,2.394087,48.848408",
     "geom:latitude":48.848408,
     "geom:longitude":2.394087,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Place De La Nation",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497,
-        85873911,
-        102069097
+        85873895,
+        102069097,
+        85873911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":136278237,
-    "wof:lastmodified":1449075658,
+    "wof:lastmodified":1466245282,
     "wof:name":"Lmb Consultants Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.394087,48.848408,2.394087,48.848408],
+  "bbox": [
+    2.394087,
+    48.848408,
+    2.394087,
+    48.848408
+],
   "geometry": {"coordinates":[2.394087,48.848408],"type":"Point"}
 }

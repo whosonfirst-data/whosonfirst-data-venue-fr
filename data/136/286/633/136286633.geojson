@@ -2,13 +2,14 @@
   "id": 136286633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.68843,48.945576,2.68843,48.945576",
     "geom:latitude":48.945576,
     "geom:longitude":2.68843,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Allee Des Lilas Bois Fleuri 77410 Claye Souilly",
     "sg:classifiers":[
         {
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065403,
-        85633147,
         85683385,
-        85794641
+        85633147,
+        85794641,
+        102065403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136286633,
-    "wof:lastmodified":1449075252,
+    "wof:lastmodified":1466245918,
     "wof:name":"La Forestiere Du Bois Fleuri",
     "wof:parent_id":85794641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.68843,48.945576,2.68843,48.945576],
+  "bbox": [
+    2.68843,
+    48.945576,
+    2.68843,
+    48.945576
+],
   "geometry": {"coordinates":[2.68843,48.945576],"type":"Point"}
 }

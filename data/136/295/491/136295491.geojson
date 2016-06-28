@@ -2,13 +2,14 @@
   "id": 136295491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.321653,48.878494,2.321653,48.878494",
     "geom:latitude":48.878494,
     "geom:longitude":2.321653,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Bis Rue De Madrid 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873855,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295491,
-    "wof:lastmodified":1449075455,
+    "wof:lastmodified":1466246420,
     "wof:name":"Caisse Retraite Prevoyance Clercs",
     "wof:parent_id":85873855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.321653,48.878494,2.321653,48.878494],
+  "bbox": [
+    2.321653,
+    48.878494,
+    2.321653,
+    48.878494
+],
   "geometry": {"coordinates":[2.321653,48.878494],"type":"Point"}
 }

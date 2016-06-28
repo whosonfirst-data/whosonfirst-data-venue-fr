@@ -2,13 +2,14 @@
   "id": 152535715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.335908,48.886681,2.335908,48.886681",
     "geom:latitude":48.886681,
     "geom:longitude":2.335908,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Rue Tholoz\u00e9, 75018 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874011,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152535715,
-    "wof:lastmodified":1449045146,
+    "wof:lastmodified":1466250942,
     "wof:name":"Imprimerie Art\u00e9sienne S.a.",
     "wof:parent_id":85874011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.335908,48.886681,2.335908,48.886681],
+  "bbox": [
+    2.335908,
+    48.886681,
+    2.335908,
+    48.886681
+],
   "geometry": {"coordinates":[2.335908,48.886681],"type":"Point"}
 }

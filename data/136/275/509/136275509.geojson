@@ -2,13 +2,14 @@
   "id": 136275509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.407783,48.843918,2.407783,48.843918",
     "geom:latitude":48.843918,
     "geom:longitude":2.407783,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Du Niger",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136275509,
-    "wof:lastmodified":1449075320,
+    "wof:lastmodified":1466245254,
     "wof:name":"Cabinet Grandet",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.407783,48.843918,2.407783,48.843918],
+  "bbox": [
+    2.407783,
+    48.843918,
+    2.407783,
+    48.843918
+],
   "geometry": {"coordinates":[2.407783,48.843918],"type":"Point"}
 }

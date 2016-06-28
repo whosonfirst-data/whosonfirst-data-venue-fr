@@ -2,13 +2,14 @@
   "id": 136311997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297277,48.870613,2.297277,48.870613",
     "geom:latitude":48.870613,
     "geom:longitude":2.297277,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Av Marceau 75116 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136311997,
-    "wof:lastmodified":1449075220,
+    "wof:lastmodified":1466247474,
     "wof:name":"Boulangerie Patisserie Josephine",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297277,48.870613,2.297277,48.870613],
+  "bbox": [
+    2.297277,
+    48.870613,
+    2.297277,
+    48.870613
+],
   "geometry": {"coordinates":[2.297277,48.870613],"type":"Point"}
 }

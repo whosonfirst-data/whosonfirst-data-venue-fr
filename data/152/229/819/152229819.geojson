@@ -2,13 +2,14 @@
   "id": 152229819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.338959,48.870773,2.338959,48.870773",
     "geom:latitude":48.870773,
     "geom:longitude":2.338959,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 rue Saint-Marc 75002 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229819,
-    "wof:lastmodified":1449047983,
+    "wof:lastmodified":1466249847,
     "wof:name":"Saris Sa",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.338959,48.870773,2.338959,48.870773],
+  "bbox": [
+    2.338959,
+    48.870773,
+    2.338959,
+    48.870773
+],
   "geometry": {"coordinates":[2.338959,48.870773],"type":"Point"}
 }

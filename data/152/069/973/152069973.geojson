@@ -2,13 +2,14 @@
   "id": 152069973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308919,48.866611,2.308919,48.866611",
     "geom:latitude":48.866611,
     "geom:longitude":2.308919,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue Jean Goujon 75008 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873861,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152069973,
-    "wof:lastmodified":1449047217,
+    "wof:lastmodified":1466247550,
     "wof:name":"Assistance Logistique Organisation Sarl",
     "wof:parent_id":85873861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308919,48.866611,2.308919,48.866611],
+  "bbox": [
+    2.308919,
+    48.866611,
+    2.308919,
+    48.866611
+],
   "geometry": {"coordinates":[2.308919,48.866611],"type":"Point"}
 }

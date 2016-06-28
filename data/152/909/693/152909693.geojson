@@ -2,13 +2,14 @@
   "id": 152909693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.24424,48.883904,2.24424,48.883904",
     "geom:latitude":48.883904,
     "geom:longitude":2.24424,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62 R Jean Jaur\u00e8s 92800 Puteaux",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152909693,
-    "wof:lastmodified":1449047775,
+    "wof:lastmodified":1466252266,
     "wof:name":"Edimark Sa",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.24424,48.883904,2.24424,48.883904],
+  "bbox": [
+    2.24424,
+    48.883904,
+    2.24424,
+    48.883904
+],
   "geometry": {"coordinates":[2.24424,48.883904],"type":"Point"}
 }

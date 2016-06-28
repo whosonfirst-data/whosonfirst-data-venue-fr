@@ -2,13 +2,14 @@
   "id": 169084289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.600611,44.730312,-0.600611,44.730312",
     "geom:latitude":44.730312,
     "geom:longitude":-0.600611,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"115, Chemin de Bel Air - ZI la Rivi\u00e8re, 33850 L\u00e9ognan",
     "sg:city":"L\u00e9ognan",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169084289,
-    "wof:lastmodified":1449033036,
+    "wof:lastmodified":1466247640,
     "wof:name":"P.i.s.o. S.a. - Pesage Industriel Du Sud-ouest",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.600611,44.730312,-0.600611,44.730312],
+  "bbox": [
+    -0.600611,
+    44.730312,
+    -0.600611,
+    44.730312
+],
   "geometry": {"coordinates":[-0.600611,44.730312],"type":"Point"}
 }

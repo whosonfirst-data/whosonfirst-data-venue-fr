@@ -2,13 +2,14 @@
   "id": 152070415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.492194,43.583672,1.492194,43.583672",
     "geom:latitude":43.583672,
     "geom:longitude":1.492194,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 impasse Ren\u00e9 Couzinet 31500 Toulouse",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794599,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152070415,
-    "wof:lastmodified":1449046562,
+    "wof:lastmodified":1466245319,
     "wof:name":"Sudimplant Sa",
     "wof:parent_id":85794599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.492194,43.583672,1.492194,43.583672],
+  "bbox": [
+    1.492194,
+    43.583672,
+    1.492194,
+    43.583672
+],
   "geometry": {"coordinates":[1.492194,43.583672],"type":"Point"}
 }

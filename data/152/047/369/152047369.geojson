@@ -2,13 +2,14 @@
   "id": 152047369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.054633,50.638023,3.054633,50.638023",
     "geom:latitude":50.638023,
     "geom:longitude":3.054633,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Quai Du Wault 59800 Lille",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152047369,
-    "wof:lastmodified":1449047285,
+    "wof:lastmodified":1466245657,
     "wof:name":"Alliance Et Cie Sarl",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.054633,50.638023,3.054633,50.638023],
+  "bbox": [
+    3.054633,
+    50.638023,
+    3.054633,
+    50.638023
+],
   "geometry": {"coordinates":[3.054633,50.638023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152923835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.365313,48.876484,2.365313,48.876484",
     "geom:latitude":48.876484,
     "geom:longitude":2.365313,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Quai De Jemmapes 75010 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152923835,
-    "wof:lastmodified":1449048761,
+    "wof:lastmodified":1466252324,
     "wof:name":"Exacompta (ste) Sa",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.365313,48.876484,2.365313,48.876484],
+  "bbox": [
+    2.365313,
+    48.876484,
+    2.365313,
+    48.876484
+],
   "geometry": {"coordinates":[2.365313,48.876484],"type":"Point"}
 }

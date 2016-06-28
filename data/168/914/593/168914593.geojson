@@ -2,13 +2,14 @@
   "id": 168914593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.241572,43.744164,7.241572,43.744164",
     "geom:latitude":43.744164,
     "geom:longitude":7.241572,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Bd de Cessole - Les Borrom\u00e9es , 06100 Nice",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072439,
-        85633147,
         85683323,
-        85794649
+        85633147,
+        85794649,
+        102072439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":168914593,
-    "wof:lastmodified":1449028055,
+    "wof:lastmodified":1466247798,
     "wof:name":"E.di.co. S.a.r.l. - Etude Diffusion Et Commercialisation",
     "wof:parent_id":85794649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.241572,43.744164,7.241572,43.744164],
+  "bbox": [
+    7.241572,
+    43.744164,
+    7.241572,
+    43.744164
+],
   "geometry": {"coordinates":[7.241572,43.744164],"type":"Point"}
 }

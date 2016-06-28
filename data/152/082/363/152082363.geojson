@@ -2,13 +2,14 @@
   "id": 152082363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74983,48.58176,7.74983,48.58176",
     "geom:latitude":48.58176,
     "geom:longitude":7.74983,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Rue De La Rochelle 67026 Strasbourg Cedex",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152082363,
-    "wof:lastmodified":1449044410,
+    "wof:lastmodified":1466247638,
     "wof:name":"General Motors Strasbourg",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74983,48.58176,7.74983,48.58176],
+  "bbox": [
+    7.74983,
+    48.58176,
+    7.74983,
+    48.58176
+],
   "geometry": {"coordinates":[7.74983,48.58176],"type":"Point"}
 }

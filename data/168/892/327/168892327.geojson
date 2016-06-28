@@ -2,13 +2,14 @@
   "id": 168892327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.386363,43.532391,1.386363,43.532391",
     "geom:latitude":43.532391,
     "geom:longitude":1.386363,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Bois Vert",
     "sg:city":"Portet sur Garonne",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168892327,
-    "wof:lastmodified":1449027886,
+    "wof:lastmodified":1466247354,
     "wof:name":"D.a.d. S.a.r.l. -deux Ailes Distribution",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.386363,43.532391,1.386363,43.532391],
+  "bbox": [
+    1.386363,
+    43.532391,
+    1.386363,
+    43.532391
+],
   "geometry": {"coordinates":[1.386363,43.532391],"type":"Point"}
 }

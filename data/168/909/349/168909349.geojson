@@ -2,13 +2,14 @@
   "id": 168909349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.59363,47.152081,-1.59363,47.152081",
     "geom:latitude":47.152081,
     "geom:longitude":-1.59363,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Antoine de Saint Exup\u00e9ry - Domaine A\u00e9roportuaire D2A",
     "sg:city":"Saint Aignan Grandlieu",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168909349,
-    "wof:lastmodified":1449028372,
+    "wof:lastmodified":1466247647,
     "wof:name":"Drouin Europe S.a.",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.59363,47.152081,-1.59363,47.152081],
+  "bbox": [
+    -1.59363,
+    47.152081,
+    -1.59363,
+    47.152081
+],
   "geometry": {"coordinates":[-1.59363,47.152081],"type":"Point"}
 }

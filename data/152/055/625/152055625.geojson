@@ -2,13 +2,14 @@
   "id": 152055625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.340813,48.928818,2.340813,48.928818",
     "geom:latitude":48.928818,
     "geom:longitude":2.340813,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bd De La Lib\u00e9ration 93284 Saint-Denis",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152055625,
-    "wof:lastmodified":1449045345,
+    "wof:lastmodified":1466246362,
     "wof:name":"Socomari (ste Commerciale Maritime)",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.340813,48.928818,2.340813,48.928818],
+  "bbox": [
+    2.340813,
+    48.928818,
+    2.340813,
+    48.928818
+],
   "geometry": {"coordinates":[2.340813,48.928818],"type":"Point"}
 }

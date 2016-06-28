@@ -2,13 +2,14 @@
   "id": 136281745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3424,48.869164,2.3424,48.869164",
     "geom:latitude":48.869164,
     "geom:longitude":2.3424,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Rue Notre-Dame Des Victoires 75095 Paris Cedex 02",
     "sg:classifiers":[],
     "sg:orig_category":"Advertising Communication, advertising and the media Consulting Information services Marketing Print",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":136281745,
-    "wof:lastmodified":1449076059,
+    "wof:lastmodified":1466245603,
     "wof:name":"La Tribune",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3424,48.869164,2.3424,48.869164],
+  "bbox": [
+    2.3424,
+    48.869164,
+    2.3424,
+    48.869164
+],
   "geometry": {"coordinates":[2.3424,48.869164],"type":"Point"}
 }

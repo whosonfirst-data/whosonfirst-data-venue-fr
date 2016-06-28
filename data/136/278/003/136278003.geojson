@@ -2,13 +2,14 @@
   "id": 136278003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317626,48.878326,2.317626,48.878326",
     "geom:latitude":48.878326,
     "geom:longitude":2.317626,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rue Du G\u00e9n\u00e9ral Foy",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278003,
-    "wof:lastmodified":1449075664,
+    "wof:lastmodified":1466245234,
     "wof:name":"Invesco France (sa)",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317626,48.878326,2.317626,48.878326],
+  "bbox": [
+    2.317626,
+    48.878326,
+    2.317626,
+    48.878326
+],
   "geometry": {"coordinates":[2.317626,48.878326],"type":"Point"}
 }

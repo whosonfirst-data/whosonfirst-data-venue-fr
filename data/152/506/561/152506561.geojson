@@ -2,13 +2,14 @@
   "id": 152506561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76004,48.526989,7.76004,48.526989",
     "geom:latitude":48.526989,
     "geom:longitude":7.76004,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 12, 67026 Strasbourg C\u00e9dex^^180, Rte de la Ganzau, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152506561,
-    "wof:lastmodified":1449044397,
+    "wof:lastmodified":1466250820,
     "wof:name":"Grands Moulins Becker S.a.",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76004,48.526989,7.76004,48.526989],
+  "bbox": [
+    7.76004,
+    48.526989,
+    7.76004,
+    48.526989
+],
   "geometry": {"coordinates":[7.76004,48.526989],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152426661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.825742,48.65926,7.825742,48.65926",
     "geom:latitude":48.65926,
     "geom:longitude":7.825742,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Louis Pasteur - Z.A. du Golfe, 67610 La Wantzenau",
     "sg:city":"La Wantzenau",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152426661,
-    "wof:lastmodified":1449045291,
+    "wof:lastmodified":1466250613,
     "wof:name":"E.u.r.o. T.v.s. S.a. - Traitement Des Valeurs Et Services",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.825742,48.65926,7.825742,48.65926],
+  "bbox": [
+    7.825742,
+    48.65926,
+    7.825742,
+    48.65926
+],
   "geometry": {"coordinates":[7.825742,48.65926],"type":"Point"}
 }

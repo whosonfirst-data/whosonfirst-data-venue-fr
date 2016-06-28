@@ -2,13 +2,14 @@
   "id": 152220217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334342,48.881638,2.334342,48.881638",
     "geom:latitude":48.881638,
     "geom:longitude":2.334342,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Fontaine 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152220217,
-    "wof:lastmodified":1449048753,
+    "wof:lastmodified":1466249969,
     "wof:name":"Energie Espace B",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334342,48.881638,2.334342,48.881638],
+  "bbox": [
+    2.334342,
+    48.881638,
+    2.334342,
+    48.881638
+],
   "geometry": {"coordinates":[2.334342,48.881638],"type":"Point"}
 }

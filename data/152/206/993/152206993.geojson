@@ -2,13 +2,14 @@
   "id": 152206993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.560338,44.830048,-0.560338,44.830048",
     "geom:latitude":44.830048,
     "geom:longitude":-0.560338,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11-19 rue de Tauzia 33800 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897677,
+        85683243,
         85633147,
         101750773,
         102071707,
-        85683243
+        85897677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152206993,
-    "wof:lastmodified":1449047438,
+    "wof:lastmodified":1466249967,
     "wof:name":"Alimpex Sas",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.560338,44.830048,-0.560338,44.830048],
+  "bbox": [
+    -0.560338,
+    44.830048,
+    -0.560338,
+    44.830048
+],
   "geometry": {"coordinates":[-0.560338,44.830048],"type":"Point"}
 }

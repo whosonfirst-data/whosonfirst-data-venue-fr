@@ -2,13 +2,14 @@
   "id": 152049479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.927844,43.137699,5.927844,43.137699",
     "geom:latitude":43.137699,
     "geom:longitude":5.927844,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd Amiral Vence 83200 Toulon",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863281,
+        85683315,
         85633147,
         101750657,
         102072485,
-        85683315
+        85863281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152049479,
-    "wof:lastmodified":1449046592,
+    "wof:lastmodified":1466245806,
     "wof:name":"New Hotel Tour Blanche",
     "wof:parent_id":85863281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.927844,43.137699,5.927844,43.137699],
+  "bbox": [
+    5.927844,
+    43.137699,
+    5.927844,
+    43.137699
+],
   "geometry": {"coordinates":[5.927844,43.137699],"type":"Point"}
 }

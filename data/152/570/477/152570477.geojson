@@ -2,13 +2,14 @@
   "id": 152570477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.260882,48.846245,2.260882,48.846245",
     "geom:latitude":48.846245,
     "geom:longitude":2.260882,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Rue Erlanger, 75781 Paris C\u00e9dex 16",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152570477,
-    "wof:lastmodified":1449047037,
+    "wof:lastmodified":1466251064,
     "wof:name":"Laboratoire Urpac Astier S.a.s.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.260882,48.846245,2.260882,48.846245],
+  "bbox": [
+    2.260882,
+    48.846245,
+    2.260882,
+    48.846245
+],
   "geometry": {"coordinates":[2.260882,48.846245],"type":"Point"}
 }

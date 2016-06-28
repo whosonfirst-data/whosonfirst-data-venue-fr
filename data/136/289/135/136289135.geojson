@@ -2,13 +2,14 @@
   "id": 136289135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.187153,43.715748,7.187153,43.715748",
     "geom:latitude":43.715748,
     "geom:longitude":7.187153,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Route De Grenoble 06000 Nice",
     "sg:city":"Grenoble",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072439,
-        85633147,
         85683323,
-        85794649
+        85633147,
+        85794649,
+        102072439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136289135,
-    "wof:lastmodified":1449076034,
+    "wof:lastmodified":1466246049,
     "wof:name":"Les Jardineries Petruccioli",
     "wof:parent_id":85794649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.187153,43.715748,7.187153,43.715748],
+  "bbox": [
+    7.187153,
+    43.715748,
+    7.187153,
+    43.715748
+],
   "geometry": {"coordinates":[7.187153,43.715748],"type":"Point"}
 }

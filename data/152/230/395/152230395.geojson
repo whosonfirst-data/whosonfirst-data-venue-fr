@@ -2,13 +2,14 @@
   "id": 152230395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.271251,48.82682,2.271251,48.82682",
     "geom:latitude":48.82682,
     "geom:longitude":2.271251,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 R du Gou G\u00e9n F\u00e9lix Ebou\u00e9 92130 Issy les Moulineaux",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152230395,
-    "wof:lastmodified":1449047735,
+    "wof:lastmodified":1466249828,
     "wof:name":"Uni-editions S.a.",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.271251,48.82682,2.271251,48.82682],
+  "bbox": [
+    2.271251,
+    48.82682,
+    2.271251,
+    48.82682
+],
   "geometry": {"coordinates":[2.271251,48.82682],"type":"Point"}
 }

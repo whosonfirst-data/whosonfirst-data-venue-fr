@@ -2,13 +2,14 @@
   "id": 152829773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.874622,47.950245,1.874622,47.950245",
     "geom:latitude":47.950245,
     "geom:longitude":1.874622,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 119, 45409 Saran C\u00e9dex^^1771, Rue de Montoran, 45770 Saran",
     "sg:city":"Saran",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152829773,
-    "wof:lastmodified":1449048616,
+    "wof:lastmodified":1466251978,
     "wof:name":"Transports Ronceray S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.874622,47.950245,1.874622,47.950245],
+  "bbox": [
+    1.874622,
+    47.950245,
+    1.874622,
+    47.950245
+],
   "geometry": {"coordinates":[1.874622,47.950245],"type":"Point"}
 }

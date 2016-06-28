@@ -2,13 +2,14 @@
   "id": 153081751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.411731,43.622055,1.411731,43.622055",
     "geom:latitude":43.622055,
     "geom:longitude":1.411731,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"78, Chemin des 7 Deniers - Parc Club des 7 Deniers - B\u00e2t. 5, 31200 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397,
+        85794645,
         85794585
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153081751,
-    "wof:lastmodified":1449040476,
+    "wof:lastmodified":1466247284,
     "wof:name":"Atos S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.411731,43.622055,1.411731,43.622055],
+  "bbox": [
+    1.411731,
+    43.622055,
+    1.411731,
+    43.622055
+],
   "geometry": {"coordinates":[1.411731,43.622055],"type":"Point"}
 }

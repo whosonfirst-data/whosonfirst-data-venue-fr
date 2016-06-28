@@ -2,13 +2,14 @@
   "id": 152102369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.294649,48.914082,2.294649,48.914082",
     "geom:latitude":48.914082,
     "geom:longitude":2.294649,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"51 boulevard Voltaire 92600 ASNIERES SUR SEINE",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873993,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152102369,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248915,
     "wof:name":"Casanova France Sa",
     "wof:parent_id":85873993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.294649,48.914082,2.294649,48.914082],
+  "bbox": [
+    2.294649,
+    48.914082,
+    2.294649,
+    48.914082
+],
   "geometry": {"coordinates":[2.294649,48.914082],"type":"Point"}
 }

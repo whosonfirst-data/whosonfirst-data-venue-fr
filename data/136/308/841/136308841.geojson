@@ -2,13 +2,14 @@
   "id": 136308841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.152687,37.968842,-86.152687,37.968842",
     "geom:latitude":37.968842,
     "geom:longitude":-86.152687,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"BP 384, 40108 Dax, Dept 40",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85817175,
+        85688641,
         85633793,
         85947323,
         102085541,
-        85688641
+        85817175
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136308841,
-    "wof:lastmodified":1449076300,
+    "wof:lastmodified":1466247256,
     "wof:name":"Sogesud",
     "wof:parent_id":85817175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.152687,37.968842,-86.152687,37.968842],
+  "bbox": [
+    -86.152687,
+    37.968842,
+    -86.152687,
+    37.968842
+],
   "geometry": {"coordinates":[-86.152687,37.968842],"type":"Point"}
 }

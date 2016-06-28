@@ -2,13 +2,14 @@
   "id": 136303737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76897,48.577595,7.76897,48.577595",
     "geom:latitude":48.577595,
     "geom:longitude":7.76897,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 ave du G\u00e9n\u00e9ral de Gaulle; Strasbourg; 67000",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897711,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136303737,
-    "wof:lastmodified":1449074926,
+    "wof:lastmodified":1466247021,
     "wof:name":"Cr\u00e9dit Industriel D'alsace, De Lorraine Sa",
     "wof:parent_id":85897711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76897,48.577595,7.76897,48.577595],
+  "bbox": [
+    7.76897,
+    48.577595,
+    7.76897,
+    48.577595
+],
   "geometry": {"coordinates":[7.76897,48.577595],"type":"Point"}
 }

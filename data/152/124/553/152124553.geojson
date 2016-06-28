@@ -2,13 +2,14 @@
   "id": 152124553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369044,48.867683,2.369044,48.867683",
     "geom:latitude":48.867683,
     "geom:longitude":2.369044,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100 rue de la Folie M\u00e9ricourt 75011 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152124553,
-    "wof:lastmodified":1449048559,
+    "wof:lastmodified":1466249276,
     "wof:name":"Vijac France Sa",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369044,48.867683,2.369044,48.867683],
+  "bbox": [
+    2.369044,
+    48.867683,
+    2.369044,
+    48.867683
+],
   "geometry": {"coordinates":[2.369044,48.867683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153028009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.115887,49.492813,0.115887,49.492813",
     "geom:latitude":49.492813,
     "geom:longitude":0.115887,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"119 boulevard de Strasbourg 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153028009,
-    "wof:lastmodified":1449040615,
+    "wof:lastmodified":1466246832,
     "wof:name":"All Actions Assistance International Sarl",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.115887,49.492813,0.115887,49.492813],
+  "bbox": [
+    0.115887,
+    49.492813,
+    0.115887,
+    49.492813
+],
   "geometry": {"coordinates":[0.115887,49.492813],"type":"Point"}
 }

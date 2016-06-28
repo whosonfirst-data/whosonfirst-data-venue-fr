@@ -2,13 +2,14 @@
   "id": 152166097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.61632,44.854031,-0.61632,44.854031",
     "geom:latitude":44.854031,
     "geom:longitude":-0.61632,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rue Du 8 33200 Bordeaux Caud\u00e9ran",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152166097,
-    "wof:lastmodified":1449046882,
+    "wof:lastmodified":1466249501,
     "wof:name":"Kennametal France",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.61632,44.854031,-0.61632,44.854031],
+  "bbox": [
+    -0.61632,
+    44.854031,
+    -0.61632,
+    44.854031
+],
   "geometry": {"coordinates":[-0.61632,44.854031],"type":"Point"}
 }

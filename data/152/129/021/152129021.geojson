@@ -2,13 +2,14 @@
   "id": 152129021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.582275,48.831734,2.582275,48.831734",
     "geom:latitude":48.831734,
     "geom:longitude":2.582275,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Mes Richardets 3 Rue Des Aerostiers 93165 Noisy Le Grand",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152129021,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466249394,
     "wof:name":"Gaz Et Thermique Controle Sarl",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.582275,48.831734,2.582275,48.831734],
+  "bbox": [
+    2.582275,
+    48.831734,
+    2.582275,
+    48.831734
+],
   "geometry": {"coordinates":[2.582275,48.831734],"type":"Point"}
 }

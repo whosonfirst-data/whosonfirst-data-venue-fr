@@ -2,13 +2,14 @@
   "id": 152125959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.419323,48.849216,2.419323,48.849216",
     "geom:latitude":48.849216,
     "geom:longitude":2.419323,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37 rue de Lagny 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152125959,
-    "wof:lastmodified":1449048761,
+    "wof:lastmodified":1466249392,
     "wof:name":"Ets Mar\u00e9chaux Sa",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.419323,48.849216,2.419323,48.849216],
+  "bbox": [
+    2.419323,
+    48.849216,
+    2.419323,
+    48.849216
+],
   "geometry": {"coordinates":[2.419323,48.849216],"type":"Point"}
 }

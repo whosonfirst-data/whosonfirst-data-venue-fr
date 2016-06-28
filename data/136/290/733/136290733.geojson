@@ -2,13 +2,14 @@
   "id": 136290733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.750618,39.236721,-81.750618,39.236721",
     "geom:latitude":39.236721,
     "geom:longitude":-81.750618,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 rue des Campanules 77321 Torcy",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828921,
+        85688485,
         85633793,
         101712889,
         102084755,
-        85688485
+        85828921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136290733,
-    "wof:lastmodified":1449075482,
+    "wof:lastmodified":1466246202,
     "wof:name":"Ste Pour L'etude Et La Fabrication Electro Technique S.a.",
     "wof:parent_id":85828921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.750618,39.236721,-81.750618,39.236721],
+  "bbox": [
+    -81.750618,
+    39.236721,
+    -81.750618,
+    39.236721
+],
   "geometry": {"coordinates":[-81.750618,39.236721],"type":"Point"}
 }

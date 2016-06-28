@@ -2,13 +2,14 @@
   "id": 152399789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.611212,47.716755,1.611212,47.716755",
     "geom:latitude":47.716755,
     "geom:longitude":1.611212,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 11, 41220 Saint Laurent Nouan^^173, Rte de Blois, 41220 Saint Laurent Nouan",
     "sg:city":"Crouy-sur-Cosson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152399789,
-    "wof:lastmodified":1449045124,
+    "wof:lastmodified":1466250467,
     "wof:name":"Delattre - Levivier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.611212,47.716755,1.611212,47.716755],
+  "bbox": [
+    1.611212,
+    47.716755,
+    1.611212,
+    47.716755
+],
   "geometry": {"coordinates":[1.611212,47.716755],"type":"Point"}
 }

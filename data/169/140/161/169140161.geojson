@@ -2,13 +2,14 @@
   "id": 169140161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.896118,35.797451,-79.896118,35.797451",
     "geom:latitude":35.797451,
     "geom:longitude":-79.896118,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"La Mare Loisel 27350 Rougemontier",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813755,
+        85688773,
         85633793,
         85980739,
         102087787,
-        85688773
+        85813755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169140161,
-    "wof:lastmodified":1449033167,
+    "wof:lastmodified":1466248309,
     "wof:name":"S.r.c. S.a. - Soci\u00e9t\u00e9 Roumoise De Construction",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.896118,35.797451,-79.896118,35.797451],
+  "bbox": [
+    -79.896118,
+    35.797451,
+    -79.896118,
+    35.797451
+],
   "geometry": {"coordinates":[-79.896118,35.797451],"type":"Point"}
 }

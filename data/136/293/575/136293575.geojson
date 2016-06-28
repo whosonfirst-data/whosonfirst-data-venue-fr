@@ -2,13 +2,14 @@
   "id": 136293575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.08024,50.636189,3.08024,50.636189",
     "geom:latitude":50.636189,
     "geom:longitude":3.08024,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Rue Du Moulin 59800 Lille",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136293575,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466247502,
     "wof:name":"Banque Scalbert Dupont",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.08024,50.636189,3.08024,50.636189],
+  "bbox": [
+    3.08024,
+    50.636189,
+    3.08024,
+    50.636189
+],
   "geometry": {"coordinates":[3.08024,50.636189],"type":"Point"}
 }

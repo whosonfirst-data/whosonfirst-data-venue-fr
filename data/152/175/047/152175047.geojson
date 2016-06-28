@@ -2,13 +2,14 @@
   "id": 152175047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329231,32.748508,-97.329231,32.748508",
     "geom:latitude":32.748508,
     "geom:longitude":-97.329231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Chem Du Four A Chaux Za Des Violettes 76161 Darnetal",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867235,
+        85688753,
         85633793,
         101724443,
         102083201,
-        85688753
+        85867235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152175047,
-    "wof:lastmodified":1449047503,
+    "wof:lastmodified":1466249630,
     "wof:name":"Amelux",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.329231,32.748508,-97.329231,32.748508],
-  "geometry": {"coordinates":[-97.329231,32.748508],"type":"Point"}
+  "bbox": [
+    -97.329231,
+    32.748508,
+    -97.329231,
+    32.748508
+],
+  "geometry": {"coordinates":[-97.32923099999999,32.748508],"type":"Point"}
 }

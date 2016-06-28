@@ -2,13 +2,14 @@
   "id": 168964397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32848,48.877491,2.32848,48.877491",
     "geom:latitude":48.877491,
     "geom:longitude":2.32848,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Rue de Londres, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873849,
-        102068357
+        85873871,
+        102068357,
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168964397,
-    "wof:lastmodified":1449028376,
+    "wof:lastmodified":1466248460,
     "wof:name":"Frost Et Sullivan L.t.d.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32848,48.877491,2.32848,48.877491],
+  "bbox": [
+    2.32848,
+    48.877491,
+    2.32848,
+    48.877491
+],
   "geometry": {"coordinates":[2.32848,48.877491],"type":"Point"}
 }

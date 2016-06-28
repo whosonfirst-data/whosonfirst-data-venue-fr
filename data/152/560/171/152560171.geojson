@@ -2,13 +2,14 @@
   "id": 152560171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.291057,43.709461,7.291057,43.709461",
     "geom:latitude":43.709461,
     "geom:longitude":7.291057,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 4129, 06303 Nice C\u00e9dex 4^^17, Rue Guiglionda de Sainte Agathe, 06300 Nice",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152560171,
-    "wof:lastmodified":1449047826,
+    "wof:lastmodified":1466251030,
     "wof:name":"Kon\u00e9 S.a.",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.291057,43.709461,7.291057,43.709461],
+  "bbox": [
+    7.291057,
+    43.709461,
+    7.291057,
+    43.709461
+],
   "geometry": {"coordinates":[7.291057,43.709461],"type":"Point"}
 }

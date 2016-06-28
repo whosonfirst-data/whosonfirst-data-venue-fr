@@ -2,13 +2,14 @@
   "id": 136301171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317116,48.859787,2.317116,48.859787",
     "geom:latitude":48.859787,
     "geom:longitude":2.317116,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 rue St-Dominique, 75700 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301171,
-    "wof:lastmodified":1449075240,
+    "wof:lastmodified":1466246731,
     "wof:name":"Caisse Fran\u00e7aise De D\u00e9veloppement Industriel",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317116,48.859787,2.317116,48.859787],
+  "bbox": [
+    2.317116,
+    48.859787,
+    2.317116,
+    48.859787
+],
   "geometry": {"coordinates":[2.317116,48.859787],"type":"Point"}
 }

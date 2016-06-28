@@ -2,13 +2,14 @@
   "id": 169055993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.355976,48.835293,2.355976,48.835293",
     "geom:latitude":48.835293,
     "geom:longitude":2.355976,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Rue du Banquier, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873917,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169055993,
-    "wof:lastmodified":1449033428,
+    "wof:lastmodified":1466247501,
     "wof:name":"Mathix S.a.",
     "wof:parent_id":85873917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.355976,48.835293,2.355976,48.835293],
+  "bbox": [
+    2.355976,
+    48.835293,
+    2.355976,
+    48.835293
+],
   "geometry": {"coordinates":[2.355976,48.835293],"type":"Point"}
 }

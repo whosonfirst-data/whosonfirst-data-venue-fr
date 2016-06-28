@@ -2,13 +2,14 @@
   "id": 152054887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.495301,47.265877,-1.495301,47.265877",
     "geom:latitude":47.265877,
     "geom:longitude":-1.495301,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue De La Metallurgie 44470 Carquefou",
     "sg:classifiers":[
         {
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152054887,
-    "wof:lastmodified":1449046481,
+    "wof:lastmodified":1466246318,
     "wof:name":"L'air Liquide Sa A Directoire Et Conseil De Surveillance",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.495301,47.265877,-1.495301,47.265877],
+  "bbox": [
+    -1.495301,
+    47.265877,
+    -1.495301,
+    47.265877
+],
   "geometry": {"coordinates":[-1.495301,47.265877],"type":"Point"}
 }

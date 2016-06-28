@@ -2,13 +2,14 @@
   "id": 152909895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314532,48.875927,2.314532,48.875927",
     "geom:latitude":48.875927,
     "geom:longitude":2.314532,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Av De Messine 75008 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152909895,
-    "wof:lastmodified":1449047777,
+    "wof:lastmodified":1466252408,
     "wof:name":"Edition Presse Magazines 2000",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314532,48.875927,2.314532,48.875927],
+  "bbox": [
+    2.314532,
+    48.875927,
+    2.314532,
+    48.875927
+],
   "geometry": {"coordinates":[2.314532,48.875927],"type":"Point"}
 }

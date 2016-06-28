@@ -2,13 +2,14 @@
   "id": 136314321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.22484,48.835899,2.22484,48.835899",
     "geom:latitude":48.835899,
     "geom:longitude":2.22484,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59-60 Quai Alphonse Le Gallo 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136314321,
-    "wof:lastmodified":1449076207,
+    "wof:lastmodified":1466245506,
     "wof:name":"Transiciel Groupe Sa",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.22484,48.835899,2.22484,48.835899],
+  "bbox": [
+    2.22484,
+    48.835899,
+    2.22484,
+    48.835899
+],
   "geometry": {"coordinates":[2.22484,48.835899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152417545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320105,48.818424,2.320105,48.818424",
     "geom:latitude":48.818424,
     "geom:longitude":2.320105,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. TSA 41001",
     "sg:city":"Montrouge C\u00e9dex",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152417545,
-    "wof:lastmodified":1449046197,
+    "wof:lastmodified":1466250498,
     "wof:name":"Dynapost S.a.",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320105,48.818424,2.320105,48.818424],
+  "bbox": [
+    2.320105,
+    48.818424,
+    2.320105,
+    48.818424
+],
   "geometry": {"coordinates":[2.320105,48.818424],"type":"Point"}
 }

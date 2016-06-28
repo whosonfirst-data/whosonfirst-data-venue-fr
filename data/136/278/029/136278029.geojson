@@ -2,13 +2,14 @@
   "id": 136278029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.757128,48.564404,7.757128,48.564404",
     "geom:latitude":48.564404,
     "geom:longitude":7.757128,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Avenue Leon Dacheux",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278029,
-    "wof:lastmodified":1449075662,
+    "wof:lastmodified":1466245239,
     "wof:name":"Jacques Barthelemy Et Associes",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.757128,48.564404,7.757128,48.564404],
+  "bbox": [
+    7.757128,
+    48.564404,
+    7.757128,
+    48.564404
+],
   "geometry": {"coordinates":[7.757128,48.564404],"type":"Point"}
 }

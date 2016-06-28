@@ -2,13 +2,14 @@
   "id": 152258689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.216698,19.3333,-99.216698,19.3333",
     "geom:latitude":19.3333,
     "geom:longitude":-99.216698,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 10297, 95704 Roissy Charles de Gaulle C\u00e9dex^^24, Rue du Trait d'Union - Zone Fr\u00eat 2 - B\u00e2t. 3700",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85883755,
+        85686515,
         85633293,
         101991115,
         102073741,
-        85686515
+        85883755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152258689,
-    "wof:lastmodified":1449047971,
+    "wof:lastmodified":1466249944,
     "wof:name":"Air Jet S.a.",
     "wof:parent_id":85883755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-99.216698,19.3333,-99.216698,19.3333],
-  "geometry": {"coordinates":[-99.216698,19.3333],"type":"Point"}
+  "bbox": [
+    -99.216698,
+    19.3333,
+    -99.216698,
+    19.3333
+],
+  "geometry": {"coordinates":[-99.21669799999999,19.3333],"type":"Point"}
 }

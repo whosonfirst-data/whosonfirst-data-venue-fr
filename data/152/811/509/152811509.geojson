@@ -2,13 +2,14 @@
   "id": 152811509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.303522,48.874496,2.303522,48.874496",
     "geom:latitude":48.874496,
     "geom:longitude":2.303522,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11/13, Av. Friedland, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152811509,
-    "wof:lastmodified":1449046531,
+    "wof:lastmodified":1466251924,
     "wof:name":"Tam Airlines",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.303522,48.874496,2.303522,48.874496],
+  "bbox": [
+    2.303522,
+    48.874496,
+    2.303522,
+    48.874496
+],
   "geometry": {"coordinates":[2.303522,48.874496],"type":"Point"}
 }

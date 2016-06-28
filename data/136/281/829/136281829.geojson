@@ -2,13 +2,14 @@
   "id": 136281829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.380698,48.858337,2.380698,48.858337",
     "geom:latitude":48.858337,
     "geom:longitude":2.380698,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Place L\u00e9on Blum 75011 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136281829,
-    "wof:lastmodified":1449076058,
+    "wof:lastmodified":1466245621,
     "wof:name":"Cheteshope",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.380698,48.858337,2.380698,48.858337],
+  "bbox": [
+    2.380698,
+    48.858337,
+    2.380698,
+    48.858337
+],
   "geometry": {"coordinates":[2.380698,48.858337],"type":"Point"}
 }

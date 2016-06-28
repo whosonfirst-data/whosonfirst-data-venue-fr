@@ -2,13 +2,14 @@
   "id": 152214191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.714703,48.508076,7.714703,48.508076",
     "geom:latitude":48.508076,
     "geom:longitude":7.714703,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Joseph-Marie Jacquard 67400 Illkirch Graffenstaden",
     "sg:city":"Geispolsheim",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152214191,
-    "wof:lastmodified":1449048772,
+    "wof:lastmodified":1466249767,
     "wof:name":"Emey Sa",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.714703,48.508076,7.714703,48.508076],
+  "bbox": [
+    7.714703,
+    48.508076,
+    7.714703,
+    48.508076
+],
   "geometry": {"coordinates":[7.714703,48.508076],"type":"Point"}
 }

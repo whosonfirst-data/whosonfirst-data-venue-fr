@@ -2,13 +2,14 @@
   "id": 152104549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.547829,44.807652,-0.547829,44.807652",
     "geom:latitude":44.807652,
     "geom:longitude":-0.547829,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 R De La R\u00e9publique 33130 B\u00e8gles",
     "sg:city":"B\u00e8gles",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152104549,
-    "wof:lastmodified":1449046208,
+    "wof:lastmodified":1466248840,
     "wof:name":"Saemcib",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.547829,44.807652,-0.547829,44.807652],
+  "bbox": [
+    -0.547829,
+    44.807652,
+    -0.547829,
+    44.807652
+],
   "geometry": {"coordinates":[-0.547829,44.807652],"type":"Point"}
 }

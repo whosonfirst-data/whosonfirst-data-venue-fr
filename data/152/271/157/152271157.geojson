@@ -2,13 +2,14 @@
   "id": 152271157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33337,48.869984,2.33337,48.869984",
     "geom:latitude":48.869984,
     "geom:longitude":2.33337,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Rue Louis Legrand, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152271157,
-    "wof:lastmodified":1449046725,
+    "wof:lastmodified":1466249980,
     "wof:name":"Apifrance S.a.s.",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33337,48.869984,2.33337,48.869984],
+  "bbox": [
+    2.33337,
+    48.869984,
+    2.33337,
+    48.869984
+],
   "geometry": {"coordinates":[2.33337,48.869984],"type":"Point"}
 }

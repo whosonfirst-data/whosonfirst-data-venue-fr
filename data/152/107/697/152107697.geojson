@@ -2,13 +2,14 @@
   "id": 152107697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.392619,48.838387,2.392619,48.838387",
     "geom:latitude":48.838387,
     "geom:longitude":2.392619,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 R Taine 75012 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152107697,
-    "wof:lastmodified":1449044310,
+    "wof:lastmodified":1466249325,
     "wof:name":"M. Akoun Sidney",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.392619,48.838387,2.392619,48.838387],
+  "bbox": [
+    2.392619,
+    48.838387,
+    2.392619,
+    48.838387
+],
   "geometry": {"coordinates":[2.392619,48.838387],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152569231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.587957,44.779606,-0.587957,44.779606",
     "geom:latitude":44.779606,
     "geom:longitude":-0.587957,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 184, 33884 Villenave d'Ornon C\u00e9dex^^ZI Chanteloiseau, 33140 Villenave d'Ornon",
     "sg:city":"Cadaujac",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152569231,
-    "wof:lastmodified":1449048730,
+    "wof:lastmodified":1466251050,
     "wof:name":"Labenne Rougier S.n.c.",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.587957,44.779606,-0.587957,44.779606],
+  "bbox": [
+    -0.587957,
+    44.779606,
+    -0.587957,
+    44.779606
+],
   "geometry": {"coordinates":[-0.587957,44.779606],"type":"Point"}
 }

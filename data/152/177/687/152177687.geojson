@@ -2,13 +2,14 @@
   "id": 152177687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.331061,48.808815,2.331061,48.808815",
     "geom:latitude":48.808815,
     "geom:longitude":2.331061,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Avenue Laplace 94110 Arcueil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152177687,
-    "wof:lastmodified":1449048898,
+    "wof:lastmodified":1466249657,
     "wof:name":"Delafosse Odette",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.331061,48.808815,2.331061,48.808815],
+  "bbox": [
+    2.331061,
+    48.808815,
+    2.331061,
+    48.808815
+],
   "geometry": {"coordinates":[2.331061,48.808815],"type":"Point"}
 }

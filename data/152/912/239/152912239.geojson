@@ -2,13 +2,14 @@
   "id": 152912239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.262161,48.82151,2.262161,48.82151",
     "geom:latitude":48.82151,
     "geom:longitude":2.262161,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Avenue Victor Cresson 92130 Issy Les Moulineaux",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152912239,
-    "wof:lastmodified":1449046580,
+    "wof:lastmodified":1466252273,
     "wof:name":"Gs Presse Communication",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.262161,48.82151,2.262161,48.82151],
+  "bbox": [
+    2.262161,
+    48.82151,
+    2.262161,
+    48.82151
+],
   "geometry": {"coordinates":[2.262161,48.82151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152058121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.742561,30.26716,-97.742561,30.26716",
     "geom:latitude":30.26716,
     "geom:longitude":-97.742561,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Av Europe 78701 Chatou Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893515,
+        85688753,
         85633793,
         101724577,
         102081935,
-        85688753
+        85893515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152058121,
-    "wof:lastmodified":1449044983,
+    "wof:lastmodified":1466246652,
     "wof:name":"Laboratoires Mayoly Spindler",
     "wof:parent_id":85893515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.742561,30.26716,-97.742561,30.26716],
-  "geometry": {"coordinates":[-97.742561,30.26716],"type":"Point"}
+  "bbox": [
+    -97.742561,
+    30.26716,
+    -97.742561,
+    30.26716
+],
+  "geometry": {"coordinates":[-97.74256099999999,30.26716],"type":"Point"}
 }

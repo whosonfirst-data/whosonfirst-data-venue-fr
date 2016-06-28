@@ -2,13 +2,14 @@
   "id": 152641185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.26332,48.841877,2.26332,48.841877",
     "geom:latitude":48.841877,
     "geom:longitude":2.26332,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46, Bd Exelmans, 75016 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152641185,
-    "wof:lastmodified":1449047803,
+    "wof:lastmodified":1466251301,
     "wof:name":"New Distribution Systems France S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.26332,48.841877,2.26332,48.841877],
+  "bbox": [
+    2.26332,
+    48.841877,
+    2.26332,
+    48.841877
+],
   "geometry": {"coordinates":[2.26332,48.841877],"type":"Point"}
 }

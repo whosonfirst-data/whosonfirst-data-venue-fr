@@ -2,13 +2,14 @@
   "id": 152588731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.605911,29.553795,-90.605911,29.553795",
     "geom:latitude":29.553795,
     "geom:longitude":-90.605911,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 107, 26501 Bourg l\u00e8s Valence C\u00e9dex^^640, Rue Aristide Berg\u00e8s - Z.I. des Marcerolles, 26500 Bour",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803459,
+        85688735,
         85633793,
         85948403,
         102081923,
-        85688735
+        85803459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152588731,
-    "wof:lastmodified":1449048012,
+    "wof:lastmodified":1466251140,
     "wof:name":"Leybold S.a.",
     "wof:parent_id":85803459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.605911,29.553795,-90.605911,29.553795],
-  "geometry": {"coordinates":[-90.605911,29.553795],"type":"Point"}
+  "bbox": [
+    -90.605911,
+    29.553795,
+    -90.605911,
+    29.553795
+],
+  "geometry": {"coordinates":[-90.60591100000001,29.553795],"type":"Point"}
 }

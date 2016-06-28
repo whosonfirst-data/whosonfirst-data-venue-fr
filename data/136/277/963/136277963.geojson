@@ -2,13 +2,14 @@
   "id": 136277963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.741225,48.588207,7.741225,48.588207",
     "geom:latitude":48.588207,
     "geom:longitude":7.741225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 place des Halles Tour Europe",
     "sg:city":"Strasbourg C\u00e9dex",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277963,
-    "wof:lastmodified":1449075060,
+    "wof:lastmodified":1466245408,
     "wof:name":"Hsd Ernst & Young",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.741225,48.588207,7.741225,48.588207],
+  "bbox": [
+    7.741225,
+    48.588207,
+    7.741225,
+    48.588207
+],
   "geometry": {"coordinates":[7.741225,48.588207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152046993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.435812,48.68541,2.435812,48.68541",
     "geom:latitude":48.68541,
     "geom:longitude":2.435812,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue De L'Industrie 91210 Draveil",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046993,
-    "wof:lastmodified":1449046861,
+    "wof:lastmodified":1466245705,
     "wof:name":"Senart Enseignement",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.435812,48.68541,2.435812,48.68541],
+  "bbox": [
+    2.435812,
+    48.68541,
+    2.435812,
+    48.68541
+],
   "geometry": {"coordinates":[2.435812,48.68541],"type":"Point"}
 }

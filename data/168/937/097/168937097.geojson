@@ -2,13 +2,14 @@
   "id": 168937097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.414954,43.549202,1.414954,43.549202",
     "geom:latitude":43.549202,
     "geom:longitude":1.414954,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Av. de Larieu, 31100 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":168937097,
-    "wof:lastmodified":1449027921,
+    "wof:lastmodified":1466248089,
     "wof:name":"Etablissements Gantois S.a.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.414954,43.549202,1.414954,43.549202],
+  "bbox": [
+    1.414954,
+    43.549202,
+    1.414954,
+    43.549202
+],
   "geometry": {"coordinates":[1.414954,43.549202],"type":"Point"}
 }

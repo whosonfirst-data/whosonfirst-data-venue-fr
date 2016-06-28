@@ -2,13 +2,14 @@
   "id": 152204127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.709226,49.738899,4.709226,49.738899",
     "geom:latitude":49.738899,
     "geom:longitude":4.709226,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Paulin Richier 08000 Charleville M\u00e9zi\u00e8res",
     "sg:city":"Charleville-M\u00e9zi\u00e8res",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152204127,
-    "wof:lastmodified":1449049032,
+    "wof:lastmodified":1466249721,
     "wof:name":"Leroy Merlin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.709226,49.738899,4.709226,49.738899],
+  "bbox": [
+    4.709226,
+    49.738899,
+    4.709226,
+    49.738899
+],
   "geometry": {"coordinates":[4.709226,49.738899],"type":"Point"}
 }

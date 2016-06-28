@@ -2,13 +2,14 @@
   "id": 152173429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.391796,43.612408,1.391796,43.612408",
     "geom:latitude":43.612408,
     "geom:longitude":1.391796,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 impasse de la Flamb\u00e8re 31300 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Menswear, Suits, Trousers, Sports Jackets",
@@ -18,11 +19,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152173429,
-    "wof:lastmodified":1449045198,
+    "wof:lastmodified":1466249649,
     "wof:name":"Marik Sarl",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.391796,43.612408,1.391796,43.612408],
+  "bbox": [
+    1.391796,
+    43.612408,
+    1.391796,
+    43.612408
+],
   "geometry": {"coordinates":[1.391796,43.612408],"type":"Point"}
 }

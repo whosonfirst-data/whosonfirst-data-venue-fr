@@ -2,13 +2,14 @@
   "id": 152350733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.15757,40.89854,-74.15757,40.89854",
     "geom:latitude":40.89854,
     "geom:longitude":-74.15757,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"340, Rue Blaise Pascal - ZI la Savine, 07503 Guilherand Granges C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879789,
+        85688607,
         85633793,
         85975481,
         102081133,
-        85688607
+        85879789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152350733,
-    "wof:lastmodified":1449046659,
+    "wof:lastmodified":1466250277,
     "wof:name":"Cartonnage Et Imprimerie Vallon Et Mayousse S.a.",
     "wof:parent_id":85879789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.15757,40.89854,-74.15757,40.89854],
-  "geometry": {"coordinates":[-74.15757,40.89854],"type":"Point"}
+  "bbox": [
+    -74.15757,
+    40.89854,
+    -74.15757,
+    40.89854
+],
+  "geometry": {"coordinates":[-74.15757000000001,40.89854],"type":"Point"}
 }

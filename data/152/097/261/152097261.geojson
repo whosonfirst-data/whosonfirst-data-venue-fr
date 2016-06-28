@@ -2,13 +2,14 @@
   "id": 152097261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.463993,48.429287,-4.463993,48.429287",
     "geom:latitude":48.429287,
     "geom:longitude":-4.463993,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue Paul Sabatier 29850 GOUESNOU",
     "sg:city":"Gouesnou",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152097261,
-    "wof:lastmodified":1449046129,
+    "wof:lastmodified":1466248528,
     "wof:name":"Pelleau S.a.",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.463993,48.429287,-4.463993,48.429287],
+  "bbox": [
+    -4.463993,
+    48.429287,
+    -4.463993,
+    48.429287
+],
   "geometry": {"coordinates":[-4.463993,48.429287],"type":"Point"}
 }

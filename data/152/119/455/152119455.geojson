@@ -2,13 +2,14 @@
   "id": 152119455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.4847,43.783379,7.4847,43.783379",
     "geom:latitude":43.783379,
     "geom:longitude":7.4847,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 avenue des Acacias 06500 Menton",
     "sg:classifiers":[],
     "sg:orig_category":"Kits, Electronic",
@@ -16,10 +17,10 @@
     "sg:phone":"+33 4 92 41 75 75",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152119455,
-    "wof:lastmodified":1449047604,
+    "wof:lastmodified":1466249221,
     "wof:name":"Comsystems International Sarl",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.4847,43.783379,7.4847,43.783379],
+  "bbox": [
+    7.4847,
+    43.783379,
+    7.4847,
+    43.783379
+],
   "geometry": {"coordinates":[7.4847,43.783379],"type":"Point"}
 }

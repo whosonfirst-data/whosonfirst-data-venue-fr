@@ -2,13 +2,14 @@
   "id": 153035207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.452461,44.664478,-73.452461,44.664478",
     "geom:latitude":44.664478,
     "geom:longitude":-73.452461,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc Du Chateau de Florans; La Roque D'Antheron",
     "sg:classifiers":[
         {
@@ -21,10 +22,10 @@
     "sg:province":"New York",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081797,
-        85633793,
         85688543,
-        85811349
+        85633793,
+        85811349,
+        102081797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153035207,
-    "wof:lastmodified":1449040729,
+    "wof:lastmodified":1466247541,
     "wof:name":"Festival De Piano De La Roque D'antheron",
     "wof:parent_id":85811349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.452461,44.664478,-73.452461,44.664478],
+  "bbox": [
+    -73.452461,
+    44.664478,
+    -73.452461,
+    44.664478
+],
   "geometry": {"coordinates":[-73.452461,44.664478],"type":"Point"}
 }

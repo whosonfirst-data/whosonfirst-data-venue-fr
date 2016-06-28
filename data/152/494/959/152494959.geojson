@@ -2,13 +2,14 @@
   "id": 152494959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55206,47.199429,-1.55206,47.199429",
     "geom:latitude":47.199429,
     "geom:longitude":-1.55206,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 60219, 44202 Nantes C\u00e9dex 02^^6, Rue Alain Colas, 44200 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152494959,
-    "wof:lastmodified":1449048416,
+    "wof:lastmodified":1466250789,
     "wof:name":"G.t.b. Bouyer-duchemin S.n.c. - Grands Travaux De Bretagne",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55206,47.199429,-1.55206,47.199429],
+  "bbox": [
+    -1.55206,
+    47.199429,
+    -1.55206,
+    47.199429
+],
   "geometry": {"coordinates":[-1.55206,47.199429],"type":"Point"}
 }

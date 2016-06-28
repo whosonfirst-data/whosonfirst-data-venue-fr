@@ -2,13 +2,14 @@
   "id": 152780637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.331433,47.586849,1.331433,47.586849",
     "geom:latitude":47.586849,
     "geom:longitude":1.331433,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 29001, 41029 Blois C\u00e9dex^^5, Rue Jules Berthonneau, 41000 Blois",
     "sg:city":"Blois",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152780637,
-    "wof:lastmodified":1449047757,
+    "wof:lastmodified":1466251812,
     "wof:name":"Socoloir S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.331433,47.586849,1.331433,47.586849],
+  "bbox": [
+    1.331433,
+    47.586849,
+    1.331433,
+    47.586849
+],
   "geometry": {"coordinates":[1.331433,47.586849],"type":"Point"}
 }

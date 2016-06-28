@@ -2,13 +2,14 @@
   "id": 152093339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.048462,38.791859,-76.048462,38.791859",
     "geom:latitude":38.791859,
     "geom:longitude":-76.048462,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Boulevard De Beauregard 21601 LONGVIC CEDEX",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85812685,
+        85688501,
         85633793,
         85949443,
         102082179,
-        85688501
+        85812685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152093339,
-    "wof:lastmodified":1449044297,
+    "wof:lastmodified":1466248383,
     "wof:name":"Sa Grandes Minoteries Dijonnaises",
     "wof:parent_id":85812685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.048462,38.791859,-76.048462,38.791859],
+  "bbox": [
+    -76.048462,
+    38.791859,
+    -76.048462,
+    38.791859
+],
   "geometry": {"coordinates":[-76.048462,38.791859],"type":"Point"}
 }

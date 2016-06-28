@@ -2,13 +2,14 @@
   "id": 152127179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.385742,43.566711,1.385742,43.566711",
     "geom:latitude":43.566711,
     "geom:longitude":1.385742,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 avenue du G\u00e9n\u00e9ral Decroute 31100 Toulouse",
     "sg:classifiers":[
         {
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152127179,
-    "wof:lastmodified":1449048549,
+    "wof:lastmodified":1466249400,
     "wof:name":"C2e Conseils Expertises En Entreprise",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.385742,43.566711,1.385742,43.566711],
+  "bbox": [
+    1.385742,
+    43.566711,
+    1.385742,
+    43.566711
+],
   "geometry": {"coordinates":[1.385742,43.566711],"type":"Point"}
 }

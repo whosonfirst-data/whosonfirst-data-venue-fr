@@ -2,13 +2,14 @@
   "id": 152876147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.310426,48.869659,2.310426,48.869659",
     "geom:latitude":48.869659,
     "geom:longitude":2.310426,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rond Point des Champs Elys\u00e9es 75008 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152876147,
-    "wof:lastmodified":1449045241,
+    "wof:lastmodified":1466252137,
     "wof:name":"Inter Parfums S.a.",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.310426,48.869659,2.310426,48.869659],
+  "bbox": [
+    2.310426,
+    48.869659,
+    2.310426,
+    48.869659
+],
   "geometry": {"coordinates":[2.310426,48.869659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136303273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.302366,48.839767,2.302366,48.839767",
     "geom:latitude":48.839767,
     "geom:longitude":2.302366,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"273 rue de Vaugirard; Paris; 75015",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873947,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136303273,
-    "wof:lastmodified":1449074927,
+    "wof:lastmodified":1466246926,
     "wof:name":"Cr\u00e9dit Commercial De France",
     "wof:parent_id":85873947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.302366,48.839767,2.302366,48.839767],
+  "bbox": [
+    2.302366,
+    48.839767,
+    2.302366,
+    48.839767
+],
   "geometry": {"coordinates":[2.302366,48.839767],"type":"Point"}
 }

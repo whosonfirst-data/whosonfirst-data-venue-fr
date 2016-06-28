@@ -2,13 +2,14 @@
   "id": 152116457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.373042,48.843758,2.373042,48.843758",
     "geom:latitude":48.843758,
     "geom:longitude":2.373042,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Rue De Bercy 75012 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873899,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116457,
-    "wof:lastmodified":1449044979,
+    "wof:lastmodified":1466249340,
     "wof:name":"Hotline Sa",
     "wof:parent_id":85873899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.373042,48.843758,2.373042,48.843758],
+  "bbox": [
+    2.373042,
+    48.843758,
+    2.373042,
+    48.843758
+],
   "geometry": {"coordinates":[2.373042,48.843758],"type":"Point"}
 }

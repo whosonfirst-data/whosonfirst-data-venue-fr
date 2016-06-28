@@ -2,13 +2,14 @@
   "id": 152945041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.313603,48.831383,2.313603,48.831383",
     "geom:latitude":48.831383,
     "geom:longitude":2.313603,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"141/145 rue Raymond Losserand 75014 Paris",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152945041,
-    "wof:lastmodified":1449044692,
+    "wof:lastmodified":1466252379,
     "wof:name":"Sopap Sa",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.313603,48.831383,2.313603,48.831383],
+  "bbox": [
+    2.313603,
+    48.831383,
+    2.313603,
+    48.831383
+],
   "geometry": {"coordinates":[2.313603,48.831383],"type":"Point"}
 }

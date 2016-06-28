@@ -2,13 +2,14 @@
   "id": 152131821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.436163,48.713383,2.436163,48.713383",
     "geom:latitude":48.713383,
     "geom:longitude":2.436163,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rue Mercure 91230 Montgeron",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131821,
-    "wof:lastmodified":1449045697,
+    "wof:lastmodified":1466249451,
     "wof:name":"Applications De La Vibration (les) Sa",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.436163,48.713383,2.436163,48.713383],
+  "bbox": [
+    2.436163,
+    48.713383,
+    2.436163,
+    48.713383
+],
   "geometry": {"coordinates":[2.436163,48.713383],"type":"Point"}
 }

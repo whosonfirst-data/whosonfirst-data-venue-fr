@@ -2,13 +2,14 @@
   "id": 169247363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317596,48.836347,2.317596,48.836347",
     "geom:latitude":48.836347,
     "geom:longitude":2.317596,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, place de S\u00e9oul",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -26,11 +27,11 @@
     "sg:website":"http://www.explolab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873943,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169247363,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249505,
     "wof:name":"ExploLab",
     "wof:parent_id":85873943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317596,48.836347,2.317596,48.836347],
+  "bbox": [
+    2.317596,
+    48.836347,
+    2.317596,
+    48.836347
+],
   "geometry": {"coordinates":[2.317596,48.836347],"type":"Point"}
 }

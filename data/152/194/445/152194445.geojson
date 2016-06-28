@@ -2,13 +2,14 @@
   "id": 152194445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54607,47.184738,-1.54607,47.184738",
     "geom:latitude":47.184738,
     "geom:longitude":-1.54607,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue De L'Ile Mace 44401 Reze Cedex",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897703,
+        85683233,
         85633147,
         101750933,
         102072153,
-        85683233
+        85897703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152194445,
-    "wof:lastmodified":1449048246,
+    "wof:lastmodified":1466249699,
     "wof:name":"Docks Industrie Services",
     "wof:parent_id":85897703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.54607,47.184738,-1.54607,47.184738],
+  "bbox": [
+    -1.54607,
+    47.184738,
+    -1.54607,
+    47.184738
+],
   "geometry": {"coordinates":[-1.54607,47.184738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169132935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.586927,48.835472,2.586927,48.835472",
     "geom:latitude":48.835472,
     "geom:longitude":2.586927,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue Albert Einstein, 77420 Champs sur Marne",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169132935,
-    "wof:lastmodified":1449034296,
+    "wof:lastmodified":1466248285,
     "wof:name":"S.i.h. S.a. - Soci\u00e9t\u00e9 Industrielle Du Haras",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.586927,48.835472,2.586927,48.835472],
+  "bbox": [
+    2.586927,
+    48.835472,
+    2.586927,
+    48.835472
+],
   "geometry": {"coordinates":[2.586927,48.835472],"type":"Point"}
 }

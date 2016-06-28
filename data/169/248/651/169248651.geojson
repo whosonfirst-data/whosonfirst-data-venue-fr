@@ -2,13 +2,14 @@
   "id": 169248651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36022,48.869137,2.36022,48.869137",
     "geom:latitude":48.869137,
     "geom:longitude":2.36022,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"58, rue du Faubourg Poissonni\u00e8re",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"http://www.visuamobile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169248651,
-    "wof:lastmodified":1449034502,
+    "wof:lastmodified":1466249523,
     "wof:name":"Visuamobile",
     "wof:parent_id":85873875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36022,48.869137,2.36022,48.869137],
+  "bbox": [
+    2.36022,
+    48.869137,
+    2.36022,
+    48.869137
+],
   "geometry": {"coordinates":[2.36022,48.869137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152390651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.28984,48.799801,2.28984,48.799801",
     "geom:latitude":48.799801,
     "geom:longitude":2.28984,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 92, 92323 Ch\u00e2tillon C\u00e9dex^^19, Rue Pierre S\u00e9mard, 92320 Ch\u00e2tillon",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152390651,
-    "wof:lastmodified":1449048937,
+    "wof:lastmodified":1466250536,
     "wof:name":"D.d. S.a. - Delaporte & Denisselle",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.28984,48.799801,2.28984,48.799801],
+  "bbox": [
+    2.28984,
+    48.799801,
+    2.28984,
+    48.799801
+],
   "geometry": {"coordinates":[2.28984,48.799801],"type":"Point"}
 }

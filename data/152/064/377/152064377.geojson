@@ -2,13 +2,14 @@
   "id": 152064377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.298332,48.906151,2.298332,48.906151",
     "geom:latitude":48.906151,
     "geom:longitude":2.298332,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Du Port 92110 Clichy",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064377,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1466247155,
     "wof:name":"Exmachina",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.298332,48.906151,2.298332,48.906151],
+  "bbox": [
+    2.298332,
+    48.906151,
+    2.298332,
+    48.906151
+],
   "geometry": {"coordinates":[2.298332,48.906151],"type":"Point"}
 }

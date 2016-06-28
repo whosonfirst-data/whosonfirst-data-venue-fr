@@ -2,13 +2,14 @@
   "id": 152059679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.801781,38.87632,-104.801781,38.87632",
     "geom:latitude":38.87632,
     "geom:longitude":-104.801781,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"395 Av De L'Hippodrome 69140 Rilleux La Pape",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85840423,
+        85688603,
         85633793,
         85929457,
         102086875,
-        85688603
+        85840423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152059679,
-    "wof:lastmodified":1449045565,
+    "wof:lastmodified":1466246803,
     "wof:name":"Avance Diffusion",
     "wof:parent_id":85840423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.801781,38.87632,-104.801781,38.87632],
-  "geometry": {"coordinates":[-104.801781,38.87632],"type":"Point"}
+  "bbox": [
+    -104.801781,
+    38.87632,
+    -104.801781,
+    38.87632
+],
+  "geometry": {"coordinates":[-104.80178100000001,38.87632],"type":"Point"}
 }

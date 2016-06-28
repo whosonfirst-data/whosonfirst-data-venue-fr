@@ -2,13 +2,14 @@
   "id": 152397235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.567257,47.229397,-1.567257,47.229397",
     "geom:latitude":47.229397,
     "geom:longitude":-1.567257,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 23859, 44338 Nantes C\u00e9dex 03^^4, Impasse des Jades - Technoparc l'Abini\u00e8re, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897691,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152397235,
-    "wof:lastmodified":1449046151,
+    "wof:lastmodified":1466250565,
     "wof:name":"Daytona",
     "wof:parent_id":85897691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.567257,47.229397,-1.567257,47.229397],
+  "bbox": [
+    -1.567257,
+    47.229397,
+    -1.567257,
+    47.229397
+],
   "geometry": {"coordinates":[-1.567257,47.229397],"type":"Point"}
 }

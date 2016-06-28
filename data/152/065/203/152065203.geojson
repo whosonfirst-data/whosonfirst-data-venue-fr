@@ -2,13 +2,14 @@
   "id": 152065203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.928825,26.298334,-97.928825,26.298334",
     "geom:latitude":26.298334,
     "geom:longitude":-97.928825,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Rue Rene Cassin 50110 Tour La Ville",
     "sg:city":"Bretteville",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833825,
+        85688753,
         85633793,
         101723551,
         102083831,
-        85688753
+        85833825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152065203,
-    "wof:lastmodified":1449048851,
+    "wof:lastmodified":1466247165,
     "wof:name":"Graphelio Microfilm Sa",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.928825,26.298334,-97.928825,26.298334],
+  "bbox": [
+    -97.928825,
+    26.298334,
+    -97.928825,
+    26.298334
+],
   "geometry": {"coordinates":[-97.928825,26.298334],"type":"Point"}
 }

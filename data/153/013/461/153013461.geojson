@@ -2,13 +2,14 @@
   "id": 153013461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.68238,48.588017,7.68238,48.588017",
     "geom:latitude":48.588017,
     "geom:longitude":7.68238,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Jean Perrin 67200 Eckbolsheim",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071297,
-        85633147,
         85683221,
-        85897713
+        85633147,
+        85897713,
+        102071297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153013461,
-    "wof:lastmodified":1449040684,
+    "wof:lastmodified":1466245912,
     "wof:name":"Ricoh France Est Sa",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.68238,48.588017,7.68238,48.588017],
+  "bbox": [
+    7.68238,
+    48.588017,
+    7.68238,
+    48.588017
+],
   "geometry": {"coordinates":[7.68238,48.588017],"type":"Point"}
 }

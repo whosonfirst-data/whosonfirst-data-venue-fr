@@ -2,13 +2,14 @@
   "id": 136305463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32127,48.874729,2.32127,48.874729",
     "geom:latitude":48.874729,
     "geom:longitude":2.32127,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Boulevard Haussmann, 75008 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136305463,
-    "wof:lastmodified":1449075113,
+    "wof:lastmodified":1466246981,
     "wof:name":"Dresdner Kleinwort Benson (march\u00e9s)",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32127,48.874729,2.32127,48.874729],
+  "bbox": [
+    2.32127,
+    48.874729,
+    2.32127,
+    48.874729
+],
   "geometry": {"coordinates":[2.32127,48.874729],"type":"Point"}
 }

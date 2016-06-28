@@ -2,13 +2,14 @@
   "id": 152115501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.135247,49.485207,0.135247,49.485207",
     "geom:latitude":49.485207,
     "geom:longitude":0.135247,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Bd Amiral Mouchez 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152115501,
-    "wof:lastmodified":1449044254,
+    "wof:lastmodified":1466249230,
     "wof:name":"Activ Acb",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.135247,49.485207,0.135247,49.485207],
+  "bbox": [
+    0.135247,
+    49.485207,
+    0.135247,
+    49.485207
+],
   "geometry": {"coordinates":[0.135247,49.485207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152803869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.235655,48.837479,2.235655,48.837479",
     "geom:latitude":48.837479,
     "geom:longitude":2.235655,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62 bis, Av. Andr\u00e9 Morizet, 92643 Boulogne Billancourt C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152803869,
-    "wof:lastmodified":1449048944,
+    "wof:lastmodified":1466251915,
     "wof:name":"S\u00e9agat Technology S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.235655,48.837479,2.235655,48.837479],
+  "bbox": [
+    2.235655,
+    48.837479,
+    2.235655,
+    48.837479
+],
   "geometry": {"coordinates":[2.235655,48.837479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152124069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.311932,48.844383,2.311932,48.844383",
     "geom:latitude":48.844383,
     "geom:longitude":2.311932,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bd Pasteur 75015 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873949,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152124069,
-    "wof:lastmodified":1449048560,
+    "wof:lastmodified":1466249243,
     "wof:name":"Rousseau Et Policella Sa",
     "wof:parent_id":85873949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.311932,48.844383,2.311932,48.844383],
+  "bbox": [
+    2.311932,
+    48.844383,
+    2.311932,
+    48.844383
+],
   "geometry": {"coordinates":[2.311932,48.844383],"type":"Point"}
 }

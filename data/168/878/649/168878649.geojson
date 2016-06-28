@@ -2,13 +2,14 @@
   "id": 168878649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.541323,44.812031,-0.541323,44.812031",
     "geom:latitude":44.812031,
     "geom:longitude":-0.541323,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"140, Av. du Mar\u00e9chal Leclerc, 33130 B\u00e8gles",
     "sg:city":"B\u00e8gles",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168878649,
-    "wof:lastmodified":1449028178,
+    "wof:lastmodified":1466246656,
     "wof:name":"Cogifer Tf",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.541323,44.812031,-0.541323,44.812031],
+  "bbox": [
+    -0.541323,
+    44.812031,
+    -0.541323,
+    44.812031
+],
   "geometry": {"coordinates":[-0.541323,44.812031],"type":"Point"}
 }

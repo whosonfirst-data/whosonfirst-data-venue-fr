@@ -2,13 +2,14 @@
   "id": 153002829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.119809,49.492508,0.119809,49.492508",
     "geom:latitude":49.492508,
     "geom:longitude":0.119809,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"169 boulevard de Strasbourg 76600 Le Havre",
     "sg:classifiers":[],
     "sg:orig_category":"Stationary Diesel Engines",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153002829,
-    "wof:lastmodified":1449040739,
+    "wof:lastmodified":1466245967,
     "wof:name":"A. Lepetit Sa",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.119809,49.492508,0.119809,49.492508],
+  "bbox": [
+    0.119809,
+    49.492508,
+    0.119809,
+    49.492508
+],
   "geometry": {"coordinates":[0.119809,49.492508],"type":"Point"}
 }

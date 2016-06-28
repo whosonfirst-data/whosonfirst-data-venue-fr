@@ -2,13 +2,14 @@
   "id": 152115783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308657,48.901337,2.308657,48.901337",
     "geom:latitude":48.901337,
     "geom:longitude":2.308657,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Rue Henri Barbusse 92111 Clichy",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152115783,
-    "wof:lastmodified":1449044252,
+    "wof:lastmodified":1466249278,
     "wof:name":"Slg Satas Sarl",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308657,48.901337,2.308657,48.901337],
+  "bbox": [
+    2.308657,
+    48.901337,
+    2.308657,
+    48.901337
+],
   "geometry": {"coordinates":[2.308657,48.901337],"type":"Point"}
 }

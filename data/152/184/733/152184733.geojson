@@ -2,13 +2,14 @@
   "id": 152184733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.450488,48.864262,2.450488,48.864262",
     "geom:latitude":48.864262,
     "geom:longitude":2.450488,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Dombasle 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152184733,
-    "wof:lastmodified":1449045084,
+    "wof:lastmodified":1466249673,
     "wof:name":"Societe De Serrurerie Generale(ssg)",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.450488,48.864262,2.450488,48.864262],
+  "bbox": [
+    2.450488,
+    48.864262,
+    2.450488,
+    48.864262
+],
   "geometry": {"coordinates":[2.450488,48.864262],"type":"Point"}
 }

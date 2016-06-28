@@ -2,13 +2,14 @@
   "id": 152079691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328579,48.853416,2.328579,48.853416",
     "geom:latitude":48.853416,
     "geom:longitude":2.328579,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue De Grenelle 75007 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873831,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152079691,
-    "wof:lastmodified":1449048145,
+    "wof:lastmodified":1466247225,
     "wof:name":"Entreprise Montagnier",
     "wof:parent_id":85873831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328579,48.853416,2.328579,48.853416],
+  "bbox": [
+    2.328579,
+    48.853416,
+    2.328579,
+    48.853416
+],
   "geometry": {"coordinates":[2.328579,48.853416],"type":"Point"}
 }

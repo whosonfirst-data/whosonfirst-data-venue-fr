@@ -2,13 +2,14 @@
   "id": 152286257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329231,32.748508,-97.329231,32.748508",
     "geom:latitude":32.748508,
     "geom:longitude":-97.329231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue Lucien Fromage, 76161 Darnetal C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867235,
+        85688753,
         85633793,
         101724443,
         102083201,
-        85688753
+        85867235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152286257,
-    "wof:lastmodified":1449045504,
+    "wof:lastmodified":1466250027,
     "wof:name":"Avenel S.a.",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.329231,32.748508,-97.329231,32.748508],
-  "geometry": {"coordinates":[-97.329231,32.748508],"type":"Point"}
+  "bbox": [
+    -97.329231,
+    32.748508,
+    -97.329231,
+    32.748508
+],
+  "geometry": {"coordinates":[-97.32923099999999,32.748508],"type":"Point"}
 }

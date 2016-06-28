@@ -2,13 +2,14 @@
   "id": 152655485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.71723,48.513569,7.71723,48.513569",
     "geom:latitude":48.513569,
     "geom:longitude":7.71723,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue du Cor de Chasse",
     "sg:city":"Illkirch Graffenstaden",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152655485,
-    "wof:lastmodified":1449046958,
+    "wof:lastmodified":1466251366,
     "wof:name":"Ott Imprimerie Offset S.a.r.l.",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.71723,48.513569,7.71723,48.513569],
+  "bbox": [
+    7.71723,
+    48.513569,
+    7.71723,
+    48.513569
+],
   "geometry": {"coordinates":[7.71723,48.513569],"type":"Point"}
 }

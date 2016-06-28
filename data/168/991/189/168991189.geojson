@@ -2,13 +2,14 @@
   "id": 168991189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.381302,33.389709,-79.381302,33.389709",
     "geom:latitude":33.389709,
     "geom:longitude":-79.381302,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"La M\u00e9tairie 29440 Tr\u00e9flaouenan",
     "sg:city":"Tr\u00e9flaou\u00e9nan",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085683,
-        85633793,
         85688683,
-        85826561
+        85633793,
+        85826561,
+        102085683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168991189,
-    "wof:lastmodified":1449027995,
+    "wof:lastmodified":1466248802,
     "wof:name":"Hygiadis S.a.",
     "wof:parent_id":85826561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.381302,33.389709,-79.381302,33.389709],
-  "geometry": {"coordinates":[-79.381302,33.389709],"type":"Point"}
+  "bbox": [
+    -79.381302,
+    33.389709,
+    -79.381302,
+    33.389709
+],
+  "geometry": {"coordinates":[-79.38130200000001,33.389709],"type":"Point"}
 }

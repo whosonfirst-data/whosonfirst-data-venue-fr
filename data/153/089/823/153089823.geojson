@@ -2,13 +2,14 @@
   "id": 153089823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.270561,38.718063,-82.270561,38.718063",
     "geom:latitude":38.718063,
     "geom:longitude":-82.270561,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Av. du Point du Jour, 17400 Saint Jean d'Angely",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823581,
+        85688485,
         85633793,
         85983229,
         102083675,
-        85688485
+        85823581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":153089823,
-    "wof:lastmodified":1449040431,
+    "wof:lastmodified":1466247510,
     "wof:name":"B.m.s.o. S.a.",
     "wof:parent_id":85823581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.270561,38.718063,-82.270561,38.718063],
+  "bbox": [
+    -82.270561,
+    38.718063,
+    -82.270561,
+    38.718063
+],
   "geometry": {"coordinates":[-82.270561,38.718063],"type":"Point"}
 }

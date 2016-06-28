@@ -2,13 +2,14 @@
   "id": 152046503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569514,47.217976,-1.569514,47.217976",
     "geom:latitude":47.217976,
     "geom:longitude":-1.569514,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Mond\u00e9sir 44015 Nantes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152046503,
-    "wof:lastmodified":1449046863,
+    "wof:lastmodified":1466245606,
     "wof:name":"Lycee Prive Fran\u00c7oise D'amboise Chavagnes",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.569514,47.217976,-1.569514,47.217976],
+  "bbox": [
+    -1.569514,
+    47.217976,
+    -1.569514,
+    47.217976
+],
   "geometry": {"coordinates":[-1.569514,47.217976],"type":"Point"}
 }

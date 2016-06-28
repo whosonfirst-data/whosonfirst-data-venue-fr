@@ -2,13 +2,14 @@
   "id": 152800801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.45756,48.699795,2.45756,48.699795",
     "geom:latitude":48.699795,
     "geom:longitude":2.45756,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"51, Av. de S\u00e9nart, 91230 Montgeron",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152800801,
-    "wof:lastmodified":1449044668,
+    "wof:lastmodified":1466251876,
     "wof:name":"Suez Lyonnaise Des Eaux S.a.",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.45756,48.699795,2.45756,48.699795],
+  "bbox": [
+    2.45756,
+    48.699795,
+    2.45756,
+    48.699795
+],
   "geometry": {"coordinates":[2.45756,48.699795],"type":"Point"}
 }

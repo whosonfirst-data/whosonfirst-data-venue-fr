@@ -2,13 +2,14 @@
   "id": 152049515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.414872,48.863338,2.414872,48.863338",
     "geom:latitude":48.863338,
     "geom:longitude":2.414872,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Av De La R\u00e9publique 93177 Bagnolet Cedex",
     "sg:city":"Bagnolet",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152049515,
-    "wof:lastmodified":1449046590,
+    "wof:lastmodified":1466245814,
     "wof:name":"Novotel Paris Porte De Bagnolet",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.414872,48.863338,2.414872,48.863338],
+  "bbox": [
+    2.414872,
+    48.863338,
+    2.414872,
+    48.863338
+],
   "geometry": {"coordinates":[2.414872,48.863338],"type":"Point"}
 }

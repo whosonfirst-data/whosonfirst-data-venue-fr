@@ -2,13 +2,14 @@
   "id": 169115561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.758282,48.605492,7.758282,48.605492",
     "geom:latitude":48.605492,
     "geom:longitude":7.758282,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Jean Monnet - Parc d'Activit\u00e9, 67200 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169115561,
-    "wof:lastmodified":1449032660,
+    "wof:lastmodified":1466248041,
     "wof:name":"Rhin Climatisation S.a.",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.758282,48.605492,7.758282,48.605492],
+  "bbox": [
+    7.758282,
+    48.605492,
+    7.758282,
+    48.605492
+],
   "geometry": {"coordinates":[7.758282,48.605492],"type":"Point"}
 }

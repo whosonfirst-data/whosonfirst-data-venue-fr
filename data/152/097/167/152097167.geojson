@@ -2,13 +2,14 @@
   "id": 152097167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.440938,48.710403,2.440938,48.710403",
     "geom:latitude":48.710403,
     "geom:longitude":2.440938,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Avenue Parc 91230 Montgeron",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152097167,
-    "wof:lastmodified":1449046134,
+    "wof:lastmodified":1466248446,
     "wof:name":"Usinage Et Revision Mecanique",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.440938,48.710403,2.440938,48.710403],
+  "bbox": [
+    2.440938,
+    48.710403,
+    2.440938,
+    48.710403
+],
   "geometry": {"coordinates":[2.440938,48.710403],"type":"Point"}
 }

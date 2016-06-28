@@ -2,13 +2,14 @@
   "id": 136281511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38923,48.972641,2.38923,48.972641",
     "geom:latitude":48.972641,
     "geom:longitude":2.38923,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Bd De La Muette 95142 Garches Les Gonesse",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136281511,
-    "wof:lastmodified":1449076056,
+    "wof:lastmodified":1466245556,
     "wof:name":"Pic 92 Publicite Impression Creation",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38923,48.972641,2.38923,48.972641],
+  "bbox": [
+    2.38923,
+    48.972641,
+    2.38923,
+    48.972641
+],
   "geometry": {"coordinates":[2.38923,48.972641],"type":"Point"}
 }

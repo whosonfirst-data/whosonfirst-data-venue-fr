@@ -2,13 +2,14 @@
   "id": 152432165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.54012,48.799549,2.54012,48.799549",
     "geom:latitude":48.799549,
     "geom:longitude":2.54012,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue Condorcet, 94437 Chennevi\u00e8res sur Marne C\u00e9dex^^18, Rue Condorcet, 94437 Chennevi\u00e8res sur Mar",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152432165,
-    "wof:lastmodified":1449044204,
+    "wof:lastmodified":1466250622,
     "wof:name":"Eloy S.a.",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.54012,48.799549,2.54012,48.799549],
+  "bbox": [
+    2.54012,
+    48.799549,
+    2.54012,
+    48.799549
+],
   "geometry": {"coordinates":[2.54012,48.799549],"type":"Point"}
 }

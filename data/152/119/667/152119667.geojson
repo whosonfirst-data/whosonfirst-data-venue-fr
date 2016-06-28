@@ -2,13 +2,14 @@
   "id": 152119667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.44693,48.63588,2.44693,48.63588",
     "geom:latitude":48.63588,
     "geom:longitude":2.44693,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 avenue du G\u00e9n\u00e9ral de Gaulle 91000 EVRY",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152119667,
-    "wof:lastmodified":1449047599,
+    "wof:lastmodified":1466249235,
     "wof:name":"Groupe Sramag S.a.",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.44693,48.63588,2.44693,48.63588],
+  "bbox": [
+    2.44693,
+    48.63588,
+    2.44693,
+    48.63588
+],
   "geometry": {"coordinates":[2.44693,48.63588],"type":"Point"}
 }

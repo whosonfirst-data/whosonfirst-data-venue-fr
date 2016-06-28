@@ -2,13 +2,14 @@
   "id": 152050085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.283625,48.875664,2.283625,48.875664",
     "geom:latitude":48.875664,
     "geom:longitude":2.283625,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Av De Malakoff 75116 Paris",
     "sg:city":"Malakoff",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152050085,
-    "wof:lastmodified":1449046847,
+    "wof:lastmodified":1466245824,
     "wof:name":"Villa Maillot Scs",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.283625,48.875664,2.283625,48.875664],
+  "bbox": [
+    2.283625,
+    48.875664,
+    2.283625,
+    48.875664
+],
   "geometry": {"coordinates":[2.283625,48.875664],"type":"Point"}
 }

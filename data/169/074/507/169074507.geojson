@@ -2,13 +2,14 @@
   "id": 169074507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.074235,50.653751,3.074235,50.653751",
     "geom:latitude":50.653751,
     "geom:longitude":3.074235,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Pasteur - B\u00e2t. Mercure, 59110 La Madeleine",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169074507,
-    "wof:lastmodified":1449034469,
+    "wof:lastmodified":1466247265,
     "wof:name":"Nord Cr\u00e9ations Informatiques Et Services S.a.r.l.",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.074235,50.653751,3.074235,50.653751],
+  "bbox": [
+    3.074235,
+    50.653751,
+    3.074235,
+    50.653751
+],
   "geometry": {"coordinates":[3.074235,50.653751],"type":"Point"}
 }

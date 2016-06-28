@@ -2,13 +2,14 @@
   "id": 152117959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.354661,48.863075,2.354661,48.863075",
     "geom:latitude":48.863075,
     "geom:longitude":2.354661,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Rue Beaubourg 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152117959,
-    "wof:lastmodified":1449047435,
+    "wof:lastmodified":1466249359,
     "wof:name":"Bijoux Gl",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.354661,48.863075,2.354661,48.863075],
+  "bbox": [
+    2.354661,
+    48.863075,
+    2.354661,
+    48.863075
+],
   "geometry": {"coordinates":[2.354661,48.863075],"type":"Point"}
 }

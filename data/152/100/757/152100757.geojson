@@ -2,13 +2,14 @@
   "id": 152100757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319419,48.877567,2.319419,48.877567",
     "geom:latitude":48.877567,
     "geom:longitude":2.319419,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 BIS",
     "sg:city":"Portalis 75008 PARIS",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873855,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152100757,
-    "wof:lastmodified":1449047731,
+    "wof:lastmodified":1466248841,
     "wof:name":"Vatelot Rampal",
     "wof:parent_id":85873855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319419,48.877567,2.319419,48.877567],
+  "bbox": [
+    2.319419,
+    48.877567,
+    2.319419,
+    48.877567
+],
   "geometry": {"coordinates":[2.319419,48.877567],"type":"Point"}
 }

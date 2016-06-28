@@ -2,13 +2,14 @@
   "id": 153034427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548065,41.025002,-73.548065,41.025002",
     "geom:latitude":41.025002,
     "geom:longitude":-73.548065,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"485 route du Pin Montard; Les Bouillides - BP 69; Sophia Antipolis; 06902",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Connecticut",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881173,
+        85688629,
         85633793,
         85930945,
         102084283,
-        85688629
+        85881173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153034427,
-    "wof:lastmodified":1449040382,
+    "wof:lastmodified":1466247334,
     "wof:name":"Amadeus S.a.s",
     "wof:parent_id":85881173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.548065,41.025002,-73.548065,41.025002],
-  "geometry": {"coordinates":[-73.548065,41.025002],"type":"Point"}
+  "bbox": [
+    -73.548065,
+    41.025002,
+    -73.548065,
+    41.025002
+],
+  "geometry": {"coordinates":[-73.54806499999999,41.025002],"type":"Point"}
 }

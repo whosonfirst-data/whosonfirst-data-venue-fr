@@ -2,13 +2,14 @@
   "id": 152100485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.386609,48.809525,2.386609,48.809525",
     "geom:latitude":48.809525,
     "geom:longitude":2.386609,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Rue Saint Just 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152100485,
-    "wof:lastmodified":1449047731,
+    "wof:lastmodified":1466248673,
     "wof:name":"Morize",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.386609,48.809525,2.386609,48.809525],
+  "bbox": [
+    2.386609,
+    48.809525,
+    2.386609,
+    48.809525
+],
   "geometry": {"coordinates":[2.386609,48.809525],"type":"Point"}
 }

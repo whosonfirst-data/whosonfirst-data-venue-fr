@@ -2,13 +2,14 @@
   "id": 169031609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.559334,47.19466,-1.559334,47.19466",
     "geom:latitude":47.19466,
     "geom:longitude":-1.559334,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue du Seil",
     "sg:city":"Rez\u00e9",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169031609,
-    "wof:lastmodified":1449033916,
+    "wof:lastmodified":1466247387,
     "wof:name":"Lemasson Marcel S.a.",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.559334,47.19466,-1.559334,47.19466],
+  "bbox": [
+    -1.559334,
+    47.19466,
+    -1.559334,
+    47.19466
+],
   "geometry": {"coordinates":[-1.559334,47.19466],"type":"Point"}
 }

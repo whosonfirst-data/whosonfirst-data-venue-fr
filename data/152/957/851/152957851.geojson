@@ -2,13 +2,14 @@
   "id": 152957851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.156629,49.478153,0.156629,49.478153",
     "geom:latitude":49.478153,
     "geom:longitude":0.156629,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue Marmiesse 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152957851,
-    "wof:lastmodified":1449048230,
+    "wof:lastmodified":1466252542,
     "wof:name":"Fondimare Sa",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.156629,49.478153,0.156629,49.478153],
+  "bbox": [
+    0.156629,
+    49.478153,
+    0.156629,
+    49.478153
+],
   "geometry": {"coordinates":[0.156629,49.478153],"type":"Point"}
 }

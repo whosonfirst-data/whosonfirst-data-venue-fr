@@ -2,13 +2,14 @@
   "id": 136277893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.578077,44.84026,-0.578077,44.84026",
     "geom:latitude":44.84026,
     "geom:longitude":-0.578077,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue Vital Carles",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277893,
-    "wof:lastmodified":1449075064,
+    "wof:lastmodified":1466245393,
     "wof:name":"Groupement D'interet Economique Gic",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.578077,44.84026,-0.578077,44.84026],
+  "bbox": [
+    -0.578077,
+    44.84026,
+    -0.578077,
+    44.84026
+],
   "geometry": {"coordinates":[-0.578077,44.84026],"type":"Point"}
 }

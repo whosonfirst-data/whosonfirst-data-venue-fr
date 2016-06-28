@@ -2,13 +2,14 @@
   "id": 152075461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3015,48.795029,2.3015,48.795029",
     "geom:latitude":48.795029,
     "geom:longitude":2.3015,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Atm",
     "sg:city":"Rue De La Fontaine 92221 Bagneux Cedex",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152075461,
-    "wof:lastmodified":1449046805,
+    "wof:lastmodified":1466246356,
     "wof:name":"Thales",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3015,48.795029,2.3015,48.795029],
+  "bbox": [
+    2.3015,
+    48.795029,
+    2.3015,
+    48.795029
+],
   "geometry": {"coordinates":[2.3015,48.795029],"type":"Point"}
 }

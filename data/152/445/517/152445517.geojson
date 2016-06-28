@@ -2,13 +2,14 @@
   "id": 152445517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297711,48.80489,2.297711,48.80489",
     "geom:latitude":48.80489,
     "geom:longitude":2.297711,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"107, Av. de la R\u00e9publique, 92325 Ch\u00e2tillon C\u00e9dex",
     "sg:city":"Ch\u00e2tillon",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152445517,
-    "wof:lastmodified":1449044924,
+    "wof:lastmodified":1466250679,
     "wof:name":"Etablissement F. Morin Et Compagnie S.a.",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297711,48.80489,2.297711,48.80489],
+  "bbox": [
+    2.297711,
+    48.80489,
+    2.297711,
+    48.80489
+],
   "geometry": {"coordinates":[2.297711,48.80489],"type":"Point"}
 }

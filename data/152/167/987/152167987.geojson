@@ -2,13 +2,14 @@
   "id": 152167987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.355776,43.607719,1.355776,43.607719",
     "geom:latitude":43.607719,
     "geom:longitude":1.355776,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Marius Terc\u00e9 31300 Toulouse",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152167987,
-    "wof:lastmodified":1449046703,
+    "wof:lastmodified":1466249702,
     "wof:name":"Scomo Sa",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.355776,43.607719,1.355776,43.607719],
+  "bbox": [
+    1.355776,
+    43.607719,
+    1.355776,
+    43.607719
+],
   "geometry": {"coordinates":[1.355776,43.607719],"type":"Point"}
 }

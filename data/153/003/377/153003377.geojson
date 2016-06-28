@@ -2,13 +2,14 @@
   "id": 153003377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33076,48.811638,2.33076,48.811638",
     "geom:latitude":48.811638,
     "geom:longitude":2.33076,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49/51 av Vladimir Ilitch L\u00e9nine 94110 Arcueil",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153003377,
-    "wof:lastmodified":1449040792,
+    "wof:lastmodified":1466245248,
     "wof:name":"Ets Aubart S.a",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33076,48.811638,2.33076,48.811638],
+  "bbox": [
+    2.33076,
+    48.811638,
+    2.33076,
+    48.811638
+],
   "geometry": {"coordinates":[2.33076,48.811638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152180635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.81749,40.381325,-79.81749,40.381325",
     "geom:latitude":40.381325,
     "geom:longitude":-79.81749,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi St \u00c9loi 58000 N\u00e9vers",
     "sg:city":"Nevers",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080887,
-        85633793,
         85688481,
-        85856615
+        85633793,
+        85856615,
+        102080887
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152180635,
-    "wof:lastmodified":1449044480,
+    "wof:lastmodified":1466249655,
     "wof:name":"Jts Sarl",
     "wof:parent_id":85856615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.81749,40.381325,-79.81749,40.381325],
-  "geometry": {"coordinates":[-79.81749,40.381325],"type":"Point"}
+  "bbox": [
+    -79.81749,
+    40.381325,
+    -79.81749,
+    40.381325
+],
+  "geometry": {"coordinates":[-79.81749000000001,40.381325],"type":"Point"}
 }

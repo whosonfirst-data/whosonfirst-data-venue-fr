@@ -2,13 +2,14 @@
   "id": 136293725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326849,48.859509,2.326849,48.859509",
     "geom:latitude":48.859509,
     "geom:longitude":2.326849,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Rue De Lille 75356 Paris 07",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873845,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136293725,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466246409,
     "wof:name":"Caisse Des Depots Et Consignations",
     "wof:parent_id":85873845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326849,48.859509,2.326849,48.859509],
+  "bbox": [
+    2.326849,
+    48.859509,
+    2.326849,
+    48.859509
+],
   "geometry": {"coordinates":[2.326849,48.859509],"type":"Point"}
 }

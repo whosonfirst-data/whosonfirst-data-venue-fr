@@ -2,13 +2,14 @@
   "id": 152985731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.514655,48.800831,2.514655,48.800831",
     "geom:latitude":48.800831,
     "geom:longitude":2.514655,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"61BIS avenue Didier 94210 St Maur Des Fosses",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152985731,
-    "wof:lastmodified":1449046604,
+    "wof:lastmodified":1466252508,
     "wof:name":"Moskid International Sarl",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.514655,48.800831,2.514655,48.800831],
+  "bbox": [
+    2.514655,
+    48.800831,
+    2.514655,
+    48.800831
+],
   "geometry": {"coordinates":[2.514655,48.800831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136301593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32387,48.868183,2.32387,48.868183",
     "geom:latitude":48.868183,
     "geom:longitude":2.32387,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"111 rue Faubour St.Honor\u00e9 1\u00f8; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,13 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873847,
-        102068357
+        85873791,
+        102068357,
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":136301593,
-    "wof:lastmodified":1449075240,
+    "wof:lastmodified":1466246816,
     "wof:name":"Caja De Ahorros, De Galicia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32387,48.868183,2.32387,48.868183],
+  "bbox": [
+    2.32387,
+    48.868183,
+    2.32387,
+    48.868183
+],
   "geometry": {"coordinates":[2.32387,48.868183],"type":"Point"}
 }

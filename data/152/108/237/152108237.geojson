@@ -2,13 +2,14 @@
   "id": 152108237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55353,47.202511,-1.55353,47.202511",
     "geom:latitude":47.202511,
     "geom:longitude":-1.55353,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Boulevard Gustave Roch 44200 Nantes",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152108237,
-    "wof:lastmodified":1449044374,
+    "wof:lastmodified":1466249072,
     "wof:name":"Rouvre Isabelle",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55353,47.202511,-1.55353,47.202511],
+  "bbox": [
+    -1.55353,
+    47.202511,
+    -1.55353,
+    47.202511
+],
   "geometry": {"coordinates":[-1.55353,47.202511],"type":"Point"}
 }

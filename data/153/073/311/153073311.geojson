@@ -2,13 +2,14 @@
   "id": 153073311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06281,50.64349,3.06281,50.64349",
     "geom:latitude":50.64349,
     "geom:longitude":3.06281,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"58, Av du Peuple Belge, 59800 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153073311,
-    "wof:lastmodified":1449040385,
+    "wof:lastmodified":1466246859,
     "wof:name":"Appius S.a.r.l.",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06281,50.64349,3.06281,50.64349],
+  "bbox": [
+    3.06281,
+    50.64349,
+    3.06281,
+    50.64349
+],
   "geometry": {"coordinates":[3.06281,50.64349],"type":"Point"}
 }

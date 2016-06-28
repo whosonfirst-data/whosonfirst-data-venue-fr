@@ -2,13 +2,14 @@
   "id": 136305377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501467,47.237778,-1.501467,47.237778",
     "geom:latitude":47.237778,
     "geom:longitude":-1.501467,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Papoti\u00e8re; Nantes",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136305377,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466246963,
     "wof:name":"Cr\u00e9dit Mutuel, Caisse Vieux Doulon",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501467,47.237778,-1.501467,47.237778],
+  "bbox": [
+    -1.501467,
+    47.237778,
+    -1.501467,
+    47.237778
+],
   "geometry": {"coordinates":[-1.501467,47.237778],"type":"Point"}
 }

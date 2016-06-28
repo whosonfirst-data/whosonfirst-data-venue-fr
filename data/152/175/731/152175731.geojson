@@ -2,13 +2,14 @@
   "id": 152175731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.875328,35.160179,-84.875328,35.160179",
     "geom:latitude":35.160179,
     "geom:longitude":-84.875328,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 All Marius Berliet 37320 Esvres Sur Indre",
     "sg:city":"Esvres",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803171,
+        85688701,
         85633793,
         101723129,
         102087043,
-        85688701
+        85803171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152175731,
-    "wof:lastmodified":1449047503,
+    "wof:lastmodified":1466249659,
     "wof:name":"Azynox",
     "wof:parent_id":85803171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.875328,35.160179,-84.875328,35.160179],
+  "bbox": [
+    -84.875328,
+    35.160179,
+    -84.875328,
+    35.160179
+],
   "geometry": {"coordinates":[-84.875328,35.160179],"type":"Point"}
 }

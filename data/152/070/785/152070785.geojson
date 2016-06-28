@@ -2,13 +2,14 @@
   "id": 152070785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.368647,48.832165,2.368647,48.832165",
     "geom:latitude":48.832165,
     "geom:longitude":2.368647,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue Baudoin 75013 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152070785,
-    "wof:lastmodified":1449046565,
+    "wof:lastmodified":1466245397,
     "wof:name":"Compagnie Europeenne De Fonderie S.a.",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.368647,48.832165,2.368647,48.832165],
+  "bbox": [
+    2.368647,
+    48.832165,
+    2.368647,
+    48.832165
+],
   "geometry": {"coordinates":[2.368647,48.832165],"type":"Point"}
 }

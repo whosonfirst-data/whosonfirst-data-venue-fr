@@ -2,13 +2,14 @@
   "id": 152093689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.553024,47.195641,-1.553024,47.195641",
     "geom:latitude":47.195641,
     "geom:longitude":-1.553024,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 B Rue Des Chevaliers 44400 Reze",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152093689,
-    "wof:lastmodified":1449044299,
+    "wof:lastmodified":1466248299,
     "wof:name":"Cgao",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.553024,47.195641,-1.553024,47.195641],
+  "bbox": [
+    -1.553024,
+    47.195641,
+    -1.553024,
+    47.195641
+],
   "geometry": {"coordinates":[-1.553024,47.195641],"type":"Point"}
 }

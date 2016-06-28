@@ -2,13 +2,14 @@
   "id": 152469091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.298023,48.806683,2.298023,48.806683",
     "geom:latitude":48.806683,
     "geom:longitude":2.298023,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"106, Rue Pierre S\u00e9mard, 92320 Ch\u00e2tillon",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152469091,
-    "wof:lastmodified":1449049012,
+    "wof:lastmodified":1466250843,
     "wof:name":"F.e.t. S.a. - France Essonne T\u00e9l\u00e9phonie",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.298023,48.806683,2.298023,48.806683],
+  "bbox": [
+    2.298023,
+    48.806683,
+    2.298023,
+    48.806683
+],
   "geometry": {"coordinates":[2.298023,48.806683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152051327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369216,48.833305,2.369216,48.833305",
     "geom:latitude":48.833305,
     "geom:longitude":2.369216,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"175 rue du Chevaleret 75013 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152051327,
-    "wof:lastmodified":1449047154,
+    "wof:lastmodified":1466245943,
     "wof:name":"Fret Rapide Sarl",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369216,48.833305,2.369216,48.833305],
+  "bbox": [
+    2.369216,
+    48.833305,
+    2.369216,
+    48.833305
+],
   "geometry": {"coordinates":[2.369216,48.833305],"type":"Point"}
 }

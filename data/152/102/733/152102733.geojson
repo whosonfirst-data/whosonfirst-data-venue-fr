@@ -2,13 +2,14 @@
   "id": 152102733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.558479,47.194679,-1.558479,47.194679",
     "geom:latitude":47.194679,
     "geom:longitude":-1.558479,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Du Seil 44400 Rez\u00e9",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152102733,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248943,
     "wof:name":"Macocco Ouest Sa",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.558479,47.194679,-1.558479,47.194679],
+  "bbox": [
+    -1.558479,
+    47.194679,
+    -1.558479,
+    47.194679
+],
   "geometry": {"coordinates":[-1.558479,47.194679],"type":"Point"}
 }

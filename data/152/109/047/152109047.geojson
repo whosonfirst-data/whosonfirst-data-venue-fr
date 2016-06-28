@@ -2,13 +2,14 @@
   "id": 152109047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.371707,48.902962,2.371707,48.902962",
     "geom:latitude":48.902962,
     "geom:longitude":2.371707,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 avenue Victor Hugo 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152109047,
-    "wof:lastmodified":1449045915,
+    "wof:lastmodified":1466249222,
     "wof:name":"Karo Sa",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.371707,48.902962,2.371707,48.902962],
+  "bbox": [
+    2.371707,
+    48.902962,
+    2.371707,
+    48.902962
+],
   "geometry": {"coordinates":[2.371707,48.902962],"type":"Point"}
 }

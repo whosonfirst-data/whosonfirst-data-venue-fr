@@ -2,13 +2,14 @@
   "id": 136297357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.374667,48.846088,2.374667,48.846088",
     "geom:latitude":48.846088,
     "geom:longitude":2.374667,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 rue Abel; Paris; 75012",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873899,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136297357,
-    "wof:lastmodified":1449075781,
+    "wof:lastmodified":1466246552,
     "wof:name":"Banque G\u00e9n\u00e9rale, Du Commerce",
     "wof:parent_id":85873899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.374667,48.846088,2.374667,48.846088],
+  "bbox": [
+    2.374667,
+    48.846088,
+    2.374667,
+    48.846088
+],
   "geometry": {"coordinates":[2.374667,48.846088],"type":"Point"}
 }

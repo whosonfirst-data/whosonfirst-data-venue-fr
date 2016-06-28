@@ -2,13 +2,14 @@
   "id": 169067063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.321475,43.362785,5.321475,43.362785",
     "geom:latitude":43.362785,
     "geom:longitude":5.321475,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Av. Andr\u00e9 Roussin - ZAC de Saumaty S\u00e9on, 13016 Marseille",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169067063,
-    "wof:lastmodified":1449032892,
+    "wof:lastmodified":1466246876,
     "wof:name":"Ms Distribution Soric Ipc S.a.",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.321475,43.362785,5.321475,43.362785],
+  "bbox": [
+    5.321475,
+    43.362785,
+    5.321475,
+    43.362785
+],
   "geometry": {"coordinates":[5.321475,43.362785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136283465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.605834,44.886379,-0.605834,44.886379",
     "geom:latitude":44.886379,
     "geom:longitude":-0.605834,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin De La Hutte 33520 Bruges",
     "sg:city":"Bruges",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":136283465,
-    "wof:lastmodified":1449075277,
+    "wof:lastmodified":1466245691,
     "wof:name":"Materiel Accessoires Vinicoles (mavil)",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.605834,44.886379,-0.605834,44.886379],
+  "bbox": [
+    -0.605834,
+    44.886379,
+    -0.605834,
+    44.886379
+],
   "geometry": {"coordinates":[-0.605834,44.886379],"type":"Point"}
 }

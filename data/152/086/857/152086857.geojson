@@ -2,13 +2,14 @@
   "id": 152086857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.04957,49.432751,1.04957,49.432751",
     "geom:latitude":49.432751,
     "geom:longitude":1.04957,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Rue Amable Lozai 76140 Le Petit Quevilly",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152086857,
-    "wof:lastmodified":1449047399,
+    "wof:lastmodified":1466247899,
     "wof:name":"Ste Rouennaise De Bacherie Et Corderie Sa",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.04957,49.432751,1.04957,49.432751],
+  "bbox": [
+    1.04957,
+    49.432751,
+    1.04957,
+    49.432751
+],
   "geometry": {"coordinates":[1.04957,49.432751],"type":"Point"}
 }

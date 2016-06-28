@@ -2,13 +2,14 @@
   "id": 153007513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.75883,48.580639,7.75883,48.580639",
     "geom:latitude":48.580639,
     "geom:longitude":7.75883,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 rue Adolphe Wurtz 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897723,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153007513,
-    "wof:lastmodified":1449040744,
+    "wof:lastmodified":1466245516,
     "wof:name":"Diffusion Materiel Composant Industrie Sarl",
     "wof:parent_id":85897723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.75883,48.580639,7.75883,48.580639],
+  "bbox": [
+    7.75883,
+    48.580639,
+    7.75883,
+    48.580639
+],
   "geometry": {"coordinates":[7.75883,48.580639],"type":"Point"}
 }

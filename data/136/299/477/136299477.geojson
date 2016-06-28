@@ -2,13 +2,14 @@
   "id": 136299477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30453,48.878555,2.30453,48.878555",
     "geom:latitude":48.878555,
     "geom:longitude":2.30453,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"86 rue de Courcelles, 75008 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136299477,
-    "wof:lastmodified":1449075232,
+    "wof:lastmodified":1466246582,
     "wof:name":"Banque Pommier Finindus",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30453,48.878555,2.30453,48.878555],
+  "bbox": [
+    2.30453,
+    48.878555,
+    2.30453,
+    48.878555
+],
   "geometry": {"coordinates":[2.30453,48.878555],"type":"Point"}
 }

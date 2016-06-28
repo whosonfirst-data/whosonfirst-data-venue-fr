@@ -2,13 +2,14 @@
   "id": 152942191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29915,48.870831,2.29915,48.870831",
     "geom:latitude":48.870831,
     "geom:longitude":2.29915,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1",
     "sg:city":"Euler; Paris; 75008",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152942191,
-    "wof:lastmodified":1449046424,
+    "wof:lastmodified":1466252387,
     "wof:name":"Euler & Hermes",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29915,48.870831,2.29915,48.870831],
+  "bbox": [
+    2.29915,
+    48.870831,
+    2.29915,
+    48.870831
+],
   "geometry": {"coordinates":[2.29915,48.870831],"type":"Point"}
 }

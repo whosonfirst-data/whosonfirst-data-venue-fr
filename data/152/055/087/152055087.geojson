@@ -2,13 +2,14 @@
   "id": 152055087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.062739,49.446182,1.062739,49.446182",
     "geom:latitude":49.446182,
     "geom:longitude":1.062739,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Nansen 76000 Rouen",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152055087,
-    "wof:lastmodified":1449045339,
+    "wof:lastmodified":1466246251,
     "wof:name":"Mille Auto",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.062739,49.446182,1.062739,49.446182],
+  "bbox": [
+    1.062739,
+    49.446182,
+    1.062739,
+    49.446182
+],
   "geometry": {"coordinates":[1.062739,49.446182],"type":"Point"}
 }

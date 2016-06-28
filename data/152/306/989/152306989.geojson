@@ -2,13 +2,14 @@
   "id": 152306989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.347232,48.85088,2.347232,48.85088",
     "geom:latitude":48.85088,
     "geom:longitude":2.347232,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Rue Domat, 75005 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873821,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152306989,
-    "wof:lastmodified":1449048708,
+    "wof:lastmodified":1466250123,
     "wof:name":"Biobject France S.a.",
     "wof:parent_id":85873821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.347232,48.85088,2.347232,48.85088],
+  "bbox": [
+    2.347232,
+    48.85088,
+    2.347232,
+    48.85088
+],
   "geometry": {"coordinates":[2.347232,48.85088],"type":"Point"}
 }

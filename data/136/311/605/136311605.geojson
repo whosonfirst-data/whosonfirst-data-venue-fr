@@ -2,13 +2,14 @@
   "id": 136311605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.10703,48.770721,2.10703,48.770721",
     "geom:latitude":48.770721,
     "geom:longitude":2.10703,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"283 rue de la Mini\u00e8res 78530 Buc",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136311605,
-    "wof:lastmodified":1449075218,
+    "wof:lastmodified":1466247406,
     "wof:name":"Pmb M\u00e9tac\u00e9ram Technologies Sa",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.10703,48.770721,2.10703,48.770721],
+  "bbox": [
+    2.10703,
+    48.770721,
+    2.10703,
+    48.770721
+],
   "geometry": {"coordinates":[2.10703,48.770721],"type":"Point"}
 }

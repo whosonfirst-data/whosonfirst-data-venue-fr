@@ -2,13 +2,14 @@
   "id": 152796499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.305789,48.830364,2.305789,48.830364",
     "geom:latitude":48.830364,
     "geom:longitude":2.305789,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"104, Rue Castagnary, 75015 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152796499,
-    "wof:lastmodified":1449046490,
+    "wof:lastmodified":1466251973,
     "wof:name":"Statiro S.a.",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.305789,48.830364,2.305789,48.830364],
+  "bbox": [
+    2.305789,
+    48.830364,
+    2.305789,
+    48.830364
+],
   "geometry": {"coordinates":[2.305789,48.830364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152606903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.31201,47.75547,7.31201,47.75547",
     "geom:latitude":47.75547,
     "geom:longitude":7.31201,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 3089, 68062 Mulhouse C\u00e9dex^^2, Rue Pierre Curie, 68200 Mulhouse",
     "sg:city":"Mulhouse",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152606903,
-    "wof:lastmodified":1449045018,
+    "wof:lastmodified":1466251086,
     "wof:name":"Mairie De Mulhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.31201,47.75547,7.31201,47.75547],
+  "bbox": [
+    7.31201,
+    47.75547,
+    7.31201,
+    47.75547
+],
   "geometry": {"coordinates":[7.31201,47.75547],"type":"Point"}
 }

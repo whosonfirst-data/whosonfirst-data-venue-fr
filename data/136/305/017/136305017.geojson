@@ -2,13 +2,14 @@
   "id": 136305017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.026352,43.351551,-71.026352,43.351551",
     "geom:latitude":43.351551,
     "geom:longitude":-71.026352,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Place Mauperthuis; Le Pouliguen",
     "sg:city":"Le Pouliguen",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085609,
-        85633793,
         85688689,
-        85837975
+        85633793,
+        85837975,
+        102085609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136305017,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466246888,
     "wof:name":"Cr\u00e9dit Mutuel De Pouliguen",
     "wof:parent_id":85837975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.026352,43.351551,-71.026352,43.351551],
+  "bbox": [
+    -71.026352,
+    43.351551,
+    -71.026352,
+    43.351551
+],
   "geometry": {"coordinates":[-71.026352,43.351551],"type":"Point"}
 }

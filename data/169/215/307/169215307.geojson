@@ -2,13 +2,14 @@
   "id": 169215307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36324,48.875481,2.36324,48.875481",
     "geom:latitude":48.875481,
     "geom:longitude":2.36324,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"121, Quai de Valmy, 75010 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169215307,
-    "wof:lastmodified":1449035385,
+    "wof:lastmodified":1466249042,
     "wof:name":"Verreries Pochet Et Du Courval S.a.",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36324,48.875481,2.36324,48.875481],
+  "bbox": [
+    2.36324,
+    48.875481,
+    2.36324,
+    48.875481
+],
   "geometry": {"coordinates":[2.36324,48.875481],"type":"Point"}
 }

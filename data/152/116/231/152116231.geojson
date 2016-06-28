@@ -2,13 +2,14 @@
   "id": 152116231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.377907,48.89473,2.377907,48.89473",
     "geom:latitude":48.89473,
     "geom:longitude":2.377907,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue De Cambrai 75917 Paris Cedex 19",
     "sg:city":"Cambrai",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152116231,
-    "wof:lastmodified":1449044980,
+    "wof:lastmodified":1466249188,
     "wof:name":"Ciel",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.377907,48.89473,2.377907,48.89473],
+  "bbox": [
+    2.377907,
+    48.89473,
+    2.377907,
+    48.89473
+],
   "geometry": {"coordinates":[2.377907,48.89473],"type":"Point"}
 }

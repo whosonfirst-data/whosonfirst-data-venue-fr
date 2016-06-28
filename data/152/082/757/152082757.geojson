@@ -2,13 +2,14 @@
   "id": 152082757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.321354,48.84866,2.321354,48.84866",
     "geom:latitude":48.84866,
     "geom:longitude":2.321354,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"99 R De S\u00e8vres 75006 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152082757,
-    "wof:lastmodified":1449044411,
+    "wof:lastmodified":1466247674,
     "wof:name":"Appel Debarras Services Sarl",
     "wof:parent_id":85873837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.321354,48.84866,2.321354,48.84866],
+  "bbox": [
+    2.321354,
+    48.84866,
+    2.321354,
+    48.84866
+],
   "geometry": {"coordinates":[2.321354,48.84866],"type":"Point"}
 }

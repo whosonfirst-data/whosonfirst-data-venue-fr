@@ -2,13 +2,14 @@
   "id": 153024509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.304369,48.902023,2.304369,48.902023",
     "geom:latitude":48.902023,
     "geom:longitude":2.304369,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Bd Jean Jaur\u00e8s 92110 Clichy",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024509,
-    "wof:lastmodified":1449040550,
+    "wof:lastmodified":1466246538,
     "wof:name":"La Poste",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.304369,48.902023,2.304369,48.902023],
+  "bbox": [
+    2.304369,
+    48.902023,
+    2.304369,
+    48.902023
+],
   "geometry": {"coordinates":[2.304369,48.902023],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152403875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.404946,48.837276,2.404946,48.837276",
     "geom:latitude":48.837276,
     "geom:longitude":2.404946,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12/14, Rue de la V\u00e9ga, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873903,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152403875,
-    "wof:lastmodified":1449048267,
+    "wof:lastmodified":1466250447,
     "wof:name":"Desbordes International S.a.",
     "wof:parent_id":85873903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.404946,48.837276,2.404946,48.837276],
+  "bbox": [
+    2.404946,
+    48.837276,
+    2.404946,
+    48.837276
+],
   "geometry": {"coordinates":[2.404946,48.837276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152111427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.259643,48.837788,2.259643,48.837788",
     "geom:latitude":48.837788,
     "geom:longitude":2.259643,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Pl L\u00e9on Deubel 75016 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152111427,
-    "wof:lastmodified":1449049043,
+    "wof:lastmodified":1466249098,
     "wof:name":"Panodia",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.259643,48.837788,2.259643,48.837788],
+  "bbox": [
+    2.259643,
+    48.837788,
+    2.259643,
+    48.837788
+],
   "geometry": {"coordinates":[2.259643,48.837788],"type":"Point"}
 }

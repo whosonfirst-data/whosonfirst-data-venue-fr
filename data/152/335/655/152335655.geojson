@@ -2,13 +2,14 @@
   "id": 152335655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.427225,48.866291,2.427225,48.866291",
     "geom:latitude":48.866291,
     "geom:longitude":2.427225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Av. Jean Lolive, 93177 Bagnolet C\u00e9dex",
     "sg:city":"Bagnolet",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152335655,
-    "wof:lastmodified":1449047344,
+    "wof:lastmodified":1466250234,
     "wof:name":"C.m.r. S.a. - Comptoir De Mat\u00e9riaux R\u00e9unis",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.427225,48.866291,2.427225,48.866291],
+  "bbox": [
+    2.427225,
+    48.866291,
+    2.427225,
+    48.866291
+],
   "geometry": {"coordinates":[2.427225,48.866291],"type":"Point"}
 }

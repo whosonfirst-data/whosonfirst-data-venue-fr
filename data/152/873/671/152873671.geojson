@@ -2,13 +2,14 @@
   "id": 152873671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-106.577492,35.1091,-106.577492,35.1091",
     "geom:latitude":35.1091,
     "geom:longitude":-106.577492,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Imp St Exup\u00e9ry 87110 Bosmie L'Aiguille",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871883,
+        85688493,
         85633793,
         85976715,
         102081199,
-        85688493
+        85871883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152873671,
-    "wof:lastmodified":1449045268,
+    "wof:lastmodified":1466252157,
     "wof:name":"Papeteries Et Cartonneries Lacaux Freres Sa",
     "wof:parent_id":85871883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-106.577492,35.1091,-106.577492,35.1091],
-  "geometry": {"coordinates":[-106.577492,35.1091],"type":"Point"}
+  "bbox": [
+    -106.577492,
+    35.1091,
+    -106.577492,
+    35.1091
+],
+  "geometry": {"coordinates":[-106.57749200000001,35.1091],"type":"Point"}
 }

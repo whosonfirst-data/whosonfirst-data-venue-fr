@@ -2,13 +2,14 @@
   "id": 152217285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30174,48.900822,2.30174,48.900822",
     "geom:latitude":48.900822,
     "geom:longitude":2.30174,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 R Cast\u00e9r\u00e8s 92110 Clichy",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873993,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152217285,
-    "wof:lastmodified":1449048641,
+    "wof:lastmodified":1466249771,
     "wof:name":"Agathon (carrosserie) Sarl",
     "wof:parent_id":85873993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30174,48.900822,2.30174,48.900822],
+  "bbox": [
+    2.30174,
+    48.900822,
+    2.30174,
+    48.900822
+],
   "geometry": {"coordinates":[2.30174,48.900822],"type":"Point"}
 }

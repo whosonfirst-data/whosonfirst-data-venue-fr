@@ -2,13 +2,14 @@
   "id": 153079175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.706925,48.578121,7.706925,48.578121",
     "geom:latitude":48.578121,
     "geom:longitude":7.706925,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"117A, Rte des Romains, 67200 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153079175,
-    "wof:lastmodified":1449040746,
+    "wof:lastmodified":1466247154,
     "wof:name":"Atac S.a.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.706925,48.578121,7.706925,48.578121],
+  "bbox": [
+    7.706925,
+    48.578121,
+    7.706925,
+    48.578121
+],
   "geometry": {"coordinates":[7.706925,48.578121],"type":"Point"}
 }

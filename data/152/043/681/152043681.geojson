@@ -2,13 +2,14 @@
   "id": 152043681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06387,50.637981,3.06387,50.637981",
     "geom:latitude":50.637981,
     "geom:longitude":3.06387,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Du Th\u00e9\u00e2tre BP 359 59020 Lille Cedex",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152043681,
-    "wof:lastmodified":1449047753,
+    "wof:lastmodified":1466245268,
     "wof:name":"Chambre De Commerce De L'industrie Lille-metropole",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06387,50.637981,3.06387,50.637981],
+  "bbox": [
+    3.06387,
+    50.637981,
+    3.06387,
+    50.637981
+],
   "geometry": {"coordinates":[3.06387,50.637981],"type":"Point"}
 }

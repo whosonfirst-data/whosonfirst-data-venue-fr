@@ -2,13 +2,14 @@
   "id": 153035805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352811,48.847851,2.352811,48.847851",
     "geom:latitude":48.847851,
     "geom:longitude":2.352811,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Rue Du Cardinal Lemoine; Paris",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873819,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":153035805,
-    "wof:lastmodified":1449040728,
+    "wof:lastmodified":1466247430,
     "wof:name":"Paradis Latin",
     "wof:parent_id":85873819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352811,48.847851,2.352811,48.847851],
+  "bbox": [
+    2.352811,
+    48.847851,
+    2.352811,
+    48.847851
+],
   "geometry": {"coordinates":[2.352811,48.847851],"type":"Point"}
 }

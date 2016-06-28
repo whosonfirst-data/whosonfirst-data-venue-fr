@@ -2,13 +2,14 @@
   "id": 169061827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.103195,44.947742,-93.103195,44.947742",
     "geom:latitude":44.947742,
     "geom:longitude":-93.103195,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte de Saint Paul",
     "sg:city":"L'Absie",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873317,
+        85688727,
         85633793,
         85953191,
         102087007,
-        85688727
+        85873317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169061827,
-    "wof:lastmodified":1449035059,
+    "wof:lastmodified":1466246619,
     "wof:name":"Migaud S.a.",
     "wof:parent_id":85873317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.103195,44.947742,-93.103195,44.947742],
+  "bbox": [
+    -93.103195,
+    44.947742,
+    -93.103195,
+    44.947742
+],
   "geometry": {"coordinates":[-93.103195,44.947742],"type":"Point"}
 }

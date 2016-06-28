@@ -2,13 +2,14 @@
   "id": 152090061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.417133,48.884075,2.417133,48.884075",
     "geom:latitude":48.884075,
     "geom:longitude":2.417133,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Boulevard Eugene Decros 93260 Les Lilas",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152090061,
-    "wof:lastmodified":1449047982,
+    "wof:lastmodified":1466248021,
     "wof:name":"Logorythme",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.417133,48.884075,2.417133,48.884075],
+  "bbox": [
+    2.417133,
+    48.884075,
+    2.417133,
+    48.884075
+],
   "geometry": {"coordinates":[2.417133,48.884075],"type":"Point"}
 }

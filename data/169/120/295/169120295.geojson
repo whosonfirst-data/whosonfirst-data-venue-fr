@@ -2,13 +2,14 @@
   "id": 169120295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.051786,49.466503,1.051786,49.466503",
     "geom:latitude":49.466503,
     "geom:longitude":1.051786,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"267, Rte de Dieppe, 76250 D\u00e9ville l\u00e8s Rouen",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169120295,
-    "wof:lastmodified":1449035489,
+    "wof:lastmodified":1466248102,
     "wof:name":"Rouen Electrolyse S.a.",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.051786,49.466503,1.051786,49.466503],
+  "bbox": [
+    1.051786,
+    49.466503,
+    1.051786,
+    49.466503
+],
   "geometry": {"coordinates":[1.051786,49.466503],"type":"Point"}
 }

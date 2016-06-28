@@ -2,13 +2,14 @@
   "id": 152544055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30511,48.902859,2.30511,48.902859",
     "geom:latitude":48.902859,
     "geom:longitude":2.30511,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 149, 92113 Clichy C\u00e9dex^^42, Rue M\u00e9d\u00e9ric, 92110 Clichy",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152544055,
-    "wof:lastmodified":1449048895,
+    "wof:lastmodified":1466250964,
     "wof:name":"Interkom S.a.s.",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30511,48.902859,2.30511,48.902859],
+  "bbox": [
+    2.30511,
+    48.902859,
+    2.30511,
+    48.902859
+],
   "geometry": {"coordinates":[2.30511,48.902859],"type":"Point"}
 }

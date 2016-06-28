@@ -2,13 +2,14 @@
   "id": 152298105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359486,48.858105,2.359486,48.858105",
     "geom:latitude":48.858105,
     "geom:longitude":2.359486,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Rue des Francs Bourgeois, 75004 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,13 +19,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
-        85873811,
-        102067591
+        85873801,
+        102067591,
+        85873811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152298105,
-    "wof:lastmodified":1449045549,
+    "wof:lastmodified":1466250059,
     "wof:name":"Barbara Bui Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359486,48.858105,2.359486,48.858105],
+  "bbox": [
+    2.359486,
+    48.858105,
+    2.359486,
+    48.858105
+],
   "geometry": {"coordinates":[2.359486,48.858105],"type":"Point"}
 }

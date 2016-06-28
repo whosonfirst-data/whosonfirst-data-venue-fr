@@ -2,13 +2,14 @@
   "id": 152058685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.747728,48.599201,7.747728,48.599201",
     "geom:latitude":48.599201,
     "geom:longitude":7.747728,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue du Ch\u00e2teau d'Angleterre 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152058685,
-    "wof:lastmodified":1449044985,
+    "wof:lastmodified":1466246766,
     "wof:name":"Neckermann France Sa",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.747728,48.599201,7.747728,48.599201],
+  "bbox": [
+    7.747728,
+    48.599201,
+    7.747728,
+    48.599201
+],
   "geometry": {"coordinates":[7.747728,48.599201],"type":"Point"}
 }

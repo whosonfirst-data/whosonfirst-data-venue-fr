@@ -2,13 +2,14 @@
   "id": 152297579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.566451,47.21521,-1.566451,47.21521",
     "geom:latitude":47.21521,
     "geom:longitude":-1.566451,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Bertrand Geslin, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152297579,
-    "wof:lastmodified":1449047239,
+    "wof:lastmodified":1466250071,
     "wof:name":"Banque N.s.m.d",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.566451,47.21521,-1.566451,47.21521],
+  "bbox": [
+    -1.566451,
+    47.21521,
+    -1.566451,
+    47.21521
+],
   "geometry": {"coordinates":[-1.566451,47.21521],"type":"Point"}
 }

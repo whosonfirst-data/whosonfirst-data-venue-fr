@@ -2,13 +2,14 @@
   "id": 152336257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.806015,43.948753,4.806015,43.948753",
     "geom:latitude":43.948753,
     "geom:longitude":4.806015,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 974, 84093 Avignon C\u00e9dex 9^^ZI de la Courtine, 84000 Avignon",
     "sg:city":"La Courtine",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152336257,
-    "wof:lastmodified":1449044191,
+    "wof:lastmodified":1466250223,
     "wof:name":"C.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.806015,43.948753,4.806015,43.948753],
+  "bbox": [
+    4.806015,
+    43.948753,
+    4.806015,
+    43.948753
+],
   "geometry": {"coordinates":[4.806015,43.948753],"type":"Point"}
 }

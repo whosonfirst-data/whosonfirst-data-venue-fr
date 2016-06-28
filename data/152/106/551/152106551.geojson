@@ -2,13 +2,14 @@
   "id": 152106551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.532013,48.810005,2.532013,48.810005",
     "geom:latitude":48.810005,
     "geom:longitude":2.532013,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"917 Rue Marcel Paul 94500 Champigny Sur Marne",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152106551,
-    "wof:lastmodified":1449044218,
+    "wof:lastmodified":1466249016,
     "wof:name":"Airel Sarl",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.532013,48.810005,2.532013,48.810005],
+  "bbox": [
+    2.532013,
+    48.810005,
+    2.532013,
+    48.810005
+],
   "geometry": {"coordinates":[2.532013,48.810005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136281433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34302,48.858479,2.34302,48.858479",
     "geom:latitude":48.858479,
     "geom:longitude":2.34302,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Quai De La M\u00e9gisserie 75001 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281433,
-    "wof:lastmodified":1449076053,
+    "wof:lastmodified":1466245540,
     "wof:name":"Lowe Alice",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34302,48.858479,2.34302,48.858479],
+  "bbox": [
+    2.34302,
+    48.858479,
+    2.34302,
+    48.858479
+],
   "geometry": {"coordinates":[2.34302,48.858479],"type":"Point"}
 }

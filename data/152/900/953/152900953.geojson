@@ -2,13 +2,14 @@
   "id": 152900953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.674287,47.201031,-1.674287,47.201031",
     "geom:latitude":47.201031,
     "geom:longitude":-1.674287,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Rue Jean Jaures 44610 Indre",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794541,
+        85683233,
         85633147,
         101753357,
         102071689,
-        85683233
+        85794541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152900953,
-    "wof:lastmodified":1449046302,
+    "wof:lastmodified":1466252257,
     "wof:name":"Sa Horelec",
     "wof:parent_id":85794541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.674287,47.201031,-1.674287,47.201031],
+  "bbox": [
+    -1.674287,
+    47.201031,
+    -1.674287,
+    47.201031
+],
   "geometry": {"coordinates":[-1.674287,47.201031],"type":"Point"}
 }

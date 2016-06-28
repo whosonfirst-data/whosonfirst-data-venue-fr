@@ -2,13 +2,14 @@
   "id": 152744659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.779044,48.544842,-2.779044,48.544842",
     "geom:latitude":48.544842,
     "geom:longitude":-2.779044,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Rue H\u00e9l\u00e8ne Boucher, 22190 Pl\u00e9rin",
     "sg:city":"Pl\u00e9rin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152744659,
-    "wof:lastmodified":1449045977,
+    "wof:lastmodified":1466251702,
     "wof:name":"Sana S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.779044,48.544842,-2.779044,48.544842],
+  "bbox": [
+    -2.779044,
+    48.544842,
+    -2.779044,
+    48.544842
+],
   "geometry": {"coordinates":[-2.779044,48.544842],"type":"Point"}
 }

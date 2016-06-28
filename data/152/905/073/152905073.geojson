@@ -2,13 +2,14 @@
   "id": 152905073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.339529,48.814854,2.339529,48.814854",
     "geom:latitude":48.814854,
     "geom:longitude":2.339529,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue Gabrielle 94250 Gentilly",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873937,
+        85683459,
         85633147,
         101749049,
         102070457,
-        85683459
+        85873937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152905073,
-    "wof:lastmodified":1449046112,
+    "wof:lastmodified":1466252239,
     "wof:name":"Bromeca Sa",
     "wof:parent_id":85873937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.339529,48.814854,2.339529,48.814854],
+  "bbox": [
+    2.339529,
+    48.814854,
+    2.339529,
+    48.814854
+],
   "geometry": {"coordinates":[2.339529,48.814854],"type":"Point"}
 }

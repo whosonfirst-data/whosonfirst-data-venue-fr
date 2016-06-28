@@ -2,13 +2,14 @@
   "id": 152064337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.73883,48.56567,7.73883,48.56567",
     "geom:latitude":48.56567,
     "geom:longitude":7.73883,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 R De La Plaine Des Bouchers 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152064337,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247147,
     "wof:name":"Dora Productions Sarl",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.73883,48.56567,7.73883,48.56567],
+  "bbox": [
+    7.73883,
+    48.56567,
+    7.73883,
+    48.56567
+],
   "geometry": {"coordinates":[7.73883,48.56567],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136309011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.47393,48.427288,-4.47393,48.427288",
     "geom:latitude":48.427288,
     "geom:longitude":-4.47393,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 rue Amiral Romain Desfoss\u00e9s, 29200 Brest, Dept 29",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136309011,
-    "wof:lastmodified":1449075192,
+    "wof:lastmodified":1466247144,
     "wof:name":"Suravenir",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.47393,48.427288,-4.47393,48.427288],
+  "bbox": [
+    -4.47393,
+    48.427288,
+    -4.47393,
+    48.427288
+],
   "geometry": {"coordinates":[-4.47393,48.427288],"type":"Point"}
 }

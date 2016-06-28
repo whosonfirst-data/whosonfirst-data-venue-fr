@@ -2,13 +2,14 @@
   "id": 136297469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.575554,44.848095,-0.575554,44.848095",
     "geom:latitude":44.848095,
     "geom:longitude":-0.575554,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 cours Mar\u00e9chal Foch; Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897681,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136297469,
-    "wof:lastmodified":1449075782,
+    "wof:lastmodified":1466246575,
     "wof:name":"Banque La H\u00e9nin",
     "wof:parent_id":85897681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.575554,44.848095,-0.575554,44.848095],
+  "bbox": [
+    -0.575554,
+    44.848095,
+    -0.575554,
+    44.848095
+],
   "geometry": {"coordinates":[-0.575554,44.848095],"type":"Point"}
 }

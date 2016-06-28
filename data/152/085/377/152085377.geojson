@@ -2,13 +2,14 @@
   "id": 152085377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.416847,48.858681,2.416847,48.858681",
     "geom:latitude":48.858681,
     "geom:longitude":2.416847,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49-55 R Du Lieutenant Thomas 93170 Bagnolet",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152085377,
-    "wof:lastmodified":1449045452,
+    "wof:lastmodified":1466247826,
     "wof:name":"Symbole Textile Europeen",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.416847,48.858681,2.416847,48.858681],
+  "bbox": [
+    2.416847,
+    48.858681,
+    2.416847,
+    48.858681
+],
   "geometry": {"coordinates":[2.416847,48.858681],"type":"Point"}
 }

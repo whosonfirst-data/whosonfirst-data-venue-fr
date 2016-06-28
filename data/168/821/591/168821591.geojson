@@ -2,13 +2,14 @@
   "id": 168821591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.568005,44.8293,-0.568005,44.8293",
     "geom:latitude":44.8293,
     "geom:longitude":-0.568005,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue de Begles, 33800 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897677,
+        85683243,
         85633147,
         101750773,
         102071707,
-        85683243
+        85897677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168821591,
-    "wof:lastmodified":1449028184,
+    "wof:lastmodified":1466245301,
     "wof:name":"Banco Popular Comercial",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.568005,44.8293,-0.568005,44.8293],
+  "bbox": [
+    -0.568005,
+    44.8293,
+    -0.568005,
+    44.8293
+],
   "geometry": {"coordinates":[-0.568005,44.8293],"type":"Point"}
 }

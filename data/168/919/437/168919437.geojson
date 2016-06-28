@@ -2,13 +2,14 @@
   "id": 168919437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.576781,47.211002,-1.576781,47.211002",
     "geom:latitude":47.211002,
     "geom:longitude":-1.576781,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Place du G\u00e9n\u00e9ral Melinet, 44100 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168919437,
-    "wof:lastmodified":1449028388,
+    "wof:lastmodified":1466247852,
     "wof:name":"Edf Et Gaz De France",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.576781,47.211002,-1.576781,47.211002],
+  "bbox": [
+    -1.576781,
+    47.211002,
+    -1.576781,
+    47.211002
+],
   "geometry": {"coordinates":[-1.576781,47.211002],"type":"Point"}
 }

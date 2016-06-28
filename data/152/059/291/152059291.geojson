@@ -2,13 +2,14 @@
   "id": 152059291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.609807,48.803226,2.609807,48.803226",
     "geom:latitude":48.803226,
     "geom:longitude":2.609807,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Avenue De La Republique 77340 Pontault Combault",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152059291,
-    "wof:lastmodified":1449045564,
+    "wof:lastmodified":1466246725,
     "wof:name":"Sarl Pelicano",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.609807,48.803226,2.609807,48.803226],
+  "bbox": [
+    2.609807,
+    48.803226,
+    2.609807,
+    48.803226
+],
   "geometry": {"coordinates":[2.609807,48.803226],"type":"Point"}
 }

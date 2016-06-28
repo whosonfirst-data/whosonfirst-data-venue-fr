@@ -2,13 +2,14 @@
   "id": 169247441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350369,48.876241,2.350369,48.876241",
     "geom:latitude":48.876241,
     "geom:longitude":2.350369,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue des Messageries",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"http://pierlis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169247441,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249511,
     "wof:name":"Pierlis",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350369,48.876241,2.350369,48.876241],
+  "bbox": [
+    2.350369,
+    48.876241,
+    2.350369,
+    48.876241
+],
   "geometry": {"coordinates":[2.350369,48.876241],"type":"Point"}
 }

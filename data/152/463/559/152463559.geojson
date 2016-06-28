@@ -2,13 +2,14 @@
   "id": 152463559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369269,48.834435,2.369269,48.834435",
     "geom:latitude":48.834435,
     "geom:longitude":2.369269,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Rue Louise Weiss, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152463559,
-    "wof:lastmodified":1449047510,
+    "wof:lastmodified":1466250586,
     "wof:name":"Euromodel S.a.r.l.",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369269,48.834435,2.369269,48.834435],
+  "bbox": [
+    2.369269,
+    48.834435,
+    2.369269,
+    48.834435
+],
   "geometry": {"coordinates":[2.369269,48.834435],"type":"Point"}
 }

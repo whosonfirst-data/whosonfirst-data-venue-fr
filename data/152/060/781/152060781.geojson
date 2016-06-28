@@ -2,13 +2,14 @@
   "id": 152060781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.345606,48.864506,2.345606,48.864506",
     "geom:latitude":48.864506,
     "geom:longitude":2.345606,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Rue Etienne Marcel 75001 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060781,
-    "wof:lastmodified":1449048493,
+    "wof:lastmodified":1466246889,
     "wof:name":"Falke France",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.345606,48.864506,2.345606,48.864506],
+  "bbox": [
+    2.345606,
+    48.864506,
+    2.345606,
+    48.864506
+],
   "geometry": {"coordinates":[2.345606,48.864506],"type":"Point"}
 }

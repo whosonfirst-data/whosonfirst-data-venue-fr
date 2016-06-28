@@ -2,13 +2,14 @@
   "id": 152907571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341449,48.853645,2.341449,48.853645",
     "geom:latitude":48.853645,
     "geom:longitude":2.341449,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Seguier 75006 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873825,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152907571,
-    "wof:lastmodified":1449048569,
+    "wof:lastmodified":1466252258,
     "wof:name":"Actes Sud",
     "wof:parent_id":85873825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341449,48.853645,2.341449,48.853645],
+  "bbox": [
+    2.341449,
+    48.853645,
+    2.341449,
+    48.853645
+],
   "geometry": {"coordinates":[2.341449,48.853645],"type":"Point"}
 }

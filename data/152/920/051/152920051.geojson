@@ -2,13 +2,14 @@
   "id": 152920051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.275579,48.801792,2.275579,48.801792",
     "geom:latitude":48.801792,
     "geom:longitude":2.275579,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"110 rue Pierre Brossolette 92320 Chatillon",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152920051,
-    "wof:lastmodified":1449047871,
+    "wof:lastmodified":1466252278,
     "wof:name":"Prographique Sas",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.275579,48.801792,2.275579,48.801792],
+  "bbox": [
+    2.275579,
+    48.801792,
+    2.275579,
+    48.801792
+],
   "geometry": {"coordinates":[2.275579,48.801792],"type":"Point"}
 }

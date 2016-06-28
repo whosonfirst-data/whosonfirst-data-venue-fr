@@ -2,13 +2,14 @@
   "id": 152835429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.654052,47.211758,-1.654052,47.211758",
     "geom:latitude":47.211758,
     "geom:longitude":-1.654052,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 33, 44801 Saint Herblain C\u00e9dex^^20, Rue du Ch\u00eane Lass\u00e9, 44800 Saint Herblain",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794541,
+        85683233,
         85633147,
         101753357,
         102071689,
-        85683233
+        85794541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152835429,
-    "wof:lastmodified":1449044967,
+    "wof:lastmodified":1466252002,
     "wof:name":"Ugine France Service",
     "wof:parent_id":85794541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.654052,47.211758,-1.654052,47.211758],
+  "bbox": [
+    -1.654052,
+    47.211758,
+    -1.654052,
+    47.211758
+],
   "geometry": {"coordinates":[-1.654052,47.211758],"type":"Point"}
 }

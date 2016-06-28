@@ -2,13 +2,14 @@
   "id": 136281309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.243707,48.883457,2.243707,48.883457",
     "geom:latitude":48.883457,
     "geom:longitude":2.243707,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rue Jean Jaur\u00e8s 92800 Puteaux",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281309,
-    "wof:lastmodified":1449076055,
+    "wof:lastmodified":1466245514,
     "wof:name":"Grenade Sa",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.243707,48.883457,2.243707,48.883457],
+  "bbox": [
+    2.243707,
+    48.883457,
+    2.243707,
+    48.883457
+],
   "geometry": {"coordinates":[2.243707,48.883457],"type":"Point"}
 }

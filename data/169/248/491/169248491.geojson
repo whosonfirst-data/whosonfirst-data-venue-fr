@@ -2,13 +2,14 @@
   "id": 169248491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.329587,48.875992,2.329587,48.875992",
     "geom:latitude":48.875992,
     "geom:longitude":2.329587,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"82, rue Saint-Lazare",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.itnsa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169248491,
-    "wof:lastmodified":1449034500,
+    "wof:lastmodified":1466249512,
     "wof:name":"ITN",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.329587,48.875992,2.329587,48.875992],
+  "bbox": [
+    2.329587,
+    48.875992,
+    2.329587,
+    48.875992
+],
   "geometry": {"coordinates":[2.329587,48.875992],"type":"Point"}
 }

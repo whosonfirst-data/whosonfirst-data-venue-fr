@@ -2,13 +2,14 @@
   "id": 152044189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.278258,48.868935,2.278258,48.868935",
     "geom:latitude":48.868935,
     "geom:longitude":2.278258,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue De Noisiel 75116 Paris",
     "sg:city":"Noisiel",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152044189,
-    "wof:lastmodified":1449046711,
+    "wof:lastmodified":1466245373,
     "wof:name":"Portugal - Ambassade",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.278258,48.868935,2.278258,48.868935],
+  "bbox": [
+    2.278258,
+    48.868935,
+    2.278258,
+    48.868935
+],
   "geometry": {"coordinates":[2.278258,48.868935],"type":"Point"}
 }

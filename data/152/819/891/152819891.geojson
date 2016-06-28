@@ -2,13 +2,14 @@
   "id": 152819891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.291016,48.820904,2.291016,48.820904",
     "geom:latitude":48.820904,
     "geom:longitude":2.291016,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 16, 92173 Vanves C\u00e9dex^^27, Bd du Lyc\u00e9e, 92170 Vanves",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152819891,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466251970,
     "wof:name":"Thyssen Monsolift S.a.",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.291016,48.820904,2.291016,48.820904],
+  "bbox": [
+    2.291016,
+    48.820904,
+    2.291016,
+    48.820904
+],
   "geometry": {"coordinates":[2.291016,48.820904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152288893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.379707,40.047821,-105.379707,40.047821",
     "geom:latitude":40.047821,
     "geom:longitude":-105.379707,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 210",
     "sg:city":"Albert C\u00e9dex",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85822117,
+        85688603,
         85633793,
         85930693,
         102085251,
-        85688603
+        85822117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152288893,
-    "wof:lastmodified":1449044796,
+    "wof:lastmodified":1466250049,
     "wof:name":"A\u00e9rospatiale Matra Airbus S.a.",
     "wof:parent_id":85822117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.379707,40.047821,-105.379707,40.047821],
+  "bbox": [
+    -105.379707,
+    40.047821,
+    -105.379707,
+    40.047821
+],
   "geometry": {"coordinates":[-105.379707,40.047821],"type":"Point"}
 }

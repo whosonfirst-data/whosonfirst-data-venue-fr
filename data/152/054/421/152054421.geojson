@@ -2,13 +2,14 @@
   "id": 152054421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.495022,48.7705,2.495022,48.7705",
     "geom:latitude":48.7705,
     "geom:longitude":2.495022,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Avenue Des Orangers 94380 Bonneuil Sur Marne",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152054421,
-    "wof:lastmodified":1449046481,
+    "wof:lastmodified":1466246221,
     "wof:name":"Culligan France",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.495022,48.7705,2.495022,48.7705],
+  "bbox": [
+    2.495022,
+    48.7705,
+    2.495022,
+    48.7705
+],
   "geometry": {"coordinates":[2.495022,48.7705],"type":"Point"}
 }

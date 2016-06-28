@@ -2,13 +2,14 @@
   "id": 169003991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.360605,48.873032,2.360605,48.873032",
     "geom:latitude":48.873032,
     "geom:longitude":2.360605,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Rue des Vinaigriers, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169003991,
-    "wof:lastmodified":1449035703,
+    "wof:lastmodified":1466245496,
     "wof:name":"Interface Data S.a.",
     "wof:parent_id":85873875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.360605,48.873032,2.360605,48.873032],
+  "bbox": [
+    2.360605,
+    48.873032,
+    2.360605,
+    48.873032
+],
   "geometry": {"coordinates":[2.360605,48.873032],"type":"Point"}
 }

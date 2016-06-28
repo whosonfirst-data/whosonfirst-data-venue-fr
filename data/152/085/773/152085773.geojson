@@ -2,13 +2,14 @@
   "id": 152085773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.345343,48.849579,2.345343,48.849579",
     "geom:latitude":48.849579,
     "geom:longitude":2.345343,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rue Des Ecoles 75005 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873821,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152085773,
-    "wof:lastmodified":1449045453,
+    "wof:lastmodified":1466247996,
     "wof:name":"Cotenor",
     "wof:parent_id":85873821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.345343,48.849579,2.345343,48.849579],
+  "bbox": [
+    2.345343,
+    48.849579,
+    2.345343,
+    48.849579
+],
   "geometry": {"coordinates":[2.345343,48.849579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152939767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.374679,48.913506,2.374679,48.913506",
     "geom:latitude":48.913506,
     "geom:longitude":2.374679,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Passage De L Avenir 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152939767,
-    "wof:lastmodified":1449045661,
+    "wof:lastmodified":1466252386,
     "wof:name":"Societe Generale De Diffusion Et De Fabrication Sdf (sdf)",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.374679,48.913506,2.374679,48.913506],
+  "bbox": [
+    2.374679,
+    48.913506,
+    2.374679,
+    48.913506
+],
   "geometry": {"coordinates":[2.374679,48.913506],"type":"Point"}
 }

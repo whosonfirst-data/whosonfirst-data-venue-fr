@@ -2,13 +2,14 @@
   "id": 152073535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.765384,48.628822,7.765384,48.628822",
     "geom:latitude":48.628822,
     "geom:longitude":7.765384,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rue De L'Electricit\u00e9 Zi De Bischeim 67800 Hoenheim",
     "sg:city":"Hoenheim",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152073535,
-    "wof:lastmodified":1449044938,
+    "wof:lastmodified":1466245962,
     "wof:name":"Protina Lactovit Sa",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.765384,48.628822,7.765384,48.628822],
+  "bbox": [
+    7.765384,
+    48.628822,
+    7.765384,
+    48.628822
+],
   "geometry": {"coordinates":[7.765384,48.628822],"type":"Point"}
 }

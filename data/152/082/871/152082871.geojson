@@ -2,13 +2,14 @@
   "id": 152082871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32228,48.921619,2.32228,48.921619",
     "geom:latitude":48.921619,
     "geom:longitude":2.32228,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bat",
     "sg:city":"Alexandre 92230 Gennevilliers",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152082871,
-    "wof:lastmodified":1449044408,
+    "wof:lastmodified":1466247687,
     "wof:name":"Icf Environnement",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32228,48.921619,2.32228,48.921619],
+  "bbox": [
+    2.32228,
+    48.921619,
+    2.32228,
+    48.921619
+],
   "geometry": {"coordinates":[2.32228,48.921619],"type":"Point"}
 }

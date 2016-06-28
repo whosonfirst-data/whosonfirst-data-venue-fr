@@ -2,13 +2,14 @@
   "id": 152920411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.292009,48.898609,2.292009,48.898609",
     "geom:latitude":48.898609,
     "geom:longitude":2.292009,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Collange 92300 Levallois Perret",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152920411,
-    "wof:lastmodified":1449047870,
+    "wof:lastmodified":1466252291,
     "wof:name":"Acapella",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.292009,48.898609,2.292009,48.898609],
+  "bbox": [
+    2.292009,
+    48.898609,
+    2.292009,
+    48.898609
+],
   "geometry": {"coordinates":[2.292009,48.898609],"type":"Point"}
 }

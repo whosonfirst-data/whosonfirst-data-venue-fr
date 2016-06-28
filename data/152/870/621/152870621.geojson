@@ -2,13 +2,14 @@
   "id": 152870621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.6272,48.801189,2.6272,48.801189",
     "geom:latitude":48.801189,
     "geom:longitude":2.6272,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue Denis Papin 77680 Roissy En Brie",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152870621,
-    "wof:lastmodified":1449045512,
+    "wof:lastmodified":1466252225,
     "wof:name":"Ramade Cartonnage Sarl",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.6272,48.801189,2.6272,48.801189],
+  "bbox": [
+    2.6272,
+    48.801189,
+    2.6272,
+    48.801189
+],
   "geometry": {"coordinates":[2.6272,48.801189],"type":"Point"}
 }

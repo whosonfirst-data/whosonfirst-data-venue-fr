@@ -2,13 +2,14 @@
   "id": 152060879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.368785,48.877842,2.368785,48.877842",
     "geom:latitude":48.877842,
     "geom:longitude":2.368785,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Albert Camus 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060879,
-    "wof:lastmodified":1449048492,
+    "wof:lastmodified":1466246909,
     "wof:name":"Francesco Rizzi",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.368785,48.877842,2.368785,48.877842],
+  "bbox": [
+    2.368785,
+    48.877842,
+    2.368785,
+    48.877842
+],
   "geometry": {"coordinates":[2.368785,48.877842],"type":"Point"}
 }

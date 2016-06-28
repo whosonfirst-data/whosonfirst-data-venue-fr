@@ -2,13 +2,14 @@
   "id": 136314835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.380763,43.594028,1.380763,43.594028",
     "geom:latitude":43.594028,
     "geom:longitude":1.380763,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Chem Salini\u00e9 31100 Toulouse",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794569,
+        85683397,
         85633147,
         101750693,
         102071661,
-        85683397
+        85794569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136314835,
-    "wof:lastmodified":1449076207,
+    "wof:lastmodified":1466245613,
     "wof:name":"Association Gestion Organismes Prives",
     "wof:parent_id":85794569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.380763,43.594028,1.380763,43.594028],
+  "bbox": [
+    1.380763,
+    43.594028,
+    1.380763,
+    43.594028
+],
   "geometry": {"coordinates":[1.380763,43.594028],"type":"Point"}
 }

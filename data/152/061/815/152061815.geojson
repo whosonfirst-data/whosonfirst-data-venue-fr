@@ -2,13 +2,14 @@
   "id": 152061815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350741,48.869579,2.350741,48.869579",
     "geom:latitude":48.869579,
     "geom:longitude":2.350741,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Rue Beauregard 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497,
-        85873883,
-        102068731
+        85873795,
+        102068731,
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152061815,
-    "wof:lastmodified":1449047637,
+    "wof:lastmodified":1466246960,
     "wof:name":"Mitsouki Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350741,48.869579,2.350741,48.869579],
+  "bbox": [
+    2.350741,
+    48.869579,
+    2.350741,
+    48.869579
+],
   "geometry": {"coordinates":[2.350741,48.869579],"type":"Point"}
 }

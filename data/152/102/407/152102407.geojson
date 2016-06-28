@@ -2,13 +2,14 @@
   "id": 152102407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.522285,29.531046,-82.522285,29.531046",
     "geom:latitude":29.531046,
     "geom:longitude":-82.522285,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 rue Roger Bonnet 27340 PONT DE L ARCHE",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085829,
-        85633793,
         85688651,
-        85845299
+        85633793,
+        85845299,
+        102085829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152102407,
-    "wof:lastmodified":1449048573,
+    "wof:lastmodified":1466248918,
     "wof:name":"Buchmann France Sas",
     "wof:parent_id":85845299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.522285,29.531046,-82.522285,29.531046],
+  "bbox": [
+    -82.522285,
+    29.531046,
+    -82.522285,
+    29.531046
+],
   "geometry": {"coordinates":[-82.522285,29.531046],"type":"Point"}
 }

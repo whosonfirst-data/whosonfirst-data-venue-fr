@@ -2,13 +2,14 @@
   "id": 136314797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.272518,43.699135,7.272518,43.699135",
     "geom:latitude":43.699135,
     "geom:longitude":7.272518,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 A Rue Gioffredo 06000 Nice",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136314797,
-    "wof:lastmodified":1449076209,
+    "wof:lastmodified":1466245605,
     "wof:name":"Association De La Caisse Interprofessionelle Des Conges Payes",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.272518,43.699135,7.272518,43.699135],
+  "bbox": [
+    7.272518,
+    43.699135,
+    7.272518,
+    43.699135
+],
   "geometry": {"coordinates":[7.272518,43.699135],"type":"Point"}
 }

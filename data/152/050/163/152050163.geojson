@@ -2,13 +2,14 @@
   "id": 152050163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.739362,48.553181,7.739362,48.553181",
     "geom:latitude":48.553181,
     "geom:longitude":7.739362,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Livio 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152050163,
-    "wof:lastmodified":1449046850,
+    "wof:lastmodified":1466245840,
     "wof:name":"Ritter Et Cie Sarl",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.739362,48.553181,7.739362,48.553181],
+  "bbox": [
+    7.739362,
+    48.553181,
+    7.739362,
+    48.553181
+],
   "geometry": {"coordinates":[7.739362,48.553181],"type":"Point"}
 }

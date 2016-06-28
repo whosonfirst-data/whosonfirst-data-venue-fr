@@ -2,13 +2,14 @@
   "id": 152968641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.049448,49.471554,1.049448,49.471554",
     "geom:latitude":49.471554,
     "geom:longitude":1.049448,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"339 Rte De Di\u00e8ppe 76250 Deville Les Rouen",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152968641,
-    "wof:lastmodified":1449044595,
+    "wof:lastmodified":1466252474,
     "wof:name":"Sos Ambulance Sa",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.049448,49.471554,1.049448,49.471554],
+  "bbox": [
+    1.049448,
+    49.471554,
+    1.049448,
+    49.471554
+],
   "geometry": {"coordinates":[1.049448,49.471554],"type":"Point"}
 }

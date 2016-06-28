@@ -2,13 +2,14 @@
   "id": 152898523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.68126,48.554295,7.68126,48.554295",
     "geom:latitude":48.554295,
     "geom:longitude":7.68126,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Hannong Village Ouest Batiment C 67380 Lingolsheim",
     "sg:city":"Lingolsheim",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152898523,
-    "wof:lastmodified":1449044187,
+    "wof:lastmodified":1466252175,
     "wof:name":"Fichet Securite Electronique",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.68126,48.554295,7.68126,48.554295],
+  "bbox": [
+    7.68126,
+    48.554295,
+    7.68126,
+    48.554295
+],
   "geometry": {"coordinates":[7.68126,48.554295],"type":"Point"}
 }

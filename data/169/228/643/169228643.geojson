@@ -2,13 +2,14 @@
   "id": 169228643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.338331,48.885502,2.338331,48.885502",
     "geom:latitude":48.885502,
     "geom:longitude":2.338331,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59 rue des 3 Fr\u00e8res 75018 Paris",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874011,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169228643,
-    "wof:lastmodified":1449033722,
+    "wof:lastmodified":1466249129,
     "wof:name":"Albatros Films Sarl",
     "wof:parent_id":85874011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.338331,48.885502,2.338331,48.885502],
+  "bbox": [
+    2.338331,
+    48.885502,
+    2.338331,
+    48.885502
+],
   "geometry": {"coordinates":[2.338331,48.885502],"type":"Point"}
 }

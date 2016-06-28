@@ -2,13 +2,14 @@
   "id": 152209627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.414293,48.81469,2.414293,48.81469",
     "geom:latitude":48.81469,
     "geom:longitude":2.414293,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Charles De Gaulle 94140 Alfortville",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152209627,
-    "wof:lastmodified":1449048434,
+    "wof:lastmodified":1466249763,
     "wof:name":"Etablissements Perrin Et Cie Sa",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.414293,48.81469,2.414293,48.81469],
+  "bbox": [
+    2.414293,
+    48.81469,
+    2.414293,
+    48.81469
+],
   "geometry": {"coordinates":[2.414293,48.81469],"type":"Point"}
 }

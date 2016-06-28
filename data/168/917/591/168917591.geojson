@@ -2,13 +2,14 @@
   "id": 168917591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.455129,48.429821,-4.455129,48.429821",
     "geom:latitude":48.429821,
     "geom:longitude":-4.455129,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Fernand Forest, 29850 Gouesnou",
     "sg:city":"Gouesnou",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168917591,
-    "wof:lastmodified":1449028478,
+    "wof:lastmodified":1466247858,
     "wof:name":"E.t.d.e. Ouest S.a. - Entreprise De Transport Et Distribution D'energies",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.455129,48.429821,-4.455129,48.429821],
+  "bbox": [
+    -4.455129,
+    48.429821,
+    -4.455129,
+    48.429821
+],
   "geometry": {"coordinates":[-4.455129,48.429821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169147423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.486337,47.268211,-1.486337,47.268211",
     "geom:latitude":47.268211,
     "geom:longitude":-1.486337,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Impasse des Aliz\u00e9s, 44470 Carquefou",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169147423,
-    "wof:lastmodified":1449035594,
+    "wof:lastmodified":1466248392,
     "wof:name":"Sarel",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.486337,47.268211,-1.486337,47.268211],
+  "bbox": [
+    -1.486337,
+    47.268211,
+    -1.486337,
+    47.268211
+],
   "geometry": {"coordinates":[-1.486337,47.268211],"type":"Point"}
 }

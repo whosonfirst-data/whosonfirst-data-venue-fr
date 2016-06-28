@@ -2,13 +2,14 @@
   "id": 152091173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.663009,44.851978,-0.663009,44.851978",
     "geom:latitude":44.851978,
     "geom:longitude":-0.663009,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Av Du Truc 33700 Merignac",
     "sg:city":"M\u00e9rignac",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152091173,
-    "wof:lastmodified":1449044766,
+    "wof:lastmodified":1466248209,
     "wof:name":"Sgb",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.663009,44.851978,-0.663009,44.851978],
+  "bbox": [
+    -0.663009,
+    44.851978,
+    -0.663009,
+    44.851978
+],
   "geometry": {"coordinates":[-0.663009,44.851978],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168919635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.260492,48.822678,2.260492,48.822678",
     "geom:latitude":48.822678,
     "geom:longitude":2.260492,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"125, Rue Jean Jacques Rousseau, 92130 Issy les Moulineaux",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168919635,
-    "wof:lastmodified":1449028388,
+    "wof:lastmodified":1466247863,
     "wof:name":"Edition Grafocarte S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.260492,48.822678,2.260492,48.822678],
+  "bbox": [
+    2.260492,
+    48.822678,
+    2.260492,
+    48.822678
+],
   "geometry": {"coordinates":[2.260492,48.822678],"type":"Point"}
 }

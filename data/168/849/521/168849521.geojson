@@ -2,13 +2,14 @@
   "id": 168849521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316218,48.81789,2.316218,48.81789",
     "geom:latitude":48.81789,
     "geom:longitude":2.316218,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Place des Etats-Unis, 92120 Montrouge",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,15 +18,15 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459,
-        85873933,
+        85873935,
+        85683157,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168849521,
-    "wof:lastmodified":1449027918,
+    "wof:lastmodified":1466247359,
     "wof:name":"C.i.s. S.a. - Comptage Immobilier Schlumberger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316218,48.81789,2.316218,48.81789],
+  "bbox": [
+    2.316218,
+    48.81789,
+    2.316218,
+    48.81789
+],
   "geometry": {"coordinates":[2.316218,48.81789],"type":"Point"}
 }

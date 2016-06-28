@@ -2,13 +2,14 @@
   "id": 152517185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.339408,48.861446,2.339408,48.861446",
     "geom:latitude":48.861446,
     "geom:longitude":2.339408,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"162, Rue de Rivoli, 75001 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873789,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152517185,
-    "wof:lastmodified":1449046943,
+    "wof:lastmodified":1466250876,
     "wof:name":"H.r. Gardens S.a.",
     "wof:parent_id":85873789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.339408,48.861446,2.339408,48.861446],
+  "bbox": [
+    2.339408,
+    48.861446,
+    2.339408,
+    48.861446
+],
   "geometry": {"coordinates":[2.339408,48.861446],"type":"Point"}
 }

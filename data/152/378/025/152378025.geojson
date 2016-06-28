@@ -2,13 +2,14 @@
   "id": 152378025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364312,48.859001,2.364312,48.859001",
     "geom:latitude":48.859001,
     "geom:longitude":2.364312,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"61, Rue de Turenne, 75003 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152378025,
-    "wof:lastmodified":1449047422,
+    "wof:lastmodified":1466250357,
     "wof:name":"Connaissance Des M\u00e9dias S.n.c.",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364312,48.859001,2.364312,48.859001],
+  "bbox": [
+    2.364312,
+    48.859001,
+    2.364312,
+    48.859001
+],
   "geometry": {"coordinates":[2.364312,48.859001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152049035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327393,48.82402,2.327393,48.82402",
     "geom:latitude":48.82402,
     "geom:longitude":2.327393,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Rue Du P\u00e8re Corentin 75014 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049035,
-    "wof:lastmodified":1449046593,
+    "wof:lastmodified":1466245717,
     "wof:name":"Hotel Virgina",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327393,48.82402,2.327393,48.82402],
+  "bbox": [
+    2.327393,
+    48.82402,
+    2.327393,
+    48.82402
+],
   "geometry": {"coordinates":[2.327393,48.82402],"type":"Point"}
 }

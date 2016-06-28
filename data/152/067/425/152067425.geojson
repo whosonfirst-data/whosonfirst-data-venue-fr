@@ -2,13 +2,14 @@
   "id": 152067425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.610336,47.21632,-1.610336,47.21632",
     "geom:latitude":47.21632,
     "geom:longitude":-1.610336,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Bd Salvador Allende 44800 St Herblain",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897689,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85897689
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152067425,
-    "wof:lastmodified":1449044598,
+    "wof:lastmodified":1466247372,
     "wof:name":"Sacer Atlantique",
     "wof:parent_id":85897689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.610336,47.21632,-1.610336,47.21632],
+  "bbox": [
+    -1.610336,
+    47.21632,
+    -1.610336,
+    47.21632
+],
   "geometry": {"coordinates":[-1.610336,47.21632],"type":"Point"}
 }

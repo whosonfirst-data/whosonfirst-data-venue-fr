@@ -2,13 +2,14 @@
   "id": 136277663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.397226,48.852249,2.397226,48.852249",
     "geom:latitude":48.852249,
     "geom:longitude":2.397226,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Boulevard De Charonne",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277663,
-    "wof:lastmodified":1449075066,
+    "wof:lastmodified":1466245346,
     "wof:name":"Franex Sa",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.397226,48.852249,2.397226,48.852249],
+  "bbox": [
+    2.397226,
+    48.852249,
+    2.397226,
+    48.852249
+],
   "geometry": {"coordinates":[2.397226,48.852249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152050219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.582239,44.839031,-0.582239,44.839031",
     "geom:latitude":44.839031,
     "geom:longitude":-0.582239,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Bonnaff\u00e9 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152050219,
-    "wof:lastmodified":1449046851,
+    "wof:lastmodified":1466245852,
     "wof:name":"Aquitec",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.582239,44.839031,-0.582239,44.839031],
+  "bbox": [
+    -0.582239,
+    44.839031,
+    -0.582239,
+    44.839031
+],
   "geometry": {"coordinates":[-0.582239,44.839031],"type":"Point"}
 }

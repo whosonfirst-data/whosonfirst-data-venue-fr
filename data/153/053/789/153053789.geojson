@@ -2,13 +2,14 @@
   "id": 153053789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.507847,47.247894,-1.507847,47.247894",
     "geom:latitude":47.247894,
     "geom:longitude":-1.507847,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Rue de la Raini\u00e8re, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":153053789,
-    "wof:lastmodified":1449040421,
+    "wof:lastmodified":1466247481,
     "wof:name":"A.t.s.e.",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.507847,47.247894,-1.507847,47.247894],
+  "bbox": [
+    -1.507847,
+    47.247894,
+    -1.507847,
+    47.247894
+],
   "geometry": {"coordinates":[-1.507847,47.247894],"type":"Point"}
 }

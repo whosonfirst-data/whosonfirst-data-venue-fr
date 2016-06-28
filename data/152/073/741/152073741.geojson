@@ -2,13 +2,14 @@
   "id": 152073741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352766,48.830112,2.352766,48.830112",
     "geom:latitude":48.830112,
     "geom:longitude":2.352766,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Bayards 71150 Paris L'H\u00f4pital",
     "sg:city":"Cheilly-l\u00e8s-Maranges",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873915,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152073741,
-    "wof:lastmodified":1449044938,
+    "wof:lastmodified":1466246002,
     "wof:name":"Sarl Compain",
     "wof:parent_id":85873915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352766,48.830112,2.352766,48.830112],
+  "bbox": [
+    2.352766,
+    48.830112,
+    2.352766,
+    48.830112
+],
   "geometry": {"coordinates":[2.352766,48.830112],"type":"Point"}
 }

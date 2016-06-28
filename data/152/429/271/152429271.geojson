@@ -2,13 +2,14 @@
   "id": 152429271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.388825,47.300938,-1.388825,47.300938",
     "geom:latitude":47.300938,
     "geom:longitude":-1.388825,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. de l'Europe - Parc d'Activit\u00e9 des Petites Landes",
     "sg:city":"Thouar\u00e9 sur Loire",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152429271,
-    "wof:lastmodified":1449048673,
+    "wof:lastmodified":1466250623,
     "wof:name":"Edu 4 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.388825,47.300938,-1.388825,47.300938],
+  "bbox": [
+    -1.388825,
+    47.300938,
+    -1.388825,
+    47.300938
+],
   "geometry": {"coordinates":[-1.388825,47.300938],"type":"Point"}
 }

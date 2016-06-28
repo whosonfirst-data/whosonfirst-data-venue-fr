@@ -2,13 +2,14 @@
   "id": 152362955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.393095,48.653549,2.393095,48.653549",
     "geom:latitude":48.653549,
     "geom:longitude":2.393095,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 84, 91355 Grigny C\u00e9dex^^1, Rue Ren\u00e9 Clair - Z.A.C. des Radars, 91350 Grigny",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152362955,
-    "wof:lastmodified":1449047286,
+    "wof:lastmodified":1466250326,
     "wof:name":"Chomette Favor S.a.",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.393095,48.653549,2.393095,48.653549],
+  "bbox": [
+    2.393095,
+    48.653549,
+    2.393095,
+    48.653549
+],
   "geometry": {"coordinates":[2.393095,48.653549],"type":"Point"}
 }

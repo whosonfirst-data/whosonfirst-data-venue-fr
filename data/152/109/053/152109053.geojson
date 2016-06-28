@@ -2,13 +2,14 @@
   "id": 152109053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.288757,48.834126,2.288757,48.834126",
     "geom:latitude":48.834126,
     "geom:longitude":2.288757,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6BIS rue de Cadix 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152109053,
-    "wof:lastmodified":1449045910,
+    "wof:lastmodified":1466249053,
     "wof:name":"Omnitrade France Sarl",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.288757,48.834126,2.288757,48.834126],
+  "bbox": [
+    2.288757,
+    48.834126,
+    2.288757,
+    48.834126
+],
   "geometry": {"coordinates":[2.288757,48.834126],"type":"Point"}
 }

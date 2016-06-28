@@ -2,13 +2,14 @@
   "id": 152150803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.16968,49.514767,0.16968,49.514767",
     "geom:latitude":49.514767,
     "geom:longitude":0.16968,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Eug\u00e8ne Pottier 76610 Le Havre",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794629,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152150803,
-    "wof:lastmodified":1449044358,
+    "wof:lastmodified":1466249598,
     "wof:name":"Paumier Et Fils Sa",
     "wof:parent_id":85794629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.16968,49.514767,0.16968,49.514767],
+  "bbox": [
+    0.16968,
+    49.514767,
+    0.16968,
+    49.514767
+],
   "geometry": {"coordinates":[0.16968,49.514767],"type":"Point"}
 }

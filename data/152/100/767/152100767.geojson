@@ -2,13 +2,14 @@
   "id": 152100767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.03805,49.051411,-1.03805,49.051411",
     "geom:latitude":49.051411,
     "geom:longitude":-1.03805,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc D'Exposition Route Nationale 174 50890 Cond\u00e9 Sur Vire",
     "sg:city":"Cond\u00e9-sur-Vire",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152100767,
-    "wof:lastmodified":1449047725,
+    "wof:lastmodified":1466248841,
     "wof:name":"Leneveu Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.03805,49.051411,-1.03805,49.051411],
+  "bbox": [
+    -1.03805,
+    49.051411,
+    -1.03805,
+    49.051411
+],
   "geometry": {"coordinates":[-1.03805,49.051411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152948495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.149845,49.489822,0.149845,49.489822",
     "geom:latitude":49.489822,
     "geom:longitude":0.149845,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Bd De Graville 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152948495,
-    "wof:lastmodified":1449047961,
+    "wof:lastmodified":1466252240,
     "wof:name":"Cnm",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.149845,49.489822,0.149845,49.489822],
+  "bbox": [
+    0.149845,
+    49.489822,
+    0.149845,
+    49.489822
+],
   "geometry": {"coordinates":[0.149845,49.489822],"type":"Point"}
 }

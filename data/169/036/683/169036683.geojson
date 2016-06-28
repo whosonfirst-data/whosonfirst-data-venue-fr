@@ -2,13 +2,14 @@
   "id": 169036683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.609218,48.785339,2.609218,48.785339",
     "geom:latitude":48.785339,
     "geom:longitude":2.609218,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69/73, Rue des Berch\u00e8res, 77340 Pontault Combault",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169036683,
-    "wof:lastmodified":1449033424,
+    "wof:lastmodified":1466245417,
     "wof:name":"Lido S.a.",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.609218,48.785339,2.609218,48.785339],
+  "bbox": [
+    2.609218,
+    48.785339,
+    2.609218,
+    48.785339
+],
   "geometry": {"coordinates":[2.609218,48.785339],"type":"Point"}
 }

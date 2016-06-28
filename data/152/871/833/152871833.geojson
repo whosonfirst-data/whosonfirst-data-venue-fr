@@ -2,13 +2,14 @@
   "id": 152871833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.318842,48.852039,2.318842,48.852039",
     "geom:latitude":48.852039,
     "geom:longitude":2.318842,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38",
     "sg:city":"Vaneau 75007 PARIS",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152871833,
-    "wof:lastmodified":1449045825,
+    "wof:lastmodified":1466252128,
     "wof:name":"Star",
     "wof:parent_id":85873837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.318842,48.852039,2.318842,48.852039],
+  "bbox": [
+    2.318842,
+    48.852039,
+    2.318842,
+    48.852039
+],
   "geometry": {"coordinates":[2.318842,48.852039],"type":"Point"}
 }

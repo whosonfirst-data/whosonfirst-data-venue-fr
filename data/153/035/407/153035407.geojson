@@ -2,13 +2,14 @@
   "id": 153035407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.384792,48.896603,2.384792,48.896603",
     "geom:latitude":48.896603,
     "geom:longitude":2.384792,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28",
     "sg:city":"Corentin Cariou; Paris; 75019",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153035407,
-    "wof:lastmodified":1449040728,
+    "wof:lastmodified":1466247412,
     "wof:name":"Hotels Forest Hill",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.384792,48.896603,2.384792,48.896603],
+  "bbox": [
+    2.384792,
+    48.896603,
+    2.384792,
+    48.896603
+],
   "geometry": {"coordinates":[2.384792,48.896603],"type":"Point"}
 }

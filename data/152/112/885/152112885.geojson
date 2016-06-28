@@ -2,13 +2,14 @@
   "id": 152112885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334984,48.87056,2.334984,48.87056",
     "geom:latitude":48.87056,
     "geom:longitude":2.334984,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 rue de la Michodi\u00e8re 75002 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152112885,
-    "wof:lastmodified":1449046436,
+    "wof:lastmodified":1466249032,
     "wof:name":"Almimet Sa",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334984,48.87056,2.334984,48.87056],
+  "bbox": [
+    2.334984,
+    48.87056,
+    2.334984,
+    48.87056
+],
   "geometry": {"coordinates":[2.334984,48.87056],"type":"Point"}
 }

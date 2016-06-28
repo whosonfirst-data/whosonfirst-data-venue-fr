@@ -2,13 +2,14 @@
   "id": 152203583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.21405,48.662888,2.21405,48.662888",
     "geom:latitude":48.662888,
     "geom:longitude":2.21405,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue Joly De Bammeville 91460 Marcoussis",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152203583,
-    "wof:lastmodified":1449046367,
+    "wof:lastmodified":1466249742,
     "wof:name":"Imd Sa",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.21405,48.662888,2.21405,48.662888],
+  "bbox": [
+    2.21405,
+    48.662888,
+    2.21405,
+    48.662888
+],
   "geometry": {"coordinates":[2.21405,48.662888],"type":"Point"}
 }

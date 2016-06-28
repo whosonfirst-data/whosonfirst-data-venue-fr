@@ -2,13 +2,14 @@
   "id": 152900207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.844766,43.108341,5.844766,43.108341",
     "geom:latitude":43.108341,
     "geom:longitude":5.844766,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2799 Av Du Pdt Kennedy 83140 Six Fours Les Plages",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152900207,
-    "wof:lastmodified":1449046303,
+    "wof:lastmodified":1466252392,
     "wof:name":"Volfeu Alarm Sa",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.844766,43.108341,5.844766,43.108341],
+  "bbox": [
+    5.844766,
+    43.108341,
+    5.844766,
+    43.108341
+],
   "geometry": {"coordinates":[5.844766,43.108341],"type":"Point"}
 }

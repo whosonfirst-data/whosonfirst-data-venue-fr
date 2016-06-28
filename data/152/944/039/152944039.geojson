@@ -2,13 +2,14 @@
   "id": 152944039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.73861,48.587471,7.73861,48.587471",
     "geom:latitude":48.587471,
     "geom:longitude":7.73861,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26, boulevard du President Wilson; 67953 Strasbourg Cedex 9, France",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152944039,
-    "wof:lastmodified":1449046616,
+    "wof:lastmodified":1466252379,
     "wof:name":"\u00c9lectricit\u00e9 De Strasbourg S.a.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.73861,48.587471,7.73861,48.587471],
+  "bbox": [
+    7.73861,
+    48.587471,
+    7.73861,
+    48.587471
+],
   "geometry": {"coordinates":[7.73861,48.587471],"type":"Point"}
 }

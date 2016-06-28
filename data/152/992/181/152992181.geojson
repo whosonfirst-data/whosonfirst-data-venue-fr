@@ -2,13 +2,14 @@
   "id": 152992181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.146698,49.500988,0.146698,49.500988",
     "geom:latitude":49.500988,
     "geom:longitude":0.146698,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue de l'Industrie 76057 LE HAVRE CEDEX",
     "sg:city":"Le Havre",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152992181,
-    "wof:lastmodified":1449046488,
+    "wof:lastmodified":1466252514,
     "wof:name":"Shipping Agency Service Sa",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.146698,49.500988,0.146698,49.500988],
+  "bbox": [
+    0.146698,
+    49.500988,
+    0.146698,
+    49.500988
+],
   "geometry": {"coordinates":[0.146698,49.500988],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152128247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.368104,48.91996,2.368104,48.91996",
     "geom:latitude":48.91996,
     "geom:longitude":2.368104,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Quai Adrien Agn\u00e8s 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152128247,
-    "wof:lastmodified":1449046119,
+    "wof:lastmodified":1466249409,
     "wof:name":"Ceprim",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.368104,48.91996,2.368104,48.91996],
+  "bbox": [
+    2.368104,
+    48.91996,
+    2.368104,
+    48.91996
+],
   "geometry": {"coordinates":[2.368104,48.91996],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152793953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.232403,48.830364,2.232403,48.830364",
     "geom:latitude":48.830364,
     "geom:longitude":2.232403,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"122, Av. du G\u00e9n\u00e9ral Leclerc, 92514 Boulogne Billancourt C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152793953,
-    "wof:lastmodified":1449046843,
+    "wof:lastmodified":1466251880,
     "wof:name":"Spark Plugs France S.a.",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.232403,48.830364,2.232403,48.830364],
+  "bbox": [
+    2.232403,
+    48.830364,
+    2.232403,
+    48.830364
+],
   "geometry": {"coordinates":[2.232403,48.830364],"type":"Point"}
 }

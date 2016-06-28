@@ -2,13 +2,14 @@
   "id": 152229729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352158,48.884892,2.352158,48.884892",
     "geom:latitude":48.884892,
     "geom:longitude":2.352158,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 rue Caplat 75018 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874005,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229729,
-    "wof:lastmodified":1449047982,
+    "wof:lastmodified":1466249842,
     "wof:name":"Linda Textile Sarl",
     "wof:parent_id":85874005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352158,48.884892,2.352158,48.884892],
+  "bbox": [
+    2.352158,
+    48.884892,
+    2.352158,
+    48.884892
+],
   "geometry": {"coordinates":[2.352158,48.884892],"type":"Point"}
 }

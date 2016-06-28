@@ -2,13 +2,14 @@
   "id": 152443243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358706,48.909939,2.358706,48.909939",
     "geom:latitude":48.909939,
     "geom:longitude":2.358706,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"144, Av. du Pr\u00e9sident Wilson, 93210 La Plaine Saint Denis",
     "sg:city":"Plaine",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152443243,
-    "wof:lastmodified":1449048067,
+    "wof:lastmodified":1466250595,
     "wof:name":"Espace Europ\u00e9en De La Plaine Saint Denis",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358706,48.909939,2.358706,48.909939],
+  "bbox": [
+    2.358706,
+    48.909939,
+    2.358706,
+    48.909939
+],
   "geometry": {"coordinates":[2.358706,48.909939],"type":"Point"}
 }

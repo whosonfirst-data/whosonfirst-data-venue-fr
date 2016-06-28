@@ -2,13 +2,14 @@
   "id": 152878039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.333593,48.913799,2.333593,48.913799",
     "geom:latitude":48.913799,
     "geom:longitude":2.333593,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"73 rue Albert Dhalenne 93400 ST OUEN",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152878039,
-    "wof:lastmodified":1449046721,
+    "wof:lastmodified":1466252138,
     "wof:name":"Photo Service July Sa",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.333593,48.913799,2.333593,48.913799],
+  "bbox": [
+    2.333593,
+    48.913799,
+    2.333593,
+    48.913799
+],
   "geometry": {"coordinates":[2.333593,48.913799],"type":"Point"}
 }

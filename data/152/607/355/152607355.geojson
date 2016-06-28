@@ -2,13 +2,14 @@
   "id": 152607355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32602,48.859009,2.32602,48.859009",
     "geom:latitude":48.859009,
     "geom:longitude":2.32602,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue des Poitiers, 75007 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873845,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152607355,
-    "wof:lastmodified":1449044913,
+    "wof:lastmodified":1466251105,
     "wof:name":"Maison Des Polytechniciens",
     "wof:parent_id":85873845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32602,48.859009,2.32602,48.859009],
+  "bbox": [
+    2.32602,
+    48.859009,
+    2.32602,
+    48.859009
+],
   "geometry": {"coordinates":[2.32602,48.859009],"type":"Point"}
 }

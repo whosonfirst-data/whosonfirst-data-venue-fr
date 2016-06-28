@@ -2,13 +2,14 @@
   "id": 152062589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350869,48.869667,2.350869,48.869667",
     "geom:latitude":48.869667,
     "geom:longitude":2.350869,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Rue Beauregard 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497,
-        85873883,
-        102068731
+        85873795,
+        102068731,
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152062589,
-    "wof:lastmodified":1449048585,
+    "wof:lastmodified":1466246914,
     "wof:name":"Saint B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350869,48.869667,2.350869,48.869667],
+  "bbox": [
+    2.350869,
+    48.869667,
+    2.350869,
+    48.869667
+],
   "geometry": {"coordinates":[2.350869,48.869667],"type":"Point"}
 }

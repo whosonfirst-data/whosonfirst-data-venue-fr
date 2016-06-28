@@ -2,13 +2,14 @@
   "id": 152141403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.559476,44.762547,-0.559476,44.762547",
     "geom:latitude":44.762547,
     "geom:longitude":-0.559476,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Avenue Des Pyrenees 33140 Villenave D Ornon",
     "sg:city":"Cadaujac",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152141403,
-    "wof:lastmodified":1449045930,
+    "wof:lastmodified":1466249595,
     "wof:name":"Froid Climatisation Commercial Industriel (fcci)",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.559476,44.762547,-0.559476,44.762547],
+  "bbox": [
+    -0.559476,
+    44.762547,
+    -0.559476,
+    44.762547
+],
   "geometry": {"coordinates":[-0.559476,44.762547],"type":"Point"}
 }

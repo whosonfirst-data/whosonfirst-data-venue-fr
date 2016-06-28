@@ -2,13 +2,14 @@
   "id": 153021583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38643,48.85733,2.38643,48.85733",
     "geom:latitude":48.85733,
     "geom:longitude":2.38643,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue De La Folie Regnault 75011 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153021583,
-    "wof:lastmodified":1449040661,
+    "wof:lastmodified":1466246364,
     "wof:name":"Chausser Magazine",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38643,48.85733,2.38643,48.85733],
+  "bbox": [
+    2.38643,
+    48.85733,
+    2.38643,
+    48.85733
+],
   "geometry": {"coordinates":[2.38643,48.85733],"type":"Point"}
 }

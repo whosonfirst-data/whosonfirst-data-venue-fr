@@ -2,13 +2,14 @@
   "id": 152330293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30583,48.873158,2.30583,48.873158",
     "geom:latitude":48.873158,
     "geom:longitude":2.30583,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28, Rue de Berri, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152330293,
-    "wof:lastmodified":1449046605,
+    "wof:lastmodified":1466250185,
     "wof:name":"C.f.p.m. S.a. - Compagnie Fran\u00e7aise Produits M\u00e9tallurgiques",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30583,48.873158,2.30583,48.873158],
+  "bbox": [
+    2.30583,
+    48.873158,
+    2.30583,
+    48.873158
+],
   "geometry": {"coordinates":[2.30583,48.873158],"type":"Point"}
 }

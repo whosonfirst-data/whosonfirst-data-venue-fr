@@ -2,13 +2,14 @@
   "id": 152556391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.756933,48.569344,7.756933,48.569344",
     "geom:latitude":48.569344,
     "geom:longitude":7.756933,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Rte du Polyg\u00f4ne, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152556391,
-    "wof:lastmodified":1449045440,
+    "wof:lastmodified":1466251014,
     "wof:name":"K.t.h. Communication S.a.r.l.",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.756933,48.569344,7.756933,48.569344],
+  "bbox": [
+    7.756933,
+    48.569344,
+    7.756933,
+    48.569344
+],
   "geometry": {"coordinates":[7.756933,48.569344],"type":"Point"}
 }

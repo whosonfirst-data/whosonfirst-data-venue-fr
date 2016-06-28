@@ -2,13 +2,14 @@
   "id": 152133845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.2675,48.83316,2.2675,48.83316",
     "geom:latitude":48.83316,
     "geom:longitude":2.2675,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Bara 92130 Issy Les Moulineaux",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133845,
-    "wof:lastmodified":1449048117,
+    "wof:lastmodified":1466249488,
     "wof:name":"Ciac Sa",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.2675,48.83316,2.2675,48.83316],
+  "bbox": [
+    2.2675,
+    48.83316,
+    2.2675,
+    48.83316
+],
   "geometry": {"coordinates":[2.2675,48.83316],"type":"Point"}
 }

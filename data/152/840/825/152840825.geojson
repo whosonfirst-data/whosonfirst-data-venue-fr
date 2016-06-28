@@ -2,13 +2,14 @@
   "id": 152840825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.969749,34.265869,-77.969749,34.265869",
     "geom:latitude":34.265869,
     "geom:longitude":-77.969749,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Av. des Pr\u00e9s, 28401 Nogent le Rotrou C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831507,
+        85688773,
         85633793,
         85980683,
         102087757,
-        85688773
+        85831507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152840825,
-    "wof:lastmodified":1449047871,
+    "wof:lastmodified":1466252031,
     "wof:name":"Val\u00e9o Climatisation",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.969749,34.265869,-77.969749,34.265869],
-  "geometry": {"coordinates":[-77.969749,34.265869],"type":"Point"}
+  "bbox": [
+    -77.969749,
+    34.265869,
+    -77.969749,
+    34.265869
+],
+  "geometry": {"coordinates":[-77.96974899999999,34.265869],"type":"Point"}
 }

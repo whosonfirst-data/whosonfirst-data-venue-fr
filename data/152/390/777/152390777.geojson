@@ -2,13 +2,14 @@
   "id": 152390777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.046652,50.626324,3.046652,50.626324",
     "geom:latitude":50.626324,
     "geom:longitude":3.046652,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"400, Rue L\u00e9on Gambetta, 59044 Lille C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071875,
-        85633147,
         85683445,
-        85863287
+        85633147,
+        85863287,
+        102071875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152390777,
-    "wof:lastmodified":1449048940,
+    "wof:lastmodified":1466250538,
     "wof:name":"D.e.c.m.o. - Diffusion D'equipements Pour Constructions Mobiles",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.046652,50.626324,3.046652,50.626324],
+  "bbox": [
+    3.046652,
+    50.626324,
+    3.046652,
+    50.626324
+],
   "geometry": {"coordinates":[3.046652,50.626324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169055899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.040123,31.758181,-97.040123,31.758181",
     "geom:latitude":31.758181,
     "geom:longitude":-97.040123,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Rue Joseph Cugnot, 37300 Jou\u00e9 les Tours",
     "sg:city":"Jou\u00e9-l\u00e8s-Tours",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881739,
+        85688753,
         85633793,
         101723381,
         102085007,
-        85688753
+        85881739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169055899,
-    "wof:lastmodified":1449033431,
+    "wof:lastmodified":1466246369,
     "wof:name":"Mathieu S.a.",
     "wof:parent_id":85881739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.040123,31.758181,-97.040123,31.758181],
-  "geometry": {"coordinates":[-97.040123,31.758181],"type":"Point"}
+  "bbox": [
+    -97.040123,
+    31.758181,
+    -97.040123,
+    31.758181
+],
+  "geometry": {"coordinates":[-97.04012299999999,31.758181],"type":"Point"}
 }

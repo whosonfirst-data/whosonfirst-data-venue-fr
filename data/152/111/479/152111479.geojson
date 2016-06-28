@@ -2,13 +2,14 @@
   "id": 152111479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.404586,48.884102,2.404586,48.884102",
     "geom:latitude":48.884102,
     "geom:longitude":2.404586,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Danton 93310 Le Pre St Gervais",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152111479,
-    "wof:lastmodified":1449049050,
+    "wof:lastmodified":1466249311,
     "wof:name":"Pierre Lavergne",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.404586,48.884102,2.404586,48.884102],
+  "bbox": [
+    2.404586,
+    48.884102,
+    2.404586,
+    48.884102
+],
   "geometry": {"coordinates":[2.404586,48.884102],"type":"Point"}
 }

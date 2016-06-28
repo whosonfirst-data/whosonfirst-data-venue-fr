@@ -2,13 +2,14 @@
   "id": 152878371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359538,48.856045,2.359538,48.856045",
     "geom:latitude":48.856045,
     "geom:longitude":2.359538,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 rue du Roi de Sicile 75004 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873811,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152878371,
-    "wof:lastmodified":1449046721,
+    "wof:lastmodified":1466252152,
     "wof:name":"Ste Publimod Photo S.a.",
     "wof:parent_id":85873811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359538,48.856045,2.359538,48.856045],
+  "bbox": [
+    2.359538,
+    48.856045,
+    2.359538,
+    48.856045
+],
   "geometry": {"coordinates":[2.359538,48.856045],"type":"Point"}
 }

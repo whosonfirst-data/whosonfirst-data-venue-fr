@@ -2,13 +2,14 @@
   "id": 152117533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.928307,40.10223,-104.928307,40.10223",
     "geom:latitude":40.10223,
     "geom:longitude":-104.928307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 rue Voltaire 80530 FRIVILLE ESCARBOTIN",
     "sg:classifiers":[
         {
@@ -26,10 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086117,
-        85633793,
         85688603,
-        85818323
+        85633793,
+        85818323,
+        102086117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152117533,
-    "wof:lastmodified":1449047434,
+    "wof:lastmodified":1466249232,
     "wof:name":"Boutte Fonderies S.a.",
     "wof:parent_id":85818323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.928307,40.10223,-104.928307,40.10223],
+  "bbox": [
+    -104.928307,
+    40.10223,
+    -104.928307,
+    40.10223
+],
   "geometry": {"coordinates":[-104.928307,40.10223],"type":"Point"}
 }

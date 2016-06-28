@@ -2,13 +2,14 @@
   "id": 136293873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330559,48.873375,2.330559,48.873375",
     "geom:latitude":48.873375,
     "geom:longitude":2.330559,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bd Haussmann 75009 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136293873,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466246438,
     "wof:name":"Caixa Geral De Depositos",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330559,48.873375,2.330559,48.873375],
+  "bbox": [
+    2.330559,
+    48.873375,
+    2.330559,
+    48.873375
+],
   "geometry": {"coordinates":[2.330559,48.873375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152272837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342825,48.825348,2.342825,48.825348",
     "geom:latitude":48.825348,
     "geom:longitude":2.342825,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Rue Boussingault, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873915,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152272837,
-    "wof:lastmodified":1449048603,
+    "wof:lastmodified":1466250128,
     "wof:name":"Arbalet S.a.",
     "wof:parent_id":85873915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342825,48.825348,2.342825,48.825348],
+  "bbox": [
+    2.342825,
+    48.825348,
+    2.342825,
+    48.825348
+],
   "geometry": {"coordinates":[2.342825,48.825348],"type":"Point"}
 }

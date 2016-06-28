@@ -2,13 +2,14 @@
   "id": 152110483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.381001,48.808643,2.381001,48.808643",
     "geom:latitude":48.808643,
     "geom:longitude":2.381001,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"122 R Marcel Hartmann 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873925,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152110483,
-    "wof:lastmodified":1449045823,
+    "wof:lastmodified":1466249110,
     "wof:name":"Fournitures Sarl",
     "wof:parent_id":85873925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.381001,48.808643,2.381001,48.808643],
+  "bbox": [
+    2.381001,
+    48.808643,
+    2.381001,
+    48.808643
+],
   "geometry": {"coordinates":[2.381001,48.808643],"type":"Point"}
 }

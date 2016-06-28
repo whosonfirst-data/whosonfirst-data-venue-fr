@@ -2,13 +2,14 @@
   "id": 136285013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549722,47.254196,-1.549722,47.254196",
     "geom:latitude":47.254196,
     "geom:longitude":-1.549722,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Des Saumoni\u00e8res 44300 Nantes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136285013,
-    "wof:lastmodified":1449074961,
+    "wof:lastmodified":1466245781,
     "wof:name":"Sfpa Sas",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.549722,47.254196,-1.549722,47.254196],
+  "bbox": [
+    -1.549722,
+    47.254196,
+    -1.549722,
+    47.254196
+],
   "geometry": {"coordinates":[-1.549722,47.254196],"type":"Point"}
 }

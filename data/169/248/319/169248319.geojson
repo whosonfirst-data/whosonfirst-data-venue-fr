@@ -2,13 +2,14 @@
   "id": 169248319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.337405,48.880971,2.337405,48.880971",
     "geom:latitude":48.880971,
     "geom:longitude":2.337405,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"108 rue des Dames",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"http://www.choisirsavoiture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169248319,
-    "wof:lastmodified":1449034501,
+    "wof:lastmodified":1466249594,
     "wof:name":"Marketshot",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.337405,48.880971,2.337405,48.880971],
+  "bbox": [
+    2.337405,
+    48.880971,
+    2.337405,
+    48.880971
+],
   "geometry": {"coordinates":[2.337405,48.880971],"type":"Point"}
 }

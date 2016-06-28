@@ -2,13 +2,14 @@
   "id": 152886535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.79039,42.725208,-87.79039,42.725208",
     "geom:latitude":42.725208,
     "geom:longitude":-87.79039,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Racine 63550 Paladuc",
     "sg:city":"Palladuc",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85827169,
+        85688517,
         85633793,
         101732315,
         102081763,
-        85688517
+        85827169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152886535,
-    "wof:lastmodified":1449046855,
+    "wof:lastmodified":1466252049,
     "wof:name":"Morel Bellein Sarl",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.79039,42.725208,-87.79039,42.725208],
+  "bbox": [
+    -87.79039,
+    42.725208,
+    -87.79039,
+    42.725208
+],
   "geometry": {"coordinates":[-87.79039,42.725208],"type":"Point"}
 }

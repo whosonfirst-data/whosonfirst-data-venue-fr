@@ -2,13 +2,14 @@
   "id": 169061817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.210385,48.786179,2.210385,48.786179",
     "geom:latitude":48.786179,
     "geom:longitude":2.210385,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue Latecorre, 78140 V\u00e9lizy Villacoublay",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169061817,
-    "wof:lastmodified":1449035062,
+    "wof:lastmodified":1466246618,
     "wof:name":"Mietec France S.a.s.",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.210385,48.786179,2.210385,48.786179],
+  "bbox": [
+    2.210385,
+    48.786179,
+    2.210385,
+    48.786179
+],
   "geometry": {"coordinates":[2.210385,48.786179],"type":"Point"}
 }

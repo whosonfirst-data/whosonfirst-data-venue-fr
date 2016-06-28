@@ -2,13 +2,14 @@
   "id": 169227337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.655696,48.830811,2.655696,48.830811",
     "geom:latitude":48.830811,
     "geom:longitude":2.655696,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Boulevard Georges Bidault Bat G1 Croissy Beaubourg 77437 Marne La Vallee Cedex 2",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169227337,
-    "wof:lastmodified":1449033409,
+    "wof:lastmodified":1466249315,
     "wof:name":"Triumph Sa",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.655696,48.830811,2.655696,48.830811],
+  "bbox": [
+    2.655696,
+    48.830811,
+    2.655696,
+    48.830811
+],
   "geometry": {"coordinates":[2.655696,48.830811],"type":"Point"}
 }

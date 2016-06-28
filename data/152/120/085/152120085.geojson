@@ -2,13 +2,14 @@
   "id": 152120085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.355721,48.820976,2.355721,48.820976",
     "geom:latitude":48.820976,
     "geom:longitude":2.355721,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 boulevard Kellermann 75013 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152120085,
-    "wof:lastmodified":1449048252,
+    "wof:lastmodified":1466249040,
     "wof:name":"Clc Sarl",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.355721,48.820976,2.355721,48.820976],
+  "bbox": [
+    2.355721,
+    48.820976,
+    2.355721,
+    48.820976
+],
   "geometry": {"coordinates":[2.355721,48.820976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152047415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.175447,49.465435,0.175447,49.465435",
     "geom:latitude":49.465435,
     "geom:longitude":0.175447,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De L'Estuaire 76085 Le Havre Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152047415,
-    "wof:lastmodified":1449047278,
+    "wof:lastmodified":1466245666,
     "wof:name":"Armada Sa",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.175447,49.465435,0.175447,49.465435],
+  "bbox": [
+    0.175447,
+    49.465435,
+    0.175447,
+    49.465435
+],
   "geometry": {"coordinates":[0.175447,49.465435],"type":"Point"}
 }

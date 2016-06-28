@@ -2,13 +2,14 @@
   "id": 152928605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.382463,48.81781,2.382463,48.81781",
     "geom:latitude":48.81781,
     "geom:longitude":2.382463,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Rue Victor Hugo 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152928605,
-    "wof:lastmodified":1449048274,
+    "wof:lastmodified":1466252348,
     "wof:name":"La Station Graphique",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.382463,48.81781,2.382463,48.81781],
+  "bbox": [
+    2.382463,
+    48.81781,
+    2.382463,
+    48.81781
+],
   "geometry": {"coordinates":[2.382463,48.81781],"type":"Point"}
 }

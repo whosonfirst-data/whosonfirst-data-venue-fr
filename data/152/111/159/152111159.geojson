@@ -2,13 +2,14 @@
   "id": 152111159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.416566,43.543674,1.416566,43.543674",
     "geom:latitude":43.543674,
     "geom:longitude":1.416566,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33",
     "sg:city":"Espagne 31120 Portet sur Garonne",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152111159,
-    "wof:lastmodified":1449049043,
+    "wof:lastmodified":1466249063,
     "wof:name":"Meubles Cerezo",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.416566,43.543674,1.416566,43.543674],
+  "bbox": [
+    1.416566,
+    43.543674,
+    1.416566,
+    43.543674
+],
   "geometry": {"coordinates":[1.416566,43.543674],"type":"Point"}
 }

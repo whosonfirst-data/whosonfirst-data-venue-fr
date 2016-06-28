@@ -2,13 +2,14 @@
   "id": 152793515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.25645,48.895908,2.25645,48.895908",
     "geom:latitude":48.895908,
     "geom:longitude":2.25645,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 14, 92403 Courbevoie C\u00e9dex^^77, Rue de Bezons, 92400 Courbevoie",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152793515,
-    "wof:lastmodified":1449046841,
+    "wof:lastmodified":1466251866,
     "wof:name":"Soveco Outillage S.a.",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.25645,48.895908,2.25645,48.895908],
+  "bbox": [
+    2.25645,
+    48.895908,
+    2.25645,
+    48.895908
+],
   "geometry": {"coordinates":[2.25645,48.895908],"type":"Point"}
 }

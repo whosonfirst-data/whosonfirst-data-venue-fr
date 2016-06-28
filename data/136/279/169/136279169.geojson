@@ -2,13 +2,14 @@
   "id": 136279169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549544,47.191025,-1.549544,47.191025",
     "geom:latitude":47.191025,
     "geom:longitude":-1.549544,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Avenue De La Liberation",
     "sg:city":"Reze",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136279169,
-    "wof:lastmodified":1449075504,
+    "wof:lastmodified":1466245367,
     "wof:name":"Societe De Revision D'expertise De Gestion Et D'organisation (soregor)",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.549544,47.191025,-1.549544,47.191025],
+  "bbox": [
+    -1.549544,
+    47.191025,
+    -1.549544,
+    47.191025
+],
   "geometry": {"coordinates":[-1.549544,47.191025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169223803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.729718,48.57732,7.729718,48.57732",
     "geom:latitude":48.57732,
     "geom:longitude":7.729718,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22, Rue de la Broque, 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169223803,
-    "wof:lastmodified":1449032909,
+    "wof:lastmodified":1466249295,
     "wof:name":"Zapata S.a.r.l.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.729718,48.57732,7.729718,48.57732],
+  "bbox": [
+    7.729718,
+    48.57732,
+    7.729718,
+    48.57732
+],
   "geometry": {"coordinates":[7.729718,48.57732],"type":"Point"}
 }

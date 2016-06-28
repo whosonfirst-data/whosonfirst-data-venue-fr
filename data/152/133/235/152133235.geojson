@@ -2,13 +2,14 @@
   "id": 152133235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.539217,44.853058,-0.539217,44.853058",
     "geom:latitude":44.853058,
     "geom:longitude":-0.539217,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"388 Avenue Thiers 33100 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863277,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85863277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152133235,
-    "wof:lastmodified":1449048118,
+    "wof:lastmodified":1466249448,
     "wof:name":"C Mery Chauffage",
     "wof:parent_id":85863277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.539217,44.853058,-0.539217,44.853058],
+  "bbox": [
+    -0.539217,
+    44.853058,
+    -0.539217,
+    44.853058
+],
   "geometry": {"coordinates":[-0.539217,44.853058],"type":"Point"}
 }

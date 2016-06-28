@@ -2,13 +2,14 @@
   "id": 152077499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.492439,43.564274,1.492439,43.564274",
     "geom:latitude":43.564274,
     "geom:longitude":1.492439,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Andre Villet B\u00e2t P\u00e9ri",
     "sg:city":"2 31030 Toulouse Cedex 09",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794599,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152077499,
-    "wof:lastmodified":1449045042,
+    "wof:lastmodified":1466246773,
     "wof:name":"Alstom T Et D Sa",
     "wof:parent_id":85794599,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.492439,43.564274,1.492439,43.564274],
+  "bbox": [
+    1.492439,
+    43.564274,
+    1.492439,
+    43.564274
+],
   "geometry": {"coordinates":[1.492439,43.564274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152114237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.393129,48.899902,2.393129,48.899902",
     "geom:latitude":48.899902,
     "geom:longitude":2.393129,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2-4 Rue Davoust 93500 Pantin",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152114237,
-    "wof:lastmodified":1449046234,
+    "wof:lastmodified":1466249189,
     "wof:name":"Mannespieces Sa",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.393129,48.899902,2.393129,48.899902],
+  "bbox": [
+    2.393129,
+    48.899902,
+    2.393129,
+    48.899902
+],
   "geometry": {"coordinates":[2.393129,48.899902],"type":"Point"}
 }

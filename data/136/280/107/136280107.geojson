@@ -2,13 +2,14 @@
   "id": 136280107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320938,48.8619,2.320938,48.8619",
     "geom:latitude":48.8619,
     "geom:longitude":2.320938,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Quai Anatole France",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136280107,
-    "wof:lastmodified":1449075554,
+    "wof:lastmodified":1466245418,
     "wof:name":"Tessler & Associ\u00c9s",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320938,48.8619,2.320938,48.8619],
+  "bbox": [
+    2.320938,
+    48.8619,
+    2.320938,
+    48.8619
+],
   "geometry": {"coordinates":[2.320938,48.8619],"type":"Point"}
 }

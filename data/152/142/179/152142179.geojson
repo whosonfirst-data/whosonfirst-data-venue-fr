@@ -2,13 +2,14 @@
   "id": 152142179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.351904,48.90062,2.351904,48.90062",
     "geom:latitude":48.90062,
     "geom:longitude":2.351904,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Av De La Porte Des Poissonniers 75018 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873999,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85873999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152142179,
-    "wof:lastmodified":1449047996,
+    "wof:lastmodified":1466249497,
     "wof:name":"Gesclim",
     "wof:parent_id":85873999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.351904,48.90062,2.351904,48.90062],
+  "bbox": [
+    2.351904,
+    48.90062,
+    2.351904,
+    48.90062
+],
   "geometry": {"coordinates":[2.351904,48.90062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168957579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.515151,47.272713,-1.515151,47.272713",
     "geom:latitude":47.272713,
     "geom:longitude":-1.515151,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Route de Saint Joseph - Parc des Expos La Beaujoire",
     "sg:city":"Nantes",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794655,
+        85683233,
         85633147,
         101757315,
         102065537,
-        85683233
+        85794655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168957579,
-    "wof:lastmodified":1449028463,
+    "wof:lastmodified":1466248295,
     "wof:name":"Foire Internationale Et Congr\u00e8s De Nantes S.a.",
     "wof:parent_id":85794655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.515151,47.272713,-1.515151,47.272713],
+  "bbox": [
+    -1.515151,
+    47.272713,
+    -1.515151,
+    47.272713
+],
   "geometry": {"coordinates":[-1.515151,47.272713],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152128669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332816,48.894382,2.332816,48.894382",
     "geom:latitude":48.894382,
     "geom:longitude":2.332816,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"190 Rue Championnet 75876 Paris Cedex 18",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874007,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152128669,
-    "wof:lastmodified":1449046115,
+    "wof:lastmodified":1466249442,
     "wof:name":"Chauvin Arnoux",
     "wof:parent_id":85874007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332816,48.894382,2.332816,48.894382],
+  "bbox": [
+    2.332816,
+    48.894382,
+    2.332816,
+    48.894382
+],
   "geometry": {"coordinates":[2.332816,48.894382],"type":"Point"}
 }

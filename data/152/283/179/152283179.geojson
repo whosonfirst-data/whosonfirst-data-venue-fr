@@ -2,13 +2,14 @@
   "id": 152283179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.178375,47.809181,7.178375,47.809181",
     "geom:latitude":47.809181,
     "geom:longitude":7.178375,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 30, 68705 Cernay C\u00e9dex^^4, Rue de la Ferme, 68700 Cernay",
     "sg:city":"Cernay",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152283179,
-    "wof:lastmodified":1449045675,
+    "wof:lastmodified":1466250010,
     "wof:name":"Aubert France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.178375,47.809181,7.178375,47.809181],
+  "bbox": [
+    7.178375,
+    47.809181,
+    7.178375,
+    47.809181
+],
   "geometry": {"coordinates":[7.178375,47.809181],"type":"Point"}
 }

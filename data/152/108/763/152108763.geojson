@@ -2,13 +2,14 @@
   "id": 152108763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.39658,48.92915,2.39658,48.92915",
     "geom:latitude":48.92915,
     "geom:longitude":2.39658,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 avenue Marcel Cachin 93120 La Courneuve",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152108763,
-    "wof:lastmodified":1449044375,
+    "wof:lastmodified":1466249135,
     "wof:name":"Eurocopter S.a.",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.39658,48.92915,2.39658,48.92915],
+  "bbox": [
+    2.39658,
+    48.92915,
+    2.39658,
+    48.92915
+],
   "geometry": {"coordinates":[2.39658,48.92915],"type":"Point"}
 }

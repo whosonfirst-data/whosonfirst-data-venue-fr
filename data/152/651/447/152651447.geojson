@@ -2,13 +2,14 @@
   "id": 152651447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.545152,47.900028,-2.545152,47.900028",
     "geom:latitude":47.900028,
     "geom:longitude":-2.545152,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 62, 56120 Josselin^^Z.I. La Belle Alouette, 56120 Josselin",
     "sg:city":"Josselin",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":152651447,
-    "wof:lastmodified":1449045220,
+    "wof:lastmodified":1466251346,
     "wof:name":"Olympig S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.545152,47.900028,-2.545152,47.900028],
+  "bbox": [
+    -2.545152,
+    47.900028,
+    -2.545152,
+    47.900028
+],
   "geometry": {"coordinates":[-2.545152,47.900028],"type":"Point"}
 }

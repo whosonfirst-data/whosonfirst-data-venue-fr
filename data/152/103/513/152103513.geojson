@@ -2,13 +2,14 @@
   "id": 152103513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.381267,48.858536,2.381267,48.858536",
     "geom:latitude":48.858536,
     "geom:longitude":2.381267,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 B Cite Industrielle 75011 Paris",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152103513,
-    "wof:lastmodified":1449047185,
+    "wof:lastmodified":1466248853,
     "wof:name":"Asparis",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.381267,48.858536,2.381267,48.858536],
+  "bbox": [
+    2.381267,
+    48.858536,
+    2.381267,
+    48.858536
+],
   "geometry": {"coordinates":[2.381267,48.858536],"type":"Point"}
 }

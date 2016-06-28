@@ -2,13 +2,14 @@
   "id": 152843405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.857918,39.565708,-104.857918,39.565708",
     "geom:latitude":39.565708,
     "geom:longitude":-104.857918,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"80112 Villers Faucon^^1, Rte Ep\u00e9hy, 80112 Villers Faucon",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85865181,
+        85688603,
         85633793,
         85929257,
         102085225,
-        85688603
+        85865181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152843405,
-    "wof:lastmodified":1449044715,
+    "wof:lastmodified":1466252028,
     "wof:name":"Vermandoise Industries S.a.",
     "wof:parent_id":85865181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.857918,39.565708,-104.857918,39.565708],
+  "bbox": [
+    -104.857918,
+    39.565708,
+    -104.857918,
+    39.565708
+],
   "geometry": {"coordinates":[-104.857918,39.565708],"type":"Point"}
 }

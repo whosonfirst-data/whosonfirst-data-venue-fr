@@ -2,13 +2,14 @@
   "id": 136313507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.406263,48.840862,2.406263,48.840862",
     "geom:latitude":48.840862,
     "geom:longitude":2.406263,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 rue du Sahel 75012 Paris",
     "sg:classifiers":[
         {
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873903,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":136313507,
-    "wof:lastmodified":1449074965,
+    "wof:lastmodified":1466245339,
     "wof:name":"Arger Courtages Sa",
     "wof:parent_id":85873903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.406263,48.840862,2.406263,48.840862],
+  "bbox": [
+    2.406263,
+    48.840862,
+    2.406263,
+    48.840862
+],
   "geometry": {"coordinates":[2.406263,48.840862],"type":"Point"}
 }

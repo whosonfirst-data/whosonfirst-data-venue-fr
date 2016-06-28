@@ -2,13 +2,14 @@
   "id": 152563499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.339948,48.86628,2.339948,48.86628",
     "geom:latitude":48.86628,
     "geom:longitude":2.339948,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue de la Banque, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152563499,
-    "wof:lastmodified":1449044362,
+    "wof:lastmodified":1466251051,
     "wof:name":"L.c.l. S.a. - Laboratoire Cosm\u00e9tique De Lecousse",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.339948,48.86628,2.339948,48.86628],
+  "bbox": [
+    2.339948,
+    48.86628,
+    2.339948,
+    48.86628
+],
   "geometry": {"coordinates":[2.339948,48.86628],"type":"Point"}
 }

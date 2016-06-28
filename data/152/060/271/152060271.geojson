@@ -2,13 +2,14 @@
   "id": 152060271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.404165,48.855911,2.404165,48.855911",
     "geom:latitude":48.855911,
     "geom:longitude":2.404165,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Rue Des Haies 75020 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874045,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060271,
-    "wof:lastmodified":1449048496,
+    "wof:lastmodified":1466246783,
     "wof:name":"Creations Constantin",
     "wof:parent_id":85874045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.404165,48.855911,2.404165,48.855911],
+  "bbox": [
+    2.404165,
+    48.855911,
+    2.404165,
+    48.855911
+],
   "geometry": {"coordinates":[2.404165,48.855911],"type":"Point"}
 }

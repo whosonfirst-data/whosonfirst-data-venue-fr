@@ -2,13 +2,14 @@
   "id": 152659523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.767561,47.974705,2.767561,47.974705",
     "geom:latitude":47.974705,
     "geom:longitude":2.767561,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 141, 45201 Montargis C\u00e9dex^^5, Rue du Port, 45200 Montargis",
     "sg:city":"Montargis",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152659523,
-    "wof:lastmodified":1449044805,
+    "wof:lastmodified":1466251367,
     "wof:name":"P.r.o. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.767561,47.974705,2.767561,47.974705],
+  "bbox": [
+    2.767561,
+    47.974705,
+    2.767561,
+    47.974705
+],
   "geometry": {"coordinates":[2.767561,47.974705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136289507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.69638,48.580238,7.69638,48.580238",
     "geom:latitude":48.580238,
     "geom:longitude":7.69638,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Route Des Romains 67200 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071297,
-        85633147,
         85683221,
-        85897713
+        85633147,
+        85897713,
+        102071297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136289507,
-    "wof:lastmodified":1449076034,
+    "wof:lastmodified":1466246126,
     "wof:name":"Sonnendrucker Sa",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.69638,48.580238,7.69638,48.580238],
+  "bbox": [
+    7.69638,
+    48.580238,
+    7.69638,
+    48.580238
+],
   "geometry": {"coordinates":[7.69638,48.580238],"type":"Point"}
 }

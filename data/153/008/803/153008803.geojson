@@ -2,13 +2,14 @@
   "id": 153008803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34463,48.892471,2.34463,48.892471",
     "geom:latitude":48.892471,
     "geom:longitude":2.34463,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Rue D Aubervilliers",
     "sg:city":"F Porte 29 75018 Paris",
     "sg:classifiers":[
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874003,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153008803,
-    "wof:lastmodified":1449040483,
+    "wof:lastmodified":1466245580,
     "wof:name":"Alpha Radiotelephone Service",
     "wof:parent_id":85874003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34463,48.892471,2.34463,48.892471],
+  "bbox": [
+    2.34463,
+    48.892471,
+    2.34463,
+    48.892471
+],
   "geometry": {"coordinates":[2.34463,48.892471],"type":"Point"}
 }

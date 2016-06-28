@@ -2,13 +2,14 @@
   "id": 169123989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.643986,47.228313,-1.643986,47.228313",
     "geom:latitude":47.228313,
     "geom:longitude":-1.643986,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1bis, Rue de la Dut\u00e9e, 44800 Saint Herblain",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169123989,
-    "wof:lastmodified":1449033672,
+    "wof:lastmodified":1466248182,
     "wof:name":"S.a.f. - Soudure Autog\u00e8ne Fran\u00e7aise",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.643986,47.228313,-1.643986,47.228313],
+  "bbox": [
+    -1.643986,
+    47.228313,
+    -1.643986,
+    47.228313
+],
   "geometry": {"coordinates":[-1.643986,47.228313],"type":"Point"}
 }

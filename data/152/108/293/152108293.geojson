@@ -2,13 +2,14 @@
   "id": 152108293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.506098,47.250061,-1.506098,47.250061",
     "geom:latitude":47.250061,
     "geom:longitude":-1.506098,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rue D'Ath\u00e8nes 44300 Nantes",
     "sg:classifiers":[
         {
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152108293,
-    "wof:lastmodified":1449044372,
+    "wof:lastmodified":1466249256,
     "wof:name":"Sarl Le Moal",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.506098,47.250061,-1.506098,47.250061],
+  "bbox": [
+    -1.506098,
+    47.250061,
+    -1.506098,
+    47.250061
+],
   "geometry": {"coordinates":[-1.506098,47.250061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152459743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.506098,47.250061,-1.506098,47.250061",
     "geom:latitude":47.250061,
     "geom:longitude":-1.506098,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 83606, 44336 Nantes C\u00e9dex^^3, Rue d'Ath\u00e8nes - ZI de Lann S\u00e9velin, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152459743,
-    "wof:lastmodified":1449046192,
+    "wof:lastmodified":1466250751,
     "wof:name":"Etde Ouest S.a.",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.506098,47.250061,-1.506098,47.250061],
+  "bbox": [
+    -1.506098,
+    47.250061,
+    -1.506098,
+    47.250061
+],
   "geometry": {"coordinates":[-1.506098,47.250061],"type":"Point"}
 }

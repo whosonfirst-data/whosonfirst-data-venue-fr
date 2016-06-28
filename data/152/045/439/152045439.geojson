@@ -2,13 +2,14 @@
   "id": 152045439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.584491,47.212788,-1.584491,47.212788",
     "geom:latitude":47.212788,
     "geom:longitude":-1.584491,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Giton 44100 Nantes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045439,
-    "wof:lastmodified":1449048380,
+    "wof:lastmodified":1466245504,
     "wof:name":"Coll\u00c8ge D'enseignement Priv\u00c9 Sacre Coeur",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.584491,47.212788,-1.584491,47.212788],
+  "bbox": [
+    -1.584491,
+    47.212788,
+    -1.584491,
+    47.212788
+],
   "geometry": {"coordinates":[-1.584491,47.212788],"type":"Point"}
 }

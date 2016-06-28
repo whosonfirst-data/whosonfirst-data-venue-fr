@@ -2,13 +2,14 @@
   "id": 152910641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.31993,48.818401,2.31993,48.818401",
     "geom:latitude":48.818401,
     "geom:longitude":2.31993,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Avenue De La Marne 92546 Montrouge",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152910641,
-    "wof:lastmodified":1449046243,
+    "wof:lastmodified":1466252263,
     "wof:name":"Editions Legislatives Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.31993,48.818401,2.31993,48.818401],
+  "bbox": [
+    2.31993,
+    48.818401,
+    2.31993,
+    48.818401
+],
   "geometry": {"coordinates":[2.31993,48.818401],"type":"Point"}
 }

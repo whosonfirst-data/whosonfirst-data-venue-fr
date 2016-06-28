@@ -2,13 +2,14 @@
   "id": 152449071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.346186,43.615749,1.346186,43.615749",
     "geom:latitude":43.615749,
     "geom:longitude":1.346186,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Av. Cl\u00e9ment Ader - Parc A\u00e9ronautique, 31770 Colomiers",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152449071,
-    "wof:lastmodified":1449048582,
+    "wof:lastmodified":1466250685,
     "wof:name":"Etablissements Bernard Pag\u00e8s S.a.",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.346186,43.615749,1.346186,43.615749],
+  "bbox": [
+    1.346186,
+    43.615749,
+    1.346186,
+    43.615749
+],
   "geometry": {"coordinates":[1.346186,43.615749],"type":"Point"}
 }

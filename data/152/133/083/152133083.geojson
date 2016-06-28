@@ -2,13 +2,14 @@
   "id": 152133083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.442545,48.868435,2.442545,48.868435",
     "geom:latitude":48.868435,
     "geom:longitude":2.442545,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Rue Eernest Savart 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133083,
-    "wof:lastmodified":1449048118,
+    "wof:lastmodified":1466249434,
     "wof:name":"Brebion Sarl",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.442545,48.868435,2.442545,48.868435],
+  "bbox": [
+    2.442545,
+    48.868435,
+    2.442545,
+    48.868435
+],
   "geometry": {"coordinates":[2.442545,48.868435],"type":"Point"}
 }

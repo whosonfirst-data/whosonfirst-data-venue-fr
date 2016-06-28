@@ -2,13 +2,14 @@
   "id": 136308769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.335419,48.872562,2.335419,48.872562",
     "geom:latitude":48.872562,
     "geom:longitude":2.335419,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 bis et 13 Boulevard Haussmann, 75009 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136308769,
-    "wof:lastmodified":1449076298,
+    "wof:lastmodified":1466247243,
     "wof:name":"Soci\u00e9t\u00e9 Priv\u00e9e Wormser Et Compagnie",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.335419,48.872562,2.335419,48.872562],
+  "bbox": [
+    2.335419,
+    48.872562,
+    2.335419,
+    48.872562
+],
   "geometry": {"coordinates":[2.335419,48.872562],"type":"Point"}
 }

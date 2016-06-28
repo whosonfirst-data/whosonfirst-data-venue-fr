@@ -2,13 +2,14 @@
   "id": 152214455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.403009,48.845356,2.403009,48.845356",
     "geom:latitude":48.845356,
     "geom:longitude":2.403009,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Marsoulan 75012 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873911,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152214455,
-    "wof:lastmodified":1449048772,
+    "wof:lastmodified":1466249779,
     "wof:name":"Pompes Funebres Dulac Sa",
     "wof:parent_id":85873911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.403009,48.845356,2.403009,48.845356],
+  "bbox": [
+    2.403009,
+    48.845356,
+    2.403009,
+    48.845356
+],
   "geometry": {"coordinates":[2.403009,48.845356],"type":"Point"}
 }

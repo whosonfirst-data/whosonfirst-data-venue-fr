@@ -2,13 +2,14 @@
   "id": 153011307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.256746,43.716648,7.256746,43.716648",
     "geom:latitude":43.716648,
     "geom:longitude":7.256746,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Av Cyrille Besset 06184 Nice Cedex 2",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153011307,
-    "wof:lastmodified":1449040730,
+    "wof:lastmodified":1466245798,
     "wof:name":"France Telecom",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.256746,43.716648,7.256746,43.716648],
+  "bbox": [
+    7.256746,
+    43.716648,
+    7.256746,
+    43.716648
+],
   "geometry": {"coordinates":[7.256746,43.716648],"type":"Point"}
 }

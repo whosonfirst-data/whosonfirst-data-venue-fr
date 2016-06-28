@@ -2,13 +2,14 @@
   "id": 169232325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.593946,47.187508,-1.593946,47.187508",
     "geom:latitude":47.187508,
     "geom:longitude":-1.593946,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 R De L'Ile Chupin Zi De Chevir\u00e9 44340 Bouguenais",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169232325,
-    "wof:lastmodified":1449033752,
+    "wof:lastmodified":1466249356,
     "wof:name":"Pinault Bretagne - Direction Regionale Exotique",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.593946,47.187508,-1.593946,47.187508],
+  "bbox": [
+    -1.593946,
+    47.187508,
+    -1.593946,
+    47.187508
+],
   "geometry": {"coordinates":[-1.593946,47.187508],"type":"Point"}
 }

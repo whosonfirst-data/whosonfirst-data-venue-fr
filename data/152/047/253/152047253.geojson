@@ -2,13 +2,14 @@
   "id": 152047253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.329003,48.866241,2.329003,48.866241",
     "geom:latitude":48.866241,
     "geom:longitude":2.329003,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Rue St Honor\u00e9 75001 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152047253,
-    "wof:lastmodified":1449047284,
+    "wof:lastmodified":1466245632,
     "wof:name":"Sogedicom Sarl",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.329003,48.866241,2.329003,48.866241],
+  "bbox": [
+    2.329003,
+    48.866241,
+    2.329003,
+    48.866241
+],
   "geometry": {"coordinates":[2.329003,48.866241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152943379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.292721,48.854061,2.292721,48.854061",
     "geom:latitude":48.854061,
     "geom:longitude":2.292721,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34",
     "sg:city":"de la F\u00e9d\u00e9ration; Paris; 75015",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873953,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152943379,
-    "wof:lastmodified":1449045516,
+    "wof:lastmodified":1466252394,
     "wof:name":"Simco Sa",
     "wof:parent_id":85873953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.292721,48.854061,2.292721,48.854061],
+  "bbox": [
+    2.292721,
+    48.854061,
+    2.292721,
+    48.854061
+],
   "geometry": {"coordinates":[2.292721,48.854061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152539801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.380449,48.863434,2.380449,48.863434",
     "geom:latitude":48.863434,
     "geom:longitude":2.380449,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Guillaume Bertrand, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873891,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152539801,
-    "wof:lastmodified":1449048987,
+    "wof:lastmodified":1466250984,
     "wof:name":"In Folio S.a.",
     "wof:parent_id":85873891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.380449,48.863434,2.380449,48.863434],
+  "bbox": [
+    2.380449,
+    48.863434,
+    2.380449,
+    48.863434
+],
   "geometry": {"coordinates":[2.380449,48.863434],"type":"Point"}
 }

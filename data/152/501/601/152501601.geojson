@@ -2,13 +2,14 @@
   "id": 152501601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.53666,47.24435,-1.53666,47.24435",
     "geom:latitude":47.24435,
     "geom:longitude":-1.53666,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Chemin Bonneville, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152501601,
-    "wof:lastmodified":1449048932,
+    "wof:lastmodified":1466250821,
     "wof:name":"Gestetner S.a.",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.53666,47.24435,-1.53666,47.24435],
+  "bbox": [
+    -1.53666,
+    47.24435,
+    -1.53666,
+    47.24435
+],
   "geometry": {"coordinates":[-1.53666,47.24435],"type":"Point"}
 }

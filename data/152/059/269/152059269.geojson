@@ -2,13 +2,14 @@
   "id": 152059269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.349967,48.88282,2.349967,48.88282",
     "geom:latitude":48.88282,
     "geom:longitude":2.349967,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Boulevard De Magenta 75010 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873873,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873873
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152059269,
-    "wof:lastmodified":1449045564,
+    "wof:lastmodified":1466246721,
     "wof:name":"Fak",
     "wof:parent_id":85873873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.349967,48.88282,2.349967,48.88282],
+  "bbox": [
+    2.349967,
+    48.88282,
+    2.349967,
+    48.88282
+],
   "geometry": {"coordinates":[2.349967,48.88282],"type":"Point"}
 }

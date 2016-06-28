@@ -2,13 +2,14 @@
   "id": 152817819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.92575,43.176491,5.92575,43.176491",
     "geom:latitude":43.176491,
     "geom:longitude":5.92575,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 190, 83089 Toulon C\u00e9dex 9^^Rue Parmentier, 83200 Toulon",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071135,
-        85633147,
         85683315,
-        85794515
+        85633147,
+        85794515,
+        102071135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152817819,
-    "wof:lastmodified":1449048011,
+    "wof:lastmodified":1466251945,
     "wof:name":"Thales Information Systemes",
     "wof:parent_id":85794515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.92575,43.176491,5.92575,43.176491],
+  "bbox": [
+    5.92575,
+    43.176491,
+    5.92575,
+    43.176491
+],
   "geometry": {"coordinates":[5.92575,43.176491],"type":"Point"}
 }

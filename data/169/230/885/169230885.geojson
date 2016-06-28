@@ -2,13 +2,14 @@
   "id": 169230885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.675611,48.941765,2.675611,48.941765",
     "geom:latitude":48.941765,
     "geom:longitude":2.675611,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Cesar Franck 77410 Claye Souilly",
     "sg:classifiers":[
         {
@@ -25,10 +26,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065403,
-        85633147,
         85683385,
-        85794641
+        85633147,
+        85794641,
+        102065403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169230885,
-    "wof:lastmodified":1449035126,
+    "wof:lastmodified":1466249235,
     "wof:name":"Acts Atelier De Cintrages De Tubes Toles Soudures",
     "wof:parent_id":85794641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.675611,48.941765,2.675611,48.941765],
+  "bbox": [
+    2.675611,
+    48.941765,
+    2.675611,
+    48.941765
+],
   "geometry": {"coordinates":[2.675611,48.941765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152096739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.585437,50.647911,5.585437,50.647911",
     "geom:latitude":50.647911,
     "geom:longitude":5.585437,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"La Zone Industrielle BP 69 13512 Port St Louis Du Rh\u00f4ne",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85862039,
+        85681691,
         85632997,
         101748083,
         102049941,
-        85681691
+        85862039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152096739,
-    "wof:lastmodified":1449045799,
+    "wof:lastmodified":1466248317,
     "wof:name":"Les Fils D Ferrigno (soc) Sa",
     "wof:parent_id":85862039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.585437,50.647911,5.585437,50.647911],
+  "bbox": [
+    5.585437,
+    50.647911,
+    5.585437,
+    50.647911
+],
   "geometry": {"coordinates":[5.585437,50.647911],"type":"Point"}
 }

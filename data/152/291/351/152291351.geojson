@@ -2,13 +2,14 @@
   "id": 152291351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334015,48.866253,2.334015,48.866253",
     "geom:latitude":48.866253,
     "geom:longitude":2.334015,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Av. Op\u00e9ra, 75001 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152291351,
-    "wof:lastmodified":1449045730,
+    "wof:lastmodified":1466250035,
     "wof:name":"B.f.r. S.a. - Banque Franco Roumaine",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334015,48.866253,2.334015,48.866253],
+  "bbox": [
+    2.334015,
+    48.866253,
+    2.334015,
+    48.866253
+],
   "geometry": {"coordinates":[2.334015,48.866253],"type":"Point"}
 }

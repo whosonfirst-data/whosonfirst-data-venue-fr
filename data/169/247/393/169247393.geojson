@@ -2,13 +2,14 @@
   "id": 169247393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.575263,47.204519,-1.575263,47.204519",
     "geom:latitude":47.204519,
     "geom:longitude":-1.575263,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Immeuble Salorges 1 15, quai Ernest Renaud",
     "sg:city":"Nantes",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.linkbynet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169247393,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249508,
     "wof:name":"LINKBYNET",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.575263,47.204519,-1.575263,47.204519],
+  "bbox": [
+    -1.575263,
+    47.204519,
+    -1.575263,
+    47.204519
+],
   "geometry": {"coordinates":[-1.575263,47.204519],"type":"Point"}
 }

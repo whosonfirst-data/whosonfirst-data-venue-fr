@@ -2,13 +2,14 @@
   "id": 152049071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330267,48.841946,2.330267,48.841946",
     "geom:latitude":48.841946,
     "geom:longitude":2.330267,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue De La Grande Chaumi\u00e8re 75006 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873827,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049071,
-    "wof:lastmodified":1449046594,
+    "wof:lastmodified":1466245723,
     "wof:name":"H\u00d4tel Des Academies",
     "wof:parent_id":85873827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330267,48.841946,2.330267,48.841946],
+  "bbox": [
+    2.330267,
+    48.841946,
+    2.330267,
+    48.841946
+],
   "geometry": {"coordinates":[2.330267,48.841946],"type":"Point"}
 }

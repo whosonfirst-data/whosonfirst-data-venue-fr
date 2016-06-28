@@ -2,13 +2,14 @@
   "id": 152049919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.336898,48.883083,2.336898,48.883083",
     "geom:latitude":48.883083,
     "geom:longitude":2.336898,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Impasse Guelma 75018 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
+        85873863,
         85873867
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152049919,
-    "wof:lastmodified":1449046592,
+    "wof:lastmodified":1466245896,
     "wof:name":"Societe Des Ateliers Jacques Goujon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.336898,48.883083,2.336898,48.883083],
+  "bbox": [
+    2.336898,
+    48.883083,
+    2.336898,
+    48.883083
+],
   "geometry": {"coordinates":[2.336898,48.883083],"type":"Point"}
 }

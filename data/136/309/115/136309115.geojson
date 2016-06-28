@@ -2,13 +2,14 @@
   "id": 136309115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325693,48.870224,2.325693,48.870224",
     "geom:latitude":48.870224,
     "geom:longitude":2.325693,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 pl de la Madeleine; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136309115,
-    "wof:lastmodified":1449075188,
+    "wof:lastmodified":1466247165,
     "wof:name":"Union De Banques \u00e0 Paris, \u00e0 Paris",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325693,48.870224,2.325693,48.870224],
+  "bbox": [
+    2.325693,
+    48.870224,
+    2.325693,
+    48.870224
+],
   "geometry": {"coordinates":[2.325693,48.870224],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152053297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.25657,48.857079,2.25657,48.857079",
     "geom:latitude":48.857079,
     "geom:longitude":2.25657,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17",
     "sg:city":"Hamelin; Paris; 75016",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873969,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152053297,
-    "wof:lastmodified":1449045173,
+    "wof:lastmodified":1466246114,
     "wof:name":"Chambre De Commerce Et D'industrie Franco-roumaine",
     "wof:parent_id":85873969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.25657,48.857079,2.25657,48.857079],
+  "bbox": [
+    2.25657,
+    48.857079,
+    2.25657,
+    48.857079
+],
   "geometry": {"coordinates":[2.25657,48.857079],"type":"Point"}
 }

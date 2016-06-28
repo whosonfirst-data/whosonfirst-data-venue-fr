@@ -2,13 +2,14 @@
   "id": 152167631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29813,48.895069,2.29813,48.895069",
     "geom:latitude":48.895069,
     "geom:longitude":2.29813,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue De Bretagne 92300 Levallois Perret",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873993,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152167631,
-    "wof:lastmodified":1449046704,
+    "wof:lastmodified":1466249700,
     "wof:name":"Reparation D'outils Coupants Sarl",
     "wof:parent_id":85873993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29813,48.895069,2.29813,48.895069],
+  "bbox": [
+    2.29813,
+    48.895069,
+    2.29813,
+    48.895069
+],
   "geometry": {"coordinates":[2.29813,48.895069],"type":"Point"}
 }

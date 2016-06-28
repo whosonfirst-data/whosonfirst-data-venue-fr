@@ -2,13 +2,14 @@
   "id": 136305705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.336423,48.874317,2.336423,48.874317",
     "geom:latitude":48.874317,
     "geom:longitude":2.336423,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38 rue de Provence; Paris; 75009",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136305705,
-    "wof:lastmodified":1449075113,
+    "wof:lastmodified":1466247032,
     "wof:name":"Hottinguer & Cie",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.336423,48.874317,2.336423,48.874317],
+  "bbox": [
+    2.336423,
+    48.874317,
+    2.336423,
+    48.874317
+],
   "geometry": {"coordinates":[2.336423,48.874317],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153030221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.60882,44.891983,-0.60882,44.891983",
     "geom:latitude":44.891983,
     "geom:longitude":-0.60882,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue de Barcelone 33520 BRUGES",
     "sg:city":"Bruges",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153030221,
-    "wof:lastmodified":1449040513,
+    "wof:lastmodified":1466247087,
     "wof:name":"Hamann Internationnal S.a.s",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.60882,44.891983,-0.60882,44.891983],
+  "bbox": [
+    -0.60882,
+    44.891983,
+    -0.60882,
+    44.891983
+],
   "geometry": {"coordinates":[-0.60882,44.891983],"type":"Point"}
 }

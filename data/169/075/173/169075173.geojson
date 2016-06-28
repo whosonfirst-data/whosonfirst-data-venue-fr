@@ -2,13 +2,14 @@
   "id": 169075173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.070577,49.448479,1.070577,49.448479",
     "geom:latitude":49.448479,
     "geom:longitude":1.070577,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"132, Rue de Constantine, 76000 Rouen",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169075173,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466247297,
     "wof:name":"Normandie Accessoires S.a.",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.070577,49.448479,1.070577,49.448479],
+  "bbox": [
+    1.070577,
+    49.448479,
+    1.070577,
+    49.448479
+],
   "geometry": {"coordinates":[1.070577,49.448479],"type":"Point"}
 }

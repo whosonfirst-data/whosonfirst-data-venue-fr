@@ -2,13 +2,14 @@
   "id": 152111491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.289496,48.833626,2.289496,48.833626",
     "geom:latitude":48.833626,
     "geom:longitude":2.289496,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Rue De Vaugirard 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152111491,
-    "wof:lastmodified":1449049042,
+    "wof:lastmodified":1466249312,
     "wof:name":"Placard Design",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.289496,48.833626,2.289496,48.833626],
+  "bbox": [
+    2.289496,
+    48.833626,
+    2.289496,
+    48.833626
+],
   "geometry": {"coordinates":[2.289496,48.833626],"type":"Point"}
 }

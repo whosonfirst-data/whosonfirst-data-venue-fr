@@ -2,13 +2,14 @@
   "id": 152128819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358963,48.817619,2.358963,48.817619",
     "geom:latitude":48.817619,
     "geom:longitude":2.358963,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4",
     "sg:city":"Rosny A\u00een\u00e9 75013 Paris",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152128819,
-    "wof:lastmodified":1449046116,
+    "wof:lastmodified":1466249456,
     "wof:name":"Dife",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358963,48.817619,2.358963,48.817619],
+  "bbox": [
+    2.358963,
+    48.817619,
+    2.358963,
+    48.817619
+],
   "geometry": {"coordinates":[2.358963,48.817619],"type":"Point"}
 }

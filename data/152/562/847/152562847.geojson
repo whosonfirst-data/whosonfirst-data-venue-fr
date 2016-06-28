@@ -2,13 +2,14 @@
   "id": 152562847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.871002,32.614262,-93.871002,32.614262",
     "geom:latitude":32.614262,
     "geom:longitude":-93.871002,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 305, 71107 Ch\u00e2lon sur Sa\u00f4ne C\u00e9dex^^32, Rue des Fr\u00e8res Lumi\u00e8re, 71100 Ch\u00e2lon sur Sa\u00f4ne",
     "sg:city":"Chalon-sur-Sa\u00f4ne",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825193,
+        85688735,
         85633793,
         85947819,
         102087235,
-        85688735
+        85825193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152562847,
-    "wof:lastmodified":1449046756,
+    "wof:lastmodified":1466251066,
     "wof:name":"L. Vuillermet S.a.r.l.",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.871002,32.614262,-93.871002,32.614262],
+  "bbox": [
+    -93.871002,
+    32.614262,
+    -93.871002,
+    32.614262
+],
   "geometry": {"coordinates":[-93.871002,32.614262],"type":"Point"}
 }

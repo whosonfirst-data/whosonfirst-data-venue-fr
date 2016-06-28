@@ -2,13 +2,14 @@
   "id": 136301065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.552038,44.896133,-0.552038,44.896133",
     "geom:latitude":44.896133,
     "geom:longitude":-0.552038,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 ave de la Jall\u00e8re; Bordeaux; 33049",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301065,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246709,
     "wof:name":"Caisse D'epargne, Aquitaine Nord",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.552038,44.896133,-0.552038,44.896133],
+  "bbox": [
+    -0.552038,
+    44.896133,
+    -0.552038,
+    44.896133
+],
   "geometry": {"coordinates":[-0.552038,44.896133],"type":"Point"}
 }

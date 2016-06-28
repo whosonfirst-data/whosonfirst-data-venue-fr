@@ -2,13 +2,14 @@
   "id": 152882567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326437,48.868015,2.326437,48.868015",
     "geom:latitude":48.868015,
     "geom:longitude":2.326437,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 rue Cambon 75001 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152882567,
-    "wof:lastmodified":1449045139,
+    "wof:lastmodified":1466252164,
     "wof:name":"Tropica Bois Sa",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326437,48.868015,2.326437,48.868015],
+  "bbox": [
+    2.326437,
+    48.868015,
+    2.326437,
+    48.868015
+],
   "geometry": {"coordinates":[2.326437,48.868015],"type":"Point"}
 }

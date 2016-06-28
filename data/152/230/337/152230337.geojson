@@ -2,13 +2,14 @@
   "id": 152230337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.428795,48.842373,2.428795,48.842373",
     "geom:latitude":48.842373,
     "geom:longitude":2.428795,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 all\u00e9e Nic\u00e9phore Ni\u00e8pce 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152230337,
-    "wof:lastmodified":1449047732,
+    "wof:lastmodified":1466249824,
     "wof:name":"Agence Presse Edition Informat S.a.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.428795,48.842373,2.428795,48.842373],
+  "bbox": [
+    2.428795,
+    48.842373,
+    2.428795,
+    48.842373
+],
   "geometry": {"coordinates":[2.428795,48.842373],"type":"Point"}
 }

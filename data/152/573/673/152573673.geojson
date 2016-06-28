@@ -2,13 +2,14 @@
   "id": 152573673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.455539,48.431992,-4.455539,48.431992",
     "geom:latitude":48.431992,
     "geom:longitude":-4.455539,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Av. du Baron Lacrosse, 29850 Gouesnou",
     "sg:city":"Gouesnou",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152573673,
-    "wof:lastmodified":1449047711,
+    "wof:lastmodified":1466251094,
     "wof:name":"Laita S.a.",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.455539,48.431992,-4.455539,48.431992],
+  "bbox": [
+    -4.455539,
+    48.431992,
+    -4.455539,
+    48.431992
+],
   "geometry": {"coordinates":[-4.455539,48.431992],"type":"Point"}
 }

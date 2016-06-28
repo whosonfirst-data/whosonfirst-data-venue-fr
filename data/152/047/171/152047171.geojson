@@ -2,13 +2,14 @@
   "id": 152047171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.360481,48.868549,2.360481,48.868549",
     "geom:latitude":48.868549,
     "geom:longitude":2.360481,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"44 R R\u00e9n\u00e9 Boulanger 75010 Paris",
     "sg:classifiers":[
         {
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
-        85873875,
-        102068731
+        85873805,
+        102068731,
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152047171,
-    "wof:lastmodified":1449047284,
+    "wof:lastmodified":1466245615,
     "wof:name":"Accord Interpretes Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.360481,48.868549,2.360481,48.868549],
+  "bbox": [
+    2.360481,
+    48.868549,
+    2.360481,
+    48.868549
+],
   "geometry": {"coordinates":[2.360481,48.868549],"type":"Point"}
 }

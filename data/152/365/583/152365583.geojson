@@ -2,13 +2,14 @@
   "id": 152365583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.312427,48.872265,2.312427,48.872265",
     "geom:latitude":48.872265,
     "geom:longitude":2.312427,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"128, Rue du Faubourg Saint Honor\u00e9, 75364 Paris C\u00e9dex 8",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152365583,
-    "wof:lastmodified":1449045052,
+    "wof:lastmodified":1466250327,
     "wof:name":"Cial",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.312427,48.872265,2.312427,48.872265],
+  "bbox": [
+    2.312427,
+    48.872265,
+    2.312427,
+    48.872265
+],
   "geometry": {"coordinates":[2.312427,48.872265],"type":"Point"}
 }

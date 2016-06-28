@@ -2,13 +2,14 @@
   "id": 168821237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.164873,49.52372,0.164873,49.52372",
     "geom:latitude":49.52372,
     "geom:longitude":0.164873,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Impasse des Etangs, 76610 Le Havre",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794629,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168821237,
-    "wof:lastmodified":1449028181,
+    "wof:lastmodified":1466245282,
     "wof:name":"Balbiano S.a.",
     "wof:parent_id":85794629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.164873,49.52372,0.164873,49.52372],
+  "bbox": [
+    0.164873,
+    49.52372,
+    0.164873,
+    49.52372
+],
   "geometry": {"coordinates":[0.164873,49.52372],"type":"Point"}
 }

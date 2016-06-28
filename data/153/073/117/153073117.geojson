@@ -2,13 +2,14 @@
   "id": 153073117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.495149,47.258614,-1.495149,47.258614",
     "geom:latitude":47.258614,
     "geom:longitude":-1.495149,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Impasse des Tourmalines - Technoparc de l'Aubini\u00e8re, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153073117,
-    "wof:lastmodified":1449040388,
+    "wof:lastmodified":1466246849,
     "wof:name":"Apog\u00e9e Communications Nantes S.a.",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.495149,47.258614,-1.495149,47.258614],
+  "bbox": [
+    -1.495149,
+    47.258614,
+    -1.495149,
+    47.258614
+],
   "geometry": {"coordinates":[-1.495149,47.258614],"type":"Point"}
 }

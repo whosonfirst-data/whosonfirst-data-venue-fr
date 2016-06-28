@@ -2,13 +2,14 @@
   "id": 169229325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314235,48.875263,2.314235,48.875263",
     "geom:latitude":48.875263,
     "geom:longitude":2.314235,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"134 boulevard Haussmann 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Waste Bins, Pedal Bins",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169229325,
-    "wof:lastmodified":1449035292,
+    "wof:lastmodified":1466249164,
     "wof:name":"T.i.r.u. Sa",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314235,48.875263,2.314235,48.875263],
+  "bbox": [
+    2.314235,
+    48.875263,
+    2.314235,
+    48.875263
+],
   "geometry": {"coordinates":[2.314235,48.875263],"type":"Point"}
 }

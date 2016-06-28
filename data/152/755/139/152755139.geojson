@@ -2,13 +2,14 @@
   "id": 152755139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.309003,48.88855,2.309003,48.88855",
     "geom:latitude":48.88855,
     "geom:longitude":2.309003,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"125, Rue de Saussure, 75017 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873993,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152755139,
-    "wof:lastmodified":1449045606,
+    "wof:lastmodified":1466251718,
     "wof:name":"Sellotape France S.a.",
     "wof:parent_id":85873993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.309003,48.88855,2.309003,48.88855],
+  "bbox": [
+    2.309003,
+    48.88855,
+    2.309003,
+    48.88855
+],
   "geometry": {"coordinates":[2.309003,48.88855],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152643671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.82402,38.93742,-79.82402,38.93742",
     "geom:latitude":38.93742,
     "geom:longitude":-79.82402,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZAC les Pierrelles",
     "sg:city":"Beausemblant",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"West Virginia",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824079,
+        85688589,
         85633793,
         101731737,
         102083361,
-        85688589
+        85824079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152643671,
-    "wof:lastmodified":1449048301,
+    "wof:lastmodified":1466251319,
     "wof:name":"Norbert Dentressangle Services S.n.c.",
     "wof:parent_id":85824079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.82402,38.93742,-79.82402,38.93742],
+  "bbox": [
+    -79.82402,
+    38.93742,
+    -79.82402,
+    38.93742
+],
   "geometry": {"coordinates":[-79.82402,38.93742],"type":"Point"}
 }

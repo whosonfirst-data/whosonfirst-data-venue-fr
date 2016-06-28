@@ -2,13 +2,14 @@
   "id": 136293303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.067944,50.632202,3.067944,50.632202",
     "geom:latitude":50.632202,
     "geom:longitude":3.067944,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Rue De Paris 59800 Lille",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136293303,
-    "wof:lastmodified":1449075166,
+    "wof:lastmodified":1466246324,
     "wof:name":"Aref Btp",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.067944,50.632202,3.067944,50.632202],
+  "bbox": [
+    3.067944,
+    50.632202,
+    3.067944,
+    50.632202
+],
   "geometry": {"coordinates":[3.067944,50.632202],"type":"Point"}
 }

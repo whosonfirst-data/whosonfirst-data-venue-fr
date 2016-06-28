@@ -2,13 +2,14 @@
   "id": 152050099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.687555,48.588161,7.687555,48.588161",
     "geom:latitude":48.588161,
     "geom:longitude":7.687555,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Jean Monnet 67201 Eckbolsheim",
     "sg:city":"Eckbolsheim",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071297,
-        85633147,
         85683221,
-        85897713
+        85633147,
+        85897713,
+        102071297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152050099,
-    "wof:lastmodified":1449046849,
+    "wof:lastmodified":1466245827,
     "wof:name":"Yg Hotel",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.687555,48.588161,7.687555,48.588161],
+  "bbox": [
+    7.687555,
+    48.588161,
+    7.687555,
+    48.588161
+],
   "geometry": {"coordinates":[7.687555,48.588161],"type":"Point"}
 }

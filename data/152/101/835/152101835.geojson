@@ -2,13 +2,14 @@
   "id": 152101835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.065557,50.626289,3.065557,50.626289",
     "geom:latitude":50.626289,
     "geom:longitude":3.065557,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Gosselet BP 1239 59013 Lille Cedex",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152101835,
-    "wof:lastmodified":1449046734,
+    "wof:lastmodified":1466248728,
     "wof:name":"Maple Publicite Sarl",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.065557,50.626289,3.065557,50.626289],
+  "bbox": [
+    3.065557,
+    50.626289,
+    3.065557,
+    50.626289
+],
   "geometry": {"coordinates":[3.065557,50.626289],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152081251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.19144,49.512299,0.19144,49.512299",
     "geom:latitude":49.512299,
     "geom:longitude":0.19144,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rue Friedrich Engels 76700 Harfleur",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152081251,
-    "wof:lastmodified":1449045736,
+    "wof:lastmodified":1466247508,
     "wof:name":"Compagnie Des Eaux De La Banlieue Du Havre (cebh)",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.19144,49.512299,0.19144,49.512299],
+  "bbox": [
+    0.19144,
+    49.512299,
+    0.19144,
+    49.512299
+],
   "geometry": {"coordinates":[0.19144,49.512299],"type":"Point"}
 }

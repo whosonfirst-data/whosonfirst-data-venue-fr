@@ -2,13 +2,14 @@
   "id": 168994421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.33431,43.356361,5.33431,43.356361",
     "geom:latitude":43.356361,
     "geom:longitude":5.33431,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Chemin de Saint Henri, 13016 Marseille",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168994421,
-    "wof:lastmodified":1449027805,
+    "wof:lastmodified":1466249027,
     "wof:name":"I.m.c. Marindus S.a.r.l. - Ing\u00e9nierie De Maintenance Et Chaudronnerie",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.33431,43.356361,5.33431,43.356361],
+  "bbox": [
+    5.33431,
+    43.356361,
+    5.33431,
+    43.356361
+],
   "geometry": {"coordinates":[5.33431,43.356361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168948773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34121,48.856926,2.34121,48.856926",
     "geom:latitude":48.856926,
     "geom:longitude":2.34121,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"66, Av. des Champs Elys\u00e9es - Galerie Poicheau, 7e Etage, Escalier A, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873825,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168948773,
-    "wof:lastmodified":1449028418,
+    "wof:lastmodified":1466248261,
     "wof:name":"F.a.n. S.a.r.l. - Franco-africaine De N\u00e9goce",
     "wof:parent_id":85873825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34121,48.856926,2.34121,48.856926],
+  "bbox": [
+    2.34121,
+    48.856926,
+    2.34121,
+    48.856926
+],
   "geometry": {"coordinates":[2.34121,48.856926],"type":"Point"}
 }

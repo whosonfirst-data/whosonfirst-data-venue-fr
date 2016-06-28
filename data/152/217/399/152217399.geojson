@@ -2,13 +2,14 @@
   "id": 152217399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.27867,48.832741,2.27867,48.832741",
     "geom:latitude":48.832741,
     "geom:longitude":2.27867,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22",
     "sg:city":"Louis Armand 75015 PARIS",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152217399,
-    "wof:lastmodified":1449048641,
+    "wof:lastmodified":1466249776,
     "wof:name":"Alte",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.27867,48.832741,2.27867,48.832741],
+  "bbox": [
+    2.27867,
+    48.832741,
+    2.27867,
+    48.832741
+],
   "geometry": {"coordinates":[2.27867,48.832741],"type":"Point"}
 }

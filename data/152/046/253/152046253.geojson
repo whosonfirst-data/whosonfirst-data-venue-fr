@@ -2,13 +2,14 @@
   "id": 152046253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.560948,47.181225,-1.560948,47.181225",
     "geom:latitude":47.181225,
     "geom:longitude":-1.560948,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Du Chateau De Reze 44400 Rez\u00e9",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897703,
+        85683233,
         85633147,
         101750933,
         102072153,
-        85683233
+        85897703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046253,
-    "wof:lastmodified":1449046863,
+    "wof:lastmodified":1466245554,
     "wof:name":"Lplj Goussier & Lgt Jean Perrin",
     "wof:parent_id":85897703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.560948,47.181225,-1.560948,47.181225],
+  "bbox": [
+    -1.560948,
+    47.181225,
+    -1.560948,
+    47.181225
+],
   "geometry": {"coordinates":[-1.560948,47.181225],"type":"Point"}
 }

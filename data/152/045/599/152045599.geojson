@@ -2,13 +2,14 @@
   "id": 152045599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.549607,47.22345,-1.549607,47.22345",
     "geom:latitude":47.22345,
     "geom:longitude":-1.549607,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rue Henri Cochard 44000 Nantes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897691,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045599,
-    "wof:lastmodified":1449048382,
+    "wof:lastmodified":1466245537,
     "wof:name":"Ecole De Publicite Et D Arts Graphiques Pivaut",
     "wof:parent_id":85897691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.549607,47.22345,-1.549607,47.22345],
+  "bbox": [
+    -1.549607,
+    47.22345,
+    -1.549607,
+    47.22345
+],
   "geometry": {"coordinates":[-1.549607,47.22345],"type":"Point"}
 }

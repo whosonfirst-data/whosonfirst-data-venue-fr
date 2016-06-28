@@ -2,13 +2,14 @@
   "id": 152134067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.333498,48.83503,2.333498,48.83503",
     "geom:latitude":48.83503,
     "geom:longitude":2.333498,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Avenue Denfert Rochereau 75014 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873945,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152134067,
-    "wof:lastmodified":1449048661,
+    "wof:lastmodified":1466249440,
     "wof:name":"Clim Denfert Bourquin",
     "wof:parent_id":85873945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.333498,48.83503,2.333498,48.83503],
+  "bbox": [
+    2.333498,
+    48.83503,
+    2.333498,
+    48.83503
+],
   "geometry": {"coordinates":[2.333498,48.83503],"type":"Point"}
 }

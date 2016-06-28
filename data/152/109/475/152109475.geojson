@@ -2,13 +2,14 @@
   "id": 152109475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.373128,48.907536,2.373128,48.907536",
     "geom:latitude":48.907536,
     "geom:longitude":2.373128,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 rue de la Haie Coq 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152109475,
-    "wof:lastmodified":1449045914,
+    "wof:lastmodified":1466249110,
     "wof:name":"M.c.menage Sarl",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.373128,48.907536,2.373128,48.907536],
+  "bbox": [
+    2.373128,
+    48.907536,
+    2.373128,
+    48.907536
+],
   "geometry": {"coordinates":[2.373128,48.907536],"type":"Point"}
 }

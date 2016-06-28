@@ -2,13 +2,14 @@
   "id": 152108231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.080817,49.435066,1.080817,49.435066",
     "geom:latitude":49.435066,
     "geom:longitude":1.080817,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Rue Barbey D'Aurevilly 76100 Rouen",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152108231,
-    "wof:lastmodified":1449044375,
+    "wof:lastmodified":1466249072,
     "wof:name":"Rouen Ceram Sarl Louvet",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.080817,49.435066,1.080817,49.435066],
+  "bbox": [
+    1.080817,
+    49.435066,
+    1.080817,
+    49.435066
+],
   "geometry": {"coordinates":[1.080817,49.435066],"type":"Point"}
 }

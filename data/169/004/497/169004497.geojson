@@ -2,13 +2,14 @@
   "id": 169004497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33423,48.868309,2.33423,48.868309",
     "geom:latitude":48.868309,
     "geom:longitude":2.33423,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Gaillon, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169004497,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466245570,
     "wof:name":"Intersem S.a.",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33423,48.868309,2.33423,48.868309],
+  "bbox": [
+    2.33423,
+    48.868309,
+    2.33423,
+    48.868309
+],
   "geometry": {"coordinates":[2.33423,48.868309],"type":"Point"}
 }

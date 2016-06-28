@@ -2,13 +2,14 @@
   "id": 152064247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.782939,48.59222,7.782939,48.59222",
     "geom:latitude":48.59222,
     "geom:longitude":7.782939,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Chem Goeb 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897721,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152064247,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247128,
     "wof:name":"Boulevard Des Productions Sa",
     "wof:parent_id":85897721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.782939,48.59222,7.782939,48.59222],
+  "bbox": [
+    7.782939,
+    48.59222,
+    7.782939,
+    48.59222
+],
   "geometry": {"coordinates":[7.782939,48.59222],"type":"Point"}
 }

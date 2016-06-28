@@ -2,13 +2,14 @@
   "id": 152524711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.291103,48.874599,2.291103,48.874599",
     "geom:latitude":48.874599,
     "geom:longitude":2.291103,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Av. de la Grande Arm\u00e9e, 75116 Paris C\u00e9dex 16",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152524711,
-    "wof:lastmodified":1449044242,
+    "wof:lastmodified":1466250903,
     "wof:name":"Hugo Boss France S.a.r.l.",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.291103,48.874599,2.291103,48.874599],
+  "bbox": [
+    2.291103,
+    48.874599,
+    2.291103,
+    48.874599
+],
   "geometry": {"coordinates":[2.291103,48.874599],"type":"Point"}
 }

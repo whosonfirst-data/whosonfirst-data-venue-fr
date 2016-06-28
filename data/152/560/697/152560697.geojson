@@ -2,13 +2,14 @@
   "id": 152560697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.39859,43.56786,1.39859,43.56786",
     "geom:latitude":43.56786,
     "geom:longitude":1.39859,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 805, 31080 Toulouse C\u00e9dex 6^^10, Place Alphonse Jourdain, 31100 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152560697,
-    "wof:lastmodified":1449047825,
+    "wof:lastmodified":1466251052,
     "wof:name":"Kronenbourg S.a.",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.39859,43.56786,1.39859,43.56786],
+  "bbox": [
+    1.39859,
+    43.56786,
+    1.39859,
+    43.56786
+],
   "geometry": {"coordinates":[1.39859,43.56786],"type":"Point"}
 }

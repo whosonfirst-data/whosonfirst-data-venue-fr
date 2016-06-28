@@ -2,13 +2,14 @@
   "id": 152922341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348832,48.836025,2.348832,48.836025",
     "geom:latitude":48.836025,
     "geom:longitude":2.348832,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 B Boulevard Arago 75013 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873917,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152922341,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1466252312,
     "wof:name":"Copy Diffusion",
     "wof:parent_id":85873917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348832,48.836025,2.348832,48.836025],
+  "bbox": [
+    2.348832,
+    48.836025,
+    2.348832,
+    48.836025
+],
   "geometry": {"coordinates":[2.348832,48.836025],"type":"Point"}
 }

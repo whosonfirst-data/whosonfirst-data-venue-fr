@@ -2,13 +2,14 @@
   "id": 152747927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.044102,48.70755,2.044102,48.70755",
     "geom:latitude":48.70755,
     "geom:longitude":2.044102,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 3, 78460 Chevreuse C\u00e9dex^^37, Rue de Dampierre, 78460 Chevreuse",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152747927,
-    "wof:lastmodified":1449045150,
+    "wof:lastmodified":1466251709,
     "wof:name":"Savac",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.044102,48.70755,2.044102,48.70755],
+  "bbox": [
+    2.044102,
+    48.70755,
+    2.044102,
+    48.70755
+],
   "geometry": {"coordinates":[2.044102,48.70755],"type":"Point"}
 }

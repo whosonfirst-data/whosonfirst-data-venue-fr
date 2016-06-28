@@ -2,13 +2,14 @@
   "id": 152065453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.252737,48.833935,2.252737,48.833935",
     "geom:latitude":48.833935,
     "geom:longitude":2.252737,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue De Vanves 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152065453,
-    "wof:lastmodified":1449048852,
+    "wof:lastmodified":1466247218,
     "wof:name":"Telog Sa",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.252737,48.833935,2.252737,48.833935],
+  "bbox": [
+    2.252737,
+    48.833935,
+    2.252737,
+    48.833935
+],
   "geometry": {"coordinates":[2.252737,48.833935],"type":"Point"}
 }

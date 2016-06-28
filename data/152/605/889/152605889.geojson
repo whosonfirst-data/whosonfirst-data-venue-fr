@@ -2,13 +2,14 @@
   "id": 152605889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.044195,47.326458,5.044195,47.326458",
     "geom:latitude":47.326458,
     "geom:longitude":5.044195,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 136, 21004 Dijon C\u00e9dex^^13, Av Albert 1er - Tour Mercure, 21000 Dijon",
     "sg:city":"Dijon",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152605889,
-    "wof:lastmodified":1449046555,
+    "wof:lastmodified":1466251051,
     "wof:name":"Magyar S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.044195,47.326458,5.044195,47.326458],
+  "bbox": [
+    5.044195,
+    47.326458,
+    5.044195,
+    47.326458
+],
   "geometry": {"coordinates":[5.044195,47.326458],"type":"Point"}
 }

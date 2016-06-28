@@ -2,13 +2,14 @@
   "id": 169000611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.389553,49.000652,2.389553,49.000652",
     "geom:latitude":49.000652,
     "geom:longitude":2.389553,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Av. Tissonvilliers, 95400 Villiers le Bel",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169000611,
-    "wof:lastmodified":1449033222,
+    "wof:lastmodified":1466245258,
     "wof:name":"Imprimerie R. Ras S.a.",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.389553,49.000652,2.389553,49.000652],
+  "bbox": [
+    2.389553,
+    49.000652,
+    2.389553,
+    49.000652
+],
   "geometry": {"coordinates":[2.389553,49.000652],"type":"Point"}
 }

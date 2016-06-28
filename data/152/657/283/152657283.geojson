@@ -2,13 +2,14 @@
   "id": 152657283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.089537,45.753181,3.089537,45.753181",
     "geom:latitude":45.753181,
     "geom:longitude":3.089537,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 121, 63541 Beaumont C\u00e9dex^^699, Av. de l'Europe, 63110 Beaumont",
     "sg:city":"Beaumont",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152657283,
-    "wof:lastmodified":1449044823,
+    "wof:lastmodified":1466251352,
     "wof:name":"P.b. Mesures S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.089537,45.753181,3.089537,45.753181],
+  "bbox": [
+    3.089537,
+    45.753181,
+    3.089537,
+    45.753181
+],
   "geometry": {"coordinates":[3.089537,45.753181],"type":"Point"}
 }

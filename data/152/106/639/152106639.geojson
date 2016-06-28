@@ -2,13 +2,14 @@
   "id": 152106639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.584503,47.236088,-1.584503,47.236088",
     "geom:latitude":47.236088,
     "geom:longitude":-1.584503,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Rte De Vannes 44800 St Herblain",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897693,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152106639,
-    "wof:lastmodified":1449044223,
+    "wof:lastmodified":1466249021,
     "wof:name":"Audrain Ortho Medical Sarl",
     "wof:parent_id":85897693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.584503,47.236088,-1.584503,47.236088],
+  "bbox": [
+    -1.584503,
+    47.236088,
+    -1.584503,
+    47.236088
+],
   "geometry": {"coordinates":[-1.584503,47.236088],"type":"Point"}
 }

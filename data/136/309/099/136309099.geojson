@@ -2,13 +2,14 @@
   "id": 136309099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328889,48.843155,2.328889,48.843155",
     "geom:latitude":48.843155,
     "geom:longitude":2.328889,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"128/130 Blvd Raspail, 75006 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873827,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136309099,
-    "wof:lastmodified":1449075191,
+    "wof:lastmodified":1466247162,
     "wof:name":"Unicredit",
     "wof:parent_id":85873827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328889,48.843155,2.328889,48.843155],
+  "bbox": [
+    2.328889,
+    48.843155,
+    2.328889,
+    48.843155
+],
   "geometry": {"coordinates":[2.328889,48.843155],"type":"Point"}
 }

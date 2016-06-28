@@ -2,13 +2,14 @@
   "id": 152915915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350528,48.874771,2.350528,48.874771",
     "geom:latitude":48.874771,
     "geom:longitude":2.350528,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Cite Paradis 75010 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152915915,
-    "wof:lastmodified":1449048863,
+    "wof:lastmodified":1466252309,
     "wof:name":"Mondomix Media",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350528,48.874771,2.350528,48.874771],
+  "bbox": [
+    2.350528,
+    48.874771,
+    2.350528,
+    48.874771
+],
   "geometry": {"coordinates":[2.350528,48.874771],"type":"Point"}
 }

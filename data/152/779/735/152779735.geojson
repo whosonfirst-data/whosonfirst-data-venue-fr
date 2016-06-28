@@ -2,13 +2,14 @@
   "id": 152779735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41706,48.864555,2.41706,48.864555",
     "geom:latitude":48.864555,
     "geom:longitude":2.41706,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36, Av. du G\u00e9n\u00e9ral de Gaulle, 93170 Bagnolet C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152779735,
-    "wof:lastmodified":1449045017,
+    "wof:lastmodified":1466251963,
     "wof:name":"Soci\u00e9t\u00e9 Seler S.a.",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41706,48.864555,2.41706,48.864555],
+  "bbox": [
+    2.41706,
+    48.864555,
+    2.41706,
+    48.864555
+],
   "geometry": {"coordinates":[2.41706,48.864555],"type":"Point"}
 }

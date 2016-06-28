@@ -2,13 +2,14 @@
   "id": 152929581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.111387,49.488594,0.111387,49.488594",
     "geom:latitude":49.488594,
     "geom:longitude":0.111387,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Dauphine 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152929581,
-    "wof:lastmodified":1449046076,
+    "wof:lastmodified":1466252346,
     "wof:name":"Micro Volume Alpha Plan Sarl",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.111387,49.488594,0.111387,49.488594],
+  "bbox": [
+    0.111387,
+    49.488594,
+    0.111387,
+    49.488594
+],
   "geometry": {"coordinates":[0.111387,49.488594],"type":"Point"}
 }

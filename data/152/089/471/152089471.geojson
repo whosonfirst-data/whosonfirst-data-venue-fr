@@ -2,13 +2,14 @@
   "id": 152089471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.42773,48.850536,2.42773,48.850536",
     "geom:latitude":48.850536,
     "geom:longitude":2.42773,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rue Jean Jacques Rousseau 93107 Montreuil Cedex",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152089471,
-    "wof:lastmodified":1449045242,
+    "wof:lastmodified":1466248134,
     "wof:name":"Ets Marlux Sa",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.42773,48.850536,2.42773,48.850536],
+  "bbox": [
+    2.42773,
+    48.850536,
+    2.42773,
+    48.850536
+],
   "geometry": {"coordinates":[2.42773,48.850536],"type":"Point"}
 }

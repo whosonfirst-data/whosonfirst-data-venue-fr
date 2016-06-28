@@ -2,13 +2,14 @@
   "id": 169048447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.737402,48.556168,7.737402,48.556168",
     "geom:latitude":48.556168,
     "geom:longitude":7.737402,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100, R de la Plaine des Bouchers, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169048447,
-    "wof:lastmodified":1449033838,
+    "wof:lastmodified":1466245999,
     "wof:name":"Maechler Fr\u00e8res S.a.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.737402,48.556168,7.737402,48.556168],
+  "bbox": [
+    7.737402,
+    48.556168,
+    7.737402,
+    48.556168
+],
   "geometry": {"coordinates":[7.737402,48.556168],"type":"Point"}
 }

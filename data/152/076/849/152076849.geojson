@@ -2,13 +2,14 @@
   "id": 152076849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.13703,49.493179,0.13703,49.493179",
     "geom:latitude":49.493179,
     "geom:longitude":0.13703,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50",
     "sg:city":"Briquetiers 76600 Havre (Le)",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152076849,
-    "wof:lastmodified":1449047921,
+    "wof:lastmodified":1466246640,
     "wof:name":"C.e.n.o Export",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.13703,49.493179,0.13703,49.493179],
+  "bbox": [
+    0.13703,
+    49.493179,
+    0.13703,
+    49.493179
+],
   "geometry": {"coordinates":[0.13703,49.493179],"type":"Point"}
 }

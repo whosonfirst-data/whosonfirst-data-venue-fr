@@ -2,13 +2,14 @@
   "id": 152107021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.557311,44.843082,-0.557311,44.843082",
     "geom:latitude":44.843082,
     "geom:longitude":-0.557311,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue De Pineau 33100 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863277,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85863277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152107021,
-    "wof:lastmodified":1449044309,
+    "wof:lastmodified":1466249211,
     "wof:name":"Etablissement Sauter",
     "wof:parent_id":85863277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.557311,44.843082,-0.557311,44.843082],
+  "bbox": [
+    -0.557311,
+    44.843082,
+    -0.557311,
+    44.843082
+],
   "geometry": {"coordinates":[-0.557311,44.843082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169002817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.199023,48.35247,-1.199023,48.35247",
     "geom:latitude":48.35247,
     "geom:longitude":-1.199023,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Bd Jean Jaur\u00e8s, 35300 Foug\u00e8res",
     "sg:city":"Foug\u00e8res",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169002817,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466245405,
     "wof:name":"Innodec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.199023,48.35247,-1.199023,48.35247],
+  "bbox": [
+    -1.199023,
+    48.35247,
+    -1.199023,
+    48.35247
+],
   "geometry": {"coordinates":[-1.199023,48.35247],"type":"Point"}
 }

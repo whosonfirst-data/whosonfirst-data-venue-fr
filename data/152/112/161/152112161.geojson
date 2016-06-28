@@ -2,13 +2,14 @@
   "id": 152112161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.246296,48.713036,2.246296,48.713036",
     "geom:latitude":48.713036,
     "geom:longitude":2.246296,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Ambroise Croizat Zi Des Glaises 91120 Palaiseau",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152112161,
-    "wof:lastmodified":1449046435,
+    "wof:lastmodified":1466248973,
     "wof:name":"Steel Ebene",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.246296,48.713036,2.246296,48.713036],
+  "bbox": [
+    2.246296,
+    48.713036,
+    2.246296,
+    48.713036
+],
   "geometry": {"coordinates":[2.246296,48.713036],"type":"Point"}
 }

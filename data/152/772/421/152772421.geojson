@@ -2,13 +2,14 @@
   "id": 152772421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.403404,43.563808,1.403404,43.563808",
     "geom:latitude":43.563808,
     "geom:longitude":1.403404,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36, All\u00e9e de Bellefontaine, 31081 Toulouse C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi-Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152772421,
-    "wof:lastmodified":1449046384,
+    "wof:lastmodified":1466251778,
     "wof:name":"Soci\u00e9t\u00e9 Des Etablissements E. Tissot S.a.",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.403404,43.563808,1.403404,43.563808],
+  "bbox": [
+    1.403404,
+    43.563808,
+    1.403404,
+    43.563808
+],
   "geometry": {"coordinates":[1.403404,43.563808],"type":"Point"}
 }

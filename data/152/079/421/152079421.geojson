@@ -2,13 +2,14 @@
   "id": 152079421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54947,47.219791,-1.54947,47.219791",
     "geom:latitude":47.219791,
     "geom:longitude":-1.54947,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue De La Pte Baratte BP 41535 44315 Nantes Cedex 3",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152079421,
-    "wof:lastmodified":1449048147,
+    "wof:lastmodified":1466247170,
     "wof:name":"Saunier Duval Eau Chaude Chauffage France (sdeccf)",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.54947,47.219791,-1.54947,47.219791],
+  "bbox": [
+    -1.54947,
+    47.219791,
+    -1.54947,
+    47.219791
+],
   "geometry": {"coordinates":[-1.54947,47.219791],"type":"Point"}
 }

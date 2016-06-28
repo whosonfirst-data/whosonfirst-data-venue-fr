@@ -2,13 +2,14 @@
   "id": 152079725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.398166,48.853191,2.398166,48.853191",
     "geom:latitude":48.853191,
     "geom:longitude":2.398166,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Vignoles 75020 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152079725,
-    "wof:lastmodified":1449048147,
+    "wof:lastmodified":1466247231,
     "wof:name":"Ets Fourcoux Prince Sarl",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.398166,48.853191,2.398166,48.853191],
+  "bbox": [
+    2.398166,
+    48.853191,
+    2.398166,
+    48.853191
+],
   "geometry": {"coordinates":[2.398166,48.853191],"type":"Point"}
 }

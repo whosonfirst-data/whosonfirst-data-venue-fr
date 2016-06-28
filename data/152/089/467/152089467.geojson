@@ -2,13 +2,14 @@
   "id": 152089467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.133428,49.491146,0.133428,49.491146",
     "geom:latitude":49.491146,
     "geom:longitude":0.133428,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Rue Marceau 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152089467,
-    "wof:lastmodified":1449045242,
+    "wof:lastmodified":1466248133,
     "wof:name":"Ets Mabille Sa",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.133428,49.491146,0.133428,49.491146],
+  "bbox": [
+    0.133428,
+    49.491146,
+    0.133428,
+    49.491146
+],
   "geometry": {"coordinates":[0.133428,49.491146],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136303283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.347747,48.87389,2.347747,48.87389",
     "geom:latitude":48.87389,
     "geom:longitude":2.347747,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 rue du Poissonni\u00e8re; Paris; 75009",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136303283,
-    "wof:lastmodified":1449074926,
+    "wof:lastmodified":1466246928,
     "wof:name":"Cr\u00e9dit Commercial De France",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.347747,48.87389,2.347747,48.87389],
+  "bbox": [
+    2.347747,
+    48.87389,
+    2.347747,
+    48.87389
+],
   "geometry": {"coordinates":[2.347747,48.87389],"type":"Point"}
 }

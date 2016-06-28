@@ -2,13 +2,14 @@
   "id": 169143911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.922397,47.843212,1.922397,47.843212",
     "geom:latitude":47.843212,
     "geom:longitude":1.922397,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"153, Rue de Franche Comt\u00e9, 45160 Olivet",
     "sg:city":"Olivet",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863273,
+        85683479,
         85633147,
         101750945,
         102072461,
-        85683479
+        85863273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169143911,
-    "wof:lastmodified":1449035407,
+    "wof:lastmodified":1466248426,
     "wof:name":"Safrec S.a.",
     "wof:parent_id":85863273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.922397,47.843212,1.922397,47.843212],
+  "bbox": [
+    1.922397,
+    47.843212,
+    1.922397,
+    47.843212
+],
   "geometry": {"coordinates":[1.922397,47.843212],"type":"Point"}
 }

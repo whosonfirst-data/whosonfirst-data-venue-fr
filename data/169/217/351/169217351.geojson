@@ -2,13 +2,14 @@
   "id": 169217351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.288544,48.847591,2.288544,48.847591",
     "geom:latitude":48.847591,
     "geom:longitude":2.288544,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Rue Ginoux, 75015 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873955,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169217351,
-    "wof:lastmodified":1449035760,
+    "wof:lastmodified":1466248973,
     "wof:name":"Vilo Distribution S.a",
     "wof:parent_id":85873955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.288544,48.847591,2.288544,48.847591],
+  "bbox": [
+    2.288544,
+    48.847591,
+    2.288544,
+    48.847591
+],
   "geometry": {"coordinates":[2.288544,48.847591],"type":"Point"}
 }

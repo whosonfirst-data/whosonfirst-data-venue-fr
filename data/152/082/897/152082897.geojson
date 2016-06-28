@@ -2,13 +2,14 @@
   "id": 152082897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.624553,47.19474,-1.624553,47.19474",
     "geom:latitude":47.19474,
     "geom:longitude":-1.624553,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Quai Emile Cormerais 44800 St Herblain",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897687,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152082897,
-    "wof:lastmodified":1449044411,
+    "wof:lastmodified":1466247690,
     "wof:name":"Loire 21",
     "wof:parent_id":85897687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.624553,47.19474,-1.624553,47.19474],
+  "bbox": [
+    -1.624553,
+    47.19474,
+    -1.624553,
+    47.19474
+],
   "geometry": {"coordinates":[-1.624553,47.19474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152819743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.494759,47.267071,-1.494759,47.267071",
     "geom:latitude":47.267071,
     "geom:longitude":-1.494759,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Rue de la M\u00e9tallurgie, 44470 Carquefou",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152819743,
-    "wof:lastmodified":1449045395,
+    "wof:lastmodified":1466251965,
     "wof:name":"Thuillier Centre Ouest S.a.",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.494759,47.267071,-1.494759,47.267071],
+  "bbox": [
+    -1.494759,
+    47.267071,
+    -1.494759,
+    47.267071
+],
   "geometry": {"coordinates":[-1.494759,47.267071],"type":"Point"}
 }

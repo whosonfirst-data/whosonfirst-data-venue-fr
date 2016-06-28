@@ -2,13 +2,14 @@
   "id": 152337599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.337289,48.875919,2.337289,48.875919",
     "geom:latitude":48.875919,
     "geom:longitude":2.337289,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Rue Saint Georges, 75312 Paris C\u00e9dex 9",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152337599,
-    "wof:lastmodified":1449046469,
+    "wof:lastmodified":1466250232,
     "wof:name":"C.p.r. Gestion S.a.",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.337289,48.875919,2.337289,48.875919],
+  "bbox": [
+    2.337289,
+    48.875919,
+    2.337289,
+    48.875919
+],
   "geometry": {"coordinates":[2.337289,48.875919],"type":"Point"}
 }

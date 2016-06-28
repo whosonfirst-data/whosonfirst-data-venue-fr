@@ -2,13 +2,14 @@
   "id": 169030169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.1329,49.49165,0.1329,49.49165",
     "geom:latitude":49.49165,
     "geom:longitude":0.1329,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"130, Rue Marceau, 76600 Le Havre",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169030169,
-    "wof:lastmodified":1449033904,
+    "wof:lastmodified":1466247297,
     "wof:name":"Lebourgeois S.a.",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.1329,49.49165,0.1329,49.49165],
+  "bbox": [
+    0.1329,
+    49.49165,
+    0.1329,
+    49.49165
+],
   "geometry": {"coordinates":[0.1329,49.49165],"type":"Point"}
 }

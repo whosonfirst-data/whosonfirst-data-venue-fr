@@ -2,13 +2,14 @@
   "id": 152064167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.338678,48.885349,2.338678,48.885349",
     "geom:latitude":48.885349,
     "geom:longitude":2.338678,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Rue Des 3 Fr\u00e8res 75018 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874011,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064167,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247112,
     "wof:name":"Album Productions Sarl",
     "wof:parent_id":85874011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.338678,48.885349,2.338678,48.885349],
+  "bbox": [
+    2.338678,
+    48.885349,
+    2.338678,
+    48.885349
+],
   "geometry": {"coordinates":[2.338678,48.885349],"type":"Point"}
 }

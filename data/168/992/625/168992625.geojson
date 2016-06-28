@@ -2,13 +2,14 @@
   "id": 168992625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.547199,47.207409,-1.547199,47.207409",
     "geom:latitude":47.207409,
     "geom:longitude":-1.547199,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Bd Gaston Doumergue, 44200 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168992625,
-    "wof:lastmodified":1449028138,
+    "wof:lastmodified":1466248843,
     "wof:name":"I.b.m.",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.547199,47.207409,-1.547199,47.207409],
+  "bbox": [
+    -1.547199,
+    47.207409,
+    -1.547199,
+    47.207409
+],
   "geometry": {"coordinates":[-1.547199,47.207409],"type":"Point"}
 }

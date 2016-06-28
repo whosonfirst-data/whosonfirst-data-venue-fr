@@ -2,13 +2,14 @@
   "id": 169082185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.529634,47.254513,-1.529634,47.254513",
     "geom:latitude":47.254513,
     "geom:longitude":-1.529634,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Bd des Batignoles, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169082185,
-    "wof:lastmodified":1449032768,
+    "wof:lastmodified":1466247684,
     "wof:name":"Otel Inn S.a.",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.529634,47.254513,-1.529634,47.254513],
+  "bbox": [
+    -1.529634,
+    47.254513,
+    -1.529634,
+    47.254513
+],
   "geometry": {"coordinates":[-1.529634,47.254513],"type":"Point"}
 }

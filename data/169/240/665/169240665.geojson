@@ -2,13 +2,14 @@
   "id": 169240665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.596139,50.703754,1.596139,50.703754",
     "geom:latitude":50.703754,
     "geom:longitude":1.596139,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Resurgat 1",
     "sg:city":"Bd De La Liane 62230 Outreau",
     "sg:classifiers":[
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863289,
+        85683255,
         85633147,
         101839601,
         102071779,
-        85683255
+        85863289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169240665,
-    "wof:lastmodified":1449033015,
+    "wof:lastmodified":1466249397,
     "wof:name":"Le Comptoir De Menuiseries Sa",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.596139,50.703754,1.596139,50.703754],
+  "bbox": [
+    1.596139,
+    50.703754,
+    1.596139,
+    50.703754
+],
   "geometry": {"coordinates":[1.596139,50.703754],"type":"Point"}
 }

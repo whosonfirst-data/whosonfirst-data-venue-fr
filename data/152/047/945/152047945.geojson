@@ -2,13 +2,14 @@
   "id": 152047945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.304025,48.875656,2.304025,48.875656",
     "geom:latitude":48.875656,
     "geom:longitude":2.304025,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Rue Du Fbg St Honor\u00e9 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497,
+        85873859,
         85873853
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152047945,
-    "wof:lastmodified":1449047276,
+    "wof:lastmodified":1466245777,
     "wof:name":"Etoile Saint Honore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.304025,48.875656,2.304025,48.875656],
+  "bbox": [
+    2.304025,
+    48.875656,
+    2.304025,
+    48.875656
+],
   "geometry": {"coordinates":[2.304025,48.875656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152100371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.407649,48.869705,2.407649,48.869705",
     "geom:latitude":48.869705,
     "geom:longitude":2.407649,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Villa Des Nympheas 75020 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874053,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152100371,
-    "wof:lastmodified":1449047731,
+    "wof:lastmodified":1466248805,
     "wof:name":"Les Apps De La Tapisserie Amengt Et Decorations Anciens Etss (atad)",
     "wof:parent_id":85874053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.407649,48.869705,2.407649,48.869705],
+  "bbox": [
+    2.407649,
+    48.869705,
+    2.407649,
+    48.869705
+],
   "geometry": {"coordinates":[2.407649,48.869705],"type":"Point"}
 }

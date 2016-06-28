@@ -2,13 +2,14 @@
   "id": 152210459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.365796,48.864689,2.365796,48.864689",
     "geom:latitude":48.864689,
     "geom:longitude":2.365796,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28",
     "sg:city":"Temple 75011 Paris",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152210459,
-    "wof:lastmodified":1449045875,
+    "wof:lastmodified":1466249758,
     "wof:name":"Gautier (ste)",
     "wof:parent_id":85873805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.365796,48.864689,2.365796,48.864689],
+  "bbox": [
+    2.365796,
+    48.864689,
+    2.365796,
+    48.864689
+],
   "geometry": {"coordinates":[2.365796,48.864689],"type":"Point"}
 }

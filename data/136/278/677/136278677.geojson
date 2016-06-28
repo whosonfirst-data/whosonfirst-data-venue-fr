@@ -2,13 +2,14 @@
   "id": 136278677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.446015,48.861404,2.446015,48.861404",
     "geom:latitude":48.861404,
     "geom:longitude":2.446015,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rue De Rosny",
     "sg:city":"Montreuil",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278677,
-    "wof:lastmodified":1449075660,
+    "wof:lastmodified":1466245374,
     "wof:name":"S C M Haggiag Sultan",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.446015,48.861404,2.446015,48.861404],
+  "bbox": [
+    2.446015,
+    48.861404,
+    2.446015,
+    48.861404
+],
   "geometry": {"coordinates":[2.446015,48.861404],"type":"Point"}
 }

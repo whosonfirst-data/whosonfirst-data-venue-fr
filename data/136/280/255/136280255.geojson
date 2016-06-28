@@ -2,13 +2,14 @@
   "id": 136280255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308983,48.883118,2.308983,48.883118",
     "geom:latitude":48.883118,
     "geom:longitude":2.308983,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Place Du G\u00e9n\u00e9ral Catroux",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136280255,
-    "wof:lastmodified":1449075560,
+    "wof:lastmodified":1466245449,
     "wof:name":"Villeneau Rohart Simon & Associ\u00c9s",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308983,48.883118,2.308983,48.883118],
+  "bbox": [
+    2.308983,
+    48.883118,
+    2.308983,
+    48.883118
+],
   "geometry": {"coordinates":[2.308983,48.883118],"type":"Point"}
 }

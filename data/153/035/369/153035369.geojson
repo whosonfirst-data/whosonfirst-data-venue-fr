@@ -2,13 +2,14 @@
   "id": 153035369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.261242,43.708515,7.261242,43.708515",
     "geom:latitude":43.708515,
     "geom:longitude":7.261242,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29",
     "sg:city":"de Dijon; Nice; 06000",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153035369,
-    "wof:lastmodified":1449040731,
+    "wof:lastmodified":1466247410,
     "wof:name":"Hotel Comt\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a9 De Nice",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.261242,43.708515,7.261242,43.708515],
+  "bbox": [
+    7.261242,
+    43.708515,
+    7.261242,
+    43.708515
+],
   "geometry": {"coordinates":[7.261242,43.708515],"type":"Point"}
 }

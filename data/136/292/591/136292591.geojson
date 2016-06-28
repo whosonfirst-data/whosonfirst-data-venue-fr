@@ -2,13 +2,14 @@
   "id": 136292591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.290334,48.816105,2.290334,48.816105",
     "geom:latitude":48.816105,
     "geom:longitude":2.290334,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Hoche 92240 Malakoff",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136292591,
-    "wof:lastmodified":1449075005,
+    "wof:lastmodified":1466246294,
     "wof:name":"Rvz Sa",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.290334,48.816105,2.290334,48.816105],
+  "bbox": [
+    2.290334,
+    48.816105,
+    2.290334,
+    48.816105
+],
   "geometry": {"coordinates":[2.290334,48.816105],"type":"Point"}
 }

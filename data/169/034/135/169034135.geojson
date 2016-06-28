@@ -2,13 +2,14 @@
   "id": 169034135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.50444,43.774586,7.50444,43.774586",
     "geom:latitude":43.774586,
     "geom:longitude":7.50444,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI du Haut Cre\u00ef",
     "sg:city":"Menton",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169034135,
-    "wof:lastmodified":1449033046,
+    "wof:lastmodified":1466245290,
     "wof:name":"Les Mat\u00e9riaux R\u00e9unies S.a.",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.50444,43.774586,7.50444,43.774586],
+  "bbox": [
+    7.50444,
+    43.774586,
+    7.50444,
+    43.774586
+],
   "geometry": {"coordinates":[7.50444,43.774586],"type":"Point"}
 }

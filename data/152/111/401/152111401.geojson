@@ -2,13 +2,14 @@
   "id": 152111401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.115402,41.848438,-94.115402,41.848438",
     "geom:latitude":41.848438,
     "geom:longitude":-94.115402,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Lariant 50220 Pr\u00e9cy",
     "sg:city":"Pontaubault",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85896503,
+        85688713,
         85633793,
         85944157,
         102086525,
-        85688713
+        85896503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152111401,
-    "wof:lastmodified":1449049049,
+    "wof:lastmodified":1466249095,
     "wof:name":"Omp Granville Sa",
     "wof:parent_id":85896503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.115402,41.848438,-94.115402,41.848438],
+  "bbox": [
+    -94.115402,
+    41.848438,
+    -94.115402,
+    41.848438
+],
   "geometry": {"coordinates":[-94.115402,41.848438],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.312328,48.898392,2.312328,48.898392",
     "geom:latitude":48.898392,
     "geom:longitude":2.312328,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Boulevard Victor Hugo 92110 Clichy",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152935733,
-    "wof:lastmodified":1449048088,
+    "wof:lastmodified":1466252362,
     "wof:name":"Brm Sas",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.312328,48.898392,2.312328,48.898392],
+  "bbox": [
+    2.312328,
+    48.898392,
+    2.312328,
+    48.898392
+],
   "geometry": {"coordinates":[2.312328,48.898392],"type":"Point"}
 }

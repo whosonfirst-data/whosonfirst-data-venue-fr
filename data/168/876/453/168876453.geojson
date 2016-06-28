@@ -2,13 +2,14 @@
   "id": 168876453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341245,48.847313,2.341245,48.847313",
     "geom:latitude":48.847313,
     "geom:longitude":2.341245,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Rue Soufflot, 75005 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873829,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168876453,
-    "wof:lastmodified":1449027926,
+    "wof:lastmodified":1466246542,
     "wof:name":"Club Med Voyages",
     "wof:parent_id":85873829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341245,48.847313,2.341245,48.847313],
+  "bbox": [
+    2.341245,
+    48.847313,
+    2.341245,
+    48.847313
+],
   "geometry": {"coordinates":[2.341245,48.847313],"type":"Point"}
 }

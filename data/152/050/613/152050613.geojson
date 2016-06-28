@@ -2,13 +2,14 @@
   "id": 152050613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.454641,48.848576,2.454641,48.848576",
     "geom:latitude":48.848576,
     "geom:longitude":2.454641,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 rue F\u00e9lix Faure 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152050613,
-    "wof:lastmodified":1449046849,
+    "wof:lastmodified":1466245934,
     "wof:name":"Graphic Plus S.a.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.454641,48.848576,2.454641,48.848576],
+  "bbox": [
+    2.454641,
+    48.848576,
+    2.454641,
+    48.848576
+],
   "geometry": {"coordinates":[2.454641,48.848576],"type":"Point"}
 }

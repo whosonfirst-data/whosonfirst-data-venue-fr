@@ -2,13 +2,14 @@
   "id": 152099835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.366284,48.931561,2.366284,48.931561",
     "geom:latitude":48.931561,
     "geom:longitude":2.366284,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10",
     "sg:city":"Muguets 93200 Saint Denis",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152099835,
-    "wof:lastmodified":1449047302,
+    "wof:lastmodified":1466248612,
     "wof:name":"Pinot (sarl)",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.366284,48.931561,2.366284,48.931561],
+  "bbox": [
+    2.366284,
+    48.931561,
+    2.366284,
+    48.931561
+],
   "geometry": {"coordinates":[2.366284,48.931561],"type":"Point"}
 }

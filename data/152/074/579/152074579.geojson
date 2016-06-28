@@ -2,13 +2,14 @@
   "id": 152074579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358867,48.865582,2.358867,48.865582",
     "geom:latitude":48.865582,
     "geom:longitude":2.358867,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 rue des Fontaines du Temple 75003 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152074579,
-    "wof:lastmodified":1449046793,
+    "wof:lastmodified":1466246174,
     "wof:name":"Decomann Sa",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358867,48.865582,2.358867,48.865582],
+  "bbox": [
+    2.358867,
+    48.865582,
+    2.358867,
+    48.865582
+],
   "geometry": {"coordinates":[2.358867,48.865582],"type":"Point"}
 }

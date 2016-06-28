@@ -2,13 +2,14 @@
   "id": 169247967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332223,48.869241,2.332223,48.869241",
     "geom:latitude":48.869241,
     "geom:longitude":2.332223,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, rue Daunou",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"http://www.ividence.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169247967,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1466249600,
     "wof:name":"ividence",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332223,48.869241,2.332223,48.869241],
+  "bbox": [
+    2.332223,
+    48.869241,
+    2.332223,
+    48.869241
+],
   "geometry": {"coordinates":[2.332223,48.869241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153063767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.757786,48.604,7.757786,48.604",
     "geom:latitude":48.604,
     "geom:longitude":7.757786,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Av Pierre Mend\u00e8s France, 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153063767,
-    "wof:lastmodified":1449040366,
+    "wof:lastmodified":1466246374,
     "wof:name":"Air Products S.a.",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.757786,48.604,7.757786,48.604],
+  "bbox": [
+    7.757786,
+    48.604,
+    7.757786,
+    48.604
+],
   "geometry": {"coordinates":[7.757786,48.604],"type":"Point"}
 }

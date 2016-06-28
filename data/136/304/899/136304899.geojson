@@ -2,13 +2,14 @@
   "id": 136304899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.082817,34.385815,-80.082817,34.385815",
     "geom:latitude":34.385815,
     "geom:longitude":-80.082817,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 rue Cornouaille; Plon\u00e9vez; 29550",
     "sg:city":"Plo\u00e9ven",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825479,
+        85688683,
         85633793,
         101721311,
         102085743,
-        85688683
+        85825479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136304899,
-    "wof:lastmodified":1449075913,
+    "wof:lastmodified":1466247058,
     "wof:name":"Cr\u00e9dit Mutuel De Bretagne",
     "wof:parent_id":85825479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.082817,34.385815,-80.082817,34.385815],
-  "geometry": {"coordinates":[-80.082817,34.385815],"type":"Point"}
+  "bbox": [
+    -80.082817,
+    34.385815,
+    -80.082817,
+    34.385815
+],
+  "geometry": {"coordinates":[-80.08281700000001,34.385815],"type":"Point"}
 }

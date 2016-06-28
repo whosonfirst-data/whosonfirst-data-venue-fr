@@ -2,13 +2,14 @@
   "id": 152113549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.380336,48.846458,2.380336,48.846458",
     "geom:latitude":48.846458,
     "geom:longitude":2.380336,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Bd Diderot 75012 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152113549,
-    "wof:lastmodified":1449048538,
+    "wof:lastmodified":1466249240,
     "wof:name":"Accessoires Auto Diderot",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.380336,48.846458,2.380336,48.846458],
+  "bbox": [
+    2.380336,
+    48.846458,
+    2.380336,
+    48.846458
+],
   "geometry": {"coordinates":[2.380336,48.846458],"type":"Point"}
 }

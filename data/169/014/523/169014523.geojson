@@ -2,13 +2,14 @@
   "id": 169014523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.268326,38.560898,-90.268326,38.560898",
     "geom:latitude":38.560898,
     "geom:longitude":-90.268326,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"63190 Saint Jean d'Heurs",
     "sg:city":"Moissat",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873701,
+        85688661,
         85633793,
         85971343,
         102080791,
-        85688661
+        85873701
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169014523,
-    "wof:lastmodified":1449034305,
+    "wof:lastmodified":1466246291,
     "wof:name":"Kita Chrome S.a.",
     "wof:parent_id":85873701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.268326,38.560898,-90.268326,38.560898],
+  "bbox": [
+    -90.268326,
+    38.560898,
+    -90.268326,
+    38.560898
+],
   "geometry": {"coordinates":[-90.268326,38.560898],"type":"Point"}
 }

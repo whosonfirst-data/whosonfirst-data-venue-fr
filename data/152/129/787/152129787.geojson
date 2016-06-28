@@ -2,13 +2,14 @@
   "id": 152129787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.418445,43.664474,1.418445,43.664474",
     "geom:latitude":43.664474,
     "geom:longitude":1.418445,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Gustave Eiffel 31140 Aucamville",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864265,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85864265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152129787,
-    "wof:lastmodified":1449048031,
+    "wof:lastmodified":1466249448,
     "wof:name":"Vdo France",
     "wof:parent_id":85864265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.418445,43.664474,1.418445,43.664474],
+  "bbox": [
+    1.418445,
+    43.664474,
+    1.418445,
+    43.664474
+],
   "geometry": {"coordinates":[1.418445,43.664474],"type":"Point"}
 }

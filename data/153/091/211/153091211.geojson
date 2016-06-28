@@ -2,13 +2,14 @@
   "id": 153091211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.579554,44.87677,-0.579554,44.87677",
     "geom:latitude":44.87677,
     "geom:longitude":-0.579554,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. de Chavailles",
     "sg:city":"Bruges",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153091211,
-    "wof:lastmodified":1449040374,
+    "wof:lastmodified":1466247522,
     "wof:name":"B.s.i. France S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.579554,44.87677,-0.579554,44.87677],
+  "bbox": [
+    -0.579554,
+    44.87677,
+    -0.579554,
+    44.87677
+],
   "geometry": {"coordinates":[-0.579554,44.87677],"type":"Point"}
 }

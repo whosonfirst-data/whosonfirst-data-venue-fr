@@ -2,13 +2,14 @@
   "id": 152102955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.500104,44.853046,-0.500104,44.853046",
     "geom:latitude":44.853046,
     "geom:longitude":-0.500104,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Pl Pierre Curie 33370 Artigues Pr\u00e8s Bordeaux",
     "sg:city":"Artigues-pr\u00e8s-Bordeaux",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152102955,
-    "wof:lastmodified":1449048573,
+    "wof:lastmodified":1466248957,
     "wof:name":"Sobodec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.500104,44.853046,-0.500104,44.853046],
+  "bbox": [
+    -0.500104,
+    44.853046,
+    -0.500104,
+    44.853046
+],
   "geometry": {"coordinates":[-0.500104,44.853046],"type":"Point"}
 }

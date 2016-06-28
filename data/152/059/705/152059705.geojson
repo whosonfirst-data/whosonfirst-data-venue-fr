@@ -2,13 +2,14 @@
   "id": 152059705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.294174,48.865879,2.294174,48.865879",
     "geom:latitude":48.865879,
     "geom:longitude":2.294174,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Avenue D Iena 75116 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152059705,
-    "wof:lastmodified":1449045571,
+    "wof:lastmodified":1466246809,
     "wof:name":"Balenciaga",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.294174,48.865879,2.294174,48.865879],
+  "bbox": [
+    2.294174,
+    48.865879,
+    2.294174,
+    48.865879
+],
   "geometry": {"coordinates":[2.294174,48.865879],"type":"Point"}
 }

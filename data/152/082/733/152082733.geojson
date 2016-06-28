@@ -2,13 +2,14 @@
   "id": 152082733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.504263,48.771835,2.504263,48.771835",
     "geom:latitude":48.771835,
     "geom:longitude":2.504263,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 rue Vasco de Gama 94370 Sucy en Brie",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152082733,
-    "wof:lastmodified":1449044410,
+    "wof:lastmodified":1466247733,
     "wof:name":"Manuparis Sa",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.504263,48.771835,2.504263,48.771835],
+  "bbox": [
+    2.504263,
+    48.771835,
+    2.504263,
+    48.771835
+],
   "geometry": {"coordinates":[2.504263,48.771835],"type":"Point"}
 }

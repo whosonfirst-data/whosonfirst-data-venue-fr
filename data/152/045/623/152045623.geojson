@@ -2,13 +2,14 @@
   "id": 152045623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.743037,48.590351,7.743037,48.590351",
     "geom:latitude":48.590351,
     "geom:longitude":7.743037,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Boulevard Du Pr\u00e9sident Poincar\u00e9 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152045623,
-    "wof:lastmodified":1449048381,
+    "wof:lastmodified":1466245542,
     "wof:name":"Ecole Grandjean",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.743037,48.590351,7.743037,48.590351],
+  "bbox": [
+    7.743037,
+    48.590351,
+    7.743037,
+    48.590351
+],
   "geometry": {"coordinates":[7.743037,48.590351],"type":"Point"}
 }

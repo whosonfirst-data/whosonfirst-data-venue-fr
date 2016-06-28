@@ -2,13 +2,14 @@
   "id": 169247561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.307634,48.841927,2.307634,48.841927",
     "geom:latitude":48.841927,
     "geom:longitude":2.307634,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 bis rue des Volontaires",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     "sg:website":"http://www.meilleursagents.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873949,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169247561,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249520,
     "wof:name":"MeilleursAgents.com",
     "wof:parent_id":85873949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.307634,48.841927,2.307634,48.841927],
+  "bbox": [
+    2.307634,
+    48.841927,
+    2.307634,
+    48.841927
+],
   "geometry": {"coordinates":[2.307634,48.841927],"type":"Point"}
 }

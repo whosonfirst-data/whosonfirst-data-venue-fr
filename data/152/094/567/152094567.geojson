@@ -2,13 +2,14 @@
   "id": 152094567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.572657,44.855,-0.572657,44.855",
     "geom:latitude":44.855,
     "geom:longitude":-0.572657,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Camille Godard 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897681,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152094567,
-    "wof:lastmodified":1449047202,
+    "wof:lastmodified":1466248267,
     "wof:name":"Teynie Sarl",
     "wof:parent_id":85897681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.572657,44.855,-0.572657,44.855],
+  "bbox": [
+    -0.572657,
+    44.855,
+    -0.572657,
+    44.855
+],
   "geometry": {"coordinates":[-0.572657,44.855],"type":"Point"}
 }

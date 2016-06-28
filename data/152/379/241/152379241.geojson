@@ -2,13 +2,14 @@
   "id": 152379241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.677589,40.885151,-80.677589,40.885151",
     "geom:latitude":40.885151,
     "geom:longitude":-80.677589,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Robert Schuman, 44408 R\u00e9z\u00e9 C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152379241,
-    "wof:lastmodified":1449046993,
+    "wof:lastmodified":1466250367,
     "wof:name":"Convergence Applications S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.677589,40.885151,-80.677589,40.885151],
+  "bbox": [
+    -80.677589,
+    40.885151,
+    -80.677589,
+    40.885151
+],
   "geometry": {"coordinates":[-80.677589,40.885151],"type":"Point"}
 }

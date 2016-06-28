@@ -2,13 +2,14 @@
   "id": 152657187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.245506,34.23122,-118.245506,34.23122",
     "geom:latitude":34.23122,
     "geom:longitude":-118.245506,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Rue de l'Industrie - ZA de Mainville, 91214 Draveil C\u00e9dex",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85828893,
+        85688637,
         85633793,
         85923565,
         102086957,
-        85688637
+        85828893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152657187,
-    "wof:lastmodified":1449044821,
+    "wof:lastmodified":1466251351,
     "wof:name":"P.a.p.e. S.a.r.l. - Promereau Automatisme Pneumatique Et Engeni\u00e9rie",
     "wof:parent_id":85828893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.245506,34.23122,-118.245506,34.23122],
-  "geometry": {"coordinates":[-118.245506,34.23122],"type":"Point"}
+  "bbox": [
+    -118.245506,
+    34.23122,
+    -118.245506,
+    34.23122
+],
+  "geometry": {"coordinates":[-118.24550600000001,34.23122],"type":"Point"}
 }

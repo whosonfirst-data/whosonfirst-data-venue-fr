@@ -2,13 +2,14 @@
   "id": 152089807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.035265,49.429375,1.035265,49.429375",
     "geom:latitude":49.429375,
     "geom:longitude":1.035265,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Chem Du Gord 76121 Le Grand Quevilly Cedex",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152089807,
-    "wof:lastmodified":1449045243,
+    "wof:lastmodified":1466248077,
     "wof:name":"Greif France",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.035265,49.429375,1.035265,49.429375],
+  "bbox": [
+    1.035265,
+    49.429375,
+    1.035265,
+    49.429375
+],
   "geometry": {"coordinates":[1.035265,49.429375],"type":"Point"}
 }

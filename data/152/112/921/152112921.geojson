@@ -2,13 +2,14 @@
   "id": 152112921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.322888,48.868355,2.322888,48.868355",
     "geom:latitude":48.868355,
     "geom:longitude":2.322888,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 R du Faubourg Saint-Honor\u00e9 75008 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152112921,
-    "wof:lastmodified":1449046436,
+    "wof:lastmodified":1466249134,
     "wof:name":"Kema Proser Sarl",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.322888,48.868355,2.322888,48.868355],
+  "bbox": [
+    2.322888,
+    48.868355,
+    2.322888,
+    48.868355
+],
   "geometry": {"coordinates":[2.322888,48.868355],"type":"Point"}
 }

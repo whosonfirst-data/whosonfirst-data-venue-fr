@@ -2,13 +2,14 @@
   "id": 152043791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316149,48.857697,2.316149,48.857697",
     "geom:latitude":48.857697,
     "geom:longitude":2.316149,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Rue De Grenelle 75007 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152043791,
-    "wof:lastmodified":1449047753,
+    "wof:lastmodified":1466245291,
     "wof:name":"Coree Du Sud - Ambassade",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316149,48.857697,2.316149,48.857697],
+  "bbox": [
+    2.316149,
+    48.857697,
+    2.316149,
+    48.857697
+],
   "geometry": {"coordinates":[2.316149,48.857697],"type":"Point"}
 }

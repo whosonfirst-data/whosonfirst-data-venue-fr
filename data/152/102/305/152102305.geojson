@@ -2,13 +2,14 @@
   "id": 152102305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359547,48.813801,2.359547,48.813801",
     "geom:latitude":48.813801,
     "geom:longitude":2.359547,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 rue du G\u00e9n\u00e9ral Leclerc 94270 Le Kremlin Bicetre",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873925,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152102305,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248911,
     "wof:name":"Germain Et Cie Sarl",
     "wof:parent_id":85873925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359547,48.813801,2.359547,48.813801],
+  "bbox": [
+    2.359547,
+    48.813801,
+    2.359547,
+    48.813801
+],
   "geometry": {"coordinates":[2.359547,48.813801],"type":"Point"}
 }

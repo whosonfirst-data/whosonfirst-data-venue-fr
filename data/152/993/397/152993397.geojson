@@ -2,13 +2,14 @@
   "id": 152993397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.408127,48.819939,2.408127,48.819939",
     "geom:latitude":48.819939,
     "geom:longitude":2.408127,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue des Bordeaux 94220 Charenton le Pont",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152993397,
-    "wof:lastmodified":1449046360,
+    "wof:lastmodified":1466252523,
     "wof:name":"Mica International Sarl",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.408127,48.819939,2.408127,48.819939],
+  "bbox": [
+    2.408127,
+    48.819939,
+    2.408127,
+    48.819939
+],
   "geometry": {"coordinates":[2.408127,48.819939],"type":"Point"}
 }

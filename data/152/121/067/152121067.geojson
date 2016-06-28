@@ -2,13 +2,14 @@
   "id": 152121067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.075281,48.707039,2.075281,48.707039",
     "geom:latitude":48.707039,
     "geom:longitude":2.075281,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue de Versailles 78470 St Remy Les Chevreuses",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152121067,
-    "wof:lastmodified":1449047905,
+    "wof:lastmodified":1466249299,
     "wof:name":"A.a. Sa",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.075281,48.707039,2.075281,48.707039],
+  "bbox": [
+    2.075281,
+    48.707039,
+    2.075281,
+    48.707039
+],
   "geometry": {"coordinates":[2.075281,48.707039],"type":"Point"}
 }

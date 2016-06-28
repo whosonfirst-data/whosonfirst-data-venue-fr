@@ -2,13 +2,14 @@
   "id": 152117983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.331463,48.837498,2.331463,48.837498",
     "geom:latitude":48.837498,
     "geom:longitude":2.331463,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Bd Raspail 75014 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873945,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152117983,
-    "wof:lastmodified":1449047436,
+    "wof:lastmodified":1466249360,
     "wof:name":"Cartier France",
     "wof:parent_id":85873945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.331463,48.837498,2.331463,48.837498],
+  "bbox": [
+    2.331463,
+    48.837498,
+    2.331463,
+    48.837498
+],
   "geometry": {"coordinates":[2.331463,48.837498],"type":"Point"}
 }

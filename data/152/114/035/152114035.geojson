@@ -2,13 +2,14 @@
   "id": 152114035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.463738,48.421989,-4.463738,48.421989",
     "geom:latitude":48.421989,
     "geom:longitude":-4.463738,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Gustave Zed\u00e9 BP 24 29801 Brest Cedex C9",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152114035,
-    "wof:lastmodified":1449046239,
+    "wof:lastmodified":1466249148,
     "wof:name":"Fichou Sa",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.463738,48.421989,-4.463738,48.421989],
+  "bbox": [
+    -4.463738,
+    48.421989,
+    -4.463738,
+    48.421989
+],
   "geometry": {"coordinates":[-4.463738,48.421989],"type":"Point"}
 }

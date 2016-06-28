@@ -2,13 +2,14 @@
   "id": 152083159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.106848,50.610161,3.106848,50.610161",
     "geom:latitude":50.610161,
     "geom:longitude":3.106848,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc D'Activit\u00e9 L'Or\u00e9e Du Golf Henri Jules Verne 59790 Ronchin",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152083159,
-    "wof:lastmodified":1449046500,
+    "wof:lastmodified":1466247792,
     "wof:name":"Cerberus Guinard",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.106848,50.610161,3.106848,50.610161],
+  "bbox": [
+    3.106848,
+    50.610161,
+    3.106848,
+    50.610161
+],
   "geometry": {"coordinates":[3.106848,50.610161],"type":"Point"}
 }

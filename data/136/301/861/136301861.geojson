@@ -2,13 +2,14 @@
   "id": 136301861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316372,48.838974,2.316372,48.838974",
     "geom:latitude":48.838974,
     "geom:longitude":2.316372,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Blvd Pasteur, 75015 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873961,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301861,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246870,
     "wof:name":"Credit Agricole Futures",
     "wof:parent_id":85873961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316372,48.838974,2.316372,48.838974],
+  "bbox": [
+    2.316372,
+    48.838974,
+    2.316372,
+    48.838974
+],
   "geometry": {"coordinates":[2.316372,48.838974],"type":"Point"}
 }

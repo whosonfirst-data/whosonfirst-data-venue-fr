@@ -2,13 +2,14 @@
   "id": 136303277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319295,48.874741,2.319295,48.874741",
     "geom:latitude":48.874741,
     "geom:longitude":2.319295,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Saint Augustin; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136303277,
-    "wof:lastmodified":1449074925,
+    "wof:lastmodified":1466246927,
     "wof:name":"Cr\u00e9dit Commercial De France",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319295,48.874741,2.319295,48.874741],
+  "bbox": [
+    2.319295,
+    48.874741,
+    2.319295,
+    48.874741
+],
   "geometry": {"coordinates":[2.319295,48.874741],"type":"Point"}
 }

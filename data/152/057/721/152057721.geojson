@@ -2,13 +2,14 @@
   "id": 152057721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.476449,48.427238,-4.476449,48.427238",
     "geom:latitude":48.427238,
     "geom:longitude":-4.476449,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Ernestine De Tr\u00e9maudan 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152057721,
-    "wof:lastmodified":1449046591,
+    "wof:lastmodified":1466246674,
     "wof:name":"Cerp",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.476449,48.427238,-4.476449,48.427238],
+  "bbox": [
+    -4.476449,
+    48.427238,
+    -4.476449,
+    48.427238
+],
   "geometry": {"coordinates":[-4.476449,48.427238],"type":"Point"}
 }

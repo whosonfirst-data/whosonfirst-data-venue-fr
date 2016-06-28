@@ -2,13 +2,14 @@
   "id": 136311355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569279,47.245281,-1.569279,47.245281",
     "geom:latitude":47.245281,
     "geom:longitude":-1.569279,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"359 Route De Sa 44300 Nantes",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136311355,
-    "wof:lastmodified":1449075219,
+    "wof:lastmodified":1466247357,
     "wof:name":"Marines Editions Sa",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.569279,47.245281,-1.569279,47.245281],
+  "bbox": [
+    -1.569279,
+    47.245281,
+    -1.569279,
+    47.245281
+],
   "geometry": {"coordinates":[-1.569279,47.245281],"type":"Point"}
 }

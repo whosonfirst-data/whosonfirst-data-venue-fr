@@ -2,13 +2,14 @@
   "id": 152107753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.389295,48.841045,2.389295,48.841045",
     "geom:latitude":48.841045,
     "geom:longitude":2.389295,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 R De Madagascar Num Voie 6 A 8 75012 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152107753,
-    "wof:lastmodified":1449044305,
+    "wof:lastmodified":1466249329,
     "wof:name":"M. Fellous Devy",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.389295,48.841045,2.389295,48.841045],
+  "bbox": [
+    2.389295,
+    48.841045,
+    2.389295,
+    48.841045
+],
   "geometry": {"coordinates":[2.389295,48.841045],"type":"Point"}
 }

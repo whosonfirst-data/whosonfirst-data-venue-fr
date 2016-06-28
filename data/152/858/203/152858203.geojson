@@ -2,13 +2,14 @@
   "id": 152858203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.461151,29.41527,-98.461151,29.41527",
     "geom:latitude":29.41527,
     "geom:longitude":-98.461151,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Rte De Sartrou Ville 78203 Le Pecq",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871055,
+        85688753,
         85633793,
         101724653,
         102082471,
-        85688753
+        85871055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152858203,
-    "wof:lastmodified":1449044763,
+    "wof:lastmodified":1466252072,
     "wof:name":"Carl Zeiss Sa",
     "wof:parent_id":85871055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.461151,29.41527,-98.461151,29.41527],
+  "bbox": [
+    -98.461151,
+    29.41527,
+    -98.461151,
+    29.41527
+],
   "geometry": {"coordinates":[-98.461151,29.41527],"type":"Point"}
 }

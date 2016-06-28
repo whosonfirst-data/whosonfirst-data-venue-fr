@@ -2,13 +2,14 @@
   "id": 136306113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.746918,48.58139,7.746918,48.58139",
     "geom:latitude":48.58139,
     "geom:longitude":7.746918,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 pl Gutenberg; Strasbourg; 67061",
     "sg:city":"Berg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136306113,
-    "wof:lastmodified":1449076208,
+    "wof:lastmodified":1466246924,
     "wof:name":"Natexis Groupe",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.746918,48.58139,7.746918,48.58139],
+  "bbox": [
+    7.746918,
+    48.58139,
+    7.746918,
+    48.58139
+],
   "geometry": {"coordinates":[7.746918,48.58139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152107373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.324117,48.890499,2.324117,48.890499",
     "geom:latitude":48.890499,
     "geom:longitude":2.324117,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Rue Du Dr Heulin 75017 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152107373,
-    "wof:lastmodified":1449044304,
+    "wof:lastmodified":1466249286,
     "wof:name":"Laboratoire Chambraud Et Cie",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.324117,48.890499,2.324117,48.890499],
+  "bbox": [
+    2.324117,
+    48.890499,
+    2.324117,
+    48.890499
+],
   "geometry": {"coordinates":[2.324117,48.890499],"type":"Point"}
 }

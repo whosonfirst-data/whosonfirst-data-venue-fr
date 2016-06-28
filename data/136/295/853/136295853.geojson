@@ -2,13 +2,14 @@
   "id": 136295853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334586,48.878067,2.334586,48.878067",
     "geom:latitude":48.878067,
     "geom:longitude":2.334586,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue De La Rochefoucauld 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295853,
-    "wof:lastmodified":1449075460,
+    "wof:lastmodified":1466246488,
     "wof:name":"Texa Services Sarl",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334586,48.878067,2.334586,48.878067],
+  "bbox": [
+    2.334586,
+    48.878067,
+    2.334586,
+    48.878067
+],
   "geometry": {"coordinates":[2.334586,48.878067],"type":"Point"}
 }

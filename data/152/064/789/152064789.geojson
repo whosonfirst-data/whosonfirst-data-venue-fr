@@ -2,13 +2,14 @@
   "id": 152064789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.323115,48.812557,2.323115,48.812557",
     "geom:latitude":48.812557,
     "geom:longitude":2.323115,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37-39 Pl Jules Ferry 92120 Montrouge",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064789,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1466247241,
     "wof:name":"Traphot Ste Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.323115,48.812557,2.323115,48.812557],
+  "bbox": [
+    2.323115,
+    48.812557,
+    2.323115,
+    48.812557
+],
   "geometry": {"coordinates":[2.323115,48.812557],"type":"Point"}
 }

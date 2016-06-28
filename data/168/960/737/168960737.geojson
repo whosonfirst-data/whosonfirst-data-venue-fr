@@ -2,13 +2,14 @@
   "id": 168960737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.560139,47.226692,-1.560139,47.226692",
     "geom:latitude":47.226692,
     "geom:longitude":-1.560139,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"104, Rue Paul Bellamy, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897691,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168960737,
-    "wof:lastmodified":1449028329,
+    "wof:lastmodified":1466248389,
     "wof:name":"Fox Mil S.a.r.l.",
     "wof:parent_id":85897691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.560139,47.226692,-1.560139,47.226692],
+  "bbox": [
+    -1.560139,
+    47.226692,
+    -1.560139,
+    47.226692
+],
   "geometry": {"coordinates":[-1.560139,47.226692],"type":"Point"}
 }

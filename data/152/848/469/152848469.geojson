@@ -2,13 +2,14 @@
   "id": 152848469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.923248,40.825745,-73.923248,40.825745",
     "geom:latitude":40.825745,
     "geom:longitude":-73.923248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 70, 69673 Bron C\u00e9dex^^4, Rue Edison - ZI Parc du Ch\u00eane, 69600 Bron",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"New York",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868023,
+        85688543,
         85633793,
         85977539,
         102083063,
-        85688543,
+        85868023,
         85892793
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152848469,
-    "wof:lastmodified":1449044957,
+    "wof:lastmodified":1466252043,
     "wof:name":"Viv\u00e9o Entreprise S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.923248,40.825745,-73.923248,40.825745],
+  "bbox": [
+    -73.923248,
+    40.825745,
+    -73.923248,
+    40.825745
+],
   "geometry": {"coordinates":[-73.923248,40.825745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152441139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.121094,48.762154,2.121094,48.762154",
     "geom:latitude":48.762154,
     "geom:longitude":2.121094,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"515, Av. Roland Garros, 78531 Buc C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Corse",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152441139,
-    "wof:lastmodified":1449044656,
+    "wof:lastmodified":1466250591,
     "wof:name":"Equinox S.a.r.l.",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.121094,48.762154,2.121094,48.762154],
+  "bbox": [
+    2.121094,
+    48.762154,
+    2.121094,
+    48.762154
+],
   "geometry": {"coordinates":[2.121094,48.762154],"type":"Point"}
 }

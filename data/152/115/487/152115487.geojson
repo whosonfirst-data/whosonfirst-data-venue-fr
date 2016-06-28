@@ -2,13 +2,14 @@
   "id": 152115487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.137459,49.488213,0.137459,49.488213",
     "geom:latitude":49.488213,
     "geom:longitude":0.137459,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Rue Denfert-Rochereau 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152115487,
-    "wof:lastmodified":1449044252,
+    "wof:lastmodified":1466249227,
     "wof:name":"Ricoh France",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.137459,49.488213,0.137459,49.488213],
+  "bbox": [
+    0.137459,
+    49.488213,
+    0.137459,
+    49.488213
+],
   "geometry": {"coordinates":[0.137459,49.488213],"type":"Point"}
 }

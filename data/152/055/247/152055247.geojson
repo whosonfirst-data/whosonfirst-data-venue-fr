@@ -2,13 +2,14 @@
   "id": 152055247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.286396,48.866138,2.286396,48.866138",
     "geom:latitude":48.866138,
     "geom:longitude":2.286396,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Avenue Raymond Poincare 75116 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152055247,
-    "wof:lastmodified":1449045338,
+    "wof:lastmodified":1466246284,
     "wof:name":"Petrorep",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.286396,48.866138,2.286396,48.866138],
+  "bbox": [
+    2.286396,
+    48.866138,
+    2.286396,
+    48.866138
+],
   "geometry": {"coordinates":[2.286396,48.866138],"type":"Point"}
 }

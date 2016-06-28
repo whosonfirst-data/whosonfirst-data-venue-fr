@@ -2,13 +2,14 @@
   "id": 153017169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.349076,48.866577,2.349076,48.866577",
     "geom:latitude":48.866577,
     "geom:longitude":2.349076,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rue Dussoubs 75002 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153017169,
-    "wof:lastmodified":1449040604,
+    "wof:lastmodified":1466246083,
     "wof:name":"Gadget De Bellux Sarl",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.349076,48.866577,2.349076,48.866577],
+  "bbox": [
+    2.349076,
+    48.866577,
+    2.349076,
+    48.866577
+],
   "geometry": {"coordinates":[2.349076,48.866577],"type":"Point"}
 }

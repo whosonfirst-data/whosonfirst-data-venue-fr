@@ -2,13 +2,14 @@
   "id": 153039749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328737,48.82896,2.328737,48.82896",
     "geom:latitude":48.82896,
     "geom:longitude":2.328737,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Rue Bezout, 75014 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,15 +18,15 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873939,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497,
-        85873935,
+        85873939,
+        85683459,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153039749,
-    "wof:lastmodified":1449040762,
+    "wof:lastmodified":1466245389,
     "wof:name":"A.a.p. S.a.r.l. - Auxiliaire D'applications Des Plastiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328737,48.82896,2.328737,48.82896],
+  "bbox": [
+    2.328737,
+    48.82896,
+    2.328737,
+    48.82896
+],
   "geometry": {"coordinates":[2.328737,48.82896],"type":"Point"}
 }

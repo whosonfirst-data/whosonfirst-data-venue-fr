@@ -2,13 +2,14 @@
   "id": 152046385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.746759,48.562363,7.746759,48.562363",
     "geom:latitude":48.562363,
     "geom:longitude":7.746759,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rte De La F\u00e9d\u00e9ration 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152046385,
-    "wof:lastmodified":1449046864,
+    "wof:lastmodified":1466245582,
     "wof:name":"Lycee Louis Couffignal",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.746759,48.562363,7.746759,48.562363],
+  "bbox": [
+    7.746759,
+    48.562363,
+    7.746759,
+    48.562363
+],
   "geometry": {"coordinates":[7.746759,48.562363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152064149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348458,48.858551,2.348458,48.858551",
     "geom:latitude":48.858551,
     "geom:longitude":2.348458,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Rue De Rivoli 75004 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873813,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497,
-        85873785,
-        102067017
+        85873813,
+        102067017,
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152064149,
-    "wof:lastmodified":1449045937,
+    "wof:lastmodified":1466247108,
     "wof:name":"Agence Didier Husson (adh) Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348458,48.858551,2.348458,48.858551],
+  "bbox": [
+    2.348458,
+    48.858551,
+    2.348458,
+    48.858551
+],
   "geometry": {"coordinates":[2.348458,48.858551],"type":"Point"}
 }

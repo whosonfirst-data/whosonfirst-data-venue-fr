@@ -2,13 +2,14 @@
   "id": 152988709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.615639,44.892632,-0.615639,44.892632",
     "geom:latitude":44.892632,
     "geom:longitude":-0.615639,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rue De Campilleau 33520 Bruges En France",
     "sg:city":"Bruges",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152988709,
-    "wof:lastmodified":1449045903,
+    "wof:lastmodified":1466252507,
     "wof:name":"Petromarine Sa",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.615639,44.892632,-0.615639,44.892632],
+  "bbox": [
+    -0.615639,
+    44.892632,
+    -0.615639,
+    44.892632
+],
   "geometry": {"coordinates":[-0.615639,44.892632],"type":"Point"}
 }

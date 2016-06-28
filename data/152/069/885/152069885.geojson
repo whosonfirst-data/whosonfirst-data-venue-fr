@@ -2,13 +2,14 @@
   "id": 152069885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697789,48.588322,7.697789,48.588322",
     "geom:latitude":48.588322,
     "geom:longitude":7.697789,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 rue Paul Eluard 67200 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071297,
-        85633147,
         85683221,
-        85897713
+        85633147,
+        85897713,
+        102071297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152069885,
-    "wof:lastmodified":1449047218,
+    "wof:lastmodified":1466247537,
     "wof:name":"Ebc Informatique Sarl",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697789,48.588322,7.697789,48.588322],
+  "bbox": [
+    7.697789,
+    48.588322,
+    7.697789,
+    48.588322
+],
   "geometry": {"coordinates":[7.697789,48.588322],"type":"Point"}
 }

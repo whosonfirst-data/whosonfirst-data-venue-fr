@@ -2,13 +2,14 @@
   "id": 168989429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.632378,41.88414,-87.632378,41.88414",
     "geom:latitude":41.88414,
     "geom:longitude":-87.632378,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Rue de la 7\u00e8me Avenue - Rond Point de la Reine, 60290 Lamorlaye",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85890755,
+        85688697,
         85633793,
         85940195,
         102084317,
-        85688697
+        85890755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168989429,
-    "wof:lastmodified":1449028351,
+    "wof:lastmodified":1466248753,
     "wof:name":"Hostellerie Du Lys",
     "wof:parent_id":85890755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.632378,41.88414,-87.632378,41.88414],
+  "bbox": [
+    -87.632378,
+    41.88414,
+    -87.632378,
+    41.88414
+],
   "geometry": {"coordinates":[-87.632378,41.88414],"type":"Point"}
 }

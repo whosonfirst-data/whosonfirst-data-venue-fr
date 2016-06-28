@@ -2,13 +2,14 @@
   "id": 152121577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.351798,48.875305,2.351798,48.875305",
     "geom:latitude":48.875305,
     "geom:longitude":2.351798,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rue De Paradis 75010 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152121577,
-    "wof:lastmodified":1449047909,
+    "wof:lastmodified":1466249321,
     "wof:name":"Sprung Freres (ets) Sa",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.351798,48.875305,2.351798,48.875305],
+  "bbox": [
+    2.351798,
+    48.875305,
+    2.351798,
+    48.875305
+],
   "geometry": {"coordinates":[2.351798,48.875305],"type":"Point"}
 }

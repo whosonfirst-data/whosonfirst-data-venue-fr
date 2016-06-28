@@ -2,13 +2,14 @@
   "id": 152924509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.337358,48.876186,2.337358,48.876186",
     "geom:latitude":48.876186,
     "geom:longitude":2.337358,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Rue De Chateaudun 75009 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152924509,
-    "wof:lastmodified":1449045581,
+    "wof:lastmodified":1466252331,
     "wof:name":"Gl Associes",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.337358,48.876186,2.337358,48.876186],
+  "bbox": [
+    2.337358,
+    48.876186,
+    2.337358,
+    48.876186
+],
   "geometry": {"coordinates":[2.337358,48.876186],"type":"Point"}
 }

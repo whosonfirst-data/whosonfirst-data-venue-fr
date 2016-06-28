@@ -2,13 +2,14 @@
   "id": 152109971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352803,48.866341,2.352803,48.866341",
     "geom:latitude":48.866341,
     "geom:longitude":2.352803,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Bd De S\u00e9bastopol 75003 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152109971,
-    "wof:lastmodified":1449045914,
+    "wof:lastmodified":1466249188,
     "wof:name":"Bobois D' Aujoud' Hui Sarl",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352803,48.866341,2.352803,48.866341],
+  "bbox": [
+    2.352803,
+    48.866341,
+    2.352803,
+    48.866341
+],
   "geometry": {"coordinates":[2.352803,48.866341],"type":"Point"}
 }

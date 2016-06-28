@@ -2,13 +2,14 @@
   "id": 152197945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.554409,47.216251,-1.554409,47.216251",
     "geom:latitude":47.216251,
     "geom:longitude":-1.554409,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Du Moulin 44331 Nantes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152197945,
-    "wof:lastmodified":1449048338,
+    "wof:lastmodified":1466249739,
     "wof:name":"Ims Abraservice",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.554409,47.216251,-1.554409,47.216251],
+  "bbox": [
+    -1.554409,
+    47.216251,
+    -1.554409,
+    47.216251
+],
   "geometry": {"coordinates":[-1.554409,47.216251],"type":"Point"}
 }

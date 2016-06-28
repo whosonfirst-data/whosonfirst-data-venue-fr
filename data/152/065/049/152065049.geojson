@@ -2,13 +2,14 @@
   "id": 152065049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.27664,48.827633,2.27664,48.827633",
     "geom:latitude":48.827633,
     "geom:longitude":2.27664,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bd Gambetta 92136 Issy Les Moulineaux Cedex",
     "sg:city":"Moulineaux",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152065049,
-    "wof:lastmodified":1449048851,
+    "wof:lastmodified":1466247134,
     "wof:name":"Cpm",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.27664,48.827633,2.27664,48.827633],
+  "bbox": [
+    2.27664,
+    48.827633,
+    2.27664,
+    48.827633
+],
   "geometry": {"coordinates":[2.27664,48.827633],"type":"Point"}
 }

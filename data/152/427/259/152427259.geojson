@@ -2,13 +2,14 @@
   "id": 152427259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.257392,43.710194,7.257392,43.710194",
     "geom:latitude":43.710194,
     "geom:longitude":7.257392,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Bd Joseph Garnier, 06000 Nice",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -16,11 +17,11 @@
     "sg:phone":"+33 4 92 09 00 34",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152427259,
-    "wof:lastmodified":1449045690,
+    "wof:lastmodified":1466250607,
     "wof:name":"Echelle 06",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.257392,43.710194,7.257392,43.710194],
+  "bbox": [
+    7.257392,
+    43.710194,
+    7.257392,
+    43.710194
+],
   "geometry": {"coordinates":[7.257392,43.710194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152053307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.335125,48.873318,2.335125,48.873318",
     "geom:latitude":48.873318,
     "geom:longitude":2.335125,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25",
     "sg:city":"Taitbout; Paris; 75009",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152053307,
-    "wof:lastmodified":1449045173,
+    "wof:lastmodified":1466246116,
     "wof:name":"Chambre De Commerce Et D'industrie Polonaise En France",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.335125,48.873318,2.335125,48.873318],
+  "bbox": [
+    2.335125,
+    48.873318,
+    2.335125,
+    48.873318
+],
   "geometry": {"coordinates":[2.335125,48.873318],"type":"Point"}
 }

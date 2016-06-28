@@ -2,13 +2,14 @@
   "id": 152154149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.387095,48.905815,2.387095,48.905815",
     "geom:latitude":48.905815,
     "geom:longitude":2.387095,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Rue Des Cit\u00e9s 93300 Aubervilliers Cedex",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152154149,
-    "wof:lastmodified":1449048953,
+    "wof:lastmodified":1466249600,
     "wof:name":"Saga Entreprise",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.387095,48.905815,2.387095,48.905815],
+  "bbox": [
+    2.387095,
+    48.905815,
+    2.387095,
+    48.905815
+],
   "geometry": {"coordinates":[2.387095,48.905815],"type":"Point"}
 }

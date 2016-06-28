@@ -2,13 +2,14 @@
   "id": 152237447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41767,48.868626,2.41767,48.868626",
     "geom:latitude":48.868626,
     "geom:longitude":2.41767,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Rue Jean Jaur\u00e9s - Les Mercuriales, 93176 Bagnolet C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874043,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152237447,
-    "wof:lastmodified":1449044406,
+    "wof:lastmodified":1466249870,
     "wof:name":"A.d.p. S.a. - Automatique Data Processing",
     "wof:parent_id":85874043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41767,48.868626,2.41767,48.868626],
+  "bbox": [
+    2.41767,
+    48.868626,
+    2.41767,
+    48.868626
+],
   "geometry": {"coordinates":[2.41767,48.868626],"type":"Point"}
 }

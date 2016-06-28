@@ -2,13 +2,14 @@
   "id": 136276571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.7571,48.592171,7.7571,48.592171",
     "geom:latitude":48.592171,
     "geom:longitude":7.7571,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Avenue De La Paix",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136276571,
-    "wof:lastmodified":1449074970,
+    "wof:lastmodified":1466245304,
     "wof:name":"Conseil Regional Dalsace",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.7571,48.592171,7.7571,48.592171],
+  "bbox": [
+    7.7571,
+    48.592171,
+    7.7571,
+    48.592171
+],
   "geometry": {"coordinates":[7.7571,48.592171],"type":"Point"}
 }

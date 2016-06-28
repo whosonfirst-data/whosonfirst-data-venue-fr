@@ -2,13 +2,14 @@
   "id": 152107295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319067,48.893185,2.319067,48.893185",
     "geom:latitude":48.893185,
     "geom:longitude":2.319067,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Rue Berz\u00e9lius 75017 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152107295,
-    "wof:lastmodified":1449044304,
+    "wof:lastmodified":1466249079,
     "wof:name":"Journo Jean Luc Clement",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319067,48.893185,2.319067,48.893185],
+  "bbox": [
+    2.319067,
+    48.893185,
+    2.319067,
+    48.893185
+],
   "geometry": {"coordinates":[2.319067,48.893185],"type":"Point"}
 }

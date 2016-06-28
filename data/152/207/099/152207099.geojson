@@ -2,13 +2,14 @@
   "id": 152207099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.246996,48.834427,2.246996,48.834427",
     "geom:latitude":48.834427,
     "geom:longitude":2.246996,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"79 avenue Edouard Vaillant 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152207099,
-    "wof:lastmodified":1449047531,
+    "wof:lastmodified":1466249741,
     "wof:name":"Derilac Sas",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.246996,48.834427,2.246996,48.834427],
+  "bbox": [
+    2.246996,
+    48.834427,
+    2.246996,
+    48.834427
+],
   "geometry": {"coordinates":[2.246996,48.834427],"type":"Point"}
 }

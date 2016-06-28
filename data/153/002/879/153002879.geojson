@@ -2,13 +2,14 @@
   "id": 153002879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.24771,48.82975,2.24771,48.82975",
     "geom:latitude":48.82975,
     "geom:longitude":2.24771,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 rue des Longs Pr\u00e9s 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153002879,
-    "wof:lastmodified":1449040734,
+    "wof:lastmodified":1466245968,
     "wof:name":"Criom Sarl",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.24771,48.82975,2.24771,48.82975],
+  "bbox": [
+    2.24771,
+    48.82975,
+    2.24771,
+    48.82975
+],
   "geometry": {"coordinates":[2.24771,48.82975],"type":"Point"}
 }

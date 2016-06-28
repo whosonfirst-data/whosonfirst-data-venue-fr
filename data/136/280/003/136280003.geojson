@@ -2,13 +2,14 @@
   "id": 136280003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55022,47.254478,-1.55022,47.254478",
     "geom:latitude":47.254478,
     "geom:longitude":-1.55022,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 R Des Somoni\u00e8res",
     "sg:city":"Nantes Cedex 03",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136280003,
-    "wof:lastmodified":1449075561,
+    "wof:lastmodified":1466245397,
     "wof:name":"Ste Expertise Comptable Fiduciaire Pdl",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55022,47.254478,-1.55022,47.254478],
+  "bbox": [
+    -1.55022,
+    47.254478,
+    -1.55022,
+    47.254478
+],
   "geometry": {"coordinates":[-1.55022,47.254478],"type":"Point"}
 }

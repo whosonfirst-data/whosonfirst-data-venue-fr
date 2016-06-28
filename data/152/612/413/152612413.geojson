@@ -2,13 +2,14 @@
   "id": 152612413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.255208,48.821751,2.255208,48.821751",
     "geom:latitude":48.821751,
     "geom:longitude":2.255208,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5/7, Rue de la Gare, 92137 Issy les Moulineaux C\u00e9dex",
     "sg:city":"Moulineaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152612413,
-    "wof:lastmodified":1449046356,
+    "wof:lastmodified":1466251217,
     "wof:name":"Marketo S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.255208,48.821751,2.255208,48.821751],
+  "bbox": [
+    2.255208,
+    48.821751,
+    2.255208,
+    48.821751
+],
   "geometry": {"coordinates":[2.255208,48.821751],"type":"Point"}
 }

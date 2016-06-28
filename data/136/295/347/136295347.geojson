@@ -2,13 +2,14 @@
   "id": 136295347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.068111,50.632069,3.068111,50.632069",
     "geom:latitude":50.632069,
     "geom:longitude":3.068111,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Rue De Paris 59800 Lille",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295347,
-    "wof:lastmodified":1449075460,
+    "wof:lastmodified":1466246390,
     "wof:name":"Assurance De France Collective (agf)",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.068111,50.632069,3.068111,50.632069],
+  "bbox": [
+    3.068111,
+    50.632069,
+    3.068111,
+    50.632069
+],
   "geometry": {"coordinates":[3.068111,50.632069],"type":"Point"}
 }

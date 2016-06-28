@@ -2,13 +2,14 @@
   "id": 152455273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.370827,48.868481,2.370827,48.868481",
     "geom:latitude":48.868481,
     "geom:longitude":2.370827,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Rue de la Fontaine au Roi, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152455273,
-    "wof:lastmodified":1449048176,
+    "wof:lastmodified":1466250646,
     "wof:name":"Etablissements Lesauvage S.a.",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.370827,48.868481,2.370827,48.868481],
+  "bbox": [
+    2.370827,
+    48.868481,
+    2.370827,
+    48.868481
+],
   "geometry": {"coordinates":[2.370827,48.868481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152979061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.674451,48.94495,2.674451,48.94495",
     "geom:latitude":48.94495,
     "geom:longitude":2.674451,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Victor Baltard 77410 Claye Souilly",
     "sg:classifiers":[
         {
@@ -26,10 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065403,
-        85633147,
         85683385,
-        85794641
+        85633147,
+        85794641,
+        102065403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152979061,
-    "wof:lastmodified":1449047555,
+    "wof:lastmodified":1466252391,
     "wof:name":"Transports Sauron Sa",
     "wof:parent_id":85794641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.674451,48.94495,2.674451,48.94495],
+  "bbox": [
+    2.674451,
+    48.94495,
+    2.674451,
+    48.94495
+],
   "geometry": {"coordinates":[2.674451,48.94495],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152102219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.416833,43.548431,1.416833,43.548431",
     "geom:latitude":43.548431,
     "geom:longitude":1.416833,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Av De Larrieu 31100 Toulouse",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152102219,
-    "wof:lastmodified":1449048573,
+    "wof:lastmodified":1466248906,
     "wof:name":"Lafarge Platres",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.416833,43.548431,1.416833,43.548431],
+  "bbox": [
+    1.416833,
+    43.548431,
+    1.416833,
+    43.548431
+],
   "geometry": {"coordinates":[1.416833,43.548431],"type":"Point"}
 }

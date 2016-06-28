@@ -2,13 +2,14 @@
   "id": 152491805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.088223,49.442249,1.088223,49.442249",
     "geom:latitude":49.442249,
     "geom:longitude":1.088223,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Place de la Pucelle, 76024 Rouen C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152491805,
-    "wof:lastmodified":1449044206,
+    "wof:lastmodified":1466250786,
     "wof:name":"G.d.f. Services Normandie Rouen",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.088223,49.442249,1.088223,49.442249],
+  "bbox": [
+    1.088223,
+    49.442249,
+    1.088223,
+    49.442249
+],
   "geometry": {"coordinates":[1.088223,49.442249],"type":"Point"}
 }

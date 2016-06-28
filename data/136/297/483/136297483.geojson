@@ -2,13 +2,14 @@
   "id": 136297483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348483,48.867195,2.348483,48.867195",
     "geom:latitude":48.867195,
     "geom:longitude":2.348483,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100 rue R\u00e9aumur; Paris; 75002",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136297483,
-    "wof:lastmodified":1449075782,
+    "wof:lastmodified":1466246578,
     "wof:name":"Banque Leumi, France Sa",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348483,48.867195,2.348483,48.867195],
+  "bbox": [
+    2.348483,
+    48.867195,
+    2.348483,
+    48.867195
+],
   "geometry": {"coordinates":[2.348483,48.867195],"type":"Point"}
 }

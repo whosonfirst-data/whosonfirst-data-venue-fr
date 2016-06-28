@@ -2,13 +2,14 @@
   "id": 152797045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.36111,49.184361,-0.36111,49.184361",
     "geom:latitude":49.184361,
     "geom:longitude":-0.36111,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 349, 14016 Caen C\u00e9dex^^33, Rte de Trouville, 14000 Caen",
     "sg:city":"Caen",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152797045,
-    "wof:lastmodified":1449048468,
+    "wof:lastmodified":1466251854,
     "wof:name":"Stellor S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.36111,49.184361,-0.36111,49.184361],
+  "bbox": [
+    -0.36111,
+    49.184361,
+    -0.36111,
+    49.184361
+],
   "geometry": {"coordinates":[-0.36111,49.184361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152486711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.380547,33.19717,-117.380547,33.19717",
     "geom:latitude":33.19717,
     "geom:longitude":-117.380547,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Rue Raspail, 92051 Courbevoie C\u00e9dex",
     "sg:city":"Courbevoie",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85881903
+        85633793,
+        85881903,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152486711,
-    "wof:lastmodified":1449046878,
+    "wof:lastmodified":1466250785,
     "wof:name":"France Vitrail International S.a.",
     "wof:parent_id":85881903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.380547,33.19717,-117.380547,33.19717],
-  "geometry": {"coordinates":[-117.380547,33.19717],"type":"Point"}
+  "bbox": [
+    -117.380547,
+    33.19717,
+    -117.380547,
+    33.19717
+],
+  "geometry": {"coordinates":[-117.38054700000001,33.19717],"type":"Point"}
 }

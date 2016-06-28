@@ -2,13 +2,14 @@
   "id": 152108425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.761713,48.565681,7.761713,48.565681",
     "geom:latitude":48.565681,
     "geom:longitude":7.761713,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue De S\u00e9lestat 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152108425,
-    "wof:lastmodified":1449044373,
+    "wof:lastmodified":1466249093,
     "wof:name":"Sofran Sarl",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.761713,48.565681,7.761713,48.565681],
+  "bbox": [
+    7.761713,
+    48.565681,
+    7.761713,
+    48.565681
+],
   "geometry": {"coordinates":[7.761713,48.565681],"type":"Point"}
 }

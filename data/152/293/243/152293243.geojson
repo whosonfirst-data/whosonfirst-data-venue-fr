@@ -2,13 +2,14 @@
   "id": 152293243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.575774,44.844467,-0.575774,44.844467",
     "geom:latitude":44.844467,
     "geom:longitude":-0.575774,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Rue du ch\u00e2teau Trompette, 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152293243,
-    "wof:lastmodified":1449045210,
+    "wof:lastmodified":1466250054,
     "wof:name":"B.n.s.m.d. S.a. - Banque Neuflize Schlumberger Mallet Danachy",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.575774,44.844467,-0.575774,44.844467],
+  "bbox": [
+    -0.575774,
+    44.844467,
+    -0.575774,
+    44.844467
+],
   "geometry": {"coordinates":[-0.575774,44.844467],"type":"Point"}
 }

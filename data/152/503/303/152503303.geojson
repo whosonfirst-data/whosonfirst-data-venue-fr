@@ -2,13 +2,14 @@
   "id": 152503303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.47372,44.908081,-0.47372,44.908081",
     "geom:latitude":44.908081,
     "geom:longitude":-0.47372,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 15, 33560 Sainte Eulalie^^2, Av. de l'Aquitaine, 33560 Sainte Eulalie",
     "sg:city":"Carbon-Blanc",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152503303,
-    "wof:lastmodified":1449048908,
+    "wof:lastmodified":1466250808,
     "wof:name":"Giraud Aquitaine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.47372,44.908081,-0.47372,44.908081],
+  "bbox": [
+    -0.47372,
+    44.908081,
+    -0.47372,
+    44.908081
+],
   "geometry": {"coordinates":[-0.47372,44.908081],"type":"Point"}
 }

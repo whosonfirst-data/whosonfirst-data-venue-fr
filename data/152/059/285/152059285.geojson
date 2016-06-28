@@ -2,13 +2,14 @@
   "id": 152059285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359044,48.903858,2.359044,48.903858",
     "geom:latitude":48.903858,
     "geom:longitude":2.359044,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Avenue Du Pdt Wilson Batiment 127 La Plaine St Denis 93210 La Plaine St Denis",
     "sg:city":"Plaine",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152059285,
-    "wof:lastmodified":1449045562,
+    "wof:lastmodified":1466246723,
     "wof:name":"Pronuptia Creations",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359044,48.903858,2.359044,48.903858],
+  "bbox": [
+    2.359044,
+    48.903858,
+    2.359044,
+    48.903858
+],
   "geometry": {"coordinates":[2.359044,48.903858],"type":"Point"}
 }

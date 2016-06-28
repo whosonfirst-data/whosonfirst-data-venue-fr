@@ -2,13 +2,14 @@
   "id": 152116419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.593957,47.245747,-1.593957,47.245747",
     "geom:latitude":47.245747,
     "geom:longitude":-1.593957,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Av De La Jeunesse 44700 Orvault",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897693,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116419,
-    "wof:lastmodified":1449044980,
+    "wof:lastmodified":1466249224,
     "wof:name":"Girce Centre Informatique",
     "wof:parent_id":85897693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.593957,47.245747,-1.593957,47.245747],
+  "bbox": [
+    -1.593957,
+    47.245747,
+    -1.593957,
+    47.245747
+],
   "geometry": {"coordinates":[-1.593957,47.245747],"type":"Point"}
 }

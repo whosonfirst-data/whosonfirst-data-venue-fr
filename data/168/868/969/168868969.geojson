@@ -2,13 +2,14 @@
   "id": 168868969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.349699,48.931057,2.349699,48.931057",
     "geom:latitude":48.931057,
     "geom:longitude":2.349699,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"112, Rue Amboise Croizat, 93201 Saint Denis",
     "sg:city":"Amboise",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168868969,
-    "wof:lastmodified":1449027802,
+    "wof:lastmodified":1466246180,
     "wof:name":"Charles S.a.",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.349699,48.931057,2.349699,48.931057],
+  "bbox": [
+    2.349699,
+    48.931057,
+    2.349699,
+    48.931057
+],
   "geometry": {"coordinates":[2.349699,48.931057],"type":"Point"}
 }

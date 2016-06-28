@@ -2,13 +2,14 @@
   "id": 152152667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.379896,43.631298,1.379896,43.631298",
     "geom:latitude":43.631298,
     "geom:longitude":1.379896,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 R Dieudonn\u00e9 Costes 31700 Blagnac",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152152667,
-    "wof:lastmodified":1449047853,
+    "wof:lastmodified":1466249559,
     "wof:name":"Relais Blagnac",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.379896,43.631298,1.379896,43.631298],
+  "bbox": [
+    1.379896,
+    43.631298,
+    1.379896,
+    43.631298
+],
   "geometry": {"coordinates":[1.379896,43.631298],"type":"Point"}
 }

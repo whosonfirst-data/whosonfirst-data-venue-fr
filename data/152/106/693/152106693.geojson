@@ -2,13 +2,14 @@
   "id": 152106693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.335884,43.360947,5.335884,43.360947",
     "geom:latitude":43.360947,
     "geom:longitude":5.335884,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Chemin Du Passet 13016 Marseille",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152106693,
-    "wof:lastmodified":1449044216,
+    "wof:lastmodified":1466249025,
     "wof:name":"Bio Control",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.335884,43.360947,5.335884,43.360947],
+  "bbox": [
+    5.335884,
+    43.360947,
+    5.335884,
+    43.360947
+],
   "geometry": {"coordinates":[5.335884,43.360947],"type":"Point"}
 }

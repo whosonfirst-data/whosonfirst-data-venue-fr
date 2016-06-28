@@ -2,13 +2,14 @@
   "id": 136303249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.570864,44.844036,-0.570864,44.844036",
     "geom:latitude":44.844036,
     "geom:longitude":-0.570864,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 all\u00e9e Orl\u00e9ans; Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136303249,
-    "wof:lastmodified":1449074924,
+    "wof:lastmodified":1466246921,
     "wof:name":"Cr\u00e9dit Commercial De France",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.570864,44.844036,-0.570864,44.844036],
+  "bbox": [
+    -0.570864,
+    44.844036,
+    -0.570864,
+    44.844036
+],
   "geometry": {"coordinates":[-0.570864,44.844036],"type":"Point"}
 }

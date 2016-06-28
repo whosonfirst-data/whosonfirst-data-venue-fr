@@ -2,13 +2,14 @@
   "id": 152051973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.389484,48.846546,2.389484,48.846546",
     "geom:latitude":48.846546,
     "geom:longitude":2.389484,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Square St Charles 75012 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152051973,
-    "wof:lastmodified":1449047156,
+    "wof:lastmodified":1466246074,
     "wof:name":"Ceragen Sa",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.389484,48.846546,2.389484,48.846546],
+  "bbox": [
+    2.389484,
+    48.846546,
+    2.389484,
+    48.846546
+],
   "geometry": {"coordinates":[2.389484,48.846546],"type":"Point"}
 }

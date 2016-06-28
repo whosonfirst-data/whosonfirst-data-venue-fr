@@ -2,13 +2,14 @@
   "id": 152106929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.306422,48.822132,2.306422,48.822132",
     "geom:latitude":48.822132,
     "geom:longitude":2.306422,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd De Courcerin 77437 Marne La Vall\u00e9e Cedex 2",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152106929,
-    "wof:lastmodified":1449044219,
+    "wof:lastmodified":1466248953,
     "wof:name":"Dentaurum France",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.306422,48.822132,2.306422,48.822132],
+  "bbox": [
+    2.306422,
+    48.822132,
+    2.306422,
+    48.822132
+],
   "geometry": {"coordinates":[2.306422,48.822132],"type":"Point"}
 }

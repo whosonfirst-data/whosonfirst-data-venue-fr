@@ -2,13 +2,14 @@
   "id": 152110247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334246,48.852444,2.334246,48.852444",
     "geom:latitude":48.852444,
     "geom:longitude":2.334246,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 R De La Princesse 75006 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873835,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152110247,
-    "wof:lastmodified":1449045823,
+    "wof:lastmodified":1466249261,
     "wof:name":"Epb La Chaise Longue Sarl",
     "wof:parent_id":85873835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334246,48.852444,2.334246,48.852444],
+  "bbox": [
+    2.334246,
+    48.852444,
+    2.334246,
+    48.852444
+],
   "geometry": {"coordinates":[2.334246,48.852444],"type":"Point"}
 }

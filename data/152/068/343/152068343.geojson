@@ -2,13 +2,14 @@
   "id": 152068343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.189707,49.499912,0.189707,49.499912",
     "geom:latitude":49.499912,
     "geom:longitude":0.189707,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"605 Boulevard Jules Durand 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152068343,
-    "wof:lastmodified":1449046680,
+    "wof:lastmodified":1466247415,
     "wof:name":"Travaux Et Entreprises De La Region Du Havre (terh)",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.189707,49.499912,0.189707,49.499912],
+  "bbox": [
+    0.189707,
+    49.499912,
+    0.189707,
+    49.499912
+],
   "geometry": {"coordinates":[0.189707,49.499912],"type":"Point"}
 }

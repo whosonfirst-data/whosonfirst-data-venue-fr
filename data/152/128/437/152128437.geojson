@@ -2,13 +2,14 @@
   "id": 152128437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.409533,48.625725,2.409533,48.625725",
     "geom:latitude":48.625725,
     "geom:longitude":2.409533,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Maryse Basti\u00e9 91080 Courcouronnes",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152128437,
-    "wof:lastmodified":1449046119,
+    "wof:lastmodified":1466249422,
     "wof:name":"Aoip Sas",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.409533,48.625725,2.409533,48.625725],
+  "bbox": [
+    2.409533,
+    48.625725,
+    2.409533,
+    48.625725
+],
   "geometry": {"coordinates":[2.409533,48.625725],"type":"Point"}
 }

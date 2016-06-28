@@ -2,13 +2,14 @@
   "id": 169050099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.10718,49.494659,0.10718,49.494659",
     "geom:latitude":49.494659,
     "geom:longitude":0.10718,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av du G\u00e9n\u00e9ral Leclerc",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169050099,
-    "wof:lastmodified":1449034513,
+    "wof:lastmodified":1466246081,
     "wof:name":"Mairie Du Havre",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.10718,49.494659,0.10718,49.494659],
+  "bbox": [
+    0.10718,
+    49.494659,
+    0.10718,
+    49.494659
+],
   "geometry": {"coordinates":[0.10718,49.494659],"type":"Point"}
 }

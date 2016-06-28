@@ -2,13 +2,14 @@
   "id": 136289805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.550715,47.176872,-1.550715,47.176872",
     "geom:latitude":47.176872,
     "geom:longitude":-1.550715,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Av de L'Est\u00e9rel, BP 63 Cedex 44402 Rez\u00e9",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897703,
+        85683233,
         85633147,
         101750933,
         102072153,
-        85683233
+        85897703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136289805,
-    "wof:lastmodified":1449076034,
+    "wof:lastmodified":1466246188,
     "wof:name":"Atlantique Air Assistance",
     "wof:parent_id":85897703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.550715,47.176872,-1.550715,47.176872],
+  "bbox": [
+    -1.550715,
+    47.176872,
+    -1.550715,
+    47.176872
+],
   "geometry": {"coordinates":[-1.550715,47.176872],"type":"Point"}
 }

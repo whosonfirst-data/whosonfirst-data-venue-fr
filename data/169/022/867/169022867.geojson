@@ -2,13 +2,14 @@
   "id": 169022867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.385828,48.85841,2.385828,48.85841",
     "geom:latitude":48.85841,
     "geom:longitude":2.385828,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue de la Croix Faubin, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169022867,
-    "wof:lastmodified":1449033780,
+    "wof:lastmodified":1466246733,
     "wof:name":"Laboratoires Chaix Et Du Marais S.a.",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.385828,48.85841,2.385828,48.85841],
+  "bbox": [
+    2.385828,
+    48.85841,
+    2.385828,
+    48.85841
+],
   "geometry": {"coordinates":[2.385828,48.85841],"type":"Point"}
 }

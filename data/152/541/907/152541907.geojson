@@ -2,13 +2,14 @@
   "id": 152541907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.498353,47.254333,-1.498353,47.254333",
     "geom:latitude":47.254333,
     "geom:longitude":-1.498353,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue d'Allemagne, 44330 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152541907,
-    "wof:lastmodified":1449044822,
+    "wof:lastmodified":1466250995,
     "wof:name":"Initial Btb S.a.",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.498353,47.254333,-1.498353,47.254333],
+  "bbox": [
+    -1.498353,
+    47.254333,
+    -1.498353,
+    47.254333
+],
   "geometry": {"coordinates":[-1.498353,47.254333],"type":"Point"}
 }

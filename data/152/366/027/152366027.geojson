@@ -2,13 +2,14 @@
   "id": 152366027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.772772,46.536057,-1.772772,46.536057",
     "geom:latitude":46.536057,
     "geom:longitude":-1.772772,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 307",
     "sg:city":"Les Sables d'Olonne C\u00e9dex^^Port Olona 85100 Les Sables d'Olonne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152366027,
-    "wof:lastmodified":1449047668,
+    "wof:lastmodified":1466250402,
     "wof:name":"Ciel Macintosh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.772772,46.536057,-1.772772,46.536057],
+  "bbox": [
+    -1.772772,
+    46.536057,
+    -1.772772,
+    46.536057
+],
   "geometry": {"coordinates":[-1.772772,46.536057],"type":"Point"}
 }

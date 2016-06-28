@@ -2,13 +2,14 @@
   "id": 152047715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369972,48.857632,2.369972,48.857632",
     "geom:latitude":48.857632,
     "geom:longitude":2.369972,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Du Chemin Vert 75011 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
-        85873889,
-        102068927
+        85873801,
+        102068927,
+        85873889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152047715,
-    "wof:lastmodified":1449047283,
+    "wof:lastmodified":1466245730,
     "wof:name":"Capanille Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369972,48.857632,2.369972,48.857632],
+  "bbox": [
+    2.369972,
+    48.857632,
+    2.369972,
+    48.857632
+],
   "geometry": {"coordinates":[2.369972,48.857632],"type":"Point"}
 }

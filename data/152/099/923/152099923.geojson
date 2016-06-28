@@ -2,13 +2,14 @@
   "id": 152099923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.427154,48.850807,2.427154,48.850807",
     "geom:latitude":48.850807,
     "geom:longitude":2.427154,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue Jean Jacque Rousseau 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152099923,
-    "wof:lastmodified":1449047308,
+    "wof:lastmodified":1466248520,
     "wof:name":"Atelier Marc Ducornet",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.427154,48.850807,2.427154,48.850807],
+  "bbox": [
+    2.427154,
+    48.850807,
+    2.427154,
+    48.850807
+],
   "geometry": {"coordinates":[2.427154,48.850807],"type":"Point"}
 }

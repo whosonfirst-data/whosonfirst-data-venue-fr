@@ -2,13 +2,14 @@
   "id": 169187083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.379645,48.845158,2.379645,48.845158",
     "geom:latitude":48.845158,
     "geom:longitude":2.379645,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60/62, Av. Daumesnil, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169187083,
-    "wof:lastmodified":1449033182,
+    "wof:lastmodified":1466248632,
     "wof:name":"Synasoft S.a.s.",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.379645,48.845158,2.379645,48.845158],
+  "bbox": [
+    2.379645,
+    48.845158,
+    2.379645,
+    48.845158
+],
   "geometry": {"coordinates":[2.379645,48.845158],"type":"Point"}
 }

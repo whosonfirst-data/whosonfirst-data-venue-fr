@@ -2,13 +2,14 @@
   "id": 136296413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.555723,47.215889,-1.555723,47.215889",
     "geom:latitude":47.215889,
     "geom:longitude":-1.555723,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 rue Halles; Nantes",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136296413,
-    "wof:lastmodified":1449075987,
+    "wof:lastmodified":1466246424,
     "wof:name":"Banque Cio, Nantes La Marne",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.555723,47.215889,-1.555723,47.215889],
+  "bbox": [
+    -1.555723,
+    47.215889,
+    -1.555723,
+    47.215889
+],
   "geometry": {"coordinates":[-1.555723,47.215889],"type":"Point"}
 }

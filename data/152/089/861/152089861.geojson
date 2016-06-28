@@ -2,13 +2,14 @@
   "id": 152089861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748565,48.605949,7.748565,48.605949",
     "geom:latitude":48.605949,
     "geom:longitude":7.748565,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue Des Sarcelles Z A Vogelau 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152089861,
-    "wof:lastmodified":1449045245,
+    "wof:lastmodified":1466248176,
     "wof:name":"Krieger Rimmelin Sarl",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748565,48.605949,7.748565,48.605949],
+  "bbox": [
+    7.748565,
+    48.605949,
+    7.748565,
+    48.605949
+],
   "geometry": {"coordinates":[7.748565,48.605949],"type":"Point"}
 }

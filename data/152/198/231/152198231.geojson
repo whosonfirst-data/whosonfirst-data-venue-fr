@@ -2,13 +2,14 @@
   "id": 152198231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357519,48.861416,2.357519,48.861416",
     "geom:latitude":48.861416,
     "geom:longitude":2.357519,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Des Haudriettes 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152198231,
-    "wof:lastmodified":1449045985,
+    "wof:lastmodified":1466249713,
     "wof:name":"Laboratoires Boudet Et Dussaix Sarl",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357519,48.861416,2.357519,48.861416],
+  "bbox": [
+    2.357519,
+    48.861416,
+    2.357519,
+    48.861416
+],
   "geometry": {"coordinates":[2.357519,48.861416],"type":"Point"}
 }

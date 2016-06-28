@@ -2,13 +2,14 @@
   "id": 153004609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.790074,48.588287,7.790074,48.588287",
     "geom:latitude":48.588287,
     "geom:longitude":7.790074,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 rue d'Alger 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897721,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153004609,
-    "wof:lastmodified":1449040505,
+    "wof:lastmodified":1466245344,
     "wof:name":"Salzgitter Stahlhandel Sa",
     "wof:parent_id":85897721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.790074,48.588287,7.790074,48.588287],
+  "bbox": [
+    7.790074,
+    48.588287,
+    7.790074,
+    48.588287
+],
   "geometry": {"coordinates":[7.790074,48.588287],"type":"Point"}
 }

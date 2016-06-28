@@ -2,13 +2,14 @@
   "id": 152049313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.695606,46.660866,2.695606,46.660866",
     "geom:latitude":46.660866,
     "geom:longitude":2.695606,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Tron\u00e7ais 03360 St Bonnet Tron\u00e7ais",
     "sg:city":"Ainay-le-Ch\u00e2teau",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152049313,
-    "wof:lastmodified":1449046589,
+    "wof:lastmodified":1466245772,
     "wof:name":"Le Tron\u00c7ais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.695606,46.660866,2.695606,46.660866],
+  "bbox": [
+    2.695606,
+    46.660866,
+    2.695606,
+    46.660866
+],
   "geometry": {"coordinates":[2.695606,46.660866],"type":"Point"}
 }

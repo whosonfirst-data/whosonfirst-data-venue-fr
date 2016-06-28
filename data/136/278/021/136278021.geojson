@@ -2,13 +2,14 @@
   "id": 136278021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.305792,48.878124,2.305792,48.878124",
     "geom:latitude":48.878124,
     "geom:longitude":2.305792,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Avenue Van Dyck",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278021,
-    "wof:lastmodified":1449075662,
+    "wof:lastmodified":1466245238,
     "wof:name":"J C Goldsmith & Associ\u00c9s",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.305792,48.878124,2.305792,48.878124],
+  "bbox": [
+    2.305792,
+    48.878124,
+    2.305792,
+    48.878124
+],
   "geometry": {"coordinates":[2.305792,48.878124],"type":"Point"}
 }

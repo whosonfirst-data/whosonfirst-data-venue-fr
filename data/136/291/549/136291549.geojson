@@ -2,13 +2,14 @@
   "id": 136291549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.398573,43.531902,1.398573,43.531902",
     "geom:latitude":43.531902,
     "geom:longitude":1.398573,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 B Boulevard De L Europe 31120 Portet Sur Garonne",
     "sg:classifiers":[
         {
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136291549,
-    "wof:lastmodified":1449075297,
+    "wof:lastmodified":1466246228,
     "wof:name":"Amabege",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.398573,43.531902,1.398573,43.531902],
+  "bbox": [
+    1.398573,
+    43.531902,
+    1.398573,
+    43.531902
+],
   "geometry": {"coordinates":[1.398573,43.531902],"type":"Point"}
 }

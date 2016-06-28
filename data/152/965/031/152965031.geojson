@@ -2,13 +2,14 @@
   "id": 152965031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55687,47.1749,-1.55687,47.1749",
     "geom:latitude":47.1749,
     "geom:longitude":-1.55687,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue De L'Ile Mac\u00e9 44400 Rez\u00e9",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897703,
+        85683233,
         85633147,
         101750933,
         102072153,
-        85683233
+        85897703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152965031,
-    "wof:lastmodified":1449047526,
+    "wof:lastmodified":1466252456,
     "wof:name":"Pivaut Et Fils Sa",
     "wof:parent_id":85897703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55687,47.1749,-1.55687,47.1749],
+  "bbox": [
+    -1.55687,
+    47.1749,
+    -1.55687,
+    47.1749
+],
   "geometry": {"coordinates":[-1.55687,47.1749],"type":"Point"}
 }

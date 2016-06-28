@@ -2,13 +2,14 @@
   "id": 152116687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"18.65449,-33.898472,18.65449,-33.898472",
     "geom:latitude":-33.898472,
     "geom:longitude":18.65449,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Roissypole Le D\u00f4me",
     "sg:city":"R De La Haye 95731 Roissy Charles De Gaulle Cedex",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85772015,
+        85688905,
         85633813,
         101928027,
         102089069,
-        85688905
+        85772015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116687,
-    "wof:lastmodified":1449044979,
+    "wof:lastmodified":1466249264,
     "wof:name":"Novadigm Europe Sarl",
     "wof:parent_id":85772015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [18.65449,-33.898472,18.65449,-33.898472],
+  "bbox": [
+    18.65449,
+    -33.898472,
+    18.65449,
+    -33.898472
+],
   "geometry": {"coordinates":[18.65449,-33.898472],"type":"Point"}
 }

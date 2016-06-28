@@ -2,13 +2,14 @@
   "id": 153017255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.395745,48.900154,2.395745,48.900154",
     "geom:latitude":48.900154,
     "geom:longitude":2.395745,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Avenue Edouard Vaillant 93500 Pantin",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153017255,
-    "wof:lastmodified":1449040605,
+    "wof:lastmodified":1466247492,
     "wof:name":"Sarl Creation Confection Mode Pantalon (ccmp)",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.395745,48.900154,2.395745,48.900154],
+  "bbox": [
+    2.395745,
+    48.900154,
+    2.395745,
+    48.900154
+],
   "geometry": {"coordinates":[2.395745,48.900154],"type":"Point"}
 }

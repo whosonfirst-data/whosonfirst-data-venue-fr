@@ -2,13 +2,14 @@
   "id": 152500165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.5359,47.25631,-1.5359,47.25631",
     "geom:latitude":47.25631,
     "geom:longitude":-1.5359,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 53746, 44337 Nantes C\u00e9dex 03^^6, Rue de Bruxelles, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152500165,
-    "wof:lastmodified":1449045453,
+    "wof:lastmodified":1466250804,
     "wof:name":"Genicado Ouest S.a.",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.5359,47.25631,-1.5359,47.25631],
+  "bbox": [
+    -1.5359,
+    47.25631,
+    -1.5359,
+    47.25631
+],
   "geometry": {"coordinates":[-1.5359,47.25631],"type":"Point"}
 }

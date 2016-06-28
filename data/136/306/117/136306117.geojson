@@ -2,13 +2,14 @@
   "id": 136306117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.571709,37.00436,-121.571709,37.00436",
     "geom:latitude":37.00436,
     "geom:longitude":-121.571709,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Mail des Cerclades; Cergy Pontoise; 95021",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885989,
+        85688637,
         85633793,
         85922389,
         102081673,
-        85688637
+        85885989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306117,
-    "wof:lastmodified":1449076205,
+    "wof:lastmodified":1466246924,
     "wof:name":"Natexis Groupe",
     "wof:parent_id":85885989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.571709,37.00436,-121.571709,37.00436],
+  "bbox": [
+    -121.571709,
+    37.00436,
+    -121.571709,
+    37.00436
+],
   "geometry": {"coordinates":[-121.571709,37.00436],"type":"Point"}
 }

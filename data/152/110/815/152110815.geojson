@@ -2,13 +2,14 @@
   "id": 152110815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287681,48.863396,2.287681,48.863396",
     "geom:latitude":48.863396,
     "geom:longitude":2.287681,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Pl Trocad\u00e9ro Et Du 11 Novembre 75116 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152110815,
-    "wof:lastmodified":1449045823,
+    "wof:lastmodified":1466249154,
     "wof:name":"Le Lit National F Pejaudier",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287681,48.863396,2.287681,48.863396],
+  "bbox": [
+    2.287681,
+    48.863396,
+    2.287681,
+    48.863396
+],
   "geometry": {"coordinates":[2.287681,48.863396],"type":"Point"}
 }

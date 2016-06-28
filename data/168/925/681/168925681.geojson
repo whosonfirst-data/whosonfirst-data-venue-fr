@@ -2,13 +2,14 @@
   "id": 168925681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.385025,48.90126,2.385025,48.90126",
     "geom:latitude":48.90126,
     "geom:longitude":2.385025,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Sente \u00e0 Bigot",
     "sg:city":"Paris",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168925681,
-    "wof:lastmodified":1449027781,
+    "wof:lastmodified":1466247973,
     "wof:name":"Entreprise Drouard S.a.",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.385025,48.90126,2.385025,48.90126],
+  "bbox": [
+    2.385025,
+    48.90126,
+    2.385025,
+    48.90126
+],
   "geometry": {"coordinates":[2.385025,48.90126],"type":"Point"}
 }

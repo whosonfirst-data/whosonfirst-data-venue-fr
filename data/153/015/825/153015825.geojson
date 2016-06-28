@@ -2,13 +2,14 @@
   "id": 153015825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.337492,43.358753,5.337492,43.358753",
     "geom:latitude":43.358753,
     "geom:longitude":5.337492,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"51 avenue Andr\u00e9 Roussin 13016 Marseille",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153015825,
-    "wof:lastmodified":1449040448,
+    "wof:lastmodified":1466246044,
     "wof:name":"Alcatel R\u00e9seaux D'entreprise Region Sud Est S.a.",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.337492,43.358753,5.337492,43.358753],
+  "bbox": [
+    5.337492,
+    43.358753,
+    5.337492,
+    43.358753
+],
   "geometry": {"coordinates":[5.337492,43.358753],"type":"Point"}
 }

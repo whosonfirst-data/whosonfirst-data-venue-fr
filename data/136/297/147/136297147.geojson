@@ -2,13 +2,14 @@
   "id": 136297147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330485,48.876163,2.330485,48.876163",
     "geom:latitude":48.876163,
     "geom:longitude":2.330485,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"74 rue St Lazare; Paris; 75428",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136297147,
-    "wof:lastmodified":1449075780,
+    "wof:lastmodified":1466246509,
     "wof:name":"Banque Francaise Commercial",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330485,48.876163,2.330485,48.876163],
+  "bbox": [
+    2.330485,
+    48.876163,
+    2.330485,
+    48.876163
+],
   "geometry": {"coordinates":[2.330485,48.876163],"type":"Point"}
 }

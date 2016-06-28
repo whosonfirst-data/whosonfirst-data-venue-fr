@@ -2,13 +2,14 @@
   "id": 136291783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.295524,48.829536,2.295524,48.829536",
     "geom:latitude":48.829536,
     "geom:longitude":2.295524,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 rue Gaston Boissier 75724 PARIS CEDEX 15",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136291783,
-    "wof:lastmodified":1449075298,
+    "wof:lastmodified":1466246276,
     "wof:name":"L.n.e.sc",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.295524,48.829536,2.295524,48.829536],
+  "bbox": [
+    2.295524,
+    48.829536,
+    2.295524,
+    48.829536
+],
   "geometry": {"coordinates":[2.295524,48.829536],"type":"Point"}
 }

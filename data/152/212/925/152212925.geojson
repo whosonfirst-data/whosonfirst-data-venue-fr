@@ -2,13 +2,14 @@
   "id": 152212925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.182708,49.502151,0.182708,49.502151",
     "geom:latitude":49.502151,
     "geom:longitude":0.182708,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Rue De Verdun 76600 Le Havre",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -18,11 +19,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152212925,
-    "wof:lastmodified":1449047288,
+    "wof:lastmodified":1466249758,
     "wof:name":"Sefadis",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.182708,49.502151,0.182708,49.502151],
+  "bbox": [
+    0.182708,
+    49.502151,
+    0.182708,
+    49.502151
+],
   "geometry": {"coordinates":[0.182708,49.502151],"type":"Point"}
 }

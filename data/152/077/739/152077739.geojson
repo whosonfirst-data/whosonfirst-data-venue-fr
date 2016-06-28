@@ -2,13 +2,14 @@
   "id": 152077739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.377162,48.931015,2.377162,48.931015",
     "geom:latitude":48.931015,
     "geom:longitude":2.377162,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ch De Cr\u00e8vecoeur 93200 St Denis",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152077739,
-    "wof:lastmodified":1449045044,
+    "wof:lastmodified":1466246823,
     "wof:name":"Cetag Sarl",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.377162,48.931015,2.377162,48.931015],
+  "bbox": [
+    2.377162,
+    48.931015,
+    2.377162,
+    48.931015
+],
   "geometry": {"coordinates":[2.377162,48.931015],"type":"Point"}
 }

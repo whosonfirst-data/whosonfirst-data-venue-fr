@@ -2,13 +2,14 @@
   "id": 152099529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522232,41.073818,-73.522232,41.073818",
     "geom:latitude":41.073818,
     "geom:longitude":-73.522232,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Route de la Valmasque 06906 SOPHIA ANTIPOLIS CEDEX",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821787,
+        85688629,
         85633793,
         85930989,
         102084283,
-        85688629
+        85821787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152099529,
-    "wof:lastmodified":1449047307,
+    "wof:lastmodified":1466248485,
     "wof:name":"De Tonge Sa",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.522232,41.073818,-73.522232,41.073818],
+  "bbox": [
+    -73.522232,
+    41.073818,
+    -73.522232,
+    41.073818
+],
   "geometry": {"coordinates":[-73.522232,41.073818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152096921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.412109,45.47118,-94.412109,45.47118",
     "geom:latitude":45.47118,
     "geom:longitude":-94.412109,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cours Carr\u00e9 BP 300 56320 Faou\u00ebt (Le)",
     "sg:city":"Lanv\u00e9n\u00e9gen",
     "sg:classifiers":[
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152096921,
-    "wof:lastmodified":1449045801,
+    "wof:lastmodified":1466248352,
     "wof:name":"Balpe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.412109,45.47118,-94.412109,45.47118],
+  "bbox": [
+    -94.412109,
+    45.47118,
+    -94.412109,
+    45.47118
+],
   "geometry": {"coordinates":[-94.412109,45.47118],"type":"Point"}
 }

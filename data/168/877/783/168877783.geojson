@@ -2,13 +2,14 @@
   "id": 168877783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3955,48.839401,2.3955,48.839401",
     "geom:latitude":48.839401,
     "geom:longitude":2.3955,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Place F\u00e9lix Ebou\u00e9 - B\u00e2t. A, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,15 +18,15 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459,
-        85873911,
+        85873913,
+        85683497,
         101751119,
         102069097,
-        85683497
+        85873911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":168877783,
-    "wof:lastmodified":1449028311,
+    "wof:lastmodified":1466246609,
     "wof:name":"Coeot S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3955,48.839401,2.3955,48.839401],
+  "bbox": [
+    2.3955,
+    48.839401,
+    2.3955,
+    48.839401
+],
   "geometry": {"coordinates":[2.3955,48.839401],"type":"Point"}
 }

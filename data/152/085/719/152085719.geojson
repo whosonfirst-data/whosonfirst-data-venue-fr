@@ -2,13 +2,14 @@
   "id": 152085719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.306391,48.875511,2.306391,48.875511",
     "geom:latitude":48.875511,
     "geom:longitude":2.306391,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 R Monceau 75008 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152085719,
-    "wof:lastmodified":1449045451,
+    "wof:lastmodified":1466247890,
     "wof:name":"Compagnie Cotonni\u00c8re",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.306391,48.875511,2.306391,48.875511],
+  "bbox": [
+    2.306391,
+    48.875511,
+    2.306391,
+    48.875511
+],
   "geometry": {"coordinates":[2.306391,48.875511],"type":"Point"}
 }

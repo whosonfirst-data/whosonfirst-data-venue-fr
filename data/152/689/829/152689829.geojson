@@ -2,13 +2,14 @@
   "id": 152689829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.440695,48.847939,2.440695,48.847939",
     "geom:latitude":48.847939,
     "geom:longitude":2.440695,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 46, 94302 Vincennes C\u00e9dex^^10-12, Rue Massue, 94300 Vincennes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152689829,
-    "wof:lastmodified":1449048141,
+    "wof:lastmodified":1466251514,
     "wof:name":"Quarr\u00e9chim S.a.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.440695,48.847939,2.440695,48.847939],
+  "bbox": [
+    2.440695,
+    48.847939,
+    2.440695,
+    48.847939
+],
   "geometry": {"coordinates":[2.440695,48.847939],"type":"Point"}
 }

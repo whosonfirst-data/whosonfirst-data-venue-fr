@@ -2,13 +2,14 @@
   "id": 169248647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308019,48.871174,2.308019,48.871174",
     "geom:latitude":48.871174,
     "geom:longitude":2.308019,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 rue de Ponthieu",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -38,11 +39,11 @@
     "sg:website":"http://calameo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":169248647,
-    "wof:lastmodified":1449034503,
+    "wof:lastmodified":1466249522,
     "wof:name":"Calameo",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308019,48.871174,2.308019,48.871174],
+  "bbox": [
+    2.308019,
+    48.871174,
+    2.308019,
+    48.871174
+],
   "geometry": {"coordinates":[2.308019,48.871174],"type":"Point"}
 }

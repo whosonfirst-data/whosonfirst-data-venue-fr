@@ -2,13 +2,14 @@
   "id": 169041335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.432166,48.683205,2.432166,48.683205",
     "geom:latitude":48.683205,
     "geom:longitude":2.432166,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 bis, Rue Charles Mory, 91210 Draveil",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169041335,
-    "wof:lastmodified":1449033884,
+    "wof:lastmodified":1466245646,
     "wof:name":"Lt Production S.a.r.l.",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.432166,48.683205,2.432166,48.683205],
+  "bbox": [
+    2.432166,
+    48.683205,
+    2.432166,
+    48.683205
+],
   "geometry": {"coordinates":[2.432166,48.683205],"type":"Point"}
 }

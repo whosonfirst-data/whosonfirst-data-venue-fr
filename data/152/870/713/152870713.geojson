@@ -2,13 +2,14 @@
   "id": 152870713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.423365,48.907597,2.423365,48.907597",
     "geom:latitude":48.907597,
     "geom:longitude":2.423365,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Avenue Division Leclerc 93000 Bobigny",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152870713,
-    "wof:lastmodified":1449045514,
+    "wof:lastmodified":1466252225,
     "wof:name":"Sa Sedic Vitrafix",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.423365,48.907597,2.423365,48.907597],
+  "bbox": [
+    2.423365,
+    48.907597,
+    2.423365,
+    48.907597
+],
   "geometry": {"coordinates":[2.423365,48.907597],"type":"Point"}
 }

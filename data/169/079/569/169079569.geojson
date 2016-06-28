@@ -2,13 +2,14 @@
   "id": 169079569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.84722,43.137573,5.84722,43.137573",
     "geom:latitude":43.137573,
     "geom:longitude":5.84722,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI de la Gare - Quartier le Petit Plan",
     "sg:city":"Ollioules",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169079569,
-    "wof:lastmodified":1449035415,
+    "wof:lastmodified":1466247673,
     "wof:name":"Ollidis S.a.",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.84722,43.137573,5.84722,43.137573],
+  "bbox": [
+    5.84722,
+    43.137573,
+    5.84722,
+    43.137573
+],
   "geometry": {"coordinates":[5.84722,43.137573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153039077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314307,48.830681,2.314307,48.830681",
     "geom:latitude":48.830681,
     "geom:longitude":2.314307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Rue des Suisses, 75014 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153039077,
-    "wof:lastmodified":1449040761,
+    "wof:lastmodified":1466245360,
     "wof:name":"A. Burodafer S.a.r.l.",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314307,48.830681,2.314307,48.830681],
+  "bbox": [
+    2.314307,
+    48.830681,
+    2.314307,
+    48.830681
+],
   "geometry": {"coordinates":[2.314307,48.830681],"type":"Point"}
 }

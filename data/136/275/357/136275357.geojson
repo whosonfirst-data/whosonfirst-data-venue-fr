@@ -2,13 +2,14 @@
   "id": 136275357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.395638,43.546051,1.395638,43.546051",
     "geom:latitude":43.546051,
     "geom:longitude":1.395638,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Av Jean Francois Champolli Zi Thibaud",
     "sg:city":"Toulouse",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136275357,
-    "wof:lastmodified":1449075324,
+    "wof:lastmodified":1466247407,
     "wof:name":"Brink's Controle Securite",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.395638,43.546051,1.395638,43.546051],
+  "bbox": [
+    1.395638,
+    43.546051,
+    1.395638,
+    43.546051
+],
   "geometry": {"coordinates":[1.395638,43.546051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136309085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32515,48.832199,2.32515,48.832199",
     "geom:latitude":48.832199,
     "geom:longitude":2.32515,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100 blvd du Montparnasse; Paris; 75014",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873939,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136309085,
-    "wof:lastmodified":1449075189,
+    "wof:lastmodified":1466247159,
     "wof:name":"Ui Banque",
     "wof:parent_id":85873939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32515,48.832199,2.32515,48.832199],
+  "bbox": [
+    2.32515,
+    48.832199,
+    2.32515,
+    48.832199
+],
   "geometry": {"coordinates":[2.32515,48.832199],"type":"Point"}
 }

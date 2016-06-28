@@ -2,13 +2,14 @@
   "id": 136274509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.71425,48.578671,7.71425,48.578671",
     "geom:latitude":48.578671,
     "geom:longitude":7.71425,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Jacob Meyer Les Cedres",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274509,
-    "wof:lastmodified":1449075079,
+    "wof:lastmodified":1466246029,
     "wof:name":"Adp Gsi",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.71425,48.578671,7.71425,48.578671],
+  "bbox": [
+    7.71425,
+    48.578671,
+    7.71425,
+    48.578671
+],
   "geometry": {"coordinates":[7.71425,48.578671],"type":"Point"}
 }

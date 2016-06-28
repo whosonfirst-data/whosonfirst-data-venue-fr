@@ -2,13 +2,14 @@
   "id": 152103761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.267976,48.807022,2.267976,48.807022",
     "geom:latitude":48.807022,
     "geom:longitude":2.267976,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Avenue Jean Jaures 92140 Clamart",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152103761,
-    "wof:lastmodified":1449047189,
+    "wof:lastmodified":1466248881,
     "wof:name":"Dist Assistance Technique Ascenseurs Data France",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.267976,48.807022,2.267976,48.807022],
+  "bbox": [
+    2.267976,
+    48.807022,
+    2.267976,
+    48.807022
+],
   "geometry": {"coordinates":[2.267976,48.807022],"type":"Point"}
 }

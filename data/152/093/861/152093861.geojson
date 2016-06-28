@@ -2,13 +2,14 @@
   "id": 152093861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.443708,48.854565,2.443708,48.854565",
     "geom:latitude":48.854565,
     "geom:longitude":2.443708,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Rue Colmet L\u00e9pinay 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152093861,
-    "wof:lastmodified":1449044299,
+    "wof:lastmodified":1466248334,
     "wof:name":"Ets Prova",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.443708,48.854565,2.443708,48.854565],
+  "bbox": [
+    2.443708,
+    48.854565,
+    2.443708,
+    48.854565
+],
   "geometry": {"coordinates":[2.443708,48.854565],"type":"Point"}
 }

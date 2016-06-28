@@ -2,13 +2,14 @@
   "id": 152058363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.286252,48.909412,2.286252,48.909412",
     "geom:latitude":48.909412,
     "geom:longitude":2.286252,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Rue Galli\u00e8ni 92600 Asni\u00e8res Sur Seine",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152058363,
-    "wof:lastmodified":1449044984,
+    "wof:lastmodified":1466246700,
     "wof:name":"Plaisance Pharm",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.286252,48.909412,2.286252,48.909412],
+  "bbox": [
+    2.286252,
+    48.909412,
+    2.286252,
+    48.909412
+],
   "geometry": {"coordinates":[2.286252,48.909412],"type":"Point"}
 }

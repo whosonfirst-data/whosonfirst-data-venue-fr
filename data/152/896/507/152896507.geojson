@@ -2,13 +2,14 @@
   "id": 152896507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341022,48.841557,2.341022,48.841557",
     "geom:latitude":48.841557,
     "geom:longitude":2.341022,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"286 rue Saint-Jacques 75005 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873823,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152896507,
-    "wof:lastmodified":1449045995,
+    "wof:lastmodified":1466252099,
     "wof:name":"Orga System S.a.",
     "wof:parent_id":85873823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341022,48.841557,2.341022,48.841557],
+  "bbox": [
+    2.341022,
+    48.841557,
+    2.341022,
+    48.841557
+],
   "geometry": {"coordinates":[2.341022,48.841557],"type":"Point"}
 }

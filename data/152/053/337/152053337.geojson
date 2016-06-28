@@ -2,13 +2,14 @@
   "id": 152053337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.301799,48.871761,2.301799,48.871761",
     "geom:latitude":48.871761,
     "geom:longitude":2.301799,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"102",
     "sg:city":"des Champs Elys\u00e9es; Paris; 75008",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152053337,
-    "wof:lastmodified":1449045174,
+    "wof:lastmodified":1466246122,
     "wof:name":"Chambre De Commerce Franco-russe",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.301799,48.871761,2.301799,48.871761],
+  "bbox": [
+    2.301799,
+    48.871761,
+    2.301799,
+    48.871761
+],
   "geometry": {"coordinates":[2.301799,48.871761],"type":"Point"}
 }

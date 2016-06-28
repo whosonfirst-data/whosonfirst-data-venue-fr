@@ -2,13 +2,14 @@
   "id": 136281369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.617532,47.225578,-1.617532,47.225578",
     "geom:latitude":47.225578,
     "geom:longitude":-1.617532,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Michael Faraday Immeuble Atalante 44812 St Herblain",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136281369,
-    "wof:lastmodified":1449076058,
+    "wof:lastmodified":1466245527,
     "wof:name":"Jcd Entreprise",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.617532,47.225578,-1.617532,47.225578],
+  "bbox": [
+    -1.617532,
+    47.225578,
+    -1.617532,
+    47.225578
+],
   "geometry": {"coordinates":[-1.617532,47.225578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168896395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.223674,48.858948,2.223674,48.858948",
     "geom:latitude":48.858948,
     "geom:longitude":2.223674,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"78, Quai Marcel Dassault, 92210 Saint Cloud",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873969,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168896395,
-    "wof:lastmodified":1449028042,
+    "wof:lastmodified":1466247576,
     "wof:name":"Dassault Aviation S.a.",
     "wof:parent_id":85873969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.223674,48.858948,2.223674,48.858948],
+  "bbox": [
+    2.223674,
+    48.858948,
+    2.223674,
+    48.858948
+],
   "geometry": {"coordinates":[2.223674,48.858948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152183183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.012093,32.172657,-90.012093,32.172657",
     "geom:latitude":32.172657,
     "geom:longitude":-90.012093,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Du Parc 91220 Le Pl\u00e9ssis Pat\u00e9",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853479,
+        85688579,
         85633793,
         85969955,
         102084869,
-        85688579
+        85853479
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152183183,
-    "wof:lastmodified":1449046785,
+    "wof:lastmodified":1466249941,
     "wof:name":"Realisation Etude Circuit Cable Electronique Cmsbga",
     "wof:parent_id":85853479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.012093,32.172657,-90.012093,32.172657],
-  "geometry": {"coordinates":[-90.012093,32.172657],"type":"Point"}
+  "bbox": [
+    -90.012093,
+    32.172657,
+    -90.012093,
+    32.172657
+],
+  "geometry": {"coordinates":[-90.01209299999999,32.172657],"type":"Point"}
 }

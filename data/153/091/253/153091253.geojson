@@ -2,13 +2,14 @@
   "id": 153091253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.529526,40.552624,-75.529526,40.552624",
     "geom:latitude":40.552624,
     "geom:longitude":-75.529526,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Laugerette 71410 Sanvign\u00e9s les Mines",
     "sg:city":"Sanvignes-les-Mines",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834541,
+        85688481,
         85633793,
         101719979,
         102081327,
-        85688481
+        85834541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153091253,
-    "wof:lastmodified":1449040375,
+    "wof:lastmodified":1466247610,
     "wof:name":"B.s.i. S.a.r.l. - Bourgogne Services Industries",
     "wof:parent_id":85834541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.529526,40.552624,-75.529526,40.552624],
+  "bbox": [
+    -75.529526,
+    40.552624,
+    -75.529526,
+    40.552624
+],
   "geometry": {"coordinates":[-75.529526,40.552624],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153082263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297367,48.869511,2.297367,48.869511",
     "geom:latitude":48.869511,
     "geom:longitude":2.297367,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Rue Kepler, 75016 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153082263,
-    "wof:lastmodified":1449040362,
+    "wof:lastmodified":1466247310,
     "wof:name":"Aubay S.a.",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297367,48.869511,2.297367,48.869511],
+  "bbox": [
+    2.297367,
+    48.869511,
+    2.297367,
+    48.869511
+],
   "geometry": {"coordinates":[2.297367,48.869511],"type":"Point"}
 }

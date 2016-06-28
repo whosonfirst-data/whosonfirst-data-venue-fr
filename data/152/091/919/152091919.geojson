@@ -2,13 +2,14 @@
   "id": 152091919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.5685,48.836853,2.5685,48.836853",
     "geom:latitude":48.836853,
     "geom:longitude":2.5685,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 All Du Closeau 93160 Noisy Le Grand",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152091919,
-    "wof:lastmodified":1449044770,
+    "wof:lastmodified":1466248198,
     "wof:name":"Us Refrigeration Controls Sa",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.5685,48.836853,2.5685,48.836853],
+  "bbox": [
+    2.5685,
+    48.836853,
+    2.5685,
+    48.836853
+],
   "geometry": {"coordinates":[2.5685,48.836853],"type":"Point"}
 }

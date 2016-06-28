@@ -2,13 +2,14 @@
   "id": 152941505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.300121,48.874409,2.300121,48.874409",
     "geom:latitude":48.874409,
     "geom:longitude":2.300121,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24",
     "sg:city":"de Friedland; Paris; 75008",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152941505,
-    "wof:lastmodified":1449047059,
+    "wof:lastmodified":1466252374,
     "wof:name":"Audika, S.a.",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.300121,48.874409,2.300121,48.874409],
+  "bbox": [
+    2.300121,
+    48.874409,
+    2.300121,
+    48.874409
+],
   "geometry": {"coordinates":[2.300121,48.874409],"type":"Point"}
 }

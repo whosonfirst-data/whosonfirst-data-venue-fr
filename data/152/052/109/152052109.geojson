@@ -2,13 +2,14 @@
   "id": 152052109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325869,48.871632,2.325869,48.871632",
     "geom:latitude":48.871632,
     "geom:longitude":2.325869,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Tronchet 75008 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152052109,
-    "wof:lastmodified":1449046412,
+    "wof:lastmodified":1466246012,
     "wof:name":"La Carpe Sa",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325869,48.871632,2.325869,48.871632],
+  "bbox": [
+    2.325869,
+    48.871632,
+    2.325869,
+    48.871632
+],
   "geometry": {"coordinates":[2.325869,48.871632],"type":"Point"}
 }

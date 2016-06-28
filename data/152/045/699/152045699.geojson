@@ -2,13 +2,14 @@
   "id": 152045699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350881,48.87899,2.350881,48.87899",
     "geom:latitude":48.87899,
     "geom:longitude":2.350881,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue De Rocroy 75010 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873885,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045699,
-    "wof:lastmodified":1449048379,
+    "wof:lastmodified":1466245558,
     "wof:name":"Ecole Paroissiale St Vincent De Paul",
     "wof:parent_id":85873885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350881,48.87899,2.350881,48.87899],
+  "bbox": [
+    2.350881,
+    48.87899,
+    2.350881,
+    48.87899
+],
   "geometry": {"coordinates":[2.350881,48.87899],"type":"Point"}
 }

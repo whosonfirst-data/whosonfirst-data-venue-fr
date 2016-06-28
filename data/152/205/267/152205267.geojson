@@ -2,13 +2,14 @@
   "id": 152205267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.439894,48.881863,2.439894,48.881863",
     "geom:latitude":48.881863,
     "geom:longitude":2.439894,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Rue Jean Jacques Rousseau 93230 Romainville",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152205267,
-    "wof:lastmodified":1449047097,
+    "wof:lastmodified":1466249727,
     "wof:name":"Rohart Sa",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.439894,48.881863,2.439894,48.881863],
+  "bbox": [
+    2.439894,
+    48.881863,
+    2.439894,
+    48.881863
+],
   "geometry": {"coordinates":[2.439894,48.881863],"type":"Point"}
 }

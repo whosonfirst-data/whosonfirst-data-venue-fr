@@ -2,13 +2,14 @@
   "id": 152340391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.226913,34.03751,-117.226913,34.03751",
     "geom:latitude":34.03751,
     "geom:longitude":-117.226913,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"44, Av. de la Division Leclerc, 92318 S\u00e8vres C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836545,
+        85688637,
         85633793,
         85923941,
         102085395,
-        85688637
+        85836545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152340391,
-    "wof:lastmodified":1449047863,
+    "wof:lastmodified":1466250227,
     "wof:name":"C.t.i.f. - Centre Technique Des Industries De La Fonderie",
     "wof:parent_id":85836545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.226913,34.03751,-117.226913,34.03751],
+  "bbox": [
+    -117.226913,
+    34.03751,
+    -117.226913,
+    34.03751
+],
   "geometry": {"coordinates":[-117.226913,34.03751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152216377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.636307,47.200291,-1.636307,47.200291",
     "geom:latitude":47.200291,
     "geom:longitude":-1.636307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 route du Plessis Bouchet 44800 St Herblain",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794541,
+        85683233,
         85633147,
         101753357,
         102071689,
-        85683233
+        85794541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152216377,
-    "wof:lastmodified":1449048393,
+    "wof:lastmodified":1466249774,
     "wof:name":"Europeenne Des Metaux Sa",
     "wof:parent_id":85794541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.636307,47.200291,-1.636307,47.200291],
+  "bbox": [
+    -1.636307,
+    47.200291,
+    -1.636307,
+    47.200291
+],
   "geometry": {"coordinates":[-1.636307,47.200291],"type":"Point"}
 }

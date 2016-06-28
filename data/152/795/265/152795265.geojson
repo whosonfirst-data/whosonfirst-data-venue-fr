@@ -2,13 +2,14 @@
   "id": 152795265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.45529,48.868301,2.45529,48.868301",
     "geom:latitude":48.868301,
     "geom:longitude":2.45529,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Rue de la Ferme, 93102 Montreuil C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152795265,
-    "wof:lastmodified":1449047035,
+    "wof:lastmodified":1466251861,
     "wof:name":"Spring Technologies S.a.",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.45529,48.868301,2.45529,48.868301],
+  "bbox": [
+    2.45529,
+    48.868301,
+    2.45529,
+    48.868301
+],
   "geometry": {"coordinates":[2.45529,48.868301],"type":"Point"}
 }

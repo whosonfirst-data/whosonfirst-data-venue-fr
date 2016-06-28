@@ -2,13 +2,14 @@
   "id": 168986671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.6181,47.171268,-1.6181,47.171268",
     "geom:latitude":47.171268,
     "geom:longitude":-1.6181,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Nantes A\u00e9roport",
     "sg:city":"Bouguenais",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897687,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168986671,
-    "wof:lastmodified":1449028422,
+    "wof:lastmodified":1466248662,
     "wof:name":"Heliocean H\u00e9licopt\u00e8res A\u00e9rosyst\u00e8mes S.a.",
     "wof:parent_id":85897687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.6181,47.171268,-1.6181,47.171268],
+  "bbox": [
+    -1.6181,
+    47.171268,
+    -1.6181,
+    47.171268
+],
   "geometry": {"coordinates":[-1.6181,47.171268],"type":"Point"}
 }

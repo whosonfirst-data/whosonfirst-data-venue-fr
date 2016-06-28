@@ -2,13 +2,14 @@
   "id": 152115191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.2935,48.862446,2.2935,48.862446",
     "geom:latitude":48.862446,
     "geom:longitude":2.2935,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Av De New York 75116 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873841,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152115191,
-    "wof:lastmodified":1449044254,
+    "wof:lastmodified":1466249180,
     "wof:name":"Ste Jean Charles Automobiles Sa",
     "wof:parent_id":85873841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.2935,48.862446,2.2935,48.862446],
+  "bbox": [
+    2.2935,
+    48.862446,
+    2.2935,
+    48.862446
+],
   "geometry": {"coordinates":[2.2935,48.862446],"type":"Point"}
 }

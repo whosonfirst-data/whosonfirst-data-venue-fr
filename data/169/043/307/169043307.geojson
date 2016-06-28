@@ -2,13 +2,14 @@
   "id": 169043307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.530473,44.858353,-0.530473,44.858353",
     "geom:latitude":44.858353,
     "geom:longitude":-0.530473,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI de Lissandre",
     "sg:city":"Cenon",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169043307,
-    "wof:lastmodified":1449035132,
+    "wof:lastmodified":1466245747,
     "wof:name":"M.b.c. S.a.r.l. - Manufacture Bordelaise De Caoutchouc",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.530473,44.858353,-0.530473,44.858353],
+  "bbox": [
+    -0.530473,
+    44.858353,
+    -0.530473,
+    44.858353
+],
   "geometry": {"coordinates":[-0.530473,44.858353],"type":"Point"}
 }

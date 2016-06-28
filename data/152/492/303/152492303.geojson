@@ -2,13 +2,14 @@
   "id": 152492303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.614704,47.174248,-1.614704,47.174248",
     "geom:latitude":47.174248,
     "geom:longitude":-1.614704,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue Gutemberg - Parc de la Bouvre, 44340 Bouguenais",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897687,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152492303,
-    "wof:lastmodified":1449044281,
+    "wof:lastmodified":1466250955,
     "wof:name":"G.e.p. Atlantic S.n.c.",
     "wof:parent_id":85897687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.614704,47.174248,-1.614704,47.174248],
+  "bbox": [
+    -1.614704,
+    47.174248,
+    -1.614704,
+    47.174248
+],
   "geometry": {"coordinates":[-1.614704,47.174248],"type":"Point"}
 }

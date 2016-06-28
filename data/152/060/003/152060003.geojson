@@ -2,13 +2,14 @@
   "id": 152060003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.344638,48.866879,2.344638,48.866879",
     "geom:latitude":48.866879,
     "geom:longitude":2.344638,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Rue D Aboukir 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060003,
-    "wof:lastmodified":1449048501,
+    "wof:lastmodified":1466246727,
     "wof:name":"Chabaud De Larue",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.344638,48.866879,2.344638,48.866879],
+  "bbox": [
+    2.344638,
+    48.866879,
+    2.344638,
+    48.866879
+],
   "geometry": {"coordinates":[2.344638,48.866879],"type":"Point"}
 }

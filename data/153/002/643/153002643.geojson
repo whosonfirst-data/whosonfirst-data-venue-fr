@@ -2,13 +2,14 @@
   "id": 153002643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.286295,48.859764,2.286295,48.859764",
     "geom:latitude":48.859764,
     "geom:longitude":2.286295,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 avenue de Camo\u00ebns 75116 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873979,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153002643,
-    "wof:lastmodified":1449040741,
+    "wof:lastmodified":1466245961,
     "wof:name":"Euroda Aciers Sa",
     "wof:parent_id":85873979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.286295,48.859764,2.286295,48.859764],
+  "bbox": [
+    2.286295,
+    48.859764,
+    2.286295,
+    48.859764
+],
   "geometry": {"coordinates":[2.286295,48.859764],"type":"Point"}
 }

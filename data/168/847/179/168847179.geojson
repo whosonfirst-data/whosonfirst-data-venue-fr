@@ -2,13 +2,14 @@
   "id": 168847179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.323432,48.884144,2.323432,48.884144",
     "geom:latitude":48.884144,
     "geom:longitude":2.323432,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Rue des Dames, 75017 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497,
-        85873849,
-        102068357
+        85873989,
+        102068357,
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":168847179,
-    "wof:lastmodified":1449028038,
+    "wof:lastmodified":1466247156,
     "wof:name":"C.g.e. Distribution S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.323432,48.884144,2.323432,48.884144],
+  "bbox": [
+    2.323432,
+    48.884144,
+    2.323432,
+    48.884144
+],
   "geometry": {"coordinates":[2.323432,48.884144],"type":"Point"}
 }

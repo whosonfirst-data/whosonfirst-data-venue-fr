@@ -2,13 +2,14 @@
   "id": 152225083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.434188,48.844864,2.434188,48.844864",
     "geom:latitude":48.844864,
     "geom:longitude":2.434188,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Avenue De Paris 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152225083,
-    "wof:lastmodified":1449045746,
+    "wof:lastmodified":1466249809,
     "wof:name":"Sabrie Sa",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.434188,48.844864,2.434188,48.844864],
+  "bbox": [
+    2.434188,
+    48.844864,
+    2.434188,
+    48.844864
+],
   "geometry": {"coordinates":[2.434188,48.844864],"type":"Point"}
 }

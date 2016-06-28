@@ -2,13 +2,14 @@
   "id": 152116999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.309851,48.819347,2.309851,48.819347",
     "geom:latitude":48.819347,
     "geom:longitude":2.309851,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"66-68 Av Pierre Brossolette 92247 Malakoff Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152116999,
-    "wof:lastmodified":1449044982,
+    "wof:lastmodified":1466249363,
     "wof:name":"Thal\u00c8s Information Systems",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.309851,48.819347,2.309851,48.819347],
+  "bbox": [
+    2.309851,
+    48.819347,
+    2.309851,
+    48.819347
+],
   "geometry": {"coordinates":[2.309851,48.819347],"type":"Point"}
 }

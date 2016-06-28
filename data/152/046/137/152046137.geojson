@@ -2,13 +2,14 @@
   "id": 152046137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.280485,48.881939,2.280485,48.881939",
     "geom:latitude":48.881939,
     "geom:longitude":2.280485,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Av Du Roule 92200 Neuilly Sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046137,
-    "wof:lastmodified":1449046865,
+    "wof:lastmodified":1466245531,
     "wof:name":"Institution Notre Dame De Ste Croix",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.280485,48.881939,2.280485,48.881939],
+  "bbox": [
+    2.280485,
+    48.881939,
+    2.280485,
+    48.881939
+],
   "geometry": {"coordinates":[2.280485,48.881939],"type":"Point"}
 }

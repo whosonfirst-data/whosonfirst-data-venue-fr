@@ -2,13 +2,14 @@
   "id": 152585431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.288512,48.879234,2.288512,48.879234",
     "geom:latitude":48.879234,
     "geom:longitude":2.288512,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Rue Labie, 75838 Paris C\u00e9dex 17",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152585431,
-    "wof:lastmodified":1449047368,
+    "wof:lastmodified":1466251108,
     "wof:name":"Les Editions De La Rhf S.a.",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.288512,48.879234,2.288512,48.879234],
+  "bbox": [
+    2.288512,
+    48.879234,
+    2.288512,
+    48.879234
+],
   "geometry": {"coordinates":[2.288512,48.879234],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152129895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.57637,34.09943,-117.57637,34.09943",
     "geom:latitude":34.09943,
     "geom:longitude":-117.57637,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue du Bicentenaire 91730 Prepigny",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837541,
+        85688637,
         85633793,
         85923937,
         102085395,
-        85688637
+        85837541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152129895,
-    "wof:lastmodified":1449048030,
+    "wof:lastmodified":1466249457,
     "wof:name":"Martek Power Sa",
     "wof:parent_id":85837541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.57637,34.09943,-117.57637,34.09943],
+  "bbox": [
+    -117.57637,
+    34.09943,
+    -117.57637,
+    34.09943
+],
   "geometry": {"coordinates":[-117.57637,34.09943],"type":"Point"}
 }

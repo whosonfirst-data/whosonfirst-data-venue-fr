@@ -2,13 +2,14 @@
   "id": 168857733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.230413,48.835957,2.230413,48.835957",
     "geom:latitude":48.835957,
     "geom:longitude":2.230413,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 ter, Rue de Bellevue, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,14 +18,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157,
-        85794445,
+        85873971,
         101751135,
-        102070801
+        102070801,
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":168857733,
-    "wof:lastmodified":1449028268,
+    "wof:lastmodified":1466245627,
     "wof:name":"Calendra S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.230413,48.835957,2.230413,48.835957],
+  "bbox": [
+    2.230413,
+    48.835957,
+    2.230413,
+    48.835957
+],
   "geometry": {"coordinates":[2.230413,48.835957],"type":"Point"}
 }

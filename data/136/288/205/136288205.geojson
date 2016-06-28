@@ -2,13 +2,14 @@
   "id": 136288205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06344,50.63718,3.06344,50.63718",
     "geom:latitude":50.63718,
     "geom:longitude":3.06344,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Min De Lille 59465 Lomme",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136288205,
-    "wof:lastmodified":1449075041,
+    "wof:lastmodified":1466245971,
     "wof:name":"Mora Freres Sa",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06344,50.63718,3.06344,50.63718],
+  "bbox": [
+    3.06344,
+    50.63718,
+    3.06344,
+    50.63718
+],
   "geometry": {"coordinates":[3.06344,50.63718],"type":"Point"}
 }

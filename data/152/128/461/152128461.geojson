@@ -2,13 +2,14 @@
   "id": 152128461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.560775,47.217377,-1.560775,47.217377",
     "geom:latitude":47.217377,
     "geom:longitude":-1.560775,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Rue Mercoeur 44000 Nantes",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152128461,
-    "wof:lastmodified":1449046117,
+    "wof:lastmodified":1466249424,
     "wof:name":"Atlantique Pesage",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.560775,47.217377,-1.560775,47.217377],
+  "bbox": [
+    -1.560775,
+    47.217377,
+    -1.560775,
+    47.217377
+],
   "geometry": {"coordinates":[-1.560775,47.217377],"type":"Point"}
 }

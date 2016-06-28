@@ -2,13 +2,14 @@
   "id": 152264885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.592066,48.835106,2.592066,48.835106",
     "geom:latitude":48.835106,
     "geom:longitude":2.592066,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Rue de Galil\u00e9e - Parc de la Haute Maison - B\u00e2t. B, 77420 Champs sur Marne",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152264885,
-    "wof:lastmodified":1449047299,
+    "wof:lastmodified":1466250090,
     "wof:name":"Alphasys S.a.s.",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.592066,48.835106,2.592066,48.835106],
+  "bbox": [
+    2.592066,
+    48.835106,
+    2.592066,
+    48.835106
+],
   "geometry": {"coordinates":[2.592066,48.835106],"type":"Point"}
 }

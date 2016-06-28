@@ -2,13 +2,14 @@
   "id": 152367269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.61632,44.854031,-0.61632,44.854031",
     "geom:latitude":44.854031,
     "geom:longitude":-0.61632,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 223, 33042 Bordeaux C\u00e9dex^^8, Rue Corneille, 33200 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152367269,
-    "wof:lastmodified":1449047031,
+    "wof:lastmodified":1466250403,
     "wof:name":"Citram Aquitaine S.a.",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.61632,44.854031,-0.61632,44.854031],
+  "bbox": [
+    -0.61632,
+    44.854031,
+    -0.61632,
+    44.854031
+],
   "geometry": {"coordinates":[-0.61632,44.854031],"type":"Point"}
 }

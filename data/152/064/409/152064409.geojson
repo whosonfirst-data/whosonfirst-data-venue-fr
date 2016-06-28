@@ -2,13 +2,14 @@
   "id": 152064409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.284548,48.871788,2.284548,48.871788",
     "geom:latitude":48.871788,
     "geom:longitude":2.284548,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Av Raymond Poincarr\u00e9 75116 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152064409,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1466247162,
     "wof:name":"Glem",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.284548,48.871788,2.284548,48.871788],
+  "bbox": [
+    2.284548,
+    48.871788,
+    2.284548,
+    48.871788
+],
   "geometry": {"coordinates":[2.284548,48.871788],"type":"Point"}
 }

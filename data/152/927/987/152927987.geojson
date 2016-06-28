@@ -2,13 +2,14 @@
   "id": 152927987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.482645,48.802311,2.482645,48.802311",
     "geom:latitude":48.802311,
     "geom:longitude":2.482645,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Avenue Diderot 94100 St Maur Des Fosses",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152927987,
-    "wof:lastmodified":1449048438,
+    "wof:lastmodified":1466252361,
     "wof:name":"Indimex Sarl",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.482645,48.802311,2.482645,48.802311],
+  "bbox": [
+    2.482645,
+    48.802311,
+    2.482645,
+    48.802311
+],
   "geometry": {"coordinates":[2.482645,48.802311],"type":"Point"}
 }

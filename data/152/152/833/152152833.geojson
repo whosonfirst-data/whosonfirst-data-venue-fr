@@ -2,13 +2,14 @@
   "id": 152152833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.43624,48.846329,2.43624,48.846329",
     "geom:latitude":48.846329,
     "geom:longitude":2.43624,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Saulpic 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152152833,
-    "wof:lastmodified":1449047851,
+    "wof:lastmodified":1466249610,
     "wof:name":"Reprotechnique",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.43624,48.846329,2.43624,48.846329],
+  "bbox": [
+    2.43624,
+    48.846329,
+    2.43624,
+    48.846329
+],
   "geometry": {"coordinates":[2.43624,48.846329],"type":"Point"}
 }

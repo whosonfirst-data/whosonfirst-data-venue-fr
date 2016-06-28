@@ -2,13 +2,14 @@
   "id": 152050733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47981,47.293701,-1.47981,47.293701",
     "geom:latitude":47.293701,
     "geom:longitude":-1.47981,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"chemin des Artisans 44470 Carquefou",
     "sg:classifiers":[
         {
@@ -26,10 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152050733,
-    "wof:lastmodified":1449046848,
+    "wof:lastmodified":1466245956,
     "wof:name":"Devineau Sas",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.47981,47.293701,-1.47981,47.293701],
+  "bbox": [
+    -1.47981,
+    47.293701,
+    -1.47981,
+    47.293701
+],
   "geometry": {"coordinates":[-1.47981,47.293701],"type":"Point"}
 }

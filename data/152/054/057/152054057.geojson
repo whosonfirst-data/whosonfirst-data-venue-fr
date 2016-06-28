@@ -2,13 +2,14 @@
   "id": 152054057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.523605,44.828487,-0.523605,44.828487",
     "geom:latitude":44.828487,
     "geom:longitude":-0.523605,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Avenue Gaston Cabannes 33270 Floirac",
     "sg:city":"Floirac",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152054057,
-    "wof:lastmodified":1449046481,
+    "wof:lastmodified":1466246148,
     "wof:name":"Air Liquide Sa",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.523605,44.828487,-0.523605,44.828487],
+  "bbox": [
+    -0.523605,
+    44.828487,
+    -0.523605,
+    44.828487
+],
   "geometry": {"coordinates":[-0.523605,44.828487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136306115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.575216,44.843838,-0.575216,44.843838",
     "geom:latitude":44.843838,
     "geom:longitude":-0.575216,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 all\u00e9e de Tourny; Bordeaux; 33003",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136306115,
-    "wof:lastmodified":1449076204,
+    "wof:lastmodified":1466246924,
     "wof:name":"Natexis Groupe",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.575216,44.843838,-0.575216,44.843838],
+  "bbox": [
+    -0.575216,
+    44.843838,
+    -0.575216,
+    44.843838
+],
   "geometry": {"coordinates":[-0.575216,44.843838],"type":"Point"}
 }

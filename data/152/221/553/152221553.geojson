@@ -2,13 +2,14 @@
   "id": 152221553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.401394,48.833282,2.401394,48.833282",
     "geom:latitude":48.833282,
     "geom:longitude":2.401394,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Boulevard Poniatowski 75012 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152221553,
-    "wof:lastmodified":1449046343,
+    "wof:lastmodified":1466249800,
     "wof:name":"Garage Poniatowski Claude Decaen Sarl",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.401394,48.833282,2.401394,48.833282],
+  "bbox": [
+    2.401394,
+    48.833282,
+    2.401394,
+    48.833282
+],
   "geometry": {"coordinates":[2.401394,48.833282],"type":"Point"}
 }

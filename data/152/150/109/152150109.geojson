@@ -2,13 +2,14 @@
   "id": 152150109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.924088,42.446602,-84.924088,42.446602",
     "geom:latitude":42.446602,
     "geom:longitude":-84.924088,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Rue De La Bergeresse Zac Aulnaus 30157 Olivet Cedex",
     "sg:city":"Berg",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083005,
-        85633793,
         85688599,
-        85857331
+        85633793,
+        85857331,
+        102083005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152150109,
-    "wof:lastmodified":1449044352,
+    "wof:lastmodified":1466249510,
     "wof:name":"Num Axes Sa",
     "wof:parent_id":85857331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.924088,42.446602,-84.924088,42.446602],
+  "bbox": [
+    -84.924088,
+    42.446602,
+    -84.924088,
+    42.446602
+],
   "geometry": {"coordinates":[-84.924088,42.446602],"type":"Point"}
 }

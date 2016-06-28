@@ -2,13 +2,14 @@
   "id": 152211157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352895,48.86219,2.352895,48.86219",
     "geom:latitude":48.86219,
     "geom:longitude":2.352895,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue Brantome 75003 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152211157,
-    "wof:lastmodified":1449045433,
+    "wof:lastmodified":1466249748,
     "wof:name":"Majuscule Sarl",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352895,48.86219,2.352895,48.86219],
+  "bbox": [
+    2.352895,
+    48.86219,
+    2.352895,
+    48.86219
+],
   "geometry": {"coordinates":[2.352895,48.86219],"type":"Point"}
 }

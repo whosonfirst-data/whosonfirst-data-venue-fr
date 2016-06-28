@@ -2,13 +2,14 @@
   "id": 136312747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30252,48.831085,2.30252,48.831085",
     "geom:latitude":48.831085,
     "geom:longitude":2.30252,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Rue Brancion 75015 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136312747,
-    "wof:lastmodified":1449075581,
+    "wof:lastmodified":1466247485,
     "wof:name":"Max Poilane",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30252,48.831085,2.30252,48.831085],
+  "bbox": [
+    2.30252,
+    48.831085,
+    2.30252,
+    48.831085
+],
   "geometry": {"coordinates":[2.30252,48.831085],"type":"Point"}
 }

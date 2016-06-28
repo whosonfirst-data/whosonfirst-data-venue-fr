@@ -2,13 +2,14 @@
   "id": 136306471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29929,48.872547,2.29929,48.872547",
     "geom:latitude":48.872547,
     "geom:longitude":2.29929,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"138 ave des Champs-Elys\u00e9es; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136306471,
-    "wof:lastmodified":1449076205,
+    "wof:lastmodified":1466246997,
     "wof:name":"Soci\u00e9t\u00e9 Bancaire De Paris",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29929,48.872547,2.29929,48.872547],
+  "bbox": [
+    2.29929,
+    48.872547,
+    2.29929,
+    48.872547
+],
   "geometry": {"coordinates":[2.29929,48.872547],"type":"Point"}
 }

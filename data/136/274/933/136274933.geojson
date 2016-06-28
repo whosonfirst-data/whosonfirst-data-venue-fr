@@ -2,13 +2,14 @@
   "id": 136274933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.312467,48.875038,2.312467,48.875038",
     "geom:latitude":48.875038,
     "geom:longitude":2.312467,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Boulevard Haussmann",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274933,
-    "wof:lastmodified":1449075079,
+    "wof:lastmodified":1466246449,
     "wof:name":"Banque Du Louvre Sa",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.312467,48.875038,2.312467,48.875038],
+  "bbox": [
+    2.312467,
+    48.875038,
+    2.312467,
+    48.875038
+],
   "geometry": {"coordinates":[2.312467,48.875038],"type":"Point"}
 }

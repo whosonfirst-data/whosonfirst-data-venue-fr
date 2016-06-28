@@ -2,13 +2,14 @@
   "id": 168880713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.388313,48.8536,2.388313,48.8536",
     "geom:latitude":48.8536,
     "geom:longitude":2.388313,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue L\u00e9on Frot, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168880713,
-    "wof:lastmodified":1449028595,
+    "wof:lastmodified":1466246758,
     "wof:name":"Communication Et Vm S.a.",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.388313,48.8536,2.388313,48.8536],
+  "bbox": [
+    2.388313,
+    48.8536,
+    2.388313,
+    48.8536
+],
   "geometry": {"coordinates":[2.388313,48.8536],"type":"Point"}
 }

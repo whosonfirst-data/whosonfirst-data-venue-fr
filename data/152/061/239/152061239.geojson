@@ -2,13 +2,14 @@
   "id": 152061239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.419965,48.891335,2.419965,48.891335",
     "geom:latitude":48.891335,
     "geom:longitude":2.419965,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Parmentier 93500 Pantin",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152061239,
-    "wof:lastmodified":1449047633,
+    "wof:lastmodified":1466246839,
     "wof:name":"Kabi",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.419965,48.891335,2.419965,48.891335],
+  "bbox": [
+    2.419965,
+    48.891335,
+    2.419965,
+    48.891335
+],
   "geometry": {"coordinates":[2.419965,48.891335],"type":"Point"}
 }

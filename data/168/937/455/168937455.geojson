@@ -2,13 +2,14 @@
   "id": 168937455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.456263,43.614182,1.456263,43.614182",
     "geom:latitude":43.614182,
     "geom:longitude":1.456263,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Rue de p\u00e9riole, 31500 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794603,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168937455,
-    "wof:lastmodified":1449027921,
+    "wof:lastmodified":1466248028,
     "wof:name":"Etablissements Gontier",
     "wof:parent_id":85794603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.456263,43.614182,1.456263,43.614182],
+  "bbox": [
+    1.456263,
+    43.614182,
+    1.456263,
+    43.614182
+],
   "geometry": {"coordinates":[1.456263,43.614182],"type":"Point"}
 }

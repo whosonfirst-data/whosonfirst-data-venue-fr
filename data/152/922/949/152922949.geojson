@@ -2,13 +2,14 @@
   "id": 152922949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.49783,48.79332,2.49783,48.79332",
     "geom:latitude":48.79332,
     "geom:longitude":2.49783,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Bd De La Marne 94100 St Maur Des Foss\u00e9s",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152922949,
-    "wof:lastmodified":1449044725,
+    "wof:lastmodified":1466252318,
     "wof:name":"Dinaprim - 2h Communication",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.49783,48.79332,2.49783,48.79332],
+  "bbox": [
+    2.49783,
+    48.79332,
+    2.49783,
+    48.79332
+],
   "geometry": {"coordinates":[2.49783,48.79332],"type":"Point"}
 }

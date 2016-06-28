@@ -2,13 +2,14 @@
   "id": 152418261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.40811,48.814205,2.40811,48.814205",
     "geom:latitude":48.814205,
     "geom:longitude":2.40811,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Rue Maurice Gunsbourg, 94851 Ivry sur Seine C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152418261,
-    "wof:lastmodified":1449047917,
+    "wof:lastmodified":1466250514,
     "wof:name":"D\u00e9corama Ateliers S.a.",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.40811,48.814205,2.40811,48.814205],
+  "bbox": [
+    2.40811,
+    48.814205,
+    2.40811,
+    48.814205
+],
   "geometry": {"coordinates":[2.40811,48.814205],"type":"Point"}
 }

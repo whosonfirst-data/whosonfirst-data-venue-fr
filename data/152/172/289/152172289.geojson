@@ -2,13 +2,14 @@
   "id": 152172289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.416119,43.573898,1.416119,43.573898",
     "geom:latitude":43.573898,
     "geom:longitude":1.416119,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue du Limousin 31100 Toulouse",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152172289,
-    "wof:lastmodified":1449046170,
+    "wof:lastmodified":1466249642,
     "wof:name":"L'espace Medical La Maison Du Medecin S.a.r.l.",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.416119,43.573898,1.416119,43.573898],
+  "bbox": [
+    1.416119,
+    43.573898,
+    1.416119,
+    43.573898
+],
   "geometry": {"coordinates":[1.416119,43.573898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168851451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.175447,49.465435,0.175447,49.465435",
     "geom:latitude":49.465435,
     "geom:longitude":0.175447,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte de l'Estuaire - B\u00e2t. Sud",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168851451,
-    "wof:lastmodified":1449028278,
+    "wof:lastmodified":1466245305,
     "wof:name":"C.n.c. S.a. - Compagnie Nouvelle Des Conteneurs",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.175447,49.465435,0.175447,49.465435],
+  "bbox": [
+    0.175447,
+    49.465435,
+    0.175447,
+    49.465435
+],
   "geometry": {"coordinates":[0.175447,49.465435],"type":"Point"}
 }

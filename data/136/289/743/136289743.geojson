@@ -2,13 +2,14 @@
   "id": 136289743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332317,48.835518,2.332317,48.835518",
     "geom:latitude":48.835518,
     "geom:longitude":2.332317,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Bd Raspail 75014 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873945,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136289743,
-    "wof:lastmodified":1449076034,
+    "wof:lastmodified":1466246176,
     "wof:name":"Adp - Aeroport D'orly",
     "wof:parent_id":85873945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332317,48.835518,2.332317,48.835518],
+  "bbox": [
+    2.332317,
+    48.835518,
+    2.332317,
+    48.835518
+],
   "geometry": {"coordinates":[2.332317,48.835518],"type":"Point"}
 }

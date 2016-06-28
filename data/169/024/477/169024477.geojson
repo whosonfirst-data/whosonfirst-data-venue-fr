@@ -2,13 +2,14 @@
   "id": 169024477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.148902,50.64003,3.148902,50.64003",
     "geom:latitude":50.64003,
     "geom:longitude":3.148902,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, All\u00e9e de la Cr\u00e9ativit\u00e9 - Parc des Moulins, 59650 Villeneuve d'Ascq",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord-Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169024477,
-    "wof:lastmodified":1449034261,
+    "wof:lastmodified":1466246808,
     "wof:name":"Lafi S.a.s.",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.148902,50.64003,3.148902,50.64003],
+  "bbox": [
+    3.148902,
+    50.64003,
+    3.148902,
+    50.64003
+],
   "geometry": {"coordinates":[3.148902,50.64003],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152084307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.310541,48.834698,2.310541,48.834698",
     "geom:latitude":48.834698,
     "geom:longitude":2.310541,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue Georges Pitard 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873947,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873947
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152084307,
-    "wof:lastmodified":1449044806,
+    "wof:lastmodified":1466247818,
     "wof:name":"Via Europe Pour Le Commerce International Sa",
     "wof:parent_id":85873947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.310541,48.834698,2.310541,48.834698],
+  "bbox": [
+    2.310541,
+    48.834698,
+    2.310541,
+    48.834698
+],
   "geometry": {"coordinates":[2.310541,48.834698],"type":"Point"}
 }

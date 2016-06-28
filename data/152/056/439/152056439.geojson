@@ -2,13 +2,14 @@
   "id": 152056439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.914657,47.850513,1.914657,47.850513",
     "geom:latitude":47.850513,
     "geom:longitude":1.914657,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Rue De La Juine 45160 Olivet",
     "sg:city":"Olivet",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863273,
+        85683479,
         85633147,
         101750945,
         102072461,
-        85683479
+        85863273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152056439,
-    "wof:lastmodified":1449045627,
+    "wof:lastmodified":1466246547,
     "wof:name":"Generale Des Eaux",
     "wof:parent_id":85863273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.914657,47.850513,1.914657,47.850513],
+  "bbox": [
+    1.914657,
+    47.850513,
+    1.914657,
+    47.850513
+],
   "geometry": {"coordinates":[1.914657,47.850513],"type":"Point"}
 }

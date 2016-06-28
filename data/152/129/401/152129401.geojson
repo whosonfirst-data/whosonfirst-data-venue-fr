@@ -2,13 +2,14 @@
   "id": 152129401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.463597,47.187096,-1.463597,47.187096",
     "geom:latitude":47.187096,
     "geom:longitude":-1.463597,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29",
     "sg:city":"de l'Atlantique 44115 Basse Goulaine",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152129401,
-    "wof:lastmodified":1449048033,
+    "wof:lastmodified":1466249415,
     "wof:name":"Rio Instruments",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.463597,47.187096,-1.463597,47.187096],
+  "bbox": [
+    -1.463597,
+    47.187096,
+    -1.463597,
+    47.187096
+],
   "geometry": {"coordinates":[-1.463597,47.187096],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152369905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.539872,47.214668,-1.539872,47.214668",
     "geom:latitude":47.214668,
     "geom:longitude":-1.539872,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Rue Cornulier, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152369905,
-    "wof:lastmodified":1449048683,
+    "wof:lastmodified":1466250416,
     "wof:name":"Cobatri S.a.",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.539872,47.214668,-1.539872,47.214668],
+  "bbox": [
+    -1.539872,
+    47.214668,
+    -1.539872,
+    47.214668
+],
   "geometry": {"coordinates":[-1.539872,47.214668],"type":"Point"}
 }

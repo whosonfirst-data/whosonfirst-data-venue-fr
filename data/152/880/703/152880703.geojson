@@ -2,13 +2,14 @@
   "id": 152880703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.265893,48.723888,2.265893,48.723888",
     "geom:latitude":48.723888,
     "geom:longitude":2.265893,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"129 rue de Paris 91300 MASSY",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152880703,
-    "wof:lastmodified":1449048934,
+    "wof:lastmodified":1466252168,
     "wof:name":"Multiroir-controlec Sa",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.265893,48.723888,2.265893,48.723888],
+  "bbox": [
+    2.265893,
+    48.723888,
+    2.265893,
+    48.723888
+],
   "geometry": {"coordinates":[2.265893,48.723888],"type":"Point"}
 }

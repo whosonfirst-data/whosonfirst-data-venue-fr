@@ -2,13 +2,14 @@
   "id": 169247939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369803,48.850206,2.369803,48.850206",
     "geom:latitude":48.850206,
     "geom:longitude":2.369803,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 rue biscornet",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.2minutes.fr",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169247939,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249540,
     "wof:name":"2 Minutes",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369803,48.850206,2.369803,48.850206],
+  "bbox": [
+    2.369803,
+    48.850206,
+    2.369803,
+    48.850206
+],
   "geometry": {"coordinates":[2.369803,48.850206],"type":"Point"}
 }

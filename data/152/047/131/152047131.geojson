@@ -2,13 +2,14 @@
   "id": 152047131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29553,48.850079,2.29553,48.850079",
     "geom:latitude":48.850079,
     "geom:longitude":2.29553,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Boulevard De Grenelle 75015 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873953,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152047131,
-    "wof:lastmodified":1449047279,
+    "wof:lastmodified":1466245607,
     "wof:name":"Institut Parisien Langue Et Civilisation Francaises",
     "wof:parent_id":85873953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29553,48.850079,2.29553,48.850079],
+  "bbox": [
+    2.29553,
+    48.850079,
+    2.29553,
+    48.850079
+],
   "geometry": {"coordinates":[2.29553,48.850079],"type":"Point"}
 }

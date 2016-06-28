@@ -2,13 +2,14 @@
   "id": 152104877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.658478,30.324221,-81.658478,30.324221",
     "geom:latitude":30.324221,
     "geom:longitude":-81.658478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13-21 Quai Des Gr\u00e9sillons 32230 Gennevilliers",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866891,
+        85688651,
         85633793,
         85932547,
         102084753,
-        85688651
+        85866891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152104877,
-    "wof:lastmodified":1449046210,
+    "wof:lastmodified":1466248745,
     "wof:name":"Spanset Sarl",
     "wof:parent_id":85866891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.658478,30.324221,-81.658478,30.324221],
+  "bbox": [
+    -81.658478,
+    30.324221,
+    -81.658478,
+    30.324221
+],
   "geometry": {"coordinates":[-81.658478,30.324221],"type":"Point"}
 }

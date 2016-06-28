@@ -2,13 +2,14 @@
   "id": 153036179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30322,48.871075,2.30322,48.871075",
     "geom:latitude":48.871075,
     "geom:longitude":2.30322,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Avenue des Champs-Elys\u00c3\u0192\u00c6\u2019\u00c3\u2020\u00e2\u20ac\u2122\u00c3\u0192\u00e2\u20ac\u0161\u00c3\u201a\u00c2\u00a9es; Paris; 75008",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153036179,
-    "wof:lastmodified":1449040436,
+    "wof:lastmodified":1466245242,
     "wof:name":"Warwick International Hotels",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30322,48.871075,2.30322,48.871075],
+  "bbox": [
+    2.30322,
+    48.871075,
+    2.30322,
+    48.871075
+],
   "geometry": {"coordinates":[2.30322,48.871075],"type":"Point"}
 }

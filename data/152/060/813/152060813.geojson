@@ -2,13 +2,14 @@
   "id": 152060813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364382,48.859341,2.364382,48.859341",
     "geom:latitude":48.859341,
     "geom:longitude":2.364382,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Rue De Turenne 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060813,
-    "wof:lastmodified":1449048494,
+    "wof:lastmodified":1466246896,
     "wof:name":"Fergani",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364382,48.859341,2.364382,48.859341],
+  "bbox": [
+    2.364382,
+    48.859341,
+    2.364382,
+    48.859341
+],
   "geometry": {"coordinates":[2.364382,48.859341],"type":"Point"}
 }

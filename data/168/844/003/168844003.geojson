@@ -2,13 +2,14 @@
   "id": 168844003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.18115,49.532745,0.18115,49.532745",
     "geom:latitude":49.532745,
     "geom:longitude":0.18115,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Rue des Casteurs, 76290 Montivilliers",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794629,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168844003,
-    "wof:lastmodified":1449028107,
+    "wof:lastmodified":1466247525,
     "wof:name":"C.c.i. Formation Le Havre",
     "wof:parent_id":85794629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.18115,49.532745,0.18115,49.532745],
+  "bbox": [
+    0.18115,
+    49.532745,
+    0.18115,
+    49.532745
+],
   "geometry": {"coordinates":[0.18115,49.532745],"type":"Point"}
 }

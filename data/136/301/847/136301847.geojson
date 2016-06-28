@@ -2,13 +2,14 @@
   "id": 136301847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.337659,48.878136,2.337659,48.878136",
     "geom:latitude":48.878136,
     "geom:longitude":2.337659,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59-61 rue Saint-Georges, 75009 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301847,
-    "wof:lastmodified":1449075238,
+    "wof:lastmodified":1466246868,
     "wof:name":"Cpr Billets",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.337659,48.878136,2.337659,48.878136],
+  "bbox": [
+    2.337659,
+    48.878136,
+    2.337659,
+    48.878136
+],
   "geometry": {"coordinates":[2.337659,48.878136],"type":"Point"}
 }

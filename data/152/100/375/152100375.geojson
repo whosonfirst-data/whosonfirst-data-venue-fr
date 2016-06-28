@@ -2,13 +2,14 @@
   "id": 152100375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.315284,48.873947,2.315284,48.873947",
     "geom:latitude":48.873947,
     "geom:longitude":2.315284,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 R La Bo\u00e9tie 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152100375,
-    "wof:lastmodified":1449047724,
+    "wof:lastmodified":1466248656,
     "wof:name":"Les Copies La Boetie",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.315284,48.873947,2.315284,48.873947],
+  "bbox": [
+    2.315284,
+    48.873947,
+    2.315284,
+    48.873947
+],
   "geometry": {"coordinates":[2.315284,48.873947],"type":"Point"}
 }

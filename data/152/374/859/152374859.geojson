@@ -2,13 +2,14 @@
   "id": 152374859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.35912,48.915428,2.35912,48.915428",
     "geom:latitude":48.915428,
     "geom:longitude":2.35912,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 44, 93212 La Plaine saint Denis C\u00e9dex^^15, Av. Francis de Pressens\u00e9 - ZAC du Cornillon, 93210 L",
     "sg:city":"Plaine",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152374859,
-    "wof:lastmodified":1449046326,
+    "wof:lastmodified":1466250373,
     "wof:name":"Compagnie Des Cl\u00f4tures S.a.",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.35912,48.915428,2.35912,48.915428],
+  "bbox": [
+    2.35912,
+    48.915428,
+    2.35912,
+    48.915428
+],
   "geometry": {"coordinates":[2.35912,48.915428],"type":"Point"}
 }

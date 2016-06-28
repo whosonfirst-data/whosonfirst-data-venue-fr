@@ -2,13 +2,14 @@
   "id": 153051431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.622175,48.811619,2.622175,48.811619",
     "geom:latitude":48.811619,
     "geom:longitude":2.622175,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, All\u00e9e de Valmy - ZAC de Malnou\u00e9, 77184 Emerainville",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153051431,
-    "wof:lastmodified":1449040641,
+    "wof:lastmodified":1466245855,
     "wof:name":"A.r.c. S.a. - Adressage Routage Colisage",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.622175,48.811619,2.622175,48.811619],
+  "bbox": [
+    2.622175,
+    48.811619,
+    2.622175,
+    48.811619
+],
   "geometry": {"coordinates":[2.622175,48.811619],"type":"Point"}
 }

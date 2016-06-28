@@ -2,13 +2,14 @@
   "id": 169007325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"13.07746,50.861679,13.07746,50.861679",
     "geom:latitude":50.861679,
     "geom:longitude":13.07746,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"297, Av. de Floha - Z.I. de la Goelle, 62680 M\u00e9ricourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102064213,
-        85633111,
         85682523,
-        85907683
+        85633111,
+        85907683,
+        102064213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169007325,
-    "wof:lastmodified":1449035395,
+    "wof:lastmodified":1466245736,
     "wof:name":"J.m.l. Communication Visuelle S.a.r.l.",
     "wof:parent_id":85907683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [13.07746,50.861679,13.07746,50.861679],
+  "bbox": [
+    13.07746,
+    50.861679,
+    13.07746,
+    50.861679
+],
   "geometry": {"coordinates":[13.07746,50.861679],"type":"Point"}
 }

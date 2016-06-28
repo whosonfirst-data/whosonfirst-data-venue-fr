@@ -2,13 +2,14 @@
   "id": 152137985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.192605,48.797569,2.192605,48.797569",
     "geom:latitude":48.797569,
     "geom:longitude":2.192605,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Rue Albert Perdreaux 92370 Chaville",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152137985,
-    "wof:lastmodified":1449048282,
+    "wof:lastmodified":1466249490,
     "wof:name":"Entreprise Bernard Simon",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.192605,48.797569,2.192605,48.797569],
+  "bbox": [
+    2.192605,
+    48.797569,
+    2.192605,
+    48.797569
+],
   "geometry": {"coordinates":[2.192605,48.797569],"type":"Point"}
 }

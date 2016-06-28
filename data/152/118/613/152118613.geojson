@@ -2,13 +2,14 @@
   "id": 152118613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.390395,48.863766,2.390395,48.863766",
     "geom:latitude":48.863766,
     "geom:longitude":2.390395,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Avenue Gambetta 75020 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874039,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152118613,
-    "wof:lastmodified":1449048034,
+    "wof:lastmodified":1466249232,
     "wof:name":"Or Diamant",
     "wof:parent_id":85874039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.390395,48.863766,2.390395,48.863766],
+  "bbox": [
+    2.390395,
+    48.863766,
+    2.390395,
+    48.863766
+],
   "geometry": {"coordinates":[2.390395,48.863766],"type":"Point"}
 }

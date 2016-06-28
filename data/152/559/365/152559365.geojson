@@ -2,13 +2,14 @@
   "id": 152559365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.711681,48.513153,7.711681,48.513153",
     "geom:latitude":48.513153,
     "geom:longitude":7.711681,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Rue Hoelzel, 67400 Illkirch Graffenstaden",
     "sg:city":"Geispolsheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152559365,
-    "wof:lastmodified":1449047908,
+    "wof:lastmodified":1466251009,
     "wof:name":"Kluber Chimie",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.711681,48.513153,7.711681,48.513153],
+  "bbox": [
+    7.711681,
+    48.513153,
+    7.711681,
+    48.513153
+],
   "geometry": {"coordinates":[7.711681,48.513153],"type":"Point"}
 }

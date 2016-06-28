@@ -2,13 +2,14 @@
   "id": 152212661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.384519,48.852119,2.384519,48.852119",
     "geom:latitude":48.852119,
     "geom:longitude":2.384519,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue Paul Bert 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152212661,
-    "wof:lastmodified":1449047290,
+    "wof:lastmodified":1466249756,
     "wof:name":"Rocher Riocreux Le Couturier De La Reliure",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.384519,48.852119,2.384519,48.852119],
+  "bbox": [
+    2.384519,
+    48.852119,
+    2.384519,
+    48.852119
+],
   "geometry": {"coordinates":[2.384519,48.852119],"type":"Point"}
 }

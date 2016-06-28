@@ -2,13 +2,14 @@
   "id": 152710935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.366138,48.866951,2.366138,48.866951",
     "geom:latitude":48.866951,
     "geom:longitude":2.366138,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 bis, Av. de la R\u00e9publique, 75541 Paris C\u00e9dex 11",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152710935,
-    "wof:lastmodified":1449044586,
+    "wof:lastmodified":1466251558,
     "wof:name":"R\u00e9public Tours S.a.",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.366138,48.866951,2.366138,48.866951],
+  "bbox": [
+    2.366138,
+    48.866951,
+    2.366138,
+    48.866951
+],
   "geometry": {"coordinates":[2.366138,48.866951],"type":"Point"}
 }

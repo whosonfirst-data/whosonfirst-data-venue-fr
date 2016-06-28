@@ -2,13 +2,14 @@
   "id": 152096943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.589944,47.275375,-1.589944,47.275375",
     "geom:latitude":47.275375,
     "geom:longitude":-1.589944,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Pasteur Parc Activites De Ragon 44119 Treillieres",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152096943,
-    "wof:lastmodified":1449045799,
+    "wof:lastmodified":1466248427,
     "wof:name":"Boulangeries Patisseries Associes Nantes Bpan Bpa Nantes",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.589944,47.275375,-1.589944,47.275375],
+  "bbox": [
+    -1.589944,
+    47.275375,
+    -1.589944,
+    47.275375
+],
   "geometry": {"coordinates":[-1.589944,47.275375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152737831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.737328,38.558685,-77.737328,38.558685",
     "geom:latitude":38.558685,
     "geom:longitude":-77.737328,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 5, 41260 LaChauss\u00e9e Saint Victor^^1, Rue Micka\u00ebl Faraday - ZI les Gailletrous - Euro Val de Loi",
     "sg:city":"La Chauss\u00e9e-Saint-Victor",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868651,
+        85688747,
         85633793,
         101728777,
         102086717,
-        85688747
+        85868651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152737831,
-    "wof:lastmodified":1449045336,
+    "wof:lastmodified":1466251806,
     "wof:name":"S.t.f. S.a.",
     "wof:parent_id":85868651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.737328,38.558685,-77.737328,38.558685],
-  "geometry": {"coordinates":[-77.737328,38.558685],"type":"Point"}
+  "bbox": [
+    -77.737328,
+    38.558685,
+    -77.737328,
+    38.558685
+],
+  "geometry": {"coordinates":[-77.73732800000001,38.558685],"type":"Point"}
 }

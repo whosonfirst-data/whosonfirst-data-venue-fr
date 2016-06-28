@@ -2,13 +2,14 @@
   "id": 152112227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.323708,48.851818,2.323708,48.851818",
     "geom:latitude":48.851818,
     "geom:longitude":2.323708,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Rue Du Bac 75007 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873831,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152112227,
-    "wof:lastmodified":1449046435,
+    "wof:lastmodified":1466248985,
     "wof:name":"The Conran Shop Sarl",
     "wof:parent_id":85873831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.323708,48.851818,2.323708,48.851818],
+  "bbox": [
+    2.323708,
+    48.851818,
+    2.323708,
+    48.851818
+],
   "geometry": {"coordinates":[2.323708,48.851818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152926873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.374132,48.86729,2.374132,48.86729",
     "geom:latitude":48.86729,
     "geom:longitude":2.374132,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Rue Des Trois Bornes 75011 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152926873,
-    "wof:lastmodified":1449045920,
+    "wof:lastmodified":1466252350,
     "wof:name":"Imprimerie Lebhar",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.374132,48.86729,2.374132,48.86729],
+  "bbox": [
+    2.374132,
+    48.86729,
+    2.374132,
+    48.86729
+],
   "geometry": {"coordinates":[2.374132,48.86729],"type":"Point"}
 }

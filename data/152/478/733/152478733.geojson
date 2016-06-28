@@ -2,13 +2,14 @@
   "id": 152478733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358403,48.866112,2.358403,48.866112",
     "geom:latitude":48.866112,
     "geom:longitude":2.358403,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Rue de Turbigo, 75003 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152478733,
-    "wof:lastmodified":1449044445,
+    "wof:lastmodified":1466250849,
     "wof:name":"Fisseau Cochot S.a.",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358403,48.866112,2.358403,48.866112],
+  "bbox": [
+    2.358403,
+    48.866112,
+    2.358403,
+    48.866112
+],
   "geometry": {"coordinates":[2.358403,48.866112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136277845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76105,48.600525,7.76105,48.600525",
     "geom:latitude":48.600525,
     "geom:longitude":7.76105,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chemin Du Wacken",
     "sg:city":"Strasbourg Cedex 9",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277845,
-    "wof:lastmodified":1449075060,
+    "wof:lastmodified":1466245384,
     "wof:name":"Groupe Azur Assurances Etablissement R\u00c9gional",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76105,48.600525,7.76105,48.600525],
+  "bbox": [
+    7.76105,
+    48.600525,
+    7.76105,
+    48.600525
+],
   "geometry": {"coordinates":[7.76105,48.600525],"type":"Point"}
 }

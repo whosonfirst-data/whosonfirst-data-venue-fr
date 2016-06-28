@@ -2,13 +2,14 @@
   "id": 136305453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.293069,48.871487,2.293069,48.871487",
     "geom:latitude":48.871487,
     "geom:longitude":2.293069,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 ave Kl\u00e9ber; Paris; 75116",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136305453,
-    "wof:lastmodified":1449075112,
+    "wof:lastmodified":1466246979,
     "wof:name":"Discount Bank Sa",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.293069,48.871487,2.293069,48.871487],
+  "bbox": [
+    2.293069,
+    48.871487,
+    2.293069,
+    48.871487
+],
   "geometry": {"coordinates":[2.293069,48.871487],"type":"Point"}
 }

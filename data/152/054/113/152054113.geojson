@@ -2,13 +2,14 @@
   "id": 152054113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.361712,48.861343,2.361712,48.861343",
     "geom:latitude":48.861343,
     "geom:longitude":2.361712,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue De Saintonge 75003 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152054113,
-    "wof:lastmodified":1449046482,
+    "wof:lastmodified":1466246159,
     "wof:name":"Alland Et Robert (societe) Sa",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.361712,48.861343,2.361712,48.861343],
+  "bbox": [
+    2.361712,
+    48.861343,
+    2.361712,
+    48.861343
+],
   "geometry": {"coordinates":[2.361712,48.861343],"type":"Point"}
 }

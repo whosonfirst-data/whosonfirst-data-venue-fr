@@ -2,13 +2,14 @@
   "id": 152964645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.493952,48.781803,2.493952,48.781803",
     "geom:latitude":48.781803,
     "geom:longitude":2.493952,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Route De Stains 94380 Bonneuil Sur Marne",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152964645,
-    "wof:lastmodified":1449047779,
+    "wof:lastmodified":1466252445,
     "wof:name":"Pameco (paris Mediterranee Corse) Sa",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.493952,48.781803,2.493952,48.781803],
+  "bbox": [
+    2.493952,
+    48.781803,
+    2.493952,
+    48.781803
+],
   "geometry": {"coordinates":[2.493952,48.781803],"type":"Point"}
 }

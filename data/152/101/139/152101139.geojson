@@ -2,13 +2,14 @@
   "id": 152101139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.551587,47.211136,-1.551587,47.211136",
     "geom:latitude":47.211136,
     "geom:longitude":-1.551587,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ch De La Madeleine 44000 Nantes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233,
+        85897699,
         85897695
     ],
     "wof:breaches":[],
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152101139,
-    "wof:lastmodified":1449046731,
+    "wof:lastmodified":1466248635,
     "wof:name":"Nantes Natation Promotion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.551587,47.211136,-1.551587,47.211136],
+  "bbox": [
+    -1.551587,
+    47.211136,
+    -1.551587,
+    47.211136
+],
   "geometry": {"coordinates":[-1.551587,47.211136],"type":"Point"}
 }

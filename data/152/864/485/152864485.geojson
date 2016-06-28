@@ -2,13 +2,14 @@
   "id": 152864485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.393361,48.67326,2.393361,48.67326",
     "geom:latitude":48.67326,
     "geom:longitude":2.393361,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 rue de Ris 91170 Viry Chatillon",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152864485,
-    "wof:lastmodified":1449048953,
+    "wof:lastmodified":1466252107,
     "wof:name":"Ste De Gestion En Emballage Industriel S.a.",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.393361,48.67326,2.393361,48.67326],
+  "bbox": [
+    2.393361,
+    48.67326,
+    2.393361,
+    48.67326
+],
   "geometry": {"coordinates":[2.393361,48.67326],"type":"Point"}
 }

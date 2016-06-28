@@ -2,13 +2,14 @@
   "id": 136299899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.010582,41.861092,-72.010582,41.861092",
     "geom:latitude":41.861092,
     "geom:longitude":-72.010582,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 ave Claude Vigon; S. Jean Pied de Port; 06230",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85824107,
+        85688629,
         85633793,
         85931297,
         102085377,
-        85688629
+        85824107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136299899,
-    "wof:lastmodified":1449075234,
+    "wof:lastmodified":1466246669,
     "wof:name":"Banque Populaire, De La C\u00f4te D'azur",
     "wof:parent_id":85824107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.010582,41.861092,-72.010582,41.861092],
+  "bbox": [
+    -72.010582,
+    41.861092,
+    -72.010582,
+    41.861092
+],
   "geometry": {"coordinates":[-72.010582,41.861092],"type":"Point"}
 }

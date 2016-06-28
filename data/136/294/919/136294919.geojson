@@ -2,13 +2,14 @@
   "id": 136294919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.268591,43.700703,7.268591,43.700703",
     "geom:latitude":43.700703,
     "geom:longitude":7.268591,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Boulevard Dubouchage 06000 Nice",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136294919,
-    "wof:lastmodified":1449075870,
+    "wof:lastmodified":1466246465,
     "wof:name":"Societe Marseillaise De Credit",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.268591,43.700703,7.268591,43.700703],
+  "bbox": [
+    7.268591,
+    43.700703,
+    7.268591,
+    43.700703
+],
   "geometry": {"coordinates":[7.268591,43.700703],"type":"Point"}
 }

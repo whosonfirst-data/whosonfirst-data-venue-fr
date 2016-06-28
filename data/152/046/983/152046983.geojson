@@ -2,13 +2,14 @@
   "id": 152046983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.365916,48.85442,2.365916,48.85442",
     "geom:latitude":48.85442,
     "geom:longitude":2.365916,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Imp Gu\u00e9m\u00e9n\u00e9 75004 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046983,
-    "wof:lastmodified":1449046864,
+    "wof:lastmodified":1466245703,
     "wof:name":"Revue D'etude Enseignement A Distance Prive",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.365916,48.85442,2.365916,48.85442],
+  "bbox": [
+    2.365916,
+    48.85442,
+    2.365916,
+    48.85442
+],
   "geometry": {"coordinates":[2.365916,48.85442],"type":"Point"}
 }

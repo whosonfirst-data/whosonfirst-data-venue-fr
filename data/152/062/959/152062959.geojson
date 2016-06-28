@@ -2,13 +2,14 @@
   "id": 152062959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348423,48.870453,2.348423,48.870453",
     "geom:latitude":48.870453,
     "geom:longitude":2.348423,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 R Notre-Dame De Recouvrance 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152062959,
-    "wof:lastmodified":1449048590,
+    "wof:lastmodified":1466246990,
     "wof:name":"Solva Sa",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348423,48.870453,2.348423,48.870453],
+  "bbox": [
+    2.348423,
+    48.870453,
+    2.348423,
+    48.870453
+],
   "geometry": {"coordinates":[2.348423,48.870453],"type":"Point"}
 }

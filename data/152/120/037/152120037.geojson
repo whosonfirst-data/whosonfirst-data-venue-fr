@@ -2,13 +2,14 @@
   "id": 152120037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326736,48.872425,2.326736,48.872425",
     "geom:latitude":48.872425,
     "geom:longitude":2.326736,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36 rue Vignon 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Ladies' Coats",
@@ -18,13 +19,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873847,
-        102068357
+        85873871,
+        102068357,
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152120037,
-    "wof:lastmodified":1449048254,
+    "wof:lastmodified":1466249197,
     "wof:name":"Etablissements Perel Et Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326736,48.872425,2.326736,48.872425],
+  "bbox": [
+    2.326736,
+    48.872425,
+    2.326736,
+    48.872425
+],
   "geometry": {"coordinates":[2.326736,48.872425],"type":"Point"}
 }

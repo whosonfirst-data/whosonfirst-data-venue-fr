@@ -2,13 +2,14 @@
   "id": 136303609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.018425,39.985233,-76.018425,39.985233",
     "geom:latitude":39.985233,
     "geom:longitude":-76.018425,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"51 rue Carnot; Gap",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848805,
+        85688481,
         85633793,
         101720395,
         102081377,
-        85688481
+        85848805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136303609,
-    "wof:lastmodified":1449074926,
+    "wof:lastmodified":1466246996,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":85848805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.018425,39.985233,-76.018425,39.985233],
-  "geometry": {"coordinates":[-76.018425,39.985233],"type":"Point"}
+  "bbox": [
+    -76.018425,
+    39.985233,
+    -76.018425,
+    39.985233
+],
+  "geometry": {"coordinates":[-76.01842499999999,39.985233],"type":"Point"}
 }

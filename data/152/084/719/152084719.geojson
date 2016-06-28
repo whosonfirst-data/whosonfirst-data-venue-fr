@@ -2,13 +2,14 @@
   "id": 152084719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.294691,48.865356,2.294691,48.865356",
     "geom:latitude":48.865356,
     "geom:longitude":2.294691,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Avenue Pierre 1er Serbie 75116 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152084719,
-    "wof:lastmodified":1449044807,
+    "wof:lastmodified":1466247994,
     "wof:name":"Noel Linge De Maison",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.294691,48.865356,2.294691,48.865356],
+  "bbox": [
+    2.294691,
+    48.865356,
+    2.294691,
+    48.865356
+],
   "geometry": {"coordinates":[2.294691,48.865356],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136297263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330609,48.873436,2.330609,48.873436",
     "geom:latitude":48.873436,
     "geom:longitude":2.330609,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"BP 240-09, 50 Boulevard Haussmann, 75428 Paris Cedex 09, Dept 75",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136297263,
-    "wof:lastmodified":1449075782,
+    "wof:lastmodified":1466246533,
     "wof:name":"Banque Franco Portugaise Sa",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330609,48.873436,2.330609,48.873436],
+  "bbox": [
+    2.330609,
+    48.873436,
+    2.330609,
+    48.873436
+],
   "geometry": {"coordinates":[2.330609,48.873436],"type":"Point"}
 }

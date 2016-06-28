@@ -2,13 +2,14 @@
   "id": 136296411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.531729,47.239197,-1.531729,47.239197",
     "geom:latitude":47.239197,
     "geom:longitude":-1.531729,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91 bd Jules Verne; Nantes",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136296411,
-    "wof:lastmodified":1449075986,
+    "wof:lastmodified":1466246424,
     "wof:name":"Banque Cio, Nantes Est",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.531729,47.239197,-1.531729,47.239197],
+  "bbox": [
+    -1.531729,
+    47.239197,
+    -1.531729,
+    47.239197
+],
   "geometry": {"coordinates":[-1.531729,47.239197],"type":"Point"}
 }

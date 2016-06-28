@@ -2,13 +2,14 @@
   "id": 152083455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.608692,47.22633,-1.608692,47.22633",
     "geom:latitude":47.22633,
     "geom:longitude":-1.608692,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Impasse Des Alisiers 44800 St Herblain",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152083455,
-    "wof:lastmodified":1449046500,
+    "wof:lastmodified":1466247844,
     "wof:name":"Incendie Securite Nantaise (isn)",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.608692,47.22633,-1.608692,47.22633],
+  "bbox": [
+    -1.608692,
+    47.22633,
+    -1.608692,
+    47.22633
+],
   "geometry": {"coordinates":[-1.608692,47.22633],"type":"Point"}
 }

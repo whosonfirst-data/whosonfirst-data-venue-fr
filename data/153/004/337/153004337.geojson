@@ -2,13 +2,14 @@
   "id": 153004337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.411894,48.80706,2.411894,48.80706",
     "geom:latitude":48.80706,
     "geom:longitude":2.411894,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue Parmentier 94140 Alfortville",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":153004337,
-    "wof:lastmodified":1449040506,
+    "wof:lastmodified":1466245334,
     "wof:name":"Invest Commerce Sarl",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.411894,48.80706,2.411894,48.80706],
+  "bbox": [
+    2.411894,
+    48.80706,
+    2.411894,
+    48.80706
+],
   "geometry": {"coordinates":[2.411894,48.80706],"type":"Point"}
 }

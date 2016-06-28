@@ -2,13 +2,14 @@
   "id": 169003995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326283,48.895535,2.326283,48.895535",
     "geom:latitude":48.895535,
     "geom:longitude":2.326283,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19, Rue Navier, 75017 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169003995,
-    "wof:lastmodified":1449035706,
+    "wof:lastmodified":1466245497,
     "wof:name":"Interface Etudes Conseil & Formation S.a.",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326283,48.895535,2.326283,48.895535],
+  "bbox": [
+    2.326283,
+    48.895535,
+    2.326283,
+    48.895535
+],
   "geometry": {"coordinates":[2.326283,48.895535],"type":"Point"}
 }

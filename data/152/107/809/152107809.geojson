@@ -2,13 +2,14 @@
   "id": 152107809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.483399,43.765648,7.483399,43.765648",
     "geom:latitude":43.765648,
     "geom:longitude":7.483399,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 R Victor Hugo 06190 Roquebrune Cap Martin",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152107809,
-    "wof:lastmodified":1449044310,
+    "wof:lastmodified":1466249151,
     "wof:name":"M. Reymond Henri",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.483399,43.765648,7.483399,43.765648],
+  "bbox": [
+    7.483399,
+    43.765648,
+    7.483399,
+    43.765648
+],
   "geometry": {"coordinates":[7.483399,43.765648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152083119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364533,48.792469,2.364533,48.792469",
     "geom:latitude":48.792469,
     "geom:longitude":2.364533,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rue Georges Lebigot 94800 Villejuif",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152083119,
-    "wof:lastmodified":1449046500,
+    "wof:lastmodified":1466247784,
     "wof:name":"Atmostat Ionisation",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364533,48.792469,2.364533,48.792469],
+  "bbox": [
+    2.364533,
+    48.792469,
+    2.364533,
+    48.792469
+],
   "geometry": {"coordinates":[2.364533,48.792469],"type":"Point"}
 }

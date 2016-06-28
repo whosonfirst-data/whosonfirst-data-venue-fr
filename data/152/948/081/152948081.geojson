@@ -2,13 +2,14 @@
   "id": 152948081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.633713,47.194836,-1.633713,47.194836",
     "geom:latitude":47.194836,
     "geom:longitude":-1.633713,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"146 quai Emile Cormerais 44800 ST HERBLAIN",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897687,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152948081,
-    "wof:lastmodified":1449047961,
+    "wof:lastmodified":1466252384,
     "wof:name":"Screg Ouest Sa",
     "wof:parent_id":85897687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.633713,47.194836,-1.633713,47.194836],
+  "bbox": [
+    -1.633713,
+    47.194836,
+    -1.633713,
+    47.194836
+],
   "geometry": {"coordinates":[-1.633713,47.194836],"type":"Point"}
 }

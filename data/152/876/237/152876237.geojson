@@ -2,13 +2,14 @@
   "id": 152876237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.275302,48.836967,2.275302,48.836967",
     "geom:latitude":48.836967,
     "geom:longitude":2.275302,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 bd G\u00e9n Martial Valin 75015 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152876237,
-    "wof:lastmodified":1449045233,
+    "wof:lastmodified":1466252141,
     "wof:name":"Parfums Nina Ricci Sa",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.275302,48.836967,2.275302,48.836967],
+  "bbox": [
+    2.275302,
+    48.836967,
+    2.275302,
+    48.836967
+],
   "geometry": {"coordinates":[2.275302,48.836967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152860207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.437133,48.633614,2.437133,48.633614",
     "geom:latitude":48.633614,
     "geom:longitude":2.437133,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue Montespan 91000 EVRY",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152860207,
-    "wof:lastmodified":1449046370,
+    "wof:lastmodified":1466252072,
     "wof:name":"Cie De Diffusion Internationale Sarl",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.437133,48.633614,2.437133,48.633614],
+  "bbox": [
+    2.437133,
+    48.633614,
+    2.437133,
+    48.633614
+],
   "geometry": {"coordinates":[2.437133,48.633614],"type":"Point"}
 }

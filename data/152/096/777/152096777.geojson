@@ -2,13 +2,14 @@
   "id": 152096777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.452758,48.864361,2.452758,48.864361",
     "geom:latitude":48.864361,
     "geom:longitude":2.452758,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Rue De Rosny 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152096777,
-    "wof:lastmodified":1449045802,
+    "wof:lastmodified":1466248325,
     "wof:name":"Safa",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.452758,48.864361,2.452758,48.864361],
+  "bbox": [
+    2.452758,
+    48.864361,
+    2.452758,
+    48.864361
+],
   "geometry": {"coordinates":[2.452758,48.864361],"type":"Point"}
 }

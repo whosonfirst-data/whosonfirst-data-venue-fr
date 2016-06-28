@@ -2,13 +2,14 @@
   "id": 152260415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.383225,49.164806,5.383225,49.164806",
     "geom:latitude":49.164806,
     "geom:longitude":5.383225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 14, 55101 Verdun C\u00e9dex^^15, Rue de la Paix, 55100 Verdun",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152260415,
-    "wof:lastmodified":1449045078,
+    "wof:lastmodified":1466249997,
     "wof:name":"Albertus S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.383225,49.164806,5.383225,49.164806],
+  "bbox": [
+    5.383225,
+    49.164806,
+    5.383225,
+    49.164806
+],
   "geometry": {"coordinates":[5.383225,49.164806],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152327011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74856,48.605949,7.74856,48.605949",
     "geom:latitude":48.605949,
     "geom:longitude":7.74856,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 90019, 67013 Strasbourg C\u00e9dex^^21, Av. de l'Europe - Espace Europ\u00e9en, 67303 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152327011,
-    "wof:lastmodified":1449044654,
+    "wof:lastmodified":1466250171,
     "wof:name":"C.d.c.-t.i.c. S.a. - Caisse Des D\u00e9p\u00f4ts Et Consignations Technologies De L'information Et De La Commu",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74856,48.605949,7.74856,48.605949],
+  "bbox": [
+    7.74856,
+    48.605949,
+    7.74856,
+    48.605949
+],
   "geometry": {"coordinates":[7.74856,48.605949],"type":"Point"}
 }

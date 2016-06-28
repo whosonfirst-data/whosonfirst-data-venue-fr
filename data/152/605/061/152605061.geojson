@@ -2,13 +2,14 @@
   "id": 152605061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352782,48.849232,2.352782,48.849232",
     "geom:latitude":48.849232,
     "geom:longitude":2.352782,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Rue de Poissy, 75005 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873809,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152605061,
-    "wof:lastmodified":1449046559,
+    "wof:lastmodified":1466251018,
     "wof:name":"Madura S.a.",
     "wof:parent_id":85873809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352782,48.849232,2.352782,48.849232],
+  "bbox": [
+    2.352782,
+    48.849232,
+    2.352782,
+    48.849232
+],
   "geometry": {"coordinates":[2.352782,48.849232],"type":"Point"}
 }

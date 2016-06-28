@@ -2,13 +2,14 @@
   "id": 136301761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.553216,47.216236,-1.553216,47.216236",
     "geom:latitude":47.216236,
     "geom:longitude":-1.553216,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 pl Pilori; Nantes; 44000",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301761,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246850,
     "wof:name":"Cofinoga",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.553216,47.216236,-1.553216,47.216236],
+  "bbox": [
+    -1.553216,
+    47.216236,
+    -1.553216,
+    47.216236
+],
   "geometry": {"coordinates":[-1.553216,47.216236],"type":"Point"}
 }

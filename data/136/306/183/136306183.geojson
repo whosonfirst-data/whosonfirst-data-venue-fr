@@ -2,13 +2,14 @@
   "id": 136306183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.615198,48.845451,2.615198,48.845451",
     "geom:latitude":48.845451,
     "geom:longitude":2.615198,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cours de Rouges, 77186 Noisiel, Dept 77",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136306183,
-    "wof:lastmodified":1449076206,
+    "wof:lastmodified":1466246938,
     "wof:name":"Parnasse Finance",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.615198,48.845451,2.615198,48.845451],
+  "bbox": [
+    2.615198,
+    48.845451,
+    2.615198,
+    48.845451
+],
   "geometry": {"coordinates":[2.615198,48.845451],"type":"Point"}
 }

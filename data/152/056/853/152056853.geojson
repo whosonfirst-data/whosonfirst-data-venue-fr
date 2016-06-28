@@ -2,13 +2,14 @@
   "id": 152056853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.536133,41.653782,-83.536133,41.653782",
     "geom:latitude":41.653782,
     "geom:longitude":-83.536133,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zone Industrielle Taillas 43601 St Sigolene Cedex",
     "sg:city":"Aillas",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873163,
+        85688485,
         85633793,
         101712039,
         102084787,
-        85688485
+        85873163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152056853,
-    "wof:lastmodified":1449045627,
+    "wof:lastmodified":1466246632,
     "wof:name":"Colly Et Martin (ets) Sa",
     "wof:parent_id":85873163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.536133,41.653782,-83.536133,41.653782],
-  "geometry": {"coordinates":[-83.536133,41.653782],"type":"Point"}
+  "bbox": [
+    -83.536133,
+    41.653782,
+    -83.536133,
+    41.653782
+],
+  "geometry": {"coordinates":[-83.53613300000001,41.653782],"type":"Point"}
 }

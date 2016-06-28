@@ -2,13 +2,14 @@
   "id": 152475999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.413946,48.983624,2.413946,48.983624",
     "geom:latitude":48.983624,
     "geom:longitude":2.413946,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Rue Stanilas Bance, 95400 Arnouville l\u00e8s Gonesse",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152475999,
-    "wof:lastmodified":1449046232,
+    "wof:lastmodified":1466250850,
     "wof:name":"Fibreforce Composite",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.413946,48.983624,2.413946,48.983624],
+  "bbox": [
+    2.413946,
+    48.983624,
+    2.413946,
+    48.983624
+],
   "geometry": {"coordinates":[2.413946,48.983624],"type":"Point"}
 }

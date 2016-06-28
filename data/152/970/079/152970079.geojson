@@ -2,13 +2,14 @@
   "id": 152970079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.049201,49.449478,1.049201,49.449478",
     "geom:latitude":49.449478,
     "geom:longitude":1.049201,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Du Cdt Bernard Bicheray 76000 Rouen",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152970079,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1466252462,
     "wof:name":"Tacussel Et Cie",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.049201,49.449478,1.049201,49.449478],
+  "bbox": [
+    1.049201,
+    49.449478,
+    1.049201,
+    49.449478
+],
   "geometry": {"coordinates":[1.049201,49.449478],"type":"Point"}
 }

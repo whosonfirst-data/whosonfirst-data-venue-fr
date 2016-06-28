@@ -2,13 +2,14 @@
   "id": 152104639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287659,48.817768,2.287659,48.817768",
     "geom:latitude":48.817768,
     "geom:longitude":2.287659,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Aristide Briand 92170 Vanves",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152104639,
-    "wof:lastmodified":1449046216,
+    "wof:lastmodified":1466248845,
     "wof:name":"Schindler Sa",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287659,48.817768,2.287659,48.817768],
+  "bbox": [
+    2.287659,
+    48.817768,
+    2.287659,
+    48.817768
+],
   "geometry": {"coordinates":[2.287659,48.817768],"type":"Point"}
 }

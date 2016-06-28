@@ -2,13 +2,14 @@
   "id": 152113495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.464523,49.025154,2.464523,49.025154",
     "geom:latitude":49.025154,
     "geom:longitude":2.464523,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 avenue du 6 Juin 1944 95190 Goussainville",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152113495,
-    "wof:lastmodified":1449048541,
+    "wof:lastmodified":1466249233,
     "wof:name":"Leader Logistic Sarl",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.464523,49.025154,2.464523,49.025154],
+  "bbox": [
+    2.464523,
+    49.025154,
+    2.464523,
+    49.025154
+],
   "geometry": {"coordinates":[2.464523,49.025154],"type":"Point"}
 }

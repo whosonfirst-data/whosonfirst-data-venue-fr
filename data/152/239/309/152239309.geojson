@@ -2,13 +2,14 @@
   "id": 152239309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.330772,47.608902,1.330772,47.608902",
     "geom:latitude":47.608902,
     "geom:longitude":1.330772,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 11, 41913 Blois C\u00e9dex 9^^1, Rue de l'Erigny, 41000 Blois",
     "sg:city":"Blois",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152239309,
-    "wof:lastmodified":1449044752,
+    "wof:lastmodified":1466249866,
     "wof:name":"A.f.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.330772,47.608902,1.330772,47.608902],
+  "bbox": [
+    1.330772,
+    47.608902,
+    1.330772,
+    47.608902
+],
   "geometry": {"coordinates":[1.330772,47.608902],"type":"Point"}
 }

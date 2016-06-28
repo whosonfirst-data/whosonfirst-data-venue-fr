@@ -2,13 +2,14 @@
   "id": 152876415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.429979,48.710896,2.429979,48.710896",
     "geom:latitude":48.710896,
     "geom:longitude":2.429979,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 rue Gaston Gourdon 91270 Vigneux sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152876415,
-    "wof:lastmodified":1449045241,
+    "wof:lastmodified":1466252150,
     "wof:name":"S I F S.a.",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.429979,48.710896,2.429979,48.710896],
+  "bbox": [
+    2.429979,
+    48.710896,
+    2.429979,
+    48.710896
+],
   "geometry": {"coordinates":[2.429979,48.710896],"type":"Point"}
 }

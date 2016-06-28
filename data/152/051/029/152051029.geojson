@@ -2,13 +2,14 @@
   "id": 152051029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.250068,48.898109,2.250068,48.898109",
     "geom:latitude":48.898109,
     "geom:longitude":2.250068,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue Rouget de Lisle 92400 Courbevoie",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152051029,
-    "wof:lastmodified":1449047154,
+    "wof:lastmodified":1466245883,
     "wof:name":"Sacaff S.a.",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.250068,48.898109,2.250068,48.898109],
+  "bbox": [
+    2.250068,
+    48.898109,
+    2.250068,
+    48.898109
+],
   "geometry": {"coordinates":[2.250068,48.898109],"type":"Point"}
 }

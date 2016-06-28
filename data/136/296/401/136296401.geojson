@@ -2,13 +2,14 @@
   "id": 136296401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.585677,47.238026,-1.585677,47.238026",
     "geom:latitude":47.238026,
     "geom:longitude":-1.585677,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue Guillaume Grootaers; Nantes",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897693,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136296401,
-    "wof:lastmodified":1449075989,
+    "wof:lastmodified":1466246422,
     "wof:name":"Banque Cio, Nantes Beausejour",
     "wof:parent_id":85897693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.585677,47.238026,-1.585677,47.238026],
+  "bbox": [
+    -1.585677,
+    47.238026,
+    -1.585677,
+    47.238026
+],
   "geometry": {"coordinates":[-1.585677,47.238026],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152126849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.372437,48.894436,2.372437,48.894436",
     "geom:latitude":48.894436,
     "geom:longitude":2.372437,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"249 rue de Crim\u00e9e 75019 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152126849,
-    "wof:lastmodified":1449046010,
+    "wof:lastmodified":1466249448,
     "wof:name":"Editions Weka Sa",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.372437,48.894436,2.372437,48.894436],
+  "bbox": [
+    2.372437,
+    48.894436,
+    2.372437,
+    48.894436
+],
   "geometry": {"coordinates":[2.372437,48.894436],"type":"Point"}
 }

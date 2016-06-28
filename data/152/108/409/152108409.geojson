@@ -2,13 +2,14 @@
   "id": 152108409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.295524,48.842972,2.295524,48.842972",
     "geom:latitude":48.842972,
     "geom:longitude":2.295524,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Leon Lhermitte 75015 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873963,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152108409,
-    "wof:lastmodified":1449044374,
+    "wof:lastmodified":1466249091,
     "wof:name":"Societe Jerome Boislaigue",
     "wof:parent_id":85873963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.295524,48.842972,2.295524,48.842972],
+  "bbox": [
+    2.295524,
+    48.842972,
+    2.295524,
+    48.842972
+],
   "geometry": {"coordinates":[2.295524,48.842972],"type":"Point"}
 }

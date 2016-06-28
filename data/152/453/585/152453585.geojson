@@ -2,13 +2,14 @@
   "id": 152453585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.650856,49.649746,-1.650856,49.649746",
     "geom:latitude":49.649746,
     "geom:longitude":-1.650856,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"73/77, Rue de la Paix, 50120 Equeurdreville Hainneville",
     "sg:city":"\u00c9queurdreville-Hainneville",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152453585,
-    "wof:lastmodified":1449047771,
+    "wof:lastmodified":1466250635,
     "wof:name":"Etablissements Hochet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.650856,49.649746,-1.650856,49.649746],
+  "bbox": [
+    -1.650856,
+    49.649746,
+    -1.650856,
+    49.649746
+],
   "geometry": {"coordinates":[-1.650856,49.649746],"type":"Point"}
 }

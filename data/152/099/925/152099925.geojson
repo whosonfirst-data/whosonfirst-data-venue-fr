@@ -2,13 +2,14 @@
   "id": 152099925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.403816,48.866837,2.403816,48.866837",
     "geom:latitude":48.866837,
     "geom:longitude":2.403816,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Le Bua 75020 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874043,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152099925,
-    "wof:lastmodified":1449047303,
+    "wof:lastmodified":1466248520,
     "wof:name":"Atelier Phuong",
     "wof:parent_id":85874043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.403816,48.866837,2.403816,48.866837],
+  "bbox": [
+    2.403816,
+    48.866837,
+    2.403816,
+    48.866837
+],
   "geometry": {"coordinates":[2.403816,48.866837],"type":"Point"}
 }

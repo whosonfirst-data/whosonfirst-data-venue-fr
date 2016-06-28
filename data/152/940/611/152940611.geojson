@@ -2,13 +2,14 @@
   "id": 152940611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3887,48.993549,2.3887,48.993549",
     "geom:latitude":48.993549,
     "geom:longitude":2.3887,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue De L Escouvrier 95200 Sarcelles",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152940611,
-    "wof:lastmodified":1449045421,
+    "wof:lastmodified":1466252378,
     "wof:name":"Vibac",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3887,48.993549,2.3887,48.993549],
+  "bbox": [
+    2.3887,
+    48.993549,
+    2.3887,
+    48.993549
+],
   "geometry": {"coordinates":[2.3887,48.993549],"type":"Point"}
 }

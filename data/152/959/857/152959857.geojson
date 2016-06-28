@@ -2,13 +2,14 @@
   "id": 152959857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.677902,29.876461,-91.677902,29.876461",
     "geom:latitude":29.876461,
     "geom:longitude":-91.677902,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Mal Leclerc 60157 Elioncourt Ste Marguerite",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851007,
+        85688735,
         85633793,
         85948085,
         102084873,
-        85688735
+        85851007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152959857,
-    "wof:lastmodified":1449048461,
+    "wof:lastmodified":1466252454,
     "wof:name":"Guy Lefebvre Sa",
     "wof:parent_id":85851007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.677902,29.876461,-91.677902,29.876461],
+  "bbox": [
+    -91.677902,
+    29.876461,
+    -91.677902,
+    29.876461
+],
   "geometry": {"coordinates":[-91.677902,29.876461],"type":"Point"}
 }

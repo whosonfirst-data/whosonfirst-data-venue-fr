@@ -2,13 +2,14 @@
   "id": 152345355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.326172,27.447559,-80.326172,27.447559",
     "geom:latitude":27.447559,
     "geom:longitude":-80.326172,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26, Rue Montels l'Eglise - Le Puech Radier, 34979 Lattes C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085851,
-        85633793,
         85688651,
-        85820187
+        85633793,
+        85820187,
+        102085851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152345355,
-    "wof:lastmodified":1449048557,
+    "wof:lastmodified":1466250261,
     "wof:name":"Calytique S.a.r.l.",
     "wof:parent_id":85820187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.326172,27.447559,-80.326172,27.447559],
+  "bbox": [
+    -80.326172,
+    27.447559,
+    -80.326172,
+    27.447559
+],
   "geometry": {"coordinates":[-80.326172,27.447559],"type":"Point"}
 }

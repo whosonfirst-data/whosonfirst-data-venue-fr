@@ -2,13 +2,14 @@
   "id": 152082163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38225,48.88237,2.38225,48.88237",
     "geom:latitude":48.88237,
     "geom:longitude":2.38225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Boulevard De La Commanderie Parking Porte Villette 75019 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874027,
+        85683497,
         85633147,
         101751119,
         102070247,
-        85683497
+        85874027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152082163,
-    "wof:lastmodified":1449044416,
+    "wof:lastmodified":1466247694,
     "wof:name":"Adventure",
     "wof:parent_id":85874027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38225,48.88237,2.38225,48.88237],
+  "bbox": [
+    2.38225,
+    48.88237,
+    2.38225,
+    48.88237
+],
   "geometry": {"coordinates":[2.38225,48.88237],"type":"Point"}
 }

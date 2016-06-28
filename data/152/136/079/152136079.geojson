@@ -2,13 +2,14 @@
   "id": 152136079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.542495,48.795948,2.542495,48.795948",
     "geom:latitude":48.795948,
     "geom:longitude":2.542495,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Pierre Et Marie Curie 94430 Chennevieres Sur Marne",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152136079,
-    "wof:lastmodified":1449048839,
+    "wof:lastmodified":1466249466,
     "wof:name":"Deco Meca S A R L",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.542495,48.795948,2.542495,48.795948],
+  "bbox": [
+    2.542495,
+    48.795948,
+    2.542495,
+    48.795948
+],
   "geometry": {"coordinates":[2.542495,48.795948],"type":"Point"}
 }

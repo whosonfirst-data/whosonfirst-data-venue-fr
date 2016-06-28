@@ -2,13 +2,14 @@
   "id": 152045257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.687441,48.509476,-4.687441,48.509476",
     "geom:latitude":48.509476,
     "geom:longitude":-4.687441,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De La Gare Portsall 29830 Ploudalm\u00e9zeau",
     "sg:city":"Ploudalm\u00e9zeau",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152045257,
-    "wof:lastmodified":1449048382,
+    "wof:lastmodified":1466245466,
     "wof:name":"College Nationalise Edouard Queau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.687441,48.509476,-4.687441,48.509476],
+  "bbox": [
+    -4.687441,
+    48.509476,
+    -4.687441,
+    48.509476
+],
   "geometry": {"coordinates":[-4.687441,48.509476],"type":"Point"}
 }

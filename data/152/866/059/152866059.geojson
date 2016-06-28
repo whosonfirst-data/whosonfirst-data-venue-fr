@@ -2,13 +2,14 @@
   "id": 152866059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36057,48.858757,2.36057,48.858757",
     "geom:latitude":48.858757,
     "geom:longitude":2.36057,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Barbette 75003 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152866059,
-    "wof:lastmodified":1449046503,
+    "wof:lastmodified":1466252102,
     "wof:name":"Corbeaux Les Fils De A Sa",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36057,48.858757,2.36057,48.858757],
+  "bbox": [
+    2.36057,
+    48.858757,
+    2.36057,
+    48.858757
+],
   "geometry": {"coordinates":[2.36057,48.858757],"type":"Point"}
 }

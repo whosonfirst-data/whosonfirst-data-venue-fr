@@ -2,13 +2,14 @@
   "id": 152989103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.311292,48.881657,2.311292,48.881657",
     "geom:latitude":48.881657,
     "geom:longitude":2.311292,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Bd Malesherbes 75017 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152989103,
-    "wof:lastmodified":1449047691,
+    "wof:lastmodified":1466252572,
     "wof:name":"Stim D'orbigny Sa",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.311292,48.881657,2.311292,48.881657],
+  "bbox": [
+    2.311292,
+    48.881657,
+    2.311292,
+    48.881657
+],
   "geometry": {"coordinates":[2.311292,48.881657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168919825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.372166,48.876034,2.372166,48.876034",
     "geom:latitude":48.876034,
     "geom:longitude":2.372166,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Bd de la Villette, 75010 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168919825,
-    "wof:lastmodified":1449028388,
+    "wof:lastmodified":1466247873,
     "wof:name":"Editions Dupuis France S.a",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.372166,48.876034,2.372166,48.876034],
+  "bbox": [
+    2.372166,
+    48.876034,
+    2.372166,
+    48.876034
+],
   "geometry": {"coordinates":[2.372166,48.876034],"type":"Point"}
 }

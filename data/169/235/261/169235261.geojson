@@ -2,13 +2,14 @@
   "id": 169235261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.78367,48.544327,-2.78367,48.544327",
     "geom:latitude":48.544327,
     "geom:longitude":-2.78367,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue H\u00e9l\u00e8ne Boucher BP 304 22190 Plerin",
     "sg:city":"Pl\u00e9rin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169235261,
-    "wof:lastmodified":1449033258,
+    "wof:lastmodified":1466249551,
     "wof:name":"Armor Postformage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.78367,48.544327,-2.78367,48.544327],
+  "bbox": [
+    -2.78367,
+    48.544327,
+    -2.78367,
+    48.544327
+],
   "geometry": {"coordinates":[-2.78367,48.544327],"type":"Point"}
 }

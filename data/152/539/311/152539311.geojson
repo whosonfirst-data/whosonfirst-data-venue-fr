@@ -2,13 +2,14 @@
   "id": 152539311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3535,48.876675,2.3535,48.876675",
     "geom:latitude":48.876675,
     "geom:longitude":2.3535,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Rue de Chabrol, 75010 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873885,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497,
+        85873885,
         85873883
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152539311,
-    "wof:lastmodified":1449048987,
+    "wof:lastmodified":1466250967,
     "wof:name":"Imprimerie Schiffer S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3535,48.876675,2.3535,48.876675],
+  "bbox": [
+    2.3535,
+    48.876675,
+    2.3535,
+    48.876675
+],
   "geometry": {"coordinates":[2.3535,48.876675],"type":"Point"}
 }

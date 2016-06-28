@@ -2,13 +2,14 @@
   "id": 169047853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.690829,48.951477,2.690829,48.951477",
     "geom:latitude":48.951477,
     "geom:longitude":2.690829,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"La Ros\u00e9e Gressy 77410 Claye Souilly",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065403,
-        85633147,
         85683385,
-        85794641
+        85633147,
+        85794641,
+        102065403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169047853,
-    "wof:lastmodified":1449034811,
+    "wof:lastmodified":1466245971,
     "wof:name":"Mabillon P\u00e8re Et Fils S.a.",
     "wof:parent_id":85794641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.690829,48.951477,2.690829,48.951477],
+  "bbox": [
+    2.690829,
+    48.951477,
+    2.690829,
+    48.951477
+],
   "geometry": {"coordinates":[2.690829,48.951477],"type":"Point"}
 }

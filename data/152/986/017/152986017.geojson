@@ -2,13 +2,14 @@
   "id": 152986017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.44704,48.397213,-4.44704,48.397213",
     "geom:latitude":48.397213,
     "geom:longitude":-4.44704,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue Claude Bernard 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152986017,
-    "wof:lastmodified":1449048020,
+    "wof:lastmodified":1466252501,
     "wof:name":"Jlb Securite Sa",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.44704,48.397213,-4.44704,48.397213],
+  "bbox": [
+    -4.44704,
+    48.397213,
+    -4.44704,
+    48.397213
+],
   "geometry": {"coordinates":[-4.44704,48.397213],"type":"Point"}
 }

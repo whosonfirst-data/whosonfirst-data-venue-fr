@@ -2,13 +2,14 @@
   "id": 169077125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.300287,43.723518,7.300287,43.723518",
     "geom:latitude":43.723518,
     "geom:longitude":7.300287,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Observatoire de Nice",
     "sg:city":"Nice",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169077125,
-    "wof:lastmodified":1449033220,
+    "wof:lastmodified":1466247395,
     "wof:name":"O.c.a. - Observatoire De La C\u00f4te D'azur",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.300287,43.723518,7.300287,43.723518],
+  "bbox": [
+    7.300287,
+    43.723518,
+    7.300287,
+    43.723518
+],
   "geometry": {"coordinates":[7.300287,43.723518],"type":"Point"}
 }

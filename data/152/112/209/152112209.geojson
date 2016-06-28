@@ -2,13 +2,14 @@
   "id": 152112209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.359526,43.595333,1.359526,43.595333",
     "geom:latitude":43.595333,
     "geom:longitude":1.359526,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65",
     "sg:city":"Ramassiers 31770 Colomiers",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152112209,
-    "wof:lastmodified":1449046437,
+    "wof:lastmodified":1466248982,
     "wof:name":"Teisseire (sa)",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.359526,43.595333,1.359526,43.595333],
+  "bbox": [
+    1.359526,
+    43.595333,
+    1.359526,
+    43.595333
+],
   "geometry": {"coordinates":[1.359526,43.595333],"type":"Point"}
 }

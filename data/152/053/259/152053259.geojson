@@ -2,13 +2,14 @@
   "id": 152053259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06281,50.637184,3.06281,50.637184",
     "geom:latitude":50.637184,
     "geom:longitude":3.06281,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Palais de la Bourse; B.P. 500; LILLE; 59001",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152053259,
-    "wof:lastmodified":1449045172,
+    "wof:lastmodified":1466246106,
     "wof:name":"Chambre De Commerce Et D'industrie De Nord-pas-de-calais",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06281,50.637184,3.06281,50.637184],
+  "bbox": [
+    3.06281,
+    50.637184,
+    3.06281,
+    50.637184
+],
   "geometry": {"coordinates":[3.06281,50.637184],"type":"Point"}
 }

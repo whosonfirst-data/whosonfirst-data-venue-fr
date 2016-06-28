@@ -2,13 +2,14 @@
   "id": 152123311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334037,48.881439,2.334037,48.881439",
     "geom:latitude":48.881439,
     "geom:longitude":2.334037,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 R Fontaine 75009 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152123311,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466249185,
     "wof:name":"Clairvoy Edouard",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334037,48.881439,2.334037,48.881439],
+  "bbox": [
+    2.334037,
+    48.881439,
+    2.334037,
+    48.881439
+],
   "geometry": {"coordinates":[2.334037,48.881439],"type":"Point"}
 }

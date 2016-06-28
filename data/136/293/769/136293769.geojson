@@ -2,13 +2,14 @@
   "id": 136293769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.514304,47.253746,-1.514304,47.253746",
     "geom:latitude":47.253746,
     "geom:longitude":-1.514304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte De Paris 44949 Nantes Cedex 9",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136293769,
-    "wof:lastmodified":1449075165,
+    "wof:lastmodified":1466246419,
     "wof:name":"Caisse Regionale De Credit Agricol Atlantque Vendee",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.514304,47.253746,-1.514304,47.253746],
+  "bbox": [
+    -1.514304,
+    47.253746,
+    -1.514304,
+    47.253746
+],
   "geometry": {"coordinates":[-1.514304,47.253746],"type":"Point"}
 }

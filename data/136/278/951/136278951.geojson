@@ -2,13 +2,14 @@
   "id": 136278951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.419296,48.620197,2.419296,48.620197",
     "geom:latitude":48.620197,
     "geom:longitude":2.419296,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Du Bois Briard",
     "sg:city":"Courcouronnes",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278951,
-    "wof:lastmodified":1449075656,
+    "wof:lastmodified":1466245430,
     "wof:name":"Sigest 1",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.419296,48.620197,2.419296,48.620197],
+  "bbox": [
+    2.419296,
+    48.620197,
+    2.419296,
+    48.620197
+],
   "geometry": {"coordinates":[2.419296,48.620197],"type":"Point"}
 }

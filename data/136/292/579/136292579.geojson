@@ -2,13 +2,14 @@
   "id": 136292579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.429522,48.881519,2.429522,48.881519",
     "geom:latitude":48.881519,
     "geom:longitude":2.429522,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Av De Verdun 93230 Romainville",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136292579,
-    "wof:lastmodified":1449075003,
+    "wof:lastmodified":1466247498,
     "wof:name":"Nokia France Sa",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.429522,48.881519,2.429522,48.881519],
+  "bbox": [
+    2.429522,
+    48.881519,
+    2.429522,
+    48.881519
+],
   "geometry": {"coordinates":[2.429522,48.881519],"type":"Point"}
 }

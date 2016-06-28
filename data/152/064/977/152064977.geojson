@@ -2,13 +2,14 @@
   "id": 152064977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.573579,47.214024,-1.573579,47.214024",
     "geom:latitude":47.214024,
     "geom:longitude":-1.573579,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Bis R Alfred Riom 44100 Nantes",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064977,
-    "wof:lastmodified":1449045939,
+    "wof:lastmodified":1466247279,
     "wof:name":"Alphacoms",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.573579,47.214024,-1.573579,47.214024],
+  "bbox": [
+    -1.573579,
+    47.214024,
+    -1.573579,
+    47.214024
+],
   "geometry": {"coordinates":[-1.573579,47.214024],"type":"Point"}
 }

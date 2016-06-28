@@ -2,13 +2,14 @@
   "id": 152504267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.27325,48.730282,2.27325,48.730282",
     "geom:latitude":48.730282,
     "geom:longitude":2.27325,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91886 Massy C\u00e9dex^^2/12, Chemin des Femmes - Immeuble Odyss\u00e9e B\u00e2t. D, 91300 Massy",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152504267,
-    "wof:lastmodified":1449045119,
+    "wof:lastmodified":1466250806,
     "wof:name":"Global Knowledge S.a.",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.27325,48.730282,2.27325,48.730282],
+  "bbox": [
+    2.27325,
+    48.730282,
+    2.27325,
+    48.730282
+],
   "geometry": {"coordinates":[2.27325,48.730282],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152099743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.473748,48.427605,-4.473748,48.427605",
     "geom:latitude":48.427605,
     "geom:longitude":-4.473748,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 R Romain Desfoss\u00e9s 29850 Gouesnou",
     "sg:city":"Gouesnou",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152099743,
-    "wof:lastmodified":1449047308,
+    "wof:lastmodified":1466248604,
     "wof:name":"Jardinerie Stervinou Sarl",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.473748,48.427605,-4.473748,48.427605],
+  "bbox": [
+    -4.473748,
+    48.427605,
+    -4.473748,
+    48.427605
+],
   "geometry": {"coordinates":[-4.473748,48.427605],"type":"Point"}
 }

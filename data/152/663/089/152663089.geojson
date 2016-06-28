@@ -2,13 +2,14 @@
   "id": 152663089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.792862,35.02861,-85.792862,35.02861",
     "geom:latitude":35.02861,
     "geom:longitude":-85.792862,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"La Tellerie",
     "sg:city":"Athis de l'Orme",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85823635,
+        85688701,
         85633793,
         101722495,
         102086347,
-        85688701
+        85823635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152663089,
-    "wof:lastmodified":1449047701,
+    "wof:lastmodified":1466251386,
     "wof:name":"Parmanat S.a.",
     "wof:parent_id":85823635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.792862,35.02861,-85.792862,35.02861],
+  "bbox": [
+    -85.792862,
+    35.02861,
+    -85.792862,
+    35.02861
+],
   "geometry": {"coordinates":[-85.792862,35.02861],"type":"Point"}
 }

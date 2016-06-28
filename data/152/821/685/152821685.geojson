@@ -2,13 +2,14 @@
   "id": 152821685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74147,48.635509,7.74147,48.635509",
     "geom:latitude":48.635509,
     "geom:longitude":7.74147,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 59, 67460 Souffelweyersheim^^32, Rue des Tuileries - ZA de la Souffel, 67460 Souffelweyersheim",
     "sg:city":"Souffelweyersheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794511,
+        85683221,
         85633147,
         101753005,
         102068507,
-        85683221
+        85794511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152821685,
-    "wof:lastmodified":1449046818,
+    "wof:lastmodified":1466252063,
     "wof:name":"Toiles Industrielles Du Rhin S.a.",
     "wof:parent_id":85794511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74147,48.635509,7.74147,48.635509],
+  "bbox": [
+    7.74147,
+    48.635509,
+    7.74147,
+    48.635509
+],
   "geometry": {"coordinates":[7.74147,48.635509],"type":"Point"}
 }

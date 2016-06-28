@@ -2,13 +2,14 @@
   "id": 152610415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332776,48.89455,2.332776,48.89455",
     "geom:latitude":48.89455,
     "geom:longitude":2.332776,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Georgette Agutte, 75018 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874007,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152610415,
-    "wof:lastmodified":1449048835,
+    "wof:lastmodified":1466251222,
     "wof:name":"Manumesure S.a.",
     "wof:parent_id":85874007,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332776,48.89455,2.332776,48.89455],
+  "bbox": [
+    2.332776,
+    48.89455,
+    2.332776,
+    48.89455
+],
   "geometry": {"coordinates":[2.332776,48.89455],"type":"Point"}
 }

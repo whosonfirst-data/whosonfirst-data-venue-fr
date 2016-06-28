@@ -2,13 +2,14 @@
   "id": 152175583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.554793,44.836266,-0.554793,44.836266",
     "geom:latitude":44.836266,
     "geom:longitude":-0.554793,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Quartiers Deschamps 33100 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863277,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85863277
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152175583,
-    "wof:lastmodified":1449047502,
+    "wof:lastmodified":1466249653,
     "wof:name":"Ateliers Et Materiaux De La Nive Sa",
     "wof:parent_id":85863277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.554793,44.836266,-0.554793,44.836266],
+  "bbox": [
+    -0.554793,
+    44.836266,
+    -0.554793,
+    44.836266
+],
   "geometry": {"coordinates":[-0.554793,44.836266],"type":"Point"}
 }

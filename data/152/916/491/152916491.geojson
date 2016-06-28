@@ -2,13 +2,14 @@
   "id": 152916491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.368696,48.832546,2.368696,48.832546",
     "geom:latitude":48.832546,
     "geom:longitude":2.368696,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 Rue Baudoin 75013 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152916491,
-    "wof:lastmodified":1449046828,
+    "wof:lastmodified":1466252296,
     "wof:name":"Plaisir Du Livre",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.368696,48.832546,2.368696,48.832546],
+  "bbox": [
+    2.368696,
+    48.832546,
+    2.368696,
+    48.832546
+],
   "geometry": {"coordinates":[2.368696,48.832546],"type":"Point"}
 }

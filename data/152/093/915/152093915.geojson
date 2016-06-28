@@ -2,13 +2,14 @@
   "id": 152093915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.870512,47.839455,-2.870512,47.839455",
     "geom:latitude":47.839455,
     "geom:longitude":-2.870512,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Kerb\u00e9thune Mor\u00e9ac 56500 Locmin\u00e9 Cedex",
     "sg:city":"Mor\u00e9ac",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152093915,
-    "wof:lastmodified":1449044300,
+    "wof:lastmodified":1466248343,
     "wof:name":"Floc'h Et Marchand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.870512,47.839455,-2.870512,47.839455],
+  "bbox": [
+    -2.870512,
+    47.839455,
+    -2.870512,
+    47.839455
+],
   "geometry": {"coordinates":[-2.870512,47.839455],"type":"Point"}
 }

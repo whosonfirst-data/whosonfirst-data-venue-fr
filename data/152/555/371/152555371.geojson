@@ -2,13 +2,14 @@
   "id": 152555371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.632003,48.125603,-1.632003,48.125603",
     "geom:latitude":48.125603,
     "geom:longitude":-1.632003,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Av. des Buttes de Co\u00ebsmes, 35043 Rennes C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152555371,
-    "wof:lastmodified":1449048260,
+    "wof:lastmodified":1466251184,
     "wof:name":"Junior Entreprise Ouest Insa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.632003,48.125603,-1.632003,48.125603],
+  "bbox": [
+    -1.632003,
+    48.125603,
+    -1.632003,
+    48.125603
+],
   "geometry": {"coordinates":[-1.632003,48.125603],"type":"Point"}
 }

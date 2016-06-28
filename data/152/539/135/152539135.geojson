@@ -2,13 +2,14 @@
   "id": 152539135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.725851,49.770641,4.725851,49.770641",
     "geom:latitude":49.770641,
     "geom:longitude":4.725851,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue Alexandre, 08000 Charleville M\u00e9zi\u00e8res",
     "sg:city":"Charleville-M\u00e9zi\u00e8res",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152539135,
-    "wof:lastmodified":1449048988,
+    "wof:lastmodified":1466251163,
     "wof:name":"Imprimerie Saingery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.725851,49.770641,4.725851,49.770641],
+  "bbox": [
+    4.725851,
+    49.770641,
+    4.725851,
+    49.770641
+],
   "geometry": {"coordinates":[4.725851,49.770641],"type":"Point"}
 }

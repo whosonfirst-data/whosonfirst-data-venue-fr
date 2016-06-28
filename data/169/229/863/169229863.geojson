@@ -2,13 +2,14 @@
   "id": 169229863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.405441,48.867867,2.405441,48.867867",
     "geom:latitude":48.867867,
     "geom:longitude":2.405441,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 rue Etienne Marey 75020 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874043,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169229863,
-    "wof:lastmodified":1449035296,
+    "wof:lastmodified":1466249194,
     "wof:name":"G.k. Productions Sas",
     "wof:parent_id":85874043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.405441,48.867867,2.405441,48.867867],
+  "bbox": [
+    2.405441,
+    48.867867,
+    2.405441,
+    48.867867
+],
   "geometry": {"coordinates":[2.405441,48.867867],"type":"Point"}
 }

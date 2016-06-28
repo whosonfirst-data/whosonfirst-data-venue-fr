@@ -2,13 +2,14 @@
   "id": 136306345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.302774,48.875813,2.302774,48.875813",
     "geom:latitude":48.875813,
     "geom:longitude":2.302774,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 rue Balzac; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136306345,
-    "wof:lastmodified":1449076207,
+    "wof:lastmodified":1466246971,
     "wof:name":"Skandinaviska, Ensikilda Banken Ab",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.302774,48.875813,2.302774,48.875813],
+  "bbox": [
+    2.302774,
+    48.875813,
+    2.302774,
+    48.875813
+],
   "geometry": {"coordinates":[2.302774,48.875813],"type":"Point"}
 }

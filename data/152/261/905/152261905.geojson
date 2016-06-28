@@ -2,13 +2,14 @@
   "id": 152261905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334791,48.865318,2.334791,48.865318",
     "geom:latitude":48.865318,
     "geom:longitude":2.334791,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Av. Op\u00e9ra, 75040 Paris C\u00e9dex 01",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873799,
-        102067221
+        85873791,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152261905,
-    "wof:lastmodified":1449044369,
+    "wof:lastmodified":1466249660,
     "wof:name":"Algeco S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334791,48.865318,2.334791,48.865318],
+  "bbox": [
+    2.334791,
+    48.865318,
+    2.334791,
+    48.865318
+],
   "geometry": {"coordinates":[2.334791,48.865318],"type":"Point"}
 }

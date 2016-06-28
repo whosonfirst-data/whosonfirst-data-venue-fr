@@ -2,13 +2,14 @@
   "id": 152400655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.13231,49.498619,0.13231,49.498619",
     "geom:latitude":49.498619,
     "geom:longitude":0.13231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Suai Colbert, 76080 Le Havre C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152400655,
-    "wof:lastmodified":1449044759,
+    "wof:lastmodified":1466250459,
     "wof:name":"Delmas Le Havre S.a.",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.13231,49.498619,0.13231,49.498619],
+  "bbox": [
+    0.13231,
+    49.498619,
+    0.13231,
+    49.498619
+],
   "geometry": {"coordinates":[0.13231,49.498619],"type":"Point"}
 }

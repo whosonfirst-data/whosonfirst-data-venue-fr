@@ -2,13 +2,14 @@
   "id": 169204229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.59491,47.152016,-1.59491,47.152016",
     "geom:latitude":47.152016,
     "geom:longitude":-1.59491,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Santos Dumont",
     "sg:city":"Saint Aignan Grandlieu",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169204229,
-    "wof:lastmodified":1449036062,
+    "wof:lastmodified":1466249061,
     "wof:name":"Transports Graveleau S.a.",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.59491,47.152016,-1.59491,47.152016],
+  "bbox": [
+    -1.59491,
+    47.152016,
+    -1.59491,
+    47.152016
+],
   "geometry": {"coordinates":[-1.59491,47.152016],"type":"Point"}
 }

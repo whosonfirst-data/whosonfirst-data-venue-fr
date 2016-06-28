@@ -2,13 +2,14 @@
   "id": 152102593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.362906,48.911785,2.362906,48.911785",
     "geom:latitude":48.911785,
     "geom:longitude":2.362906,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue De La Procession 93210 La Plaine St Denis",
     "sg:city":"Plaine",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152102593,
-    "wof:lastmodified":1449048574,
+    "wof:lastmodified":1466248932,
     "wof:name":"Ets Dumas Sarl",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.362906,48.911785,2.362906,48.911785],
+  "bbox": [
+    2.362906,
+    48.911785,
+    2.362906,
+    48.911785
+],
   "geometry": {"coordinates":[2.362906,48.911785],"type":"Point"}
 }

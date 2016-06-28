@@ -2,13 +2,14 @@
   "id": 152128453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.089832,48.740353,2.089832,48.740353",
     "geom:latitude":48.740353,
     "geom:longitude":2.089832,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2",
     "sg:city":"Dix Toises 78117 Ch\u00e2teaufort",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152128453,
-    "wof:lastmodified":1449046118,
+    "wof:lastmodified":1466249423,
     "wof:name":"Asco Instruments",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.089832,48.740353,2.089832,48.740353],
+  "bbox": [
+    2.089832,
+    48.740353,
+    2.089832,
+    48.740353
+],
   "geometry": {"coordinates":[2.089832,48.740353],"type":"Point"}
 }

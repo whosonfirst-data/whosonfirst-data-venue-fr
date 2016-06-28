@@ -2,13 +2,14 @@
   "id": 136280935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38604,48.862938,2.38604,48.862938",
     "geom:latitude":48.862938,
     "geom:longitude":2.38604,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Av De La R\u00e9publique 75011 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874039,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136280935,
-    "wof:lastmodified":1449075560,
+    "wof:lastmodified":1466245591,
     "wof:name":"Agir Publicite Sa",
     "wof:parent_id":85874039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38604,48.862938,2.38604,48.862938],
+  "bbox": [
+    2.38604,
+    48.862938,
+    2.38604,
+    48.862938
+],
   "geometry": {"coordinates":[2.38604,48.862938],"type":"Point"}
 }

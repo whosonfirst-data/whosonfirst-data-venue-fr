@@ -2,13 +2,14 @@
   "id": 136287385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.361253,48.890957,2.361253,48.890957",
     "geom:latitude":48.890957,
     "geom:longitude":2.361253,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Av Jean L'Olive 93500 Pantin",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874009,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136287385,
-    "wof:lastmodified":1449074984,
+    "wof:lastmodified":1466245955,
     "wof:name":"Medecine De Prevention Professionelle",
     "wof:parent_id":85874009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.361253,48.890957,2.361253,48.890957],
+  "bbox": [
+    2.361253,
+    48.890957,
+    2.361253,
+    48.890957
+],
   "geometry": {"coordinates":[2.361253,48.890957],"type":"Point"}
 }

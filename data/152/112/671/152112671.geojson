@@ -2,13 +2,14 @@
   "id": 152112671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.396912,38.051048,-120.396912,38.051048",
     "geom:latitude":38.051048,
     "geom:longitude":-120.396912,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue Paul Painlev\u00e9 95310 St Ouen l'Aumone",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867437,
+        85688637,
         85633793,
         85922327,
         102086939,
-        85688637
+        85867437
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152112671,
-    "wof:lastmodified":1449046434,
+    "wof:lastmodified":1466249103,
     "wof:name":"Mobrey S.a.",
     "wof:parent_id":85867437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.396912,38.051048,-120.396912,38.051048],
+  "bbox": [
+    -120.396912,
+    38.051048,
+    -120.396912,
+    38.051048
+],
   "geometry": {"coordinates":[-120.396912,38.051048],"type":"Point"}
 }

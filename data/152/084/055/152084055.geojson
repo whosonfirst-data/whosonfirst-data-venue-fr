@@ -2,13 +2,14 @@
   "id": 152084055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.295009,48.869366,2.295009,48.869366",
     "geom:latitude":48.869366,
     "geom:longitude":2.295009,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33 rue Galil\u00e9e 75116 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152084055,
-    "wof:lastmodified":1449044806,
+    "wof:lastmodified":1466247770,
     "wof:name":"33 Galil\u00e9e Sa",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.295009,48.869366,2.295009,48.869366],
+  "bbox": [
+    2.295009,
+    48.869366,
+    2.295009,
+    48.869366
+],
   "geometry": {"coordinates":[2.295009,48.869366],"type":"Point"}
 }

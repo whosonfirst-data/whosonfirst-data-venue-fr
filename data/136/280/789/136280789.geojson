@@ -2,13 +2,14 @@
   "id": 136280789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.411543,48.822742,2.411543,48.822742",
     "geom:latitude":48.822742,
     "geom:longitude":2.411543,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"99 rue de Paris 94220 Charenton le Pont",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136280789,
-    "wof:lastmodified":1449075560,
+    "wof:lastmodified":1466245560,
     "wof:name":"Somata International Sa",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.411543,48.822742,2.411543,48.822742],
+  "bbox": [
+    2.411543,
+    48.822742,
+    2.411543,
+    48.822742
+],
   "geometry": {"coordinates":[2.411543,48.822742],"type":"Point"}
 }

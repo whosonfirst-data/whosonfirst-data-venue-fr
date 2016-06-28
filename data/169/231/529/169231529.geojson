@@ -2,13 +2,14 @@
   "id": 169231529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.035328,49.051376,-1.035328,49.051376",
     "geom:latitude":49.051376,
     "geom:longitude":-1.035328,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Alfred Duros 50890 Cond\u00e9 Sur Vire",
     "sg:city":"Cond\u00e9-sur-Vire",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169231529,
-    "wof:lastmodified":1449034367,
+    "wof:lastmodified":1466249259,
     "wof:name":"Cuisines Jean Louis Morel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.035328,49.051376,-1.035328,49.051376],
+  "bbox": [
+    -1.035328,
+    49.051376,
+    -1.035328,
+    49.051376
+],
   "geometry": {"coordinates":[-1.035328,49.051376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152085129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.044862,49.454662,1.044862,49.454662",
     "geom:latitude":49.454662,
     "geom:longitude":1.044862,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Du Canal 76380 Canteleu",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152085129,
-    "wof:lastmodified":1449045454,
+    "wof:lastmodified":1466247783,
     "wof:name":"Nathalie Requin Creation",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.044862,49.454662,1.044862,49.454662],
+  "bbox": [
+    1.044862,
+    49.454662,
+    1.044862,
+    49.454662
+],
   "geometry": {"coordinates":[1.044862,49.454662],"type":"Point"}
 }

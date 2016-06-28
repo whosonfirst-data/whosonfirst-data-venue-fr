@@ -2,13 +2,14 @@
   "id": 152915795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.324385,48.843609,2.324385,48.843609",
     "geom:latitude":48.843609,
     "geom:longitude":2.324385,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Du Depart 75014 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152915795,
-    "wof:lastmodified":1449048862,
+    "wof:lastmodified":1466252303,
     "wof:name":"Meditions Coprah",
     "wof:parent_id":85873837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.324385,48.843609,2.324385,48.843609],
+  "bbox": [
+    2.324385,
+    48.843609,
+    2.324385,
+    48.843609
+],
   "geometry": {"coordinates":[2.324385,48.843609],"type":"Point"}
 }

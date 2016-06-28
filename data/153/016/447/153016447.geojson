@@ -2,13 +2,14 @@
   "id": 153016447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.733795,48.578323,7.733795,48.578323",
     "geom:latitude":48.578323,
     "geom:longitude":7.733795,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 rue d'Obernai 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":153016447,
-    "wof:lastmodified":1449040410,
+    "wof:lastmodified":1466246029,
     "wof:name":"Interimexpress S.a.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.733795,48.578323,7.733795,48.578323],
+  "bbox": [
+    7.733795,
+    48.578323,
+    7.733795,
+    48.578323
+],
   "geometry": {"coordinates":[7.733795,48.578323],"type":"Point"}
 }

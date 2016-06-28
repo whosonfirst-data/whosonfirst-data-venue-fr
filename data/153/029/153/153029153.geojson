@@ -2,13 +2,14 @@
   "id": 153029153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.669019,47.930828,-1.669019,47.930828",
     "geom:latitude":47.930828,
     "geom:longitude":-1.669019,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc Activit\u00e9s De Ferchaud 35320 Cr\u00e9vin",
     "sg:city":"Cr\u00e9vin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153029153,
-    "wof:lastmodified":1449040524,
+    "wof:lastmodified":1466246994,
     "wof:name":"Chrono Route Bretagne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.669019,47.930828,-1.669019,47.930828],
+  "bbox": [
+    -1.669019,
+    47.930828,
+    -1.669019,
+    47.930828
+],
   "geometry": {"coordinates":[-1.669019,47.930828],"type":"Point"}
 }

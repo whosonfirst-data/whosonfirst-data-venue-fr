@@ -2,13 +2,14 @@
   "id": 152115355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.26736,48.882973,2.26736,48.882973",
     "geom:latitude":48.882973,
     "geom:longitude":2.26736,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"120 avenue Charles de Gaulle 92200 Neuilly sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152115355,
-    "wof:lastmodified":1449044251,
+    "wof:lastmodified":1466249207,
     "wof:name":"Laarsen Consultant Sas",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.26736,48.882973,2.26736,48.882973],
+  "bbox": [
+    2.26736,
+    48.882973,
+    2.26736,
+    48.882973
+],
   "geometry": {"coordinates":[2.26736,48.882973],"type":"Point"}
 }

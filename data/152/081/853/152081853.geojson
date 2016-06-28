@@ -2,13 +2,14 @@
   "id": 152081853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.499656,43.776203,7.499656,43.776203",
     "geom:latitude":43.776203,
     "geom:longitude":7.499656,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Rue Henry Greville 06500 Menton",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152081853,
-    "wof:lastmodified":1449045738,
+    "wof:lastmodified":1466247578,
     "wof:name":"Vivendi Secteur Nice",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.499656,43.776203,7.499656,43.776203],
+  "bbox": [
+    7.499656,
+    43.776203,
+    7.499656,
+    43.776203
+],
   "geometry": {"coordinates":[7.499656,43.776203],"type":"Point"}
 }

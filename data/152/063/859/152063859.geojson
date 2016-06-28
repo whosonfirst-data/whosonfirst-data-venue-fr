@@ -2,13 +2,14 @@
   "id": 152063859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.354375,48.859737,2.354375,48.859737",
     "geom:latitude":48.859737,
     "geom:longitude":2.354375,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38 R Du Temple 75004 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873813,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152063859,
-    "wof:lastmodified":1449044704,
+    "wof:lastmodified":1466247176,
     "wof:name":"Par Avance Mode Diffusion",
     "wof:parent_id":85873813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.354375,48.859737,2.354375,48.859737],
+  "bbox": [
+    2.354375,
+    48.859737,
+    2.354375,
+    48.859737
+],
   "geometry": {"coordinates":[2.354375,48.859737],"type":"Point"}
 }

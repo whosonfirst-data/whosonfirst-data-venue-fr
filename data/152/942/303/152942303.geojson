@@ -2,13 +2,14 @@
   "id": 152942303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.313167,48.870876,2.313167,48.870876",
     "geom:latitude":48.870876,
     "geom:longitude":2.313167,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21-23 avenue Matignon; Paris; 75008",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152942303,
-    "wof:lastmodified":1449046420,
+    "wof:lastmodified":1466252392,
     "wof:name":"Finaxa",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.313167,48.870876,2.313167,48.870876],
+  "bbox": [
+    2.313167,
+    48.870876,
+    2.313167,
+    48.870876
+],
   "geometry": {"coordinates":[2.313167,48.870876],"type":"Point"}
 }

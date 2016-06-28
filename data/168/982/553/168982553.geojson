@@ -2,13 +2,14 @@
   "id": 168982553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.577072,44.772278,-0.577072,44.772278",
     "geom:latitude":44.772278,
     "geom:longitude":-0.577072,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rte de L\u00e9ognan - Immeuble Topaze",
     "sg:city":"Villenave d'Ornon",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168982553,
-    "wof:lastmodified":1449027903,
+    "wof:lastmodified":1466248760,
     "wof:name":"G\u00e9fran Coreci S.a.",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.577072,44.772278,-0.577072,44.772278],
+  "bbox": [
+    -0.577072,
+    44.772278,
+    -0.577072,
+    44.772278
+],
   "geometry": {"coordinates":[-0.577072,44.772278],"type":"Point"}
 }

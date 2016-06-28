@@ -2,13 +2,14 @@
   "id": 153006713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.490234,47.181744,-1.490234,47.181744",
     "geom:latitude":47.181744,
     "geom:longitude":-1.490234,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue des Clouzeaux 44120 Vertou",
     "sg:classifiers":[],
     "sg:orig_category":"Syringes For Veterinary Medicine",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153006713,
-    "wof:lastmodified":1449040723,
+    "wof:lastmodified":1466245491,
     "wof:name":"St\u00e9 Fab. Barbot-genia Sa",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.490234,47.181744,-1.490234,47.181744],
+  "bbox": [
+    -1.490234,
+    47.181744,
+    -1.490234,
+    47.181744
+],
   "geometry": {"coordinates":[-1.490234,47.181744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153035831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.310866,48.887817,2.310866,48.887817",
     "geom:latitude":48.887817,
     "geom:longitude":2.310866,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2",
     "sg:city":"De Pusy; Paris; 75017",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153035831,
-    "wof:lastmodified":1449040729,
+    "wof:lastmodified":1466247431,
     "wof:name":"Paris Trip",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.310866,48.887817,2.310866,48.887817],
+  "bbox": [
+    2.310866,
+    48.887817,
+    2.310866,
+    48.887817
+],
   "geometry": {"coordinates":[2.310866,48.887817],"type":"Point"}
 }

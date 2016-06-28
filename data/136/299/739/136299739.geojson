@@ -2,13 +2,14 @@
   "id": 136299739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.315613,38.708336,-90.315613,38.708336",
     "geom:latitude":38.708336,
     "geom:longitude":-90.315613,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Centre Commercial Carre; Bellerive",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85859027,
+        85688661,
         85633793,
         85972205,
         102086173,
-        85688661
+        85859027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136299739,
-    "wof:lastmodified":1449075232,
+    "wof:lastmodified":1466246636,
     "wof:name":"Banque Populaire Du Massif Central",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.315613,38.708336,-90.315613,38.708336],
+  "bbox": [
+    -90.315613,
+    38.708336,
+    -90.315613,
+    38.708336
+],
   "geometry": {"coordinates":[-90.315613,38.708336],"type":"Point"}
 }

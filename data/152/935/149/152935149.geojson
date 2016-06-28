@@ -2,13 +2,14 @@
   "id": 152935149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.44954,43.639011,1.44954,43.639011",
     "geom:latitude":43.639011,
     "geom:longitude":1.44954,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Chabanon Et 6 Et 10 31200 Toulouse",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864265,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85864265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152935149,
-    "wof:lastmodified":1449048086,
+    "wof:lastmodified":1466252338,
     "wof:name":"Aranda Mas",
     "wof:parent_id":85864265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.44954,43.639011,1.44954,43.639011],
+  "bbox": [
+    1.44954,
+    43.639011,
+    1.44954,
+    43.639011
+],
   "geometry": {"coordinates":[1.44954,43.639011],"type":"Point"}
 }
