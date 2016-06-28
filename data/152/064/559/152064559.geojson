@@ -2,13 +2,14 @@
   "id": 152064559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.35388,48.833538,2.35388,48.833538",
     "geom:latitude":48.833538,
     "geom:longitude":2.35388,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Av Des Gobelins 75013 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873917,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064559,
-    "wof:lastmodified":1449045940,
+    "wof:lastmodified":1466247194,
     "wof:name":"Megaphot Sarl",
     "wof:parent_id":85873917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.35388,48.833538,2.35388,48.833538],
+  "bbox": [
+    2.35388,
+    48.833538,
+    2.35388,
+    48.833538
+],
   "geometry": {"coordinates":[2.35388,48.833538],"type":"Point"}
 }

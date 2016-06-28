@@ -2,13 +2,14 @@
   "id": 152237037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332278,48.874851,2.332278,48.874851",
     "geom:latitude":48.874851,
     "geom:longitude":2.332278,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"66, Rue de Chauss\u00e9e d'Antin, 75431 Paris C\u00e9dex 9",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152237037,
-    "wof:lastmodified":1449044409,
+    "wof:lastmodified":1466249856,
     "wof:name":"A.d.g.",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332278,48.874851,2.332278,48.874851],
+  "bbox": [
+    2.332278,
+    48.874851,
+    2.332278,
+    48.874851
+],
   "geometry": {"coordinates":[2.332278,48.874851],"type":"Point"}
 }

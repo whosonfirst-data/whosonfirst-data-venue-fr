@@ -2,13 +2,14 @@
   "id": 152078813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.426651,48.85239,2.426651,48.85239",
     "geom:latitude":48.85239,
     "geom:longitude":2.426651,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rue Diderot 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152078813,
-    "wof:lastmodified":1449048198,
+    "wof:lastmodified":1466247046,
     "wof:name":"Societe Electro Contact Sarl",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.426651,48.85239,2.426651,48.85239],
+  "bbox": [
+    2.426651,
+    48.85239,
+    2.426651,
+    48.85239
+],
   "geometry": {"coordinates":[2.426651,48.85239],"type":"Point"}
 }

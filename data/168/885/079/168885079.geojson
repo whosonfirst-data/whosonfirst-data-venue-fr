@@ -2,13 +2,14 @@
   "id": 168885079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.991231,51.047527,6.991231,51.047527",
     "geom:latitude":51.047527,
     "geom:longitude":6.991231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Rue de l'Eglise, 51310 Bouchy Saint Genest",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85795003,
+        85682513,
         85633111,
         101748641,
         102063721,
-        85682513
+        85795003
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168885079,
-    "wof:lastmodified":1449028183,
+    "wof:lastmodified":1466246984,
     "wof:name":"Coop\u00e9rative De D\u00e9shydratation Brie Champenoise",
     "wof:parent_id":85795003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.991231,51.047527,6.991231,51.047527],
+  "bbox": [
+    6.991231,
+    51.047527,
+    6.991231,
+    51.047527
+],
   "geometry": {"coordinates":[6.991231,51.047527],"type":"Point"}
 }

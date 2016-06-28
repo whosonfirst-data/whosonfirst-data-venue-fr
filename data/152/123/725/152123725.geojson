@@ -2,13 +2,14 @@
   "id": 152123725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.360995,48.867702,2.360995,48.867702",
     "geom:latitude":48.867702,
     "geom:longitude":2.360995,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Meslay 75003 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152123725,
-    "wof:lastmodified":1449045687,
+    "wof:lastmodified":1466249217,
     "wof:name":"Kestand Dahele",
     "wof:parent_id":85873805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.360995,48.867702,2.360995,48.867702],
+  "bbox": [
+    2.360995,
+    48.867702,
+    2.360995,
+    48.867702
+],
   "geometry": {"coordinates":[2.360995,48.867702],"type":"Point"}
 }

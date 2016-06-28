@@ -2,13 +2,14 @@
   "id": 152064239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.378515,48.833206,2.378515,48.833206",
     "geom:latitude":48.833206,
     "geom:longitude":2.378515,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai Fran\u00e7ois Mauriac 75706 Paris Cedex 13",
     "sg:classifiers":[
         {
@@ -27,13 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873907,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497,
-        85873919,
-        102069301
+        85873907,
+        102069301,
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152064239,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247127,
     "wof:name":"Bibliotheque Nationale De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.378515,48.833206,2.378515,48.833206],
+  "bbox": [
+    2.378515,
+    48.833206,
+    2.378515,
+    48.833206
+],
   "geometry": {"coordinates":[2.378515,48.833206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153035257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.302045,48.871395,2.302045,48.871395",
     "geom:latitude":48.871395,
     "geom:longitude":2.302045,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91",
     "sg:city":"des Champs Elys\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a9es; Paris; 75008",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153035257,
-    "wof:lastmodified":1449040728,
+    "wof:lastmodified":1466247405,
     "wof:name":"Gardens And Ch\u00c3\u0192\u00c6\u2019\u00c3\u201a\u00c2\u00a2teaux In Ile-de-france",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.302045,48.871395,2.302045,48.871395],
+  "bbox": [
+    2.302045,
+    48.871395,
+    2.302045,
+    48.871395
+],
   "geometry": {"coordinates":[2.302045,48.871395],"type":"Point"}
 }

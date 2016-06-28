@@ -2,13 +2,14 @@
   "id": 152065259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.050511,50.631741,3.050511,50.631741",
     "geom:latitude":50.631741,
     "geom:longitude":3.050511,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Rue Nationale 59800 Lille",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071875,
-        85633147,
         85683445,
-        85863287
+        85633147,
+        85863287,
+        102071875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152065259,
-    "wof:lastmodified":1449048850,
+    "wof:lastmodified":1466247177,
     "wof:name":"Lgpc Le Galibot",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.050511,50.631741,3.050511,50.631741],
+  "bbox": [
+    3.050511,
+    50.631741,
+    3.050511,
+    50.631741
+],
   "geometry": {"coordinates":[3.050511,50.631741],"type":"Point"}
 }

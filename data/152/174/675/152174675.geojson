@@ -2,13 +2,14 @@
   "id": 152174675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.915161,43.037689,-87.915161,43.037689",
     "geom:latitude":43.037689,
     "geom:longitude":-87.915161,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zone Industrielle De Bellitourne 53203 Aze Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870965,
+        85688517,
         85633793,
         101732987,
         102081837,
-        85688517
+        85870965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152174675,
-    "wof:lastmodified":1449044934,
+    "wof:lastmodified":1466249657,
     "wof:name":"Aciers Transformations Services Ats",
     "wof:parent_id":85870965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.915161,43.037689,-87.915161,43.037689],
+  "bbox": [
+    -87.915161,
+    43.037689,
+    -87.915161,
+    43.037689
+],
   "geometry": {"coordinates":[-87.915161,43.037689],"type":"Point"}
 }

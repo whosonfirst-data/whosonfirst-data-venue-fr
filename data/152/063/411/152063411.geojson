@@ -2,13 +2,14 @@
   "id": 152063411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.081295,50.638107,3.081295,50.638107",
     "geom:latitude":50.638107,
     "geom:longitude":3.081295,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 R Du Ch\u00e2teau 59800 Lille",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152063411,
-    "wof:lastmodified":1449044702,
+    "wof:lastmodified":1466247084,
     "wof:name":"Vs 2000 Sa",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.081295,50.638107,3.081295,50.638107],
+  "bbox": [
+    3.081295,
+    50.638107,
+    3.081295,
+    50.638107
+],
   "geometry": {"coordinates":[3.081295,50.638107],"type":"Point"}
 }

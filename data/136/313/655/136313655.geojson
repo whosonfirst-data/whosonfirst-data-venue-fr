@@ -2,13 +2,14 @@
   "id": 136313655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330222,48.871349,2.330222,48.871349",
     "geom:latitude":48.871349,
     "geom:longitude":2.330222,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Scribe 75009 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136313655,
-    "wof:lastmodified":1449074966,
+    "wof:lastmodified":1466245370,
     "wof:name":"Ford Models Europe",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330222,48.871349,2.330222,48.871349],
+  "bbox": [
+    2.330222,
+    48.871349,
+    2.330222,
+    48.871349
+],
   "geometry": {"coordinates":[2.330222,48.871349],"type":"Point"}
 }

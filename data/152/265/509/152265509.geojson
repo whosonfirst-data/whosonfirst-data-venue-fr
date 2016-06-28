@@ -2,13 +2,14 @@
   "id": 152265509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.163674,47.813805,7.163674,47.813805",
     "geom:latitude":47.813805,
     "geom:longitude":7.163674,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 29, 68701 Cernay C\u00e9dex^^34, Rue d'Aspach, 68700 Cernay",
     "sg:city":"Cernay",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152265509,
-    "wof:lastmodified":1449045881,
+    "wof:lastmodified":1466249730,
     "wof:name":"Alsthom Power S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.163674,47.813805,7.163674,47.813805],
+  "bbox": [
+    7.163674,
+    47.813805,
+    7.163674,
+    47.813805
+],
   "geometry": {"coordinates":[7.163674,47.813805],"type":"Point"}
 }

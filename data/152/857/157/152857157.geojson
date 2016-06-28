@@ -2,13 +2,14 @@
   "id": 152857157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.247986,48.894852,2.247986,48.894852",
     "geom:latitude":48.894852,
     "geom:longitude":2.247986,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 rue Kl\u00e9ber 92400 Courbevoie",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152857157,
-    "wof:lastmodified":1449047298,
+    "wof:lastmodified":1466252072,
     "wof:name":"Artlinea Sarl",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.247986,48.894852,2.247986,48.894852],
+  "bbox": [
+    2.247986,
+    48.894852,
+    2.247986,
+    48.894852
+],
   "geometry": {"coordinates":[2.247986,48.894852],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153024437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.153586,50.617477,3.153586,50.617477",
     "geom:latitude":50.617477,
     "geom:longitude":3.153586,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Rue De Lille 59652 Villeneuve D'Ascq Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794433,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024437,
-    "wof:lastmodified":1449040556,
+    "wof:lastmodified":1466246535,
     "wof:name":"La Poste",
     "wof:parent_id":85794433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.153586,50.617477,3.153586,50.617477],
+  "bbox": [
+    3.153586,
+    50.617477,
+    3.153586,
+    50.617477
+],
   "geometry": {"coordinates":[3.153586,50.617477],"type":"Point"}
 }

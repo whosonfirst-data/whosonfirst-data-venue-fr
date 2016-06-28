@@ -2,13 +2,14 @@
   "id": 152898371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.38171,43.580795,1.38171,43.580795",
     "geom:latitude":43.580795,
     "geom:longitude":1.38171,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Centre de gros Larrieu",
     "sg:city":"G. Evrard Cedex 1 31094 Toulouse",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794569,
+        85683397,
         85633147,
         101750693,
         102071661,
-        85683397
+        85794569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152898371,
-    "wof:lastmodified":1449044189,
+    "wof:lastmodified":1466252171,
     "wof:name":"Eclats Antivols",
     "wof:parent_id":85794569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.38171,43.580795,1.38171,43.580795],
+  "bbox": [
+    1.38171,
+    43.580795,
+    1.38171,
+    43.580795
+],
   "geometry": {"coordinates":[1.38171,43.580795],"type":"Point"}
 }

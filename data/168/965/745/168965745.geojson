@@ -2,13 +2,14 @@
   "id": 168965745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.673386,32.116711,-95.673386,32.116711",
     "geom:latitude":32.116711,
     "geom:longitude":-95.673386,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"106/110, Rue du Petit Le Roy, 94450 Chevilly Larue",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897315,
+        85688753,
         85633793,
         101724927,
         102086741,
-        85688753
+        85897315
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168965745,
-    "wof:lastmodified":1449028312,
+    "wof:lastmodified":1466248582,
     "wof:name":"G.b.r. S.a.r.l. - G\u00e9n\u00e9rale Brochure Reliure",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.673386,32.116711,-95.673386,32.116711],
-  "geometry": {"coordinates":[-95.673386,32.116711],"type":"Point"}
+  "bbox": [
+    -95.673386,
+    32.116711,
+    -95.673386,
+    32.116711
+],
+  "geometry": {"coordinates":[-95.67338599999999,32.116711],"type":"Point"}
 }

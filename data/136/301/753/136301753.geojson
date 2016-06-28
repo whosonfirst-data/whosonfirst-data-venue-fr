@@ -2,13 +2,14 @@
   "id": 136301753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.273173,48.866531,2.273173,48.866531",
     "geom:latitude":48.866531,
     "geom:longitude":2.273173,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rue de Mont\u00e9video, 75016 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301753,
-    "wof:lastmodified":1449075239,
+    "wof:lastmodified":1466246849,
     "wof:name":"Coficin\u00e9",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.273173,48.866531,2.273173,48.866531],
+  "bbox": [
+    2.273173,
+    48.866531,
+    2.273173,
+    48.866531
+],
   "geometry": {"coordinates":[2.273173,48.866531],"type":"Point"}
 }

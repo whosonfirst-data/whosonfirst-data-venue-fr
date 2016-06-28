@@ -2,13 +2,14 @@
   "id": 136301059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.649303,44.853745,-0.649303,44.853745",
     "geom:latitude":44.853745,
     "geom:longitude":-0.649303,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"61 rue Ch\u00e2teau d'Eau; Bordeaux; 33076",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136301059,
-    "wof:lastmodified":1449075239,
+    "wof:lastmodified":1466246708,
     "wof:name":"Caisse D'epargne",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.649303,44.853745,-0.649303,44.853745],
+  "bbox": [
+    -0.649303,
+    44.853745,
+    -0.649303,
+    44.853745
+],
   "geometry": {"coordinates":[-0.649303,44.853745],"type":"Point"}
 }

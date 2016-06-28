@@ -2,13 +2,14 @@
   "id": 152071003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.102011,50.630787,3.102011,50.630787",
     "geom:latitude":50.630787,
     "geom:longitude":3.102011,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"89 rue de Madagascar 59800 Lille",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152071003,
-    "wof:lastmodified":1449047209,
+    "wof:lastmodified":1466245443,
     "wof:name":"Brunel - Chimie D\u00e9riv\u00e9s Sa",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.102011,50.630787,3.102011,50.630787],
+  "bbox": [
+    3.102011,
+    50.630787,
+    3.102011,
+    50.630787
+],
   "geometry": {"coordinates":[3.102011,50.630787],"type":"Point"}
 }

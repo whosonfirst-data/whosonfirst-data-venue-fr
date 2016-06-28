@@ -2,13 +2,14 @@
   "id": 152050287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.295585,48.800194,2.295585,48.800194",
     "geom:latitude":48.800194,
     "geom:longitude":2.295585,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17-33 Rue Perrotin 92323 Ch\u00e2tillon Cedex",
     "sg:city":"Ch\u00e2tillon",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152050287,
-    "wof:lastmodified":1449046848,
+    "wof:lastmodified":1466245867,
     "wof:name":"Gelm Immobilier",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.295585,48.800194,2.295585,48.800194],
+  "bbox": [
+    2.295585,
+    48.800194,
+    2.295585,
+    48.800194
+],
   "geometry": {"coordinates":[2.295585,48.800194],"type":"Point"}
 }

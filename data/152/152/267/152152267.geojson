@@ -2,13 +2,14 @@
   "id": 152152267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.976028,34.142479,-118.976028,34.142479",
     "geom:latitude":34.142479,
     "geom:longitude":-118.976028,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bis Rue Guillaume Bigourdan 91320 Vissous",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85881471
+        85633793,
+        85881471,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152152267,
-    "wof:lastmodified":1449047857,
+    "wof:lastmodified":1466249545,
     "wof:name":"Pullman Sai",
     "wof:parent_id":85881471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.976028,34.142479,-118.976028,34.142479],
+  "bbox": [
+    -118.976028,
+    34.142479,
+    -118.976028,
+    34.142479
+],
   "geometry": {"coordinates":[-118.976028,34.142479],"type":"Point"}
 }

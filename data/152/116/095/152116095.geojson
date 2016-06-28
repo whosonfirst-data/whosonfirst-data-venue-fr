@@ -2,13 +2,14 @@
   "id": 152116095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.43687,48.858181,2.43687,48.858181",
     "geom:latitude":48.858181,
     "geom:longitude":2.43687,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Cap 106 67 Rue Robespierre 93558 Montreuil Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152116095,
-    "wof:lastmodified":1449044979,
+    "wof:lastmodified":1466249160,
     "wof:name":"Amaris Sa",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.43687,48.858181,2.43687,48.858181],
+  "bbox": [
+    2.43687,
+    48.858181,
+    2.43687,
+    48.858181
+],
   "geometry": {"coordinates":[2.43687,48.858181],"type":"Point"}
 }

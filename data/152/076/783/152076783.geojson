@@ -2,13 +2,14 @@
   "id": 152076783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.378557,43.63343,1.378557,43.63343",
     "geom:latitude":43.63343,
     "geom:longitude":1.378557,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Marcel Doret B\u00e2t 2",
     "sg:city":"0 31700 Blagnac",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152076783,
-    "wof:lastmodified":1449047922,
+    "wof:lastmodified":1466246626,
     "wof:name":"Arrow Electronique Sa",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.378557,43.63343,1.378557,43.63343],
+  "bbox": [
+    1.378557,
+    43.63343,
+    1.378557,
+    43.63343
+],
   "geometry": {"coordinates":[1.378557,43.63343],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152323555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55206,47.199429,-1.55206,47.199429",
     "geom:latitude":47.199429,
     "geom:longitude":-1.55206,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 76208, 44262 Nantes C\u00e9dex 02^^22, Bd Benoni Goullin, 44200 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152323555,
-    "wof:lastmodified":1449044701,
+    "wof:lastmodified":1466250195,
     "wof:name":"C.a.m.n. - Coop\u00e9rative D'approvisionnement Des Maraichers Na",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55206,47.199429,-1.55206,47.199429],
+  "bbox": [
+    -1.55206,
+    47.199429,
+    -1.55206,
+    47.199429
+],
   "geometry": {"coordinates":[-1.55206,47.199429],"type":"Point"}
 }

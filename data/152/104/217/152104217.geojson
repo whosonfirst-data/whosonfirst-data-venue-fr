@@ -2,13 +2,14 @@
   "id": 152104217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.486689,47.249596,-1.486689,47.249596",
     "geom:latitude":47.249596,
     "geom:longitude":-1.486689,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Rue De La Bougriere Lieu Dit Beau Soleil 44980 Ste Luce Sur Loire",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152104217,
-    "wof:lastmodified":1449046210,
+    "wof:lastmodified":1466248674,
     "wof:name":"Marrel Ouest",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.486689,47.249596,-1.486689,47.249596],
+  "bbox": [
+    -1.486689,
+    47.249596,
+    -1.486689,
+    47.249596
+],
   "geometry": {"coordinates":[-1.486689,47.249596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168971047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.501508,47.255352,-1.501508,47.255352",
     "geom:latitude":47.255352,
     "geom:longitude":-1.501508,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Rue des Pays Bas, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168971047,
-    "wof:lastmodified":1449028167,
+    "wof:lastmodified":1466248534,
     "wof:name":"Gefco S.a.",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.501508,47.255352,-1.501508,47.255352],
+  "bbox": [
+    -1.501508,
+    47.255352,
+    -1.501508,
+    47.255352
+],
   "geometry": {"coordinates":[-1.501508,47.255352],"type":"Point"}
 }

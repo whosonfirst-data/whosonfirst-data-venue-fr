@@ -2,13 +2,14 @@
   "id": 136295985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.367221,48.851032,2.367221,48.851032",
     "geom:latitude":48.851032,
     "geom:longitude":2.367221,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Boulevard Bourdon, 75185 Paris Cedex 4, Dept 75",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136295985,
-    "wof:lastmodified":1449075460,
+    "wof:lastmodified":1466246515,
     "wof:name":"Assurances Banque Populaire",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.367221,48.851032,2.367221,48.851032],
+  "bbox": [
+    2.367221,
+    48.851032,
+    2.367221,
+    48.851032
+],
   "geometry": {"coordinates":[2.367221,48.851032],"type":"Point"}
 }

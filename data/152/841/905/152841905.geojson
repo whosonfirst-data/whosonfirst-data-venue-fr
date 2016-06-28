@@ -2,13 +2,14 @@
   "id": 152841905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.22036,48.84441,2.22036,48.84441",
     "geom:latitude":48.84441,
     "geom:longitude":2.22036,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 78, 92216 Saint Cloud C\u00e9dex^^13, Rue Henri R\u00e9gnault, 92210 Saint Cloud",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152841905,
-    "wof:lastmodified":1449045270,
+    "wof:lastmodified":1466252011,
     "wof:name":"Vassal Motor\u00e9ducteurs S.a.",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.22036,48.84441,2.22036,48.84441],
+  "bbox": [
+    2.22036,
+    48.84441,
+    2.22036,
+    48.84441
+],
   "geometry": {"coordinates":[2.22036,48.84441],"type":"Point"}
 }

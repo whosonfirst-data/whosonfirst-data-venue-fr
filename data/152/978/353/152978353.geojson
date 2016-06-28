@@ -2,13 +2,14 @@
   "id": 152978353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.562134,47.204407,-1.562134,47.204407",
     "geom:latitude":47.204407,
     "geom:longitude":-1.562134,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Bd De La Prairie Au Duc 44200 Nantes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152978353,
-    "wof:lastmodified":1449046969,
+    "wof:lastmodified":1466252489,
     "wof:name":"Transports Rapides Joyau (trj)",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.562134,47.204407,-1.562134,47.204407],
+  "bbox": [
+    -1.562134,
+    47.204407,
+    -1.562134,
+    47.204407
+],
   "geometry": {"coordinates":[-1.562134,47.204407],"type":"Point"}
 }

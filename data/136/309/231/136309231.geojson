@@ -2,13 +2,14 @@
   "id": 136309231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.397688,48.865685,2.397688,48.865685",
     "geom:latitude":48.865685,
     "geom:longitude":2.397688,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"247BIS rue des Pyr\u00e9n\u00e9es 75020 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874039,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136309231,
-    "wof:lastmodified":1449075190,
+    "wof:lastmodified":1466247189,
     "wof:name":"Laphi Sa",
     "wof:parent_id":85874039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.397688,48.865685,2.397688,48.865685],
+  "bbox": [
+    2.397688,
+    48.865685,
+    2.397688,
+    48.865685
+],
   "geometry": {"coordinates":[2.397688,48.865685],"type":"Point"}
 }

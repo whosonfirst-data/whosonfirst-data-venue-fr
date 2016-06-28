@@ -2,13 +2,14 @@
   "id": 152465845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.492809,47.264294,-1.492809,47.264294",
     "geom:latitude":47.264294,
     "geom:longitude":-1.492809,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Rue Bel Air, 44470 Carquefou",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152465845,
-    "wof:lastmodified":1449047405,
+    "wof:lastmodified":1466250792,
     "wof:name":"Eurovia Services S.n.c.",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.492809,47.264294,-1.492809,47.264294],
+  "bbox": [
+    -1.492809,
+    47.264294,
+    -1.492809,
+    47.264294
+],
   "geometry": {"coordinates":[-1.492809,47.264294],"type":"Point"}
 }

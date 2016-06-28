@@ -2,13 +2,14 @@
   "id": 169248445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.263901,48.719104,2.263901,48.719104",
     "geom:latitude":48.719104,
     "geom:longitude":2.263901,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24, rue \u00c9mile Baudot Essonne",
     "sg:city":"Palaiseau",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.rhapso.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169248445,
-    "wof:lastmodified":1449034502,
+    "wof:lastmodified":1466249509,
     "wof:name":"Rhapso",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.263901,48.719104,2.263901,48.719104],
+  "bbox": [
+    2.263901,
+    48.719104,
+    2.263901,
+    48.719104
+],
   "geometry": {"coordinates":[2.263901,48.719104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152370061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.264006,48.829224,2.264006,48.829224",
     "geom:latitude":48.829224,
     "geom:longitude":2.264006,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Rue Camille Desmoulins - Immeuble Open, 92784 Issy les Moulineaux C\u00e9dex 9",
     "sg:city":"Esmoulins",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152370061,
-    "wof:lastmodified":1449046824,
+    "wof:lastmodified":1466250331,
     "wof:name":"Coca-cola Entreprise S.a.s.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.264006,48.829224,2.264006,48.829224],
+  "bbox": [
+    2.264006,
+    48.829224,
+    2.264006,
+    48.829224
+],
   "geometry": {"coordinates":[2.264006,48.829224],"type":"Point"}
 }

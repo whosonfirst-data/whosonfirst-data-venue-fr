@@ -2,13 +2,14 @@
   "id": 169132199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.561184,47.212894,-1.561184,47.212894",
     "geom:latitude":47.212894,
     "geom:longitude":-1.561184,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue Suffren, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169132199,
-    "wof:lastmodified":1449034294,
+    "wof:lastmodified":1466248265,
     "wof:name":"S.i.b.o. S.a. - Soci\u00e9t\u00e9 Industrielle Des Briqueteries De L'ouest",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.561184,47.212894,-1.561184,47.212894],
+  "bbox": [
+    -1.561184,
+    47.212894,
+    -1.561184,
+    47.212894
+],
   "geometry": {"coordinates":[-1.561184,47.212894],"type":"Point"}
 }

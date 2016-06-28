@@ -2,13 +2,14 @@
   "id": 152069907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.438713,48.875744,2.438713,48.875744",
     "geom:latitude":48.875744,
     "geom:longitude":2.438713,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60-62 rue Alexandre Dumas 93230 Romainville",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152069907,
-    "wof:lastmodified":1449047218,
+    "wof:lastmodified":1466247633,
     "wof:name":"Depannage Service Informatique Sarl",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.438713,48.875744,2.438713,48.875744],
+  "bbox": [
+    2.438713,
+    48.875744,
+    2.438713,
+    48.875744
+],
   "geometry": {"coordinates":[2.438713,48.875744],"type":"Point"}
 }

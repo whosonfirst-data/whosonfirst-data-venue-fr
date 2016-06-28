@@ -2,13 +2,14 @@
   "id": 152211833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.504862,43.77512,7.504862,43.77512",
     "geom:latitude":43.77512,
     "geom:longitude":7.504862,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 R Trenca 1er \u00c9tg 06500 Menton",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -16,10 +17,10 @@
     "sg:phone":"+33 4 93 35 45 30",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152211833,
-    "wof:lastmodified":1449045432,
+    "wof:lastmodified":1466249771,
     "wof:name":"Orcelle",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.504862,43.77512,7.504862,43.77512],
+  "bbox": [
+    7.504862,
+    43.77512,
+    7.504862,
+    43.77512
+],
   "geometry": {"coordinates":[7.504862,43.77512],"type":"Point"}
 }

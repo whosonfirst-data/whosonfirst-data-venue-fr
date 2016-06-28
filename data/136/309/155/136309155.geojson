@@ -2,13 +2,14 @@
   "id": 136309155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332986,48.865208,2.332986,48.865208",
     "geom:latitude":48.865208,
     "geom:longitude":2.332986,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue de Pyramides, 75001 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136309155,
-    "wof:lastmodified":1449075190,
+    "wof:lastmodified":1466247173,
     "wof:name":"Vernes Gestion Snc",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332986,48.865208,2.332986,48.865208],
+  "bbox": [
+    2.332986,
+    48.865208,
+    2.332986,
+    48.865208
+],
   "geometry": {"coordinates":[2.332986,48.865208],"type":"Point"}
 }

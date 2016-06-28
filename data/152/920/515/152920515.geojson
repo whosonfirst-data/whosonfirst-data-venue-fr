@@ -2,13 +2,14 @@
   "id": 152920515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.494767,48.797806,2.494767,48.797806",
     "geom:latitude":48.797806,
     "geom:longitude":2.494767,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Bd De Cr\u00e9teil 94100 St Maur Des Foss\u00e9s",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152920515,
-    "wof:lastmodified":1449047869,
+    "wof:lastmodified":1466252296,
     "wof:name":"Agences De Cartonneries Europeennes",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.494767,48.797806,2.494767,48.797806],
+  "bbox": [
+    2.494767,
+    48.797806,
+    2.494767,
+    48.797806
+],
   "geometry": {"coordinates":[2.494767,48.797806],"type":"Point"}
 }

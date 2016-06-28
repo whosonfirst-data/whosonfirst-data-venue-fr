@@ -2,13 +2,14 @@
   "id": 152082069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41676,48.866299,2.41676,48.866299",
     "geom:latitude":48.866299,
     "geom:longitude":2.41676,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 rue Jean Jaur\u00e8s 93170 Bagnolet",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152082069,
-    "wof:lastmodified":1449044411,
+    "wof:lastmodified":1466247604,
     "wof:name":"Rotelec S.a.",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41676,48.866299,2.41676,48.866299],
+  "bbox": [
+    2.41676,
+    48.866299,
+    2.41676,
+    48.866299
+],
   "geometry": {"coordinates":[2.41676,48.866299],"type":"Point"}
 }

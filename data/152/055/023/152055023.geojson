@@ -2,13 +2,14 @@
   "id": 152055023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.418472,48.858894,2.418472,48.858894",
     "geom:latitude":48.858894,
     "geom:longitude":2.418472,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Paul Bert 93170 Bagnolet",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152055023,
-    "wof:lastmodified":1449045340,
+    "wof:lastmodified":1466246241,
     "wof:name":"Lumer (ste) Sa",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.418472,48.858894,2.418472,48.858894],
+  "bbox": [
+    2.418472,
+    48.858894,
+    2.418472,
+    48.858894
+],
   "geometry": {"coordinates":[2.418472,48.858894],"type":"Point"}
 }

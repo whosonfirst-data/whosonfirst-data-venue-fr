@@ -2,13 +2,14 @@
   "id": 136299421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.290834,48.875374,2.290834,48.875374",
     "geom:latitude":48.875374,
     "geom:longitude":2.290834,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 ave de la Grande Arm\u00e9e; Paris; 75017",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136299421,
-    "wof:lastmodified":1449075234,
+    "wof:lastmodified":1466246570,
     "wof:name":"Banque Nationale, De Paris Sa",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.290834,48.875374,2.290834,48.875374],
+  "bbox": [
+    2.290834,
+    48.875374,
+    2.290834,
+    48.875374
+],
   "geometry": {"coordinates":[2.290834,48.875374],"type":"Point"}
 }

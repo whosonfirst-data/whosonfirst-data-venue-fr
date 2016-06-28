@@ -2,13 +2,14 @@
   "id": 152868929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.379235,48.866528,2.379235,48.866528",
     "geom:latitude":48.866528,
     "geom:longitude":2.379235,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cite Griset 75011 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873891,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152868929,
-    "wof:lastmodified":1449044505,
+    "wof:lastmodified":1466252134,
     "wof:name":"Cartonnages Publicitaires Martin Et Compagnie (cpmc)",
     "wof:parent_id":85873891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.379235,48.866528,2.379235,48.866528],
+  "bbox": [
+    2.379235,
+    48.866528,
+    2.379235,
+    48.866528
+],
   "geometry": {"coordinates":[2.379235,48.866528],"type":"Point"}
 }

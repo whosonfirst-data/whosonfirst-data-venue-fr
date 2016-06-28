@@ -2,13 +2,14 @@
   "id": 169247269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332749,48.869606,2.332749,48.869606",
     "geom:latitude":48.869606,
     "geom:longitude":2.332749,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38 avenue de l'Op\u00e9ra",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"http://google.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169247269,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249502,
     "wof:name":"Google",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332749,48.869606,2.332749,48.869606],
+  "bbox": [
+    2.332749,
+    48.869606,
+    2.332749,
+    48.869606
+],
   "geometry": {"coordinates":[2.332749,48.869606],"type":"Point"}
 }

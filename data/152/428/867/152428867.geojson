@@ -2,13 +2,14 @@
   "id": 152428867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.418769,43.550079,1.418769,43.550079",
     "geom:latitude":43.550079,
     "geom:longitude":1.418769,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"300, Rue L\u00e9on Joulin, 31101 Toulouse C\u00e9dex 1",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152428867,
-    "wof:lastmodified":1449048607,
+    "wof:lastmodified":1466250548,
     "wof:name":"Editions Milan S.a.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.418769,43.550079,1.418769,43.550079],
+  "bbox": [
+    1.418769,
+    43.550079,
+    1.418769,
+    43.550079
+],
   "geometry": {"coordinates":[1.418769,43.550079],"type":"Point"}
 }

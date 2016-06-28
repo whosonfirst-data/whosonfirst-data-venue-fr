@@ -2,13 +2,14 @@
   "id": 152049773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.286158,48.86581,2.286158,48.86581",
     "geom:latitude":48.86581,
     "geom:longitude":2.286158,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Rue Lauriston 75116 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152049773,
-    "wof:lastmodified":1449046589,
+    "wof:lastmodified":1466245865,
     "wof:name":"Sa Paul Chene",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.286158,48.86581,2.286158,48.86581],
+  "bbox": [
+    2.286158,
+    48.86581,
+    2.286158,
+    48.86581
+],
   "geometry": {"coordinates":[2.286158,48.86581],"type":"Point"}
 }

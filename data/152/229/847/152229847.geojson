@@ -2,13 +2,14 @@
   "id": 152229847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.347152,48.868763,2.347152,48.868763",
     "geom:latitude":48.868763,
     "geom:longitude":2.347152,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue de Mulhouse 75002 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229847,
-    "wof:lastmodified":1449047983,
+    "wof:lastmodified":1466249848,
     "wof:name":"Ste Agal Sa",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.347152,48.868763,2.347152,48.868763],
+  "bbox": [
+    2.347152,
+    48.868763,
+    2.347152,
+    48.868763
+],
   "geometry": {"coordinates":[2.347152,48.868763],"type":"Point"}
 }

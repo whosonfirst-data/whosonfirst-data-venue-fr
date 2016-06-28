@@ -2,13 +2,14 @@
   "id": 152068789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320252,48.888809,2.320252,48.888809",
     "geom:latitude":48.888809,
     "geom:longitude":2.320252,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Clairaut 75017 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152068789,
-    "wof:lastmodified":1449046679,
+    "wof:lastmodified":1466247570,
     "wof:name":"Alleosse Traiteur Fromages (atf)",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320252,48.888809,2.320252,48.888809],
+  "bbox": [
+    2.320252,
+    48.888809,
+    2.320252,
+    48.888809
+],
   "geometry": {"coordinates":[2.320252,48.888809],"type":"Point"}
 }

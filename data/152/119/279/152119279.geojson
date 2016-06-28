@@ -2,13 +2,14 @@
   "id": 152119279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.290056,48.883686,2.290056,48.883686",
     "geom:latitude":48.883686,
     "geom:longitude":2.290056,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 rue Bayen 75017 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152119279,
-    "wof:lastmodified":1449047599,
+    "wof:lastmodified":1466249210,
     "wof:name":"Rencontres Et Communications S.a.",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.290056,48.883686,2.290056,48.883686],
+  "bbox": [
+    2.290056,
+    48.883686,
+    2.290056,
+    48.883686
+],
   "geometry": {"coordinates":[2.290056,48.883686],"type":"Point"}
 }

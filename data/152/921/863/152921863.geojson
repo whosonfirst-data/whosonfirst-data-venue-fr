@@ -2,13 +2,14 @@
   "id": 152921863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.351255,48.81189,2.351255,48.81189",
     "geom:latitude":48.81189,
     "geom:longitude":2.351255,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Rue Gabriel Peri 94250 Gentilly",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152921863,
-    "wof:lastmodified":1449047265,
+    "wof:lastmodified":1466252297,
     "wof:name":"Chaput Compo Imprim",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.351255,48.81189,2.351255,48.81189],
+  "bbox": [
+    2.351255,
+    48.81189,
+    2.351255,
+    48.81189
+],
   "geometry": {"coordinates":[2.351255,48.81189],"type":"Point"}
 }

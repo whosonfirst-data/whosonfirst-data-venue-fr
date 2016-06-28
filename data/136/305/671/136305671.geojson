@@ -2,13 +2,14 @@
   "id": 136305671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.756399,48.600574,7.756399,48.600574",
     "geom:latitude":48.600574,
     "geom:longitude":7.756399,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 rue du Wacken, 67000 Strasbourg, Dept 67",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136305671,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466247025,
     "wof:name":"Group Credit Mutuel Cee",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.756399,48.600574,7.756399,48.600574],
+  "bbox": [
+    7.756399,
+    48.600574,
+    7.756399,
+    48.600574
+],
   "geometry": {"coordinates":[7.756399,48.600574],"type":"Point"}
 }

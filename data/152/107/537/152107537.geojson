@@ -2,13 +2,14 @@
   "id": 152107537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.310176,48.82626,2.310176,48.82626",
     "geom:latitude":48.82626,
     "geom:longitude":2.310176,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Pierre Leroy 75014 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152107537,
-    "wof:lastmodified":1449044304,
+    "wof:lastmodified":1466249112,
     "wof:name":"Laboratoire Magnien",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.310176,48.82626,2.310176,48.82626],
+  "bbox": [
+    2.310176,
+    48.82626,
+    2.310176,
+    48.82626
+],
   "geometry": {"coordinates":[2.310176,48.82626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152112637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.309144,48.889275,2.309144,48.889275",
     "geom:latitude":48.889275,
     "geom:longitude":2.309144,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 rue Christine de Pisan 75017 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873993,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152112637,
-    "wof:lastmodified":1449046435,
+    "wof:lastmodified":1466249100,
     "wof:name":"Arcotec Sa",
     "wof:parent_id":85873993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.309144,48.889275,2.309144,48.889275],
+  "bbox": [
+    2.309144,
+    48.889275,
+    2.309144,
+    48.889275
+],
   "geometry": {"coordinates":[2.309144,48.889275],"type":"Point"}
 }

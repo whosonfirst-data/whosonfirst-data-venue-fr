@@ -2,13 +2,14 @@
   "id": 152070107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332479,48.914391,2.332479,48.914391",
     "geom:latitude":48.914391,
     "geom:longitude":2.332479,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"63 rue Albert Dhalenne 93400 St Ouen",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152070107,
-    "wof:lastmodified":1449046560,
+    "wof:lastmodified":1466245255,
     "wof:name":"Bredy S.a.",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332479,48.914391,2.332479,48.914391],
+  "bbox": [
+    2.332479,
+    48.914391,
+    2.332479,
+    48.914391
+],
   "geometry": {"coordinates":[2.332479,48.914391],"type":"Point"}
 }

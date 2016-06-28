@@ -2,13 +2,14 @@
   "id": 136295021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34391,48.866474,2.34391,48.866474",
     "geom:latitude":48.866474,
     "geom:longitude":2.34391,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Rue Du Louvre 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Banking institutions Banking, finance and insurances Business advice and other services Consulting",
@@ -18,13 +19,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873799,
-        102067221
+        85873785,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295021,
-    "wof:lastmodified":1449075460,
+    "wof:lastmodified":1466246326,
     "wof:name":"Banque Privee Europeenne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34391,48.866474,2.34391,48.866474],
+  "bbox": [
+    2.34391,
+    48.866474,
+    2.34391,
+    48.866474
+],
   "geometry": {"coordinates":[2.34391,48.866474],"type":"Point"}
 }

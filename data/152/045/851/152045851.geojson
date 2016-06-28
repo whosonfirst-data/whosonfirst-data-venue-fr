@@ -2,13 +2,14 @@
   "id": 152045851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.57255,47.219009,-1.57255,47.219009",
     "geom:latitude":47.219009,
     "geom:longitude":-1.57255,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Av Camus 44042 Nantes Cedex 1",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152045851,
-    "wof:lastmodified":1449048381,
+    "wof:lastmodified":1466245590,
     "wof:name":"Externat Des Enfants Nantais",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.57255,47.219009,-1.57255,47.219009],
+  "bbox": [
+    -1.57255,
+    47.219009,
+    -1.57255,
+    47.219009
+],
   "geometry": {"coordinates":[-1.57255,47.219009],"type":"Point"}
 }

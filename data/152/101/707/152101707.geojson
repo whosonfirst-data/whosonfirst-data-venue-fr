@@ -2,13 +2,14 @@
   "id": 152101707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.28971,48.891052,2.28971,48.891052",
     "geom:latitude":48.891052,
     "geom:longitude":2.28971,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Rue Tr\u00e9bois 92300 Levallois Perret",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152101707,
-    "wof:lastmodified":1449046736,
+    "wof:lastmodified":1466248721,
     "wof:name":"Com Vitamine Sarl",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.28971,48.891052,2.28971,48.891052],
+  "bbox": [
+    2.28971,
+    48.891052,
+    2.28971,
+    48.891052
+],
   "geometry": {"coordinates":[2.28971,48.891052],"type":"Point"}
 }

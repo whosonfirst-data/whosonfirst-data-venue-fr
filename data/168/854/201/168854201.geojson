@@ -2,13 +2,14 @@
   "id": 168854201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.553109,47.253044,-1.553109,47.253044",
     "geom:latitude":47.253044,
     "geom:longitude":-1.553109,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Henri Picherit",
     "sg:city":"Nantes",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168854201,
-    "wof:lastmodified":1449028559,
+    "wof:lastmodified":1466245446,
     "wof:name":"C.s.t.b. E.p.i.c.",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.553109,47.253044,-1.553109,47.253044],
+  "bbox": [
+    -1.553109,
+    47.253044,
+    -1.553109,
+    47.253044
+],
   "geometry": {"coordinates":[-1.553109,47.253044],"type":"Point"}
 }

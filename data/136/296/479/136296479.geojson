@@ -2,13 +2,14 @@
   "id": 136296479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330343,48.872772,2.330343,48.872772",
     "geom:latitude":48.872772,
     "geom:longitude":2.330343,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 rue des Mathurins; Paris; 75009",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136296479,
-    "wof:lastmodified":1449075988,
+    "wof:lastmodified":1466246434,
     "wof:name":"Banque De Baecque, Beau Sa",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330343,48.872772,2.330343,48.872772],
+  "bbox": [
+    2.330343,
+    48.872772,
+    2.330343,
+    48.872772
+],
   "geometry": {"coordinates":[2.330343,48.872772],"type":"Point"}
 }

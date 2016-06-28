@@ -2,13 +2,14 @@
   "id": 152101513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.461173,48.410625,-4.461173,48.410625",
     "geom:latitude":48.410625,
     "geom:longitude":-4.461173,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12BIS rue de la Villeneuve 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152101513,
-    "wof:lastmodified":1449046734,
+    "wof:lastmodified":1466248685,
     "wof:name":"Sdmo Industries S.a.",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.461173,48.410625,-4.461173,48.410625],
+  "bbox": [
+    -4.461173,
+    48.410625,
+    -4.461173,
+    48.410625
+],
   "geometry": {"coordinates":[-4.461173,48.410625],"type":"Point"}
 }

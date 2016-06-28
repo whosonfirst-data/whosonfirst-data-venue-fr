@@ -2,13 +2,14 @@
   "id": 136308903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.479422,48.394875,-4.479422,48.394875",
     "geom:latitude":48.394875,
     "geom:longitude":-4.479422,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 rue Saint Martin; Brest; 29200",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136308903,
-    "wof:lastmodified":1449076300,
+    "wof:lastmodified":1466247269,
     "wof:name":"Sovac",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.479422,48.394875,-4.479422,48.394875],
+  "bbox": [
+    -4.479422,
+    48.394875,
+    -4.479422,
+    48.394875
+],
   "geometry": {"coordinates":[-4.479422,48.394875],"type":"Point"}
 }

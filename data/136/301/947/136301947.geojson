@@ -2,13 +2,14 @@
   "id": 136301947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.97506,33.929375,-116.97506,33.929375",
     "geom:latitude":33.929375,
     "geom:longitude":-116.97506,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49 rue St Nicolas; Beaumont",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836959,
+        85688637,
         85633793,
         85923443,
         102086221,
-        85688637
+        85836959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301947,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246888,
     "wof:name":"Cr\u00e9dit Agricole De L'eure",
     "wof:parent_id":85836959,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.97506,33.929375,-116.97506,33.929375],
+  "bbox": [
+    -116.97506,
+    33.929375,
+    -116.97506,
+    33.929375
+],
   "geometry": {"coordinates":[-116.97506,33.929375],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136302069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.316841,26.058319,-80.316841,26.058319",
     "geom:latitude":26.058319,
     "geom:longitude":-80.316841,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue Madame Bouquey; S. Emilion; 33330",
     "sg:city":"Saint-\u00c9tienne-de-Lisse",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851607,
+        85688651,
         85633793,
         85932419,
         102084727,
-        85688651
+        85851607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136302069,
-    "wof:lastmodified":1449075353,
+    "wof:lastmodified":1466246795,
     "wof:name":"Cr\u00e9dit Agricole De La Gironde",
     "wof:parent_id":85851607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.316841,26.058319,-80.316841,26.058319],
+  "bbox": [
+    -80.316841,
+    26.058319,
+    -80.316841,
+    26.058319
+],
   "geometry": {"coordinates":[-80.316841,26.058319],"type":"Point"}
 }

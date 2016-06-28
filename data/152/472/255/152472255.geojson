@@ -2,13 +2,14 @@
   "id": 152472255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.298614,48.878437,2.298614,48.878437",
     "geom:latitude":48.878437,
     "geom:longitude":2.298614,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50, Av. de Wagram, 75017 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497,
-        85873985,
-        102069959
+        85873853,
+        102069959,
+        85873985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152472255,
-    "wof:lastmodified":1449044664,
+    "wof:lastmodified":1466250693,
     "wof:name":"Fairchild Fasteners S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.298614,48.878437,2.298614,48.878437],
+  "bbox": [
+    2.298614,
+    48.878437,
+    2.298614,
+    48.878437
+],
   "geometry": {"coordinates":[2.298614,48.878437],"type":"Point"}
 }

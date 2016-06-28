@@ -2,13 +2,14 @@
   "id": 152941773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.321358,48.841026,2.321358,48.841026",
     "geom:latitude":48.841026,
     "geom:longitude":2.321358,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34",
     "sg:city":"Raoul Dautry; Paris; 75906",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873961,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152941773,
-    "wof:lastmodified":1449047056,
+    "wof:lastmodified":1466252231,
     "wof:name":"Canal+ Technologies",
     "wof:parent_id":85873961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.321358,48.841026,2.321358,48.841026],
+  "bbox": [
+    2.321358,
+    48.841026,
+    2.321358,
+    48.841026
+],
   "geometry": {"coordinates":[2.321358,48.841026],"type":"Point"}
 }

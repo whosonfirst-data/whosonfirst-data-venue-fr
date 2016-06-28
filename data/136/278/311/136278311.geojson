@@ -2,13 +2,14 @@
   "id": 136278311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.08649,49.502201,0.08649,49.502201",
     "geom:latitude":49.502201,
     "geom:longitude":0.08649,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"186 Boulevard Fran\u00e7ois 1er",
     "sg:city":"Le Havre",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794449,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278311,
-    "wof:lastmodified":1449075662,
+    "wof:lastmodified":1466245298,
     "wof:name":"Mazars Duparc Et Associes Sa",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.08649,49.502201,0.08649,49.502201],
+  "bbox": [
+    0.08649,
+    49.502201,
+    0.08649,
+    49.502201
+],
   "geometry": {"coordinates":[0.08649,49.502201],"type":"Point"}
 }

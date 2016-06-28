@@ -2,13 +2,14 @@
   "id": 152082059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.487447,48.785992,2.487447,48.785992",
     "geom:latitude":48.785992,
     "geom:longitude":2.487447,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 avenue Raspail 94100 St Maur des Fosses",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152082059,
-    "wof:lastmodified":1449044408,
+    "wof:lastmodified":1466247686,
     "wof:name":"Ingelec Sarl",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.487447,48.785992,2.487447,48.785992],
+  "bbox": [
+    2.487447,
+    48.785992,
+    2.487447,
+    48.785992
+],
   "geometry": {"coordinates":[2.487447,48.785992],"type":"Point"}
 }

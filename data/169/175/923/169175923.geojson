@@ -2,13 +2,14 @@
   "id": 169175923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.800453,48.589973,7.800453,48.589973",
     "geom:latitude":48.589973,
     "geom:longitude":7.800453,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue du Bassin de l'Industrie, 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169175923,
-    "wof:lastmodified":1449034981,
+    "wof:lastmodified":1466248711,
     "wof:name":"Sollac S.a.",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.800453,48.589973,7.800453,48.589973],
+  "bbox": [
+    7.800453,
+    48.589973,
+    7.800453,
+    48.589973
+],
   "geometry": {"coordinates":[7.800453,48.589973],"type":"Point"}
 }

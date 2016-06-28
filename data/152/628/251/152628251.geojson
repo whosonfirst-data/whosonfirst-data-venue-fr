@@ -2,13 +2,14 @@
   "id": 152628251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.259521,28.335609,-82.259521,28.335609",
     "geom:latitude":28.335609,
     "geom:longitude":-82.259521,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 17, 10601 La Chapelle Saint Luc C\u00e9dex^^1, Rue Georges Bizet - ZI Sud, 10600 La Chapelle Saint L",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085789,
-        85633793,
         85688651,
-        85888723
+        85633793,
+        85888723,
+        102085789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152628251,
-    "wof:lastmodified":1449048042,
+    "wof:lastmodified":1466251257,
     "wof:name":"Montgolfier Fils Et Compagnie S.a.",
     "wof:parent_id":85888723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.259521,28.335609,-82.259521,28.335609],
-  "geometry": {"coordinates":[-82.259521,28.335609],"type":"Point"}
+  "bbox": [
+    -82.259521,
+    28.335609,
+    -82.259521,
+    28.335609
+],
+  "geometry": {"coordinates":[-82.25952100000001,28.335609],"type":"Point"}
 }

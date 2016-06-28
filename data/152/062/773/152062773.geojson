@@ -2,13 +2,14 @@
   "id": 152062773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.271878,48.721581,2.271878,48.721581",
     "geom:latitude":48.721581,
     "geom:longitude":2.271878,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Galvani 91300 Massy",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152062773,
-    "wof:lastmodified":1449048584,
+    "wof:lastmodified":1466246952,
     "wof:name":"Sergio Tacchini",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.271878,48.721581,2.271878,48.721581],
+  "bbox": [
+    2.271878,
+    48.721581,
+    2.271878,
+    48.721581
+],
   "geometry": {"coordinates":[2.271878,48.721581],"type":"Point"}
 }

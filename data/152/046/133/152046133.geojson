@@ -2,13 +2,14 @@
   "id": 152046133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314495,48.855251,2.314495,48.855251",
     "geom:latitude":48.855251,
     "geom:longitude":2.314495,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Bd Des Invalides 75007 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046133,
-    "wof:lastmodified":1449046864,
+    "wof:lastmodified":1466245530,
     "wof:name":"Institution Nationale Des Invalides",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314495,48.855251,2.314495,48.855251],
+  "bbox": [
+    2.314495,
+    48.855251,
+    2.314495,
+    48.855251
+],
   "geometry": {"coordinates":[2.314495,48.855251],"type":"Point"}
 }

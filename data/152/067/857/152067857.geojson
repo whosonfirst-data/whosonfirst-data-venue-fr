@@ -2,13 +2,14 @@
   "id": 152067857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.38038,48.809269,2.38038,48.809269",
     "geom:latitude":48.809269,
     "geom:longitude":2.38038,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Rue Marcel Hartmann 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873925,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152067857,
-    "wof:lastmodified":1449044601,
+    "wof:lastmodified":1466247457,
     "wof:name":"Societe Des Travaux D'entretien Du Metro (sotem)",
     "wof:parent_id":85873925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.38038,48.809269,2.38038,48.809269],
+  "bbox": [
+    2.38038,
+    48.809269,
+    2.38038,
+    48.809269
+],
   "geometry": {"coordinates":[2.38038,48.809269],"type":"Point"}
 }

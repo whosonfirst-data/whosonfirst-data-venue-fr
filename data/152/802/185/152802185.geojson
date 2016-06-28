@@ -2,13 +2,14 @@
   "id": 152802185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.571997,47.208824,-1.571997,47.208824",
     "geom:latitude":47.208824,
     "geom:longitude":-1.571997,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Rue le Lou du Breil, 44100 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,14 +18,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233,
-        85794675,
+        85897695,
         101749029,
-        102071599
+        102071599,
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152802185,
-    "wof:lastmodified":1449048055,
+    "wof:lastmodified":1466251885,
     "wof:name":"Swedish Steel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.571997,47.208824,-1.571997,47.208824],
+  "bbox": [
+    -1.571997,
+    47.208824,
+    -1.571997,
+    47.208824
+],
   "geometry": {"coordinates":[-1.571997,47.208824],"type":"Point"}
 }

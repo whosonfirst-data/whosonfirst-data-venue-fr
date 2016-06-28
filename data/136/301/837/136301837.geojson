@@ -2,13 +2,14 @@
   "id": 136301837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.322379,48.867596,2.322379,48.867596",
     "geom:latitude":48.867596,
     "geom:longitude":2.322379,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Royale; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301837,
-    "wof:lastmodified":1449075239,
+    "wof:lastmodified":1466246866,
     "wof:name":"Core States Bank Na",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.322379,48.867596,2.322379,48.867596],
+  "bbox": [
+    2.322379,
+    48.867596,
+    2.322379,
+    48.867596
+],
   "geometry": {"coordinates":[2.322379,48.867596],"type":"Point"}
 }

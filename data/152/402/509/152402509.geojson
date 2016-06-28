@@ -2,13 +2,14 @@
   "id": 152402509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544807,47.19434,-1.544807,47.19434",
     "geom:latitude":47.19434,
     "geom:longitude":-1.544807,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Av. de la Lib\u00e9ration, 44400 Rez\u00e9",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152402509,
-    "wof:lastmodified":1449045781,
+    "wof:lastmodified":1466250449,
     "wof:name":"Demarque Claude",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544807,47.19434,-1.544807,47.19434],
+  "bbox": [
+    -1.544807,
+    47.19434,
+    -1.544807,
+    47.19434
+],
   "geometry": {"coordinates":[-1.544807,47.19434],"type":"Point"}
 }

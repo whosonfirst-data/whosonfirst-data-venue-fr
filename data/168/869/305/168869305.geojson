@@ -2,13 +2,14 @@
   "id": 168869305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316879,48.875584,2.316879,48.875584",
     "geom:latitude":48.875584,
     "geom:longitude":2.316879,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Rue de Laborde, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168869305,
-    "wof:lastmodified":1449028528,
+    "wof:lastmodified":1466246196,
     "wof:name":"Charrette Service S.a.",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316879,48.875584,2.316879,48.875584],
+  "bbox": [
+    2.316879,
+    48.875584,
+    2.316879,
+    48.875584
+],
   "geometry": {"coordinates":[2.316879,48.875584],"type":"Point"}
 }

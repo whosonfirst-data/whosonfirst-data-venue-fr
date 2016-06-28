@@ -2,13 +2,14 @@
   "id": 152306889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33065,48.84951,2.33065,48.84951",
     "geom:latitude":48.84951,
     "geom:longitude":2.33065,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Rue des Saint P\u00e8res, 75270 Paris C\u00e9dex 06",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873831,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152306889,
-    "wof:lastmodified":1449048706,
+    "wof:lastmodified":1466250166,
     "wof:name":"Bio Critt Idf - Bio Critt Ile De France",
     "wof:parent_id":85873831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33065,48.84951,2.33065,48.84951],
+  "bbox": [
+    2.33065,
+    48.84951,
+    2.33065,
+    48.84951
+],
   "geometry": {"coordinates":[2.33065,48.84951],"type":"Point"}
 }

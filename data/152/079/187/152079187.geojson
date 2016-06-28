@@ -2,13 +2,14 @@
   "id": 152079187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.571806,44.847504,-0.571806,44.847504",
     "geom:latitude":44.847504,
     "geom:longitude":-0.571806,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 All\u00e9e De Chartres 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152079187,
-    "wof:lastmodified":1449048147,
+    "wof:lastmodified":1466247123,
     "wof:name":"Cabinet De Radiologie",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.571806,44.847504,-0.571806,44.847504],
+  "bbox": [
+    -0.571806,
+    44.847504,
+    -0.571806,
+    44.847504
+],
   "geometry": {"coordinates":[-0.571806,44.847504],"type":"Point"}
 }

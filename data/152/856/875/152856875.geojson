@@ -2,13 +2,14 @@
   "id": 152856875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.61498,44.838791,-0.61498,44.838791",
     "geom:latitude":44.838791,
     "geom:longitude":-0.61498,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"295 avenue de la R\u00e9publique 33200 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152856875,
-    "wof:lastmodified":1449045610,
+    "wof:lastmodified":1466252093,
     "wof:name":"Aquitaine Organisation Sarl",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.61498,44.838791,-0.61498,44.838791],
+  "bbox": [
+    -0.61498,
+    44.838791,
+    -0.61498,
+    44.838791
+],
   "geometry": {"coordinates":[-0.61498,44.838791],"type":"Point"}
 }

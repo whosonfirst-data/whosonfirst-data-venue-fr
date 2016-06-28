@@ -2,13 +2,14 @@
   "id": 152255629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.687491,48.498077,7.687491,48.498077",
     "geom:latitude":48.498077,
     "geom:longitude":7.687491,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 21, 67640 Fegersheim^^6, Rue de l'Artisanat, 67640 Fegersheim",
     "sg:city":"Fegersheim",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152255629,
-    "wof:lastmodified":1449046418,
+    "wof:lastmodified":1466249924,
     "wof:name":"Agence Alpha S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.687491,48.498077,7.687491,48.498077],
+  "bbox": [
+    7.687491,
+    48.498077,
+    7.687491,
+    48.498077
+],
   "geometry": {"coordinates":[7.687491,48.498077],"type":"Point"}
 }

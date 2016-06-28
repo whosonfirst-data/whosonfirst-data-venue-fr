@@ -2,13 +2,14 @@
   "id": 169124005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.388319,48.85231,2.388319,48.85231",
     "geom:latitude":48.85231,
     "geom:longitude":2.388319,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Rue Bouvier, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169124005,
-    "wof:lastmodified":1449035709,
+    "wof:lastmodified":1466248063,
     "wof:name":"S.a.f. S.a. - Soci\u00e9t\u00e9 Anonyme De Syst\u00e8mes Et D'audio",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.388319,48.85231,2.388319,48.85231],
+  "bbox": [
+    2.388319,
+    48.85231,
+    2.388319,
+    48.85231
+],
   "geometry": {"coordinates":[2.388319,48.85231],"type":"Point"}
 }

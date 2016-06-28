@@ -2,13 +2,14 @@
   "id": 136308567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.74992,48.583481,7.74992,48.583481",
     "geom:latitude":48.583481,
     "geom:longitude":7.74992,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue du D\u00f4me; Strasbourg; 67000",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136308567,
-    "wof:lastmodified":1449076301,
+    "wof:lastmodified":1466247201,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, Alsacienne De Banque Sa",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.74992,48.583481,7.74992,48.583481],
+  "bbox": [
+    7.74992,
+    48.583481,
+    7.74992,
+    48.583481
+],
   "geometry": {"coordinates":[7.74992,48.583481],"type":"Point"}
 }

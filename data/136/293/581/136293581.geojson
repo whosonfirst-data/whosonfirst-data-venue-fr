@@ -2,13 +2,14 @@
   "id": 136293581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3111,48.873241,2.3111,48.873241",
     "geom:latitude":48.873241,
     "geom:longitude":2.3111,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Av Franklin D. Roosevelt 75372 Paris Cedex 08",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136293581,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466246379,
     "wof:name":"Banque Transatlantique",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3111,48.873241,2.3111,48.873241],
+  "bbox": [
+    2.3111,
+    48.873241,
+    2.3111,
+    48.873241
+],
   "geometry": {"coordinates":[2.3111,48.873241],"type":"Point"}
 }

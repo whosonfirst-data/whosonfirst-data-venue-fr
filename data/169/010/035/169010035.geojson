@@ -2,13 +2,14 @@
   "id": 169010035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.244544,48.843224,2.244544,48.843224",
     "geom:latitude":48.843224,
     "geom:longitude":2.244544,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"74, Rue du Ch\u00e2teau, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169010035,
-    "wof:lastmodified":1449034742,
+    "wof:lastmodified":1466245972,
     "wof:name":"Jean-pierre Tricard S.a.s.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.244544,48.843224,2.244544,48.843224],
+  "bbox": [
+    2.244544,
+    48.843224,
+    2.244544,
+    48.843224
+],
   "geometry": {"coordinates":[2.244544,48.843224],"type":"Point"}
 }

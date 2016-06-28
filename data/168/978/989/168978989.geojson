@@ -2,13 +2,14 @@
   "id": 168978989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334136,48.874199,2.334136,48.874199",
     "geom:latitude":48.874199,
     "geom:longitude":2.334136,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59, Rue de Provence, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168978989,
-    "wof:lastmodified":1449028215,
+    "wof:lastmodified":1466248782,
     "wof:name":"Groupe Arcade",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334136,48.874199,2.334136,48.874199],
+  "bbox": [
+    2.334136,
+    48.874199,
+    2.334136,
+    48.874199
+],
   "geometry": {"coordinates":[2.334136,48.874199],"type":"Point"}
 }

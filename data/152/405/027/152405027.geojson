@@ -2,13 +2,14 @@
   "id": 152405027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"150.912964,-33.739841,150.912964,-33.739841",
     "geom:latitude":-33.739841,
     "geom:longitude":150.912964,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 10385, 95706 Roissy Charles de Gaulle C\u00e9dex^^20, Rue du Trait d'Union - Zone Fr\u00eat 2 Bureau 1300",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85777045,
+        85681545,
         85632793,
         101930903,
         102048555,
-        85681545
+        85777045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152405027,
-    "wof:lastmodified":1449048537,
+    "wof:lastmodified":1466250450,
     "wof:name":"Deugro S.a.",
     "wof:parent_id":85777045,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [150.912964,-33.739841,150.912964,-33.739841],
-  "geometry": {"coordinates":[150.912964,-33.739841],"type":"Point"}
+  "bbox": [
+    150.912964,
+    -33.739841,
+    150.912964,
+    -33.739841
+],
+  "geometry": {"coordinates":[150.91296399999999,-33.739841],"type":"Point"}
 }

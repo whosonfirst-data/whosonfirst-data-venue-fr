@@ -2,13 +2,14 @@
   "id": 152419403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.381374,48.845821,2.381374,48.845821",
     "geom:latitude":48.845821,
     "geom:longitude":2.381374,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Passage Abel Leblanc, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152419403,
-    "wof:lastmodified":1449048828,
+    "wof:lastmodified":1466250583,
     "wof:name":"E-wave S.a.",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.381374,48.845821,2.381374,48.845821],
+  "bbox": [
+    2.381374,
+    48.845821,
+    2.381374,
+    48.845821
+],
   "geometry": {"coordinates":[2.381374,48.845821],"type":"Point"}
 }

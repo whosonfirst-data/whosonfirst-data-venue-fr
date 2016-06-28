@@ -2,13 +2,14 @@
   "id": 169022383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342132,48.876923,2.342132,48.876923",
     "geom:latitude":48.876923,
     "geom:longitude":2.342132,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue de Maubeuge, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169022383,
-    "wof:lastmodified":1449033779,
+    "wof:lastmodified":1466246708,
     "wof:name":"Laboratoire Du Docteur Dumesny S.a.",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342132,48.876923,2.342132,48.876923],
+  "bbox": [
+    2.342132,
+    48.876923,
+    2.342132,
+    48.876923
+],
   "geometry": {"coordinates":[2.342132,48.876923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152274477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.103455,48.71944,2.103455,48.71944",
     "geom:latitude":48.71944,
     "geom:longitude":2.103455,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 37, 78114 Magny les Hameaux^^6, Rue Am\u00e9d\u00e9e Gordini - Zone de Gomberville, 78114 Magny les Hamea",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,10 +19,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152274477,
-    "wof:lastmodified":1449044866,
+    "wof:lastmodified":1466249891,
     "wof:name":"Argos Arts Graphiques S.a.",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.103455,48.71944,2.103455,48.71944],
+  "bbox": [
+    2.103455,
+    48.71944,
+    2.103455,
+    48.71944
+],
   "geometry": {"coordinates":[2.103455,48.71944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152640547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.145218,41.274929,-74.145218,41.274929",
     "geom:latitude":41.274929,
     "geom:longitude":-74.145218,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 10910, 95731 Roissy Charles de Gaulle C\u00e9dex^^1, Rue de la Haye - B\u00e2t Le D\u00f4me",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -16,10 +17,10 @@
     "sg:province":"New York",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083061,
-        85633793,
         85688543,
-        85826821
+        85633793,
+        85826821,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152640547,
-    "wof:lastmodified":1449046315,
+    "wof:lastmodified":1466251318,
     "wof:name":"Net Com S.a.",
     "wof:parent_id":85826821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.145218,41.274929,-74.145218,41.274929],
+  "bbox": [
+    -74.145218,
+    41.274929,
+    -74.145218,
+    41.274929
+],
   "geometry": {"coordinates":[-74.145218,41.274929],"type":"Point"}
 }

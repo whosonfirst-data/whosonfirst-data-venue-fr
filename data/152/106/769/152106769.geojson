@@ -2,13 +2,14 @@
   "id": 152106769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36562,48.830421,2.36562,48.830421",
     "geom:latitude":48.830421,
     "geom:longitude":2.36562,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Jean Antoine De Baif 75644 Paris Cedex 13",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873921,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152106769,
-    "wof:lastmodified":1449044218,
+    "wof:lastmodified":1466249031,
     "wof:name":"Cathnet Science Sa",
     "wof:parent_id":85873921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36562,48.830421,2.36562,48.830421],
+  "bbox": [
+    2.36562,
+    48.830421,
+    2.36562,
+    48.830421
+],
   "geometry": {"coordinates":[2.36562,48.830421],"type":"Point"}
 }

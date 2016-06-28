@@ -2,13 +2,14 @@
   "id": 152654551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.060617,50.647179,3.060617,50.647179",
     "geom:latitude":50.647179,
     "geom:longitude":3.060617,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"75, Av. du Peuple Belge, 59046 Lille C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152654551,
-    "wof:lastmodified":1449045857,
+    "wof:lastmodified":1466251479,
     "wof:name":"Orsa B\u00e9tons Nord S.a.",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.060617,50.647179,3.060617,50.647179],
+  "bbox": [
+    3.060617,
+    50.647179,
+    3.060617,
+    50.647179
+],
   "geometry": {"coordinates":[3.060617,50.647179],"type":"Point"}
 }

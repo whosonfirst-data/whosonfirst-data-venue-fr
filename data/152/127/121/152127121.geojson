@@ -2,13 +2,14 @@
   "id": 152127121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.164301,44.659115,-1.164301,44.659115",
     "geom:latitude":44.659115,
     "geom:longitude":-1.164301,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 all\u00e9e Fran\u00e7ois de F\u00e9nelon 33120 Arcachon",
     "sg:city":"Arcachon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152127121,
-    "wof:lastmodified":1449048547,
+    "wof:lastmodified":1466249398,
     "wof:name":"Arcafoods Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.164301,44.659115,-1.164301,44.659115],
+  "bbox": [
+    -1.164301,
+    44.659115,
+    -1.164301,
+    44.659115
+],
   "geometry": {"coordinates":[-1.164301,44.659115],"type":"Point"}
 }

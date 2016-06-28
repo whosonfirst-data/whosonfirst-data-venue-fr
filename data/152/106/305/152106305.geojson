@@ -2,13 +2,14 @@
   "id": 152106305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358572,48.8563,2.358572,48.8563",
     "geom:latitude":48.8563,
     "geom:longitude":2.358572,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Rue Du Roi De Sicile 75004 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873811,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152106305,
-    "wof:lastmodified":1449044217,
+    "wof:lastmodified":1466248908,
     "wof:name":"Beausoleil",
     "wof:parent_id":85873811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358572,48.8563,2.358572,48.8563],
+  "bbox": [
+    2.358572,
+    48.8563,
+    2.358572,
+    48.8563
+],
   "geometry": {"coordinates":[2.358572,48.8563],"type":"Point"}
 }

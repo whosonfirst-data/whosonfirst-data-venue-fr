@@ -2,13 +2,14 @@
   "id": 152940307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34837,48.868053,2.34837,48.868053",
     "geom:latitude":48.868053,
     "geom:longitude":2.34837,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Passage Du Caire 75002 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152940307,
-    "wof:lastmodified":1449045421,
+    "wof:lastmodified":1466252373,
     "wof:name":"Stepierre Melle Sa",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34837,48.868053,2.34837,48.868053],
+  "bbox": [
+    2.34837,
+    48.868053,
+    2.34837,
+    48.868053
+],
   "geometry": {"coordinates":[2.34837,48.868053],"type":"Point"}
 }

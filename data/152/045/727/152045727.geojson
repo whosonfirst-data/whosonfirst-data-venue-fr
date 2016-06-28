@@ -2,13 +2,14 @@
   "id": 152045727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.229298,48.843178,2.229298,48.843178",
     "geom:latitude":48.843178,
     "geom:longitude":2.229298,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Des Abondances 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045727,
-    "wof:lastmodified":1449048380,
+    "wof:lastmodified":1466245564,
     "wof:name":"Ecole Rambam",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.229298,48.843178,2.229298,48.843178],
+  "bbox": [
+    2.229298,
+    48.843178,
+    2.229298,
+    48.843178
+],
   "geometry": {"coordinates":[2.229298,48.843178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152118055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342863,48.875557,2.342863,48.875557",
     "geom:latitude":48.875557,
     "geom:longitude":2.342863,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Rue La Fayette 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873883,
-        102068731
+        85873867,
+        102068731,
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152118055,
-    "wof:lastmodified":1449048033,
+    "wof:lastmodified":1466249187,
     "wof:name":"Creations D'art Buee Gendrau Levasseur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342863,48.875557,2.342863,48.875557],
+  "bbox": [
+    2.342863,
+    48.875557,
+    2.342863,
+    48.875557
+],
   "geometry": {"coordinates":[2.342863,48.875557],"type":"Point"}
 }

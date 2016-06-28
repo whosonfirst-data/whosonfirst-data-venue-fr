@@ -2,13 +2,14 @@
   "id": 152048517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.370669,48.882172,2.370669,48.882172",
     "geom:latitude":48.882172,
     "geom:longitude":2.370669,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Av Secr\u00e9tan 75019 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874037,
+        85683497,
         85633147,
         101751119,
         102070247,
-        85683497
+        85874037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152048517,
-    "wof:lastmodified":1449045916,
+    "wof:lastmodified":1466245757,
     "wof:name":"Hotel Des Buttes Chaumont Sarl",
     "wof:parent_id":85874037,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.370669,48.882172,2.370669,48.882172],
+  "bbox": [
+    2.370669,
+    48.882172,
+    2.370669,
+    48.882172
+],
   "geometry": {"coordinates":[2.370669,48.882172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152309917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.404393,48.894745,2.404393,48.894745",
     "geom:latitude":48.894745,
     "geom:longitude":2.404393,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Rue Victor Hugo, 93507 Pantin C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874023,
+        85683475,
         85633147,
         101751145,
         102072131,
-        85683475
+        85874023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152309917,
-    "wof:lastmodified":1449045332,
+    "wof:lastmodified":1466250165,
     "wof:name":"Boch Fr\u00e8res S.a.s.",
     "wof:parent_id":85874023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.404393,48.894745,2.404393,48.894745],
+  "bbox": [
+    2.404393,
+    48.894745,
+    2.404393,
+    48.894745
+],
   "geometry": {"coordinates":[2.404393,48.894745],"type":"Point"}
 }

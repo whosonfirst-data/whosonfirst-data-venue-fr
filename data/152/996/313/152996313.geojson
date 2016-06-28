@@ -2,13 +2,14 @@
   "id": 152996313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.393825,48.841057,2.393825,48.841057",
     "geom:latitude":48.841057,
     "geom:longitude":2.393825,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"104BIS rue de Reuilly 75012 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873911,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152996313,
-    "wof:lastmodified":1449045533,
+    "wof:lastmodified":1466252520,
     "wof:name":"J.d. Edwards France Sa",
     "wof:parent_id":85873911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.393825,48.841057,2.393825,48.841057],
+  "bbox": [
+    2.393825,
+    48.841057,
+    2.393825,
+    48.841057
+],
   "geometry": {"coordinates":[2.393825,48.841057],"type":"Point"}
 }

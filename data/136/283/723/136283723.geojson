@@ -2,13 +2,14 @@
   "id": 136283723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.56244,44.87672,-0.56244,44.87672",
     "geom:latitude":44.87672,
     "geom:longitude":-0.56244,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Du Prof Andre Lavignolle Miniparc Bordeaux Le Lac 33300 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136283723,
-    "wof:lastmodified":1449075277,
+    "wof:lastmodified":1466245745,
     "wof:name":"Compagnie Internationale Du Chauffage Ci Ch",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.56244,44.87672,-0.56244,44.87672],
+  "bbox": [
+    -0.56244,
+    44.87672,
+    -0.56244,
+    44.87672
+],
   "geometry": {"coordinates":[-0.56244,44.87672],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169044205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328248,48.83094,2.328248,48.83094",
     "geom:latitude":48.83094,
     "geom:longitude":2.328248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Rue Br\u00e9zin, 75014 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873939,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169044205,
-    "wof:lastmodified":1449034406,
+    "wof:lastmodified":1466245794,
     "wof:name":"M.d.m. S.a.r.l.",
     "wof:parent_id":85873939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328248,48.83094,2.328248,48.83094],
+  "bbox": [
+    2.328248,
+    48.83094,
+    2.328248,
+    48.83094
+],
   "geometry": {"coordinates":[2.328248,48.83094],"type":"Point"}
 }

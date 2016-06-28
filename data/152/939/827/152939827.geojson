@@ -2,13 +2,14 @@
   "id": 152939827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.399736,48.853783,2.399736,48.853783",
     "geom:latitude":48.853783,
     "geom:longitude":2.399736,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Rue Des Vignoles 75020 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152939827,
-    "wof:lastmodified":1449045661,
+    "wof:lastmodified":1466252388,
     "wof:name":"Societe Nouvelle Pretolani",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.399736,48.853783,2.399736,48.853783],
+  "bbox": [
+    2.399736,
+    48.853783,
+    2.399736,
+    48.853783
+],
   "geometry": {"coordinates":[2.399736,48.853783],"type":"Point"}
 }

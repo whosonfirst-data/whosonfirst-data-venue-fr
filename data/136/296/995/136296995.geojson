@@ -2,13 +2,14 @@
   "id": 136296995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.763143,48.585915,7.763143,48.585915",
     "geom:latitude":48.585915,
     "geom:longitude":7.763143,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 pl Sebastien Brant; Strasbourg; 67000",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897721,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136296995,
-    "wof:lastmodified":1449075990,
+    "wof:lastmodified":1466246539,
     "wof:name":"Banque De Neuflize, Schlumberger, Mallet",
     "wof:parent_id":85897721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.763143,48.585915,7.763143,48.585915],
+  "bbox": [
+    7.763143,
+    48.585915,
+    7.763143,
+    48.585915
+],
   "geometry": {"coordinates":[7.763143,48.585915],"type":"Point"}
 }

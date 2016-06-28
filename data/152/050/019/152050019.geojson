@@ -2,13 +2,14 @@
   "id": 152050019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308441,48.866486,2.308441,48.866486",
     "geom:latitude":48.866486,
     "geom:longitude":2.308441,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rue Jean Goujon 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873861,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152050019,
-    "wof:lastmodified":1449046849,
+    "wof:lastmodified":1466245810,
     "wof:name":"Ste Hoteliere Et Touristique Sans Regis",
     "wof:parent_id":85873861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308441,48.866486,2.308441,48.866486],
+  "bbox": [
+    2.308441,
+    48.866486,
+    2.308441,
+    48.866486
+],
   "geometry": {"coordinates":[2.308441,48.866486],"type":"Point"}
 }

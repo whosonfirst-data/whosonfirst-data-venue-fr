@@ -2,13 +2,14 @@
   "id": 152045651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.520547,47.281116,-1.520547,47.281116",
     "geom:latitude":47.281116,
     "geom:longitude":-1.520547,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Alfred Kastler 44307 Nantes Cedex 03",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794655,
+        85683233,
         85633147,
         101757315,
         102065537,
-        85683233
+        85794655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152045651,
-    "wof:lastmodified":1449048380,
+    "wof:lastmodified":1466245548,
     "wof:name":"Ecole Nat Super Techn Indus Et Des Mines La Chantrerie",
     "wof:parent_id":85794655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.520547,47.281116,-1.520547,47.281116],
+  "bbox": [
+    -1.520547,
+    47.281116,
+    -1.520547,
+    47.281116
+],
   "geometry": {"coordinates":[-1.520547,47.281116],"type":"Point"}
 }

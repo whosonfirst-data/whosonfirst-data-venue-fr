@@ -2,13 +2,14 @@
   "id": 168828997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320341,48.854858,2.320341,48.854858",
     "geom:latitude":48.854858,
     "geom:longitude":2.320341,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 bis, Rue Clerc, 75007 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168828997,
-    "wof:lastmodified":1449028172,
+    "wof:lastmodified":1466245879,
     "wof:name":"Bics",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320341,48.854858,2.320341,48.854858],
+  "bbox": [
+    2.320341,
+    48.854858,
+    2.320341,
+    48.854858
+],
   "geometry": {"coordinates":[2.320341,48.854858],"type":"Point"}
 }

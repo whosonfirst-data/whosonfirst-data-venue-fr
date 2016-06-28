@@ -2,13 +2,14 @@
   "id": 152163071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.412224,48.692417,2.412224,48.692417",
     "geom:latitude":48.692417,
     "geom:longitude":2.412224,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Bd Henri Barbusse 91210 Draveil",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152163071,
-    "wof:lastmodified":1449048809,
+    "wof:lastmodified":1466249404,
     "wof:name":"Profil Micro Erosion",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.412224,48.692417,2.412224,48.692417],
+  "bbox": [
+    2.412224,
+    48.692417,
+    2.412224,
+    48.692417
+],
   "geometry": {"coordinates":[2.412224,48.692417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152919833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358875,48.905453,2.358875,48.905453",
     "geom:latitude":48.905453,
     "geom:longitude":2.358875,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Av Du Pdt Wilson 93210 La Plaine St Denis",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152919833,
-    "wof:lastmodified":1449047790,
+    "wof:lastmodified":1466252307,
     "wof:name":"Vcv Communication",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358875,48.905453,2.358875,48.905453],
+  "bbox": [
+    2.358875,
+    48.905453,
+    2.358875,
+    48.905453
+],
   "geometry": {"coordinates":[2.358875,48.905453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152061573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34771,48.867031,2.34771,48.867031",
     "geom:latitude":48.867031,
     "geom:longitude":2.34771,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"85 B Rue Reaumur 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152061573,
-    "wof:lastmodified":1449047637,
+    "wof:lastmodified":1466246910,
     "wof:name":"Mai Melissa",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34771,48.867031,2.34771,48.867031],
+  "bbox": [
+    2.34771,
+    48.867031,
+    2.34771,
+    48.867031
+],
   "geometry": {"coordinates":[2.34771,48.867031],"type":"Point"}
 }

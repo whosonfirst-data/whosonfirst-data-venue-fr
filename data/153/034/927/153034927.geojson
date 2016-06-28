@@ -2,13 +2,14 @@
   "id": 153034927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29386,48.841679,2.29386,48.841679",
     "geom:latitude":48.841679,
     "geom:longitude":2.29386,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43",
     "sg:city":"du Colonel Pierre Avia; Paris Cedex 15; 75508",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873963,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":153034927,
-    "wof:lastmodified":1449040384,
+    "wof:lastmodified":1466247355,
     "wof:name":"Catering Motorways - Busclub",
     "wof:parent_id":85873963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29386,48.841679,2.29386,48.841679],
+  "bbox": [
+    2.29386,
+    48.841679,
+    2.29386,
+    48.841679
+],
   "geometry": {"coordinates":[2.29386,48.841679],"type":"Point"}
 }

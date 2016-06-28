@@ -2,13 +2,14 @@
   "id": 169012673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29999,48.870659,2.29999,48.870659",
     "geom:latitude":48.870659,
     "geom:longitude":2.29999,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Rue Magellan, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169012673,
-    "wof:lastmodified":1449035624,
+    "wof:lastmodified":1466246171,
     "wof:name":"Ka L'informatique S.a.",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29999,48.870659,2.29999,48.870659],
+  "bbox": [
+    2.29999,
+    48.870659,
+    2.29999,
+    48.870659
+],
   "geometry": {"coordinates":[2.29999,48.870659],"type":"Point"}
 }

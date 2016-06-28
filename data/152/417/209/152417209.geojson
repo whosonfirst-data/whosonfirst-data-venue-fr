@@ -2,13 +2,14 @@
   "id": 152417209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.581039,44.836636,-0.581039,44.836636",
     "geom:latitude":44.836636,
     "geom:longitude":-0.581039,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 15, 33025 Bordeaux C\u00e9dex^^6, Quai Louis 18, 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152417209,
-    "wof:lastmodified":1449046203,
+    "wof:lastmodified":1466250490,
     "wof:name":"Duvigneau S.a.",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.581039,44.836636,-0.581039,44.836636],
+  "bbox": [
+    -0.581039,
+    44.836636,
+    -0.581039,
+    44.836636
+],
   "geometry": {"coordinates":[-0.581039,44.836636],"type":"Point"}
 }

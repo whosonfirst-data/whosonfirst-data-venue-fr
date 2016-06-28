@@ -2,13 +2,14 @@
   "id": 152431649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.239111,48.877449,2.239111,48.877449",
     "geom:latitude":48.877449,
     "geom:longitude":2.239111,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31, Rue Voltaire, 92800 Puteaux",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873975,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873975
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152431649,
-    "wof:lastmodified":1449044927,
+    "wof:lastmodified":1466250629,
     "wof:name":"Elis G.i.e.",
     "wof:parent_id":85873975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.239111,48.877449,2.239111,48.877449],
+  "bbox": [
+    2.239111,
+    48.877449,
+    2.239111,
+    48.877449
+],
   "geometry": {"coordinates":[2.239111,48.877449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136303735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.780373,48.60973,7.780373,48.60973",
     "geom:latitude":48.60973,
     "geom:longitude":7.780373,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100 rte de la Wantzenau; Strasbourg; 67000",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136303735,
-    "wof:lastmodified":1449074926,
+    "wof:lastmodified":1466247021,
     "wof:name":"Cr\u00e9dit Industriel D'alsace, De Lorraine Sa",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.780373,48.60973,7.780373,48.60973],
+  "bbox": [
+    7.780373,
+    48.60973,
+    7.780373,
+    48.60973
+],
   "geometry": {"coordinates":[7.780373,48.60973],"type":"Point"}
 }

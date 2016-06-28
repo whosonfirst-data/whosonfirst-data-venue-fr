@@ -2,13 +2,14 @@
   "id": 169112901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326314,48.834576,2.326314,48.834576",
     "geom:latitude":48.834576,
     "geom:longitude":2.326314,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30, Rue Gassendi, 75014 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873943,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169112901,
-    "wof:lastmodified":1449034193,
+    "wof:lastmodified":1466248009,
     "wof:name":"Recif S.a.",
     "wof:parent_id":85873943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326314,48.834576,2.326314,48.834576],
+  "bbox": [
+    2.326314,
+    48.834576,
+    2.326314,
+    48.834576
+],
   "geometry": {"coordinates":[2.326314,48.834576],"type":"Point"}
 }

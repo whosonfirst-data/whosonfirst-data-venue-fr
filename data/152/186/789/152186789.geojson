@@ -2,13 +2,14 @@
   "id": 152186789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.456176,48.868721,2.456176,48.868721",
     "geom:latitude":48.868721,
     "geom:longitude":2.456176,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 av du Pdt Salvador Allend\u00e9 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152186789,
-    "wof:lastmodified":1449047914,
+    "wof:lastmodified":1466249696,
     "wof:name":"Parant Michaux Sa",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.456176,48.868721,2.456176,48.868721],
+  "bbox": [
+    2.456176,
+    48.868721,
+    2.456176,
+    48.868721
+],
   "geometry": {"coordinates":[2.456176,48.868721],"type":"Point"}
 }

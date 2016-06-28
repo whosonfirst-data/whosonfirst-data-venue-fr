@@ -2,13 +2,14 @@
   "id": 152086983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.773746,48.643925,7.773746,48.643925",
     "geom:latitude":48.643925,
     "geom:longitude":7.773746,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue De L'Ambranchement 67116 Reichstett",
     "sg:city":"Reichstett",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152086983,
-    "wof:lastmodified":1449047401,
+    "wof:lastmodified":1466247919,
     "wof:name":"Tir Technologies Sarl",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.773746,48.643925,7.773746,48.643925],
+  "bbox": [
+    7.773746,
+    48.643925,
+    7.773746,
+    48.643925
+],
   "geometry": {"coordinates":[7.773746,48.643925],"type":"Point"}
 }

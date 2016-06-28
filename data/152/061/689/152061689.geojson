@@ -2,13 +2,14 @@
   "id": 152061689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357009,48.86097,2.357009,48.86097",
     "geom:latitude":48.86097,
     "geom:longitude":2.357009,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue De Braque 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152061689,
-    "wof:lastmodified":1449047638,
+    "wof:lastmodified":1466246934,
     "wof:name":"Martine Sitbon Sarl",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357009,48.86097,2.357009,48.86097],
+  "bbox": [
+    2.357009,
+    48.86097,
+    2.357009,
+    48.86097
+],
   "geometry": {"coordinates":[2.357009,48.86097],"type":"Point"}
 }

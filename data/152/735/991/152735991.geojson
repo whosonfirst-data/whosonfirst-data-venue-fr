@@ -2,13 +2,14 @@
   "id": 152735991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.896523,36.821327,-85.896523,36.821327",
     "geom:latitude":36.821327,
     "geom:longitude":-85.896523,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"150, Rte des Sources, 69280 Marcy l'Etoile",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Kentucky",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85846071,
+        85688641,
         85633793,
         85946875,
         102085537,
-        85688641
+        85846071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152735991,
-    "wof:lastmodified":1449048805,
+    "wof:lastmodified":1466251807,
     "wof:name":"S.r.a. Instruments S.a.r.l.",
     "wof:parent_id":85846071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.896523,36.821327,-85.896523,36.821327],
+  "bbox": [
+    -85.896523,
+    36.821327,
+    -85.896523,
+    36.821327
+],
   "geometry": {"coordinates":[-85.896523,36.821327],"type":"Point"}
 }

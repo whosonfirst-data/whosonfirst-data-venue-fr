@@ -2,13 +2,14 @@
   "id": 136313265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.496529,47.184181,-1.496529,47.184181",
     "geom:latitude":47.184181,
     "geom:longitude":-1.496529,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Route Du Mortier Vannerie 44120 Vertou",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136313265,
-    "wof:lastmodified":1449074965,
+    "wof:lastmodified":1466245289,
     "wof:name":"United Biscuits France",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.496529,47.184181,-1.496529,47.184181],
+  "bbox": [
+    -1.496529,
+    47.184181,
+    -1.496529,
+    47.184181
+],
   "geometry": {"coordinates":[-1.496529,47.184181],"type":"Point"}
 }

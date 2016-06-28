@@ -2,13 +2,14 @@
   "id": 169120945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.098124,44.742214,-1.098124,44.742214",
     "geom:latitude":44.742214,
     "geom:longitude":-1.098124,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29, Rue David All\u00e9gre, 33510 Andernos les Bains",
     "sg:city":"Andernos-les-Bains",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169120945,
-    "wof:lastmodified":1449035488,
+    "wof:lastmodified":1466248121,
     "wof:name":"Roux Fr\u00e8res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.098124,44.742214,-1.098124,44.742214],
+  "bbox": [
+    -1.098124,
+    44.742214,
+    -1.098124,
+    44.742214
+],
   "geometry": {"coordinates":[-1.098124,44.742214],"type":"Point"}
 }

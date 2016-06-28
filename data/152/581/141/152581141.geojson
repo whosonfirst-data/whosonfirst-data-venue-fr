@@ -2,13 +2,14 @@
   "id": 152581141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.371748,48.828747,2.371748,48.828747",
     "geom:latitude":48.828747,
     "geom:longitude":2.371748,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 bis, Rue de Reims, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152581141,
-    "wof:lastmodified":1449045278,
+    "wof:lastmodified":1466251093,
     "wof:name":"Lecante Novelli S.a.",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.371748,48.828747,2.371748,48.828747],
+  "bbox": [
+    2.371748,
+    48.828747,
+    2.371748,
+    48.828747
+],
   "geometry": {"coordinates":[2.371748,48.828747],"type":"Point"}
 }

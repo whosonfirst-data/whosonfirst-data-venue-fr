@@ -2,13 +2,14 @@
   "id": 152056129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.724111,48.602715,7.724111,48.602715",
     "geom:latitude":48.602715,
     "geom:longitude":7.724111,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Jean Pierre Clause 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794511,
+        85683221,
         85633147,
         101753005,
         102068507,
-        85683221
+        85794511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152056129,
-    "wof:lastmodified":1449045629,
+    "wof:lastmodified":1466246483,
     "wof:name":"Cpe",
     "wof:parent_id":85794511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.724111,48.602715,7.724111,48.602715],
+  "bbox": [
+    7.724111,
+    48.602715,
+    7.724111,
+    48.602715
+],
   "geometry": {"coordinates":[7.724111,48.602715],"type":"Point"}
 }

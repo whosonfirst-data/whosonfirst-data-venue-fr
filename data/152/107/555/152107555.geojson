@@ -2,13 +2,14 @@
   "id": 152107555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.911655,43.135056,5.911655,43.135056",
     "geom:latitude":43.135056,
     "geom:longitude":5.911655,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"669 Boulevard Louis Picon 83200 Toulon",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152107555,
-    "wof:lastmodified":1449044311,
+    "wof:lastmodified":1466249316,
     "wof:name":"Laboratoire Piccio Naze Bristol C",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.911655,43.135056,5.911655,43.135056],
+  "bbox": [
+    5.911655,
+    43.135056,
+    5.911655,
+    43.135056
+],
   "geometry": {"coordinates":[5.911655,43.135056],"type":"Point"}
 }

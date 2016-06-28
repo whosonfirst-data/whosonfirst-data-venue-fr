@@ -2,13 +2,14 @@
   "id": 152045013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.445938,43.592506,1.445938,43.592506",
     "geom:latitude":43.592506,
     "geom:longitude":1.445938,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Des 36 Ponts 31400 Toulouse",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794617,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045013,
-    "wof:lastmodified":1449048381,
+    "wof:lastmodified":1466245417,
     "wof:name":"College Et Lycee Prives Montalembert Notre Dame",
     "wof:parent_id":85794617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.445938,43.592506,1.445938,43.592506],
+  "bbox": [
+    1.445938,
+    43.592506,
+    1.445938,
+    43.592506
+],
   "geometry": {"coordinates":[1.445938,43.592506],"type":"Point"}
 }

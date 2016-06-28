@@ -2,13 +2,14 @@
   "id": 152058871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341552,48.864101,2.341552,48.864101",
     "geom:latitude":48.864101,
     "geom:longitude":2.341552,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 rue Coquilli\u00e8re 75001 Paris",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152058871,
-    "wof:lastmodified":1449044983,
+    "wof:lastmodified":1466246805,
     "wof:name":"Euro East International Sarl",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341552,48.864101,2.341552,48.864101],
+  "bbox": [
+    2.341552,
+    48.864101,
+    2.341552,
+    48.864101
+],
   "geometry": {"coordinates":[2.341552,48.864101],"type":"Point"}
 }

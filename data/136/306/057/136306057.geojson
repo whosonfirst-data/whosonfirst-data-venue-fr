@@ -2,13 +2,14 @@
   "id": 136306057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.377934,48.841061,2.377934,48.841061",
     "geom:latitude":48.841061,
     "geom:longitude":2.377934,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Rue de Bercy, Teledoc 536, 75572 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306057,
-    "wof:lastmodified":1449076206,
+    "wof:lastmodified":1466246912,
     "wof:name":"Ministry Of Economics Finance And Industry",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.377934,48.841061,2.377934,48.841061],
+  "bbox": [
+    2.377934,
+    48.841061,
+    2.377934,
+    48.841061
+],
   "geometry": {"coordinates":[2.377934,48.841061],"type":"Point"}
 }

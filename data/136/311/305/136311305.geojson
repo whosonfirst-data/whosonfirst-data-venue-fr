@@ -2,13 +2,14 @@
   "id": 136311305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.770845,48.572945,7.770845,48.572945",
     "geom:latitude":48.572945,
     "geom:longitude":7.770845,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Alfred Kastler 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897711,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136311305,
-    "wof:lastmodified":1449075218,
+    "wof:lastmodified":1466247347,
     "wof:name":"Editions Du Signe S.a.",
     "wof:parent_id":85897711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.770845,48.572945,7.770845,48.572945],
+  "bbox": [
+    7.770845,
+    48.572945,
+    7.770845,
+    48.572945
+],
   "geometry": {"coordinates":[7.770845,48.572945],"type":"Point"}
 }

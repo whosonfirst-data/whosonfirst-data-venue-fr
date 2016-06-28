@@ -2,13 +2,14 @@
   "id": 136313005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.344165,48.861053,2.344165,48.861053",
     "geom:latitude":48.861053,
     "geom:longitude":2.344165,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Rue St Honor\u00e9 75001 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136313005,
-    "wof:lastmodified":1449074970,
+    "wof:lastmodified":1466245234,
     "wof:name":"Sa Julien",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.344165,48.861053,2.344165,48.861053],
+  "bbox": [
+    2.344165,
+    48.861053,
+    2.344165,
+    48.861053
+],
   "geometry": {"coordinates":[2.344165,48.861053],"type":"Point"}
 }

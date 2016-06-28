@@ -2,13 +2,14 @@
   "id": 136311373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364975,48.853401,2.364975,48.853401",
     "geom:latitude":48.853401,
     "geom:longitude":2.364975,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33 rue du Petit Musc 75004 Paris",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136311373,
-    "wof:lastmodified":1449075219,
+    "wof:lastmodified":1466247361,
     "wof:name":"Snc Editions Play-bac",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364975,48.853401,2.364975,48.853401],
+  "bbox": [
+    2.364975,
+    48.853401,
+    2.364975,
+    48.853401
+],
   "geometry": {"coordinates":[2.364975,48.853401],"type":"Point"}
 }

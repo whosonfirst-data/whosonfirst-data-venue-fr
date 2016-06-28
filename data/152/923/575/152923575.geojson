@@ -2,13 +2,14 @@
   "id": 152923575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.246556,43.714386,7.246556,43.714386",
     "geom:latitude":43.714386,
     "geom:longitude":7.246556,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Av De Pessicart 06100 Nice",
     "sg:classifiers":[
         {
@@ -25,10 +26,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072439,
-        85633147,
         85683323,
-        85794649
+        85633147,
+        85794649,
+        102072439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152923575,
-    "wof:lastmodified":1449048763,
+    "wof:lastmodified":1466252323,
     "wof:name":"Ets Imprimix Sarl",
     "wof:parent_id":85794649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.246556,43.714386,7.246556,43.714386],
+  "bbox": [
+    7.246556,
+    43.714386,
+    7.246556,
+    43.714386
+],
   "geometry": {"coordinates":[7.246556,43.714386],"type":"Point"}
 }

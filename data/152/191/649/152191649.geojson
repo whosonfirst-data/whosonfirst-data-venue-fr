@@ -2,13 +2,14 @@
   "id": 152191649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.040123,31.758181,-97.040123,31.758181",
     "geom:latitude":31.758181,
     "geom:longitude":-97.040123,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Des Martyrs BP 423 37304 Jou\u00e9 Les Tours",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881739,
+        85688753,
         85633793,
         101723381,
         102085007,
-        85688753
+        85881739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152191649,
-    "wof:lastmodified":1449047098,
+    "wof:lastmodified":1466249695,
     "wof:name":"Hutchinson Snc",
     "wof:parent_id":85881739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.040123,31.758181,-97.040123,31.758181],
-  "geometry": {"coordinates":[-97.040123,31.758181],"type":"Point"}
+  "bbox": [
+    -97.040123,
+    31.758181,
+    -97.040123,
+    31.758181
+],
+  "geometry": {"coordinates":[-97.04012299999999,31.758181],"type":"Point"}
 }

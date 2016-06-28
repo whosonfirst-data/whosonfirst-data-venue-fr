@@ -2,13 +2,14 @@
   "id": 169080721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.621857,34.146412,-117.621857,34.146412",
     "geom:latitude":34.146412,
     "geom:longitude":-117.621857,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue Marie Curie, 91701 Villiers sur Orge C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"California",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802917,
+        85688637,
         85633793,
         85923937,
         102085395,
-        85688637
+        85802917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169080721,
-    "wof:lastmodified":1449035875,
+    "wof:lastmodified":1466247584,
     "wof:name":"Optima Direct S.a.",
     "wof:parent_id":85802917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.621857,34.146412,-117.621857,34.146412],
-  "geometry": {"coordinates":[-117.621857,34.146412],"type":"Point"}
+  "bbox": [
+    -117.621857,
+    34.146412,
+    -117.621857,
+    34.146412
+],
+  "geometry": {"coordinates":[-117.62185700000001,34.146412],"type":"Point"}
 }

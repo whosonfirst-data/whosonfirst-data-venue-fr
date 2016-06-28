@@ -2,13 +2,14 @@
   "id": 152954573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.785727,48.563782,7.785727,48.563782",
     "geom:latitude":48.563782,
     "geom:longitude":7.785727,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Rue Du Havre 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152954573,
-    "wof:lastmodified":1449048324,
+    "wof:lastmodified":1466252439,
     "wof:name":"Danzas Sa",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.785727,48.563782,7.785727,48.563782],
+  "bbox": [
+    7.785727,
+    48.563782,
+    7.785727,
+    48.563782
+],
   "geometry": {"coordinates":[7.785727,48.563782],"type":"Point"}
 }

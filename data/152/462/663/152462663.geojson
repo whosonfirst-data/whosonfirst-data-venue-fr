@@ -2,13 +2,14 @@
   "id": 152462663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.475193,48.430622,1.475193,48.430622",
     "geom:latitude":48.430622,
     "geom:longitude":1.475193,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 77, 28600 Luisant C\u00e9dex^^25, Av. Maurice Maunoury, 28600 Luisant",
     "sg:city":"Luisant",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152462663,
-    "wof:lastmodified":1449048738,
+    "wof:lastmodified":1466250662,
     "wof:name":"Eurodor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.475193,48.430622,1.475193,48.430622],
+  "bbox": [
+    1.475193,
+    48.430622,
+    1.475193,
+    48.430622
+],
   "geometry": {"coordinates":[1.475193,48.430622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152160827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.377608,48.822929,2.377608,48.822929",
     "geom:latitude":48.822929,
     "geom:longitude":2.377608,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Avenue De La Porte De Vitry 75013 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152160827,
-    "wof:lastmodified":1449048183,
+    "wof:lastmodified":1466249396,
     "wof:name":"Trade Chor",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.377608,48.822929,2.377608,48.822929],
+  "bbox": [
+    2.377608,
+    48.822929,
+    2.377608,
+    48.822929
+],
   "geometry": {"coordinates":[2.377608,48.822929],"type":"Point"}
 }

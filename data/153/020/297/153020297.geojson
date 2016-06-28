@@ -2,13 +2,14 @@
   "id": 153020297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.581398,44.794632,-0.581398,44.794632",
     "geom:latitude":44.794632,
     "geom:longitude":-0.581398,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue Henri de Montherlant 33400 Talence",
     "sg:city":"Talence",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897677,
+        85683243,
         85633147,
         101750773,
         102071707,
-        85683243
+        85897677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153020297,
-    "wof:lastmodified":1449040538,
+    "wof:lastmodified":1466246262,
     "wof:name":"Ste Robintech Sarl",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.581398,44.794632,-0.581398,44.794632],
+  "bbox": [
+    -0.581398,
+    44.794632,
+    -0.581398,
+    44.794632
+],
   "geometry": {"coordinates":[-0.581398,44.794632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152544857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.26398,48.940845,2.26398,48.940845",
     "geom:latitude":48.940845,
     "geom:longitude":2.26398,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rte Ouest du M\u00f4le N\u00b01, 92631 Gennevilliers C\u00e9dex",
     "sg:city":"Gennevilliers",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152544857,
-    "wof:lastmodified":1449048896,
+    "wof:lastmodified":1466250994,
     "wof:name":"Intrans Route Internationale S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.26398,48.940845,2.26398,48.940845],
+  "bbox": [
+    2.26398,
+    48.940845,
+    2.26398,
+    48.940845
+],
   "geometry": {"coordinates":[2.26398,48.940845],"type":"Point"}
 }

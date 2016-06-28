@@ -2,13 +2,14 @@
   "id": 152183879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.19986,43.692879,7.19986,43.692879",
     "geom:latitude":43.692879,
     "geom:longitude":7.19986,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"347 Avenue Sainte Marguerite 06200 Nice",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072439,
-        85633147,
         85683323,
-        85794559
+        85633147,
+        85794559,
+        102072439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152183879,
-    "wof:lastmodified":1449046782,
+    "wof:lastmodified":1466249949,
     "wof:name":"Sarl D'press Baietto",
     "wof:parent_id":85794559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.19986,43.692879,7.19986,43.692879],
+  "bbox": [
+    7.19986,
+    43.692879,
+    7.19986,
+    43.692879
+],
   "geometry": {"coordinates":[7.19986,43.692879],"type":"Point"}
 }

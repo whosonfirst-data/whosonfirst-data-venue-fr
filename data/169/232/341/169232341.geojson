@@ -2,13 +2,14 @@
   "id": 169232341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297562,48.86755,2.297562,48.86755",
     "geom:latitude":48.86755,
     "geom:longitude":2.297562,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Rue De Chaillot 75116 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169232341,
-    "wof:lastmodified":1449033754,
+    "wof:lastmodified":1466249356,
     "wof:name":"Pjp Sa",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297562,48.86755,2.297562,48.86755],
+  "bbox": [
+    2.297562,
+    48.86755,
+    2.297562,
+    48.86755
+],
   "geometry": {"coordinates":[2.297562,48.86755],"type":"Point"}
 }

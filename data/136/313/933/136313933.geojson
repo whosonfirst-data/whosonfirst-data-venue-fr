@@ -2,13 +2,14 @@
   "id": 136313933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.802724,48.651554,7.802724,48.651554",
     "geom:latitude":48.651554,
     "geom:longitude":7.802724,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Du Ried 67610 La Wantzenau",
     "sg:city":"La Wantzenau",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":136313933,
-    "wof:lastmodified":1449074961,
+    "wof:lastmodified":1466245428,
     "wof:name":"Endel",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.802724,48.651554,7.802724,48.651554],
+  "bbox": [
+    7.802724,
+    48.651554,
+    7.802724,
+    48.651554
+],
   "geometry": {"coordinates":[7.802724,48.651554],"type":"Point"}
 }

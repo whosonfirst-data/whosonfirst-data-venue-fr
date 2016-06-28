@@ -2,13 +2,14 @@
   "id": 152800021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.385182,43.532139,1.385182,43.532139",
     "geom:latitude":43.532139,
     "geom:longitude":1.385182,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 58, 31123 Portet sur Garonne C\u00e9dex^^3, Av. de la Saudrune - Parc d'Activit\u00e9s du Bois Vert, 3112",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Midi-Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152800021,
-    "wof:lastmodified":1449044669,
+    "wof:lastmodified":1466251856,
     "wof:name":"Sucres Et Services S.a.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.385182,43.532139,1.385182,43.532139],
+  "bbox": [
+    1.385182,
+    43.532139,
+    1.385182,
+    43.532139
+],
   "geometry": {"coordinates":[1.385182,43.532139],"type":"Point"}
 }

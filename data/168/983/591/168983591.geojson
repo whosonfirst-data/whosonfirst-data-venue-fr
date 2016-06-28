@@ -2,13 +2,14 @@
   "id": 168983591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.560304,44.874096,-0.560304,44.874096",
     "geom:latitude":44.874096,
     "geom:longitude":-0.560304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Bougainville",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168983591,
-    "wof:lastmodified":1449028522,
+    "wof:lastmodified":1466248885,
     "wof:name":"G\u00e9otec Sud-est S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.560304,44.874096,-0.560304,44.874096],
+  "bbox": [
+    -0.560304,
+    44.874096,
+    -0.560304,
+    44.874096
+],
   "geometry": {"coordinates":[-0.560304,44.874096],"type":"Point"}
 }

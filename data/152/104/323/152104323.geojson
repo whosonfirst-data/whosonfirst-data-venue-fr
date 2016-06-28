@@ -2,13 +2,14 @@
   "id": 152104323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748387,48.558376,7.748387,48.558376",
     "geom:latitude":48.558376,
     "geom:longitude":7.748387,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Av De Colmar 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152104323,
-    "wof:lastmodified":1449046206,
+    "wof:lastmodified":1466248692,
     "wof:name":"Otis Sa",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748387,48.558376,7.748387,48.558376],
+  "bbox": [
+    7.748387,
+    48.558376,
+    7.748387,
+    48.558376
+],
   "geometry": {"coordinates":[7.748387,48.558376],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152941849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.305876,48.869713,2.305876,48.869713",
     "geom:latitude":48.869713,
     "geom:longitude":2.305876,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38",
     "sg:city":"Marbeuf; Paris; 75008",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152941849,
-    "wof:lastmodified":1449047055,
+    "wof:lastmodified":1466252376,
     "wof:name":"Chargeurs",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.305876,48.869713,2.305876,48.869713],
+  "bbox": [
+    2.305876,
+    48.869713,
+    2.305876,
+    48.869713
+],
   "geometry": {"coordinates":[2.305876,48.869713],"type":"Point"}
 }

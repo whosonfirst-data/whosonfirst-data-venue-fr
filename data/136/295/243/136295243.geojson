@@ -2,13 +2,14 @@
   "id": 136295243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.458941,48.428658,-4.458941,48.428658",
     "geom:latitude":48.428658,
     "geom:longitude":-4.458941,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Rosemond Gerard",
     "sg:city":"Gouesnou",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136295243,
-    "wof:lastmodified":1449075458,
+    "wof:lastmodified":1466246372,
     "wof:name":"Cegex",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.458941,48.428658,-4.458941,48.428658],
+  "bbox": [
+    -4.458941,
+    48.428658,
+    -4.458941,
+    48.428658
+],
   "geometry": {"coordinates":[-4.458941,48.428658],"type":"Point"}
 }

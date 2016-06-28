@@ -2,13 +2,14 @@
   "id": 153079359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.234107,47.893875,7.234107,47.893875",
     "geom:latitude":47.893875,
     "geom:longitude":7.234107,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Rue de l'Industrie - Z.I. de Soultz, 68360 Soultz Haut Rhin",
     "sg:city":"Soultz-Haut-Rhin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153079359,
-    "wof:lastmodified":1449040743,
+    "wof:lastmodified":1466247163,
     "wof:name":"Atelco S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.234107,47.893875,7.234107,47.893875],
+  "bbox": [
+    7.234107,
+    47.893875,
+    7.234107,
+    47.893875
+],
   "geometry": {"coordinates":[7.234107,47.893875],"type":"Point"}
 }

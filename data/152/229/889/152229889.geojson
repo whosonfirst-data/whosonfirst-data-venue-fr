@@ -2,13 +2,14 @@
   "id": 152229889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.705002,39.222115,-76.705002,39.222115",
     "geom:latitude":39.222115,
     "geom:longitude":-76.705002,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 27 rue charles michel 75001 saint denis",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805247,
+        85688501,
         85633793,
         85950177,
         102082193,
-        85688501
+        85805247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229889,
-    "wof:lastmodified":1449047980,
+    "wof:lastmodified":1466249850,
     "wof:name":"Stock Union Sa",
     "wof:parent_id":85805247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.705002,39.222115,-76.705002,39.222115],
-  "geometry": {"coordinates":[-76.705002,39.222115],"type":"Point"}
+  "bbox": [
+    -76.705002,
+    39.222115,
+    -76.705002,
+    39.222115
+],
+  "geometry": {"coordinates":[-76.70500199999999,39.222115],"type":"Point"}
 }

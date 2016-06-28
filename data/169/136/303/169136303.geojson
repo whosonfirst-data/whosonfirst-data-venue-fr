@@ -2,13 +2,14 @@
   "id": 169136303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.31495,43.360394,5.31495,43.360394",
     "geom:latitude":43.360394,
     "geom:longitude":5.31495,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Port Autonome L'Estaque",
     "sg:city":"Marseille",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169136303,
-    "wof:lastmodified":1449035911,
+    "wof:lastmodified":1466248286,
     "wof:name":"S.m.t.p.t.m. S.a.r.l. - Soci\u00e9t\u00e9 M\u00e9diterran\u00e9enne De Travaux Publics, Terre",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.31495,43.360394,5.31495,43.360394],
+  "bbox": [
+    5.31495,
+    43.360394,
+    5.31495,
+    43.360394
+],
   "geometry": {"coordinates":[5.31495,43.360394],"type":"Point"}
 }

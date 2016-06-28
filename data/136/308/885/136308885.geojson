@@ -2,13 +2,14 @@
   "id": 136308885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.365512,48.800266,2.365512,48.800266",
     "geom:latitude":48.800266,
     "geom:longitude":2.365512,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"141-143 ave de Paris; Villejuif; 94800",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136308885,
-    "wof:lastmodified":1449076300,
+    "wof:lastmodified":1466247265,
     "wof:name":"Sovac",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.365512,48.800266,2.365512,48.800266],
+  "bbox": [
+    2.365512,
+    48.800266,
+    2.365512,
+    48.800266
+],
   "geometry": {"coordinates":[2.365512,48.800266],"type":"Point"}
 }

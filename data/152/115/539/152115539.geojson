@@ -2,13 +2,14 @@
   "id": 152115539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.535312,47.241344,-1.535312,47.241344",
     "geom:latitude":47.241344,
     "geom:longitude":-1.535312,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Rte De St Joseph 44325 Nantes Cedex 3",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152115539,
-    "wof:lastmodified":1449044255,
+    "wof:lastmodified":1466249236,
     "wof:name":"Cbsc Ouest Atlantique",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.535312,47.241344,-1.535312,47.241344],
+  "bbox": [
+    -1.535312,
+    47.241344,
+    -1.535312,
+    47.241344
+],
   "geometry": {"coordinates":[-1.535312,47.241344],"type":"Point"}
 }

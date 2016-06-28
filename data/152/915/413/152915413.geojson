@@ -2,13 +2,14 @@
   "id": 152915413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.337838,48.854588,2.337838,48.854588",
     "geom:latitude":48.854588,
     "geom:longitude":2.337838,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Rue Mazarine 75006 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873835,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152915413,
-    "wof:lastmodified":1449048861,
+    "wof:lastmodified":1466252413,
     "wof:name":"Librairie Grund Sa",
     "wof:parent_id":85873835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.337838,48.854588,2.337838,48.854588],
+  "bbox": [
+    2.337838,
+    48.854588,
+    2.337838,
+    48.854588
+],
   "geometry": {"coordinates":[2.337838,48.854588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152852453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.551,47.282745,-1.551,47.282745",
     "geom:latitude":47.282745,
     "geom:longitude":-1.551,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Rue de la Vri\u00e8re, 44240 La Chapelle sur Erdre",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152852453,
-    "wof:lastmodified":1449048129,
+    "wof:lastmodified":1466251964,
     "wof:name":"Westotel Nantes Atlantique",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.551,47.282745,-1.551,47.282745],
+  "bbox": [
+    -1.551,
+    47.282745,
+    -1.551,
+    47.282745
+],
   "geometry": {"coordinates":[-1.551,47.282745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152085947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06344,50.63718,3.06344,50.63718",
     "geom:latitude":50.63718,
     "geom:longitude":3.06344,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Rue Du Fbg De Roubaix 59010 Lille Cedex",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152085947,
-    "wof:lastmodified":1449045454,
+    "wof:lastmodified":1466247920,
     "wof:name":"Etablissements Vrau",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06344,50.63718,3.06344,50.63718],
+  "bbox": [
+    3.06344,
+    50.63718,
+    3.06344,
+    50.63718
+],
   "geometry": {"coordinates":[3.06344,50.63718],"type":"Point"}
 }

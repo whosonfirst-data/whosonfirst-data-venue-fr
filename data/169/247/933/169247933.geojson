@@ -2,13 +2,14 @@
   "id": 169247933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.384683,43.564914,1.384683,43.564914",
     "geom:latitude":43.564914,
     "geom:longitude":1.384683,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue PAULIN TALABOT",
     "sg:city":" Toulouse",
     "sg:classifiers":[
@@ -23,10 +24,10 @@
     "sg:website":"http://www.polestar-corporate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169247933,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1466249540,
     "wof:name":"Pole Star",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.384683,43.564914,1.384683,43.564914],
+  "bbox": [
+    1.384683,
+    43.564914,
+    1.384683,
+    43.564914
+],
   "geometry": {"coordinates":[1.384683,43.564914],"type":"Point"}
 }

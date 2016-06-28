@@ -2,13 +2,14 @@
   "id": 169213441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.064018,50.642345,3.064018,50.642345",
     "geom:latitude":50.642345,
     "geom:longitude":3.064018,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24, Av. du Peuple Belge, 59000 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169213441,
-    "wof:lastmodified":1449032718,
+    "wof:lastmodified":1466249120,
     "wof:name":"Vandermaesen Claude",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.064018,50.642345,3.064018,50.642345],
+  "bbox": [
+    3.064018,
+    50.642345,
+    3.064018,
+    50.642345
+],
   "geometry": {"coordinates":[3.064018,50.642345],"type":"Point"}
 }

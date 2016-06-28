@@ -2,13 +2,14 @@
   "id": 136278425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.35082,48.864319,2.35082,48.864319",
     "geom:latitude":48.864319,
     "geom:longitude":2.35082,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Rue De Turbigo",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278425,
-    "wof:lastmodified":1449075662,
+    "wof:lastmodified":1466245322,
     "wof:name":"Mutuelle Nationale De La Presse Du Livre Et De La Communication",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.35082,48.864319,2.35082,48.864319],
+  "bbox": [
+    2.35082,
+    48.864319,
+    2.35082,
+    48.864319
+],
   "geometry": {"coordinates":[2.35082,48.864319],"type":"Point"}
 }

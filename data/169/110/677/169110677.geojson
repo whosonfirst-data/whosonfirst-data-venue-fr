@@ -2,13 +2,14 @@
   "id": 169110677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.911423,26.14126,-97.911423,26.14126",
     "geom:latitude":26.14126,
     "geom:longitude":-97.911423,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"540, Rue des Entrepreneurs, 78570 Vernouillet",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85833825,
+        85688753,
         85633793,
         101723551,
         102083831,
-        85688753
+        85833825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169110677,
-    "wof:lastmodified":1449033771,
+    "wof:lastmodified":1466247885,
     "wof:name":"R.s.a. S.a.r.l. - Riv\u00e9lec Surcables Associ\u00e9s",
     "wof:parent_id":85833825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.911423,26.14126,-97.911423,26.14126],
+  "bbox": [
+    -97.911423,
+    26.14126,
+    -97.911423,
+    26.14126
+],
   "geometry": {"coordinates":[-97.911423,26.14126],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169247333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327278,48.880415,2.327278,48.880415",
     "geom:latitude":48.880415,
     "geom:longitude":2.327278,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue Jules Lefebvre",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.deskom.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873849,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169247333,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1466249595,
     "wof:name":"Deskom",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327278,48.880415,2.327278,48.880415],
+  "bbox": [
+    2.327278,
+    48.880415,
+    2.327278,
+    48.880415
+],
   "geometry": {"coordinates":[2.327278,48.880415],"type":"Point"}
 }

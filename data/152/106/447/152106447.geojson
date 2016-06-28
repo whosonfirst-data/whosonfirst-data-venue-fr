@@ -2,13 +2,14 @@
   "id": 152106447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.594448,44.854706,-0.594448,44.854706",
     "geom:latitude":44.854706,
     "geom:longitude":-0.594448,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Av De Lib\u00e9ration 33110 Le Bouscat",
     "sg:city":"Le Bouscat",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897681,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152106447,
-    "wof:lastmodified":1449044218,
+    "wof:lastmodified":1466249011,
     "wof:name":"Medoc Optique Sa",
     "wof:parent_id":85897681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.594448,44.854706,-0.594448,44.854706],
+  "bbox": [
+    -0.594448,
+    44.854706,
+    -0.594448,
+    44.854706
+],
   "geometry": {"coordinates":[-0.594448,44.854706],"type":"Point"}
 }

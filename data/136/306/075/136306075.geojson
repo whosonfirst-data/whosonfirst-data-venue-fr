@@ -2,13 +2,14 @@
   "id": 136306075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.26831,43.699692,7.26831,43.699692",
     "geom:latitude":43.699692,
     "geom:longitude":7.26831,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 rue du Mar\u00e9chal Joffre; Nice; 06000",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Outre-Mer",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306075,
-    "wof:lastmodified":1449076206,
+    "wof:lastmodified":1466246915,
     "wof:name":"Monte Paschi, Banque Sa",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.26831,43.699692,7.26831,43.699692],
+  "bbox": [
+    7.26831,
+    43.699692,
+    7.26831,
+    43.699692
+],
   "geometry": {"coordinates":[7.26831,43.699692],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152064717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.22122,48.850773,2.22122,48.850773",
     "geom:latitude":48.850773,
     "geom:longitude":2.22122,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Bd S\u00e9nard 92210 St Cloud",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873969,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064717,
-    "wof:lastmodified":1449045937,
+    "wof:lastmodified":1466247227,
     "wof:name":"Societe Nouvelle Ltc",
     "wof:parent_id":85873969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.22122,48.850773,2.22122,48.850773],
+  "bbox": [
+    2.22122,
+    48.850773,
+    2.22122,
+    48.850773
+],
   "geometry": {"coordinates":[2.22122,48.850773],"type":"Point"}
 }

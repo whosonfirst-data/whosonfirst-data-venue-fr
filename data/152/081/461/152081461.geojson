@@ -2,13 +2,14 @@
   "id": 152081461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.601729,44.875011,-0.601729,44.875011",
     "geom:latitude":44.875011,
     "geom:longitude":-0.601729,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Avenue D Aquitaine 33520 Bruges",
     "sg:city":"Bruges",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152081461,
-    "wof:lastmodified":1449045737,
+    "wof:lastmodified":1466247532,
     "wof:name":"Lyonnaise Des Eaux France",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.601729,44.875011,-0.601729,44.875011],
+  "bbox": [
+    -0.601729,
+    44.875011,
+    -0.601729,
+    44.875011
+],
   "geometry": {"coordinates":[-0.601729,44.875011],"type":"Point"}
 }

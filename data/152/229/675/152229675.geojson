@@ -2,13 +2,14 @@
   "id": 152229675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.544274,44.888786,-0.544274,44.888786",
     "geom:latitude":44.888786,
     "geom:longitude":-0.544274,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 rue Ren\u00e9 Magne 33300 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152229675,
-    "wof:lastmodified":1449047982,
+    "wof:lastmodified":1466249840,
     "wof:name":"Jl International Ets Jean Labatut Sa",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.544274,44.888786,-0.544274,44.888786],
+  "bbox": [
+    -0.544274,
+    44.888786,
+    -0.544274,
+    44.888786
+],
   "geometry": {"coordinates":[-0.544274,44.888786],"type":"Point"}
 }

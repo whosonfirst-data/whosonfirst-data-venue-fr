@@ -2,13 +2,14 @@
   "id": 169144085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.036619,49.431416,1.036619,49.431416",
     "geom:latitude":49.431416,
     "geom:longitude":1.036619,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd du Midi - Immeuble Rouen Oc\u00e9an",
     "sg:city":"Rouen",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169144085,
-    "wof:lastmodified":1449035090,
+    "wof:lastmodified":1466248332,
     "wof:name":"Saga Trans S.a.",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.036619,49.431416,1.036619,49.431416],
+  "bbox": [
+    1.036619,
+    49.431416,
+    1.036619,
+    49.431416
+],
   "geometry": {"coordinates":[1.036619,49.431416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136311267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.26252,48.689129,2.26252,48.689129",
     "geom:latitude":48.689129,
     "geom:longitude":2.26252,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue de la Buhoterie 91160 Saulx les Chartreux",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136311267,
-    "wof:lastmodified":1449075220,
+    "wof:lastmodified":1466247340,
     "wof:name":"Trapinex Sa",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.26252,48.689129,2.26252,48.689129],
+  "bbox": [
+    2.26252,
+    48.689129,
+    2.26252,
+    48.689129
+],
   "geometry": {"coordinates":[2.26252,48.689129],"type":"Point"}
 }

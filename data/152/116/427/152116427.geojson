@@ -2,13 +2,14 @@
   "id": 152116427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.195625,50.647114,3.195625,50.647114",
     "geom:latitude":50.647114,
     "geom:longitude":3.195625,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Antoine Pinay 59510 Hem",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794433,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116427,
-    "wof:lastmodified":1449044979,
+    "wof:lastmodified":1466249224,
     "wof:name":"Goto Informatique",
     "wof:parent_id":85794433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.195625,50.647114,3.195625,50.647114],
+  "bbox": [
+    3.195625,
+    50.647114,
+    3.195625,
+    50.647114
+],
   "geometry": {"coordinates":[3.195625,50.647114],"type":"Point"}
 }

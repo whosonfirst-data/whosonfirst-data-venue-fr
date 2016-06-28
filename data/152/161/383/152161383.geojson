@@ -2,13 +2,14 @@
   "id": 152161383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.885938,43.100445,5.885938,43.100445",
     "geom:latitude":43.100445,
     "geom:longitude":5.885938,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Impasse Noel Verlaque 83500 La Seyne Sur Mer",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152161383,
-    "wof:lastmodified":1449046138,
+    "wof:lastmodified":1466249622,
     "wof:name":"Valenguy Provence",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.885938,43.100445,5.885938,43.100445],
+  "bbox": [
+    5.885938,
+    43.100445,
+    5.885938,
+    43.100445
+],
   "geometry": {"coordinates":[5.885938,43.100445],"type":"Point"}
 }

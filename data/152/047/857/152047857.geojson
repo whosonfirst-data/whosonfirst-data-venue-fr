@@ -2,13 +2,14 @@
   "id": 152047857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.398103,48.893913,2.398103,48.893913",
     "geom:latitude":48.893913,
     "geom:longitude":2.398103,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Av Du G\u00e9n\u00e9ral Leclerc 93500 Pantin",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874023,
+        85683475,
         85633147,
         101751145,
         102072131,
-        85683475
+        85874023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152047857,
-    "wof:lastmodified":1449047278,
+    "wof:lastmodified":1466245759,
     "wof:name":"Courte Paille",
     "wof:parent_id":85874023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.398103,48.893913,2.398103,48.893913],
+  "bbox": [
+    2.398103,
+    48.893913,
+    2.398103,
+    48.893913
+],
   "geometry": {"coordinates":[2.398103,48.893913],"type":"Point"}
 }

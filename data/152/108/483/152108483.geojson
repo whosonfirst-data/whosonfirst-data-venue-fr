@@ -2,13 +2,14 @@
   "id": 152108483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.410131,48.822411,2.410131,48.822411",
     "geom:latitude":48.822411,
     "geom:longitude":2.410131,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rue Conflans 94220 Charenton Le Pont",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152108483,
-    "wof:lastmodified":1449044375,
+    "wof:lastmodified":1466249100,
     "wof:name":"Techceram",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.410131,48.822411,2.410131,48.822411],
+  "bbox": [
+    2.410131,
+    48.822411,
+    2.410131,
+    48.822411
+],
   "geometry": {"coordinates":[2.410131,48.822411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152368991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.338778,48.875519,2.338778,48.875519",
     "geom:latitude":48.875519,
     "geom:longitude":2.338778,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"54, Rue Laffitte, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152368991,
-    "wof:lastmodified":1449045356,
+    "wof:lastmodified":1466250415,
     "wof:name":"Club Confair",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.338778,48.875519,2.338778,48.875519],
+  "bbox": [
+    2.338778,
+    48.875519,
+    2.338778,
+    48.875519
+],
   "geometry": {"coordinates":[2.338778,48.875519],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152712865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.201769,46.156582,-1.201769,46.156582",
     "geom:latitude":46.156582,
     "geom:longitude":-1.201769,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"70, Rue de Qu\u00e9bec, 17041 La Rochelle C\u00e9dex 1",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152712865,
-    "wof:lastmodified":1449046293,
+    "wof:lastmodified":1466251569,
     "wof:name":"S.a.g. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.201769,46.156582,-1.201769,46.156582],
+  "bbox": [
+    -1.201769,
+    46.156582,
+    -1.201769,
+    46.156582
+],
   "geometry": {"coordinates":[-1.201769,46.156582],"type":"Point"}
 }

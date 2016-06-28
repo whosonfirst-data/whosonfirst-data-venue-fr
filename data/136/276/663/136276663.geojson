@@ -2,13 +2,14 @@
   "id": 136276663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.37417,48.840736,2.37417,48.840736",
     "geom:latitude":48.840736,
     "geom:longitude":2.37417,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Quai De La Rap\u00e9e",
     "sg:city":"Paris Cedex 12",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873899,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136276663,
-    "wof:lastmodified":1449074971,
+    "wof:lastmodified":1466245323,
     "wof:name":"Credit Agricole Dile De France",
     "wof:parent_id":85873899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.37417,48.840736,2.37417,48.840736],
+  "bbox": [
+    2.37417,
+    48.840736,
+    2.37417,
+    48.840736
+],
   "geometry": {"coordinates":[2.37417,48.840736],"type":"Point"}
 }

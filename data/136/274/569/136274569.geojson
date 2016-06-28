@@ -2,13 +2,14 @@
   "id": 136274569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.291299,48.868286,2.291299,48.868286",
     "geom:latitude":48.868286,
     "geom:longitude":2.291299,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Avenue Kleber",
     "sg:city":"Paris Cedex 16",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274569,
-    "wof:lastmodified":1449075079,
+    "wof:lastmodified":1466246239,
     "wof:name":"Apax Partners Et Cie Sa",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.291299,48.868286,2.291299,48.868286],
+  "bbox": [
+    2.291299,
+    48.868286,
+    2.291299,
+    48.868286
+],
   "geometry": {"coordinates":[2.291299,48.868286],"type":"Point"}
 }

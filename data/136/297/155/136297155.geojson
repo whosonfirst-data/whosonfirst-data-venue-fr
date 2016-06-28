@@ -2,13 +2,14 @@
   "id": 136297155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.612831,43.997345,-123.612831,43.997345",
     "geom:latitude":43.997345,
     "geom:longitude":-123.612831,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"81 ave Leconte de Lisle; S. Clotilde; 97490",
     "sg:classifiers":[
         {
@@ -23,10 +24,10 @@
     "sg:province":"Outre-Mer",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081603,
-        85633793,
         85688513,
-        85877229
+        85633793,
+        85877229,
+        102081603
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136297155,
-    "wof:lastmodified":1449075782,
+    "wof:lastmodified":1466246511,
     "wof:name":"Banque Francaise Commerciale, Ocean Indien",
     "wof:parent_id":85877229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.612831,43.997345,-123.612831,43.997345],
+  "bbox": [
+    -123.612831,
+    43.997345,
+    -123.612831,
+    43.997345
+],
   "geometry": {"coordinates":[-123.612831,43.997345],"type":"Point"}
 }

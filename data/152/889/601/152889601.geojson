@@ -2,13 +2,14 @@
   "id": 152889601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.445088,48.876522,2.445088,48.876522",
     "geom:latitude":48.876522,
     "geom:longitude":2.445088,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"52 R De La Fraternit\u00e9 93230 Romainville",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152889601,
-    "wof:lastmodified":1449044200,
+    "wof:lastmodified":1466252206,
     "wof:name":"Cm Plastiques Ets Denizot Sa",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.445088,48.876522,2.445088,48.876522],
+  "bbox": [
+    2.445088,
+    48.876522,
+    2.445088,
+    48.876522
+],
   "geometry": {"coordinates":[2.445088,48.876522],"type":"Point"}
 }

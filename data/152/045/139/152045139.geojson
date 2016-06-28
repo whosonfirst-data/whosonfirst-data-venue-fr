@@ -2,13 +2,14 @@
   "id": 152045139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.540132,48.383842,-4.540132,48.383842",
     "geom:latitude":48.383842,
     "geom:longitude":-4.540132,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Fontain Margot BP 93106 29231 Brest Cedex 3",
     "sg:classifiers":[
         {
@@ -26,10 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85794663
+        85633147,
+        85794663,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152045139,
-    "wof:lastmodified":1449048379,
+    "wof:lastmodified":1466245443,
     "wof:name":"College Keranroux",
     "wof:parent_id":85794663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.540132,48.383842,-4.540132,48.383842],
+  "bbox": [
+    -4.540132,
+    48.383842,
+    -4.540132,
+    48.383842
+],
   "geometry": {"coordinates":[-4.540132,48.383842],"type":"Point"}
 }

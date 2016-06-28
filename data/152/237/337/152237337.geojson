@@ -2,13 +2,14 @@
   "id": 152237337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.461052,29.39657,-98.461052,29.39657",
     "geom:latitude":29.39657,
     "geom:longitude":-98.461052,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Edouard Vaillant - A\u00e9roport de Saint Cyr",
     "sg:city":"Saint Cyr l'Ecole",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893965,
+        85688753,
         85633793,
         101724653,
         102082471,
-        85688753
+        85893965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152237337,
-    "wof:lastmodified":1449044407,
+    "wof:lastmodified":1466249865,
     "wof:name":"A.d.p. - A\u00e9roport De Paris",
     "wof:parent_id":85893965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.461052,29.39657,-98.461052,29.39657],
+  "bbox": [
+    -98.461052,
+    29.39657,
+    -98.461052,
+    29.39657
+],
   "geometry": {"coordinates":[-98.461052,29.39657],"type":"Point"}
 }

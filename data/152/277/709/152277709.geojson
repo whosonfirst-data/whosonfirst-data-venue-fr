@@ -2,13 +2,14 @@
   "id": 152277709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.089832,48.740353,2.089832,48.740353",
     "geom:latitude":48.740353,
     "geom:longitude":2.089832,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Place des Dix Toises, 78117 Chateaufort",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,10 +19,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152277709,
-    "wof:lastmodified":1449044830,
+    "wof:lastmodified":1466250006,
     "wof:name":"Asco Instruments S.a.r.l.",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.089832,48.740353,2.089832,48.740353],
+  "bbox": [
+    2.089832,
+    48.740353,
+    2.089832,
+    48.740353
+],
   "geometry": {"coordinates":[2.089832,48.740353],"type":"Point"}
 }

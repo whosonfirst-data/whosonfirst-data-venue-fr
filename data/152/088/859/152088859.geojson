@@ -2,13 +2,14 @@
   "id": 152088859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.343143,48.874874,2.343143,48.874874",
     "geom:latitude":48.874874,
     "geom:longitude":2.343143,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Cadet 75009 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152088859,
-    "wof:lastmodified":1449047895,
+    "wof:lastmodified":1466247922,
     "wof:name":"Comptoir Des Cendres Et Metaux Precieux",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.343143,48.874874,2.343143,48.874874],
+  "bbox": [
+    2.343143,
+    48.874874,
+    2.343143,
+    48.874874
+],
   "geometry": {"coordinates":[2.343143,48.874874],"type":"Point"}
 }

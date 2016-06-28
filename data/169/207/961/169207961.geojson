@@ -2,13 +2,14 @@
   "id": 169207961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.329187,48.879276,2.329187,48.879276",
     "geom:latitude":48.879276,
     "geom:longitude":2.329187,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35, Rue Clichy, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169207961,
-    "wof:lastmodified":1449034995,
+    "wof:lastmodified":1466249001,
     "wof:name":"Twistex S.a.",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.329187,48.879276,2.329187,48.879276],
+  "bbox": [
+    2.329187,
+    48.879276,
+    2.329187,
+    48.879276
+],
   "geometry": {"coordinates":[2.329187,48.879276],"type":"Point"}
 }

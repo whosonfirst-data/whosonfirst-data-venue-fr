@@ -2,13 +2,14 @@
   "id": 152818109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.347585,48.87085,2.347585,48.87085",
     "geom:latitude":48.87085,
     "geom:longitude":2.347585,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4/6, Bd Poissonni\u00e8re, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152818109,
-    "wof:lastmodified":1449046549,
+    "wof:lastmodified":1466252046,
     "wof:name":"The Link S.a.",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.347585,48.87085,2.347585,48.87085],
+  "bbox": [
+    2.347585,
+    48.87085,
+    2.347585,
+    48.87085
+],
   "geometry": {"coordinates":[2.347585,48.87085],"type":"Point"}
 }

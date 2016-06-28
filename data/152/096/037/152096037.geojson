@@ -2,13 +2,14 @@
   "id": 152096037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.556859,47.299831,-1.556859,47.299831",
     "geom:latitude":47.299831,
     "geom:longitude":-1.556859,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Louis Maisonneuve 44240 La Chapelle Sur Erdre",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794655,
+        85683233,
         85633147,
         101757315,
         102065537,
-        85683233
+        85794655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152096037,
-    "wof:lastmodified":1449045801,
+    "wof:lastmodified":1466248362,
     "wof:name":"Salaison De L'erdre",
     "wof:parent_id":85794655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.556859,47.299831,-1.556859,47.299831],
+  "bbox": [
+    -1.556859,
+    47.299831,
+    -1.556859,
+    47.299831
+],
   "geometry": {"coordinates":[-1.556859,47.299831],"type":"Point"}
 }

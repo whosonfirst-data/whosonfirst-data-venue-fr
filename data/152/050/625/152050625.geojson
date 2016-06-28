@@ -2,13 +2,14 @@
   "id": 152050625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.629524,48.833729,2.629524,48.833729",
     "geom:latitude":48.833729,
     "geom:longitude":2.629524,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue de la Maison Rouge 77185 Lognes",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152050625,
-    "wof:lastmodified":1449046850,
+    "wof:lastmodified":1466245936,
     "wof:name":"Js Info S.a.",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.629524,48.833729,2.629524,48.833729],
+  "bbox": [
+    2.629524,
+    48.833729,
+    2.629524,
+    48.833729
+],
   "geometry": {"coordinates":[2.629524,48.833729],"type":"Point"}
 }

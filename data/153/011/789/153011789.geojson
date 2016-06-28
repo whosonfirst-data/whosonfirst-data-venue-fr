@@ -2,13 +2,14 @@
   "id": 153011789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.552903,48.362408,-4.552903,48.362408",
     "geom:latitude":48.362408,
     "geom:longitude":-4.552903,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Rivoalon Sainte Anne-Du-Portzic 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85794663
+        85633147,
+        85794663,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153011789,
-    "wof:lastmodified":1449040733,
+    "wof:lastmodified":1466245819,
     "wof:name":"Ixsea Oceano",
     "wof:parent_id":85794663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.552903,48.362408,-4.552903,48.362408],
+  "bbox": [
+    -4.552903,
+    48.362408,
+    -4.552903,
+    48.362408
+],
   "geometry": {"coordinates":[-4.552903,48.362408],"type":"Point"}
 }

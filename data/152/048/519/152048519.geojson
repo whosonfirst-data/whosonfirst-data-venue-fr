@@ -2,13 +2,14 @@
   "id": 152048519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.301171,48.905228,2.301171,48.905228",
     "geom:latitude":48.905228,
     "geom:longitude":2.301171,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rue Pierre Beregovoy 92110 Clichy",
     "sg:classifiers":[
         {
@@ -28,14 +29,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157,
-        85873987,
+        85873983,
         101749775,
-        102071931
+        102071931,
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152048519,
-    "wof:lastmodified":1449045919,
+    "wof:lastmodified":1466245758,
     "wof:name":"Hotel Des Chasses Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.301171,48.905228,2.301171,48.905228],
+  "bbox": [
+    2.301171,
+    48.905228,
+    2.301171,
+    48.905228
+],
   "geometry": {"coordinates":[2.301171,48.905228],"type":"Point"}
 }

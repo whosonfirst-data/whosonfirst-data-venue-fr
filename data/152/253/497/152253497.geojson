@@ -2,13 +2,14 @@
   "id": 152253497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.362261,48.869656,2.362261,48.869656",
     "geom:latitude":48.869656,
     "geom:longitude":2.362261,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Bd Magenta, 75003 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152253497,
-    "wof:lastmodified":1449048354,
+    "wof:lastmodified":1466249917,
     "wof:name":"Adia France",
     "wof:parent_id":85873875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.362261,48.869656,2.362261,48.869656],
+  "bbox": [
+    2.362261,
+    48.869656,
+    2.362261,
+    48.869656
+],
   "geometry": {"coordinates":[2.362261,48.869656],"type":"Point"}
 }

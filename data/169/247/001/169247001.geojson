@@ -2,13 +2,14 @@
   "id": 169247001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.353788,48.868862,2.353788,48.868862",
     "geom:latitude":48.868862,
     "geom:longitude":2.353788,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"139 boulevard de S\u00e9bastopol 75002 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169247001,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249591,
     "wof:name":"Rmcs Sarl",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.353788,48.868862,2.353788,48.868862],
+  "bbox": [
+    2.353788,
+    48.868862,
+    2.353788,
+    48.868862
+],
   "geometry": {"coordinates":[2.353788,48.868862],"type":"Point"}
 }

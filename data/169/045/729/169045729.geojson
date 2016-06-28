@@ -2,13 +2,14 @@
   "id": 169045729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.552639,47.168518,-1.552639,47.168518",
     "geom:latitude":47.168518,
     "geom:longitude":-1.552639,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue des Bouleaux, 44400 Rez\u00e9",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897703,
+        85683233,
         85633147,
         101750933,
         102072153,
-        85683233
+        85897703
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169045729,
-    "wof:lastmodified":1449035567,
+    "wof:lastmodified":1466245871,
     "wof:name":"M.i.t.f. S.a.r.l. - Maintenance Industrielle Tournage Fraisage",
     "wof:parent_id":85897703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.552639,47.168518,-1.552639,47.168518],
+  "bbox": [
+    -1.552639,
+    47.168518,
+    -1.552639,
+    47.168518
+],
   "geometry": {"coordinates":[-1.552639,47.168518],"type":"Point"}
 }

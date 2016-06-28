@@ -2,13 +2,14 @@
   "id": 152356375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.251248,48.821148,2.251248,48.821148",
     "geom:latitude":48.821148,
     "geom:longitude":2.251248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"92447 Issy les Moulineaux C\u00e9dex^^34/36, Rue Guynemer, 92130 Issy les Moulineaux",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152356375,
-    "wof:lastmodified":1449048099,
+    "wof:lastmodified":1466250300,
     "wof:name":"Cerplus S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.251248,48.821148,2.251248,48.821148],
+  "bbox": [
+    2.251248,
+    48.821148,
+    2.251248,
+    48.821148
+],
   "geometry": {"coordinates":[2.251248,48.821148],"type":"Point"}
 }

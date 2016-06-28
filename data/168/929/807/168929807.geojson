@@ -2,13 +2,14 @@
   "id": 168929807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.301631,48.871517,2.301631,48.871517",
     "geom:latitude":48.871517,
     "geom:longitude":2.301631,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"95, Av. des Champs Elys\u00e9es, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168929807,
-    "wof:lastmodified":1449028060,
+    "wof:lastmodified":1466247906,
     "wof:name":"Eric Salmon Et Partners S.a.",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.301631,48.871517,2.301631,48.871517],
+  "bbox": [
+    2.301631,
+    48.871517,
+    2.301631,
+    48.871517
+],
   "geometry": {"coordinates":[2.301631,48.871517],"type":"Point"}
 }

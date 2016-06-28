@@ -2,13 +2,14 @@
   "id": 152732641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50096,47.207729,-1.50096,47.207729",
     "geom:latitude":47.207729,
     "geom:longitude":-1.50096,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 5341, 44234 Saint S\u00e9bastien sur Loire C\u00e9dex^^168, Bd des Pas Enchant\u00e9s, 44230 Saint S\u00e9bastien s",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152732641,
-    "wof:lastmodified":1449049042,
+    "wof:lastmodified":1466251627,
     "wof:name":"S.n.r.i. S.a.r.l. - Soci\u00e9t\u00e9 Nouvelle De Repr\u00e9sentation Industriell",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.50096,47.207729,-1.50096,47.207729],
+  "bbox": [
+    -1.50096,
+    47.207729,
+    -1.50096,
+    47.207729
+],
   "geometry": {"coordinates":[-1.50096,47.207729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152983663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.09487,50.646648,3.09487,50.646648",
     "geom:latitude":50.646648,
     "geom:longitude":3.09487,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Rue Saint Luc 59020 Lille Cedex",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152983663,
-    "wof:lastmodified":1449048535,
+    "wof:lastmodified":1466252562,
     "wof:name":"Cafac",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.09487,50.646648,3.09487,50.646648],
+  "bbox": [
+    3.09487,
+    50.646648,
+    3.09487,
+    50.646648
+],
   "geometry": {"coordinates":[3.09487,50.646648],"type":"Point"}
 }

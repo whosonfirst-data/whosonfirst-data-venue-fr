@@ -2,13 +2,14 @@
   "id": 153006603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.87283,43.116302,5.87283,43.116302",
     "geom:latitude":43.116302,
     "geom:longitude":5.87283,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"413 avenue Robert Brun 83500 La Seyne sur Mer",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153006603,
-    "wof:lastmodified":1449040723,
+    "wof:lastmodified":1466245486,
     "wof:name":"Bilbo Marine Technique Industrie Sa",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.87283,43.116302,5.87283,43.116302],
+  "bbox": [
+    5.87283,
+    43.116302,
+    5.87283,
+    43.116302
+],
   "geometry": {"coordinates":[5.87283,43.116302],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152647761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.400308,48.631344,2.400308,48.631344",
     "geom:latitude":48.631344,
     "geom:longitude":2.400308,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"91031 Evry C\u00e9dex^^4, Av. Ambroise Croizat - ZI Bois de l'Epine, 91130 Ris Orangis",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152647761,
-    "wof:lastmodified":1449046497,
+    "wof:lastmodified":1466251344,
     "wof:name":"O'vitale S.a.",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.400308,48.631344,2.400308,48.631344],
+  "bbox": [
+    2.400308,
+    48.631344,
+    2.400308,
+    48.631344
+],
   "geometry": {"coordinates":[2.400308,48.631344],"type":"Point"}
 }

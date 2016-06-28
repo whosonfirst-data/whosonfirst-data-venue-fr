@@ -2,13 +2,14 @@
   "id": 153077555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.31725,48.856178,2.31725,48.856178",
     "geom:latitude":48.856178,
     "geom:longitude":2.31725,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"57, Rue de Bourgogne, 75007 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873843,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153077555,
-    "wof:lastmodified":1449040402,
+    "wof:lastmodified":1466247074,
     "wof:name":"Art\u00e9lano S.a.",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.31725,48.856178,2.31725,48.856178],
+  "bbox": [
+    2.31725,
+    48.856178,
+    2.31725,
+    48.856178
+],
   "geometry": {"coordinates":[2.31725,48.856178],"type":"Point"}
 }

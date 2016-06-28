@@ -2,13 +2,14 @@
   "id": 169089059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.544274,44.888786,-0.544274,44.888786",
     "geom:latitude":44.888786,
     "geom:longitude":-0.544274,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Rue Ren\u00e9 Magne, 33300 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169089059,
-    "wof:lastmodified":1449033357,
+    "wof:lastmodified":1466247671,
     "wof:name":"Paxor S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.544274,44.888786,-0.544274,44.888786],
+  "bbox": [
+    -0.544274,
+    44.888786,
+    -0.544274,
+    44.888786
+],
   "geometry": {"coordinates":[-0.544274,44.888786],"type":"Point"}
 }

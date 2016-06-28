@@ -2,13 +2,14 @@
   "id": 136305605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.470789,48.399994,-4.470789,48.399994",
     "geom:latitude":48.399994,
     "geom:longitude":-4.470789,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"233 rue Jean Jaur\u00e8s; Brest; 29277",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136305605,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466247011,
     "wof:name":"Franfinance",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.470789,48.399994,-4.470789,48.399994],
+  "bbox": [
+    -4.470789,
+    48.399994,
+    -4.470789,
+    48.399994
+],
   "geometry": {"coordinates":[-4.470789,48.399994],"type":"Point"}
 }

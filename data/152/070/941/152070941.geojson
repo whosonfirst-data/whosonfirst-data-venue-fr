@@ -2,13 +2,14 @@
   "id": 152070941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29433,48.843414,2.29433,48.843414",
     "geom:latitude":48.843414,
     "geom:longitude":2.29433,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8BIS rue Mademoiselle 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873963,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152070941,
-    "wof:lastmodified":1449046561,
+    "wof:lastmodified":1466245430,
     "wof:name":"Groupe Energie Et Industrie De Paris Sa",
     "wof:parent_id":85873963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29433,48.843414,2.29433,48.843414],
+  "bbox": [
+    2.29433,
+    48.843414,
+    2.29433,
+    48.843414
+],
   "geometry": {"coordinates":[2.29433,48.843414],"type":"Point"}
 }

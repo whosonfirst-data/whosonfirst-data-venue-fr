@@ -2,13 +2,14 @@
   "id": 169089565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.414478,43.737946,7.414478,43.737946",
     "geom:latitude":43.737946,
     "geom:longitude":7.414478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 bis, Av. Paul Doumer, 06240 Beausoleil",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069809,
-        85633147,
         85683323,
-        85794131
+        85633147,
+        85794131,
+        102069809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169089565,
-    "wof:lastmodified":1449033360,
+    "wof:lastmodified":1466247680,
     "wof:name":"Peintures Et Vernis De La M\u00e9dit\u00e9rann\u00e9e S.a.",
     "wof:parent_id":85794131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.414478,43.737946,7.414478,43.737946],
+  "bbox": [
+    7.414478,
+    43.737946,
+    7.414478,
+    43.737946
+],
   "geometry": {"coordinates":[7.414478,43.737946],"type":"Point"}
 }

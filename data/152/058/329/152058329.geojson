@@ -2,13 +2,14 @@
   "id": 152058329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.309418,35.046421,-85.309418,35.046421",
     "geom:latitude":35.046421,
     "geom:longitude":-85.309418,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Route Des Industries Zi 37401 Ambroise Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876727,
+        85688701,
         85633793,
         101723043,
         102087185,
-        85688701
+        85876727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152058329,
-    "wof:lastmodified":1449044982,
+    "wof:lastmodified":1466246693,
     "wof:name":"Pfizer",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.309418,35.046421,-85.309418,35.046421],
-  "geometry": {"coordinates":[-85.309418,35.046421],"type":"Point"}
+  "bbox": [
+    -85.309418,
+    35.046421,
+    -85.309418,
+    35.046421
+],
+  "geometry": {"coordinates":[-85.30941799999999,35.046421],"type":"Point"}
 }

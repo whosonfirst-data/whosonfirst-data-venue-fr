@@ -2,13 +2,14 @@
   "id": 152083835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.370437,48.867725,2.370437,48.867725",
     "geom:latitude":48.867725,
     "geom:longitude":2.370437,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16",
     "sg:city":"Pierre Lev\u00e9e 75011 Paris",
     "sg:classifiers":[
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152083835,
-    "wof:lastmodified":1449046499,
+    "wof:lastmodified":1466247999,
     "wof:name":"Segpp",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.370437,48.867725,2.370437,48.867725],
+  "bbox": [
+    2.370437,
+    48.867725,
+    2.370437,
+    48.867725
+],
   "geometry": {"coordinates":[2.370437,48.867725],"type":"Point"}
 }

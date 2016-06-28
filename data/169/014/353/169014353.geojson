@@ -2,13 +2,14 @@
   "id": 169014353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.620745,48.815319,2.620745,48.815319",
     "geom:latitude":48.815319,
     "geom:longitude":2.620745,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd de Baubourg",
     "sg:city":"Emerainville",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169014353,
-    "wof:lastmodified":1449034305,
+    "wof:lastmodified":1466246281,
     "wof:name":"Kimo S.a.",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.620745,48.815319,2.620745,48.815319],
+  "bbox": [
+    2.620745,
+    48.815319,
+    2.620745,
+    48.815319
+],
   "geometry": {"coordinates":[2.620745,48.815319],"type":"Point"}
 }

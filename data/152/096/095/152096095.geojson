@@ -2,13 +2,14 @@
   "id": 152096095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.473872,47.205357,-1.473872,47.205357",
     "geom:latitude":47.205357,
     "geom:longitude":-1.473872,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Rue Jarnigarni\u00e8re 44115 Basse Goulaine",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152096095,
-    "wof:lastmodified":1449045801,
+    "wof:lastmodified":1466248235,
     "wof:name":"Salaisons Perrault Sa",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.473872,47.205357,-1.473872,47.205357],
+  "bbox": [
+    -1.473872,
+    47.205357,
+    -1.473872,
+    47.205357
+],
   "geometry": {"coordinates":[-1.473872,47.205357],"type":"Point"}
 }

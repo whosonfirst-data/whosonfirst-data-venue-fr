@@ -2,13 +2,14 @@
   "id": 152116775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.760287,48.606556,7.760287,48.606556",
     "geom:latitude":48.606556,
     "geom:longitude":7.760287,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Jean Monnet 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152116775,
-    "wof:lastmodified":1449044980,
+    "wof:lastmodified":1466249278,
     "wof:name":"S A T C Ste Alsacienne De Traitement De Cheques",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.760287,48.606556,7.760287,48.606556],
+  "bbox": [
+    7.760287,
+    48.606556,
+    7.760287,
+    48.606556
+],
   "geometry": {"coordinates":[7.760287,48.606556],"type":"Point"}
 }

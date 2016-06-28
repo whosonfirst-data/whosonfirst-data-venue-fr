@@ -2,13 +2,14 @@
   "id": 152670693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.555375,44.859772,-0.555375,44.859772",
     "geom:latitude":44.859772,
     "geom:longitude":-0.555375,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"74, Quai Bacalan, 33300 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152670693,
-    "wof:lastmodified":1449044994,
+    "wof:lastmodified":1466251411,
     "wof:name":"Pilotage De La Gironde S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.555375,44.859772,-0.555375,44.859772],
+  "bbox": [
+    -0.555375,
+    44.859772,
+    -0.555375,
+    44.859772
+],
   "geometry": {"coordinates":[-0.555375,44.859772],"type":"Point"}
 }

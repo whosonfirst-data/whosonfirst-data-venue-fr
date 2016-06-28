@@ -2,13 +2,14 @@
   "id": 169085675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.135701,49.492214,0.135701,49.492214",
     "geom:latitude":49.492214,
     "geom:longitude":0.135701,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Rue des Magasins G\u00e9n\u00e9raux, 76600 Le Havre",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169085675,
-    "wof:lastmodified":1449033517,
+    "wof:lastmodified":1466247554,
     "wof:name":"Paganetti Thermique S.a.",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.135701,49.492214,0.135701,49.492214],
+  "bbox": [
+    0.135701,
+    49.492214,
+    0.135701,
+    49.492214
+],
   "geometry": {"coordinates":[0.135701,49.492214],"type":"Point"}
 }

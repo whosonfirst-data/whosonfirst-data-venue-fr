@@ -2,13 +2,14 @@
   "id": 152085225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.344173,48.866508,2.344173,48.866508",
     "geom:latitude":48.866508,
     "geom:longitude":2.344173,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Rue Montmartre 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873799,
-        102067221
+        85873785,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152085225,
-    "wof:lastmodified":1449045452,
+    "wof:lastmodified":1466247802,
     "wof:name":"Tissage De Picardie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.344173,48.866508,2.344173,48.866508],
+  "bbox": [
+    2.344173,
+    48.866508,
+    2.344173,
+    48.866508
+],
   "geometry": {"coordinates":[2.344173,48.866508],"type":"Point"}
 }

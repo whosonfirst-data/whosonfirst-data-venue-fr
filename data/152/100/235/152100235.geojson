@@ -2,13 +2,14 @@
   "id": 152100235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348726,48.937325,2.348726,48.937325",
     "geom:latitude":48.937325,
     "geom:longitude":2.348726,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1",
     "sg:city":"Viollet le Duc 93200 Saint Denis",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152100235,
-    "wof:lastmodified":1449047725,
+    "wof:lastmodified":1466248638,
     "wof:name":"Gramantik",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348726,48.937325,2.348726,48.937325],
+  "bbox": [
+    2.348726,
+    48.937325,
+    2.348726,
+    48.937325
+],
   "geometry": {"coordinates":[2.348726,48.937325],"type":"Point"}
 }

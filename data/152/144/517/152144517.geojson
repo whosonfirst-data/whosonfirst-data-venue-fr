@@ -2,13 +2,14 @@
   "id": 152144517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.465689,48.44989,-4.465689,48.44989",
     "geom:latitude":48.44989,
     "geom:longitude":-4.465689,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Av Du Baron Lacrosse Zac De Kergaradec 29850 Gouesnou",
     "sg:city":"Gouesnou",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152144517,
-    "wof:lastmodified":1449047684,
+    "wof:lastmodified":1466249511,
     "wof:name":"Kiclos Concept",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.465689,48.44989,-4.465689,48.44989],
+  "bbox": [
+    -4.465689,
+    48.44989,
+    -4.465689,
+    48.44989
+],
   "geometry": {"coordinates":[-4.465689,48.44989],"type":"Point"}
 }

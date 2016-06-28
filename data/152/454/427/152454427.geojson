@@ -2,13 +2,14 @@
   "id": 152454427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.350248,48.876099,2.350248,48.876099",
     "geom:latitude":48.876099,
     "geom:longitude":2.350248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Rue des Messageries, 75010 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152454427,
-    "wof:lastmodified":1449048480,
+    "wof:lastmodified":1466250582,
     "wof:name":"Etablissements Jenni Et Baumgartner S.a.",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.350248,48.876099,2.350248,48.876099],
+  "bbox": [
+    2.350248,
+    48.876099,
+    2.350248,
+    48.876099
+],
   "geometry": {"coordinates":[2.350248,48.876099],"type":"Point"}
 }

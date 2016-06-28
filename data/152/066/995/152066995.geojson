@@ -2,13 +2,14 @@
   "id": 152066995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317135,48.843407,2.317135,48.843407",
     "geom:latitude":48.843407,
     "geom:longitude":2.317135,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue Falgui\u00e8re 75740 Paris Cedex 15",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873961,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152066995,
-    "wof:lastmodified":1449045655,
+    "wof:lastmodified":1466247399,
     "wof:name":"Institut Amenagement D'urbanisme De La Region D'ile De France",
     "wof:parent_id":85873961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317135,48.843407,2.317135,48.843407],
+  "bbox": [
+    2.317135,
+    48.843407,
+    2.317135,
+    48.843407
+],
   "geometry": {"coordinates":[2.317135,48.843407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152266025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522232,41.073818,-73.522232,41.073818",
     "geom:latitude":41.073818,
     "geom:longitude":-73.522232,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"400, Av. Roumanille, 06906 Sophia Antipolis C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -16,11 +17,11 @@
     "sg:phone":"+33 4 93 00 11 00",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821787,
+        85688629,
         85633793,
         85930989,
         102084283,
-        85688629
+        85821787
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152266025,
-    "wof:lastmodified":1449044438,
+    "wof:lastmodified":1466249966,
     "wof:name":"Alten S.a.",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.522232,41.073818,-73.522232,41.073818],
+  "bbox": [
+    -73.522232,
+    41.073818,
+    -73.522232,
+    41.073818
+],
   "geometry": {"coordinates":[-73.522232,41.073818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152078719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.463413,48.4132,-4.463413,48.4132",
     "geom:latitude":48.4132,
     "geom:longitude":-4.463413,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Maupertuis 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152078719,
-    "wof:lastmodified":1449048195,
+    "wof:lastmodified":1466247026,
     "wof:name":"Sei (ste D'electricite Industrielle) Sa",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.463413,48.4132,-4.463413,48.4132],
+  "bbox": [
+    -4.463413,
+    48.4132,
+    -4.463413,
+    48.4132
+],
   "geometry": {"coordinates":[-4.463413,48.4132],"type":"Point"}
 }

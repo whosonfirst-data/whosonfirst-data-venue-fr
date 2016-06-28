@@ -2,13 +2,14 @@
   "id": 152281103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.669891,44.833038,-0.669891,44.833038",
     "geom:latitude":44.833038,
     "geom:longitude":-0.669891,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18, Rue Thal\u00e8s - Parc d'Activit\u00e9s Ch\u00e2teau Rouquey, 33700 M\u00e9rignac",
     "sg:city":"M\u00e9rignac",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152281103,
-    "wof:lastmodified":1449048216,
+    "wof:lastmodified":1466250007,
     "wof:name":"Ateliers R\u00e9unis Caddie S.a.",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.669891,44.833038,-0.669891,44.833038],
+  "bbox": [
+    -0.669891,
+    44.833038,
+    -0.669891,
+    44.833038
+],
   "geometry": {"coordinates":[-0.669891,44.833038],"type":"Point"}
 }

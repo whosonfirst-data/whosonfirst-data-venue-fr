@@ -2,13 +2,14 @@
   "id": 152699893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.771541,48.561584,7.771541,48.561584",
     "geom:latitude":48.561584,
     "geom:longitude":7.771541,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Rue Alkirch - R\u00e9sidence Vert Galant, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152699893,
-    "wof:lastmodified":1449044938,
+    "wof:lastmodified":1466251535,
     "wof:name":"Rex Rotary S.a.",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.771541,48.561584,7.771541,48.561584],
+  "bbox": [
+    7.771541,
+    48.561584,
+    7.771541,
+    48.561584
+],
   "geometry": {"coordinates":[7.771541,48.561584],"type":"Point"}
 }

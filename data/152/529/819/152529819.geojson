@@ -2,13 +2,14 @@
   "id": 152529819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440071,41.82935,-79.440071,41.82935",
     "geom:latitude":41.82935,
     "geom:longitude":-79.440071,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Espace Victor Hugo - ZI N\u00b0 3",
     "sg:city":"L'Isle d'Espagnac",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081337,
-        85633793,
         85688481,
-        85802759
+        85633793,
+        85802759,
+        102081337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152529819,
-    "wof:lastmodified":1449046333,
+    "wof:lastmodified":1466250947,
     "wof:name":"I.g.s.-c.p. S.a.",
     "wof:parent_id":85802759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.440071,41.82935,-79.440071,41.82935],
+  "bbox": [
+    -79.440071,
+    41.82935,
+    -79.440071,
+    41.82935
+],
   "geometry": {"coordinates":[-79.440071,41.82935],"type":"Point"}
 }

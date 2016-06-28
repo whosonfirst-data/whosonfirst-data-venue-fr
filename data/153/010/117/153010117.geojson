@@ -2,13 +2,14 @@
   "id": 153010117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.11095,49.487419,0.11095,49.487419",
     "geom:latitude":49.487419,
     "geom:longitude":0.11095,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Quai Notre-Dame 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153010117,
-    "wof:lastmodified":1449040650,
+    "wof:lastmodified":1466245719,
     "wof:name":"Comptoir Normand De Telephonie Sarl",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.11095,49.487419,0.11095,49.487419],
+  "bbox": [
+    0.11095,
+    49.487419,
+    0.11095,
+    49.487419
+],
   "geometry": {"coordinates":[0.11095,49.487419],"type":"Point"}
 }

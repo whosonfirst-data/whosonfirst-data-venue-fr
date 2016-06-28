@@ -2,13 +2,14 @@
   "id": 152367095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.63888,47.21442,-1.63888,47.21442",
     "geom:latitude":47.21442,
     "geom:longitude":-1.63888,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1107, Av. Jacques Cartier - Parc H\u00e9liopolis, 44811 Saint Herblain C\u00e9dex^^1107, Av. Jacques Cartier -",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794541,
+        85683233,
         85633147,
         101753357,
         102071689,
-        85683233
+        85794541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152367095,
-    "wof:lastmodified":1449047030,
+    "wof:lastmodified":1466250402,
     "wof:name":"Cisia S.a.",
     "wof:parent_id":85794541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.63888,47.21442,-1.63888,47.21442],
+  "bbox": [
+    -1.63888,
+    47.21442,
+    -1.63888,
+    47.21442
+],
   "geometry": {"coordinates":[-1.63888,47.21442],"type":"Point"}
 }

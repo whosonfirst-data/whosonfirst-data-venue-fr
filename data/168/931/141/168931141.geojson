@@ -2,13 +2,14 @@
   "id": 168931141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.729602,48.574638,7.729602,48.574638",
     "geom:latitude":48.574638,
     "geom:longitude":7.729602,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"123, Route de Schirmeck, 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168931141,
-    "wof:lastmodified":1449028519,
+    "wof:lastmodified":1466247954,
     "wof:name":"Est Report Service S.a.r.l.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.729602,48.574638,7.729602,48.574638],
+  "bbox": [
+    7.729602,
+    48.574638,
+    7.729602,
+    48.574638
+],
   "geometry": {"coordinates":[7.729602,48.574638],"type":"Point"}
 }

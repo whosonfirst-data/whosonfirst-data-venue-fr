@@ -2,13 +2,14 @@
   "id": 152075399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3229,48.829578,2.3229,48.829578",
     "geom:latitude":48.829578,
     "geom:longitude":2.3229,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Bd Romain Rolland 75669 Paris Cedex 14",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152075399,
-    "wof:lastmodified":1449046804,
+    "wof:lastmodified":1466246343,
     "wof:name":"St Microelectronics",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3229,48.829578,2.3229,48.829578],
+  "bbox": [
+    2.3229,
+    48.829578,
+    2.3229,
+    48.829578
+],
   "geometry": {"coordinates":[2.3229,48.829578],"type":"Point"}
 }

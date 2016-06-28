@@ -2,13 +2,14 @@
   "id": 168842357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.870782,49.209251,6.870782,49.209251",
     "geom:latitude":49.209251,
     "geom:longitude":6.870782,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Puits Gargan 57540 Petite Rosselle",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102063433,
-        85633111,
         85682479,
-        85795777
+        85633111,
+        85795777,
+        102063433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":168842357,
-    "wof:lastmodified":1449027834,
+    "wof:lastmodified":1466246759,
     "wof:name":"C.a.t. - Centre D'aide Par Le Travail",
     "wof:parent_id":85795777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.870782,49.209251,6.870782,49.209251],
+  "bbox": [
+    6.870782,
+    49.209251,
+    6.870782,
+    49.209251
+],
   "geometry": {"coordinates":[6.870782,49.209251],"type":"Point"}
 }

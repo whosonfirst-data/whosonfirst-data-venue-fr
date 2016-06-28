@@ -2,13 +2,14 @@
   "id": 152058119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.27332,48.823071,2.27332,48.823071",
     "geom:latitude":48.823071,
     "geom:longitude":2.27332,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Camille Desmoulins Tsa 20005 92787 Issy Les Moulineaux Cedex 9",
     "sg:city":"Esmoulins",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152058119,
-    "wof:lastmodified":1449044982,
+    "wof:lastmodified":1466246652,
     "wof:name":"Laboratoires Martin - Johnson Et Johnson",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.27332,48.823071,2.27332,48.823071],
+  "bbox": [
+    2.27332,
+    48.823071,
+    2.27332,
+    48.823071
+],
   "geometry": {"coordinates":[2.27332,48.823071],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168851675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348554,48.847301,2.348554,48.847301",
     "geom:latitude":48.847301,
     "geom:longitude":2.348554,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue Descartes, 75005 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873821,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873821
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168851675,
-    "wof:lastmodified":1449028277,
+    "wof:lastmodified":1466245316,
     "wof:name":"C.n.r.s.",
     "wof:parent_id":85873821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348554,48.847301,2.348554,48.847301],
+  "bbox": [
+    2.348554,
+    48.847301,
+    2.348554,
+    48.847301
+],
   "geometry": {"coordinates":[2.348554,48.847301],"type":"Point"}
 }

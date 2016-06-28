@@ -2,13 +2,14 @@
   "id": 152128425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.564243,48.359779,-4.564243,48.359779",
     "geom:latitude":48.359779,
     "geom:longitude":-4.564243,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Place Nicolas Copernic 29280 Plouzane",
     "sg:city":"Plouzan\u00e9",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85794663
+        85633147,
+        85794663,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152128425,
-    "wof:lastmodified":1449046116,
+    "wof:lastmodified":1466249421,
     "wof:name":"Antennessa",
     "wof:parent_id":85794663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.564243,48.359779,-4.564243,48.359779],
+  "bbox": [
+    -4.564243,
+    48.359779,
+    -4.564243,
+    48.359779
+],
   "geometry": {"coordinates":[-4.564243,48.359779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152063851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.322764,48.843559,2.322764,48.843559",
     "geom:latitude":48.843559,
     "geom:longitude":2.322764,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue De L Arrivee Tour C I T 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873961,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152063851,
-    "wof:lastmodified":1449044704,
+    "wof:lastmodified":1466247174,
     "wof:name":"Newman",
     "wof:parent_id":85873961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.322764,48.843559,2.322764,48.843559],
+  "bbox": [
+    2.322764,
+    48.843559,
+    2.322764,
+    48.843559
+],
   "geometry": {"coordinates":[2.322764,48.843559],"type":"Point"}
 }

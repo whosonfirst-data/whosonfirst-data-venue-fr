@@ -2,13 +2,14 @@
   "id": 152109877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.360348,48.863232,2.360348,48.863232",
     "geom:latitude":48.863232,
     "geom:longitude":2.360348,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Rue Des Archives 75003 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152109877,
-    "wof:lastmodified":1449045914,
+    "wof:lastmodified":1466249169,
     "wof:name":"Ateliers Paul Grivois Sa",
     "wof:parent_id":85873805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.360348,48.863232,2.360348,48.863232],
+  "bbox": [
+    2.360348,
+    48.863232,
+    2.360348,
+    48.863232
+],
   "geometry": {"coordinates":[2.360348,48.863232],"type":"Point"}
 }

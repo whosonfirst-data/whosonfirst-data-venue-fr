@@ -2,13 +2,14 @@
   "id": 169247281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327718,48.888574,2.327718,48.888574",
     "geom:latitude":48.888574,
     "geom:longitude":2.327718,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49 rue Ganneron",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     "sg:website":"http://dailymotion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169247281,
-    "wof:lastmodified":1449034622,
+    "wof:lastmodified":1466249503,
     "wof:name":"Dailymotion",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327718,48.888574,2.327718,48.888574],
+  "bbox": [
+    2.327718,
+    48.888574,
+    2.327718,
+    48.888574
+],
   "geometry": {"coordinates":[2.327718,48.888574],"type":"Point"}
 }

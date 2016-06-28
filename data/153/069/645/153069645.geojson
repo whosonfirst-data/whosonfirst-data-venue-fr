@@ -2,13 +2,14 @@
   "id": 153069645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.101405,49.493511,0.101405,49.493511",
     "geom:latitude":49.493511,
     "geom:longitude":0.101405,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Chauss\u00e9e des Gares Maritimes - Hangar 88",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153069645,
-    "wof:lastmodified":1449040662,
+    "wof:lastmodified":1466246668,
     "wof:name":"Alupic S.a.",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.101405,49.493511,0.101405,49.493511],
+  "bbox": [
+    0.101405,
+    49.493511,
+    0.101405,
+    49.493511
+],
   "geometry": {"coordinates":[0.101405,49.493511],"type":"Point"}
 }

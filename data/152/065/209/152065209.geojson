@@ -2,13 +2,14 @@
   "id": 152065209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.75193,48.606339,7.75193,48.606339",
     "geom:latitude":48.606339,
     "geom:longitude":7.75193,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rue Du Fbg De Saverne 67084 Strasbourg Cedex",
     "sg:city":"Saverne",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152065209,
-    "wof:lastmodified":1449048853,
+    "wof:lastmodified":1466247167,
     "wof:name":"Ibm France",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.75193,48.606339,7.75193,48.606339],
+  "bbox": [
+    7.75193,
+    48.606339,
+    7.75193,
+    48.606339
+],
   "geometry": {"coordinates":[7.75193,48.606339],"type":"Point"}
 }

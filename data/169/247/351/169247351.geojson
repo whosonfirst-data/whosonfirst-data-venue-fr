@@ -2,13 +2,14 @@
   "id": 169247351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.425107,43.561452,1.425107,43.561452",
     "geom:latitude":43.561452,
     "geom:longitude":1.425107,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"99 route d'Espagne",
     "sg:city":"Toulouse",
     "sg:classifiers":[
@@ -36,11 +37,11 @@
     "sg:website":"http://www.x-prime.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794617,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169247351,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249595,
     "wof:name":"X-PRIME",
     "wof:parent_id":85794617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.425107,43.561452,1.425107,43.561452],
+  "bbox": [
+    1.425107,
+    43.561452,
+    1.425107,
+    43.561452
+],
   "geometry": {"coordinates":[1.425107,43.561452],"type":"Point"}
 }

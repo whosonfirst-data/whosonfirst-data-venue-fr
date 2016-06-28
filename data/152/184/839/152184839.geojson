@@ -2,13 +2,14 @@
   "id": 152184839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.369251,48.923374,2.369251,48.923374",
     "geom:latitude":48.923374,
     "geom:longitude":2.369251,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Pierre Curie 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152184839,
-    "wof:lastmodified":1449045089,
+    "wof:lastmodified":1466249673,
     "wof:name":"Societe Nouvelle Lefrancois",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.369251,48.923374,2.369251,48.923374],
+  "bbox": [
+    2.369251,
+    48.923374,
+    2.369251,
+    48.923374
+],
   "geometry": {"coordinates":[2.369251,48.923374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136296305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.29386,48.841679,2.29386,48.841679",
     "geom:latitude":48.841679,
     "geom:longitude":2.29386,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"24 rue Auguste; Paris; 75737",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873963,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136296305,
-    "wof:lastmodified":1449075987,
+    "wof:lastmodified":1466246402,
     "wof:name":"Banque Chabri\u00e8res",
     "wof:parent_id":85873963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.29386,48.841679,2.29386,48.841679],
+  "bbox": [
+    2.29386,
+    48.841679,
+    2.29386,
+    48.841679
+],
   "geometry": {"coordinates":[2.29386,48.841679],"type":"Point"}
 }

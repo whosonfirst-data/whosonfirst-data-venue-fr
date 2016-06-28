@@ -2,13 +2,14 @@
   "id": 152050517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.497055,38.824112,-90.497055,38.824112",
     "geom:latitude":38.824112,
     "geom:longitude":-90.497055,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 98, 57360 Amn\u00e8ville les Thermes^^1, Rue Saint Charles, 57360 Amn\u00e8ville les Thermes",
     "sg:classifiers":[],
     "sg:orig_category":"Cabines Cabines de conduite pour ponts roulants Cabines insonoris\u00e9es Cabines pour ponts roulants Cab",
@@ -18,11 +19,11 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85821097,
+        85688661,
         85633793,
         85972039,
         102086159,
-        85688661
+        85821097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152050517,
-    "wof:lastmodified":1449046849,
+    "wof:lastmodified":1466245913,
     "wof:name":"Charles Rothermel S.a.r.l.",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.497055,38.824112,-90.497055,38.824112],
+  "bbox": [
+    -90.497055,
+    38.824112,
+    -90.497055,
+    38.824112
+],
   "geometry": {"coordinates":[-90.497055,38.824112],"type":"Point"}
 }

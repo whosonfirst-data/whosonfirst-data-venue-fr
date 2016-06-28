@@ -2,13 +2,14 @@
   "id": 152099853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.551208,48.848385,-0.551208,48.848385",
     "geom:latitude":48.848385,
     "geom:longitude":-0.551208,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Rue St Martin 14110 Cond\u00e9 Sur Noireau",
     "sg:city":"Saint-Denis-de-M\u00e9r\u00e9",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152099853,
-    "wof:lastmodified":1449047307,
+    "wof:lastmodified":1466248516,
     "wof:name":"Groupe Mpo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.551208,48.848385,-0.551208,48.848385],
+  "bbox": [
+    -0.551208,
+    48.848385,
+    -0.551208,
+    48.848385
+],
   "geometry": {"coordinates":[-0.551208,48.848385],"type":"Point"}
 }

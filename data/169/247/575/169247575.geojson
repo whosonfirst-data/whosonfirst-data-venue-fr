@@ -2,13 +2,14 @@
   "id": 169247575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.355897,48.868956,2.355897,48.868956",
     "geom:latitude":48.868956,
     "geom:longitude":2.355897,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"55 boulevard Saint-Martin",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"http://www.mandriva.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873803,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169247575,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249521,
     "wof:name":"Mandriva",
     "wof:parent_id":85873803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.355897,48.868956,2.355897,48.868956],
+  "bbox": [
+    2.355897,
+    48.868956,
+    2.355897,
+    48.868956
+],
   "geometry": {"coordinates":[2.355897,48.868956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152758013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.727036,47.388306,0.727036,47.388306",
     "geom:latitude":47.388306,
     "geom:longitude":0.727036,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 148, 37701 Saint Pierre des Corps C\u00e9dex^^Rue Jean Moulin, 37700 Saint Pierre des Corps",
     "sg:city":"La Ville-aux-Dames",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152758013,
-    "wof:lastmodified":1449045701,
+    "wof:lastmodified":1466251722,
     "wof:name":"Sernam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.727036,47.388306,0.727036,47.388306],
+  "bbox": [
+    0.727036,
+    47.388306,
+    0.727036,
+    47.388306
+],
   "geometry": {"coordinates":[0.727036,47.388306],"type":"Point"}
 }

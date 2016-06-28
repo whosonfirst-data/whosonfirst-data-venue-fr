@@ -2,13 +2,14 @@
   "id": 152159811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.900673,33.455589,-86.900673,33.455589",
     "geom:latitude":33.455589,
     "geom:longitude":-86.900673,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"r Fabien Burel BP 92111 35221 Ch\u00e2teaubourg",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85851831,
+        85688675,
         85633793,
         85914465,
         102085481,
-        85688675
+        85851831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152159811,
-    "wof:lastmodified":1449044856,
+    "wof:lastmodified":1466249614,
     "wof:name":"Sulky - Burel (sas)",
     "wof:parent_id":85851831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.900673,33.455589,-86.900673,33.455589],
+  "bbox": [
+    -86.900673,
+    33.455589,
+    -86.900673,
+    33.455589
+],
   "geometry": {"coordinates":[-86.900673,33.455589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168990745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.561948,47.085838,-1.561948,47.085838",
     "geom:latitude":47.085838,
     "geom:longitude":-1.561948,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue de la Guillauderie - Parc d'Activit\u00e9 de Tournebride",
     "sg:city":"La Chevroli\u00e8re",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":168990745,
-    "wof:lastmodified":1449028290,
+    "wof:lastmodified":1466248791,
     "wof:name":"Hydralift S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.561948,47.085838,-1.561948,47.085838],
+  "bbox": [
+    -1.561948,
+    47.085838,
+    -1.561948,
+    47.085838
+],
   "geometry": {"coordinates":[-1.561948,47.085838],"type":"Point"}
 }

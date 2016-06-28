@@ -2,13 +2,14 @@
   "id": 169066931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.58063,47.203697,-1.58063,47.203697",
     "geom:latitude":47.203697,
     "geom:longitude":-1.58063,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Rue Diderot, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169066931,
-    "wof:lastmodified":1449033651,
+    "wof:lastmodified":1466246870,
     "wof:name":"Mouvex",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.58063,47.203697,-1.58063,47.203697],
+  "bbox": [
+    -1.58063,
+    47.203697,
+    -1.58063,
+    47.203697
+],
   "geometry": {"coordinates":[-1.58063,47.203697],"type":"Point"}
 }

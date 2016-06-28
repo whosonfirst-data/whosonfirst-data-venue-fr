@@ -2,13 +2,14 @@
   "id": 152107473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.755869,48.568531,7.755869,48.568531",
     "geom:latitude":48.568531,
     "geom:longitude":7.755869,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue De Mulhouse 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152107473,
-    "wof:lastmodified":1449044304,
+    "wof:lastmodified":1466249104,
     "wof:name":"Laboratoire Dentaire Siro Michelli",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.755869,48.568531,7.755869,48.568531],
+  "bbox": [
+    7.755869,
+    48.568531,
+    7.755869,
+    48.568531
+],
   "geometry": {"coordinates":[7.755869,48.568531],"type":"Point"}
 }

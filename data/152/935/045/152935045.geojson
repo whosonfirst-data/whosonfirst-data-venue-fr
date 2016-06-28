@@ -2,13 +2,14 @@
   "id": 152935045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.23477,48.842884,2.23477,48.842884",
     "geom:latitude":48.842884,
     "geom:longitude":2.23477,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29",
     "sg:city":"Billancourt 92100 Boulogne Billancourt",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152935045,
-    "wof:lastmodified":1449048090,
+    "wof:lastmodified":1466252335,
     "wof:name":"Alligator",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.23477,48.842884,2.23477,48.842884],
+  "bbox": [
+    2.23477,
+    48.842884,
+    2.23477,
+    48.842884
+],
   "geometry": {"coordinates":[2.23477,48.842884],"type":"Point"}
 }

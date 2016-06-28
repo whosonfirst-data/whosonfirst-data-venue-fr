@@ -2,13 +2,14 @@
   "id": 152528051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.752544,48.61483,7.752544,48.61483",
     "geom:latitude":48.61483,
     "geom:longitude":7.752544,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 77, 67802 Bischheim C\u00e9dex^^23, Rue de la Robertsau, 67800 Bischheim",
     "sg:city":"Bischheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152528051,
-    "wof:lastmodified":1449045538,
+    "wof:lastmodified":1466250911,
     "wof:name":"I.c.a. S.a. - Industrie Chimique D'alsace",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.752544,48.61483,7.752544,48.61483],
+  "bbox": [
+    7.752544,
+    48.61483,
+    7.752544,
+    48.61483
+],
   "geometry": {"coordinates":[7.752544,48.61483],"type":"Point"}
 }

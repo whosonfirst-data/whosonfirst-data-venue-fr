@@ -2,13 +2,14 @@
   "id": 152090475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.615554,47.99485,-1.615554,47.99485",
     "geom:latitude":47.99485,
     "geom:longitude":-1.615554,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Des Pres Meles Za Du Champ Mulon 35230 St Erblon",
     "sg:city":"Bourgbarr\u00e9",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152090475,
-    "wof:lastmodified":1449047976,
+    "wof:lastmodified":1466248048,
     "wof:name":"Ouest Roues",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.615554,47.99485,-1.615554,47.99485],
+  "bbox": [
+    -1.615554,
+    47.99485,
+    -1.615554,
+    47.99485
+],
   "geometry": {"coordinates":[-1.615554,47.99485],"type":"Point"}
 }

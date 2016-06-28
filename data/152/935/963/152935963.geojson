@@ -2,13 +2,14 @@
   "id": 152935963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.335304,48.863209,2.335304,48.863209",
     "geom:latitude":48.863209,
     "geom:longitude":2.335304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pl Colette 75001 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873789,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
+        85873789,
         85873787
     ],
     "wof:breaches":[],
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":152935963,
-    "wof:lastmodified":1449048087,
+    "wof:lastmodified":1466252369,
     "wof:name":"Comedie Francaise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.335304,48.863209,2.335304,48.863209],
+  "bbox": [
+    2.335304,
+    48.863209,
+    2.335304,
+    48.863209
+],
   "geometry": {"coordinates":[2.335304,48.863209],"type":"Point"}
 }

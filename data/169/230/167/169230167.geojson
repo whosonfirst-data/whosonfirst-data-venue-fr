@@ -2,13 +2,14 @@
   "id": 169230167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.508124,48.430241,-4.508124,48.430241",
     "geom:latitude":48.430241,
     "geom:longitude":-4.508124,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Moulin Du Beuzit 29820 BOHARS",
     "sg:city":"Bohars",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169230167,
-    "wof:lastmodified":1449035127,
+    "wof:lastmodified":1466249208,
     "wof:name":"Amo Moulin Du Finistere Sa",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.508124,48.430241,-4.508124,48.430241],
+  "bbox": [
+    -4.508124,
+    48.430241,
+    -4.508124,
+    48.430241
+],
   "geometry": {"coordinates":[-4.508124,48.430241],"type":"Point"}
 }

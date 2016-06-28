@@ -2,13 +2,14 @@
   "id": 152064487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.352099,48.859016,2.352099,48.859016",
     "geom:latitude":48.859016,
     "geom:longitude":2.352099,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Rue Du Renard 75004 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873813,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064487,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1466247178,
     "wof:name":"L'illustration",
     "wof:parent_id":85873813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.352099,48.859016,2.352099,48.859016],
+  "bbox": [
+    2.352099,
+    48.859016,
+    2.352099,
+    48.859016
+],
   "geometry": {"coordinates":[2.352099,48.859016],"type":"Point"}
 }

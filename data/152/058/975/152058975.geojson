@@ -2,13 +2,14 @@
   "id": 152058975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.281368,48.870079,2.281368,48.870079",
     "geom:latitude":48.870079,
     "geom:longitude":2.281368,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 rue Dosne 75116 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152058975,
-    "wof:lastmodified":1449044982,
+    "wof:lastmodified":1466246827,
     "wof:name":"C C L F Sa",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.281368,48.870079,2.281368,48.870079],
+  "bbox": [
+    2.281368,
+    48.870079,
+    2.281368,
+    48.870079
+],
   "geometry": {"coordinates":[2.281368,48.870079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152059271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327716,48.849567,2.327716,48.849567",
     "geom:latitude":48.849567,
     "geom:longitude":2.327716,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Boulevard Raspail 75006 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873831,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152059271,
-    "wof:lastmodified":1449045564,
+    "wof:lastmodified":1466247521,
     "wof:name":"Germain Jean",
     "wof:parent_id":85873831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327716,48.849567,2.327716,48.849567],
+  "bbox": [
+    2.327716,
+    48.849567,
+    2.327716,
+    48.849567
+],
   "geometry": {"coordinates":[2.327716,48.849567],"type":"Point"}
 }

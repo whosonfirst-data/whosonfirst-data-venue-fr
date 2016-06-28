@@ -2,13 +2,14 @@
   "id": 168824479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.486119,48.425858,-4.486119,48.425858",
     "geom:latitude":48.425858,
     "geom:longitude":-4.486119,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Rue Nicephore Niepce, 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168824479,
-    "wof:lastmodified":1449028027,
+    "wof:lastmodified":1466245557,
     "wof:name":"Bausson Peinture S.a.",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.486119,48.425858,-4.486119,48.425858],
+  "bbox": [
+    -4.486119,
+    48.425858,
+    -4.486119,
+    48.425858
+],
   "geometry": {"coordinates":[-4.486119,48.425858],"type":"Point"}
 }

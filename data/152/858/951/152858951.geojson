@@ -2,13 +2,14 @@
   "id": 152858951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.427614,43.606956,1.427614,43.606956",
     "geom:latitude":43.606956,
     "geom:longitude":1.427614,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"49 All De Brienne 31000 Toulouse",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794585,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152858951,
-    "wof:lastmodified":1449044761,
+    "wof:lastmodified":1466252104,
     "wof:name":"Rigaud Pere Et Fils Sa",
     "wof:parent_id":85794585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.427614,43.606956,1.427614,43.606956],
+  "bbox": [
+    1.427614,
+    43.606956,
+    1.427614,
+    43.606956
+],
   "geometry": {"coordinates":[1.427614,43.606956],"type":"Point"}
 }

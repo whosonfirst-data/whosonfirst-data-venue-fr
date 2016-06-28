@@ -2,13 +2,14 @@
   "id": 152109559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.139415,50.663631,3.139415,50.663631",
     "geom:latitude":50.663631,
     "geom:longitude":3.139415,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Avenue De Flandre 59491 Villeneuve D Ascq",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152109559,
-    "wof:lastmodified":1449045913,
+    "wof:lastmodified":1466249120,
     "wof:name":"Jean Et Pierre Diagoras",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.139415,50.663631,3.139415,50.663631],
+  "bbox": [
+    3.139415,
+    50.663631,
+    3.139415,
+    50.663631
+],
   "geometry": {"coordinates":[3.139415,50.663631],"type":"Point"}
 }

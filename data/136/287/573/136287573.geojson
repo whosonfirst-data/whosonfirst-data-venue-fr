@@ -2,13 +2,14 @@
   "id": 136287573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.284428,48.876724,2.284428,48.876724",
     "geom:latitude":48.876724,
     "geom:longitude":2.284428,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Av De La Grande Arm\u00e9e 75782 Paris Cedex 16",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136287573,
-    "wof:lastmodified":1449074984,
+    "wof:lastmodified":1466245988,
     "wof:name":"Meodis",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.284428,48.876724,2.284428,48.876724],
+  "bbox": [
+    2.284428,
+    48.876724,
+    2.284428,
+    48.876724
+],
   "geometry": {"coordinates":[2.284428,48.876724],"type":"Point"}
 }

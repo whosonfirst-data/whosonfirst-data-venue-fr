@@ -2,13 +2,14 @@
   "id": 152089085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.439422,48.893841,2.439422,48.893841",
     "geom:latitude":48.893841,
     "geom:longitude":2.439422,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue De La Pointe 93130 Noisy Le Sec",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152089085,
-    "wof:lastmodified":1449045243,
+    "wof:lastmodified":1466248025,
     "wof:name":"Dret",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.439422,48.893841,2.439422,48.893841],
+  "bbox": [
+    2.439422,
+    48.893841,
+    2.439422,
+    48.893841
+],
   "geometry": {"coordinates":[2.439422,48.893841],"type":"Point"}
 }

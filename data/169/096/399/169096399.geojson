@@ -2,13 +2,14 @@
   "id": 169096399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.43037,48.624821,2.43037,48.624821",
     "geom:latitude":48.624821,
     "geom:longitude":2.43037,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Bd des Coquibus - Immeuble le Forum Est, 91000 Evry",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169096399,
-    "wof:lastmodified":1449033757,
+    "wof:lastmodified":1466247786,
     "wof:name":"Plus Interim",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.43037,48.624821,2.43037,48.624821],
+  "bbox": [
+    2.43037,
+    48.624821,
+    2.43037,
+    48.624821
+],
   "geometry": {"coordinates":[2.43037,48.624821],"type":"Point"}
 }

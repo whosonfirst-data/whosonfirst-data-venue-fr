@@ -2,13 +2,14 @@
   "id": 136277801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.294269,48.879238,2.294269,48.879238",
     "geom:latitude":48.879238,
     "geom:longitude":2.294269,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Avenue Niel",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,15 +30,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157,
-        85873985,
+        85873997,
+        85683497,
         101751119,
         102069959,
-        85683497
+        85873985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":136277801,
-    "wof:lastmodified":1449075066,
+    "wof:lastmodified":1466245374,
     "wof:name":"Gmp Et Associes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.294269,48.879238,2.294269,48.879238],
+  "bbox": [
+    2.294269,
+    48.879238,
+    2.294269,
+    48.879238
+],
   "geometry": {"coordinates":[2.294269,48.879238],"type":"Point"}
 }

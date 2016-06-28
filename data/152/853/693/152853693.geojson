@@ -2,13 +2,14 @@
   "id": 152853693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.377724,25.52387,-80.377724,25.52387",
     "geom:latitude":25.52387,
     "geom:longitude":-80.377724,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI des Guerlandes",
     "sg:city":"Bassens",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Florida",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820543,
+        85688651,
         85633793,
         85933609,
         102085771,
-        85688651
+        85820543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152853693,
-    "wof:lastmodified":1449046170,
+    "wof:lastmodified":1466252088,
     "wof:name":"Worms Services Maritimes",
     "wof:parent_id":85820543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.377724,25.52387,-80.377724,25.52387],
+  "bbox": [
+    -80.377724,
+    25.52387,
+    -80.377724,
+    25.52387
+],
   "geometry": {"coordinates":[-80.377724,25.52387],"type":"Point"}
 }

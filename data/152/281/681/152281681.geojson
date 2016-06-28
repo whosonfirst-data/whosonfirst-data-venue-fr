@@ -2,13 +2,14 @@
   "id": 152281681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.544082,47.201962,-1.544082,47.201962",
     "geom:latitude":47.201962,
     "geom:longitude":-1.544082,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue Louis Marin, 44200 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152281681,
-    "wof:lastmodified":1449048217,
+    "wof:lastmodified":1466250028,
     "wof:name":"Atlantic Intelligence S.a.",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.544082,47.201962,-1.544082,47.201962],
+  "bbox": [
+    -1.544082,
+    47.201962,
+    -1.544082,
+    47.201962
+],
   "geometry": {"coordinates":[-1.544082,47.201962],"type":"Point"}
 }

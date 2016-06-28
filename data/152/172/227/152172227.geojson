@@ -2,13 +2,14 @@
   "id": 152172227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.300839,48.886242,2.300839,48.886242",
     "geom:latitude":48.886242,
     "geom:longitude":2.300839,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"95BIS boulevard P\u00e9reire 75017 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152172227,
-    "wof:lastmodified":1449046168,
+    "wof:lastmodified":1466249638,
     "wof:name":"Medpass International Sa",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.300839,48.886242,2.300839,48.886242],
+  "bbox": [
+    2.300839,
+    48.886242,
+    2.300839,
+    48.886242
+],
   "geometry": {"coordinates":[2.300839,48.886242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136297327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334569,48.866863,2.334569,48.866863",
     "geom:latitude":48.866863,
     "geom:longitude":2.334569,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 rue de Ventadour; Paris; 75001",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136297327,
-    "wof:lastmodified":1449075777,
+    "wof:lastmodified":1466246546,
     "wof:name":"Banque F\u00e9d\u00e9rative, Du Cr\u00e9dit Mutuel",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334569,48.866863,2.334569,48.866863],
+  "bbox": [
+    2.334569,
+    48.866863,
+    2.334569,
+    48.866863
+],
   "geometry": {"coordinates":[2.334569,48.866863],"type":"Point"}
 }

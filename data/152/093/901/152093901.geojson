@@ -2,13 +2,14 @@
   "id": 152093901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.522408,44.879742,-0.522408,44.879742",
     "geom:latitude":44.879742,
     "geom:longitude":-0.522408,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Jean Raymond Guyon Zone Industrielle 33310 Lormont",
     "sg:city":"Lormont",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152093901,
-    "wof:lastmodified":1449044298,
+    "wof:lastmodified":1466248341,
     "wof:name":"First So Emballages",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.522408,44.879742,-0.522408,44.879742],
+  "bbox": [
+    -0.522408,
+    44.879742,
+    -0.522408,
+    44.879742
+],
   "geometry": {"coordinates":[-0.522408,44.879742],"type":"Point"}
 }

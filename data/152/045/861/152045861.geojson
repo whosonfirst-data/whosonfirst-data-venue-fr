@@ -2,13 +2,14 @@
   "id": 152045861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316375,48.879105,2.316375,48.879105",
     "geom:latitude":48.879105,
     "geom:longitude":2.316375,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Rue De Naples 75008 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045861,
-    "wof:lastmodified":1449048384,
+    "wof:lastmodified":1466245593,
     "wof:name":"Fenelon St Marie",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316375,48.879105,2.316375,48.879105],
+  "bbox": [
+    2.316375,
+    48.879105,
+    2.316375,
+    48.879105
+],
   "geometry": {"coordinates":[2.316375,48.879105],"type":"Point"}
 }

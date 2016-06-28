@@ -2,13 +2,14 @@
   "id": 152099215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.552284,44.828018,-0.552284,44.828018",
     "geom:latitude":44.828018,
     "geom:longitude":-0.552284,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"quai de Paludate 33800 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152099215,
-    "wof:lastmodified":1449047307,
+    "wof:lastmodified":1466248454,
     "wof:name":"Maison Trias Sa",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.552284,44.828018,-0.552284,44.828018],
+  "bbox": [
+    -0.552284,
+    44.828018,
+    -0.552284,
+    44.828018
+],
   "geometry": {"coordinates":[-0.552284,44.828018],"type":"Point"}
 }

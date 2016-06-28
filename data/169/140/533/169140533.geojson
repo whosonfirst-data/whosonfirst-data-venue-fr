@@ -2,13 +2,14 @@
   "id": 169140533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.492599,43.770035,7.492599,43.770035",
     "geom:latitude":43.770035,
     "geom:longitude":7.492599,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Av. de la Madone, 06500 Menton",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071635,
-        85633147,
         85683323,
-        85794137
+        85633147,
+        85794137,
+        102071635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169140533,
-    "wof:lastmodified":1449033165,
+    "wof:lastmodified":1466248327,
     "wof:name":"S.r.t.m. Lagica S.a.r.l. - Soci\u00e9t\u00e9 Rectification Travaux M\u00e9caniques",
     "wof:parent_id":85794137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.492599,43.770035,7.492599,43.770035],
+  "bbox": [
+    7.492599,
+    43.770035,
+    7.492599,
+    43.770035
+],
   "geometry": {"coordinates":[7.492599,43.770035],"type":"Point"}
 }

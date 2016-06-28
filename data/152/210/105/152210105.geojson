@@ -2,13 +2,14 @@
   "id": 152210105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.322373,48.878147,2.322373,48.878147",
     "geom:latitude":48.878147,
     "geom:longitude":2.322373,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Rue De Rome 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Miscellaneous Products",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873855,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152210105,
-    "wof:lastmodified":1449045875,
+    "wof:lastmodified":1466249744,
     "wof:name":"Feyssival Luthier",
     "wof:parent_id":85873855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.322373,48.878147,2.322373,48.878147],
+  "bbox": [
+    2.322373,
+    48.878147,
+    2.322373,
+    48.878147
+],
   "geometry": {"coordinates":[2.322373,48.878147],"type":"Point"}
 }

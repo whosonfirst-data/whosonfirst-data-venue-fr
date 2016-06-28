@@ -2,13 +2,14 @@
   "id": 152760497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.421967,48.872776,2.421967,48.872776",
     "geom:latitude":48.872776,
     "geom:longitude":2.421967,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"138, Rue Sadi Carnot, 93170 Bagnolet",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,15 +18,15 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874043,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497,
-        85874035,
+        85874043,
+        85683475,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152760497,
-    "wof:lastmodified":1449048744,
+    "wof:lastmodified":1466251737,
     "wof:name":"Sica Union Vignerons Ile De Beaut\u00e9 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.421967,48.872776,2.421967,48.872776],
+  "bbox": [
+    2.421967,
+    48.872776,
+    2.421967,
+    48.872776
+],
   "geometry": {"coordinates":[2.421967,48.872776],"type":"Point"}
 }

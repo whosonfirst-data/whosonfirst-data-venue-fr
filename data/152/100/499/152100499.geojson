@@ -2,13 +2,14 @@
   "id": 152100499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.244383,48.825539,2.244383,48.825539",
     "geom:latitude":48.825539,
     "geom:longitude":2.244383,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Damiens 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152100499,
-    "wof:lastmodified":1449047726,
+    "wof:lastmodified":1466248675,
     "wof:name":"Ned Music Sarl",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.244383,48.825539,2.244383,48.825539],
+  "bbox": [
+    2.244383,
+    48.825539,
+    2.244383,
+    48.825539
+],
   "geometry": {"coordinates":[2.244383,48.825539],"type":"Point"}
 }

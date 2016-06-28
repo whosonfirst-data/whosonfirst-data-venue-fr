@@ -2,13 +2,14 @@
   "id": 152114737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.429483,48.901325,2.429483,48.901325",
     "geom:latitude":48.901325,
     "geom:longitude":2.429483,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"129 R Beno\u00eet Frachon 93000 Bobigny",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152114737,
-    "wof:lastmodified":1449046234,
+    "wof:lastmodified":1466249260,
     "wof:name":"Bidel Depannage Sarl",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.429483,48.901325,2.429483,48.901325],
+  "bbox": [
+    2.429483,
+    48.901325,
+    2.429483,
+    48.901325
+],
   "geometry": {"coordinates":[2.429483,48.901325],"type":"Point"}
 }

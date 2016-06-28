@@ -2,13 +2,14 @@
   "id": 152166543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36988,48.859089,2.36988,48.859089",
     "geom:latitude":48.859089,
     "geom:longitude":2.36988,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Imp Des Primev\u00e8res 75011 Paris",
     "sg:classifiers":[
         {
@@ -31,13 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
-        85873897,
-        102068927
+        85873801,
+        102068927,
+        85873897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":152166543,
-    "wof:lastmodified":1449046882,
+    "wof:lastmodified":1466249515,
     "wof:name":"Maison Mahieu Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36988,48.859089,2.36988,48.859089],
+  "bbox": [
+    2.36988,
+    48.859089,
+    2.36988,
+    48.859089
+],
   "geometry": {"coordinates":[2.36988,48.859089],"type":"Point"}
 }

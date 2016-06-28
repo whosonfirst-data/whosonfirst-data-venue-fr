@@ -2,13 +2,14 @@
   "id": 152537451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.458328,39.361359,-77.458328,39.361359",
     "geom:latitude":39.361359,
     "geom:longitude":-77.458328,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Lavoisier - Zone Industrielle",
     "sg:city":"Nuits Saint Georges C\u00e9dex",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Maryland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819245,
+        85688501,
         85633793,
         85949887,
         102081593,
-        85688501
+        85819245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152537451,
-    "wof:lastmodified":1449045429,
+    "wof:lastmodified":1466251154,
     "wof:name":"Imprimerie Georges Paris S.a.",
     "wof:parent_id":85819245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.458328,39.361359,-77.458328,39.361359],
-  "geometry": {"coordinates":[-77.458328,39.361359],"type":"Point"}
+  "bbox": [
+    -77.458328,
+    39.361359,
+    -77.458328,
+    39.361359
+],
+  "geometry": {"coordinates":[-77.45832799999999,39.361359],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169084847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.47169,47.200851,-1.47169,47.200851",
     "geom:latitude":47.200851,
     "geom:longitude":-1.47169,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"71, Rue des Onch\u00e8res, 44115 Basse Goulaine",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169084847,
-    "wof:lastmodified":1449033033,
+    "wof:lastmodified":1466247715,
     "wof:name":"P.p.e.l. S.a.r.l. - Paysages Piscines Environnement Loisirs",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.47169,47.200851,-1.47169,47.200851],
+  "bbox": [
+    -1.47169,
+    47.200851,
+    -1.47169,
+    47.200851
+],
   "geometry": {"coordinates":[-1.47169,47.200851],"type":"Point"}
 }

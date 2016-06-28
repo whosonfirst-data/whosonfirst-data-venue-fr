@@ -2,13 +2,14 @@
   "id": 152064305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.28992,48.822411,2.28992,48.822411",
     "geom:latitude":48.822411,
     "geom:longitude":2.28992,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 R Solf\u00e9rino 92170 Vanves",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873957,
+        85683157,
         85633147,
         101751137,
         102070951,
-        85683157
+        85873957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064305,
-    "wof:lastmodified":1449045936,
+    "wof:lastmodified":1466247140,
     "wof:name":"Contrast",
     "wof:parent_id":85873957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.28992,48.822411,2.28992,48.822411],
+  "bbox": [
+    2.28992,
+    48.822411,
+    2.28992,
+    48.822411
+],
   "geometry": {"coordinates":[2.28992,48.822411],"type":"Point"}
 }

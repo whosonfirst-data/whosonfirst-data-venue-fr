@@ -2,13 +2,14 @@
   "id": 152092965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.390923,48.869411,2.390923,48.869411",
     "geom:latitude":48.869411,
     "geom:longitude":2.390923,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5-9 rue des Cascades 75020 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874039,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874039
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152092965,
-    "wof:lastmodified":1449048053,
+    "wof:lastmodified":1466248220,
     "wof:name":"D.o.r.v.i.t. Sa",
     "wof:parent_id":85874039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.390923,48.869411,2.390923,48.869411],
+  "bbox": [
+    2.390923,
+    48.869411,
+    2.390923,
+    48.869411
+],
   "geometry": {"coordinates":[2.390923,48.869411],"type":"Point"}
 }

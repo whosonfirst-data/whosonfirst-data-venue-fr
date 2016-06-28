@@ -2,13 +2,14 @@
   "id": 153034819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.508827,44.175072,-123.508827,44.175072",
     "geom:latitude":44.175072,
     "geom:longitude":-123.508827,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Rue Doret B. P.43; Saint-Denis; 97461",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85877223,
+        85688513,
         85633793,
         101716261,
         102081603,
-        85688513
+        85877223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153034819,
-    "wof:lastmodified":1449040383,
+    "wof:lastmodified":1466247350,
     "wof:name":"Best Western Le Saint Denis",
     "wof:parent_id":85877223,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.508827,44.175072,-123.508827,44.175072],
+  "bbox": [
+    -123.508827,
+    44.175072,
+    -123.508827,
+    44.175072
+],
   "geometry": {"coordinates":[-123.508827,44.175072],"type":"Point"}
 }

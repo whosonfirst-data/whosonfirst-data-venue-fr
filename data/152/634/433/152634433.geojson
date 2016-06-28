@@ -2,13 +2,14 @@
   "id": 152634433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.851639,34.922169,-94.851639,34.922169",
     "geom:latitude":34.922169,
     "geom:longitude":-94.851639,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 1026, 74966 Meythet C\u00e9dex^^10, Av. du Pont de Tasset - ZA des C\u00f4tes, 74000 Meythet",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85809791,
+        85688585,
         85633793,
         101714353,
         102082579,
-        85688585
+        85809791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152634433,
-    "wof:lastmodified":1449046511,
+    "wof:lastmodified":1466251459,
     "wof:name":"M\u00e9catork S.a.",
     "wof:parent_id":85809791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.851639,34.922169,-94.851639,34.922169],
-  "geometry": {"coordinates":[-94.851639,34.922169],"type":"Point"}
+  "bbox": [
+    -94.851639,
+    34.922169,
+    -94.851639,
+    34.922169
+],
+  "geometry": {"coordinates":[-94.85163900000001,34.922169],"type":"Point"}
 }

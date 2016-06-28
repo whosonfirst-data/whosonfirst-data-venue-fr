@@ -2,13 +2,14 @@
   "id": 152713371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.374277,50.861797,4.374277,50.861797",
     "geom:latitude":50.861797,
     "geom:longitude":4.374277,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Rue de l'Europe - Zone Industrielle, 67520 Marlenheim",
     "sg:city":"Marlenheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85801855,
+        85681713,
         85632997,
         101751573,
         102049957,
-        85681713
+        85801855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152713371,
-    "wof:lastmodified":1449048490,
+    "wof:lastmodified":1466251659,
     "wof:name":"S.a.m.a.c. S.a.",
     "wof:parent_id":85801855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.374277,50.861797,4.374277,50.861797],
+  "bbox": [
+    4.374277,
+    50.861797,
+    4.374277,
+    50.861797
+],
   "geometry": {"coordinates":[4.374277,50.861797],"type":"Point"}
 }

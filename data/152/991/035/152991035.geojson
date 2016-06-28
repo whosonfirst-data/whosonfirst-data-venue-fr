@@ -2,13 +2,14 @@
   "id": 152991035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.588452,47.596619,7.588452,47.596619",
     "geom:latitude":47.596619,
     "geom:longitude":7.588452,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 rue du Fort 68330 Huningue",
     "sg:city":"Huningue",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800695,
+        85682567,
         85633111,
         101914103,
         102063211,
-        85682567
+        85800695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152991035,
-    "wof:lastmodified":1449045761,
+    "wof:lastmodified":1466252509,
     "wof:name":"Afig Foessel Engineering Sarl",
     "wof:parent_id":85800695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.588452,47.596619,7.588452,47.596619],
+  "bbox": [
+    7.588452,
+    47.596619,
+    7.588452,
+    47.596619
+],
   "geometry": {"coordinates":[7.588452,47.596619],"type":"Point"}
 }

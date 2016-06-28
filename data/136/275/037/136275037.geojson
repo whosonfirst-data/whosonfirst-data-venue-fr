@@ -2,13 +2,14 @@
   "id": 136275037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.505336,47.20702,-1.505336,47.20702",
     "geom:latitude":47.20702,
     "geom:longitude":-1.505336,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Maurice Daniel",
     "sg:city":"St Sebastien Sur Loire",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136275037,
-    "wof:lastmodified":1449075324,
+    "wof:lastmodified":1466246292,
     "wof:name":"Banque Populaire Bretagne Atlantique (bpba)",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.505336,47.20702,-1.505336,47.20702],
+  "bbox": [
+    -1.505336,
+    47.20702,
+    -1.505336,
+    47.20702
+],
   "geometry": {"coordinates":[-1.505336,47.20702],"type":"Point"}
 }

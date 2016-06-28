@@ -2,13 +2,14 @@
   "id": 152753801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.093323,44.94384,-93.093323,44.94384",
     "geom:latitude":44.94384,
     "geom:longitude":-93.093323,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 66",
     "sg:city":"Saint R\u00e9my les Chevreuse C\u00e9dex^^Domaine de Saint Paul 78470 Saint R\u00e9my les Chevreuse",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873317,
+        85688727,
         85633793,
         85953191,
         102087007,
-        85688727
+        85873317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152753801,
-    "wof:lastmodified":1449044851,
+    "wof:lastmodified":1466251722,
     "wof:name":"Sedit S.a.r.l. - Soci\u00e9t\u00e9 D'etudes Et De Diffusion Des Industries Thermiques Et A\u00e9rauliques",
     "wof:parent_id":85873317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.093323,44.94384,-93.093323,44.94384],
+  "bbox": [
+    -93.093323,
+    44.94384,
+    -93.093323,
+    44.94384
+],
   "geometry": {"coordinates":[-93.093323,44.94384],"type":"Point"}
 }

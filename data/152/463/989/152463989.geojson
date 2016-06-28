@@ -2,13 +2,14 @@
   "id": 152463989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.532709,47.219746,-1.532709,47.219746",
     "geom:latitude":47.219746,
     "geom:longitude":-1.532709,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd Stalingrad - Gare Nord Immeuble Parking SNCF",
     "sg:city":"Nantes",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897697,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152463989,
-    "wof:lastmodified":1449047510,
+    "wof:lastmodified":1466250590,
     "wof:name":"Europcar S.a.",
     "wof:parent_id":85897697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.532709,47.219746,-1.532709,47.219746],
+  "bbox": [
+    -1.532709,
+    47.219746,
+    -1.532709,
+    47.219746
+],
   "geometry": {"coordinates":[-1.532709,47.219746],"type":"Point"}
 }

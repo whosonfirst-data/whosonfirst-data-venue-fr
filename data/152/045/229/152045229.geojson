@@ -2,13 +2,14 @@
   "id": 152045229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.837563,35.222462,-80.837563,35.222462",
     "geom:latitude":35.222462,
     "geom:longitude":-80.837563,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd Chasles BP 61 28232 Epernon",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871237,
+        85688773,
         85633793,
         85981333,
         102080981,
-        85688773
+        85871237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152045229,
-    "wof:lastmodified":1449048381,
+    "wof:lastmodified":1466245461,
     "wof:name":"College Michel Chasles",
     "wof:parent_id":85871237,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.837563,35.222462,-80.837563,35.222462],
+  "bbox": [
+    -80.837563,
+    35.222462,
+    -80.837563,
+    35.222462
+],
   "geometry": {"coordinates":[-80.837563,35.222462],"type":"Point"}
 }

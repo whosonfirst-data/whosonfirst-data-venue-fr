@@ -2,13 +2,14 @@
   "id": 152653811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.568254,44.759846,-0.568254,44.759846",
     "geom:latitude":44.759846,
     "geom:longitude":-0.568254,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 1080, 33140 Villenave d'Ornon C\u00e9dex^^Chemin Truchon, 33140 Cadaujac",
     "sg:city":"Cadaujac",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152653811,
-    "wof:lastmodified":1449044635,
+    "wof:lastmodified":1466251484,
     "wof:name":"Orefi Aquitaine Outillage",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.568254,44.759846,-0.568254,44.759846],
+  "bbox": [
+    -0.568254,
+    44.759846,
+    -0.568254,
+    44.759846
+],
   "geometry": {"coordinates":[-0.568254,44.759846],"type":"Point"}
 }

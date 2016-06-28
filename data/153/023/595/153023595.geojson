@@ -2,13 +2,14 @@
   "id": 153023595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.5359,47.25631,-1.5359,47.25631",
     "geom:latitude":47.25631,
     "geom:longitude":-1.5359,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Des Pays Bas Centre Commercial Gros 44300 Nantes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153023595,
-    "wof:lastmodified":1449040780,
+    "wof:lastmodified":1466246461,
     "wof:name":"Gefco",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.5359,47.25631,-1.5359,47.25631],
+  "bbox": [
+    -1.5359,
+    47.25631,
+    -1.5359,
+    47.25631
+],
   "geometry": {"coordinates":[-1.5359,47.25631],"type":"Point"}
 }

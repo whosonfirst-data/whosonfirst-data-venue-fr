@@ -2,13 +2,14 @@
   "id": 152102771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.92972,43.134686,5.92972,43.134686",
     "geom:latitude":43.134686,
     "geom:longitude":5.92972,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Rue Joseph Antonin Borne 83000 Toulon",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152102771,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248878,
     "wof:name":"Miroiterie Degivry",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.92972,43.134686,5.92972,43.134686],
+  "bbox": [
+    5.92972,
+    43.134686,
+    5.92972,
+    43.134686
+],
   "geometry": {"coordinates":[5.92972,43.134686],"type":"Point"}
 }

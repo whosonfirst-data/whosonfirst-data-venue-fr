@@ -2,13 +2,14 @@
   "id": 136295495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.082732,49.441151,1.082732,49.441151",
     "geom:latitude":49.441151,
     "geom:longitude":1.082732,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 -12 Bd Des Belges 76000 Rouen",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295495,
-    "wof:lastmodified":1449075460,
+    "wof:lastmodified":1466246421,
     "wof:name":"Cap Marine Assurances",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.082732,49.441151,1.082732,49.441151],
+  "bbox": [
+    1.082732,
+    49.441151,
+    1.082732,
+    49.441151
+],
   "geometry": {"coordinates":[1.082732,49.441151],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152219735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.332518,48.905201,2.332518,48.905201",
     "geom:latitude":48.905201,
     "geom:longitude":2.332518,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Charles Schmidt 93400 St Ouen",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874015,
+        85683475,
         85633147,
         101751157,
         102072549,
-        85683475
+        85874015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152219735,
-    "wof:lastmodified":1449048727,
+    "wof:lastmodified":1466249972,
     "wof:name":"Coda St Ouen",
     "wof:parent_id":85874015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.332518,48.905201,2.332518,48.905201],
+  "bbox": [
+    2.332518,
+    48.905201,
+    2.332518,
+    48.905201
+],
   "geometry": {"coordinates":[2.332518,48.905201],"type":"Point"}
 }

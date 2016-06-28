@@ -2,13 +2,14 @@
   "id": 152503925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.7239,32.354488,-93.7239,32.354488",
     "geom:latitude":32.354488,
     "geom:longitude":-93.7239,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 263, 71106 Ch\u00e2lon sur Sa\u00f4ne C\u00e9dex^^35, Rue Morinet, 71100 Ch\u00e2lon sur Sa\u00f4ne",
     "sg:city":"Chalon-sur-Sa\u00f4ne",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087235,
-        85633793,
         85688735,
-        85857757
+        85633793,
+        85857757,
+        102087235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152503925,
-    "wof:lastmodified":1449048910,
+    "wof:lastmodified":1466250834,
     "wof:name":"Givord S.a.",
     "wof:parent_id":85857757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.7239,32.354488,-93.7239,32.354488],
+  "bbox": [
+    -93.7239,
+    32.354488,
+    -93.7239,
+    32.354488
+],
   "geometry": {"coordinates":[-93.7239,32.354488],"type":"Point"}
 }

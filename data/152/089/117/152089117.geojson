@@ -2,13 +2,14 @@
   "id": 152089117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41307,48.889309,2.41307,48.889309",
     "geom:latitude":48.889309,
     "geom:longitude":2.41307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Rue Mehul 93500 Pantin",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152089117,
-    "wof:lastmodified":1449045242,
+    "wof:lastmodified":1466248101,
     "wof:name":"Echafaudages Et Ravalements",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41307,48.889309,2.41307,48.889309],
+  "bbox": [
+    2.41307,
+    48.889309,
+    2.41307,
+    48.889309
+],
   "geometry": {"coordinates":[2.41307,48.889309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136305435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.267702,43.701553,7.267702,43.701553",
     "geom:latitude":43.701553,
     "geom:longitude":7.267702,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 ave Jean M\u00e9d\u00e9cin; Nice; 06000",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:phone":"+33 3 39 38 50 83",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136305435,
-    "wof:lastmodified":1449075113,
+    "wof:lastmodified":1466246975,
     "wof:name":"Den Danske Bank",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.267702,43.701553,7.267702,43.701553],
+  "bbox": [
+    7.267702,
+    43.701553,
+    7.267702,
+    43.701553
+],
   "geometry": {"coordinates":[7.267702,43.701553],"type":"Point"}
 }

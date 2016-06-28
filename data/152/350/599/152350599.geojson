@@ -2,13 +2,14 @@
   "id": 152350599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.24102,48.835155,2.24102,48.835155",
     "geom:latitude":48.835155,
     "geom:longitude":2.24102,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Rue Danjou, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152350599,
-    "wof:lastmodified":1449046658,
+    "wof:lastmodified":1466250394,
     "wof:name":"Cartier Bresson S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.24102,48.835155,2.24102,48.835155],
+  "bbox": [
+    2.24102,
+    48.835155,
+    2.24102,
+    48.835155
+],
   "geometry": {"coordinates":[2.24102,48.835155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136306059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314949,48.875141,2.314949,48.875141",
     "geom:latitude":48.875141,
     "geom:longitude":2.314949,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Boulevard Haussmann, 75008 Paris Cedex 08, Dept 75",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136306059,
-    "wof:lastmodified":1449076204,
+    "wof:lastmodified":1466246912,
     "wof:name":"Miromesnil Gestion",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314949,48.875141,2.314949,48.875141],
+  "bbox": [
+    2.314949,
+    48.875141,
+    2.314949,
+    48.875141
+],
   "geometry": {"coordinates":[2.314949,48.875141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153025761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.444988,49.020348,2.444988,49.020348",
     "geom:latitude":49.020348,
     "geom:longitude":2.444988,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"63-73 Rue Jean Pierre Timbaud BP 204 95190 Goussainville",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153025761,
-    "wof:lastmodified":1449040752,
+    "wof:lastmodified":1466246588,
     "wof:name":"Porteurs 2000 Sa",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.444988,49.020348,2.444988,49.020348],
+  "bbox": [
+    2.444988,
+    49.020348,
+    2.444988,
+    49.020348
+],
   "geometry": {"coordinates":[2.444988,49.020348],"type":"Point"}
 }

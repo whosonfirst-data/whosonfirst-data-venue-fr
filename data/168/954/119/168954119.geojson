@@ -2,13 +2,14 @@
   "id": 168954119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.846953,43.135208,5.846953,43.135208",
     "geom:latitude":43.135208,
     "geom:longitude":5.846953,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Pont du Berger 83190 Ollioules",
     "sg:city":"Berg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168954119,
-    "wof:lastmodified":1449028490,
+    "wof:lastmodified":1466248363,
     "wof:name":"Feuillazur Sarl",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.846953,43.135208,5.846953,43.135208],
+  "bbox": [
+    5.846953,
+    43.135208,
+    5.846953,
+    43.135208
+],
   "geometry": {"coordinates":[5.846953,43.135208],"type":"Point"}
 }

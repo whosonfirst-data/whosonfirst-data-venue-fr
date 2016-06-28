@@ -2,13 +2,14 @@
   "id": 152068053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.292099,40.088158,-91.292099,40.088158",
     "geom:latitude":40.088158,
     "geom:longitude":-91.292099,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Lot Za De Gard\u00e9s 48000 Mend\u00e9",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086213,
-        85633793,
         85688697,
-        85867473
+        85633793,
+        85867473,
+        102086213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152068053,
-    "wof:lastmodified":1449046679,
+    "wof:lastmodified":1466247357,
     "wof:name":"Stp De Lozere Sa",
     "wof:parent_id":85867473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.292099,40.088158,-91.292099,40.088158],
-  "geometry": {"coordinates":[-91.292099,40.088158],"type":"Point"}
+  "bbox": [
+    -91.292099,
+    40.088158,
+    -91.292099,
+    40.088158
+],
+  "geometry": {"coordinates":[-91.29209899999999,40.088158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152127095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.106337,50.656597,3.106337,50.656597",
     "geom:latitude":50.656597,
     "geom:longitude":3.106337,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"314, Bd Cl\u00e9menceau, 59700 Marcq en Baroeul",
     "sg:classifiers":[],
     "sg:orig_category":"MAINTENANCE Services: Audit, mise en place cl\u00e9 en main de syst\u00e8mes code barres d\u00e9veloppement de logi",
@@ -18,11 +19,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152127095,
-    "wof:lastmodified":1449048548,
+    "wof:lastmodified":1466249397,
     "wof:name":"C.b.s.i. S.a. - Codes Barres Et Solutions D'identifications",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.106337,50.656597,3.106337,50.656597],
+  "bbox": [
+    3.106337,
+    50.656597,
+    3.106337,
+    50.656597
+],
   "geometry": {"coordinates":[3.106337,50.656597],"type":"Point"}
 }

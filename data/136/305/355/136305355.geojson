@@ -2,13 +2,14 @@
   "id": 136305355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.727724,47.166721,-1.727724,47.166721",
     "geom:latitude":47.166721,
     "geom:longitude":-1.727724,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 rue Pr\u00e9s; Brains",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794541,
+        85683233,
         85633147,
         101753357,
         102071689,
-        85683233
+        85794541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136305355,
-    "wof:lastmodified":1449075112,
+    "wof:lastmodified":1466246958,
     "wof:name":"Cr\u00e9dit Mutuel, (caisse De)",
     "wof:parent_id":85794541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.727724,47.166721,-1.727724,47.166721],
+  "bbox": [
+    -1.727724,
+    47.166721,
+    -1.727724,
+    47.166721
+],
   "geometry": {"coordinates":[-1.727724,47.166721],"type":"Point"}
 }

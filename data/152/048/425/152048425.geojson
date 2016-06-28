@@ -2,13 +2,14 @@
   "id": 152048425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.432472,48.845284,2.432472,48.845284",
     "geom:latitude":48.845284,
     "geom:longitude":2.432472,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Avenue De Paris 94300 Vincennes",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152048425,
-    "wof:lastmodified":1449045916,
+    "wof:lastmodified":1466245738,
     "wof:name":"Hotel Daumesnil Vincennes",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.432472,48.845284,2.432472,48.845284],
+  "bbox": [
+    2.432472,
+    48.845284,
+    2.432472,
+    48.845284
+],
   "geometry": {"coordinates":[2.432472,48.845284],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152880041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327478,48.817196,2.327478,48.817196",
     "geom:latitude":48.817196,
     "geom:longitude":2.327478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 rue Barb\u00e8s 92129 MONTROUGE CEDEX",
     "sg:classifiers":[],
     "sg:orig_category":"Planning Offices For Data System Engineering And Electronics",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152880041,
-    "wof:lastmodified":1449048935,
+    "wof:lastmodified":1466252140,
     "wof:name":"Sofres Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327478,48.817196,2.327478,48.817196],
+  "bbox": [
+    2.327478,
+    48.817196,
+    2.327478,
+    48.817196
+],
   "geometry": {"coordinates":[2.327478,48.817196],"type":"Point"}
 }

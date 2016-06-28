@@ -2,13 +2,14 @@
   "id": 153038189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.246433,48.837513,2.246433,48.837513",
     "geom:latitude":48.837513,
     "geom:longitude":2.246433,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Rue Galli\u00e9ni, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153038189,
-    "wof:lastmodified":1449040672,
+    "wof:lastmodified":1466245323,
     "wof:name":"38\u00b05 La Fi\u00e8vre De Communiquer S.a.r.l.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.246433,48.837513,2.246433,48.837513],
+  "bbox": [
+    2.246433,
+    48.837513,
+    2.246433,
+    48.837513
+],
   "geometry": {"coordinates":[2.246433,48.837513],"type":"Point"}
 }

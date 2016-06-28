@@ -2,13 +2,14 @@
   "id": 152432855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.462985,48.591148,-4.462985,48.591148",
     "geom:latitude":48.591148,
     "geom:longitude":-4.462985,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 13, 29880 Plouguerneau^^ZI des Helles, 29880 Plouguerneau",
     "sg:city":"Plouguerneau",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":152432855,
-    "wof:lastmodified":1449044204,
+    "wof:lastmodified":1466250574,
     "wof:name":"Embal'jet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.462985,48.591148,-4.462985,48.591148],
+  "bbox": [
+    -4.462985,
+    48.591148,
+    -4.462985,
+    48.591148
+],
   "geometry": {"coordinates":[-4.462985,48.591148],"type":"Point"}
 }

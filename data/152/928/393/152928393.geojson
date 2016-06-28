@@ -2,13 +2,14 @@
   "id": 152928393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.590918,44.83139,-0.590918,44.83139",
     "geom:latitude":44.83139,
     "geom:longitude":-0.590918,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Rue Manon Cormier 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897679,
+        85683243,
         85633147,
         101750765,
         102072149,
-        85683243
+        85897679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152928393,
-    "wof:lastmodified":1449048272,
+    "wof:lastmodified":1466252340,
     "wof:name":"Kossmann Laboratoire",
     "wof:parent_id":85897679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.590918,44.83139,-0.590918,44.83139],
+  "bbox": [
+    -0.590918,
+    44.83139,
+    -0.590918,
+    44.83139
+],
   "geometry": {"coordinates":[-0.590918,44.83139],"type":"Point"}
 }

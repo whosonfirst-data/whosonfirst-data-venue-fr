@@ -2,13 +2,14 @@
   "id": 152877143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.260892,48.823013,2.260892,48.823013",
     "geom:latitude":48.823013,
     "geom:longitude":2.260892,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 rue Ren\u00e9 Jacques 92130 Issy les Moulineaux",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152877143,
-    "wof:lastmodified":1449047547,
+    "wof:lastmodified":1466252136,
     "wof:name":"Cegos S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.260892,48.823013,2.260892,48.823013],
+  "bbox": [
+    2.260892,
+    48.823013,
+    2.260892,
+    48.823013
+],
   "geometry": {"coordinates":[2.260892,48.823013],"type":"Point"}
 }

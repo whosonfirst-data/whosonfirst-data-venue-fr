@@ -2,13 +2,14 @@
   "id": 169247221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.296693,48.86946,2.296693,48.86946",
     "geom:latitude":48.86946,
     "geom:longitude":2.296693,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23, Rue Jean Giraudoux",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.aftelecom.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169247221,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249500,
     "wof:name":"AF Telecom Sarl",
     "wof:parent_id":85873973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.296693,48.86946,2.296693,48.86946],
+  "bbox": [
+    2.296693,
+    48.86946,
+    2.296693,
+    48.86946
+],
   "geometry": {"coordinates":[2.296693,48.86946],"type":"Point"}
 }

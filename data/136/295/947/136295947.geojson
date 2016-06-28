@@ -2,13 +2,14 @@
   "id": 136295947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.312569,48.875824,2.312569,48.875824",
     "geom:latitude":48.875824,
     "geom:longitude":2.312569,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 rue de Teheran; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136295947,
-    "wof:lastmodified":1449075462,
+    "wof:lastmodified":1466246507,
     "wof:name":"Alfabanque",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.312569,48.875824,2.312569,48.875824],
+  "bbox": [
+    2.312569,
+    48.875824,
+    2.312569,
+    48.875824
+],
   "geometry": {"coordinates":[2.312569,48.875824],"type":"Point"}
 }

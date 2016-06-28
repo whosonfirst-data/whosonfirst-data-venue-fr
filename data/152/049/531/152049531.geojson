@@ -2,13 +2,14 @@
   "id": 152049531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.39756,43.605835,1.39756,43.605835",
     "geom:latitude":43.605835,
     "geom:longitude":1.39756,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Impasse De Maubec 31300 Toulouse",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049531,
-    "wof:lastmodified":1449046590,
+    "wof:lastmodified":1466245817,
     "wof:name":"Novotel Toulouse Aeroport",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.39756,43.605835,1.39756,43.605835],
+  "bbox": [
+    1.39756,
+    43.605835,
+    1.39756,
+    43.605835
+],
   "geometry": {"coordinates":[1.39756,43.605835],"type":"Point"}
 }

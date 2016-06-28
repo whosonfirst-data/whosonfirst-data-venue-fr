@@ -2,13 +2,14 @@
   "id": 136306195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.333973,48.87281,2.333973,48.87281",
     "geom:latitude":48.87281,
     "geom:longitude":2.333973,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Boulevard Haussmann, 75009 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306195,
-    "wof:lastmodified":1449076206,
+    "wof:lastmodified":1466246941,
     "wof:name":"Pramex International",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.333973,48.87281,2.333973,48.87281],
+  "bbox": [
+    2.333973,
+    48.87281,
+    2.333973,
+    48.87281
+],
   "geometry": {"coordinates":[2.333973,48.87281],"type":"Point"}
 }

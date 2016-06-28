@@ -2,13 +2,14 @@
   "id": 152726469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.144218,34.147228,-118.144218,34.147228",
     "geom:latitude":34.147228,
     "geom:longitude":-118.144218,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Rue de l'Industrie - ZA de Mainville, 91124 Draveil C\u00e9dex",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85882199,
+        85688637,
         85633793,
         85923487,
         102086957,
-        85688637
+        85882199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152726469,
-    "wof:lastmodified":1449047470,
+    "wof:lastmodified":1466251552,
     "wof:name":"S.i.m.p. S.a. - Soci\u00e9t\u00e9 Industrielle De Mati\u00e8res Plastiques G. Martin",
     "wof:parent_id":85882199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.144218,34.147228,-118.144218,34.147228],
+  "bbox": [
+    -118.144218,
+    34.147228,
+    -118.144218,
+    34.147228
+],
   "geometry": {"coordinates":[-118.144218,34.147228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168980181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36158,48.856567,2.36158,48.856567",
     "geom:latitude":48.856567,
     "geom:longitude":2.36158,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Rue Malher, 75000 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873811,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168980181,
-    "wof:lastmodified":1449027823,
+    "wof:lastmodified":1466248741,
     "wof:name":"Groupe Syncom",
     "wof:parent_id":85873811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36158,48.856567,2.36158,48.856567],
+  "bbox": [
+    2.36158,
+    48.856567,
+    2.36158,
+    48.856567
+],
   "geometry": {"coordinates":[2.36158,48.856567],"type":"Point"}
 }

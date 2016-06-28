@@ -2,13 +2,14 @@
   "id": 136281435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.324977,48.833729,2.324977,48.833729",
     "geom:latitude":48.833729,
     "geom:longitude":2.324977,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Passage Tenaille 75014 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873939,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281435,
-    "wof:lastmodified":1449076058,
+    "wof:lastmodified":1466245540,
     "wof:name":"Lubrina Publicite",
     "wof:parent_id":85873939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.324977,48.833729,2.324977,48.833729],
+  "bbox": [
+    2.324977,
+    48.833729,
+    2.324977,
+    48.833729
+],
   "geometry": {"coordinates":[2.324977,48.833729],"type":"Point"}
 }

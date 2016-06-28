@@ -2,13 +2,14 @@
   "id": 169029201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.285816,48.866959,2.285816,48.866959",
     "geom:latitude":48.866959,
     "geom:longitude":2.285816,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"55/57, Av. Raymond Poincar\u00e9, 75116 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169029201,
-    "wof:lastmodified":1449034067,
+    "wof:lastmodified":1466247222,
     "wof:name":"Le Parc Sofitel Demeure H\u00f4tels",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.285816,48.866959,2.285816,48.866959],
+  "bbox": [
+    2.285816,
+    48.866959,
+    2.285816,
+    48.866959
+],
   "geometry": {"coordinates":[2.285816,48.866959],"type":"Point"}
 }

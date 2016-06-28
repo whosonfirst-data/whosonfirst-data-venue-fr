@@ -2,13 +2,14 @@
   "id": 152059353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.554234,47.59726,7.554234,47.59726",
     "geom:latitude":47.59726,
     "geom:longitude":7.554234,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue De Village Neuf 68308 St Louis Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800031,
+        85683381,
         85633147,
         101829569,
         102066391,
-        85683381
+        85800031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152059353,
-    "wof:lastmodified":1449045563,
+    "wof:lastmodified":1466246737,
     "wof:name":"Ganzoni France",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.554234,47.59726,7.554234,47.59726],
+  "bbox": [
+    7.554234,
+    47.59726,
+    7.554234,
+    47.59726
+],
   "geometry": {"coordinates":[7.554234,47.59726],"type":"Point"}
 }

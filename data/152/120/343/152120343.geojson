@@ -2,13 +2,14 @@
   "id": 152120343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.345915,48.867805,2.345915,48.867805",
     "geom:latitude":48.867805,
     "geom:longitude":2.345915,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"112 rue R\u00e9aumur 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152120343,
-    "wof:lastmodified":1449048254,
+    "wof:lastmodified":1466249222,
     "wof:name":"Teenflo S.a.",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.345915,48.867805,2.345915,48.867805],
+  "bbox": [
+    2.345915,
+    48.867805,
+    2.345915,
+    48.867805
+],
   "geometry": {"coordinates":[2.345915,48.867805],"type":"Point"}
 }

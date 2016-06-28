@@ -2,13 +2,14 @@
   "id": 169247661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.477251,48.790001,2.477251,48.790001",
     "geom:latitude":48.790001,
     "geom:longitude":2.477251,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27-31 av du port au fouarre",
     "sg:city":"Saint-Maur",
     "sg:classifiers":[
@@ -34,11 +35,11 @@
     "sg:website":"http://www.personall.fr/en",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169247661,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249527,
     "wof:name":"PersonAll",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.477251,48.790001,2.477251,48.790001],
+  "bbox": [
+    2.477251,
+    48.790001,
+    2.477251,
+    48.790001
+],
   "geometry": {"coordinates":[2.477251,48.790001],"type":"Point"}
 }

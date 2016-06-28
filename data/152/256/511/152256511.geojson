@@ -2,13 +2,14 @@
   "id": 152256511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.380381,48.843998,2.380381,48.843998",
     "geom:latitude":48.843998,
     "geom:longitude":2.380381,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Rue de Rambouillet, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873909,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152256511,
-    "wof:lastmodified":1449047814,
+    "wof:lastmodified":1466249919,
     "wof:name":"Agilos Sarl",
     "wof:parent_id":85873909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.380381,48.843998,2.380381,48.843998],
+  "bbox": [
+    2.380381,
+    48.843998,
+    2.380381,
+    48.843998
+],
   "geometry": {"coordinates":[2.380381,48.843998],"type":"Point"}
 }

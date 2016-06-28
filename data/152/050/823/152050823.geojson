@@ -2,13 +2,14 @@
   "id": 152050823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342805,48.82225,2.342805,48.82225",
     "geom:latitude":48.82225,
     "geom:longitude":2.342805,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11BIS rue Charbonnel 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Caoutchouc",
@@ -18,14 +19,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459,
-        85873937,
+        85873929,
         101749049,
-        102070457
+        102070457,
+        85873937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152050823,
-    "wof:lastmodified":1449046851,
+    "wof:lastmodified":1466245975,
     "wof:name":"Piercan Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342805,48.82225,2.342805,48.82225],
+  "bbox": [
+    2.342805,
+    48.82225,
+    2.342805,
+    48.82225
+],
   "geometry": {"coordinates":[2.342805,48.82225],"type":"Point"}
 }

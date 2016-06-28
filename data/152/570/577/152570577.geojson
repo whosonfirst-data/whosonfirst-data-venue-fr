@@ -2,13 +2,14 @@
   "id": 152570577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.554214,44.828823,-0.554214,44.828823",
     "geom:latitude":44.828823,
     "geom:longitude":-0.554214,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Rue des Terres de Borde, 33800 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897675,
+        85683243,
         85633147,
         101749339,
         102071639,
-        85683243
+        85897675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152570577,
-    "wof:lastmodified":1449047043,
+    "wof:lastmodified":1466251065,
     "wof:name":"Laboratoires Aufra S.a.",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.554214,44.828823,-0.554214,44.828823],
+  "bbox": [
+    -0.554214,
+    44.828823,
+    -0.554214,
+    44.828823
+],
   "geometry": {"coordinates":[-0.554214,44.828823],"type":"Point"}
 }

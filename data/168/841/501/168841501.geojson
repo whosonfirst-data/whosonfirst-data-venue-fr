@@ -2,13 +2,14 @@
   "id": 168841501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.742523,48.589703,7.742523,48.589703",
     "geom:latitude":48.589703,
     "geom:longitude":7.742523,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Rue du Travail, 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168841501,
-    "wof:lastmodified":1449027942,
+    "wof:lastmodified":1466246717,
     "wof:name":"C.+h. S.a.r.l. - Conseil Et Hommes",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.742523,48.589703,7.742523,48.589703],
+  "bbox": [
+    7.742523,
+    48.589703,
+    7.742523,
+    48.589703
+],
   "geometry": {"coordinates":[7.742523,48.589703],"type":"Point"}
 }

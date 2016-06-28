@@ -2,13 +2,14 @@
   "id": 136296151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.220951,48.826756,2.220951,48.826756",
     "geom:latitude":48.826756,
     "geom:longitude":2.220951,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Grande Rue; S\u00e8vres; 92310",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136296151,
-    "wof:lastmodified":1449075986,
+    "wof:lastmodified":1466246371,
     "wof:name":"Banco Pinto, & Sotto Mayor",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.220951,48.826756,2.220951,48.826756],
+  "bbox": [
+    2.220951,
+    48.826756,
+    2.220951,
+    48.826756
+],
   "geometry": {"coordinates":[2.220951,48.826756],"type":"Point"}
 }

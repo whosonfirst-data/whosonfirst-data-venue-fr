@@ -2,13 +2,14 @@
   "id": 168983393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.60205,47.157318,-1.60205,47.157318",
     "geom:latitude":47.157318,
     "geom:longitude":-1.60205,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"A\u00e9roport Nantes Atlantique",
     "sg:city":"Bouguenais",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168983393,
-    "wof:lastmodified":1449028523,
+    "wof:lastmodified":1466248878,
     "wof:name":"G\u00e9odis Overseas",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.60205,47.157318,-1.60205,47.157318],
+  "bbox": [
+    -1.60205,
+    47.157318,
+    -1.60205,
+    47.157318
+],
   "geometry": {"coordinates":[-1.60205,47.157318],"type":"Point"}
 }

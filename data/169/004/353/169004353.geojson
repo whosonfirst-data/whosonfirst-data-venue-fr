@@ -2,13 +2,14 @@
   "id": 169004353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33855,48.874916,2.33855,48.874916",
     "geom:latitude":48.874916,
     "geom:longitude":2.33855,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48, Rue Laffitte, 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169004353,
-    "wof:lastmodified":1449033895,
+    "wof:lastmodified":1466245562,
     "wof:name":"International Testing S.a.s.",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33855,48.874916,2.33855,48.874916],
+  "bbox": [
+    2.33855,
+    48.874916,
+    2.33855,
+    48.874916
+],
   "geometry": {"coordinates":[2.33855,48.874916],"type":"Point"}
 }

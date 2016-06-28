@@ -2,13 +2,14 @@
   "id": 152114565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.579226,47.587387,7.579226,47.587387",
     "geom:latitude":47.587387,
     "geom:longitude":7.579226,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue De Blochmont 68330 Huningue",
     "sg:city":"Huningue",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800031,
+        85683381,
         85633147,
         101829569,
         102066391,
-        85683381
+        85800031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152114565,
-    "wof:lastmodified":1449046240,
+    "wof:lastmodified":1466249237,
     "wof:name":"Socar Schelcher Sa",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.579226,47.587387,7.579226,47.587387],
+  "bbox": [
+    7.579226,
+    47.587387,
+    7.579226,
+    47.587387
+],
   "geometry": {"coordinates":[7.579226,47.587387],"type":"Point"}
 }

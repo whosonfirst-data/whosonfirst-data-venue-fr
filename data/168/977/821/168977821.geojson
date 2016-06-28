@@ -2,13 +2,14 @@
   "id": 168977821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.407959,48.844212,2.407959,48.844212",
     "geom:latitude":48.844212,
     "geom:longitude":2.407959,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"100 ter, Av. de Saint Mand\u00e9, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":168977821,
-    "wof:lastmodified":1449028614,
+    "wof:lastmodified":1466248727,
     "wof:name":"Green Mouse Photocomposition S.a.r.l.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.407959,48.844212,2.407959,48.844212],
+  "bbox": [
+    2.407959,
+    48.844212,
+    2.407959,
+    48.844212
+],
   "geometry": {"coordinates":[2.407959,48.844212],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152043863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.379225,43.631721,1.379225,43.631721",
     "geom:latitude":43.631721,
     "geom:longitude":1.379225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 R Dieudonn\u00e9 Costes 31700 Blagnac",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794645,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152043863,
-    "wof:lastmodified":1449047754,
+    "wof:lastmodified":1466245305,
     "wof:name":"Euro Info Centre",
     "wof:parent_id":85794645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.379225,43.631721,1.379225,43.631721],
+  "bbox": [
+    1.379225,
+    43.631721,
+    1.379225,
+    43.631721
+],
   "geometry": {"coordinates":[1.379225,43.631721],"type":"Point"}
 }

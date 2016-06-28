@@ -2,13 +2,14 @@
   "id": 152725889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.9232,47.869331,1.9232,47.869331",
     "geom:latitude":47.869331,
     "geom:longitude":1.9232,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"60, Rue des Mont\u00e9es, 45100 Orl\u00e9ans",
     "sg:city":"Orl\u00e9ans",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863273,
+        85683479,
         85633147,
         101750945,
         102072461,
-        85683479
+        85863273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152725889,
-    "wof:lastmodified":1449045415,
+    "wof:lastmodified":1466251607,
     "wof:name":"S.i.f.a. S.a.",
     "wof:parent_id":85863273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.9232,47.869331,1.9232,47.869331],
+  "bbox": [
+    1.9232,
+    47.869331,
+    1.9232,
+    47.869331
+],
   "geometry": {"coordinates":[1.9232,47.869331],"type":"Point"}
 }

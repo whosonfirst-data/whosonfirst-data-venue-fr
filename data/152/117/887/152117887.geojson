@@ -2,13 +2,14 @@
   "id": 152117887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.340271,48.874775,2.340271,48.874775",
     "geom:latitude":48.874775,
     "geom:longitude":2.340271,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Rue La Fayette 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152117887,
-    "wof:lastmodified":1449047436,
+    "wof:lastmodified":1466249293,
     "wof:name":"Atelier St Honore Sarl",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.340271,48.874775,2.340271,48.874775],
+  "bbox": [
+    2.340271,
+    48.874775,
+    2.340271,
+    48.874775
+],
   "geometry": {"coordinates":[2.340271,48.874775],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152116097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3403,48.879608,2.3403,48.879608",
     "geom:latitude":48.879608,
     "geom:longitude":2.3403,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sq Trudaine 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116097,
-    "wof:lastmodified":1449044980,
+    "wof:lastmodified":1466249160,
     "wof:name":"Aperia Sa",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3403,48.879608,2.3403,48.879608],
+  "bbox": [
+    2.3403,
+    48.879608,
+    2.3403,
+    48.879608
+],
   "geometry": {"coordinates":[2.3403,48.879608],"type":"Point"}
 }

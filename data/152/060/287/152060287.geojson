@@ -2,13 +2,14 @@
   "id": 152060287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.351961,48.873447,2.351961,48.873447",
     "geom:latitude":48.873447,
     "geom:longitude":2.351961,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rue Des Petites Ecuries 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060287,
-    "wof:lastmodified":1449048493,
+    "wof:lastmodified":1466246786,
     "wof:name":"Creations Karen Gerard",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.351961,48.873447,2.351961,48.873447],
+  "bbox": [
+    2.351961,
+    48.873447,
+    2.351961,
+    48.873447
+],
   "geometry": {"coordinates":[2.351961,48.873447],"type":"Point"}
 }

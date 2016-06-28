@@ -2,13 +2,14 @@
   "id": 152089039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.642294,44.84071,-0.642294,44.84071",
     "geom:latitude":44.84071,
     "geom:longitude":-0.642294,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Av De Verdun 33700 Merignac",
     "sg:city":"M\u00e9rignac",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152089039,
-    "wof:lastmodified":1449045244,
+    "wof:lastmodified":1466248090,
     "wof:name":"Denys Fontaine",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.642294,44.84071,-0.642294,44.84071],
+  "bbox": [
+    -0.642294,
+    44.84071,
+    -0.642294,
+    44.84071
+],
   "geometry": {"coordinates":[-0.642294,44.84071],"type":"Point"}
 }

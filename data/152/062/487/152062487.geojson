@@ -2,13 +2,14 @@
   "id": 152062487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.278036,48.857735,2.278036,48.857735",
     "geom:latitude":48.857735,
     "geom:longitude":2.278036,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Rue De Passy 75016 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873979,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152062487,
-    "wof:lastmodified":1449048585,
+    "wof:lastmodified":1466246893,
     "wof:name":"Rh Hazan",
     "wof:parent_id":85873979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.278036,48.857735,2.278036,48.857735],
+  "bbox": [
+    2.278036,
+    48.857735,
+    2.278036,
+    48.857735
+],
   "geometry": {"coordinates":[2.278036,48.857735],"type":"Point"}
 }

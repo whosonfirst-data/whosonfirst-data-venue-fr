@@ -2,13 +2,14 @@
   "id": 152540499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.390089,48.857464,2.390089,48.857464",
     "geom:latitude":48.857464,
     "geom:longitude":2.390089,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"123, Av. Philippe Auguste, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152540499,
-    "wof:lastmodified":1449046127,
+    "wof:lastmodified":1466250976,
     "wof:name":"Industries Graphiques De Paris S.a.",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.390089,48.857464,2.390089,48.857464],
+  "bbox": [
+    2.390089,
+    48.857464,
+    2.390089,
+    48.857464
+],
   "geometry": {"coordinates":[2.390089,48.857464],"type":"Point"}
 }

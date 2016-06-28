@@ -2,13 +2,14 @@
   "id": 169024399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.339452,48.870319,2.339452,48.870319",
     "geom:latitude":48.870319,
     "geom:longitude":2.339452,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"92, Rue Richelieu, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169024399,
-    "wof:lastmodified":1449034261,
+    "wof:lastmodified":1466246804,
     "wof:name":"Lafayette Travel S.a.",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.339452,48.870319,2.339452,48.870319],
+  "bbox": [
+    2.339452,
+    48.870319,
+    2.339452,
+    48.870319
+],
   "geometry": {"coordinates":[2.339452,48.870319],"type":"Point"}
 }

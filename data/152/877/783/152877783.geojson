@@ -2,13 +2,14 @@
   "id": 152877783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.850179,43.11396,5.850179,43.11396",
     "geom:latitude":43.11396,
     "geom:longitude":5.850179,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"274 avenue de Bruxelles 83500 La Seyne sur Mer",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152877783,
-    "wof:lastmodified":1449047543,
+    "wof:lastmodified":1466252167,
     "wof:name":"Therabel Industries Sa",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.850179,43.11396,5.850179,43.11396],
+  "bbox": [
+    5.850179,
+    43.11396,
+    5.850179,
+    43.11396
+],
   "geometry": {"coordinates":[5.850179,43.11396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152711849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32259,48.867901,2.32259,48.867901",
     "geom:latitude":48.867901,
     "geom:longitude":2.32259,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Rue Royale, 75008 Paris C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152711849,
-    "wof:lastmodified":1449048071,
+    "wof:lastmodified":1466251565,
     "wof:name":"S.a.b.i.c. France S.a.",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32259,48.867901,2.32259,48.867901],
+  "bbox": [
+    2.32259,
+    48.867901,
+    2.32259,
+    48.867901
+],
   "geometry": {"coordinates":[2.32259,48.867901],"type":"Point"}
 }

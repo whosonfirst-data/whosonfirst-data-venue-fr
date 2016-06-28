@@ -2,13 +2,14 @@
   "id": 152991967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.132145,49.473785,0.132145,49.473785",
     "geom:latitude":49.473785,
     "geom:longitude":0.132145,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"route du M\u00f4le Central 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152991967,
-    "wof:lastmodified":1449045761,
+    "wof:lastmodified":1466252537,
     "wof:name":"Siren Sa",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.132145,49.473785,0.132145,49.473785],
+  "bbox": [
+    0.132145,
+    49.473785,
+    0.132145,
+    49.473785
+],
   "geometry": {"coordinates":[0.132145,49.473785],"type":"Point"}
 }

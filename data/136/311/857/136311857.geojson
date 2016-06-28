@@ -2,13 +2,14 @@
   "id": 136311857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.392167,48.995701,2.392167,48.995701",
     "geom:latitude":48.995701,
     "geom:longitude":2.392167,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bis Rue Du Fer A Cheval 95200 Sarcelles",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136311857,
-    "wof:lastmodified":1449075219,
+    "wof:lastmodified":1466247453,
     "wof:name":"Boulanger Perrier",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.392167,48.995701,2.392167,48.995701],
+  "bbox": [
+    2.392167,
+    48.995701,
+    2.392167,
+    48.995701
+],
   "geometry": {"coordinates":[2.392167,48.995701],"type":"Point"}
 }

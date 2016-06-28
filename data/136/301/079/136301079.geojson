@@ -2,13 +2,14 @@
   "id": 136301079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06733,50.64304,3.06733,50.64304",
     "geom:latitude":50.64304,
     "geom:longitude":3.06733,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 rue de Courtrai; Lille; 59016",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301079,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246712,
     "wof:name":"Caisse D'epargne, De Flandre",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06733,50.64304,3.06733,50.64304],
+  "bbox": [
+    3.06733,
+    50.64304,
+    3.06733,
+    50.64304
+],
   "geometry": {"coordinates":[3.06733,50.64304],"type":"Point"}
 }

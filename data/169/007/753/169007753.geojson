@@ -2,13 +2,14 @@
   "id": 169007753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.299413,48.875847,2.299413,48.875847",
     "geom:latitude":48.875847,
     "geom:longitude":2.299413,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"38, Av. Hoche, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169007753,
-    "wof:lastmodified":1449035391,
+    "wof:lastmodified":1466245758,
     "wof:name":"J.s.b. S.a. - John Stephen B",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.299413,48.875847,2.299413,48.875847],
+  "bbox": [
+    2.299413,
+    48.875847,
+    2.299413,
+    48.875847
+],
   "geometry": {"coordinates":[2.299413,48.875847],"type":"Point"}
 }

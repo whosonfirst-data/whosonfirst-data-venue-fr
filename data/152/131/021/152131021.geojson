@@ -2,13 +2,14 @@
   "id": 152131021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348275,48.841194,2.348275,48.841194",
     "geom:latitude":48.841194,
     "geom:longitude":2.348275,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Rue Lhomond 75005 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873823,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131021,
-    "wof:lastmodified":1449045698,
+    "wof:lastmodified":1466249394,
     "wof:name":"Ab Millimetre Sa",
     "wof:parent_id":85873823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348275,48.841194,2.348275,48.841194],
+  "bbox": [
+    2.348275,
+    48.841194,
+    2.348275,
+    48.841194
+],
   "geometry": {"coordinates":[2.348275,48.841194],"type":"Point"}
 }

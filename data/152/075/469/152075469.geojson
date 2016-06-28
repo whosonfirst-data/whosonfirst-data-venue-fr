@@ -2,13 +2,14 @@
   "id": 152075469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.260971,48.828148,2.260971,48.828148",
     "geom:latitude":48.828148,
     "geom:longitude":2.260971,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Quai De Stalingrad 92130 Issy Les Moulineaux",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152075469,
-    "wof:lastmodified":1449046808,
+    "wof:lastmodified":1466246358,
     "wof:name":"Tps Snc",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.260971,48.828148,2.260971,48.828148],
+  "bbox": [
+    2.260971,
+    48.828148,
+    2.260971,
+    48.828148
+],
   "geometry": {"coordinates":[2.260971,48.828148],"type":"Point"}
 }

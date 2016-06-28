@@ -2,13 +2,14 @@
   "id": 152325867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.748134,48.580994,7.748134,48.580994",
     "geom:latitude":48.580994,
     "geom:longitude":7.748134,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Place Gutenberg, 67081 Strasbourg C\u00e9dex",
     "sg:city":"Berg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152325867,
-    "wof:lastmodified":1449046123,
+    "wof:lastmodified":1466250203,
     "wof:name":"C.c.i. De Strasbourg Et Du Bas Rhin - Chambre De Commerce Et D'industrie De Strasbourg Et Du Bas Rhi",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.748134,48.580994,7.748134,48.580994],
+  "bbox": [
+    7.748134,
+    48.580994,
+    7.748134,
+    48.580994
+],
   "geometry": {"coordinates":[7.748134,48.580994],"type":"Point"}
 }

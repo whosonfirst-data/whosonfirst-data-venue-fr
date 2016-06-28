@@ -2,13 +2,14 @@
   "id": 153001455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.307369,48.845619,2.307369,48.845619",
     "geom:latitude":48.845619,
     "geom:longitude":2.307369,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Jean Daudin 75015 Paris",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873839,
+        85683497,
         85633147,
         101751119,
         102068177,
-        85683497
+        85873839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":153001455,
-    "wof:lastmodified":1449040447,
+    "wof:lastmodified":1466245763,
     "wof:name":"Federation Francaise De Sport Adapte Ass",
     "wof:parent_id":85873839,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.307369,48.845619,2.307369,48.845619],
+  "bbox": [
+    2.307369,
+    48.845619,
+    2.307369,
+    48.845619
+],
   "geometry": {"coordinates":[2.307369,48.845619],"type":"Point"}
 }

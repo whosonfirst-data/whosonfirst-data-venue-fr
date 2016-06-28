@@ -2,13 +2,14 @@
   "id": 152157101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.34424,43.536976,1.34424,43.536976",
     "geom:latitude":43.536976,
     "geom:longitude":1.34424,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 B Rue Aristide Berges Zi Du Casque 31270 Cugnaux",
     "sg:classifiers":[
         {
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152157101,
-    "wof:lastmodified":1449048262,
+    "wof:lastmodified":1466249542,
     "wof:name":"Societe Coop De Prod Tcm Tolerie Climatisation Montage",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.34424,43.536976,1.34424,43.536976],
+  "bbox": [
+    1.34424,
+    43.536976,
+    1.34424,
+    43.536976
+],
   "geometry": {"coordinates":[1.34424,43.536976],"type":"Point"}
 }

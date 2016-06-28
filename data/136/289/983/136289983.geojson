@@ -2,13 +2,14 @@
   "id": 136289983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.853285,50.963539,1.853285,50.963539",
     "geom:latitude":50.963539,
     "geom:longitude":1.853285,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai Paul Devot 62100 Calais",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794581,
+        85683255,
         85633147,
         101750223,
         102072387,
-        85683255
+        85794581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136289983,
-    "wof:lastmodified":1449076035,
+    "wof:lastmodified":1466246225,
     "wof:name":"Transports Gondrand Freres",
     "wof:parent_id":85794581,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.853285,50.963539,1.853285,50.963539],
+  "bbox": [
+    1.853285,
+    50.963539,
+    1.853285,
+    50.963539
+],
   "geometry": {"coordinates":[1.853285,50.963539],"type":"Point"}
 }

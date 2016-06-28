@@ -2,13 +2,14 @@
   "id": 152942243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.318885,48.883629,2.318885,48.883629",
     "geom:latitude":48.883629,
     "geom:longitude":2.318885,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"140-144",
     "sg:city":"Malesherbes; Paris; 75017",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873849,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152942243,
-    "wof:lastmodified":1449046419,
+    "wof:lastmodified":1466252390,
     "wof:name":"Eurotunnel S.a.",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.318885,48.883629,2.318885,48.883629],
+  "bbox": [
+    2.318885,
+    48.883629,
+    2.318885,
+    48.883629
+],
   "geometry": {"coordinates":[2.318885,48.883629],"type":"Point"}
 }

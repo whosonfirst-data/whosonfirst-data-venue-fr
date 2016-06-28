@@ -2,13 +2,14 @@
   "id": 152058621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.760711,48.599174,7.760711,48.599174",
     "geom:latitude":48.599174,
     "geom:longitude":7.760711,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 rue Jean Wenger Valentin 67958 STRASBOURG CEDEX 9",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152058621,
-    "wof:lastmodified":1449044984,
+    "wof:lastmodified":1466246753,
     "wof:name":"Cial Sa",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.760711,48.599174,7.760711,48.599174],
+  "bbox": [
+    7.760711,
+    48.599174,
+    7.760711,
+    48.599174
+],
   "geometry": {"coordinates":[7.760711,48.599174],"type":"Point"}
 }

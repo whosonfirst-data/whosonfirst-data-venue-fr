@@ -2,13 +2,14 @@
   "id": 169159605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.465043,47.270756,-1.465043,47.270756",
     "geom:latitude":47.270756,
     "geom:longitude":-1.465043,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Rue Cl\u00e9ment Ader, 44980 Sainte Luce sur Loire",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169159605,
-    "wof:lastmodified":1449033079,
+    "wof:lastmodified":1466248417,
     "wof:name":"Simop S.a.r.l.",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.465043,47.270756,-1.465043,47.270756],
+  "bbox": [
+    -1.465043,
+    47.270756,
+    -1.465043,
+    47.270756
+],
   "geometry": {"coordinates":[-1.465043,47.270756],"type":"Point"}
 }

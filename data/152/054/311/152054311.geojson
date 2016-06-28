@@ -2,13 +2,14 @@
   "id": 152054311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.473579,47.167931,-1.473579,47.167931",
     "geom:latitude":47.167931,
     "geom:longitude":-1.473579,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rue De La Maladrie 44124 Vertou Cedex",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152054311,
-    "wof:lastmodified":1449046478,
+    "wof:lastmodified":1466246198,
     "wof:name":"Christeyns",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.473579,47.167931,-1.473579,47.167931],
+  "bbox": [
+    -1.473579,
+    47.167931,
+    -1.473579,
+    47.167931
+],
   "geometry": {"coordinates":[-1.473579,47.167931],"type":"Point"}
 }

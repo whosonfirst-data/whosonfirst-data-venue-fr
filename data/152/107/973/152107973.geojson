@@ -2,13 +2,14 @@
   "id": 152107973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.588657,44.850971,-0.588657,44.850971",
     "geom:latitude":44.850971,
     "geom:longitude":-0.588657,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Rue De La Croix De Seguey 33000 Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897681,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897681
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152107973,
-    "wof:lastmodified":1449044305,
+    "wof:lastmodified":1466249185,
     "wof:name":"Omnium Dentaire Sa Laurent Seguy",
     "wof:parent_id":85897681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.588657,44.850971,-0.588657,44.850971],
+  "bbox": [
+    -0.588657,
+    44.850971,
+    -0.588657,
+    44.850971
+],
   "geometry": {"coordinates":[-0.588657,44.850971],"type":"Point"}
 }

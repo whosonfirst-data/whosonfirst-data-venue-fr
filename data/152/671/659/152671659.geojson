@@ -2,13 +2,14 @@
   "id": 152671659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.385597,48.849144,2.385597,48.849144",
     "geom:latitude":48.849144,
     "geom:longitude":2.385597,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13, Rue de Reuilly, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152671659,
-    "wof:lastmodified":1449045359,
+    "wof:lastmodified":1466251409,
     "wof:name":"Placages Du Centre S.a.",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.385597,48.849144,2.385597,48.849144],
+  "bbox": [
+    2.385597,
+    48.849144,
+    2.385597,
+    48.849144
+],
   "geometry": {"coordinates":[2.385597,48.849144],"type":"Point"}
 }

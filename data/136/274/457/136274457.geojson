@@ -2,13 +2,14 @@
   "id": 136274457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.318243,48.813435,2.318243,48.813435",
     "geom:latitude":48.813435,
     "geom:longitude":2.318243,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 R Perrier",
     "sg:city":"Montrouge",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274457,
-    "wof:lastmodified":1449075080,
+    "wof:lastmodified":1466245541,
     "wof:name":"A D E P A",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.318243,48.813435,2.318243,48.813435],
+  "bbox": [
+    2.318243,
+    48.813435,
+    2.318243,
+    48.813435
+],
   "geometry": {"coordinates":[2.318243,48.813435],"type":"Point"}
 }

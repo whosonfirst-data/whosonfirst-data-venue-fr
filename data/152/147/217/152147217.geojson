@@ -2,13 +2,14 @@
   "id": 152147217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.481825,48.798279,2.481825,48.798279",
     "geom:latitude":48.798279,
     "geom:longitude":2.481825,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Bd De Creteil 94106 St Maur Des Foss\u00e9es Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152147217,
-    "wof:lastmodified":1449048421,
+    "wof:lastmodified":1466249514,
     "wof:name":"Mash Sarl",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.481825,48.798279,2.481825,48.798279],
+  "bbox": [
+    2.481825,
+    48.798279,
+    2.481825,
+    48.798279
+],
   "geometry": {"coordinates":[2.481825,48.798279],"type":"Point"}
 }

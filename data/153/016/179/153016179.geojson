@@ -2,13 +2,14 @@
   "id": 153016179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.296559,48.871548,2.296559,48.871548",
     "geom:latitude":48.871548,
     "geom:longitude":2.296559,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"79 avenue Marceau 75116 Paris",
     "sg:classifiers":[
         {
@@ -26,13 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497,
-        85873973,
-        102069797
+        85873853,
+        102069797,
+        85873973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":153016179,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1466246019,
     "wof:name":"Executive Interim Management France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.296559,48.871548,2.296559,48.871548],
+  "bbox": [
+    2.296559,
+    48.871548,
+    2.296559,
+    48.871548
+],
   "geometry": {"coordinates":[2.296559,48.871548],"type":"Point"}
 }

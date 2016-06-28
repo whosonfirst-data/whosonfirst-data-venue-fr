@@ -2,13 +2,14 @@
   "id": 152074619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319635,48.844814,2.319635,48.844814",
     "geom:latitude":48.844814,
     "geom:longitude":2.319635,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"115 rue de Vaugirard 75015 Paris",
     "sg:classifiers":[
         {
@@ -26,13 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497,
-        85873961,
-        102069645
+        85873837,
+        102069645,
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152074619,
-    "wof:lastmodified":1449046795,
+    "wof:lastmodified":1466246181,
     "wof:name":"Agence Vandystadt S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319635,48.844814,2.319635,48.844814],
+  "bbox": [
+    2.319635,
+    48.844814,
+    2.319635,
+    48.844814
+],
   "geometry": {"coordinates":[2.319635,48.844814],"type":"Point"}
 }

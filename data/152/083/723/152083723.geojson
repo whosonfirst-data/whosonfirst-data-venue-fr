@@ -2,13 +2,14 @@
   "id": 152083723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.41506,43.541874,1.41506,43.541874",
     "geom:latitude":43.541874,
     "geom:longitude":1.41506,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"57",
     "sg:city":"Espagne 31120 Portet sur Garonne",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152083723,
-    "wof:lastmodified":1449046501,
+    "wof:lastmodified":1466247890,
     "wof:name":"Societe Nouvelle Martineau",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.41506,43.541874,1.41506,43.541874],
+  "bbox": [
+    1.41506,
+    43.541874,
+    1.41506,
+    43.541874
+],
   "geometry": {"coordinates":[1.41506,43.541874],"type":"Point"}
 }

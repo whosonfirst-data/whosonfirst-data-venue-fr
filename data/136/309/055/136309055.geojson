@@ -2,13 +2,14 @@
   "id": 136309055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.282304,48.860973,2.282304,48.860973",
     "geom:latitude":48.860973,
     "geom:longitude":2.282304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue Bellini; Paris; 75763",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873979,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136309055,
-    "wof:lastmodified":1449075188,
+    "wof:lastmodified":1466247153,
     "wof:name":"Thomas Cook, Bankers France",
     "wof:parent_id":85873979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.282304,48.860973,2.282304,48.860973],
+  "bbox": [
+    2.282304,
+    48.860973,
+    2.282304,
+    48.860973
+],
   "geometry": {"coordinates":[2.282304,48.860973],"type":"Point"}
 }

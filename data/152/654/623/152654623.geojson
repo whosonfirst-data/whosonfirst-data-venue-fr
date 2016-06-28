@@ -2,13 +2,14 @@
   "id": 152654623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.553478,44.887779,-0.553478,44.887779",
     "geom:latitude":44.887779,
     "geom:longitude":-0.553478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. des Trois Cardinaux",
     "sg:city":"Bordeaux C\u00e9dex",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072453,
-        85633147,
         85683243,
-        85794439
+        85633147,
+        85794439,
+        102072453
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152654623,
-    "wof:lastmodified":1449045857,
+    "wof:lastmodified":1466251480,
     "wof:name":"Orsud S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.553478,44.887779,-0.553478,44.887779],
+  "bbox": [
+    -0.553478,
+    44.887779,
+    -0.553478,
+    44.887779
+],
   "geometry": {"coordinates":[-0.553478,44.887779],"type":"Point"}
 }

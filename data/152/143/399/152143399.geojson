@@ -2,13 +2,14 @@
   "id": 152143399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.318003,48.789021,2.318003,48.789021",
     "geom:latitude":48.789021,
     "geom:longitude":2.318003,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Des Bas Longchamps 92220 Bagneux",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152143399,
-    "wof:lastmodified":1449048134,
+    "wof:lastmodified":1466249505,
     "wof:name":"Imtra Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.318003,48.789021,2.318003,48.789021],
+  "bbox": [
+    2.318003,
+    48.789021,
+    2.318003,
+    48.789021
+],
   "geometry": {"coordinates":[2.318003,48.789021],"type":"Point"}
 }

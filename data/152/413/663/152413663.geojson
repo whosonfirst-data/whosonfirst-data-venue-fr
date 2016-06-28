@@ -2,13 +2,14 @@
   "id": 152413663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326965,48.885387,2.326965,48.885387",
     "geom:latitude":48.885387,
     "geom:longitude":2.326965,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Place de la Pyramide - Tour Atlantique, 92911 Paris la D\u00e9fense 9",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152413663,
-    "wof:lastmodified":1449045040,
+    "wof:lastmodified":1466250505,
     "wof:name":"Dsm France S.a.s.",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326965,48.885387,2.326965,48.885387],
+  "bbox": [
+    2.326965,
+    48.885387,
+    2.326965,
+    48.885387
+],
   "geometry": {"coordinates":[2.326965,48.885387],"type":"Point"}
 }

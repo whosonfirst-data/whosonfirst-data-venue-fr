@@ -2,13 +2,14 @@
   "id": 153030873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.420647,48.874863,2.420647,48.874863",
     "geom:latitude":48.874863,
     "geom:longitude":2.420647,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 rue Michelet 93170 Bagnolet",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153030873,
-    "wof:lastmodified":1449040512,
+    "wof:lastmodified":1466247116,
     "wof:name":"Mouzon Air Et Techniques S.a.",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.420647,48.874863,2.420647,48.874863],
+  "bbox": [
+    2.420647,
+    48.874863,
+    2.420647,
+    48.874863
+],
   "geometry": {"coordinates":[2.420647,48.874863],"type":"Point"}
 }

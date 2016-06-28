@@ -2,13 +2,14 @@
   "id": 169208409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.557668,47.209679,-1.557668,47.209679",
     "geom:latitude":47.209679,
     "geom:longitude":-1.557668,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, Quai de Tourville, 44000 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169208409,
-    "wof:lastmodified":1449033067,
+    "wof:lastmodified":1466249066,
     "wof:name":"T\u00f4lerie De La Loire S.a.",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.557668,47.209679,-1.557668,47.209679],
+  "bbox": [
+    -1.557668,
+    47.209679,
+    -1.557668,
+    47.209679
+],
   "geometry": {"coordinates":[-1.557668,47.209679],"type":"Point"}
 }

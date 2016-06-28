@@ -2,13 +2,14 @@
   "id": 152316861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.125124,47.990314,-1.125124,47.990314",
     "geom:latitude":47.990314,
     "geom:longitude":-1.125124,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Le Relais 35370 Br\u00e9al sous Vitr\u00e9",
     "sg:city":"Argentr\u00e9-du-Plessis",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152316861,
-    "wof:lastmodified":1449047433,
+    "wof:lastmodified":1466250069,
     "wof:name":"Brialys S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.125124,47.990314,-1.125124,47.990314],
+  "bbox": [
+    -1.125124,
+    47.990314,
+    -1.125124,
+    47.990314
+],
   "geometry": {"coordinates":[-1.125124,47.990314],"type":"Point"}
 }

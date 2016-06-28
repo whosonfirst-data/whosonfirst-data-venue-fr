@@ -2,13 +2,14 @@
   "id": 152064227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750105,48.579906,7.750105,48.579906",
     "geom:latitude":48.579906,
     "geom:longitude":7.750105,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Vieux March\u00e9 Aux Poissons 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152064227,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247124,
     "wof:name":"Banque Populaire",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750105,48.579906,7.750105,48.579906],
+  "bbox": [
+    7.750105,
+    48.579906,
+    7.750105,
+    48.579906
+],
   "geometry": {"coordinates":[7.750105,48.579906],"type":"Point"}
 }

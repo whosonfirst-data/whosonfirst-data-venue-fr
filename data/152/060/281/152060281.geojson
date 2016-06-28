@@ -2,13 +2,14 @@
   "id": 152060281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.373534,48.874676,2.373534,48.874676",
     "geom:latitude":48.874676,
     "geom:longitude":2.373534,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Boulevard De La Villette 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152060281,
-    "wof:lastmodified":1449048495,
+    "wof:lastmodified":1466246785,
     "wof:name":"Creations Jenny",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.373534,48.874676,2.373534,48.874676],
+  "bbox": [
+    2.373534,
+    48.874676,
+    2.373534,
+    48.874676
+],
   "geometry": {"coordinates":[2.373534,48.874676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152483555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.622175,48.811619,2.622175,48.811619",
     "geom:latitude":48.811619,
     "geom:longitude":2.622175,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"77437 Marne la Vall\u00e9e C\u00e9dex 2^^Rue Lilienthal - ZAC de la Malnoue Ouest",
     "sg:city":"Emerainville",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152483555,
-    "wof:lastmodified":1449047937,
+    "wof:lastmodified":1466250861,
     "wof:name":"Forum S.a.",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.622175,48.811619,2.622175,48.811619],
+  "bbox": [
+    2.622175,
+    48.811619,
+    2.622175,
+    48.811619
+],
   "geometry": {"coordinates":[2.622175,48.811619],"type":"Point"}
 }

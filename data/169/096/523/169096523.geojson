@@ -2,13 +2,14 @@
   "id": 169096523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.79189,48.54797,7.79189,48.54797",
     "geom:latitude":48.54797,
     "geom:longitude":7.79189,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"115, Rue du Rhin Napol\u00e9on, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897709,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169096523,
-    "wof:lastmodified":1449033758,
+    "wof:lastmodified":1466247792,
     "wof:name":"Pneu Cap S.a.",
     "wof:parent_id":85897709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.79189,48.54797,7.79189,48.54797],
+  "bbox": [
+    7.79189,
+    48.54797,
+    7.79189,
+    48.54797
+],
   "geometry": {"coordinates":[7.79189,48.54797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152066197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287274,48.87479,2.287274,48.87479",
     "geom:latitude":48.87479,
     "geom:longitude":2.287274,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Le Sueur 75116 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152066197,
-    "wof:lastmodified":1449045654,
+    "wof:lastmodified":1466247236,
     "wof:name":"Compagnie De Forage Cofor (cofor)",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287274,48.87479,2.287274,48.87479],
+  "bbox": [
+    2.287274,
+    48.87479,
+    2.287274,
+    48.87479
+],
   "geometry": {"coordinates":[2.287274,48.87479],"type":"Point"}
 }

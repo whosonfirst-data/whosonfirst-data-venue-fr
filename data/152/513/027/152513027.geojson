@@ -2,13 +2,14 @@
   "id": 152513027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.59113,47.239891,-1.59113,47.239891",
     "geom:latitude":47.239891,
     "geom:longitude":-1.59113,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"185, Rte de Vannes, 44800 Saint Herblain",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897693,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152513027,
-    "wof:lastmodified":1449047355,
+    "wof:lastmodified":1466250859,
     "wof:name":"Guillon Informatique S.a.",
     "wof:parent_id":85897693,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.59113,47.239891,-1.59113,47.239891],
+  "bbox": [
+    -1.59113,
+    47.239891,
+    -1.59113,
+    47.239891
+],
   "geometry": {"coordinates":[-1.59113,47.239891],"type":"Point"}
 }

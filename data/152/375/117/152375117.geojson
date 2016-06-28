@@ -2,13 +2,14 @@
   "id": 152375117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.372096,48.90419,2.372096,48.90419",
     "geom:latitude":48.90419,
     "geom:longitude":2.372096,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"90, Rue de la Haie Coq - B\u00e2t. 244 le LEM N\u00b0030, 93536 Aubervilliers C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874001,
+        85683475,
         85633147,
         101749071,
         102071949,
-        85683475
+        85874001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152375117,
-    "wof:lastmodified":1449044457,
+    "wof:lastmodified":1466250419,
     "wof:name":"Compagnie Fran\u00e7aise De Diffusion S.a.",
     "wof:parent_id":85874001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.372096,48.90419,2.372096,48.90419],
+  "bbox": [
+    2.372096,
+    48.90419,
+    2.372096,
+    48.90419
+],
   "geometry": {"coordinates":[2.372096,48.90419],"type":"Point"}
 }

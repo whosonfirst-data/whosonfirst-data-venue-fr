@@ -2,13 +2,14 @@
   "id": 152409145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.06281,50.637184,3.06281,50.637184",
     "geom:latitude":50.637184,
     "geom:longitude":3.06281,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 150, 59001 Lille C\u00e9dex^^23, Rue des Jardins, 59000 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152409145,
-    "wof:lastmodified":1449046206,
+    "wof:lastmodified":1466250476,
     "wof:name":"Districom - Sodep Nord S.a.",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.06281,50.637184,3.06281,50.637184],
+  "bbox": [
+    3.06281,
+    50.637184,
+    3.06281,
+    50.637184
+],
   "geometry": {"coordinates":[3.06281,50.637184],"type":"Point"}
 }

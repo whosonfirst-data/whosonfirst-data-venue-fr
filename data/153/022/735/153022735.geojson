@@ -2,13 +2,14 @@
   "id": 153022735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328007,48.887012,2.328007,48.887012",
     "geom:latitude":48.887012,
     "geom:longitude":2.328007,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rue Ganneron 75018 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153022735,
-    "wof:lastmodified":1449040491,
+    "wof:lastmodified":1466246420,
     "wof:name":"Ect Sarl",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328007,48.887012,2.328007,48.887012],
+  "bbox": [
+    2.328007,
+    48.887012,
+    2.328007,
+    48.887012
+],
   "geometry": {"coordinates":[2.328007,48.887012],"type":"Point"}
 }

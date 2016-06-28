@@ -2,13 +2,14 @@
   "id": 152045213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.519258,47.226913,-1.519258,47.226913",
     "geom:latitude":47.226913,
     "geom:longitude":-1.519258,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Bld Louis Millet 44319 Nantes Cedex 3",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152045213,
-    "wof:lastmodified":1449048379,
+    "wof:lastmodified":1466245458,
     "wof:name":"College Lycee Notre Dame De Toutes Aides",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.519258,47.226913,-1.519258,47.226913],
+  "bbox": [
+    -1.519258,
+    47.226913,
+    -1.519258,
+    47.226913
+],
   "geometry": {"coordinates":[-1.519258,47.226913],"type":"Point"}
 }

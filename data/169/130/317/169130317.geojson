@@ -2,13 +2,14 @@
   "id": 169130317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.750348,48.603668,7.750348,48.603668",
     "geom:latitude":48.603668,
     "geom:longitude":7.750348,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Square du Ch\u00e2teau, 67300 Schiltigheim",
     "sg:city":"Schiltigheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169130317,
-    "wof:lastmodified":1449033825,
+    "wof:lastmodified":1466248220,
     "wof:name":"S.e.r.u.e. S.a.r.l.",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.750348,48.603668,7.750348,48.603668],
+  "bbox": [
+    7.750348,
+    48.603668,
+    7.750348,
+    48.603668
+],
   "geometry": {"coordinates":[7.750348,48.603668],"type":"Point"}
 }

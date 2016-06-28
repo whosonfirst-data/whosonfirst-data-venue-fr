@@ -2,13 +2,14 @@
   "id": 152067535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.750641,33.333801,-96.750641,33.333801",
     "geom:latitude":33.333801,
     "geom:longitude":-96.750641,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3-5 Rue St Georges 75009 Corbeil Essonnes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868913,
+        85688753,
         85633793,
         101726035,
         102086765,
-        85688753
+        85868913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152067535,
-    "wof:lastmodified":1449044599,
+    "wof:lastmodified":1466247394,
     "wof:name":"Saged",
     "wof:parent_id":85868913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.750641,33.333801,-96.750641,33.333801],
+  "bbox": [
+    -96.750641,
+    33.333801,
+    -96.750641,
+    33.333801
+],
   "geometry": {"coordinates":[-96.750641,33.333801],"type":"Point"}
 }

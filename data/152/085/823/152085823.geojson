@@ -2,13 +2,14 @@
   "id": 152085823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.322136,48.885921,2.322136,48.885921",
     "geom:latitude":48.885921,
     "geom:longitude":2.322136,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Rue La Condamine 75017 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152085823,
-    "wof:lastmodified":1449045454,
+    "wof:lastmodified":1466247999,
     "wof:name":"Decors Et Tradition Detrad (detrad)",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.322136,48.885921,2.322136,48.885921],
+  "bbox": [
+    2.322136,
+    48.885921,
+    2.322136,
+    48.885921
+],
   "geometry": {"coordinates":[2.322136,48.885921],"type":"Point"}
 }

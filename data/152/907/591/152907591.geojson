@@ -2,13 +2,14 @@
   "id": 152907591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.244684,48.840252,2.244684,48.840252",
     "geom:latitude":48.840252,
     "geom:longitude":2.244684,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Rue De Paris 92100 Boulogne Billancourt",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152907591,
-    "wof:lastmodified":1449048568,
+    "wof:lastmodified":1466252259,
     "wof:name":"Action Commerciale",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.244684,48.840252,2.244684,48.840252],
+  "bbox": [
+    2.244684,
+    48.840252,
+    2.244684,
+    48.840252
+],
   "geometry": {"coordinates":[2.244684,48.840252],"type":"Point"}
 }

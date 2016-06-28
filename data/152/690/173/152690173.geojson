@@ -2,13 +2,14 @@
   "id": 152690173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.242668,25.732655,-80.242668,25.732655",
     "geom:latitude":25.732655,
     "geom:longitude":-80.242668,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40, Av. du Duc de l'Orge, 33127 Saint Jean d'Illac",
     "sg:city":"Martignas-sur-Jalle",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811627,
+        85688651,
         85633793,
         85933669,
         102085771,
-        85688651
+        85811627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152690173,
-    "wof:lastmodified":1449046748,
+    "wof:lastmodified":1466251490,
     "wof:name":"Querandeau Bois S.a.",
     "wof:parent_id":85811627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.242668,25.732655,-80.242668,25.732655],
-  "geometry": {"coordinates":[-80.242668,25.732655],"type":"Point"}
+  "bbox": [
+    -80.242668,
+    25.732655,
+    -80.242668,
+    25.732655
+],
+  "geometry": {"coordinates":[-80.24266799999999,25.732655],"type":"Point"}
 }

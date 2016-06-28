@@ -2,13 +2,14 @@
   "id": 152826179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.745931,48.467785,-0.745931,48.467785",
     "geom:latitude":48.467785,
     "geom:longitude":-0.745931,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 12, 61350 Passais la Conception^^28, Rue de Bretagne, 61350 Passais la Conception",
     "sg:city":"Passais",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152826179,
-    "wof:lastmodified":1449047656,
+    "wof:lastmodified":1466251817,
     "wof:name":"Transport Granger Garnier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.745931,48.467785,-0.745931,48.467785],
+  "bbox": [
+    -0.745931,
+    48.467785,
+    -0.745931,
+    48.467785
+],
   "geometry": {"coordinates":[-0.745931,48.467785],"type":"Point"}
 }

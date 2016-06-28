@@ -2,13 +2,14 @@
   "id": 152048797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.331304,48.868202,2.331304,48.868202",
     "geom:latitude":48.868202,
     "geom:longitude":2.331304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Rue Danielle Casanova 75002 Paris",
     "sg:classifiers":[
         {
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873799,
-        102067221
+        85873791,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":152048797,
-    "wof:lastmodified":1449045919,
+    "wof:lastmodified":1466245810,
     "wof:name":"Hotel Le Stendhal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.331304,48.868202,2.331304,48.868202],
+  "bbox": [
+    2.331304,
+    48.868202,
+    2.331304,
+    48.868202
+],
   "geometry": {"coordinates":[2.331304,48.868202],"type":"Point"}
 }

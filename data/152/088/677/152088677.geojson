@@ -2,13 +2,14 @@
   "id": 152088677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.904701,37.35289,-121.904701,37.35289",
     "geom:latitude":37.35289,
     "geom:longitude":-121.904701,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Av Des Ch\u00e2taigniers 95150 Tavergny",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869195,
+        85688637,
         85633793,
         85922347,
         102081673,
-        85688637,
+        85869195,
         85887629
     ],
     "wof:breaches":[],
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":152088677,
-    "wof:lastmodified":1449047894,
+    "wof:lastmodified":1466247996,
     "wof:name":"Chaudronnerie Tolerie Aragonaise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.904701,37.35289,-121.904701,37.35289],
+  "bbox": [
+    -121.904701,
+    37.35289,
+    -121.904701,
+    37.35289
+],
   "geometry": {"coordinates":[-121.904701,37.35289],"type":"Point"}
 }

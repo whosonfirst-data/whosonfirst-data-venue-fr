@@ -2,13 +2,14 @@
   "id": 136311643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.278698,48.866966,2.278698,48.866966",
     "geom:latitude":48.866966,
     "geom:longitude":2.278698,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Avenue Victor Hugo 75116 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873981,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873981
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136311643,
-    "wof:lastmodified":1449075221,
+    "wof:lastmodified":1466247414,
     "wof:name":"Carton Victor Hugo Sarl",
     "wof:parent_id":85873981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.278698,48.866966,2.278698,48.866966],
+  "bbox": [
+    2.278698,
+    48.866966,
+    2.278698,
+    48.866966
+],
   "geometry": {"coordinates":[2.278698,48.866966],"type":"Point"}
 }

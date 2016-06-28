@@ -2,13 +2,14 @@
   "id": 152857547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.05768,49.4375,1.05768,49.4375",
     "geom:latitude":49.4375,
     "geom:longitude":1.05768,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 quai de France 76100 Rouen",
     "sg:classifiers":[],
     "sg:orig_category":"Oil Additives",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152857547,
-    "wof:lastmodified":1449047294,
+    "wof:lastmodified":1466252085,
     "wof:name":"Lubrizol France Sa",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.05768,49.4375,1.05768,49.4375],
+  "bbox": [
+    1.05768,
+    49.4375,
+    1.05768,
+    49.4375
+],
   "geometry": {"coordinates":[1.05768,49.4375],"type":"Point"}
 }

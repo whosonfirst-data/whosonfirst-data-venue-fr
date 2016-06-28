@@ -2,13 +2,14 @@
   "id": 152910523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.330225,48.853786,2.330225,48.853786",
     "geom:latitude":48.853786,
     "geom:longitude":2.330225,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Rue Des Saints P\u00e8res 75006 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873831,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152910523,
-    "wof:lastmodified":1449046242,
+    "wof:lastmodified":1466252261,
     "wof:name":"Editions Grasset",
     "wof:parent_id":85873831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.330225,48.853786,2.330225,48.853786],
+  "bbox": [
+    2.330225,
+    48.853786,
+    2.330225,
+    48.853786
+],
   "geometry": {"coordinates":[2.330225,48.853786],"type":"Point"}
 }

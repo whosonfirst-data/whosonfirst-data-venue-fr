@@ -2,13 +2,14 @@
   "id": 152872269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.335358,48.921124,2.335358,48.921124",
     "geom:latitude":48.921124,
     "geom:longitude":2.335358,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Pierre Nicolau 93582 St Ouen",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152872269,
-    "wof:lastmodified":1449044716,
+    "wof:lastmodified":1466252139,
     "wof:name":"Bellegarde Sa",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.335358,48.921124,2.335358,48.921124],
+  "bbox": [
+    2.335358,
+    48.921124,
+    2.335358,
+    48.921124
+],
   "geometry": {"coordinates":[2.335358,48.921124],"type":"Point"}
 }

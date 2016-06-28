@@ -2,13 +2,14 @@
   "id": 152679737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.308545,48.827175,2.308545,48.827175",
     "geom:latitude":48.827175,
     "geom:longitude":2.308545,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37, Bd Brune, 75014 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152679737,
-    "wof:lastmodified":1449047268,
+    "wof:lastmodified":1466251559,
     "wof:name":"Prima S.a.",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.308545,48.827175,2.308545,48.827175],
+  "bbox": [
+    2.308545,
+    48.827175,
+    2.308545,
+    48.827175
+],
   "geometry": {"coordinates":[2.308545,48.827175],"type":"Point"}
 }

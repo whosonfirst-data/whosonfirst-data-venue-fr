@@ -2,13 +2,14 @@
   "id": 152061157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.319994,48.869427,2.319994,48.869427",
     "geom:latitude":48.869427,
     "geom:longitude":2.319994,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rue Du Faubourg St Honore 75001 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152061157,
-    "wof:lastmodified":1449047638,
+    "wof:lastmodified":1466246821,
     "wof:name":"Jean Claude Jitrois Paris Sa",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.319994,48.869427,2.319994,48.869427],
+  "bbox": [
+    2.319994,
+    48.869427,
+    2.319994,
+    48.869427
+],
   "geometry": {"coordinates":[2.319994,48.869427],"type":"Point"}
 }

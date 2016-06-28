@@ -2,13 +2,14 @@
   "id": 152044385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.21235,48.813435,2.21235,48.813435",
     "geom:latitude":48.813435,
     "geom:longitude":2.21235,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Rue De La Garenne 92310 S\u00e8vres",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152044385,
-    "wof:lastmodified":1449046709,
+    "wof:lastmodified":1466245413,
     "wof:name":"Association Nationale Pour La Formation Automobile",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.21235,48.813435,2.21235,48.813435],
+  "bbox": [
+    2.21235,
+    48.813435,
+    2.21235,
+    48.813435
+],
   "geometry": {"coordinates":[2.21235,48.813435],"type":"Point"}
 }

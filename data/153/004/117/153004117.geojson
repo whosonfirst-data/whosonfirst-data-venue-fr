@@ -2,13 +2,14 @@
   "id": 153004117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.119159,50.656078,3.119159,50.656078",
     "geom:latitude":50.656078,
     "geom:longitude":3.119159,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 rue du Centre 59290 Wasquehal",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794547,
+        85683445,
         85633147,
         101751547,
         102071877,
-        85683445
+        85794547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":153004117,
-    "wof:lastmodified":1449040510,
+    "wof:lastmodified":1466245325,
     "wof:name":"Debidia Sa",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.119159,50.656078,3.119159,50.656078],
+  "bbox": [
+    3.119159,
+    50.656078,
+    3.119159,
+    50.656078
+],
   "geometry": {"coordinates":[3.119159,50.656078],"type":"Point"}
 }

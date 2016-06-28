@@ -2,13 +2,14 @@
   "id": 152221427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.705647,48.604553,7.705647,48.604553",
     "geom:latitude":48.604553,
     "geom:longitude":7.705647,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 All De L'Euro 67031 Strasbourg Oberhausbergen",
     "sg:city":"Berg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794511,
+        85683221,
         85633147,
         101753005,
         102068507,
-        85683221
+        85794511
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152221427,
-    "wof:lastmodified":1449046342,
+    "wof:lastmodified":1466249795,
     "wof:name":"Garage Jean Claude Knoch",
     "wof:parent_id":85794511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.705647,48.604553,7.705647,48.604553],
+  "bbox": [
+    7.705647,
+    48.604553,
+    7.705647,
+    48.604553
+],
   "geometry": {"coordinates":[7.705647,48.604553],"type":"Point"}
 }

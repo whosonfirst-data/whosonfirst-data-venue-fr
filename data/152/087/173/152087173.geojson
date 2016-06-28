@@ -2,13 +2,14 @@
   "id": 152087173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341395,48.866837,2.341395,48.866837",
     "geom:latitude":48.866837,
     "geom:longitude":2.341395,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12 R Notre-Dame des Victoires 75002 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152087173,
-    "wof:lastmodified":1449046446,
+    "wof:lastmodified":1466247821,
     "wof:name":"Sk Creations Sarl",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341395,48.866837,2.341395,48.866837],
+  "bbox": [
+    2.341395,
+    48.866837,
+    2.341395,
+    48.866837
+],
   "geometry": {"coordinates":[2.341395,48.866837],"type":"Point"}
 }

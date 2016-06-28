@@ -2,13 +2,14 @@
   "id": 152108657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.387775,48.859722,2.387775,48.859722",
     "geom:latitude":48.859722,
     "geom:longitude":2.387775,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"169 rue de la Roquette 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Heat Shrink Torches",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152108657,
-    "wof:lastmodified":1449044374,
+    "wof:lastmodified":1466249124,
     "wof:name":"Guilbert Express Sa",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.387775,48.859722,2.387775,48.859722],
+  "bbox": [
+    2.387775,
+    48.859722,
+    2.387775,
+    48.859722
+],
   "geometry": {"coordinates":[2.387775,48.859722],"type":"Point"}
 }

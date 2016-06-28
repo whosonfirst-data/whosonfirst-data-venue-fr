@@ -2,13 +2,14 @@
   "id": 152156235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41924,48.858223,2.41924,48.858223",
     "geom:latitude":48.858223,
     "geom:longitude":2.41924,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Rue Gustave Nickles 93170 Bagnolet",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152156235,
-    "wof:lastmodified":1449045215,
+    "wof:lastmodified":1466249545,
     "wof:name":"Service Depannage Frigorifique Sedef (sedef)",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41924,48.858223,2.41924,48.858223],
+  "bbox": [
+    2.41924,
+    48.858223,
+    2.41924,
+    48.858223
+],
   "geometry": {"coordinates":[2.41924,48.858223],"type":"Point"}
 }

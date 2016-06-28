@@ -2,13 +2,14 @@
   "id": 152151027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.399924,48.964188,2.399924,48.964188",
     "geom:latitude":48.964188,
     "geom:longitude":2.399924,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rue Des Gaillards 95140 Garges Les Gonesse",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152151027,
-    "wof:lastmodified":1449044340,
+    "wof:lastmodified":1466249530,
     "wof:name":"Pierre Callet Sarl",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.399924,48.964188,2.399924,48.964188],
+  "bbox": [
+    2.399924,
+    48.964188,
+    2.399924,
+    48.964188
+],
   "geometry": {"coordinates":[2.399924,48.964188],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152240169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.452461,44.664478,-73.452461,44.664478",
     "geom:latitude":44.664478,
     "geom:longitude":-73.452461,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. Jean Mermoz D - Parc d'Activit\u00e9s de la Siagne",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -16,10 +17,10 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081797,
-        85633793,
         85688543,
-        85811349
+        85633793,
+        85811349,
+        102081797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":152240169,
-    "wof:lastmodified":1449044788,
+    "wof:lastmodified":1466249862,
     "wof:name":"A.g.e.i. S.a. - Approvisionnement G\u00e9n\u00e9rale Electrique Industriel",
     "wof:parent_id":85811349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.452461,44.664478,-73.452461,44.664478],
+  "bbox": [
+    -73.452461,
+    44.664478,
+    -73.452461,
+    44.664478
+],
   "geometry": {"coordinates":[-73.452461,44.664478],"type":"Point"}
 }

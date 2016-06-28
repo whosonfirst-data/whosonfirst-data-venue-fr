@@ -2,13 +2,14 @@
   "id": 152228747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.304304,48.878647,2.304304,48.878647",
     "geom:latitude":48.878647,
     "geom:longitude":2.304304,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"88 rue de Courcelles 75008 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873857,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152228747,
-    "wof:lastmodified":1449045747,
+    "wof:lastmodified":1466249840,
     "wof:name":"Cosmogen Sa",
     "wof:parent_id":85873857,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.304304,48.878647,2.304304,48.878647],
+  "bbox": [
+    2.304304,
+    48.878647,
+    2.304304,
+    48.878647
+],
   "geometry": {"coordinates":[2.304304,48.878647],"type":"Point"}
 }

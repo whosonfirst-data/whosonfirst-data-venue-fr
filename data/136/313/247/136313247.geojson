@@ -2,13 +2,14 @@
   "id": 136313247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.100645,49.522018,0.100645,49.522018",
     "geom:latitude":49.522018,
     "geom:longitude":0.100645,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Rue Denis Cordonnier 76620 Le Havre",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794449,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136313247,
-    "wof:lastmodified":1449074966,
+    "wof:lastmodified":1466245285,
     "wof:name":"Thomelin (ets Roger)",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.100645,49.522018,0.100645,49.522018],
+  "bbox": [
+    0.100645,
+    49.522018,
+    0.100645,
+    49.522018
+],
   "geometry": {"coordinates":[0.100645,49.522018],"type":"Point"}
 }

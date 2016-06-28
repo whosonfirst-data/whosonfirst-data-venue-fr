@@ -2,13 +2,14 @@
   "id": 152124341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.266114,43.702187,7.266114,43.702187",
     "geom:latitude":43.702187,
     "geom:longitude":7.266114,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 avenue Georges Cl\u00e9menceau 06000 Nice",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152124341,
-    "wof:lastmodified":1449048563,
+    "wof:lastmodified":1466249259,
     "wof:name":"Ste Cuir Pistache Sarl",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.266114,43.702187,7.266114,43.702187],
+  "bbox": [
+    7.266114,
+    43.702187,
+    7.266114,
+    43.702187
+],
   "geometry": {"coordinates":[7.266114,43.702187],"type":"Point"}
 }

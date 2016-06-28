@@ -2,13 +2,14 @@
   "id": 152047031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.508865,48.398277,-4.508865,48.398277",
     "geom:latitude":48.398277,
     "geom:longitude":-4.508865,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Des Archives 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863259,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85863259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152047031,
-    "wof:lastmodified":1449047278,
+    "wof:lastmodified":1466245587,
     "wof:name":"Universite Bretagne Occidentale",
     "wof:parent_id":85863259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.508865,48.398277,-4.508865,48.398277],
+  "bbox": [
+    -4.508865,
+    48.398277,
+    -4.508865,
+    48.398277
+],
   "geometry": {"coordinates":[-4.508865,48.398277],"type":"Point"}
 }

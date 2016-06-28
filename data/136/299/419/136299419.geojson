@@ -2,13 +2,14 @@
   "id": 136299419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.804375,47.342918,-95.804375,47.342918",
     "geom:latitude":47.342918,
     "geom:longitude":-95.804375,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"30 bd Marinoni; Beaulieu",
     "sg:city":"Beaulieu",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136299419,
-    "wof:lastmodified":1449075234,
+    "wof:lastmodified":1466246569,
     "wof:name":"Banque Nationale, De Paris Bnp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.804375,47.342918,-95.804375,47.342918],
-  "geometry": {"coordinates":[-95.804375,47.342918],"type":"Point"}
+  "bbox": [
+    -95.804375,
+    47.342918,
+    -95.804375,
+    47.342918
+],
+  "geometry": {"coordinates":[-95.80437499999999,47.342918],"type":"Point"}
 }

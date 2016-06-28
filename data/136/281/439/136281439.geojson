@@ -2,13 +2,14 @@
   "id": 136281439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.302429,48.813427,2.302429,48.813427",
     "geom:latitude":48.813427,
     "geom:longitude":2.302429,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Av Pierre Brossolette 92120 Montrouge",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281439,
-    "wof:lastmodified":1449076055,
+    "wof:lastmodified":1466245541,
     "wof:name":"M. Duris Michel",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.302429,48.813427,2.302429,48.813427],
+  "bbox": [
+    2.302429,
+    48.813427,
+    2.302429,
+    48.813427
+],
   "geometry": {"coordinates":[2.302429,48.813427],"type":"Point"}
 }

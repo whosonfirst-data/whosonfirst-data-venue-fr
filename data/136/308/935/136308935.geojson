@@ -2,13 +2,14 @@
   "id": 136308935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.552887,47.218182,-1.552887,47.218182",
     "geom:latitude":47.218182,
     "geom:longitude":-1.552887,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 rue Strasbourg; Nantes",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136308935,
-    "wof:lastmodified":1449076302,
+    "wof:lastmodified":1466247275,
     "wof:name":"Sovac",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.552887,47.218182,-1.552887,47.218182],
+  "bbox": [
+    -1.552887,
+    47.218182,
+    -1.552887,
+    47.218182
+],
   "geometry": {"coordinates":[-1.552887,47.218182],"type":"Point"}
 }

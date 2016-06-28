@@ -2,13 +2,14 @@
   "id": 152101597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325394,48.805061,2.325394,48.805061",
     "geom:latitude":48.805061,
     "geom:longitude":2.325394,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"79 avenue Aristide Briand 94110 Arcueil",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152101597,
-    "wof:lastmodified":1449046735,
+    "wof:lastmodified":1466248610,
     "wof:name":"Timothy Of Saint Louis Sa",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325394,48.805061,2.325394,48.805061],
+  "bbox": [
+    2.325394,
+    48.805061,
+    2.325394,
+    48.805061
+],
   "geometry": {"coordinates":[2.325394,48.805061],"type":"Point"}
 }

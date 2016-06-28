@@ -2,13 +2,14 @@
   "id": 169231909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.487899,47.184574,-1.487899,47.184574",
     "geom:latitude":47.184574,
     "geom:longitude":-1.487899,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Rue De La Maladrie 44120 Vertou",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863271,
+        85683233,
         85633147,
         101750939,
         102071411,
-        85683233
+        85863271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169231909,
-    "wof:lastmodified":1449034369,
+    "wof:lastmodified":1466249353,
     "wof:name":"Etablissements Christian Bourrasse",
     "wof:parent_id":85863271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.487899,47.184574,-1.487899,47.184574],
+  "bbox": [
+    -1.487899,
+    47.184574,
+    -1.487899,
+    47.184574
+],
   "geometry": {"coordinates":[-1.487899,47.184574],"type":"Point"}
 }

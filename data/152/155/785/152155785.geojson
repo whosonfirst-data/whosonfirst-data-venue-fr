@@ -2,13 +2,14 @@
   "id": 152155785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.389812,48.99551,2.389812,48.99551",
     "geom:latitude":48.99551,
     "geom:longitude":2.389812,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Rue Escouvrier 95200 Sarcelles",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152155785,
-    "wof:lastmodified":1449048111,
+    "wof:lastmodified":1466249558,
     "wof:name":"Seguin Sa",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.389812,48.99551,2.389812,48.99551],
+  "bbox": [
+    2.389812,
+    48.99551,
+    2.389812,
+    48.99551
+],
   "geometry": {"coordinates":[2.389812,48.99551],"type":"Point"}
 }

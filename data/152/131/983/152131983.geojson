@@ -2,13 +2,14 @@
   "id": 152131983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.526306,47.226265,-1.526306,47.226265",
     "geom:latitude":47.226265,
     "geom:longitude":-1.526306,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue De Bellevue 44000 Nantes",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131983,
-    "wof:lastmodified":1449045700,
+    "wof:lastmodified":1466249464,
     "wof:name":"Asiba Atlantique Services Industrie Et Batiment Sarl",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.526306,47.226265,-1.526306,47.226265],
+  "bbox": [
+    -1.526306,
+    47.226265,
+    -1.526306,
+    47.226265
+],
   "geometry": {"coordinates":[-1.526306,47.226265],"type":"Point"}
 }

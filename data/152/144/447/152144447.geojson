@@ -2,13 +2,14 @@
   "id": 152144447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.638233,48.813946,2.638233,48.813946",
     "geom:latitude":48.813946,
     "geom:longitude":2.638233,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 All De Vendanges 77183 Croissy Beaubourg",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152144447,
-    "wof:lastmodified":1449047686,
+    "wof:lastmodified":1466249507,
     "wof:name":"Karl Dungs Sa",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.638233,48.813946,2.638233,48.813946],
+  "bbox": [
+    2.638233,
+    48.813946,
+    2.638233,
+    48.813946
+],
   "geometry": {"coordinates":[2.638233,48.813946],"type":"Point"}
 }

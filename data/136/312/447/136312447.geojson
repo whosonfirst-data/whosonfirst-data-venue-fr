@@ -2,13 +2,14 @@
   "id": 136312447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.746872,48.583694,7.746872,48.583694",
     "geom:latitude":48.583694,
     "geom:longitude":7.746872,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Des Grandes Arcades 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -30,14 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897715,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221,
-        85794531,
+        85897715,
         101751107,
-        102071231
+        102071231,
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,14 +65,20 @@
         }
     ],
     "wof:id":136312447,
-    "wof:lastmodified":1449075583,
+    "wof:lastmodified":1466247440,
     "wof:name":"Kohler Rehm S A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.746872,48.583694,7.746872,48.583694],
+  "bbox": [
+    7.746872,
+    48.583694,
+    7.746872,
+    48.583694
+],
   "geometry": {"coordinates":[7.746872,48.583694],"type":"Point"}
 }

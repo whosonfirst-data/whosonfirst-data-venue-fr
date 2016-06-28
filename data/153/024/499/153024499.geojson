@@ -2,13 +2,14 @@
   "id": 153024499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.304972,48.845657,2.304972,48.845657",
     "geom:latitude":48.845657,
     "geom:longitude":2.304972,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue Fran\u00e7ois Bonvin 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873949,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024499,
-    "wof:lastmodified":1449040550,
+    "wof:lastmodified":1466246538,
     "wof:name":"La Poste",
     "wof:parent_id":85873949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.304972,48.845657,2.304972,48.845657],
+  "bbox": [
+    2.304972,
+    48.845657,
+    2.304972,
+    48.845657
+],
   "geometry": {"coordinates":[2.304972,48.845657],"type":"Point"}
 }

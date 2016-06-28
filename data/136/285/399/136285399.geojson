@@ -2,13 +2,14 @@
   "id": 136285399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.584358,50.721577,1.584358,50.721577",
     "geom:latitude":50.721577,
     "geom:longitude":1.584358,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Sarraz Bournet 62480 Le Portel",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863289,
+        85683255,
         85633147,
         101839601,
         102071779,
-        85683255
+        85863289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136285399,
-    "wof:lastmodified":1449074960,
+    "wof:lastmodified":1466245859,
     "wof:name":"Eurofilets Sa",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.584358,50.721577,1.584358,50.721577],
+  "bbox": [
+    1.584358,
+    50.721577,
+    1.584358,
+    50.721577
+],
   "geometry": {"coordinates":[1.584358,50.721577],"type":"Point"}
 }

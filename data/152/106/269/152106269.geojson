@@ -2,13 +2,14 @@
   "id": 152106269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735609,48.526154,7.735609,48.526154",
     "geom:latitude":48.526154,
     "geom:longitude":7.735609,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Bd S\u00e9bastien Brant BP 111 67400 Illkirch",
     "sg:city":"Geispolsheim",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152106269,
-    "wof:lastmodified":1449044218,
+    "wof:lastmodified":1466248976,
     "wof:name":"Sisher Bioblock Scientific",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.735609,48.526154,7.735609,48.526154],
+  "bbox": [
+    7.735609,
+    48.526154,
+    7.735609,
+    48.526154
+],
   "geometry": {"coordinates":[7.735609,48.526154],"type":"Point"}
 }

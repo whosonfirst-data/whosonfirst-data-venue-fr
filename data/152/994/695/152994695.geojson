@@ -2,13 +2,14 @@
   "id": 152994695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326597,48.867188,2.326597,48.867188",
     "geom:latitude":48.867188,
     "geom:longitude":2.326597,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"257 rue Saint-Honor\u00e9 75001 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152994695,
-    "wof:lastmodified":1449044523,
+    "wof:lastmodified":1466252530,
     "wof:name":"Ets Heller Sarl",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326597,48.867188,2.326597,48.867188],
+  "bbox": [
+    2.326597,
+    48.867188,
+    2.326597,
+    48.867188
+],
   "geometry": {"coordinates":[2.326597,48.867188],"type":"Point"}
 }

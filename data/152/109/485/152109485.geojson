@@ -2,13 +2,14 @@
   "id": 152109485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.269444,43.697678,7.269444,43.697678",
     "geom:latitude":43.697678,
     "geom:longitude":7.269444,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pl Mass\u00e9na 06000 Nice",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152109485,
-    "wof:lastmodified":1449045915,
+    "wof:lastmodified":1466249313,
     "wof:name":"Galerie P\u00c9cha Sa",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.269444,43.697678,7.269444,43.697678],
+  "bbox": [
+    7.269444,
+    43.697678,
+    7.269444,
+    43.697678
+],
   "geometry": {"coordinates":[7.269444,43.697678],"type":"Point"}
 }

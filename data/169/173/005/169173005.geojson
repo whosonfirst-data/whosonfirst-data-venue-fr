@@ -2,13 +2,14 @@
   "id": 169173005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.739448,48.554955,7.739448,48.554955",
     "geom:latitude":48.554955,
     "geom:longitude":7.739448,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, Rue des Fr\u00e8res Eberts, 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169173005,
-    "wof:lastmodified":1449033326,
+    "wof:lastmodified":1466248534,
     "wof:name":"Sodimef S.a.",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.739448,48.554955,7.739448,48.554955],
+  "bbox": [
+    7.739448,
+    48.554955,
+    7.739448,
+    48.554955
+],
   "geometry": {"coordinates":[7.739448,48.554955],"type":"Point"}
 }

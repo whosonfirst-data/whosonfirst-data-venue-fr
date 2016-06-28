@@ -2,13 +2,14 @@
   "id": 152711691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.856499,35.821194,-79.856499,35.821194",
     "geom:latitude":35.821194,
     "geom:longitude":-79.856499,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 8, 06901 Sophia Antipolis C\u00e9dex^^1208, Rte des Lucioles - Espace Beethoven B\u00e2t. 1, 06560 Sophia",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"North Carolina",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85813755,
+        85688773,
         85633793,
         85980739,
         102087787,
-        85688773
+        85813755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152711691,
-    "wof:lastmodified":1449048070,
+    "wof:lastmodified":1466251564,
     "wof:name":"S.a.a.s. S.a.r.l. - Sophia Antipolis Assistance Et Services",
     "wof:parent_id":85813755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.856499,35.821194,-79.856499,35.821194],
+  "bbox": [
+    -79.856499,
+    35.821194,
+    -79.856499,
+    35.821194
+],
   "geometry": {"coordinates":[-79.856499,35.821194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169187575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.251923,43.812618,-91.251923,43.812618",
     "geom:latitude":43.812618,
     "geom:longitude":-91.251923,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Av. Baron la Crosse - ZAC de Kergaradec, 29860 Gouesnou",
     "sg:city":"Bourg-Blanc",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85837759,
+        85688517,
         85633793,
         101732651,
         102081301,
-        85688517
+        85837759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169187575,
-    "wof:lastmodified":1449033181,
+    "wof:lastmodified":1466248648,
     "wof:name":"Syselog",
     "wof:parent_id":85837759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.251923,43.812618,-91.251923,43.812618],
-  "geometry": {"coordinates":[-91.251923,43.812618],"type":"Point"}
+  "bbox": [
+    -91.251923,
+    43.812618,
+    -91.251923,
+    43.812618
+],
+  "geometry": {"coordinates":[-91.25192300000001,43.812618],"type":"Point"}
 }

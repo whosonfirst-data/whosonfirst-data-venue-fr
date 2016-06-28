@@ -2,13 +2,14 @@
   "id": 152115431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314047,48.88467,2.314047,48.88467",
     "geom:latitude":48.88467,
     "geom:longitude":2.314047,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Square Gabriel Faure 75017 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152115431,
-    "wof:lastmodified":1449044251,
+    "wof:lastmodified":1466249337,
     "wof:name":"Top Master Sarl",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314047,48.88467,2.314047,48.88467],
+  "bbox": [
+    2.314047,
+    48.88467,
+    2.314047,
+    48.88467
+],
   "geometry": {"coordinates":[2.314047,48.88467],"type":"Point"}
 }

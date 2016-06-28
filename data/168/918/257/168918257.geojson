@@ -2,13 +2,14 @@
   "id": 168918257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.247076,48.834454,2.247076,48.834454",
     "geom:latitude":48.834454,
     "geom:longitude":2.247076,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue d'Anjou - 1 Immeuble le Quintet B\u00e2t. A, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168918257,
-    "wof:lastmodified":1449028291,
+    "wof:lastmodified":1466247841,
     "wof:name":"E3 France S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.247076,48.834454,2.247076,48.834454],
+  "bbox": [
+    2.247076,
+    48.834454,
+    2.247076,
+    48.834454
+],
   "geometry": {"coordinates":[2.247076,48.834454],"type":"Point"}
 }

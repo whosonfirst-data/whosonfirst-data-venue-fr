@@ -2,13 +2,14 @@
   "id": 152063071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359466,48.86771,2.359466,48.86771",
     "geom:latitude":48.86771,
     "geom:longitude":2.359466,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Rue Meslay 75003 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152063071,
-    "wof:lastmodified":1449044705,
+    "wof:lastmodified":1466247012,
     "wof:name":"Ste Texley",
     "wof:parent_id":85873805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359466,48.86771,2.359466,48.86771],
+  "bbox": [
+    2.359466,
+    48.86771,
+    2.359466,
+    48.86771
+],
   "geometry": {"coordinates":[2.359466,48.86771],"type":"Point"}
 }

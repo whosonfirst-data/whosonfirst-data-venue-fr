@@ -2,13 +2,14 @@
   "id": 152283619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.228601,47.886799,7.228601,47.886799",
     "geom:latitude":47.886799,
     "geom:longitude":7.228601,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Rue Jean Jaur\u00e8s, 68360 Soultz Haut Rhin",
     "sg:city":"Soultz-Haut-Rhin",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152283619,
-    "wof:lastmodified":1449045672,
+    "wof:lastmodified":1466250025,
     "wof:name":"Audiacom S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.228601,47.886799,7.228601,47.886799],
+  "bbox": [
+    7.228601,
+    47.886799,
+    7.228601,
+    47.886799
+],
   "geometry": {"coordinates":[7.228601,47.886799],"type":"Point"}
 }

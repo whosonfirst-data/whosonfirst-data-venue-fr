@@ -2,13 +2,14 @@
   "id": 152104969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.384772,43.567734,1.384772,43.567734",
     "geom:latitude":43.567734,
     "geom:longitude":1.384772,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Paul Mesple Immeuble Metropark 31100 Toulouse",
     "sg:classifiers":[
         {
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152104969,
-    "wof:lastmodified":1449046207,
+    "wof:lastmodified":1466248764,
     "wof:name":"Thyssen Ascenseurs",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.384772,43.567734,1.384772,43.567734],
+  "bbox": [
+    1.384772,
+    43.567734,
+    1.384772,
+    43.567734
+],
   "geometry": {"coordinates":[1.384772,43.567734],"type":"Point"}
 }

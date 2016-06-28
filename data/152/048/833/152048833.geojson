@@ -2,13 +2,14 @@
   "id": 152048833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.344939,48.883797,2.344939,48.883797",
     "geom:latitude":48.883797,
     "geom:longitude":2.344939,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue S\u00e9veste 75018 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874011,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152048833,
-    "wof:lastmodified":1449045916,
+    "wof:lastmodified":1466245817,
     "wof:name":"Hotel Luxia Ste",
     "wof:parent_id":85874011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.344939,48.883797,2.344939,48.883797],
+  "bbox": [
+    2.344939,
+    48.883797,
+    2.344939,
+    48.883797
+],
   "geometry": {"coordinates":[2.344939,48.883797],"type":"Point"}
 }

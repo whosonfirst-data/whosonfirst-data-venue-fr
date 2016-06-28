@@ -2,13 +2,14 @@
   "id": 153035153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.346697,48.876225,2.346697,48.876225",
     "geom:latitude":48.876225,
     "geom:longitude":2.346697,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 rue Riboutte (Square Montholon); Paris",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":153035153,
-    "wof:lastmodified":1449040728,
+    "wof:lastmodified":1466247399,
     "wof:name":"Dom Goncalo Hoteis.lda.",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.346697,48.876225,2.346697,48.876225],
+  "bbox": [
+    2.346697,
+    48.876225,
+    2.346697,
+    48.876225
+],
   "geometry": {"coordinates":[2.346697,48.876225],"type":"Point"}
 }

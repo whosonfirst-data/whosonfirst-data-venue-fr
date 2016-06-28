@@ -2,13 +2,14 @@
   "id": 152048617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.109109,49.488312,0.109109,49.488312",
     "geom:latitude":49.488312,
     "geom:longitude":0.109109,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 R Jean Mac\u00e9 76600 Le Havre",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152048617,
-    "wof:lastmodified":1449045915,
+    "wof:lastmodified":1466245776,
     "wof:name":"Hotel Gambetta Sarl",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.109109,49.488312,0.109109,49.488312],
+  "bbox": [
+    0.109109,
+    49.488312,
+    0.109109,
+    49.488312
+],
   "geometry": {"coordinates":[0.109109,49.488312],"type":"Point"}
 }

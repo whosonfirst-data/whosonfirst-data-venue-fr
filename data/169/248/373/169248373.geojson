@@ -2,13 +2,14 @@
   "id": 169248373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.277782,48.883552,2.277782,48.883552",
     "geom:latitude":48.883552,
     "geom:longitude":2.277782,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40, rue Madeleine Michelis",
     "sg:city":"Neuilly sue Seine",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:website":"http://www.mobiletag.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169248373,
-    "wof:lastmodified":1449034503,
+    "wof:lastmodified":1466249505,
     "wof:name":"MTag",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.277782,48.883552,2.277782,48.883552],
+  "bbox": [
+    2.277782,
+    48.883552,
+    2.277782,
+    48.883552
+],
   "geometry": {"coordinates":[2.277782,48.883552],"type":"Point"}
 }

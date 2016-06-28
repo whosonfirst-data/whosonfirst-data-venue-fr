@@ -2,13 +2,14 @@
   "id": 152103277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.316647,48.846893,2.316647,48.846893",
     "geom:latitude":48.846893,
     "geom:longitude":2.316647,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Rue De S\u00e8vres 75007 Paris",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152103277,
-    "wof:lastmodified":1449047183,
+    "wof:lastmodified":1466248825,
     "wof:name":"Optique Duroc",
     "wof:parent_id":85873837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.316647,48.846893,2.316647,48.846893],
+  "bbox": [
+    2.316647,
+    48.846893,
+    2.316647,
+    48.846893
+],
   "geometry": {"coordinates":[2.316647,48.846893],"type":"Point"}
 }

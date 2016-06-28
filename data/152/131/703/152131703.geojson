@@ -2,13 +2,14 @@
   "id": 152131703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.307963,48.882698,2.307963,48.882698",
     "geom:latitude":48.882698,
     "geom:longitude":2.307963,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Rue Fortuny 75017 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152131703,
-    "wof:lastmodified":1449045697,
+    "wof:lastmodified":1466249440,
     "wof:name":"American Air Filter (aaf) Sa",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.307963,48.882698,2.307963,48.882698],
+  "bbox": [
+    2.307963,
+    48.882698,
+    2.307963,
+    48.882698
+],
   "geometry": {"coordinates":[2.307963,48.882698],"type":"Point"}
 }

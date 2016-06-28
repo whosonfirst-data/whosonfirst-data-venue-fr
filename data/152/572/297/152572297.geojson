@@ -2,13 +2,14 @@
   "id": 152572297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.945953,34.23497,-77.945953,34.23497",
     "geom:latitude":34.23497,
     "geom:longitude":-77.945953,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. de la Messesselle",
     "sg:city":"Nogent le Rotrou C\u00e9dex",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831507,
+        85688773,
         85633793,
         85980683,
         102087757,
-        85688773
+        85831507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152572297,
-    "wof:lastmodified":1449047133,
+    "wof:lastmodified":1466251080,
     "wof:name":"Lacroix Sofrel Electronique S.a.",
     "wof:parent_id":85831507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.945953,34.23497,-77.945953,34.23497],
+  "bbox": [
+    -77.945953,
+    34.23497,
+    -77.945953,
+    34.23497
+],
   "geometry": {"coordinates":[-77.945953,34.23497],"type":"Point"}
 }

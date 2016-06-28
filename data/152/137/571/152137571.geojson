@@ -2,13 +2,14 @@
   "id": 152137571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.425584,48.915966,2.425584,48.915966",
     "geom:latitude":48.915966,
     "geom:longitude":2.425584,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Rue De Stalingrad 93700 Drancy",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152137571,
-    "wof:lastmodified":1449048285,
+    "wof:lastmodified":1466249587,
     "wof:name":"Elm Leblanc",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.425584,48.915966,2.425584,48.915966],
+  "bbox": [
+    2.425584,
+    48.915966,
+    2.425584,
+    48.915966
+],
   "geometry": {"coordinates":[2.425584,48.915966],"type":"Point"}
 }

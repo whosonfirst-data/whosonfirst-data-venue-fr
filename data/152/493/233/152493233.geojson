@@ -2,13 +2,14 @@
   "id": 152493233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.295905,48.800858,2.295905,48.800858",
     "geom:latitude":48.800858,
     "geom:longitude":2.295905,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Rue Perrotin, 92323 Ch\u00e2tillon C\u00e9dex",
     "sg:city":"Ch\u00e2tillon",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152493233,
-    "wof:lastmodified":1449045771,
+    "wof:lastmodified":1466250768,
     "wof:name":"G.l. Image S.a.- G\u00e9n\u00e9rale Location Image",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.295905,48.800858,2.295905,48.800858],
+  "bbox": [
+    2.295905,
+    48.800858,
+    2.295905,
+    48.800858
+],
   "geometry": {"coordinates":[2.295905,48.800858],"type":"Point"}
 }

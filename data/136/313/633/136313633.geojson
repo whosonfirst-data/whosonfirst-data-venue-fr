@@ -2,13 +2,14 @@
   "id": 136313633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.345557,48.833977,2.345557,48.833977",
     "geom:latitude":48.833977,
     "geom:longitude":2.345557,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Des Tanneries 75013 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873917,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136313633,
-    "wof:lastmodified":1449074970,
+    "wof:lastmodified":1466245365,
     "wof:name":"Technique Biologique Sa",
     "wof:parent_id":85873917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.345557,48.833977,2.345557,48.833977],
+  "bbox": [
+    2.345557,
+    48.833977,
+    2.345557,
+    48.833977
+],
   "geometry": {"coordinates":[2.345557,48.833977],"type":"Point"}
 }

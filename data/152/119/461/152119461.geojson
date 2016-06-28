@@ -2,13 +2,14 @@
   "id": 152119461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.389878,48.875496,2.389878,48.875496",
     "geom:latitude":48.875496,
     "geom:longitude":2.389878,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"145 rue de Belleville 75019 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874021,
+        85683497,
         85633147,
         101751119,
         102070247,
-        85683497
+        85874021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152119461,
-    "wof:lastmodified":1449047598,
+    "wof:lastmodified":1466249222,
     "wof:name":"Sabre S.a.r.l.",
     "wof:parent_id":85874021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.389878,48.875496,2.389878,48.875496],
+  "bbox": [
+    2.389878,
+    48.875496,
+    2.389878,
+    48.875496
+],
   "geometry": {"coordinates":[2.389878,48.875496],"type":"Point"}
 }

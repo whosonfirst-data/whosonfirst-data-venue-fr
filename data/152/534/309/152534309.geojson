@@ -2,13 +2,14 @@
   "id": 152534309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325451,48.881237,2.325451,48.881237",
     "geom:latitude":48.881237,
     "geom:longitude":2.325451,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Rue de Saint Petersbourg, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873849,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152534309,
-    "wof:lastmodified":1449045494,
+    "wof:lastmodified":1466250923,
     "wof:name":"Illycaff\u00e9 France S.a.",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325451,48.881237,2.325451,48.881237],
+  "bbox": [
+    2.325451,
+    48.881237,
+    2.325451,
+    48.881237
+],
   "geometry": {"coordinates":[2.325451,48.881237],"type":"Point"}
 }

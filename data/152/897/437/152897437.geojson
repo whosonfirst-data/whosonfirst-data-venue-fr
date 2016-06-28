@@ -2,13 +2,14 @@
   "id": 152897437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.419436,48.902767,2.419436,48.902767",
     "geom:latitude":48.902767,
     "geom:longitude":2.419436,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43 chemin des Vignes 93000 Bobigny",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874035,
+        85683475,
         85633147,
         101751151,
         102068943,
-        85683475
+        85874035
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152897437,
-    "wof:lastmodified":1449048169,
+    "wof:lastmodified":1466252129,
     "wof:name":"A.g.l. S.a.",
     "wof:parent_id":85874035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.419436,48.902767,2.419436,48.902767],
+  "bbox": [
+    2.419436,
+    48.902767,
+    2.419436,
+    48.902767
+],
   "geometry": {"coordinates":[2.419436,48.902767],"type":"Point"}
 }

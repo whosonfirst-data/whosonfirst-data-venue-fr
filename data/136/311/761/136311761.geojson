@@ -2,13 +2,14 @@
   "id": 136311761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.23745,25.728991,-80.23745,25.728991",
     "geom:latitude":25.728991,
     "geom:longitude":-80.23745,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Boulevard Godard 33110 Bouscat",
     "sg:city":"Le Bouscat",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839179,
+        85688651,
         85633793,
         85933669,
         102085771,
-        85688651,
+        85839179,
         85889175
     ],
     "wof:breaches":[],
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":136311761,
-    "wof:lastmodified":1449075221,
+    "wof:lastmodified":1466247437,
     "wof:name":"B P M A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.23745,25.728991,-80.23745,25.728991],
+  "bbox": [
+    -80.23745,
+    25.728991,
+    -80.23745,
+    25.728991
+],
   "geometry": {"coordinates":[-80.23745,25.728991],"type":"Point"}
 }

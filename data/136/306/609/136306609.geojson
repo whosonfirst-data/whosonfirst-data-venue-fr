@@ -2,13 +2,14 @@
   "id": 136306609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.113036,49.491791,0.113036,49.491791",
     "geom:latitude":49.491791,
     "geom:longitude":0.113036,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Place Jules Ferry, 76600 Le Havre, Dept 76",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306609,
-    "wof:lastmodified":1449076205,
+    "wof:lastmodified":1466247024,
     "wof:name":"Soci\u00e9t\u00e9 De Banque De Normandie Sa",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.113036,49.491791,0.113036,49.491791],
+  "bbox": [
+    0.113036,
+    49.491791,
+    0.113036,
+    49.491791
+],
   "geometry": {"coordinates":[0.113036,49.491791],"type":"Point"}
 }

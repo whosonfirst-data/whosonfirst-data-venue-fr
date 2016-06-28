@@ -2,13 +2,14 @@
   "id": 152058715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.379242,48.872845,2.379242,48.872845",
     "geom:latitude":48.872845,
     "geom:longitude":2.379242,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 rue de Belleville 75019 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874017,
+        85683497,
         85633147,
         101751119,
         102070247,
-        85683497
+        85874017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152058715,
-    "wof:lastmodified":1449044982,
+    "wof:lastmodified":1466246773,
     "wof:name":"Centre Hong-kong Sarl",
     "wof:parent_id":85874017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.379242,48.872845,2.379242,48.872845],
+  "bbox": [
+    2.379242,
+    48.872845,
+    2.379242,
+    48.872845
+],
   "geometry": {"coordinates":[2.379242,48.872845],"type":"Point"}
 }

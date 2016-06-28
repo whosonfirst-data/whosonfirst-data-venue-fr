@@ -2,13 +2,14 @@
   "id": 136280707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.356091,48.860619,2.356091,48.860619",
     "geom:latitude":48.860619,
     "geom:longitude":2.356091,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 passage Sainte-Avoie 75003 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873813,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136280707,
-    "wof:lastmodified":1449075559,
+    "wof:lastmodified":1466245543,
     "wof:name":"Select Communications Paris S.a.",
     "wof:parent_id":85873813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.356091,48.860619,2.356091,48.860619],
+  "bbox": [
+    2.356091,
+    48.860619,
+    2.356091,
+    48.860619
+],
   "geometry": {"coordinates":[2.356091,48.860619],"type":"Point"}
 }

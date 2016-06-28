@@ -2,13 +2,14 @@
   "id": 152195555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.456352,48.426872,-4.456352,48.426872",
     "geom:latitude":48.426872,
     "geom:longitude":-4.456352,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Boulevard Gabriel Lippmann 29850 Gouesnou",
     "sg:city":"Gouesnou",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85863263
+        85633147,
+        85863263,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152195555,
-    "wof:lastmodified":1449047335,
+    "wof:lastmodified":1466249721,
     "wof:name":"Chaillous Station Service Sa",
     "wof:parent_id":85863263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.456352,48.426872,-4.456352,48.426872],
+  "bbox": [
+    -4.456352,
+    48.426872,
+    -4.456352,
+    48.426872
+],
   "geometry": {"coordinates":[-4.456352,48.426872],"type":"Point"}
 }

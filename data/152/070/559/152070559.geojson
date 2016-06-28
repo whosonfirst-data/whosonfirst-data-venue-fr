@@ -2,13 +2,14 @@
   "id": 152070559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.378166,48.85096,2.378166,48.85096",
     "geom:latitude":48.85096,
     "geom:longitude":2.378166,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"137 R du Faubourg Saint-Antoine 75011 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873889,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152070559,
-    "wof:lastmodified":1449046560,
+    "wof:lastmodified":1466245349,
     "wof:name":"Mobilart Sarl",
     "wof:parent_id":85873889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.378166,48.85096,2.378166,48.85096],
+  "bbox": [
+    2.378166,
+    48.85096,
+    2.378166,
+    48.85096
+],
   "geometry": {"coordinates":[2.378166,48.85096],"type":"Point"}
 }

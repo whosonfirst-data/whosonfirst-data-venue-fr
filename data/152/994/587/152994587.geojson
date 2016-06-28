@@ -2,13 +2,14 @@
   "id": 152994587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.388007,48.876823,2.388007,48.876823",
     "geom:latitude":48.876823,
     "geom:longitude":2.388007,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"46 rue de la Villette 75019 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874021,
+        85683497,
         85633147,
         101751119,
         102070247,
-        85683497
+        85874021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152994587,
-    "wof:lastmodified":1449044523,
+    "wof:lastmodified":1466252526,
     "wof:name":"B&m S.a.r.l.",
     "wof:parent_id":85874021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.388007,48.876823,2.388007,48.876823],
+  "bbox": [
+    2.388007,
+    48.876823,
+    2.388007,
+    48.876823
+],
   "geometry": {"coordinates":[2.388007,48.876823],"type":"Point"}
 }

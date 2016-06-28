@@ -2,13 +2,14 @@
   "id": 152401967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.583201,47.219055,-1.583201,47.219055",
     "geom:latitude":47.219055,
     "geom:longitude":-1.583201,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue de l'H\u00e9rault - Lot. C 5",
     "sg:city":"Nantes",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152401967,
-    "wof:lastmodified":1449048235,
+    "wof:lastmodified":1466250472,
     "wof:name":"Delta Ressources S.a.r.l.",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.583201,47.219055,-1.583201,47.219055],
+  "bbox": [
+    -1.583201,
+    47.219055,
+    -1.583201,
+    47.219055
+],
   "geometry": {"coordinates":[-1.583201,47.219055],"type":"Point"}
 }

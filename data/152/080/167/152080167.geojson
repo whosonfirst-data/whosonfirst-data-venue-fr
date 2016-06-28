@@ -2,13 +2,14 @@
   "id": 152080167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.697999,48.535702,7.697999,48.535702",
     "geom:latitude":48.535702,
     "geom:longitude":7.697999,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Pierre et Marie Currie 67541 OSTWALD",
     "sg:city":"Ostwald",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152080167,
-    "wof:lastmodified":1449048786,
+    "wof:lastmodified":1466247322,
     "wof:name":"Forclum Alsace Snc",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.697999,48.535702,7.697999,48.535702],
+  "bbox": [
+    7.697999,
+    48.535702,
+    7.697999,
+    48.535702
+],
   "geometry": {"coordinates":[7.697999,48.535702],"type":"Point"}
 }

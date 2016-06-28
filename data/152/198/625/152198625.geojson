@@ -2,13 +2,14 @@
   "id": 152198625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.300562,48.818588,2.300562,48.818588",
     "geom:latitude":48.818588,
     "geom:longitude":2.300562,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Avenue Augustin Dumont 92240 Malakoff",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152198625,
-    "wof:lastmodified":1449045987,
+    "wof:lastmodified":1466249728,
     "wof:name":"Meca Dumont Sarl",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.300562,48.818588,2.300562,48.818588],
+  "bbox": [
+    2.300562,
+    48.818588,
+    2.300562,
+    48.818588
+],
   "geometry": {"coordinates":[2.300562,48.818588],"type":"Point"}
 }

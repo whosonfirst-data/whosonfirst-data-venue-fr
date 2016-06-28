@@ -2,13 +2,14 @@
   "id": 152885105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.36095,43.729679,7.36095,43.729679",
     "geom:latitude":43.729679,
     "geom:longitude":7.36095,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1420",
     "sg:city":"Serrier Num\u00e9ro 13 Moyenne Corniche 06360 Eze",
     "sg:classifiers":[
@@ -23,10 +24,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069809,
-        85633147,
         85683323,
-        85794131
+        85633147,
+        85794131,
+        102069809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152885105,
-    "wof:lastmodified":1449046759,
+    "wof:lastmodified":1466252000,
     "wof:name":"Eze Composites",
     "wof:parent_id":85794131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.36095,43.729679,7.36095,43.729679],
+  "bbox": [
+    7.36095,
+    43.729679,
+    7.36095,
+    43.729679
+],
   "geometry": {"coordinates":[7.36095,43.729679],"type":"Point"}
 }

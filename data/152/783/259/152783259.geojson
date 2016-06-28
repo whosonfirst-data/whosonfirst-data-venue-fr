@@ -2,13 +2,14 @@
   "id": 152783259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.194458,39.759102,-84.194458,39.759102",
     "geom:latitude":39.759102,
     "geom:longitude":-84.194458,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 224, 45401 Fleury les Aubrais C\u00e9dex^^3, Rue de la For\u00eat - ZAC des Bicharderies, 45400 Fleury le",
     "sg:city":"Chanteau",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876993,
+        85688485,
         85633793,
         101712161,
         102083667,
-        85688485
+        85876993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152783259,
-    "wof:lastmodified":1449044442,
+    "wof:lastmodified":1466251820,
     "wof:name":"Soditra Sodilac S.a.",
     "wof:parent_id":85876993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.194458,39.759102,-84.194458,39.759102],
+  "bbox": [
+    -84.194458,
+    39.759102,
+    -84.194458,
+    39.759102
+],
   "geometry": {"coordinates":[-84.194458,39.759102],"type":"Point"}
 }

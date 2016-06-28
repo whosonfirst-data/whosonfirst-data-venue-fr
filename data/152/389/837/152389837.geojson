@@ -2,13 +2,14 @@
   "id": 152389837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.261245,48.82056,2.261245,48.82056",
     "geom:latitude":48.82056,
     "geom:longitude":2.261245,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Av. Pasteur, 92137 Issy les Moulineaux C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152389837,
-    "wof:lastmodified":1449047973,
+    "wof:lastmodified":1466250345,
     "wof:name":"D. Communication S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.261245,48.82056,2.261245,48.82056],
+  "bbox": [
+    2.261245,
+    48.82056,
+    2.261245,
+    48.82056
+],
   "geometry": {"coordinates":[2.261245,48.82056],"type":"Point"}
 }

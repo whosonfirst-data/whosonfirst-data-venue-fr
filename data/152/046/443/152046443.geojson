@@ -2,13 +2,14 @@
   "id": 152046443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.762767,48.582863,7.762767,48.582863",
     "geom:latitude":48.582863,
     "geom:longitude":7.762767,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Boulevard De La Victoire 67084 Strasbourg Cedex",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897723,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897723
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152046443,
-    "wof:lastmodified":1449046863,
+    "wof:lastmodified":1466245593,
     "wof:name":"Lycee Polyvalent Jean Rostand",
     "wof:parent_id":85897723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.762767,48.582863,7.762767,48.582863],
+  "bbox": [
+    7.762767,
+    48.582863,
+    7.762767,
+    48.582863
+],
   "geometry": {"coordinates":[7.762767,48.582863],"type":"Point"}
 }

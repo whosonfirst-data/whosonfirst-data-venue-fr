@@ -2,13 +2,14 @@
   "id": 152751661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.388257,48.848549,2.388257,48.848549",
     "geom:latitude":48.848549,
     "geom:longitude":2.388257,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Rue Claude Tillier, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873895,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873895
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152751661,
-    "wof:lastmodified":1449044561,
+    "wof:lastmodified":1466251715,
     "wof:name":"Scip France",
     "wof:parent_id":85873895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.388257,48.848549,2.388257,48.848549],
+  "bbox": [
+    2.388257,
+    48.848549,
+    2.388257,
+    48.848549
+],
   "geometry": {"coordinates":[2.388257,48.848549],"type":"Point"}
 }

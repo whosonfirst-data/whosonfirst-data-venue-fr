@@ -2,13 +2,14 @@
   "id": 152893837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.9052,43.13773,5.9052,43.13773",
     "geom:latitude":43.13773,
     "geom:longitude":5.9052,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI",
     "sg:city":"Branly BP 119 83079 Toulon",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152893837,
-    "wof:lastmodified":1449048045,
+    "wof:lastmodified":1466252320,
     "wof:name":"Smac",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.9052,43.13773,5.9052,43.13773],
+  "bbox": [
+    5.9052,
+    43.13773,
+    5.9052,
+    43.13773
+],
   "geometry": {"coordinates":[5.9052,43.13773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153068623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.735702,48.597664,7.735702,48.597664",
     "geom:latitude":48.597664,
     "geom:longitude":7.735702,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"March\u00e9 Gare",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897717,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897717
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153068623,
-    "wof:lastmodified":1449040591,
+    "wof:lastmodified":1466246618,
     "wof:name":"Alsace Viande S.a.",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.735702,48.597664,7.735702,48.597664],
+  "bbox": [
+    7.735702,
+    48.597664,
+    7.735702,
+    48.597664
+],
   "geometry": {"coordinates":[7.735702,48.597664],"type":"Point"}
 }

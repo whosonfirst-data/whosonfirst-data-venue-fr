@@ -2,13 +2,14 @@
   "id": 152987457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.340433,48.873829,2.340433,48.873829",
     "geom:latitude":48.873829,
     "geom:longitude":2.340433,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 rue Drouot 75009 Paris",
     "sg:classifiers":[
         {
@@ -26,13 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873799,
-        102067221
+        85873867,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":152987457,
-    "wof:lastmodified":1449046887,
+    "wof:lastmodified":1466252571,
     "wof:name":"Roumet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.340433,48.873829,2.340433,48.873829],
+  "bbox": [
+    2.340433,
+    48.873829,
+    2.340433,
+    48.873829
+],
   "geometry": {"coordinates":[2.340433,48.873829],"type":"Point"}
 }

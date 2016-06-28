@@ -2,13 +2,14 @@
   "id": 152506793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.080107,49.4286,2.080107,49.4286",
     "geom:latitude":49.4286,
     "geom:longitude":2.080107,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 50819, 60008 Beauvais C\u00e9dex^^Rue de l'Etamine, 60000 Beauvais",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152506793,
-    "wof:lastmodified":1449044395,
+    "wof:lastmodified":1466250829,
     "wof:name":"Graph'ica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.080107,49.4286,2.080107,49.4286],
+  "bbox": [
+    2.080107,
+    49.4286,
+    2.080107,
+    49.4286
+],
   "geometry": {"coordinates":[2.080107,49.4286],"type":"Point"}
 }

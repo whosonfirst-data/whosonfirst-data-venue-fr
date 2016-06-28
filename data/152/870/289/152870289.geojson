@@ -2,13 +2,14 @@
   "id": 152870289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.68499,48.586948,7.68499,48.586948",
     "geom:latitude":48.586948,
     "geom:longitude":7.68499,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Evariste Galois 67201 Eckbolsheim",
     "sg:city":"Eckbolsheim",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071297,
-        85633147,
         85683221,
-        85897713
+        85633147,
+        85897713,
+        102071297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152870289,
-    "wof:lastmodified":1449045513,
+    "wof:lastmodified":1466252114,
     "wof:name":"Mead Emballage",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.68499,48.586948,7.68499,48.586948],
+  "bbox": [
+    7.68499,
+    48.586948,
+    7.68499,
+    48.586948
+],
   "geometry": {"coordinates":[7.68499,48.586948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152065977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.558644,44.778996,-0.558644,44.778996",
     "geom:latitude":44.778996,
     "geom:longitude":-0.558644,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Jean Pages 33884 Villenave D'Ornon",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069343,
-        85633147,
         85683243,
-        85863275
+        85633147,
+        85863275,
+        102069343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152065977,
-    "wof:lastmodified":1449048858,
+    "wof:lastmodified":1466247326,
     "wof:name":"Canalisations Souterraines Sa",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.558644,44.778996,-0.558644,44.778996],
+  "bbox": [
+    -0.558644,
+    44.778996,
+    -0.558644,
+    44.778996
+],
   "geometry": {"coordinates":[-0.558644,44.778996],"type":"Point"}
 }

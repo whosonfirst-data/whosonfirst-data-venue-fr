@@ -2,13 +2,14 @@
   "id": 152282785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.336898,48.850971,2.336898,48.850971",
     "geom:latitude":48.850971,
     "geom:longitude":2.336898,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4, Rue de Tourron, 75006 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873829,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152282785,
-    "wof:lastmodified":1449047191,
+    "wof:lastmodified":1466250031,
     "wof:name":"Au Nom De La Rose S.a.",
     "wof:parent_id":85873829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.336898,48.850971,2.336898,48.850971],
+  "bbox": [
+    2.336898,
+    48.850971,
+    2.336898,
+    48.850971
+],
   "geometry": {"coordinates":[2.336898,48.850971],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152100149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341392,48.854912,2.341392,48.854912",
     "geom:latitude":48.854912,
     "geom:longitude":2.341392,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Rue Des Grands Augustins 75006 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873825,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152100149,
-    "wof:lastmodified":1449047724,
+    "wof:lastmodified":1466248785,
     "wof:name":"Djeco",
     "wof:parent_id":85873825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341392,48.854912,2.341392,48.854912],
+  "bbox": [
+    2.341392,
+    48.854912,
+    2.341392,
+    48.854912
+],
   "geometry": {"coordinates":[2.341392,48.854912],"type":"Point"}
 }

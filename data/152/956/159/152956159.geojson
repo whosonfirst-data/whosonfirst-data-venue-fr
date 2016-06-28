@@ -2,13 +2,14 @@
   "id": 152956159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.329575,48.832687,2.329575,48.832687",
     "geom:latitude":48.832687,
     "geom:longitude":2.329575,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Ernest Cresson 75014 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873939,
+        85683497,
         85633147,
         101751119,
         102069467,
-        85683497
+        85873939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152956159,
-    "wof:lastmodified":1449045091,
+    "wof:lastmodified":1466252428,
     "wof:name":"Distances Sarl",
     "wof:parent_id":85873939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.329575,48.832687,2.329575,48.832687],
+  "bbox": [
+    2.329575,
+    48.832687,
+    2.329575,
+    48.832687
+],
   "geometry": {"coordinates":[2.329575,48.832687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152079355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.569829,47.191238,-1.569829,47.191238",
     "geom:latitude":47.191238,
     "geom:longitude":-1.569829,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3 R Des Br\u00e8ches 44406 Rez\u00e9",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152079355,
-    "wof:lastmodified":1449048146,
+    "wof:lastmodified":1466247157,
     "wof:name":"Jvd Sa",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.569829,47.191238,-1.569829,47.191238],
+  "bbox": [
+    -1.569829,
+    47.191238,
+    -1.569829,
+    47.191238
+],
   "geometry": {"coordinates":[-1.569829,47.191238],"type":"Point"}
 }

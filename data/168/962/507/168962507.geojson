@@ -2,13 +2,14 @@
   "id": 168962507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.305034,48.86961,2.305034,48.86961",
     "geom:latitude":48.86961,
     "geom:longitude":2.305034,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33, Rue Marboeuf, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168962507,
-    "wof:lastmodified":1449028235,
+    "wof:lastmodified":1466248511,
     "wof:name":"Francesco Smalto S.a.",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.305034,48.86961,2.305034,48.86961],
+  "bbox": [
+    2.305034,
+    48.86961,
+    2.305034,
+    48.86961
+],
   "geometry": {"coordinates":[2.305034,48.86961],"type":"Point"}
 }

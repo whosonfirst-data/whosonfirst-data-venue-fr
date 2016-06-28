@@ -2,13 +2,14 @@
   "id": 152915109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.343409,48.868935,2.343409,48.868935",
     "geom:latitude":48.868935,
     "geom:longitude":2.343409,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Rue Montmartre 75002 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152915109,
-    "wof:lastmodified":1449048861,
+    "wof:lastmodified":1466252280,
     "wof:name":"Les Editions Montmartre Sarl",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.343409,48.868935,2.343409,48.868935],
+  "bbox": [
+    2.343409,
+    48.868935,
+    2.343409,
+    48.868935
+],
   "geometry": {"coordinates":[2.343409,48.868935],"type":"Point"}
 }

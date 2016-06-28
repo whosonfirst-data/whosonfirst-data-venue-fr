@@ -2,13 +2,14 @@
   "id": 152046195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287288,48.858604,2.287288,48.858604",
     "geom:latitude":48.858604,
     "geom:longitude":2.287288,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Beethoven 75016 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873979,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152046195,
-    "wof:lastmodified":1449046863,
+    "wof:lastmodified":1466245542,
     "wof:name":"International School Of Paris",
     "wof:parent_id":85873979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287288,48.858604,2.287288,48.858604],
+  "bbox": [
+    2.287288,
+    48.858604,
+    2.287288,
+    48.858604
+],
   "geometry": {"coordinates":[2.287288,48.858604],"type":"Point"}
 }

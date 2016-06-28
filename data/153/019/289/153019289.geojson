@@ -2,13 +2,14 @@
   "id": 153019289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.615206,48.800835,2.615206,48.800835",
     "geom:latitude":48.800835,
     "geom:longitude":2.615206,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"26 rue de Paris 77340 Pontault Combault",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153019289,
-    "wof:lastmodified":1449040636,
+    "wof:lastmodified":1466246206,
     "wof:name":"Ste Yaldone Sarl",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.615206,48.800835,2.615206,48.800835],
+  "bbox": [
+    2.615206,
+    48.800835,
+    2.615206,
+    48.800835
+],
   "geometry": {"coordinates":[2.615206,48.800835],"type":"Point"}
 }

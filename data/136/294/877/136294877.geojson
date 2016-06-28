@@ -2,13 +2,14 @@
   "id": 136294877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.301258,48.812786,2.301258,48.812786",
     "geom:latitude":48.812786,
     "geom:longitude":2.301258,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Avenue Pierre Brossolette Immeuble Le Pelissier 92240 Malakoff",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136294877,
-    "wof:lastmodified":1449075869,
+    "wof:lastmodified":1466246456,
     "wof:name":"Societe Generale",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.301258,48.812786,2.301258,48.812786],
+  "bbox": [
+    2.301258,
+    48.812786,
+    2.301258,
+    48.812786
+],
   "geometry": {"coordinates":[2.301258,48.812786],"type":"Point"}
 }

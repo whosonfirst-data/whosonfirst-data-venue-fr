@@ -2,13 +2,14 @@
   "id": 152102693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.419964,43.5993,1.419964,43.5993",
     "geom:latitude":43.5993,
     "geom:longitude":1.419964,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Bd Jean Brunhes 31300 Toulouse",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152102693,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248869,
     "wof:name":"Le Cadre Miroiterie",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.419964,43.5993,1.419964,43.5993],
+  "bbox": [
+    1.419964,
+    43.5993,
+    1.419964,
+    43.5993
+],
   "geometry": {"coordinates":[1.419964,43.5993],"type":"Point"}
 }

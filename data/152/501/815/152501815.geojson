@@ -2,13 +2,14 @@
   "id": 152501815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.408892,43.526272,1.408892,43.526272",
     "geom:latitude":43.526272,
     "geom:longitude":1.408892,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5, All\u00e9e des Sports, 31120 Portet sur Garonne",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152501815,
-    "wof:lastmodified":1449048932,
+    "wof:lastmodified":1466250831,
     "wof:name":"Getec S.a.r.l. - Gestion Technique Equipement Civil",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.408892,43.526272,1.408892,43.526272],
+  "bbox": [
+    1.408892,
+    43.526272,
+    1.408892,
+    43.526272
+],
   "geometry": {"coordinates":[1.408892,43.526272],"type":"Point"}
 }

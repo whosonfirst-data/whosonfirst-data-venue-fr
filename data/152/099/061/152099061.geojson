@@ -2,13 +2,14 @@
   "id": 152099061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.27444,43.697254,7.27444,43.697254",
     "geom:latitude":43.697254,
     "geom:longitude":7.27444,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"march\u00e9 d'Interet National 06200 Nice",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:phone":"+33 4 93 72 67 60",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":152099061,
-    "wof:lastmodified":1449047306,
+    "wof:lastmodified":1466248444,
     "wof:name":"Dolla Sa",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.27444,43.697254,7.27444,43.697254],
+  "bbox": [
+    7.27444,
+    43.697254,
+    7.27444,
+    43.697254
+],
   "geometry": {"coordinates":[7.27444,43.697254],"type":"Point"}
 }

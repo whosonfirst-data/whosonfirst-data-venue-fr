@@ -2,13 +2,14 @@
   "id": 168862601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.226014,48.822498,2.226014,48.822498",
     "geom:latitude":48.822498,
     "geom:longitude":2.226014,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Rue Marcel All\u00e9grot, 92190 Meudon",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168862601,
-    "wof:lastmodified":1449028619,
+    "wof:lastmodified":1466245864,
     "wof:name":"Cast S.a.",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.226014,48.822498,2.226014,48.822498],
+  "bbox": [
+    2.226014,
+    48.822498,
+    2.226014,
+    48.822498
+],
   "geometry": {"coordinates":[2.226014,48.822498],"type":"Point"}
 }

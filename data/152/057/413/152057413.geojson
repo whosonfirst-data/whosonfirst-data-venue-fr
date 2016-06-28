@@ -2,13 +2,14 @@
   "id": 152057413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.341351,43.350784,5.341351,43.350784",
     "geom:latitude":43.350784,
     "geom:longitude":5.341351,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"468 Chem Du Littoral 13321 Marseille Cedex 16",
     "sg:classifiers":[],
     "sg:orig_category":"Chemicals and Pharmaceuticals Finished goods - metallic Metallurgy and Metalworking Pharmacy",
@@ -17,11 +18,11 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794551,
+        85683441,
         85633147,
         101749199,
         102072499,
-        85683441
+        85794551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152057413,
-    "wof:lastmodified":1449046585,
+    "wof:lastmodified":1466246610,
     "wof:name":"Laboratoire Pharmygiene - Scat",
     "wof:parent_id":85794551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.341351,43.350784,5.341351,43.350784],
+  "bbox": [
+    5.341351,
+    43.350784,
+    5.341351,
+    43.350784
+],
   "geometry": {"coordinates":[5.341351,43.350784],"type":"Point"}
 }

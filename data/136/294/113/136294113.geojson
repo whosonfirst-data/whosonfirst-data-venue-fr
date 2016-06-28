@@ -2,13 +2,14 @@
   "id": 136294113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325938,48.845791,2.325938,48.845791",
     "geom:latitude":48.845791,
     "geom:longitude":2.325938,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Rue De Rennes 75006 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873837,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136294113,
-    "wof:lastmodified":1449075871,
+    "wof:lastmodified":1466246301,
     "wof:name":"Credit Agricole/centre D'affaire Paris Rennes.",
     "wof:parent_id":85873837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325938,48.845791,2.325938,48.845791],
+  "bbox": [
+    2.325938,
+    48.845791,
+    2.325938,
+    48.845791
+],
   "geometry": {"coordinates":[2.325938,48.845791],"type":"Point"}
 }

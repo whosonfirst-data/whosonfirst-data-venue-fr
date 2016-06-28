@@ -2,13 +2,14 @@
   "id": 152105777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320084,48.880001,2.320084,48.880001",
     "geom:latitude":48.880001,
     "geom:longitude":2.320084,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 rue de Constantinople 75008 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873849,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152105777,
-    "wof:lastmodified":1449046068,
+    "wof:lastmodified":1466248929,
     "wof:name":"Sed Sa",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320084,48.880001,2.320084,48.880001],
+  "bbox": [
+    2.320084,
+    48.880001,
+    2.320084,
+    48.880001
+],
   "geometry": {"coordinates":[2.320084,48.880001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136274817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.315356,48.871559,2.315356,48.871559",
     "geom:latitude":48.871559,
     "geom:longitude":2.315356,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"104 R Du Faubourg Saint-Honor\u00e9",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274817,
-    "wof:lastmodified":1449075080,
+    "wof:lastmodified":1466246433,
     "wof:name":"Bailly Michel Pommery Herve",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.315356,48.871559,2.315356,48.871559],
+  "bbox": [
+    2.315356,
+    48.871559,
+    2.315356,
+    48.871559
+],
   "geometry": {"coordinates":[2.315356,48.871559],"type":"Point"}
 }

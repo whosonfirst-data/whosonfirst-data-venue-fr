@@ -2,13 +2,14 @@
   "id": 152084449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.07517,49.443169,1.07517,49.443169",
     "geom:latitude":49.443169,
     "geom:longitude":1.07517,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai De Boisguilbert 76000 Rouen",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152084449,
-    "wof:lastmodified":1449044810,
+    "wof:lastmodified":1466247840,
     "wof:name":"Tout Moquette Sa",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.07517,49.443169,1.07517,49.443169],
+  "bbox": [
+    1.07517,
+    49.443169,
+    1.07517,
+    49.443169
+],
   "geometry": {"coordinates":[1.07517,49.443169],"type":"Point"}
 }

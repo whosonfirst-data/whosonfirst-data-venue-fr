@@ -2,13 +2,14 @@
   "id": 152067507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.440605,37.066505,-80.440605,37.066505",
     "geom:latitude":37.066505,
     "geom:longitude":-80.440605,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Route Nationale 62223 Sainte Cath\u00e9rine",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087271,
-        85633793,
         85688747,
-        85824047
+        85633793,
+        85824047,
+        102087271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152067507,
-    "wof:lastmodified":1449044600,
+    "wof:lastmodified":1466247388,
     "wof:name":"Sade Cgth",
     "wof:parent_id":85824047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.440605,37.066505,-80.440605,37.066505],
-  "geometry": {"coordinates":[-80.440605,37.066505],"type":"Point"}
+  "bbox": [
+    -80.440605,
+    37.066505,
+    -80.440605,
+    37.066505
+],
+  "geometry": {"coordinates":[-80.44060500000001,37.066505],"type":"Point"}
 }

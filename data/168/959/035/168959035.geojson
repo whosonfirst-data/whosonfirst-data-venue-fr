@@ -2,13 +2,14 @@
   "id": 168959035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.029603,49.451221,1.029603,49.451221",
     "geom:latitude":49.451221,
     "geom:longitude":1.029603,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"257, Rue Joseph Anseaume - Parc d'Activit\u00e9 la Beguini\u00e8re, 76380 Canteleu",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168959035,
-    "wof:lastmodified":1449028516,
+    "wof:lastmodified":1466248430,
     "wof:name":"Forclum Ate S.n.c.",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.029603,49.451221,1.029603,49.451221],
+  "bbox": [
+    1.029603,
+    49.451221,
+    1.029603,
+    49.451221
+],
   "geometry": {"coordinates":[1.029603,49.451221],"type":"Point"}
 }

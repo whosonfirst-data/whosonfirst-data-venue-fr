@@ -2,13 +2,14 @@
   "id": 136305093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.573549,44.81266,-0.573549,44.81266",
     "geom:latitude":44.81266,
     "geom:longitude":-0.573549,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"533 route de Toulouse; Bordeaux",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897677,
+        85683243,
         85633147,
         101750773,
         102071707,
-        85683243
+        85897677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136305093,
-    "wof:lastmodified":1449075110,
+    "wof:lastmodified":1466246904,
     "wof:name":"Cr\u00e9dit Mutuel Sud Ouest",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.573549,44.81266,-0.573549,44.81266],
+  "bbox": [
+    -0.573549,
+    44.81266,
+    -0.573549,
+    44.81266
+],
   "geometry": {"coordinates":[-0.573549,44.81266],"type":"Point"}
 }

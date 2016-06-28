@@ -2,13 +2,14 @@
   "id": 169248791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.23598,48.833209,2.23598,48.833209",
     "geom:latitude":48.833209,
     "geom:longitude":2.23598,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Quai Georges Gorse",
     "sg:city":"Boulogne-Billancourt",
     "sg:classifiers":[
@@ -23,14 +24,14 @@
     "sg:website":"http://www.ipsen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157,
-        85794445,
+        85873971,
         101751135,
-        102070801
+        102070801,
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":169248791,
-    "wof:lastmodified":1449034505,
+    "wof:lastmodified":1466249596,
     "wof:name":"Ipsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.23598,48.833209,2.23598,48.833209],
+  "bbox": [
+    2.23598,
+    48.833209,
+    2.23598,
+    48.833209
+],
   "geometry": {"coordinates":[2.23598,48.833209],"type":"Point"}
 }

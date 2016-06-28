@@ -2,13 +2,14 @@
   "id": 152171713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329163,35.406319,-97.329163,35.406319",
     "geom:latitude":35.406319,
     "geom:longitude":-97.329163,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Gare Centrale 73150 Val D'Is\u00e8re",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85819711,
+        85688585,
         85633793,
         101714461,
         102082577,
-        85688585
+        85819711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152171713,
-    "wof:lastmodified":1449048917,
+    "wof:lastmodified":1466249583,
     "wof:name":"Stvi",
     "wof:parent_id":85819711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.329163,35.406319,-97.329163,35.406319],
-  "geometry": {"coordinates":[-97.329163,35.406319],"type":"Point"}
+  "bbox": [
+    -97.329163,
+    35.406319,
+    -97.329163,
+    35.406319
+],
+  "geometry": {"coordinates":[-97.32916299999999,35.406319],"type":"Point"}
 }

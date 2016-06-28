@@ -2,13 +2,14 @@
   "id": 153052973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.488294,47.266735,-1.488294,47.266735",
     "geom:latitude":47.266735,
     "geom:longitude":-1.488294,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue de la Fonderie",
     "sg:city":"Carquefou",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153052973,
-    "wof:lastmodified":1449040528,
+    "wof:lastmodified":1466245917,
     "wof:name":"A.t.e.a. S.a. - Soci\u00e9t\u00e9 Atlantique De Techniques Avanc\u00e9es",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.488294,47.266735,-1.488294,47.266735],
+  "bbox": [
+    -1.488294,
+    47.266735,
+    -1.488294,
+    47.266735
+],
   "geometry": {"coordinates":[-1.488294,47.266735],"type":"Point"}
 }

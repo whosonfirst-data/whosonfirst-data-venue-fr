@@ -2,13 +2,14 @@
   "id": 152882551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.64762,44.841808,-0.64762,44.841808",
     "geom:latitude":44.841808,
     "geom:longitude":-0.64762,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"avenue du Pr\u00e9sident Kennedy 33700 MERIGNAC",
     "sg:city":"M\u00e9rignac",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794455,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85794455
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152882551,
-    "wof:lastmodified":1449045130,
+    "wof:lastmodified":1466252163,
     "wof:name":"Lecopin Sa",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.64762,44.841808,-0.64762,44.841808],
+  "bbox": [
+    -0.64762,
+    44.841808,
+    -0.64762,
+    44.841808
+],
   "geometry": {"coordinates":[-0.64762,44.841808],"type":"Point"}
 }

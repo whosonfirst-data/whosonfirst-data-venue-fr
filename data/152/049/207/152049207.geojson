@@ -2,13 +2,14 @@
   "id": 152049207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32841,48.842159,2.32841,48.842159",
     "geom:latitude":48.842159,
     "geom:longitude":2.32841,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Bd Du Montparnasse 75014 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873827,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873827
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049207,
-    "wof:lastmodified":1449046593,
+    "wof:lastmodified":1466245751,
     "wof:name":"La Coupole Sa",
     "wof:parent_id":85873827,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32841,48.842159,2.32841,48.842159],
+  "bbox": [
+    2.32841,
+    48.842159,
+    2.32841,
+    48.842159
+],
   "geometry": {"coordinates":[2.32841,48.842159],"type":"Point"}
 }

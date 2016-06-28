@@ -2,13 +2,14 @@
   "id": 152077415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.403061,48.871758,2.403061,48.871758",
     "geom:latitude":48.871758,
     "geom:longitude":2.403061,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Rue Saint Fargeau 75020 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874053,
+        85683497,
         85633147,
         101751119,
         102070381,
-        85683497
+        85874053
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152077415,
-    "wof:lastmodified":1449045044,
+    "wof:lastmodified":1466246756,
     "wof:name":"Acim Jouanin",
     "wof:parent_id":85874053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.403061,48.871758,2.403061,48.871758],
+  "bbox": [
+    2.403061,
+    48.871758,
+    2.403061,
+    48.871758
+],
   "geometry": {"coordinates":[2.403061,48.871758],"type":"Point"}
 }

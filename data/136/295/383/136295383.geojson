@@ -2,13 +2,14 @@
   "id": 136295383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.321594,48.876911,2.321594,48.876911",
     "geom:latitude":48.876911,
     "geom:longitude":2.321594,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue De Vienne 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873855,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873855
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136295383,
-    "wof:lastmodified":1449075459,
+    "wof:lastmodified":1466246398,
     "wof:name":"Axa Assurance Vie",
     "wof:parent_id":85873855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.321594,48.876911,2.321594,48.876911],
+  "bbox": [
+    2.321594,
+    48.876911,
+    2.321594,
+    48.876911
+],
   "geometry": {"coordinates":[2.321594,48.876911],"type":"Point"}
 }

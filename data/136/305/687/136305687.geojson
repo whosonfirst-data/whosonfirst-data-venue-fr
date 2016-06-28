@@ -2,13 +2,14 @@
   "id": 136305687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328713,48.877464,2.328713,48.877464",
     "geom:latitude":48.877464,
     "geom:longitude":2.328713,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 rue de Londres, 75009 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -22,13 +23,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873849,
-        102068357
+        85873871,
+        102068357,
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":136305687,
-    "wof:lastmodified":1449075112,
+    "wof:lastmodified":1466247028,
     "wof:name":"G\u00e9n\u00e9rale De Banque Belge (france) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328713,48.877464,2.328713,48.877464],
+  "bbox": [
+    2.328713,
+    48.877464,
+    2.328713,
+    48.877464
+],
   "geometry": {"coordinates":[2.328713,48.877464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152227995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.340838,48.873787,2.340838,48.873787",
     "geom:latitude":48.873787,
     "geom:longitude":2.340838,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 rue Drouot 75009 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Music Archives For Video, Tv, Multimedia And Advertising Productions",
@@ -18,13 +19,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497,
-        85873799,
-        102067221
+        85873867,
+        102067221,
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152227995,
-    "wof:lastmodified":1449045322,
+    "wof:lastmodified":1466249851,
     "wof:name":"Inca Production S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.340838,48.873787,2.340838,48.873787],
+  "bbox": [
+    2.340838,
+    48.873787,
+    2.340838,
+    48.873787
+],
   "geometry": {"coordinates":[2.340838,48.873787],"type":"Point"}
 }

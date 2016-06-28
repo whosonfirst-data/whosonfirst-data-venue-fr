@@ -2,13 +2,14 @@
   "id": 152931959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.289035,48.910294,2.289035,48.910294",
     "geom:latitude":48.910294,
     "geom:longitude":2.289035,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Louis Armand",
     "sg:city":"92600 Asni\u00e8res Sur Seine",
     "sg:classifiers":[
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152931959,
-    "wof:lastmodified":1449048507,
+    "wof:lastmodified":1466252371,
     "wof:name":"Sira",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.289035,48.910294,2.289035,48.910294],
+  "bbox": [
+    2.289035,
+    48.910294,
+    2.289035,
+    48.910294
+],
   "geometry": {"coordinates":[2.289035,48.910294],"type":"Point"}
 }

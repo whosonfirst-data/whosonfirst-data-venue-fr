@@ -2,13 +2,14 @@
   "id": 136289973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.73643,48.585079,7.73643,48.585079",
     "geom:latitude":48.585079,
     "geom:longitude":7.73643,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Du Havre 67000 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136289973,
-    "wof:lastmodified":1449076034,
+    "wof:lastmodified":1466246223,
     "wof:name":"P & O Mondia",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.73643,48.585079,7.73643,48.585079],
+  "bbox": [
+    7.73643,
+    48.585079,
+    7.73643,
+    48.585079
+],
   "geometry": {"coordinates":[7.73643,48.585079],"type":"Point"}
 }

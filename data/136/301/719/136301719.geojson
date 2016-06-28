@@ -2,13 +2,14 @@
   "id": 136301719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.08824,49.442245,1.08824,49.442245",
     "geom:latitude":49.442245,
     "geom:longitude":1.08824,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 place de la Pucelle, 76000 Rouen, Dept 76",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301719,
-    "wof:lastmodified":1449075238,
+    "wof:lastmodified":1466246842,
     "wof:name":"Cinindev",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.08824,49.442245,1.08824,49.442245],
+  "bbox": [
+    1.08824,
+    49.442245,
+    1.08824,
+    49.442245
+],
   "geometry": {"coordinates":[1.08824,49.442245],"type":"Point"}
 }

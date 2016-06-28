@@ -2,13 +2,14 @@
   "id": 152243321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.40051,48.841507,2.40051,48.841507",
     "geom:latitude":48.841507,
     "geom:longitude":2.40051,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Bd de Picpus, 75012 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873911,
+        85683497,
         85633147,
         101751119,
         102069097,
-        85683497
+        85873911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152243321,
-    "wof:lastmodified":1449045803,
+    "wof:lastmodified":1466249868,
     "wof:name":"A.n.p.e. - Agence Nationale Pour L'emploi",
     "wof:parent_id":85873911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.40051,48.841507,2.40051,48.841507],
+  "bbox": [
+    2.40051,
+    48.841507,
+    2.40051,
+    48.841507
+],
   "geometry": {"coordinates":[2.40051,48.841507],"type":"Point"}
 }

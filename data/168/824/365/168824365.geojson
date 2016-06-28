@@ -2,13 +2,14 @@
   "id": 168824365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.76478,48.626995,7.76478,48.626995",
     "geom:latitude":48.626995,
     "geom:longitude":7.76478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue de l'Uranium - ZI, 67800 Bischheim",
     "sg:city":"Bischheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168824365,
-    "wof:lastmodified":1449028022,
+    "wof:lastmodified":1466245551,
     "wof:name":"Baumann Production S.a.",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.76478,48.626995,7.76478,48.626995],
+  "bbox": [
+    7.76478,
+    48.626995,
+    7.76478,
+    48.626995
+],
   "geometry": {"coordinates":[7.76478,48.626995],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152898861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.422177,48.625809,2.422177,48.625809",
     "geom:latitude":48.625809,
     "geom:longitude":2.422177,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Square Des Champs Elysees 91080 Courcouronnes",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152898861,
-    "wof:lastmodified":1449044188,
+    "wof:lastmodified":1466252232,
     "wof:name":"Lecoeur Electronique",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.422177,48.625809,2.422177,48.625809],
+  "bbox": [
+    2.422177,
+    48.625809,
+    2.422177,
+    48.625809
+],
   "geometry": {"coordinates":[2.422177,48.625809],"type":"Point"}
 }

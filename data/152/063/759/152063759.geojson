@@ -2,13 +2,14 @@
   "id": 152063759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32096,48.89114,2.32096,48.89114",
     "geom:latitude":48.89114,
     "geom:longitude":2.32096,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Rue Sauffroy 75017 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873989,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152063759,
-    "wof:lastmodified":1449044705,
+    "wof:lastmodified":1466247155,
     "wof:name":"Lange Et Linceul",
     "wof:parent_id":85873989,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32096,48.89114,2.32096,48.89114],
+  "bbox": [
+    2.32096,
+    48.89114,
+    2.32096,
+    48.89114
+],
   "geometry": {"coordinates":[2.32096,48.89114],"type":"Point"}
 }

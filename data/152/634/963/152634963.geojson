@@ -2,13 +2,14 @@
   "id": 152634963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.287098,43.707783,7.287098,43.707783",
     "geom:latitude":43.707783,
     "geom:longitude":7.287098,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Rue de Roquebilli\u00e8re, 06300 Nice",
     "sg:city":"Billi\u00e8re",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152634963,
-    "wof:lastmodified":1449046512,
+    "wof:lastmodified":1466251315,
     "wof:name":"M\u00e9diaparc S.a.",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.287098,43.707783,7.287098,43.707783],
+  "bbox": [
+    7.287098,
+    43.707783,
+    7.287098,
+    43.707783
+],
   "geometry": {"coordinates":[7.287098,43.707783],"type":"Point"}
 }

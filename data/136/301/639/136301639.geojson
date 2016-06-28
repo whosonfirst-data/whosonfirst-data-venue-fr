@@ -2,13 +2,14 @@
   "id": 136301639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.305045,48.874294,2.305045,48.874294",
     "geom:latitude":48.874294,
     "geom:longitude":2.305045,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"44 rue Washington, 75008 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301639,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246826,
     "wof:name":"Ccr-gestion",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.305045,48.874294,2.305045,48.874294],
+  "bbox": [
+    2.305045,
+    48.874294,
+    2.305045,
+    48.874294
+],
   "geometry": {"coordinates":[2.305045,48.874294],"type":"Point"}
 }

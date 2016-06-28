@@ -2,13 +2,14 @@
   "id": 152547793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.442661,48.864525,2.442661,48.864525",
     "geom:latitude":48.864525,
     "geom:longitude":2.442661,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"65, Rue du G\u00e9n\u00e9ral Galli\u00e8ni, 93107 Montreuil C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152547793,
-    "wof:lastmodified":1449044777,
+    "wof:lastmodified":1466250989,
     "wof:name":"J.a.s. Aircraft S.a.",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.442661,48.864525,2.442661,48.864525],
+  "bbox": [
+    2.442661,
+    48.864525,
+    2.442661,
+    48.864525
+],
   "geometry": {"coordinates":[2.442661,48.864525],"type":"Point"}
 }

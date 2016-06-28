@@ -2,13 +2,14 @@
   "id": 136283261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.003544,48.527706,-2.003544,48.527706",
     "geom:latitude":48.527706,
     "geom:longitude":-2.003544,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc Act De La Grignardais Section De Pleslin 22490 Pleslin Trigavou",
     "sg:city":"Plou\u00ebr-sur-Rance",
     "sg:classifiers":[
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":136283261,
-    "wof:lastmodified":1449075275,
+    "wof:lastmodified":1466245650,
     "wof:name":"Grimaud Et Gelard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-2.003544,48.527706,-2.003544,48.527706],
+  "bbox": [
+    -2.003544,
+    48.527706,
+    -2.003544,
+    48.527706
+],
   "geometry": {"coordinates":[-2.003544,48.527706],"type":"Point"}
 }

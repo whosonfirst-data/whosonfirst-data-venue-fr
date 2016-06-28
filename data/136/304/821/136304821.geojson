@@ -2,13 +2,14 @@
   "id": 136304821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.454759,48.39867,-4.454759,48.39867",
     "geom:latitude":48.39867,
     "geom:longitude":-4.454759,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"122 rue Verdun; Brest",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794659,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136304821,
-    "wof:lastmodified":1449075912,
+    "wof:lastmodified":1466247041,
     "wof:name":"Cr\u00e9dit Mutuel De Bretagne",
     "wof:parent_id":85794659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.454759,48.39867,-4.454759,48.39867],
+  "bbox": [
+    -4.454759,
+    48.39867,
+    -4.454759,
+    48.39867
+],
   "geometry": {"coordinates":[-4.454759,48.39867],"type":"Point"}
 }

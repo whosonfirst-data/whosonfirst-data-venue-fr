@@ -2,13 +2,14 @@
   "id": 153015755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.486421,48.78487,2.486421,48.78487",
     "geom:latitude":48.78487,
     "geom:longitude":2.486421,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"133 quai de la Pie 94100 St Maur Des Fosses",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153015755,
-    "wof:lastmodified":1449040447,
+    "wof:lastmodified":1466246041,
     "wof:name":"Access Telecom S.a.",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.486421,48.78487,2.486421,48.78487],
+  "bbox": [
+    2.486421,
+    48.78487,
+    2.486421,
+    48.78487
+],
   "geometry": {"coordinates":[2.486421,48.78487],"type":"Point"}
 }

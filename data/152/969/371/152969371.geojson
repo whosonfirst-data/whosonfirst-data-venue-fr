@@ -2,13 +2,14 @@
   "id": 152969371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.9052,43.13773,5.9052,43.13773",
     "geom:latitude":43.13773,
     "geom:longitude":5.9052,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Rue Des Fr\u00e8res Lumi\u00e8re BP 41 Zi De Toulon Est 83087 Toulon Cedex 9",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152969371,
-    "wof:lastmodified":1449045403,
+    "wof:lastmodified":1466252458,
     "wof:name":"Ste Des Transports Graveleau Sa",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.9052,43.13773,5.9052,43.13773],
+  "bbox": [
+    5.9052,
+    43.13773,
+    5.9052,
+    43.13773
+],
   "geometry": {"coordinates":[5.9052,43.13773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152080675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.400904,43.589962,1.400904,43.589962",
     "geom:latitude":43.589962,
     "geom:longitude":1.400904,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Chemin Des Courses 31057 Toulouse Cedex 01",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152080675,
-    "wof:lastmodified":1449048785,
+    "wof:lastmodified":1466247425,
     "wof:name":"Unite De Production Sud Ouest",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.400904,43.589962,1.400904,43.589962],
+  "bbox": [
+    1.400904,
+    43.589962,
+    1.400904,
+    43.589962
+],
   "geometry": {"coordinates":[1.400904,43.589962],"type":"Point"}
 }

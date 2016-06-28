@@ -2,13 +2,14 @@
   "id": 136281257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297466,48.844437,2.297466,48.844437",
     "geom:latitude":48.844437,
     "geom:longitude":2.297466,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Rue Joseph Liouville 75015 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873963,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281257,
-    "wof:lastmodified":1449076055,
+    "wof:lastmodified":1466245503,
     "wof:name":"Filigrane Sarl",
     "wof:parent_id":85873963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297466,48.844437,2.297466,48.844437],
+  "bbox": [
+    2.297466,
+    48.844437,
+    2.297466,
+    48.844437
+],
   "geometry": {"coordinates":[2.297466,48.844437],"type":"Point"}
 }

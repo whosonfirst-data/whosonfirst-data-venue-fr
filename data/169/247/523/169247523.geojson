@@ -2,13 +2,14 @@
   "id": 169247523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.34882,48.876944,2.34882,48.876944",
     "geom:latitude":48.876944,
     "geom:longitude":2.34882,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, rue du Faubourg Poissonni\u00e8re",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"http://www.koalog.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169247523,
-    "wof:lastmodified":1449034624,
+    "wof:lastmodified":1466249517,
     "wof:name":"Koalog",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.34882,48.876944,2.34882,48.876944],
+  "bbox": [
+    2.34882,
+    48.876944,
+    2.34882,
+    48.876944
+],
   "geometry": {"coordinates":[2.34882,48.876944],"type":"Point"}
 }

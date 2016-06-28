@@ -2,13 +2,14 @@
   "id": 136301021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.565659,47.211285,-1.565659,47.211285",
     "geom:latitude":47.211285,
     "geom:longitude":-1.565659,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"BP 835, 8 Rue de Br\u00e9a, 44020 Nantes Cedex, Dept 44",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136301021,
-    "wof:lastmodified":1449075240,
+    "wof:lastmodified":1466246700,
     "wof:name":"Caisse D'epargne Des Pays De La Loire",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.565659,47.211285,-1.565659,47.211285],
+  "bbox": [
+    -1.565659,
+    47.211285,
+    -1.565659,
+    47.211285
+],
   "geometry": {"coordinates":[-1.565659,47.211285],"type":"Point"}
 }

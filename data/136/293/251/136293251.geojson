@@ -2,13 +2,14 @@
   "id": 136293251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.2201,30.224079,-93.2201,30.224079",
     "geom:latitude":30.224079,
     "geom:longitude":-93.2201,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZI de Fetan 70602 Trevaux",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853189,
+        85688735,
         85633793,
         85948165,
         102081035,
-        85688735
+        85853189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136293251,
-    "wof:lastmodified":1449075164,
+    "wof:lastmodified":1466246313,
     "wof:name":"Emco International S.a.",
     "wof:parent_id":85853189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.2201,30.224079,-93.2201,30.224079],
+  "bbox": [
+    -93.2201,
+    30.224079,
+    -93.2201,
+    30.224079
+],
   "geometry": {"coordinates":[-93.2201,30.224079],"type":"Point"}
 }

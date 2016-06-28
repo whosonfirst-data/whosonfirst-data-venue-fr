@@ -2,13 +2,14 @@
   "id": 152201737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.500716,48.816666,2.500716,48.816666",
     "geom:latitude":48.816666,
     "geom:longitude":2.500716,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Avenue Roger Salengro 94500 Champigny Sur Marne",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152201737,
-    "wof:lastmodified":1449048297,
+    "wof:lastmodified":1466249731,
     "wof:name":"Chapellet - Ile De France Sa Sarl",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.500716,48.816666,2.500716,48.816666],
+  "bbox": [
+    2.500716,
+    48.816666,
+    2.500716,
+    48.816666
+],
   "geometry": {"coordinates":[2.500716,48.816666],"type":"Point"}
 }

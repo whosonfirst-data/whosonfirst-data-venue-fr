@@ -2,13 +2,14 @@
   "id": 136311843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.329258,49.200478,-0.329258,49.200478",
     "geom:latitude":49.200478,
     "geom:longitude":-0.329258,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"326 Quartier Des Belles Portes 14200 H\u00e9rouville St Clair",
     "sg:city":"H\u00e9rouville-Saint-Clair",
     "sg:classifiers":[
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136311843,
-    "wof:lastmodified":1449075219,
+    "wof:lastmodified":1466247450,
     "wof:name":"Boivin Gerard Claude Georges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.329258,49.200478,-0.329258,49.200478],
+  "bbox": [
+    -0.329258,
+    49.200478,
+    -0.329258,
+    49.200478
+],
   "geometry": {"coordinates":[-0.329258,49.200478],"type":"Point"}
 }

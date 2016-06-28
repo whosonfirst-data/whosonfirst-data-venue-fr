@@ -2,13 +2,14 @@
   "id": 136274813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.430712,48.638309,2.430712,48.638309",
     "geom:latitude":48.638309,
     "geom:longitude":2.430712,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Rue Paul Claudel Immeuble Le Mozart",
     "sg:city":"Evry",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274813,
-    "wof:lastmodified":1449075079,
+    "wof:lastmodified":1466246432,
     "wof:name":"Azur Assurances Iard",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.430712,48.638309,2.430712,48.638309],
+  "bbox": [
+    2.430712,
+    48.638309,
+    2.430712,
+    48.638309
+],
   "geometry": {"coordinates":[2.430712,48.638309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152720663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.38382,43.560848,1.38382,43.560848",
     "geom:latitude":43.560848,
     "geom:longitude":1.38382,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"113, Chemin de Basso Cambo, 31100 Toulouse",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152720663,
-    "wof:lastmodified":1449045398,
+    "wof:lastmodified":1466251599,
     "wof:name":"S.e.o. S.a. - Soci\u00e9t\u00e9 Electronique Occitane",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.38382,43.560848,1.38382,43.560848],
+  "bbox": [
+    1.38382,
+    43.560848,
+    1.38382,
+    43.560848
+],
   "geometry": {"coordinates":[1.38382,43.560848],"type":"Point"}
 }

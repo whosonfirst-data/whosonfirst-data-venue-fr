@@ -2,13 +2,14 @@
   "id": 152128697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.394778,48.83387,2.394778,48.83387",
     "geom:latitude":48.83387,
     "geom:longitude":2.394778,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Rue De Charenton 75012 Paris",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152128697,
-    "wof:lastmodified":1449046118,
+    "wof:lastmodified":1466249445,
     "wof:name":"Cofadis Sa",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.394778,48.83387,2.394778,48.83387],
+  "bbox": [
+    2.394778,
+    48.83387,
+    2.394778,
+    48.83387
+],
   "geometry": {"coordinates":[2.394778,48.83387],"type":"Point"}
 }

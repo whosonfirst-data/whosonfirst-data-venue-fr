@@ -2,13 +2,14 @@
   "id": 169234097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.415651,48.815311,2.415651,48.815311",
     "geom:latitude":48.815311,
     "geom:longitude":2.415651,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 rue du Parc 94140 Alfortville",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169234097,
-    "wof:lastmodified":1449035779,
+    "wof:lastmodified":1466249550,
     "wof:name":"Ste Sicsa S.a.",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.415651,48.815311,2.415651,48.815311],
+  "bbox": [
+    2.415651,
+    48.815311,
+    2.415651,
+    48.815311
+],
   "geometry": {"coordinates":[2.415651,48.815311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152296145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.615514,50.727444,1.615514,50.727444",
     "geom:latitude":50.727444,
     "geom:longitude":1.615514,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 359, 62205 Boulogne sur Mer C\u00e9dex^^31, Rue Albert Lavocat, 62200 Boulogne sur Mer",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863289,
+        85683255,
         85633147,
         101839601,
         102071779,
-        85683255
+        85863289
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152296145,
-    "wof:lastmodified":1449048064,
+    "wof:lastmodified":1466250049,
     "wof:name":"Baey Marcel S.a.",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.615514,50.727444,1.615514,50.727444],
+  "bbox": [
+    1.615514,
+    50.727444,
+    1.615514,
+    50.727444
+],
   "geometry": {"coordinates":[1.615514,50.727444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 153014423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.244238,48.819202,2.244238,48.819202",
     "geom:latitude":48.819202,
     "geom:longitude":2.244238,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Rue Marcel Miquel 92130 Issy Les Moulineaux",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":153014423,
-    "wof:lastmodified":1449040567,
+    "wof:lastmodified":1466245989,
     "wof:name":"Sogintel Sa",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.244238,48.819202,2.244238,48.819202],
+  "bbox": [
+    2.244238,
+    48.819202,
+    2.244238,
+    48.819202
+],
   "geometry": {"coordinates":[2.244238,48.819202],"type":"Point"}
 }

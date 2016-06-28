@@ -2,13 +2,14 @@
   "id": 153024477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.260071,48.833153,2.260071,48.833153",
     "geom:latitude":48.833153,
     "geom:longitude":2.260071,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Quai Du Point Du Jour 92277 Boulogne Billancourt Cedex",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024477,
-    "wof:lastmodified":1449040549,
+    "wof:lastmodified":1466246537,
     "wof:name":"La Poste",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.260071,48.833153,2.260071,48.833153],
+  "bbox": [
+    2.260071,
+    48.833153,
+    2.260071,
+    48.833153
+],
   "geometry": {"coordinates":[2.260071,48.833153],"type":"Point"}
 }

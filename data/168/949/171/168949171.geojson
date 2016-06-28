@@ -2,13 +2,14 @@
   "id": 168949171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.298189,48.88303,2.298189,48.88303",
     "geom:latitude":48.88303,
     "geom:longitude":2.298189,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"55, Rue Pierre Demours, 75017 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873983,
+        85683157,
         85633147,
         101749795,
         102072019,
-        85683157
+        85873983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168949171,
-    "wof:lastmodified":1449028258,
+    "wof:lastmodified":1466248240,
     "wof:name":"F.d. S.a. - Forum Diffusion",
     "wof:parent_id":85873983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.298189,48.88303,2.298189,48.88303],
+  "bbox": [
+    2.298189,
+    48.88303,
+    2.298189,
+    48.88303
+],
   "geometry": {"coordinates":[2.298189,48.88303],"type":"Point"}
 }

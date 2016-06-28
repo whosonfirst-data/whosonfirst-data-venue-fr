@@ -2,13 +2,14 @@
   "id": 152982501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.297079,48.811558,2.297079,48.811558",
     "geom:latitude":48.811558,
     "geom:longitude":2.297079,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Boulevard De Stalingrad 92320 Chatillon",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152982501,
-    "wof:lastmodified":1449045101,
+    "wof:lastmodified":1466252565,
     "wof:name":"Cabaplast",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.297079,48.811558,2.297079,48.811558],
+  "bbox": [
+    2.297079,
+    48.811558,
+    2.297079,
+    48.811558
+],
   "geometry": {"coordinates":[2.297079,48.811558],"type":"Point"}
 }

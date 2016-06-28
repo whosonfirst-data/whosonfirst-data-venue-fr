@@ -2,13 +2,14 @@
   "id": 136301483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.536066,47.233421,-1.536066,47.233421",
     "geom:latitude":47.233421,
     "geom:longitude":-1.536066,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 rue du G\u00e9n\u00e9ral Buat; Nantes; 44300",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897697,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301483,
-    "wof:lastmodified":1449075241,
+    "wof:lastmodified":1466246794,
     "wof:name":"Caisse Regionale, De Cr\u00e9dit Agricole",
     "wof:parent_id":85897697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.536066,47.233421,-1.536066,47.233421],
+  "bbox": [
+    -1.536066,
+    47.233421,
+    -1.536066,
+    47.233421
+],
   "geometry": {"coordinates":[-1.536066,47.233421],"type":"Point"}
 }

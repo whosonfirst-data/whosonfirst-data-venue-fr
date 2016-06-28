@@ -2,13 +2,14 @@
   "id": 136277805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.317449,48.837917,2.317449,48.837917",
     "geom:latitude":48.837917,
     "geom:longitude":2.317449,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Place 5 Martyrs Lyc\u00e9e Buffon",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873961,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277805,
-    "wof:lastmodified":1449075059,
+    "wof:lastmodified":1466245375,
     "wof:name":"Gpa Assurances",
     "wof:parent_id":85873961,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.317449,48.837917,2.317449,48.837917],
+  "bbox": [
+    2.317449,
+    48.837917,
+    2.317449,
+    48.837917
+],
   "geometry": {"coordinates":[2.317449,48.837917],"type":"Point"}
 }

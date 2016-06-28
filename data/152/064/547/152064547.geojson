@@ -2,13 +2,14 @@
   "id": 152064547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.372246,48.823711,2.372246,48.823711",
     "geom:latitude":48.823711,
     "geom:longitude":2.372246,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Rue Regnault 75013 Paris Cedex 13",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064547,
-    "wof:lastmodified":1449045938,
+    "wof:lastmodified":1466247191,
     "wof:name":"Maison Selefrance",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.372246,48.823711,2.372246,48.823711],
+  "bbox": [
+    2.372246,
+    48.823711,
+    2.372246,
+    48.823711
+],
   "geometry": {"coordinates":[2.372246,48.823711],"type":"Point"}
 }

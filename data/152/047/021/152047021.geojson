@@ -2,13 +2,14 @@
   "id": 152047021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.392488,48.813522,2.392488,48.813522",
     "geom:latitude":48.813522,
     "geom:longitude":2.392488,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Rue Maurice Grandcoing 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152047021,
-    "wof:lastmodified":1449047279,
+    "wof:lastmodified":1466245584,
     "wof:name":"Telelangue",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.392488,48.813522,2.392488,48.813522],
+  "bbox": [
+    2.392488,
+    48.813522,
+    2.392488,
+    48.813522
+],
   "geometry": {"coordinates":[2.392488,48.813522],"type":"Point"}
 }

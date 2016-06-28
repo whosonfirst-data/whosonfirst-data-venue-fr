@@ -2,13 +2,14 @@
   "id": 152111697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.703079,32.365028,-88.703079,32.365028",
     "geom:latitude":32.365028,
     "geom:longitude":-88.703079,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Ld Les Melincols 39302 Chamtagnole",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85806651,
+        85688579,
         85633793,
         85969517,
         102085897,
-        85688579
+        85806651
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152111697,
-    "wof:lastmodified":1449049049,
+    "wof:lastmodified":1466249135,
     "wof:name":"Sanijura Snc",
     "wof:parent_id":85806651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.703079,32.365028,-88.703079,32.365028],
+  "bbox": [
+    -88.703079,
+    32.365028,
+    -88.703079,
+    32.365028
+],
   "geometry": {"coordinates":[-88.703079,32.365028],"type":"Point"}
 }

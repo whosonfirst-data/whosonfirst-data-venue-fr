@@ -2,13 +2,14 @@
   "id": 152046001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.442939,43.595367,1.442939,43.595367",
     "geom:latitude":43.595367,
     "geom:longitude":1.442939,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Rue De La Fonderie 31068 Toulouse",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794617,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152046001,
-    "wof:lastmodified":1449046861,
+    "wof:lastmodified":1466247440,
     "wof:name":"Institut Catholique",
     "wof:parent_id":85794617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.442939,43.595367,1.442939,43.595367],
+  "bbox": [
+    1.442939,
+    43.595367,
+    1.442939,
+    43.595367
+],
   "geometry": {"coordinates":[1.442939,43.595367],"type":"Point"}
 }

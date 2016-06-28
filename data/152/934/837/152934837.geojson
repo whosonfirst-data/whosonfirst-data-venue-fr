@@ -2,13 +2,14 @@
   "id": 152934837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.419562,43.556946,1.419562,43.556946",
     "geom:latitude":43.556946,
     "geom:longitude":1.419562,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17",
     "sg:city":"Silos 31100 Toulouse",
     "sg:classifiers":[],
@@ -18,11 +19,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152934837,
-    "wof:lastmodified":1449044526,
+    "wof:lastmodified":1466252365,
     "wof:name":"Leader Box",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.419562,43.556946,1.419562,43.556946],
+  "bbox": [
+    1.419562,
+    43.556946,
+    1.419562,
+    43.556946
+],
   "geometry": {"coordinates":[1.419562,43.556946],"type":"Point"}
 }

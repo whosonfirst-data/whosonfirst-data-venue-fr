@@ -2,13 +2,14 @@
   "id": 168982307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.283135,48.844978,2.283135,48.844978",
     "geom:latitude":48.844978,
     "geom:longitude":2.283135,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Rue de Javel, 75015 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873955,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168982307,
-    "wof:lastmodified":1449027904,
+    "wof:lastmodified":1466248748,
     "wof:name":"Gymnase Club S.n.c.",
     "wof:parent_id":85873955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.283135,48.844978,2.283135,48.844978],
+  "bbox": [
+    2.283135,
+    48.844978,
+    2.283135,
+    48.844978
+],
   "geometry": {"coordinates":[2.283135,48.844978],"type":"Point"}
 }

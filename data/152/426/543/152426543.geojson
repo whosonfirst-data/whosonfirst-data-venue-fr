@@ -2,13 +2,14 @@
   "id": 152426543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.568262,47.20985,-1.568262,47.20985",
     "geom:latitude":47.20985,
     "geom:longitude":-1.568262,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Place du Sanitat, 44105 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152426543,
-    "wof:lastmodified":1449045287,
+    "wof:lastmodified":1466250543,
     "wof:name":"E.t.p.o. - S.a. - Entreprise De Travaux Public De L'ouest",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.568262,47.20985,-1.568262,47.20985],
+  "bbox": [
+    -1.568262,
+    47.20985,
+    -1.568262,
+    47.20985
+],
   "geometry": {"coordinates":[-1.568262,47.20985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152047589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.406769,48.625645,2.406769,48.625645",
     "geom:latitude":48.625645,
     "geom:longitude":2.406769,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av De L'Orme \u00c0 Martin 91080 Courcouronnes",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152047589,
-    "wof:lastmodified":1449047278,
+    "wof:lastmodified":1466245703,
     "wof:name":"Buffalo Grill",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.406769,48.625645,2.406769,48.625645],
+  "bbox": [
+    2.406769,
+    48.625645,
+    2.406769,
+    48.625645
+],
   "geometry": {"coordinates":[2.406769,48.625645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152522935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364954,48.867401,2.364954,48.867401",
     "geom:latitude":48.867401,
     "geom:longitude":2.364954,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Place de la R\u00e9publique, 75011 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873805,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497,
-        85873877,
-        102068731
+        85873805,
+        102068731,
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152522935,
-    "wof:lastmodified":1449046511,
+    "wof:lastmodified":1466251150,
     "wof:name":"Holiday Inn Paris R\u00e9publique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364954,48.867401,2.364954,48.867401],
+  "bbox": [
+    2.364954,
+    48.867401,
+    2.364954,
+    48.867401
+],
   "geometry": {"coordinates":[2.364954,48.867401],"type":"Point"}
 }

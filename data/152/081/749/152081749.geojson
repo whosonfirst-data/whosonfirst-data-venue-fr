@@ -2,13 +2,14 @@
   "id": 152081749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.712494,33.027267,-85.712494,33.027267",
     "geom:latitude":33.027267,
     "geom:longitude":-85.712494,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zillia 20214 Calen Zana",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848983,
+        85688675,
         85633793,
         85913327,
         102085567,
-        85688675
+        85848983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152081749,
-    "wof:lastmodified":1449045736,
+    "wof:lastmodified":1466247568,
     "wof:name":"Societe Exploitation Eaux De Zilia Sodez",
     "wof:parent_id":85848983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.712494,33.027267,-85.712494,33.027267],
-  "geometry": {"coordinates":[-85.712494,33.027267],"type":"Point"}
+  "bbox": [
+    -85.712494,
+    33.027267,
+    -85.712494,
+    33.027267
+],
+  "geometry": {"coordinates":[-85.71249400000001,33.027267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152545199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.370256,43.53038,1.370256,43.53038",
     "geom:latitude":43.53038,
     "geom:longitude":1.370256,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 24, 31270 Villeneuve Tolosane^^Chemin Goubard, 31270 Villeneuve Tolosane",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152545199,
-    "wof:lastmodified":1449045406,
+    "wof:lastmodified":1466250968,
     "wof:name":"Ipodec Sud Ouest S.a.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.370256,43.53038,1.370256,43.53038],
+  "bbox": [
+    1.370256,
+    43.53038,
+    1.370256,
+    43.53038
+],
   "geometry": {"coordinates":[1.370256,43.53038],"type":"Point"}
 }

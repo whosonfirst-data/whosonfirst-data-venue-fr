@@ -2,13 +2,14 @@
   "id": 152323441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.287605,47.737144,7.287605,47.737144",
     "geom:latitude":47.737144,
     "geom:longitude":7.287605,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 1187, 68053 Mulhouse C\u00e9dex^^1, Rue d'Alsace, 68200 Mulhouse",
     "sg:city":"Mulhouse",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152323441,
-    "wof:lastmodified":1449044700,
+    "wof:lastmodified":1466250190,
     "wof:name":"C.a.h.r. Formation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.287605,47.737144,7.287605,47.737144],
+  "bbox": [
+    7.287605,
+    47.737144,
+    7.287605,
+    47.737144
+],
   "geometry": {"coordinates":[7.287605,47.737144],"type":"Point"}
 }

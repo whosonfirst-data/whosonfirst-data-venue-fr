@@ -2,13 +2,14 @@
   "id": 169118875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.848509,47.87571,1.848509,47.87571",
     "geom:latitude":47.87571,
     "geom:longitude":1.848509,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"269, Rte de Saint Mesmin, 45750 Saint Pryv\u00e9 Saint Mesmin",
     "sg:city":"Saint-Pryv\u00e9-Saint-Mesmin",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":169118875,
-    "wof:lastmodified":1449035331,
+    "wof:lastmodified":1466248093,
     "wof:name":"Roger Perrin S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.848509,47.87571,1.848509,47.87571],
+  "bbox": [
+    1.848509,
+    47.87571,
+    1.848509,
+    47.87571
+],
   "geometry": {"coordinates":[1.848509,47.87571],"type":"Point"}
 }

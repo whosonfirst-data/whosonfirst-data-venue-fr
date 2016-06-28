@@ -2,13 +2,14 @@
   "id": 152478885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.358719,48.822727,2.358719,48.822727",
     "geom:latitude":48.822727,
     "geom:longitude":2.358719,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27, Rue de la Vistule, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152478885,
-    "wof:lastmodified":1449044445,
+    "wof:lastmodified":1466250733,
     "wof:name":"Fla Consultants",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.358719,48.822727,2.358719,48.822727],
+  "bbox": [
+    2.358719,
+    48.822727,
+    2.358719,
+    48.822727
+],
   "geometry": {"coordinates":[2.358719,48.822727],"type":"Point"}
 }

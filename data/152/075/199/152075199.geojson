@@ -2,13 +2,14 @@
   "id": 152075199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.727592,30.519621,-97.727592,30.519621",
     "geom:latitude":30.519621,
     "geom:longitude":-97.727592,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"200 R De La Couronne Des Pr\u00e9s Zi 78681 Ep\u00f4ne Cedex",
     "sg:city":"\u00c9p\u00f4ne",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152075199,
-    "wof:lastmodified":1449046804,
+    "wof:lastmodified":1466246302,
     "wof:name":"Rescal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.727592,30.519621,-97.727592,30.519621],
+  "bbox": [
+    -97.727592,
+    30.519621,
+    -97.727592,
+    30.519621
+],
   "geometry": {"coordinates":[-97.727592,30.519621],"type":"Point"}
 }

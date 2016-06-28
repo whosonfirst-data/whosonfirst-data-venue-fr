@@ -2,13 +2,14 @@
   "id": 136301815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.559274,47.215336,-1.559274,47.215336",
     "geom:latitude":47.215336,
     "geom:longitude":-1.559274,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 rue Contrescarpe; Nantes; 44000",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301815,
-    "wof:lastmodified":1449075238,
+    "wof:lastmodified":1466246861,
     "wof:name":"Compagnie G\u00e9n\u00e9rale De, Banque Soficam",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.559274,47.215336,-1.559274,47.215336],
+  "bbox": [
+    -1.559274,
+    47.215336,
+    -1.559274,
+    47.215336
+],
   "geometry": {"coordinates":[-1.559274,47.215336],"type":"Point"}
 }

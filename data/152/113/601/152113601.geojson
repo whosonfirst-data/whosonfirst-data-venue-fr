@@ -2,13 +2,14 @@
   "id": 152113601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.44301,43.604359,1.44301,43.604359",
     "geom:latitude":43.604359,
     "geom:longitude":1.44301,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Avenue Du Mirail Zac Basso Cambo BP 1304 31036 Toulouse Cedex",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794585,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152113601,
-    "wof:lastmodified":1449048541,
+    "wof:lastmodified":1466249249,
     "wof:name":"Arche Communication Sa",
     "wof:parent_id":85794585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.44301,43.604359,1.44301,43.604359],
+  "bbox": [
+    1.44301,
+    43.604359,
+    1.44301,
+    43.604359
+],
   "geometry": {"coordinates":[1.44301,43.604359],"type":"Point"}
 }

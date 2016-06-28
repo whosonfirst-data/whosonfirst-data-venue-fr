@@ -2,13 +2,14 @@
   "id": 152281919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.411215,48.847942,2.411215,48.847942",
     "geom:latitude":48.847942,
     "geom:longitude":2.411215,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Bd Davout, 75020 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152281919,
-    "wof:lastmodified":1449048217,
+    "wof:lastmodified":1466250038,
     "wof:name":"Atlas S.a.",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.411215,48.847942,2.411215,48.847942],
+  "bbox": [
+    2.411215,
+    48.847942,
+    2.411215,
+    48.847942
+],
   "geometry": {"coordinates":[2.411215,48.847942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152935889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.233982,48.818829,2.233982,48.818829",
     "geom:latitude":48.818829,
     "geom:longitude":2.233982,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45 B Route Des Gardes 92190 Meudon",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152935889,
-    "wof:lastmodified":1449048088,
+    "wof:lastmodified":1466252367,
     "wof:name":"Cjs Plv",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.233982,48.818829,2.233982,48.818829],
+  "bbox": [
+    2.233982,
+    48.818829,
+    2.233982,
+    48.818829
+],
   "geometry": {"coordinates":[2.233982,48.818829],"type":"Point"}
 }

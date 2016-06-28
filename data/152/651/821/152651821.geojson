@@ -2,13 +2,14 @@
   "id": 152651821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.619307,47.227833,-1.619307,47.227833",
     "geom:latitude":47.227833,
     "geom:longitude":-1.619307,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Marconi - B\u00e2t C",
     "sg:city":"Saint Herblain",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794463,
+        85683233,
         85633147,
         101750935,
         102072065,
-        85683233
+        85794463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152651821,
-    "wof:lastmodified":1449045220,
+    "wof:lastmodified":1466251349,
     "wof:name":"Omron Electronics",
     "wof:parent_id":85794463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.619307,47.227833,-1.619307,47.227833],
+  "bbox": [
+    -1.619307,
+    47.227833,
+    -1.619307,
+    47.227833
+],
   "geometry": {"coordinates":[-1.619307,47.227833],"type":"Point"}
 }

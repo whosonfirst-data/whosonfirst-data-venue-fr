@@ -2,13 +2,14 @@
   "id": 152167163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.586068,48.785545,2.586068,48.785545",
     "geom:latitude":48.785545,
     "geom:longitude":2.586068,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bis Chemin De La Montagne 94510 La Queue En Brie",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152167163,
-    "wof:lastmodified":1449046705,
+    "wof:lastmodified":1466249692,
     "wof:name":"Outil L C",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.586068,48.785545,2.586068,48.785545],
+  "bbox": [
+    2.586068,
+    48.785545,
+    2.586068,
+    48.785545
+],
   "geometry": {"coordinates":[2.586068,48.785545],"type":"Point"}
 }

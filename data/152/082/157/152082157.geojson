@@ -2,13 +2,14 @@
   "id": 152082157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.272723,48.712257,2.272723,48.712257",
     "geom:latitude":48.712257,
     "geom:longitude":2.272723,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Du Parc Des Sports 91160 Champlan",
     "sg:classifiers":[
         {
@@ -33,11 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":152082157,
-    "wof:lastmodified":1449044411,
+    "wof:lastmodified":1466247616,
     "wof:name":"Sreid Division Chaines",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.272723,48.712257,2.272723,48.712257],
+  "bbox": [
+    2.272723,
+    48.712257,
+    2.272723,
+    48.712257
+],
   "geometry": {"coordinates":[2.272723,48.712257],"type":"Point"}
 }

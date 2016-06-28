@@ -2,13 +2,14 @@
   "id": 153058501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.248314,43.554962,-80.248314,43.554962",
     "geom:latitude":43.554962,
     "geom:longitude":-80.248314,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Centre d'Affaires le Ponant",
     "sg:city":"Saint Herblain",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153058501,
-    "wof:lastmodified":1449040399,
+    "wof:lastmodified":1466246136,
     "wof:name":"Adecco Travail Temporaire",
     "wof:parent_id":85875531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-80.248314,43.554962,-80.248314,43.554962],
-  "geometry": {"coordinates":[-80.248314,43.554962],"type":"Point"}
+  "bbox": [
+    -80.248314,
+    43.554962,
+    -80.248314,
+    43.554962
+],
+  "geometry": {"coordinates":[-80.24831399999999,43.554962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168950505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.345885,48.828468,2.345885,48.828468",
     "geom:latitude":48.828468,
     "geom:longitude":2.345885,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Rue V\u00e9rigniaud, 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873915,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168950505,
-    "wof:lastmodified":1449028071,
+    "wof:lastmodified":1466248278,
     "wof:name":"F.t.b. S.a. -france Telebusiness",
     "wof:parent_id":85873915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.345885,48.828468,2.345885,48.828468],
+  "bbox": [
+    2.345885,
+    48.828468,
+    2.345885,
+    48.828468
+],
   "geometry": {"coordinates":[2.345885,48.828468],"type":"Point"}
 }

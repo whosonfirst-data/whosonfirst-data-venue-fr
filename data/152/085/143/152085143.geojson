@@ -2,13 +2,14 @@
   "id": 152085143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.348088,48.87389,2.348088,48.87389",
     "geom:latitude":48.87389,
     "geom:longitude":2.348088,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Rue Du Fbg Poissonni\u00e8re 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152085143,
-    "wof:lastmodified":1449045454,
+    "wof:lastmodified":1466247786,
     "wof:name":"Pansu Ets Sa",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.348088,48.87389,2.348088,48.87389],
+  "bbox": [
+    2.348088,
+    48.87389,
+    2.348088,
+    48.87389
+],
   "geometry": {"coordinates":[2.348088,48.87389],"type":"Point"}
 }

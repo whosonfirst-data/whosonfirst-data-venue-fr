@@ -2,13 +2,14 @@
   "id": 169228119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.554075,47.595772,7.554075,47.595772",
     "geom:latitude":47.595772,
     "geom:longitude":7.554075,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"117 rue de Mulhouse 68300 ST LOUIS",
     "sg:city":"Saint-Louis",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85800031,
+        85683381,
         85633147,
         101829569,
         102066391,
-        85683381
+        85800031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169228119,
-    "wof:lastmodified":1449033722,
+    "wof:lastmodified":1466249312,
     "wof:name":"F.a.d. Sa",
     "wof:parent_id":85800031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.554075,47.595772,7.554075,47.595772],
+  "bbox": [
+    7.554075,
+    47.595772,
+    7.554075,
+    47.595772
+],
   "geometry": {"coordinates":[7.554075,47.595772],"type":"Point"}
 }

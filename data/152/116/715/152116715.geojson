@@ -2,13 +2,14 @@
   "id": 152116715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.239911,48.88974,2.239911,48.88974",
     "geom:latitude":48.88974,
     "geom:longitude":2.239911,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Terrasse Boieldieu",
     "sg:city":"Franklin La Defense 8 92800 Puteaux",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152116715,
-    "wof:lastmodified":1449044981,
+    "wof:lastmodified":1466249351,
     "wof:name":"Organisation Systemes Productivite",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.239911,48.88974,2.239911,48.88974],
+  "bbox": [
+    2.239911,
+    48.88974,
+    2.239911,
+    48.88974
+],
   "geometry": {"coordinates":[2.239911,48.88974],"type":"Point"}
 }

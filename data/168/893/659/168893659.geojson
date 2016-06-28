@@ -2,13 +2,14 @@
   "id": 168893659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.325796,48.818623,2.325796,48.818623",
     "geom:latitude":48.818623,
     "geom:longitude":2.325796,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"45, Av. Aristide Briand, 92120 Montrouge",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873935,
+        85683459,
         85633147,
         101749063,
         102064881,
-        85683459
+        85873935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168893659,
-    "wof:lastmodified":1449028432,
+    "wof:lastmodified":1466247646,
     "wof:name":"D.l.m. Architectes S.a.r.l. - Ducharme Larras Minost",
     "wof:parent_id":85873935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.325796,48.818623,2.325796,48.818623],
+  "bbox": [
+    2.325796,
+    48.818623,
+    2.325796,
+    48.818623
+],
   "geometry": {"coordinates":[2.325796,48.818623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152088609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.480332,48.788025,2.480332,48.788025",
     "geom:latitude":48.788025,
     "geom:longitude":2.480332,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Avenue Du Port Au Fouarre 94100 St Maur Des Fosses",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152088609,
-    "wof:lastmodified":1449047892,
+    "wof:lastmodified":1466247991,
     "wof:name":"Chantin Sa",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.480332,48.788025,2.480332,48.788025],
+  "bbox": [
+    2.480332,
+    48.788025,
+    2.480332,
+    48.788025
+],
   "geometry": {"coordinates":[2.480332,48.788025],"type":"Point"}
 }

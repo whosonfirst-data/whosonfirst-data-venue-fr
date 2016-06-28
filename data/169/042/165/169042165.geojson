@@ -2,13 +2,14 @@
   "id": 169042165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.268415,43.698395,7.268415,43.698395",
     "geom:latitude":43.698395,
     "geom:longitude":7.268415,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3/5, Rue de la Libert\u00e9, 06000 Nice",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169042165,
-    "wof:lastmodified":1449035166,
+    "wof:lastmodified":1466245690,
     "wof:name":"Lyonnaise De Banque C.i.c. S.a.",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.268415,43.698395,7.268415,43.698395],
+  "bbox": [
+    7.268415,
+    43.698395,
+    7.268415,
+    43.698395
+],
   "geometry": {"coordinates":[7.268415,43.698395],"type":"Point"}
 }

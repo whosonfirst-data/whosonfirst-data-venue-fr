@@ -2,13 +2,14 @@
   "id": 152049959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.230274,48.837166,2.230274,48.837166",
     "geom:latitude":48.837166,
     "geom:longitude":2.230274,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42-44 Rue De Bellevue 92105 Boulogne-Billancourt Cedex",
     "sg:city":"Ancourt",
     "sg:classifiers":[
@@ -29,14 +30,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157,
-        85794445,
+        85873971,
         101751135,
-        102070801
+        102070801,
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,14 +64,20 @@
         }
     ],
     "wof:id":152049959,
-    "wof:lastmodified":1449046593,
+    "wof:lastmodified":1466245904,
     "wof:name":"Sogeres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.230274,48.837166,2.230274,48.837166],
+  "bbox": [
+    2.230274,
+    48.837166,
+    2.230274,
+    48.837166
+],
   "geometry": {"coordinates":[2.230274,48.837166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152121893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.370883,48.872196,2.370883,48.872196",
     "geom:latitude":48.872196,
     "geom:longitude":2.370883,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue Arthur Groussier 75010 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873877,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152121893,
-    "wof:lastmodified":1449047907,
+    "wof:lastmodified":1466249328,
     "wof:name":"Borso",
     "wof:parent_id":85873877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.370883,48.872196,2.370883,48.872196],
+  "bbox": [
+    2.370883,
+    48.872196,
+    2.370883,
+    48.872196
+],
   "geometry": {"coordinates":[2.370883,48.872196],"type":"Point"}
 }

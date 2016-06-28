@@ -2,13 +2,14 @@
   "id": 152987883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.363671,48.874256,2.363671,48.874256",
     "geom:latitude":48.874256,
     "geom:longitude":2.363671,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"108 quai de Jemmapes 75010 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152987883,
-    "wof:lastmodified":1449046887,
+    "wof:lastmodified":1466252518,
     "wof:name":"Preau Plus Paris Sa",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.363671,48.874256,2.363671,48.874256],
+  "bbox": [
+    2.363671,
+    48.874256,
+    2.363671,
+    48.874256
+],
   "geometry": {"coordinates":[2.363671,48.874256],"type":"Point"}
 }

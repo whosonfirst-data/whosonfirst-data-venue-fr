@@ -2,13 +2,14 @@
   "id": 152106631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.311356,48.870949,2.311356,48.870949",
     "geom:latitude":48.870949,
     "geom:longitude":2.311356,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Jean Mermoz 75008 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152106631,
-    "wof:lastmodified":1449044218,
+    "wof:lastmodified":1466249020,
     "wof:name":"Audika",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.311356,48.870949,2.311356,48.870949],
+  "bbox": [
+    2.311356,
+    48.870949,
+    2.311356,
+    48.870949
+],
   "geometry": {"coordinates":[2.311356,48.870949],"type":"Point"}
 }

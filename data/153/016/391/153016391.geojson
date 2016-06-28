@@ -2,13 +2,14 @@
   "id": 153016391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.371201,48.830933,2.371201,48.830933",
     "geom:latitude":48.830933,
     "geom:longitude":2.371201,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 rue Charcot 75013 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873919,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873919
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":153016391,
-    "wof:lastmodified":1449040411,
+    "wof:lastmodified":1466246026,
     "wof:name":"T.t.t. Sa",
     "wof:parent_id":85873919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.371201,48.830933,2.371201,48.830933],
+  "bbox": [
+    2.371201,
+    48.830933,
+    2.371201,
+    48.830933
+],
   "geometry": {"coordinates":[2.371201,48.830933],"type":"Point"}
 }

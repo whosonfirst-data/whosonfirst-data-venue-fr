@@ -2,13 +2,14 @@
   "id": 169247275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.381836,48.862825,2.381836,48.862825",
     "geom:latitude":48.862825,
     "geom:longitude":2.381836,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"55 rue Servan",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -26,11 +27,11 @@
     "sg:website":"http://zlio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873893,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169247275,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249594,
     "wof:name":"Zlio",
     "wof:parent_id":85873893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.381836,48.862825,2.381836,48.862825],
+  "bbox": [
+    2.381836,
+    48.862825,
+    2.381836,
+    48.862825
+],
   "geometry": {"coordinates":[2.381836,48.862825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152949783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.034639,50.568336,3.034639,50.568336",
     "geom:latitude":50.568336,
     "geom:longitude":3.034639,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rue Marcel Dassault 59113 Seclin",
     "sg:classifiers":[
         {
@@ -26,10 +27,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071875,
-        85633147,
         85683445,
-        85863287
+        85633147,
+        85863287,
+        102071875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152949783,
-    "wof:lastmodified":1449047160,
+    "wof:lastmodified":1466252275,
     "wof:name":"Ags Nord Pas De Calais Sarl",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.034639,50.568336,3.034639,50.568336],
+  "bbox": [
+    3.034639,
+    50.568336,
+    3.034639,
+    50.568336
+],
   "geometry": {"coordinates":[3.034639,50.568336],"type":"Point"}
 }

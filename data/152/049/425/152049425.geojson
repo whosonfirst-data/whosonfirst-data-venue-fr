@@ -2,13 +2,14 @@
   "id": 152049425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.312547,48.84235,2.312547,48.84235",
     "geom:latitude":48.84235,
     "geom:longitude":2.312547,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Bd Pasteur 75015 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873949,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873949
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049425,
-    "wof:lastmodified":1449046590,
+    "wof:lastmodified":1466245795,
     "wof:name":"Meditel Club",
     "wof:parent_id":85873949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.312547,48.84235,2.312547,48.84235],
+  "bbox": [
+    2.312547,
+    48.84235,
+    2.312547,
+    48.84235
+],
   "geometry": {"coordinates":[2.312547,48.84235],"type":"Point"}
 }

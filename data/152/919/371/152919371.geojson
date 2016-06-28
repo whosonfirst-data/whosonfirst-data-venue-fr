@@ -2,13 +2,14 @@
   "id": 152919371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357771,48.825729,2.357771,48.825729",
     "geom:latitude":48.825729,
     "geom:longitude":2.357771,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue De La Maison Blanche 75013 Paris",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873921,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152919371,
-    "wof:lastmodified":1449047794,
+    "wof:lastmodified":1466252289,
     "wof:name":"Ste Joly Et Fils",
     "wof:parent_id":85873921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357771,48.825729,2.357771,48.825729],
+  "bbox": [
+    2.357771,
+    48.825729,
+    2.357771,
+    48.825729
+],
   "geometry": {"coordinates":[2.357771,48.825729],"type":"Point"}
 }

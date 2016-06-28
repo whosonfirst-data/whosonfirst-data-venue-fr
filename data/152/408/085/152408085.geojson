@@ -2,13 +2,14 @@
   "id": 152408085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.185928,39.7239,-84.185928,39.7239",
     "geom:latitude":39.7239,
     "geom:longitude":-84.185928,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 104, 45409 Fleury les Aubrais C\u00e9dex^^434, Fbg Bannier, 45600 Fleury les Aubrais",
     "sg:city":"Guilly",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849589,
+        85688485,
         85633793,
         101712169,
         102083667,
-        85688485
+        85849589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152408085,
-    "wof:lastmodified":1449044875,
+    "wof:lastmodified":1466250475,
     "wof:name":"Direction R\u00e9gionale Agence Loxam S.a.",
     "wof:parent_id":85849589,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.185928,39.7239,-84.185928,39.7239],
+  "bbox": [
+    -84.185928,
+    39.7239,
+    -84.185928,
+    39.7239
+],
   "geometry": {"coordinates":[-84.185928,39.7239],"type":"Point"}
 }

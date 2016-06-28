@@ -2,13 +2,14 @@
   "id": 152587249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.347441,48.868294,2.347441,48.868294",
     "geom:latitude":48.868294,
     "geom:longitude":2.347441,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"42, Rue de Cl\u00e9ry, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873795,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152587249,
-    "wof:lastmodified":1449045892,
+    "wof:lastmodified":1466251124,
     "wof:name":"Les Tissus Marey S.a.",
     "wof:parent_id":85873795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.347441,48.868294,2.347441,48.868294],
+  "bbox": [
+    2.347441,
+    48.868294,
+    2.347441,
+    48.868294
+],
   "geometry": {"coordinates":[2.347441,48.868294],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136292305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.367216,48.86187,2.367216,48.86187",
     "geom:latitude":48.86187,
     "geom:longitude":2.367216,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bd Des Filles Du Calvaire 75011 Paris",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873897,
+        85683497,
         85633147,
         101751119,
         102068927,
-        85683497
+        85873897
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":136292305,
-    "wof:lastmodified":1449075002,
+    "wof:lastmodified":1466246236,
     "wof:name":"Images Distribution Sa",
     "wof:parent_id":85873897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.367216,48.86187,2.367216,48.86187],
+  "bbox": [
+    2.367216,
+    48.86187,
+    2.367216,
+    48.86187
+],
   "geometry": {"coordinates":[2.367216,48.86187],"type":"Point"}
 }

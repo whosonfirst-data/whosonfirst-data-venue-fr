@@ -2,13 +2,14 @@
   "id": 152115397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.265503,48.848427,2.265503,48.848427",
     "geom:latitude":48.848427,
     "geom:longitude":2.265503,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"83 rue La Fontaine 75016 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873969,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497
+        85873969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152115397,
-    "wof:lastmodified":1449044251,
+    "wof:lastmodified":1466249213,
     "wof:name":"Singulier Consultants Sa",
     "wof:parent_id":85873969,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.265503,48.848427,2.265503,48.848427],
+  "bbox": [
+    2.265503,
+    48.848427,
+    2.265503,
+    48.848427
+],
   "geometry": {"coordinates":[2.265503,48.848427],"type":"Point"}
 }

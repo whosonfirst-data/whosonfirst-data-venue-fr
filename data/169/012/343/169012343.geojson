@@ -2,13 +2,14 @@
   "id": 169012343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.291701,48.852406,2.291701,48.852406",
     "geom:latitude":48.852406,
     "geom:longitude":2.291701,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6, Square Desaix, 75015 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873953,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169012343,
-    "wof:lastmodified":1449035625,
+    "wof:lastmodified":1466246155,
     "wof:name":"K.l.s.",
     "wof:parent_id":85873953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.291701,48.852406,2.291701,48.852406],
+  "bbox": [
+    2.291701,
+    48.852406,
+    2.291701,
+    48.852406
+],
   "geometry": {"coordinates":[2.291701,48.852406],"type":"Point"}
 }

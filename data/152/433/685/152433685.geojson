@@ -2,13 +2,14 @@
   "id": 152433685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.345539,48.67976,-1.345539,48.67976",
     "geom:latitude":48.67976,
     "geom:longitude":-1.345539,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"53, Rue de la Division Leclerc, 50307 Avranches C\u00e9dex",
     "sg:city":"Anch\u00e9",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152433685,
-    "wof:lastmodified":1449044843,
+    "wof:lastmodified":1466250629,
     "wof:name":"Emtec Magnetics France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.345539,48.67976,-1.345539,48.67976],
+  "bbox": [
+    -1.345539,
+    48.67976,
+    -1.345539,
+    48.67976
+],
   "geometry": {"coordinates":[-1.345539,48.67976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136299597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.769336,48.595245,7.769336,48.595245",
     "geom:latitude":48.595245,
     "geom:longitude":7.769336,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av Pr\u00e9s Robert Schuhman; Strasbourg; 67000",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897721,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85897721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":136299597,
-    "wof:lastmodified":1449075234,
+    "wof:lastmodified":1466246607,
     "wof:name":"Banque Populaire De La Region Econo",
     "wof:parent_id":85897721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.769336,48.595245,7.769336,48.595245],
+  "bbox": [
+    7.769336,
+    48.595245,
+    7.769336,
+    48.595245
+],
   "geometry": {"coordinates":[7.769336,48.595245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152507919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.55739,47.288681,-1.55739,47.288681",
     "geom:latitude":47.288681,
     "geom:longitude":-1.55739,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Maurice Ravel - La Cogne",
     "sg:city":"La Chapelle sur Erdre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794655,
+        85683233,
         85633147,
         101757315,
         102065537,
-        85683233
+        85794655
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152507919,
-    "wof:lastmodified":1449046676,
+    "wof:lastmodified":1466250835,
     "wof:name":"Grelier S.a.r.l.",
     "wof:parent_id":85794655,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.55739,47.288681,-1.55739,47.288681],
+  "bbox": [
+    -1.55739,
+    47.288681,
+    -1.55739,
+    47.288681
+],
   "geometry": {"coordinates":[-1.55739,47.288681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152353333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.397034,44.265789,-88.397034,44.265789",
     "geom:latitude":44.265789,
     "geom:longitude":-88.397034,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4",
     "sg:city":"de la V\u00f4ge - Zone Commerciale la Sapini\u00e8re",
     "sg:classifiers":[],
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857401,
+        85688517,
         85633793,
         101732417,
         102081851,
-        85688517
+        85857401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152353333,
-    "wof:lastmodified":1449045634,
+    "wof:lastmodified":1466250398,
     "wof:name":"Ccmx S.a.",
     "wof:parent_id":85857401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.397034,44.265789,-88.397034,44.265789],
+  "bbox": [
+    -88.397034,
+    44.265789,
+    -88.397034,
+    44.265789
+],
   "geometry": {"coordinates":[-88.397034,44.265789],"type":"Point"}
 }

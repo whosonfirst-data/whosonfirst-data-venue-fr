@@ -2,13 +2,14 @@
   "id": 152048069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.303488,48.87579,2.303488,48.87579",
     "geom:latitude":48.87579,
     "geom:longitude":2.303488,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"218 R Du Fbg Saint Honor\u00e9 75008 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497,
+        85873859,
         85873853
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152048069,
-    "wof:lastmodified":1449045920,
+    "wof:lastmodified":1466245666,
     "wof:name":"Golden Tulip St Honore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.303488,48.87579,2.303488,48.87579],
+  "bbox": [
+    2.303488,
+    48.87579,
+    2.303488,
+    48.87579
+],
   "geometry": {"coordinates":[2.303488,48.87579],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169226375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.585405,48.832401,2.585405,48.832401",
     "geom:latitude":48.832401,
     "geom:longitude":2.585405,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 All Des Performances 93160 Noisy Le Grand",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169226375,
-    "wof:lastmodified":1449035064,
+    "wof:lastmodified":1466249284,
     "wof:name":"Neoman Sarl",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.585405,48.832401,2.585405,48.832401],
+  "bbox": [
+    2.585405,
+    48.832401,
+    2.585405,
+    48.832401
+],
   "geometry": {"coordinates":[2.585405,48.832401],"type":"Point"}
 }

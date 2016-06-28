@@ -2,13 +2,14 @@
   "id": 152938459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.377663,48.820717,2.377663,48.820717",
     "geom:latitude":48.820717,
     "geom:longitude":2.377663,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Rue Mirabeau 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873927,
+        85683459,
         85633147,
         101749719,
         102072013,
-        85683459
+        85873927
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152938459,
-    "wof:lastmodified":1449047747,
+    "wof:lastmodified":1466252371,
     "wof:name":"Materic Lundia Sa",
     "wof:parent_id":85873927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.377663,48.820717,2.377663,48.820717],
+  "bbox": [
+    2.377663,
+    48.820717,
+    2.377663,
+    48.820717
+],
   "geometry": {"coordinates":[2.377663,48.820717],"type":"Point"}
 }

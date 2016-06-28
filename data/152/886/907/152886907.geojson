@@ -2,13 +2,14 @@
   "id": 152886907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.403207,48.806,2.403207,48.806",
     "geom:latitude":48.806,
     "geom:longitude":2.403207,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rue Robert Witchitz 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152886907,
-    "wof:lastmodified":1449046860,
+    "wof:lastmodified":1466252195,
     "wof:name":"Plastic Omnium Systemes Urbains",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.403207,48.806,2.403207,48.806],
+  "bbox": [
+    2.403207,
+    48.806,
+    2.403207,
+    48.806
+],
   "geometry": {"coordinates":[2.403207,48.806],"type":"Point"}
 }

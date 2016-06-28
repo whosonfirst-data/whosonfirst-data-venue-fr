@@ -2,13 +2,14 @@
   "id": 152698513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.13231,49.498619,0.13231,49.498619",
     "geom:latitude":49.498619,
     "geom:longitude":0.13231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 134",
     "sg:city":"Le Havre C\u00e9dex^^76051 Sandouville",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152698513,
-    "wof:lastmodified":1449048640,
+    "wof:lastmodified":1466251515,
     "wof:name":"Renault Sandouville S.a.",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.13231,49.498619,0.13231,49.498619],
+  "bbox": [
+    0.13231,
+    49.498619,
+    0.13231,
+    49.498619
+],
   "geometry": {"coordinates":[0.13231,49.498619],"type":"Point"}
 }

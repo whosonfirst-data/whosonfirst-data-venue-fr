@@ -2,13 +2,14 @@
   "id": 152559811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.747276,32.51461,-93.747276,32.51461",
     "geom:latitude":32.51461,
     "geom:longitude":-93.747276,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 21, 71102 Ch\u00e2lon sur Sa\u00f4ne C\u00e9dex^^Rte Demigny - Z.I. Nord, 71100 Ch\u00e2lon sur Sa\u00f4ne",
     "sg:city":"Chalon-sur-Sa\u00f4ne",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85880993,
+        85688735,
         85633793,
         85947819,
         102087235,
-        85688735
+        85880993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152559811,
-    "wof:lastmodified":1449047909,
+    "wof:lastmodified":1466251019,
     "wof:name":"Kodak Industrie S.a.",
     "wof:parent_id":85880993,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.747276,32.51461,-93.747276,32.51461],
+  "bbox": [
+    -93.747276,
+    32.51461,
+    -93.747276,
+    32.51461
+],
   "geometry": {"coordinates":[-93.747276,32.51461],"type":"Point"}
 }

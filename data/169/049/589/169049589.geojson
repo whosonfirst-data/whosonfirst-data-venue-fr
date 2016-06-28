@@ -2,13 +2,14 @@
   "id": 169049589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"6.022915,47.23621,6.022915,47.23621",
     "geom:latitude":47.23621,
     "geom:longitude":6.022915,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Megevand, 25034 Besan\u00e7on C\u00e9dex",
     "sg:city":"Besan\u00e7on",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169049589,
-    "wof:lastmodified":1449034320,
+    "wof:lastmodified":1466246054,
     "wof:name":"Mairie De Besan\u00e7on",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [6.022915,47.23621,6.022915,47.23621],
+  "bbox": [
+    6.022915,
+    47.23621,
+    6.022915,
+    47.23621
+],
   "geometry": {"coordinates":[6.022915,47.23621],"type":"Point"}
 }

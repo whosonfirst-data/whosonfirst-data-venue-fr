@@ -2,13 +2,14 @@
   "id": 152133905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.452584,48.869652,2.452584,48.869652",
     "geom:latitude":48.869652,
     "geom:longitude":2.452584,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Rue De L Ermitage 93100 Montreuil",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152133905,
-    "wof:lastmodified":1449048117,
+    "wof:lastmodified":1466249492,
     "wof:name":"Cif Inox",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.452584,48.869652,2.452584,48.869652],
+  "bbox": [
+    2.452584,
+    48.869652,
+    2.452584,
+    48.869652
+],
   "geometry": {"coordinates":[2.452584,48.869652],"type":"Point"}
 }

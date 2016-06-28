@@ -2,13 +2,14 @@
   "id": 152969003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342129,48.815849,2.342129,48.815849",
     "geom:latitude":48.815849,
     "geom:longitude":2.342129,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Rue Lafouge 94250 Gentilly",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873937,
+        85683459,
         85633147,
         101749049,
         102070457,
-        85683459
+        85873937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152969003,
-    "wof:lastmodified":1449045405,
+    "wof:lastmodified":1466252318,
     "wof:name":"Ste Ama Sarl",
     "wof:parent_id":85873937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342129,48.815849,2.342129,48.815849],
+  "bbox": [
+    2.342129,
+    48.815849,
+    2.342129,
+    48.815849
+],
   "geometry": {"coordinates":[2.342129,48.815849],"type":"Point"}
 }

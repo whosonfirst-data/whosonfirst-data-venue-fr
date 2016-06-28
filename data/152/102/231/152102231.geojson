@@ -2,13 +2,14 @@
   "id": 152102231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.3247,48.927368,2.3247,48.927368",
     "geom:latitude":48.927368,
     "geom:longitude":2.3247,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Chemin De La Litte 92390 Villeneuve La Garenne",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152102231,
-    "wof:lastmodified":1449048570,
+    "wof:lastmodified":1466248906,
     "wof:name":"Lancery Sa",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.3247,48.927368,2.3247,48.927368],
+  "bbox": [
+    2.3247,
+    48.927368,
+    2.3247,
+    48.927368
+],
   "geometry": {"coordinates":[2.3247,48.927368],"type":"Point"}
 }

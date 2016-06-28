@@ -2,13 +2,14 @@
   "id": 152177789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.395,48.827702,2.395,48.827702",
     "geom:latitude":48.827702,
     "geom:longitude":2.395,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Escoffier Zac Parc De Bercy 94220 Charenton Le Pont",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152177789,
-    "wof:lastmodified":1449048898,
+    "wof:lastmodified":1466249661,
     "wof:name":"Dinac",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.395,48.827702,2.395,48.827702],
+  "bbox": [
+    2.395,
+    48.827702,
+    2.395,
+    48.827702
+],
   "geometry": {"coordinates":[2.395,48.827702],"type":"Point"}
 }

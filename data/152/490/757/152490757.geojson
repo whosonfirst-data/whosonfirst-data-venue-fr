@@ -2,13 +2,14 @@
   "id": 152490757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.329231,32.748508,-97.329231,32.748508",
     "geom:latitude":32.748508,
     "geom:longitude":-97.329231,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"94, Rue des Martyrs, 76150 Maromme",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867235,
+        85688753,
         85633793,
         101724443,
         102083201,
-        85688753
+        85867235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152490757,
-    "wof:lastmodified":1449048457,
+    "wof:lastmodified":1466250784,
     "wof:name":"F\u00e9r\u00e9 S.a.",
     "wof:parent_id":85867235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.329231,32.748508,-97.329231,32.748508],
-  "geometry": {"coordinates":[-97.329231,32.748508],"type":"Point"}
+  "bbox": [
+    -97.329231,
+    32.748508,
+    -97.329231,
+    32.748508
+],
+  "geometry": {"coordinates":[-97.32923099999999,32.748508],"type":"Point"}
 }

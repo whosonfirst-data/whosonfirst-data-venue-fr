@@ -2,13 +2,14 @@
   "id": 152246271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.051481,48.758369,2.051481,48.758369",
     "geom:latitude":48.758369,
     "geom:longitude":2.051481,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17, Av. Ren\u00e9 Dugay-Trouin - ZAC de la Grande Ile, 78960 Voisins le Bretonneux",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,10 +19,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065129,
-        85633147,
         85683367,
-        85794477
+        85633147,
+        85794477,
+        102065129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152246271,
-    "wof:lastmodified":1449044619,
+    "wof:lastmodified":1466249624,
     "wof:name":"A.t. - Nutech - Automatisme Et Technique Nutech S.a.",
     "wof:parent_id":85794477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.051481,48.758369,2.051481,48.758369],
+  "bbox": [
+    2.051481,
+    48.758369,
+    2.051481,
+    48.758369
+],
   "geometry": {"coordinates":[2.051481,48.758369],"type":"Point"}
 }

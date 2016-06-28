@@ -2,13 +2,14 @@
   "id": 152868549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.414471,43.553905,1.414471,43.553905",
     "geom:latitude":43.553905,
     "geom:longitude":1.414471,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 R Jean Perrin 31106 Toulouse Cedex 1",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794577,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85794577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152868549,
-    "wof:lastmodified":1449044502,
+    "wof:lastmodified":1466252123,
     "wof:name":"Capitale Carton Sarl",
     "wof:parent_id":85794577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.414471,43.553905,1.414471,43.553905],
+  "bbox": [
+    1.414471,
+    43.553905,
+    1.414471,
+    43.553905
+],
   "geometry": {"coordinates":[1.414471,43.553905],"type":"Point"}
 }

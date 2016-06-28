@@ -2,13 +2,14 @@
   "id": 136282697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.284873,48.804333,2.284873,48.804333",
     "geom:latitude":48.804333,
     "geom:longitude":2.284873,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2",
     "sg:city":"B\u00e9ranger BP 84 92320 Ch\u00e2tillon",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873933,
+        85683157,
         85633147,
         101749805,
         102066071,
-        85683157
+        85873933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":136282697,
-    "wof:lastmodified":1449075748,
+    "wof:lastmodified":1466245729,
     "wof:name":"Mbda France",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.284873,48.804333,2.284873,48.804333],
+  "bbox": [
+    2.284873,
+    48.804333,
+    2.284873,
+    48.804333
+],
   "geometry": {"coordinates":[2.284873,48.804333],"type":"Point"}
 }

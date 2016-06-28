@@ -2,13 +2,14 @@
   "id": 152729797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.68126,48.554295,7.68126,48.554295",
     "geom:latitude":48.554295,
     "geom:longitude":7.68126,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 51006, 67381 Lingolsheim C\u00e9dex^^173, Rue du Mal Foch, 67380 Lingolsheim",
     "sg:city":"Lingolsheim",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794531,
+        85683221,
         85633147,
         101751107,
         102071231,
-        85683221
+        85794531
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152729797,
-    "wof:lastmodified":1449046633,
+    "wof:lastmodified":1466251802,
     "wof:name":"S.m.l. S.a. - Sabli\u00e8re Moderne De Lingolsheim",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.68126,48.554295,7.68126,48.554295],
+  "bbox": [
+    7.68126,
+    48.554295,
+    7.68126,
+    48.554295
+],
   "geometry": {"coordinates":[7.68126,48.554295],"type":"Point"}
 }

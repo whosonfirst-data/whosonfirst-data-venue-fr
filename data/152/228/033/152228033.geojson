@@ -2,13 +2,14 @@
   "id": 152228033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.634133,48.81786,2.634133,48.81786",
     "geom:latitude":48.81786,
     "geom:longitude":2.634133,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"rue Ambroise Croizat 77183 Croissy Beaubourg",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152228033,
-    "wof:lastmodified":1449045747,
+    "wof:lastmodified":1466249810,
     "wof:name":"Yamaha Musique France Sa",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.634133,48.81786,2.634133,48.81786],
+  "bbox": [
+    2.634133,
+    48.81786,
+    2.634133,
+    48.81786
+],
   "geometry": {"coordinates":[2.634133,48.81786],"type":"Point"}
 }

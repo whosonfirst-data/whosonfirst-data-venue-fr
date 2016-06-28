@@ -2,13 +2,14 @@
   "id": 153085521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.600596,47.244953,-1.600596,47.244953",
     "geom:latitude":47.244953,
     "geom:longitude":-1.600596,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"298, Rte de Vannes, 44700 Orvault",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863269,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85863269
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":153085521,
-    "wof:lastmodified":1449040458,
+    "wof:lastmodified":1466247421,
     "wof:name":"Axial Ing\u00e9nierie S.a.",
     "wof:parent_id":85863269,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.600596,47.244953,-1.600596,47.244953],
+  "bbox": [
+    -1.600596,
+    47.244953,
+    -1.600596,
+    47.244953
+],
   "geometry": {"coordinates":[-1.600596,47.244953],"type":"Point"}
 }

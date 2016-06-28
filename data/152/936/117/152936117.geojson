@@ -2,13 +2,14 @@
   "id": 152936117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.363248,48.855728,2.363248,48.855728",
     "geom:latitude":48.855728,
     "geom:longitude":2.363248,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue De Jarente 75004 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873811,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152936117,
-    "wof:lastmodified":1449045848,
+    "wof:lastmodified":1466252356,
     "wof:name":"Decoral Sa",
     "wof:parent_id":85873811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.363248,48.855728,2.363248,48.855728],
+  "bbox": [
+    2.363248,
+    48.855728,
+    2.363248,
+    48.855728
+],
   "geometry": {"coordinates":[2.363248,48.855728],"type":"Point"}
 }

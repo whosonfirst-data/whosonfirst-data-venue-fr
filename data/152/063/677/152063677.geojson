@@ -2,13 +2,14 @@
   "id": 152063677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.363655,48.860077,2.363655,48.860077",
     "geom:latitude":48.860077,
     "geom:longitude":2.363655,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue De Thorigny 75003 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152063677,
-    "wof:lastmodified":1449044705,
+    "wof:lastmodified":1466247139,
     "wof:name":"Etablissements E Werle",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.363655,48.860077,2.363655,48.860077],
+  "bbox": [
+    2.363655,
+    48.860077,
+    2.363655,
+    48.860077
+],
   "geometry": {"coordinates":[2.363655,48.860077],"type":"Point"}
 }

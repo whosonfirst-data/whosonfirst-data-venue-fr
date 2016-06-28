@@ -2,13 +2,14 @@
   "id": 152104537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.596771,47.179676,-1.596771,47.179676",
     "geom:latitude":47.179676,
     "geom:longitude":-1.596771,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Pontreaux 44340 Bouguenais",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152104537,
-    "wof:lastmodified":1449046207,
+    "wof:lastmodified":1466248840,
     "wof:name":"Sa Theam",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.596771,47.179676,-1.596771,47.179676],
+  "bbox": [
+    -1.596771,
+    47.179676,
+    -1.596771,
+    47.179676
+],
   "geometry": {"coordinates":[-1.596771,47.179676],"type":"Point"}
 }

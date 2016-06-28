@@ -2,13 +2,14 @@
   "id": 152170763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30593,48.881413,2.30593,48.881413",
     "geom:latitude":48.881413,
     "geom:longitude":2.30593,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Rue De Prony 75017 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873991,
+        85683497,
         85633147,
         101751119,
         102069959,
-        85683497
+        85873991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152170763,
-    "wof:lastmodified":1449044741,
+    "wof:lastmodified":1466249618,
     "wof:name":"Kairos Sarl",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30593,48.881413,2.30593,48.881413],
+  "bbox": [
+    2.30593,
+    48.881413,
+    2.30593,
+    48.881413
+],
   "geometry": {"coordinates":[2.30593,48.881413],"type":"Point"}
 }

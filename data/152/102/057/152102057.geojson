@@ -2,13 +2,14 @@
   "id": 152102057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.11003,50.588009,3.11003,50.588009",
     "geom:latitude":50.588009,
     "geom:longitude":3.11003,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Chemin Des Deux Tilleuls Crt N 1 59810 Lesquin",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152102057,
-    "wof:lastmodified":1449048572,
+    "wof:lastmodified":1466248800,
     "wof:name":"Beton De France Nord Alsace",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.11003,50.588009,3.11003,50.588009],
+  "bbox": [
+    3.11003,
+    50.588009,
+    3.11003,
+    50.588009
+],
   "geometry": {"coordinates":[3.11003,50.588009],"type":"Point"}
 }

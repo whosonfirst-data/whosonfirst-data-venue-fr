@@ -2,13 +2,14 @@
   "id": 152208389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.802724,48.651554,7.802724,48.651554",
     "geom:latitude":48.651554,
     "geom:longitude":7.802724,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Rue Du Ried BP 7 67610 Wantzenau (La)",
     "sg:city":"La Wantzenau",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152208389,
-    "wof:lastmodified":1449044845,
+    "wof:lastmodified":1466249754,
     "wof:name":"Bayer Elastomere",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.802724,48.651554,7.802724,48.651554],
+  "bbox": [
+    7.802724,
+    48.651554,
+    7.802724,
+    48.651554
+],
   "geometry": {"coordinates":[7.802724,48.651554],"type":"Point"}
 }

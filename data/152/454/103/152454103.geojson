@@ -2,13 +2,14 @@
   "id": 152454103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.524171,48.818699,2.524171,48.818699",
     "geom:latitude":48.818699,
     "geom:longitude":2.524171,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"130/138, Rue Alexandre Fourny, 94507 Champigny sur Marne C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152454103,
-    "wof:lastmodified":1449048484,
+    "wof:lastmodified":1466250639,
     "wof:name":"Etablissements Jacquier Et Compagnie S.a.",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.524171,48.818699,2.524171,48.818699],
+  "bbox": [
+    2.524171,
+    48.818699,
+    2.524171,
+    48.818699
+],
   "geometry": {"coordinates":[2.524171,48.818699],"type":"Point"}
 }

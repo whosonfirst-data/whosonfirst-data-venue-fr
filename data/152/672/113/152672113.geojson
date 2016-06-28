@@ -2,13 +2,14 @@
   "id": 152672113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.183228,29.91786,-94.183228,29.91786",
     "geom:latitude":29.91786,
     "geom:longitude":-94.183228,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Disney Village",
     "sg:city":"Marne la Vall\u00e9e C\u00e9dex 04",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85854189,
+        85688753,
         85633793,
         101724989,
         102087325,
-        85688753
+        85854189
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152672113,
-    "wof:lastmodified":1449044598,
+    "wof:lastmodified":1466251424,
     "wof:name":"Planet Hollywood Disneyland Paris",
     "wof:parent_id":85854189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.183228,29.91786,-94.183228,29.91786],
+  "bbox": [
+    -94.183228,
+    29.91786,
+    -94.183228,
+    29.91786
+],
   "geometry": {"coordinates":[-94.183228,29.91786],"type":"Point"}
 }

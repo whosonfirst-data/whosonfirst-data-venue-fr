@@ -2,13 +2,14 @@
   "id": 152135053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.398035,48.912395,2.398035,48.912395",
     "geom:latitude":48.912395,
     "geom:longitude":2.398035,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Lopez Et Jules Martin 93300 Aubervilliers",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874033,
+        85683475,
         85633147,
         101751145,
         102071949,
-        85683475
+        85874033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152135053,
-    "wof:lastmodified":1449046081,
+    "wof:lastmodified":1466249463,
     "wof:name":"Conti Equipement",
     "wof:parent_id":85874033,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.398035,48.912395,2.398035,48.912395],
+  "bbox": [
+    2.398035,
+    48.912395,
+    2.398035,
+    48.912395
+],
   "geometry": {"coordinates":[2.398035,48.912395],"type":"Point"}
 }

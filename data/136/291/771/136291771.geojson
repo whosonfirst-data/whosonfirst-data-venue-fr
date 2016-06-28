@@ -2,13 +2,14 @@
   "id": 136291771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.355793,48.82822,2.355793,48.82822",
     "geom:latitude":48.82822,
     "geom:longitude":2.355793,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10 rue Vandrezanne 75013 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Applied Hydrogeology",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873915,
+        85683497,
         85633147,
         101751119,
         102069301,
-        85683497
+        85873915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":136291771,
-    "wof:lastmodified":1449075298,
+    "wof:lastmodified":1466246274,
     "wof:name":"Rock View International Sarl",
     "wof:parent_id":85873915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.355793,48.82822,2.355793,48.82822],
+  "bbox": [
+    2.355793,
+    48.82822,
+    2.355793,
+    48.82822
+],
   "geometry": {"coordinates":[2.355793,48.82822],"type":"Point"}
 }

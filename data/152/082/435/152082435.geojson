@@ -2,13 +2,14 @@
   "id": 152082435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.740598,48.554146,7.740598,48.554146",
     "geom:latitude":48.554146,
     "geom:longitude":7.740598,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Rue Des Fr\u00e8res Eberts 67023 Strasbourg Cedex 1",
     "sg:city":"Strasbourg",
     "sg:classifiers":[
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794611,
+        85683221,
         85633147,
         101749755,
         102071231,
-        85683221
+        85794611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152082435,
-    "wof:lastmodified":1449044412,
+    "wof:lastmodified":1466247711,
     "wof:name":"Merger Sa",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.740598,48.554146,7.740598,48.554146],
+  "bbox": [
+    7.740598,
+    48.554146,
+    7.740598,
+    48.554146
+],
   "geometry": {"coordinates":[7.740598,48.554146],"type":"Point"}
 }

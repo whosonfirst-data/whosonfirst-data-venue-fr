@@ -2,13 +2,14 @@
   "id": 152055371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.45837,48.716179,2.45837,48.716179",
     "geom:latitude":48.716179,
     "geom:longitude":2.45837,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Rue Des Entrepreneurs Zi De La Plaine Haute 91560 Crosne",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152055371,
-    "wof:lastmodified":1449045339,
+    "wof:lastmodified":1466246310,
     "wof:name":"Rcsi",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.45837,48.716179,2.45837,48.716179],
+  "bbox": [
+    2.45837,
+    48.716179,
+    2.45837,
+    48.716179
+],
   "geometry": {"coordinates":[2.45837,48.716179],"type":"Point"}
 }

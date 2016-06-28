@@ -2,13 +2,14 @@
   "id": 152853447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.336435,48.857349,2.336435,48.857349",
     "geom:latitude":48.857349,
     "geom:longitude":2.336435,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20, Place de Seine - Tour Neptune, 92086 Paris La D\u00e9fense C\u00e9dex 20 1",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,13 +18,13 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873789,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
-        85873835,
-        102067977
+        85873789,
+        102067977,
+        85873835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152853447,
-    "wof:lastmodified":1449046172,
+    "wof:lastmodified":1466252080,
     "wof:name":"Wonderware Solutions France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.336435,48.857349,2.336435,48.857349],
+  "bbox": [
+    2.336435,
+    48.857349,
+    2.336435,
+    48.857349
+],
   "geometry": {"coordinates":[2.336435,48.857349],"type":"Point"}
 }

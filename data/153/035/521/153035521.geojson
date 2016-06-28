@@ -2,13 +2,14 @@
   "id": 153035521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342846,48.859482,2.342846,48.859482",
     "geom:latitude":48.859482,
     "geom:longitude":2.342846,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19",
     "sg:city":"de la Monnaie; Paris; 75001",
     "sg:classifiers":[
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873789,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497,
+        85873789,
         85873785
     ],
     "wof:breaches":[],
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":153035521,
-    "wof:lastmodified":1449040731,
+    "wof:lastmodified":1466247417,
     "wof:name":"La Samaritaine Department Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342846,48.859482,2.342846,48.859482],
+  "bbox": [
+    2.342846,
+    48.859482,
+    2.342846,
+    48.859482
+],
   "geometry": {"coordinates":[2.342846,48.859482],"type":"Point"}
 }

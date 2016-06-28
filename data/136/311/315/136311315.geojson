@@ -2,13 +2,14 @@
   "id": 136311315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.334887,48.855019,2.334887,48.855019",
     "geom:latitude":48.855019,
     "geom:longitude":2.334887,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 rue Jacob 75006 Paris",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873835,
+        85683497,
         85633147,
         101751119,
         102067977,
-        85683497
+        85873835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136311315,
-    "wof:lastmodified":1449075220,
+    "wof:lastmodified":1466247349,
     "wof:name":"Editions Jean Claude Lattes Snc",
     "wof:parent_id":85873835,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.334887,48.855019,2.334887,48.855019],
+  "bbox": [
+    2.334887,
+    48.855019,
+    2.334887,
+    48.855019
+],
   "geometry": {"coordinates":[2.334887,48.855019],"type":"Point"}
 }

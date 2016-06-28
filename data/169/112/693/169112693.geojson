@@ -2,13 +2,14 @@
   "id": 169112693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.044281,48.931122,2.044281,48.931122",
     "geom:latitude":48.931122,
     "geom:longitude":2.044281,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Rue Paul Codos, 78300 Poissy",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794519,
+        85683367,
         85633147,
         101749087,
         102070991,
-        85683367
+        85794519
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169112693,
-    "wof:lastmodified":1449034190,
+    "wof:lastmodified":1466247915,
     "wof:name":"Real Diffusion S.a.r.l.",
     "wof:parent_id":85794519,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.044281,48.931122,2.044281,48.931122],
+  "bbox": [
+    2.044281,
+    48.931122,
+    2.044281,
+    48.931122
+],
   "geometry": {"coordinates":[2.044281,48.931122],"type":"Point"}
 }

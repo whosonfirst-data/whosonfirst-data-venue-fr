@@ -2,13 +2,14 @@
   "id": 152949459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.639423,48.813881,2.639423,48.813881",
     "geom:latitude":48.813881,
     "geom:longitude":2.639423,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 All Des Vendanges 77183 Croissy Beaubourg",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152949459,
-    "wof:lastmodified":1449047166,
+    "wof:lastmodified":1466252272,
     "wof:name":"Aac Globe Express Sa",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.639423,48.813881,2.639423,48.813881],
+  "bbox": [
+    2.639423,
+    48.813881,
+    2.639423,
+    48.813881
+],
   "geometry": {"coordinates":[2.639423,48.813881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152125819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357695,48.861664,2.357695,48.861664",
     "geom:latitude":48.861664,
     "geom:longitude":2.357695,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 rue des Haudriettes 75003 Paris",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873801,
+        85683497,
         85633147,
         101751119,
         102067411,
-        85683497
+        85873801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":152125819,
-    "wof:lastmodified":1449048755,
+    "wof:lastmodified":1466249391,
     "wof:name":"Gyl Bagages Sa",
     "wof:parent_id":85873801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357695,48.861664,2.357695,48.861664],
+  "bbox": [
+    2.357695,
+    48.861664,
+    2.357695,
+    48.861664
+],
   "geometry": {"coordinates":[2.357695,48.861664],"type":"Point"}
 }

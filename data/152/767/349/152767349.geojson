@@ -2,13 +2,14 @@
   "id": 152767349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.49387,48.393906,-4.49387,48.393906",
     "geom:latitude":48.393906,
     "geom:longitude":-4.49387,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"11, Rue Tourville, 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863259,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85863259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152767349,
-    "wof:lastmodified":1449045620,
+    "wof:lastmodified":1466251765,
     "wof:name":"Sobr\u00e9tec S.a.",
     "wof:parent_id":85863259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.49387,48.393906,-4.49387,48.393906],
+  "bbox": [
+    -4.49387,
+    48.393906,
+    -4.49387,
+    48.393906
+],
   "geometry": {"coordinates":[-4.49387,48.393906],"type":"Point"}
 }

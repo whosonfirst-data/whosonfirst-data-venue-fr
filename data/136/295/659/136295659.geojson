@@ -2,13 +2,14 @@
   "id": 136295659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.41706,48.864555,2.41706,48.864555",
     "geom:latitude":48.864555,
     "geom:longitude":2.41706,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Av Du G\u00e9n\u00e9ral De Gaulle Tour Galli\u00e9ni 2 93175 Bagnolet Cedex",
     "sg:city":"Bagnolet",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136295659,
-    "wof:lastmodified":1449075461,
+    "wof:lastmodified":1466246448,
     "wof:name":"Gsar",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.41706,48.864555,2.41706,48.864555],
+  "bbox": [
+    2.41706,
+    48.864555,
+    2.41706,
+    48.864555
+],
   "geometry": {"coordinates":[2.41706,48.864555],"type":"Point"}
 }

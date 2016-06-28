@@ -2,13 +2,14 @@
   "id": 152572421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.43426,48.854095,2.43426,48.854095",
     "geom:latitude":48.854095,
     "geom:longitude":2.43426,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"62, Rue Kl\u00e9ber, 93100 Montreuil",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475,
+        85874047,
         85874051
     ],
     "wof:breaches":[],
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152572421,
-    "wof:lastmodified":1449047133,
+    "wof:lastmodified":1466251083,
     "wof:name":"Lady Pack France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.43426,48.854095,2.43426,48.854095],
+  "bbox": [
+    2.43426,
+    48.854095,
+    2.43426,
+    48.854095
+],
   "geometry": {"coordinates":[2.43426,48.854095],"type":"Point"}
 }

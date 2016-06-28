@@ -2,13 +2,14 @@
   "id": 152079171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.420447,43.645927,1.420447,43.645927",
     "geom:latitude":43.645927,
     "geom:longitude":1.420447,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Chem De La Glaci\u00e8re 31200 Toulouse",
     "sg:classifiers":[
         {
@@ -34,11 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85864265,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397
+        85864265
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152079171,
-    "wof:lastmodified":1449048149,
+    "wof:lastmodified":1466247119,
     "wof:name":"Sae Malrieu Distribution",
     "wof:parent_id":85864265,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.420447,43.645927,1.420447,43.645927],
+  "bbox": [
+    1.420447,
+    43.645927,
+    1.420447,
+    43.645927
+],
   "geometry": {"coordinates":[1.420447,43.645927],"type":"Point"}
 }

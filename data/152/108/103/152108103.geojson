@@ -2,13 +2,14 @@
   "id": 152108103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.255753,48.711235,2.255753,48.711235",
     "geom:latitude":48.711235,
     "geom:longitude":2.255753,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rue L\u00e9on Blum 91120 Palaiseau",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794679,
+        85683371,
         85633147,
         101751043,
         102070589,
-        85683371
+        85794679
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152108103,
-    "wof:lastmodified":1449044375,
+    "wof:lastmodified":1466249227,
     "wof:name":"Porges Sa",
     "wof:parent_id":85794679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.255753,48.711235,2.255753,48.711235],
+  "bbox": [
+    2.255753,
+    48.711235,
+    2.255753,
+    48.711235
+],
   "geometry": {"coordinates":[2.255753,48.711235],"type":"Point"}
 }

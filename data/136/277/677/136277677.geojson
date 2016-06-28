@@ -2,13 +2,14 @@
   "id": 136277677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.367206,48.851074,2.367206,48.851074",
     "geom:latitude":48.851074,
     "geom:longitude":2.367206,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Bd Bourdon",
     "sg:city":"Paris Cedex 4",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136277677,
-    "wof:lastmodified":1449075060,
+    "wof:lastmodified":1466245348,
     "wof:name":"Fructivie Sa",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.367206,48.851074,2.367206,48.851074],
+  "bbox": [
+    2.367206,
+    48.851074,
+    2.367206,
+    48.851074
+],
   "geometry": {"coordinates":[2.367206,48.851074],"type":"Point"}
 }

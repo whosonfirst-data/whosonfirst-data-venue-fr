@@ -2,13 +2,14 @@
   "id": 168946693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.493684,48.406178,-4.493684,48.406178",
     "geom:latitude":48.406178,
     "geom:longitude":-4.493684,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Rue Gay Lussac, 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863259,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85863259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168946693,
-    "wof:lastmodified":1449028497,
+    "wof:lastmodified":1466248140,
     "wof:name":"Eurovia Bretagne S.n.c.",
     "wof:parent_id":85863259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.493684,48.406178,-4.493684,48.406178],
+  "bbox": [
+    -4.493684,
+    48.406178,
+    -4.493684,
+    48.406178
+],
   "geometry": {"coordinates":[-4.493684,48.406178],"type":"Point"}
 }

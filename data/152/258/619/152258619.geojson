@@ -2,13 +2,14 @@
   "id": 152258619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.062037,50.636417,3.062037,50.636417",
     "geom:latitude":50.636417,
     "geom:longitude":3.062037,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8, Rue Jean Roisin, 59800 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152258619,
-    "wof:lastmodified":1449047967,
+    "wof:lastmodified":1466249993,
     "wof:name":"Air France",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.062037,50.636417,3.062037,50.636417],
+  "bbox": [
+    3.062037,
+    50.636417,
+    3.062037,
+    50.636417
+],
   "geometry": {"coordinates":[3.062037,50.636417],"type":"Point"}
 }

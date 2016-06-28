@@ -2,13 +2,14 @@
   "id": 136275587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.300179,48.870354,2.300179,48.870354",
     "geom:latitude":48.870354,
     "geom:longitude":2.300179,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Rue Magellan",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -29,13 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873973,
+        85683497,
         85633147,
         101751119,
         102069797,
-        85683497,
-        85873861,
-        102068357
+        85873973,
+        102068357,
+        85873861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,20 @@
         }
     ],
     "wof:id":136275587,
-    "wof:lastmodified":1449075320,
+    "wof:lastmodified":1466245271,
     "wof:name":"Cabinet Ron Soffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.300179,48.870354,2.300179,48.870354],
+  "bbox": [
+    2.300179,
+    48.870354,
+    2.300179,
+    48.870354
+],
   "geometry": {"coordinates":[2.300179,48.870354],"type":"Point"}
 }

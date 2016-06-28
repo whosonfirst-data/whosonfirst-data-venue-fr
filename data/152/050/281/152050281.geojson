@@ -2,13 +2,14 @@
   "id": 152050281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.313415,43.743343,7.313415,43.743343",
     "geom:latitude":43.743343,
     "geom:longitude":7.313415,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Zi Anatole France BP 75 06342 La Trinit\u00e9 Cedex",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152050281,
-    "wof:lastmodified":1449046850,
+    "wof:lastmodified":1466245865,
     "wof:name":"Expo Service C\u00d4te D'azur",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.313415,43.743343,7.313415,43.743343],
+  "bbox": [
+    7.313415,
+    43.743343,
+    7.313415,
+    43.743343
+],
   "geometry": {"coordinates":[7.313415,43.743343],"type":"Point"}
 }

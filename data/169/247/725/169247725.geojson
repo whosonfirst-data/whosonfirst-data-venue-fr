@@ -2,13 +2,14 @@
   "id": 169247725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.411006,48.84656,2.411006,48.84656",
     "geom:latitude":48.84656,
     "geom:longitude":2.411006,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"86 bd soult",
     "sg:city":"paris",
     "sg:classifiers":[
@@ -34,10 +35,10 @@
     "sg:website":"http://www.ulike.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169247725,
-    "wof:lastmodified":1449034620,
+    "wof:lastmodified":1466249530,
     "wof:name":"ulike",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.411006,48.84656,2.411006,48.84656],
+  "bbox": [
+    2.411006,
+    48.84656,
+    2.411006,
+    48.84656
+],
   "geometry": {"coordinates":[2.411006,48.84656],"type":"Point"}
 }

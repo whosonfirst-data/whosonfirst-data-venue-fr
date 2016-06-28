@@ -2,13 +2,14 @@
   "id": 136278931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.430885,48.630367,2.430885,48.630367",
     "geom:latitude":48.630367,
     "geom:longitude":2.430885,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rue Des Mazi\u00e8res",
     "sg:city":"\u00c9vry",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136278931,
-    "wof:lastmodified":1449075663,
+    "wof:lastmodified":1466245426,
     "wof:name":"Seges Expertise & Gestion Sa",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.430885,48.630367,2.430885,48.630367],
+  "bbox": [
+    2.430885,
+    48.630367,
+    2.430885,
+    48.630367
+],
   "geometry": {"coordinates":[2.430885,48.630367],"type":"Point"}
 }

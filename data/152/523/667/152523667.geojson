@@ -2,13 +2,14 @@
   "id": 152523667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.479029,47.263371,-1.479029,47.263371",
     "geom:latitude":47.263371,
     "geom:longitude":-1.479029,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Edouard Branly - Parc de la Madeleine, 44980 Sainte Luce sur Loire",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065305,
-        85633147,
         85683233,
-        85794557
+        85633147,
+        85794557,
+        102065305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152523667,
-    "wof:lastmodified":1449046964,
+    "wof:lastmodified":1466250897,
     "wof:name":"Horo Quartz Atlantique S.a.",
     "wof:parent_id":85794557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.479029,47.263371,-1.479029,47.263371],
+  "bbox": [
+    -1.479029,
+    47.263371,
+    -1.479029,
+    47.263371
+],
   "geometry": {"coordinates":[-1.479029,47.263371],"type":"Point"}
 }

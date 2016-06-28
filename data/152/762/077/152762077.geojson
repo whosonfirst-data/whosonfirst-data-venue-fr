@@ -2,13 +2,14 @@
   "id": 152762077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.32108,48.880535,2.32108,48.880535",
     "geom:latitude":48.880535,
     "geom:longitude":2.32108,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"69, Rue de Rome, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873849,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152762077,
-    "wof:lastmodified":1449047561,
+    "wof:lastmodified":1466251739,
     "wof:name":"Signal Service S. A. R. L.",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.32108,48.880535,2.32108,48.880535],
+  "bbox": [
+    2.32108,
+    48.880535,
+    2.32108,
+    48.880535
+],
   "geometry": {"coordinates":[2.32108,48.880535],"type":"Point"}
 }

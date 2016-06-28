@@ -2,13 +2,14 @@
   "id": 136301461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.523806,47.225487,-1.523806,47.225487",
     "geom:latitude":47.225487,
     "geom:longitude":-1.523806,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 rue de la Ville; Nantes; 44000",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136301461,
-    "wof:lastmodified":1449075239,
+    "wof:lastmodified":1466246790,
     "wof:name":"Caisse Regionale, De Cr\u00e9dit Agricole",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.523806,47.225487,-1.523806,47.225487],
+  "bbox": [
+    -1.523806,
+    47.225487,
+    -1.523806,
+    47.225487
+],
   "geometry": {"coordinates":[-1.523806,47.225487],"type":"Point"}
 }

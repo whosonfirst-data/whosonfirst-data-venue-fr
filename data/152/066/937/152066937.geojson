@@ -2,13 +2,14 @@
   "id": 152066937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.526704,47.210869,-1.526704,47.210869",
     "geom:latitude":47.210869,
     "geom:longitude":-1.526704,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Alain Colas BP 60219 44202 Nantes Cedex 2",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897699,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152066937,
-    "wof:lastmodified":1449045651,
+    "wof:lastmodified":1466247387,
     "wof:name":"Gtb Bouyer Du Chemin",
     "wof:parent_id":85897699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.526704,47.210869,-1.526704,47.210869],
+  "bbox": [
+    -1.526704,
+    47.210869,
+    -1.526704,
+    47.210869
+],
   "geometry": {"coordinates":[-1.526704,47.210869],"type":"Point"}
 }

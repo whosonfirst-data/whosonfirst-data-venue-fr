@@ -2,13 +2,14 @@
   "id": 169022897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.37798,48.978821,2.37798,48.978821",
     "geom:latitude":48.978821,
     "geom:longitude":2.37798,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Place de Navarre, 95200 Sarcelles",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794429,
+        85683451,
         85633147,
         101751359,
         102070561,
-        85683451
+        85794429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169022897,
-    "wof:lastmodified":1449033780,
+    "wof:lastmodified":1466246735,
     "wof:name":"Laboratoires Copar S.a.",
     "wof:parent_id":85794429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.37798,48.978821,2.37798,48.978821],
+  "bbox": [
+    2.37798,
+    48.978821,
+    2.37798,
+    48.978821
+],
   "geometry": {"coordinates":[2.37798,48.978821],"type":"Point"}
 }

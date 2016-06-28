@@ -2,13 +2,14 @@
   "id": 153024313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.362519,48.88604,2.362519,48.88604",
     "geom:latitude":48.88604,
     "geom:longitude":2.362519,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 R Jacques Kabl\u00e9 75018 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874009,
+        85683497,
         85633147,
         101751119,
         102070109,
-        85683497
+        85874009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153024313,
-    "wof:lastmodified":1449040550,
+    "wof:lastmodified":1466246530,
     "wof:name":"Johnson Henry Sons Et Co Ltd Sa",
     "wof:parent_id":85874009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.362519,48.88604,2.362519,48.88604],
+  "bbox": [
+    2.362519,
+    48.88604,
+    2.362519,
+    48.88604
+],
   "geometry": {"coordinates":[2.362519,48.88604],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152527411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36843,48.879391,2.36843,48.879391",
     "geom:latitude":48.879391,
     "geom:longitude":2.36843,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"12, Rue Louis Blanc, 75010 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152527411,
-    "wof:lastmodified":1449047962,
+    "wof:lastmodified":1466250927,
     "wof:name":"H\u00f4tel Ibis S.a.",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36843,48.879391,2.36843,48.879391],
+  "bbox": [
+    2.36843,
+    48.879391,
+    2.36843,
+    48.879391
+],
   "geometry": {"coordinates":[2.36843,48.879391],"type":"Point"}
 }

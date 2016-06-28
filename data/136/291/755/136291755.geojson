@@ -2,13 +2,14 @@
   "id": 136291755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.653839,48.838253,2.653839,48.838253",
     "geom:latitude":48.838253,
     "geom:longitude":2.653839,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 rue Pierre Mend\u00e8s-France 77200 Torcy",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136291755,
-    "wof:lastmodified":1449075296,
+    "wof:lastmodified":1466246271,
     "wof:name":"Dorr-oliver France Sarl",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.653839,48.838253,2.653839,48.838253],
+  "bbox": [
+    2.653839,
+    48.838253,
+    2.653839,
+    48.838253
+],
   "geometry": {"coordinates":[2.653839,48.838253],"type":"Point"}
 }

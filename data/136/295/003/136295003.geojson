@@ -2,13 +2,14 @@
   "id": 136295003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.48601,48.798309,2.48601,48.798309",
     "geom:latitude":48.798309,
     "geom:longitude":2.48601,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Av De La R\u00e9publique 94100 St Maur Des Foss\u00e9s",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136295003,
-    "wof:lastmodified":1449075461,
+    "wof:lastmodified":1466247498,
     "wof:name":"Union De Banques A Paris (ubp)",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.48601,48.798309,2.48601,48.798309],
+  "bbox": [
+    2.48601,
+    48.798309,
+    2.48601,
+    48.798309
+],
   "geometry": {"coordinates":[2.48601,48.798309],"type":"Point"}
 }

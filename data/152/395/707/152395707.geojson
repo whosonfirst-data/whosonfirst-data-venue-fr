@@ -2,13 +2,14 @@
   "id": 152395707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.328866,48.866623,2.328866,48.866623",
     "geom:latitude":48.866623,
     "geom:longitude":2.328866,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"356, Rue Saint Honor\u00e9, 75001 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152395707,
-    "wof:lastmodified":1449048241,
+    "wof:lastmodified":1466250458,
     "wof:name":"Darphin S.a.",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.328866,48.866623,2.328866,48.866623],
+  "bbox": [
+    2.328866,
+    48.866623,
+    2.328866,
+    48.866623
+],
   "geometry": {"coordinates":[2.328866,48.866623],"type":"Point"}
 }

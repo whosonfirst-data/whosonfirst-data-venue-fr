@@ -2,13 +2,14 @@
   "id": 136305815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.314529,48.875118,2.314529,48.875118",
     "geom:latitude":48.875118,
     "geom:longitude":2.314529,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"121 blvd Haussmann; Paris; 75008",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873847,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136305815,
-    "wof:lastmodified":1449075111,
+    "wof:lastmodified":1466247055,
     "wof:name":"Lazard Fr\u00e8res & Cie",
     "wof:parent_id":85873847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.314529,48.875118,2.314529,48.875118],
+  "bbox": [
+    2.314529,
+    48.875118,
+    2.314529,
+    48.875118
+],
   "geometry": {"coordinates":[2.314529,48.875118],"type":"Point"}
 }

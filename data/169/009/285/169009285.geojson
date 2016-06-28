@@ -2,13 +2,14 @@
   "id": 169009285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.087795,50.631298,3.087795,50.631298",
     "geom:latitude":50.631298,
     "geom:longitude":3.087795,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34, Rue du Long Pot, 59800 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169009285,
-    "wof:lastmodified":1449035901,
+    "wof:lastmodified":1466245927,
     "wof:name":"Jaropa S.a.r.l.",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.087795,50.631298,3.087795,50.631298],
+  "bbox": [
+    3.087795,
+    50.631298,
+    3.087795,
+    50.631298
+],
   "geometry": {"coordinates":[3.087795,50.631298],"type":"Point"}
 }

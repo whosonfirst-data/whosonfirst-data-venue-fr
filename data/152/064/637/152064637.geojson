@@ -2,13 +2,14 @@
   "id": 152064637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.280453,48.846695,2.280453,48.846695",
     "geom:latitude":48.846695,
     "geom:longitude":2.280453,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17-21 Rue De Javel 75015 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873955,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064637,
-    "wof:lastmodified":1449045937,
+    "wof:lastmodified":1466247210,
     "wof:name":"Pictorial Service Sarl",
     "wof:parent_id":85873955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.280453,48.846695,2.280453,48.846695],
+  "bbox": [
+    2.280453,
+    48.846695,
+    2.280453,
+    48.846695
+],
   "geometry": {"coordinates":[2.280453,48.846695],"type":"Point"}
 }

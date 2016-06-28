@@ -2,13 +2,14 @@
   "id": 136303411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"16.368799,48.202541,16.368799,48.202541",
     "geom:latitude":48.202541,
     "geom:longitude":16.368799,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15 rue Vienne; Gisors",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85898741,
+        85681667,
         85632785,
         101748073,
         102049859,
-        85681667
+        85898741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136303411,
-    "wof:lastmodified":1449074924,
+    "wof:lastmodified":1466246955,
     "wof:name":"Cr\u00e9dit Du Nord",
     "wof:parent_id":85898741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [16.368799,48.202541,16.368799,48.202541],
+  "bbox": [
+    16.368799,
+    48.202541,
+    16.368799,
+    48.202541
+],
   "geometry": {"coordinates":[16.368799,48.202541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152851451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.269886,48.825886,2.269886,48.825886",
     "geom:latitude":48.825886,
     "geom:longitude":2.269886,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"39, Rue du Gouverneur G\u00e9n\u00e9ral Ebou\u00e9, 92442 Issy les Moulineaux C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152851451,
-    "wof:lastmodified":1449047341,
+    "wof:lastmodified":1466252051,
     "wof:name":"Wavecom S.a.",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.269886,48.825886,2.269886,48.825886],
+  "bbox": [
+    2.269886,
+    48.825886,
+    2.269886,
+    48.825886
+],
   "geometry": {"coordinates":[2.269886,48.825886],"type":"Point"}
 }

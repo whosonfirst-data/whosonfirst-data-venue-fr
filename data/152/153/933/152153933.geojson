@@ -2,13 +2,14 @@
   "id": 152153933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.529526,40.552624,-75.529526,40.552624",
     "geom:latitude":40.552624,
     "geom:longitude":-75.529526,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"R De Chez L'Ecuyer Za Le Pr\u00e9-Long 71300 Monceau Les Mines",
     "sg:city":"Saint-Berain-sous-Sanvignes",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85834541,
+        85688481,
         85633793,
         101719979,
         102081327,
-        85688481
+        85834541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152153933,
-    "wof:lastmodified":1449047478,
+    "wof:lastmodified":1466249608,
     "wof:name":"Sa Polakowski",
     "wof:parent_id":85834541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.529526,40.552624,-75.529526,40.552624],
+  "bbox": [
+    -75.529526,
+    40.552624,
+    -75.529526,
+    40.552624
+],
   "geometry": {"coordinates":[-75.529526,40.552624],"type":"Point"}
 }

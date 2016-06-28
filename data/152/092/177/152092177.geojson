@@ -2,13 +2,14 @@
   "id": 152092177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.572021,48.810863,2.572021,48.810863",
     "geom:latitude":48.810863,
     "geom:longitude":2.572021,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Avenue Joseph Cugnot Za Clara 94420 Le Plessis Trevise",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152092177,
-    "wof:lastmodified":1449048054,
+    "wof:lastmodified":1466248119,
     "wof:name":"Plastique Forme Outillage Pfo",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.572021,48.810863,2.572021,48.810863],
+  "bbox": [
+    2.572021,
+    48.810863,
+    2.572021,
+    48.810863
+],
   "geometry": {"coordinates":[2.572021,48.810863],"type":"Point"}
 }

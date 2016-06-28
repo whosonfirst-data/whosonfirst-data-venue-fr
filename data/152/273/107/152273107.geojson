@@ -2,13 +2,14 @@
   "id": 152273107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.871002,32.614262,-93.871002,32.614262",
     "geom:latitude":32.614262,
     "geom:longitude":-93.871002,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 279, 71107 Ch\u00e2lon sur Sa\u00f4ne C\u00e9dex^^21, Rue Georges Derrien, 71100 Ch\u00e2lon sur Sa\u00f4ne",
     "sg:city":"Chalon-sur-Sa\u00f4ne",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85825193,
+        85688735,
         85633793,
         85947819,
         102087235,
-        85688735
+        85825193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152273107,
-    "wof:lastmodified":1449046698,
+    "wof:lastmodified":1466249978,
     "wof:name":"Arc-cecca S.a.",
     "wof:parent_id":85825193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.871002,32.614262,-93.871002,32.614262],
+  "bbox": [
+    -93.871002,
+    32.614262,
+    -93.871002,
+    32.614262
+],
   "geometry": {"coordinates":[-93.871002,32.614262],"type":"Point"}
 }

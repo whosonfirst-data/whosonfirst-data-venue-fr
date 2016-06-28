@@ -2,13 +2,14 @@
   "id": 136313373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.535312,47.241344,-1.535312,47.241344",
     "geom:latitude":47.241344,
     "geom:longitude":-1.535312,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"165 route de Saint-Joseph 44300 Nantes",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136313373,
-    "wof:lastmodified":1449074966,
+    "wof:lastmodified":1466245311,
     "wof:name":"Respironics France Sa",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.535312,47.241344,-1.535312,47.241344],
+  "bbox": [
+    -1.535312,
+    47.241344,
+    -1.535312,
+    47.241344
+],
   "geometry": {"coordinates":[-1.535312,47.241344],"type":"Point"}
 }

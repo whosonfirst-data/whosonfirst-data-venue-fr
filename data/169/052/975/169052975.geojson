@@ -2,13 +2,14 @@
   "id": 169052975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.481618,48.39859,-4.481618,48.39859",
     "geom:latitude":48.39859,
     "geom:longitude":-4.481618,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"3, Rue Volney, 29200 Brest",
     "sg:city":"Brest",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794565,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85794565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169052975,
-    "wof:lastmodified":1449034174,
+    "wof:lastmodified":1466246227,
     "wof:name":"Marc Cellerier E.u.r.l.",
     "wof:parent_id":85794565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.481618,48.39859,-4.481618,48.39859],
+  "bbox": [
+    -4.481618,
+    48.39859,
+    -4.481618,
+    48.39859
+],
   "geometry": {"coordinates":[-4.481618,48.39859],"type":"Point"}
 }

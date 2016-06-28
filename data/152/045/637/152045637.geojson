@@ -2,13 +2,14 @@
   "id": 152045637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.36252,48.85128,2.36252,48.85128",
     "geom:latitude":48.85128,
     "geom:longitude":2.36252,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bis Quai Des C\u00e9lestins 75004 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873807,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873807
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152045637,
-    "wof:lastmodified":1449048380,
+    "wof:lastmodified":1466245545,
     "wof:name":"Ecole Massillon",
     "wof:parent_id":85873807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.36252,48.85128,2.36252,48.85128],
+  "bbox": [
+    2.36252,
+    48.85128,
+    2.36252,
+    48.85128
+],
   "geometry": {"coordinates":[2.36252,48.85128],"type":"Point"}
 }

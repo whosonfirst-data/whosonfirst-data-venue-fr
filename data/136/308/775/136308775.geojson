@@ -2,13 +2,14 @@
   "id": 136308775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33559,48.876072,2.33559,48.876072",
     "geom:latitude":48.876072,
     "geom:longitude":2.33559,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 rue de Ch\u00e2teaudun, 75009 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873867,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136308775,
-    "wof:lastmodified":1449076302,
+    "wof:lastmodified":1466247243,
     "wof:name":"Soci\u00e9t\u00e9 Suisse-banque (france)",
     "wof:parent_id":85873867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33559,48.876072,2.33559,48.876072],
+  "bbox": [
+    2.33559,
+    48.876072,
+    2.33559,
+    48.876072
+],
   "geometry": {"coordinates":[2.33559,48.876072],"type":"Point"}
 }

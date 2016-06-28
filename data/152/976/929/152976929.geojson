@@ -2,13 +2,14 @@
   "id": 152976929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.139543,49.506252,0.139543,49.506252",
     "geom:latitude":49.506252,
     "geom:longitude":0.139543,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Quai De Bougainville Darse De L'Oc\u00e9an 76610 Le Havre",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152976929,
-    "wof:lastmodified":1449046220,
+    "wof:lastmodified":1466252325,
     "wof:name":"Transports Lurit",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.139543,49.506252,0.139543,49.506252],
+  "bbox": [
+    0.139543,
+    49.506252,
+    0.139543,
+    49.506252
+],
   "geometry": {"coordinates":[0.139543,49.506252],"type":"Point"}
 }

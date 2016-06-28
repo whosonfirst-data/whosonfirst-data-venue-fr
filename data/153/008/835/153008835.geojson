@@ -2,13 +2,14 @@
   "id": 153008835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.766943,48.632679,7.766943,48.632679",
     "geom:latitude":48.632679,
     "geom:longitude":7.766943,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Route De La Wantzenau 67800 Hoenheim",
     "sg:city":"Hoenheim",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794625,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":153008835,
-    "wof:lastmodified":1449040480,
+    "wof:lastmodified":1466245581,
     "wof:name":"Alsace Fabrication Publicite",
     "wof:parent_id":85794625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.766943,48.632679,7.766943,48.632679],
+  "bbox": [
+    7.766943,
+    48.632679,
+    7.766943,
+    48.632679
+],
   "geometry": {"coordinates":[7.766943,48.632679],"type":"Point"}
 }

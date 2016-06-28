@@ -2,13 +2,14 @@
   "id": 169247963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.30069,48.871976,2.30069,48.871976",
     "geom:latitude":48.871976,
     "geom:longitude":2.30069,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Avenue des Champs Elys\u00e9es",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     "sg:website":"http://www.louisvuitton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873853,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873853
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169247963,
-    "wof:lastmodified":1449034619,
+    "wof:lastmodified":1466249541,
     "wof:name":"Louis Vuitton",
     "wof:parent_id":85873853,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.30069,48.871976,2.30069,48.871976],
+  "bbox": [
+    2.30069,
+    48.871976,
+    2.30069,
+    48.871976
+],
   "geometry": {"coordinates":[2.30069,48.871976],"type":"Point"}
 }

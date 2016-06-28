@@ -2,13 +2,14 @@
   "id": 152053031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.574118,47.205994,-1.574118,47.205994",
     "geom:latitude":47.205994,
     "geom:longitude":-1.574118,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16 quai Ernest Renaud",
     "sg:city":"des Salorges; B.P.90517; NANTES; 44105 CEDEX 4",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152053031,
-    "wof:lastmodified":1449045174,
+    "wof:lastmodified":1466246058,
     "wof:name":"C.c.i De Nantes",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.574118,47.205994,-1.574118,47.205994],
+  "bbox": [
+    -1.574118,
+    47.205994,
+    -1.574118,
+    47.205994
+],
   "geometry": {"coordinates":[-1.574118,47.205994],"type":"Point"}
 }

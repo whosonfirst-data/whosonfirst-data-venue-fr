@@ -2,13 +2,14 @@
   "id": 152930247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.618845,47.252186,-1.618845,47.252186",
     "geom:latitude":47.252186,
     "geom:longitude":-1.618845,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Rue Jules Verne 44700 Orvault",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897707,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152930247,
-    "wof:lastmodified":1449045780,
+    "wof:lastmodified":1466252327,
     "wof:name":"Paragon Transaction",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.618845,47.252186,-1.618845,47.252186],
+  "bbox": [
+    -1.618845,
+    47.252186,
+    -1.618845,
+    47.252186
+],
   "geometry": {"coordinates":[-1.618845,47.252186],"type":"Point"}
 }

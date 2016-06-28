@@ -2,13 +2,14 @@
   "id": 152116159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.264394,48.841377,2.264394,48.841377",
     "geom:latitude":48.841377,
     "geom:longitude":2.264394,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Boulevard Exelmans 75016 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152116159,
-    "wof:lastmodified":1449044979,
+    "wof:lastmodified":1466249173,
     "wof:name":"Baltimore Technologie",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.264394,48.841377,2.264394,48.841377],
+  "bbox": [
+    2.264394,
+    48.841377,
+    2.264394,
+    48.841377
+],
   "geometry": {"coordinates":[2.264394,48.841377],"type":"Point"}
 }

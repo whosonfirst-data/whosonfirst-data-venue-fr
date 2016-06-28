@@ -2,13 +2,14 @@
   "id": 152055291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357314,48.914471,2.357314,48.914471",
     "geom:latitude":48.914471,
     "geom:longitude":2.357314,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Av Du Pr\u00e9sident Wilson 93210 St Denis La Plaine",
     "sg:city":"Plaine",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152055291,
-    "wof:lastmodified":1449045337,
+    "wof:lastmodified":1466246294,
     "wof:name":"Prd",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357314,48.914471,2.357314,48.914471],
+  "bbox": [
+    2.357314,
+    48.914471,
+    2.357314,
+    48.914471
+],
   "geometry": {"coordinates":[2.357314,48.914471],"type":"Point"}
 }

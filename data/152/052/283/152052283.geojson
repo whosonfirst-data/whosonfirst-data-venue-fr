@@ -2,13 +2,14 @@
   "id": 152052283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.344656,43.545544,1.344656,43.545544",
     "geom:latitude":43.545544,
     "geom:longitude":1.344656,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Rue Du Petit Barry 31270 Cugnaux",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102071625,
-        85633147,
         85683397,
-        85794667
+        85633147,
+        85794667,
+        102071625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152052283,
-    "wof:lastmodified":1449046414,
+    "wof:lastmodified":1466246045,
     "wof:name":"Toulouse Carrelages",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.344656,43.545544,1.344656,43.545544],
+  "bbox": [
+    1.344656,
+    43.545544,
+    1.344656,
+    43.545544
+],
   "geometry": {"coordinates":[1.344656,43.545544],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152059801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357032,48.871277,2.357032,48.871277",
     "geom:latitude":48.871277,
     "geom:longitude":2.357032,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Rue Du Fg St Martin 75010 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497,
+        85873875,
         85873883
     ],
     "wof:breaches":[],
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":152059801,
-    "wof:lastmodified":1449045569,
+    "wof:lastmodified":1466246829,
     "wof:name":"Biss Goss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357032,48.871277,2.357032,48.871277],
+  "bbox": [
+    2.357032,
+    48.871277,
+    2.357032,
+    48.871277
+],
   "geometry": {"coordinates":[2.357032,48.871277],"type":"Point"}
 }

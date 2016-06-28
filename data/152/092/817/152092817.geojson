@@ -2,13 +2,14 @@
   "id": 152092817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.057526,45.993031,-88.057526,45.993031",
     "geom:latitude":45.993031,
     "geom:longitude":-88.057526,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rue Du Colonel Fabien 14121 RANVILLE",
     "sg:city":"Sallenelles",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85803233,
+        85688599,
         85633793,
         85950925,
         102083107,
-        85688599
+        85803233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152092817,
-    "wof:lastmodified":1449048054,
+    "wof:lastmodified":1466248103,
     "wof:name":"Etablissements Normandie Appats Sas",
     "wof:parent_id":85803233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.057526,45.993031,-88.057526,45.993031],
+  "bbox": [
+    -88.057526,
+    45.993031,
+    -88.057526,
+    45.993031
+],
   "geometry": {"coordinates":[-88.057526,45.993031],"type":"Point"}
 }

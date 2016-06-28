@@ -2,13 +2,14 @@
   "id": 169056039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.187158,43.715733,7.187158,43.715733",
     "geom:latitude":43.715733,
     "geom:longitude":7.187158,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"528, Rte de Grenoble - L'Hermitage, 06200 Nice",
     "sg:city":"Grenoble",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072439,
-        85633147,
         85683323,
-        85794649
+        85633147,
+        85794649,
+        102072439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169056039,
-    "wof:lastmodified":1449033632,
+    "wof:lastmodified":1466246376,
     "wof:name":"Matis S.a.r.l.",
     "wof:parent_id":85794649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.187158,43.715733,7.187158,43.715733],
+  "bbox": [
+    7.187158,
+    43.715733,
+    7.187158,
+    43.715733
+],
   "geometry": {"coordinates":[7.187158,43.715733],"type":"Point"}
 }

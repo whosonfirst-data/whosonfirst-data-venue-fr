@@ -2,13 +2,14 @@
   "id": 152940723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.346306,48.845436,2.346306,48.845436",
     "geom:latitude":48.845436,
     "geom:longitude":2.346306,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"5 place du Pantheon 75005 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873823,
+        85683497,
         85633147,
         101751119,
         102067773,
-        85683497
+        85873823
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152940723,
-    "wof:lastmodified":1449045421,
+    "wof:lastmodified":1466252383,
     "wof:name":"Le Nouveau Gorne S.a.",
     "wof:parent_id":85873823,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.346306,48.845436,2.346306,48.845436],
+  "bbox": [
+    2.346306,
+    48.845436,
+    2.346306,
+    48.845436
+],
   "geometry": {"coordinates":[2.346306,48.845436],"type":"Point"}
 }

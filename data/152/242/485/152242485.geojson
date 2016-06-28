@@ -2,13 +2,14 @@
   "id": 152242485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.306729,48.871441,2.306729,48.871441",
     "geom:latitude":48.871441,
     "geom:longitude":2.306729,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"47, Rue de Ponthieu, 75008 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873859,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152242485,
-    "wof:lastmodified":1449048377,
+    "wof:lastmodified":1466249871,
     "wof:name":"A.m.j. Plans S.a.",
     "wof:parent_id":85873859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.306729,48.871441,2.306729,48.871441],
+  "bbox": [
+    2.306729,
+    48.871441,
+    2.306729,
+    48.871441
+],
   "geometry": {"coordinates":[2.306729,48.871441],"type":"Point"}
 }

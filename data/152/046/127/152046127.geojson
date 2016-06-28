@@ -2,13 +2,14 @@
   "id": 152046127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.755699,37.20834,-121.755699,37.20834",
     "geom:latitude":37.20834,
     "geom:longitude":-121.755699,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Bis Boulevard Toussaint Lucas 95137 Franconville- La Garenne",
     "sg:city":"Vill\u00e9",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85869181,
+        85688637,
         85633793,
         85922347,
         102081673,
-        85688637
+        85869181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152046127,
-    "wof:lastmodified":1449046864,
+    "wof:lastmodified":1466245529,
     "wof:name":"Institution Jeanne D Arc Ecole College Lep",
     "wof:parent_id":85869181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.755699,37.20834,-121.755699,37.20834],
-  "geometry": {"coordinates":[-121.755699,37.20834],"type":"Point"}
+  "bbox": [
+    -121.755699,
+    37.20834,
+    -121.755699,
+    37.20834
+],
+  "geometry": {"coordinates":[-121.75569900000001,37.20834],"type":"Point"}
 }

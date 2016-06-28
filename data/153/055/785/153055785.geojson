@@ -2,13 +2,14 @@
   "id": 153055785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"5.881848,43.12669,5.881848,43.12669",
     "geom:latitude":43.12669,
     "geom:longitude":5.881848,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Parc Ath\u00e9na - Immeuble le Grand Pin",
     "sg:city":"Ollioules",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Provence-Alpes-C\u00f4te d'Azur",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863283,
+        85683315,
         85633147,
         101750649,
         102067657,
-        85683315
+        85863283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":153055785,
-    "wof:lastmodified":1449040443,
+    "wof:lastmodified":1466246026,
     "wof:name":"Acapad Conseil",
     "wof:parent_id":85863283,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [5.881848,43.12669,5.881848,43.12669],
+  "bbox": [
+    5.881848,
+    43.12669,
+    5.881848,
+    43.12669
+],
   "geometry": {"coordinates":[5.881848,43.12669],"type":"Point"}
 }

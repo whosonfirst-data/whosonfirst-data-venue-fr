@@ -2,13 +2,14 @@
   "id": 152933137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.452785,43.597805,1.452785,43.597805",
     "geom:latitude":43.597805,
     "geom:longitude":1.452785,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Allee Francois Verdier 31000 Toulouse",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794585,
+        85683397,
         85633147,
         101750691,
         102072513,
-        85683397,
+        85794585,
         85794603
     ],
     "wof:breaches":[],
@@ -57,14 +58,20 @@
         }
     ],
     "wof:id":152933137,
-    "wof:lastmodified":1449045254,
+    "wof:lastmodified":1466252338,
     "wof:name":"Toulouse Express Couleur (tec)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.452785,43.597805,1.452785,43.597805],
+  "bbox": [
+    1.452785,
+    43.597805,
+    1.452785,
+    43.597805
+],
   "geometry": {"coordinates":[1.452785,43.597805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152818525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.421001,48.850979,2.421001,48.850979",
     "geom:latitude":48.850979,
     "geom:longitude":2.421001,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1/15, Rue de Valmy, 93108 Montreuil C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874047,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874047
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152818525,
-    "wof:lastmodified":1449046555,
+    "wof:lastmodified":1466251955,
     "wof:name":"Thermon France S.n.c.",
     "wof:parent_id":85874047,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.421001,48.850979,2.421001,48.850979],
+  "bbox": [
+    2.421001,
+    48.850979,
+    2.421001,
+    48.850979
+],
   "geometry": {"coordinates":[2.421001,48.850979],"type":"Point"}
 }

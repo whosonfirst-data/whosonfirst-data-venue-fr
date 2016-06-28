@@ -2,13 +2,14 @@
   "id": 152129711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.041489,49.431084,1.041489,49.431084",
     "geom:latitude":49.431084,
     "geom:longitude":1.041489,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Rue Des Patis 76140 Le Petit Quevilly",
     "sg:classifiers":[
         {
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794481,
+        85683251,
         85633147,
         101751447,
         102072541,
-        85683251
+        85794481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152129711,
-    "wof:lastmodified":1449048032,
+    "wof:lastmodified":1466249440,
     "wof:name":"Techniques Des Controles Et Des Mesures Tcm",
     "wof:parent_id":85794481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.041489,49.431084,1.041489,49.431084],
+  "bbox": [
+    1.041489,
+    49.431084,
+    1.041489,
+    49.431084
+],
   "geometry": {"coordinates":[1.041489,49.431084],"type":"Point"}
 }

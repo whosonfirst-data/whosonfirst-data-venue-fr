@@ -2,13 +2,14 @@
   "id": 136281067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.326911,48.866375,2.326911,48.866375",
     "geom:latitude":48.866375,
     "geom:longitude":2.326911,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Rue Du Mont Thabor 75001 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873791,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":136281067,
-    "wof:lastmodified":1449076054,
+    "wof:lastmodified":1466245464,
     "wof:name":"Blue Marlyn Sarl",
     "wof:parent_id":85873791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.326911,48.866375,2.326911,48.866375],
+  "bbox": [
+    2.326911,
+    48.866375,
+    2.326911,
+    48.866375
+],
   "geometry": {"coordinates":[2.326911,48.866375],"type":"Point"}
 }

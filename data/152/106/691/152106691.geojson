@@ -2,13 +2,14 @@
   "id": 152106691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.320879,48.891895,2.320879,48.891895",
     "geom:latitude":48.891895,
     "geom:longitude":2.320879,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Rue Gauthey 75017 Paris",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873987,
+        85683157,
         85633147,
         101749775,
         102071931,
-        85683157
+        85873987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152106691,
-    "wof:lastmodified":1449044217,
+    "wof:lastmodified":1466248935,
     "wof:name":"Bgm",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.320879,48.891895,2.320879,48.891895],
+  "bbox": [
+    2.320879,
+    48.891895,
+    2.320879,
+    48.891895
+],
   "geometry": {"coordinates":[2.320879,48.891895],"type":"Point"}
 }

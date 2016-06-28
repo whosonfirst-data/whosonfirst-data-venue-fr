@@ -2,13 +2,14 @@
   "id": 168849535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.498182,47.26329,-1.498182,47.26329",
     "geom:latitude":47.26329,
     "geom:longitude":-1.498182,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9Bis, Impasse de la Hache - Technoparc de l'Aubini\u00e8re, 44470 Carquefou",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794527,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85794527
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168849535,
-    "wof:lastmodified":1449027912,
+    "wof:lastmodified":1466247360,
     "wof:name":"C.i.s. S.a. - Cornouailles Informatique Service",
     "wof:parent_id":85794527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.498182,47.26329,-1.498182,47.26329],
+  "bbox": [
+    -1.498182,
+    47.26329,
+    -1.498182,
+    47.26329
+],
   "geometry": {"coordinates":[-1.498182,47.26329],"type":"Point"}
 }

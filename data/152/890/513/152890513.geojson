@@ -2,13 +2,14 @@
   "id": 152890513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.072029,40.048698,-83.072029,40.048698",
     "geom:latitude":40.048698,
     "geom:longitude":-83.072029,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rue Foresti\u00e8re 43220 Duni\u00e8re",
     "sg:city":"Duni\u00e8res",
     "sg:classifiers":[
@@ -24,11 +25,11 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839521,
+        85688485,
         85633793,
         101712381,
         102080969,
-        85688485
+        85839521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152890513,
-    "wof:lastmodified":1449045314,
+    "wof:lastmodified":1466252059,
     "wof:name":"Extrusion Industrielle Dunieroise (ste D) Sa",
     "wof:parent_id":85839521,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.072029,40.048698,-83.072029,40.048698],
+  "bbox": [
+    -83.072029,
+    40.048698,
+    -83.072029,
+    40.048698
+],
   "geometry": {"coordinates":[-83.072029,40.048698],"type":"Point"}
 }

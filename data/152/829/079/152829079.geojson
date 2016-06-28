@@ -2,13 +2,14 @@
   "id": 152829079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.211349,36.38377,-89.211349,36.38377",
     "geom:latitude":36.38377,
     "geom:longitude":-89.211349,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"ZA Concert\u00e9 - Le Mas des Entreprises Pin",
     "sg:city":"Chuzelles",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85844377,
+        85688641,
         85633793,
         85946669,
         102084541,
-        85688641
+        85844377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":152829079,
-    "wof:lastmodified":1449048619,
+    "wof:lastmodified":1466251881,
     "wof:name":"Transports Maniatakis Services S.a.",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.211349,36.38377,-89.211349,36.38377],
+  "bbox": [
+    -89.211349,
+    36.38377,
+    -89.211349,
+    36.38377
+],
   "geometry": {"coordinates":[-89.211349,36.38377],"type":"Point"}
 }

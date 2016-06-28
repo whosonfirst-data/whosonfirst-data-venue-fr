@@ -2,13 +2,14 @@
   "id": 152906627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.633005,48.819592,2.633005,48.819592",
     "geom:latitude":48.819592,
     "geom:longitude":2.633005,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Boulevard De Beaubourg 77183 Croissy Beaubourg",
     "sg:classifiers":[
         {
@@ -25,11 +26,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863291,
+        85683385,
         85633147,
         101749917,
         102071011,
-        85683385
+        85863291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152906627,
-    "wof:lastmodified":1449046066,
+    "wof:lastmodified":1466252260,
     "wof:name":"Partners Electronics",
     "wof:parent_id":85863291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.633005,48.819592,2.633005,48.819592],
+  "bbox": [
+    2.633005,
+    48.819592,
+    2.633005,
+    48.819592
+],
   "geometry": {"coordinates":[2.633005,48.819592],"type":"Point"}
 }

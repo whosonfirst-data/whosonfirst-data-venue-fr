@@ -2,13 +2,14 @@
   "id": 152113651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.614546,47.251526,-1.614546,47.251526",
     "geom:latitude":47.251526,
     "geom:longitude":-1.614546,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rue Maryse Basti\u00e9 BP 9 44701 Orvault Cedex",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897707,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152113651,
-    "wof:lastmodified":1449048539,
+    "wof:lastmodified":1466249256,
     "wof:name":"Auto Pieces Nantais",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.614546,47.251526,-1.614546,47.251526],
+  "bbox": [
+    -1.614546,
+    47.251526,
+    -1.614546,
+    47.251526
+],
   "geometry": {"coordinates":[-1.614546,47.251526],"type":"Point"}
 }

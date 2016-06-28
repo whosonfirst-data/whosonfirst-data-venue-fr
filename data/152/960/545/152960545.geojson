@@ -2,13 +2,14 @@
   "id": 152960545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.333097,48.815853,2.333097,48.815853",
     "geom:latitude":48.815853,
     "geom:longitude":2.333097,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Av Lenine 94250 Gentilly",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873937,
+        85683459,
         85633147,
         101749049,
         102070457,
-        85683459
+        85873937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152960545,
-    "wof:lastmodified":1449047619,
+    "wof:lastmodified":1466252441,
     "wof:name":"International Art Transport Sa",
     "wof:parent_id":85873937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.333097,48.815853,2.333097,48.815853],
+  "bbox": [
+    2.333097,
+    48.815853,
+    2.333097,
+    48.815853
+],
   "geometry": {"coordinates":[2.333097,48.815853],"type":"Point"}
 }

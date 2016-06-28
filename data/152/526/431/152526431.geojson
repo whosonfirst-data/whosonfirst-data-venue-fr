@@ -2,13 +2,14 @@
   "id": 152526431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.403549,27.796289,-97.403549,27.796289",
     "geom:latitude":27.796289,
     "geom:longitude":-97.403549,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"6 bis, Rue Moc Souris, 78470 Saint R\u00e9my les Chevreuse",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873327,
+        85688753,
         85633793,
         101724325,
         102081441,
-        85688753
+        85873327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152526431,
-    "wof:lastmodified":1449045721,
+    "wof:lastmodified":1466250924,
     "wof:name":"Hypelec S.a.",
     "wof:parent_id":85873327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-97.403549,27.796289,-97.403549,27.796289],
+  "bbox": [
+    -97.403549,
+    27.796289,
+    -97.403549,
+    27.796289
+],
   "geometry": {"coordinates":[-97.403549,27.796289],"type":"Point"}
 }

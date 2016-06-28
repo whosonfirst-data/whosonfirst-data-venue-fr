@@ -2,13 +2,14 @@
   "id": 136306367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.488873,48.407581,-4.488873,48.407581",
     "geom:latitude":48.407581,
     "geom:longitude":-4.488873,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"29288 Brest CEDEX, Dept 29, France.^^32 rue Mirabeau, Le Relecq-Kerhuon, Dept 29",
     "sg:classifiers":[
         {
@@ -22,11 +23,11 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85863259,
+        85683553,
         85633147,
         101750111,
         102072399,
-        85683553
+        85863259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":136306367,
-    "wof:lastmodified":1449076204,
+    "wof:lastmodified":1466246976,
     "wof:name":"Sobrepar",
     "wof:parent_id":85863259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.488873,48.407581,-4.488873,48.407581],
+  "bbox": [
+    -4.488873,
+    48.407581,
+    -4.488873,
+    48.407581
+],
   "geometry": {"coordinates":[-4.488873,48.407581],"type":"Point"}
 }

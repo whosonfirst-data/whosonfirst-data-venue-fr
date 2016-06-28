@@ -2,13 +2,14 @@
   "id": 152114613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.582222,47.198765,-1.582222,47.198765",
     "geom:latitude":47.198765,
     "geom:longitude":-1.582222,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Marcel Sembat 44104 Nantes Cedex 4",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794675,
+        85683233,
         85633147,
         101749029,
         102071599,
-        85683233
+        85794675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152114613,
-    "wof:lastmodified":1449046239,
+    "wof:lastmodified":1466249345,
     "wof:name":"Sra Sarl",
     "wof:parent_id":85794675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.582222,47.198765,-1.582222,47.198765],
+  "bbox": [
+    -1.582222,
+    47.198765,
+    -1.582222,
+    47.198765
+],
   "geometry": {"coordinates":[-1.582222,47.198765],"type":"Point"}
 }

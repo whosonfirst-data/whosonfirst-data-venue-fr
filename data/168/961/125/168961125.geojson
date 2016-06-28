@@ -2,13 +2,14 @@
   "id": 168961125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.415619,48.842064,2.415619,48.842064",
     "geom:latitude":48.842064,
     "geom:longitude":2.415619,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7, Rue de la 1\u00e8re Division Fran\u00e7aise Libre, 94160 Saint Mand\u00e9",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":168961125,
-    "wof:lastmodified":1449028573,
+    "wof:lastmodified":1466248473,
     "wof:name":"Frambourg Productions S.a.s.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.415619,48.842064,2.415619,48.842064],
+  "bbox": [
+    2.415619,
+    48.842064,
+    2.415619,
+    48.842064
+],
   "geometry": {"coordinates":[2.415619,48.842064],"type":"Point"}
 }

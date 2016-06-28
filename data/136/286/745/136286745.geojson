@@ -2,13 +2,14 @@
   "id": 136286745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.54947,47.219791,-1.54947,47.219791",
     "geom:latitude":47.219791,
     "geom:longitude":-1.54947,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Place Eugene Livet Directionregionale 44037 Nantes Cedex 1",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897695,
+        85683233,
         85633147,
         101749589,
         102072459,
-        85683233
+        85897695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":136286745,
-    "wof:lastmodified":1449075252,
+    "wof:lastmodified":1466245939,
     "wof:name":"Office National Des Forets (onf)",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.54947,47.219791,-1.54947,47.219791],
+  "bbox": [
+    -1.54947,
+    47.219791,
+    -1.54947,
+    47.219791
+],
   "geometry": {"coordinates":[-1.54947,47.219791],"type":"Point"}
 }

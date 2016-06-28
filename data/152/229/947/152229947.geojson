@@ -2,13 +2,14 @@
   "id": 152229947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.301032,48.86554,2.301032,48.86554",
     "geom:latitude":48.86554,
     "geom:longitude":2.301032,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"7 avenue George V 75008 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873861,
+        85683497,
         85633147,
         101751119,
         102068357,
-        85683497
+        85873861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229947,
-    "wof:lastmodified":1449047985,
+    "wof:lastmodified":1466249977,
     "wof:name":"Ysl Sa",
     "wof:parent_id":85873861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.301032,48.86554,2.301032,48.86554],
+  "bbox": [
+    2.301032,
+    48.86554,
+    2.301032,
+    48.86554
+],
   "geometry": {"coordinates":[2.301032,48.86554],"type":"Point"}
 }

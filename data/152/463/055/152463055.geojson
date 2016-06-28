@@ -2,13 +2,14 @@
   "id": 152463055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287668,48.87476,2.287668,48.87476",
     "geom:latitude":48.87476,
     "geom:longitude":2.287668,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Rue le Sueur, 75016 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152463055,
-    "wof:lastmodified":1449047510,
+    "wof:lastmodified":1466250643,
     "wof:name":"Eurokiosque S.a.",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287668,48.87476,2.287668,48.87476],
+  "bbox": [
+    2.287668,
+    48.87476,
+    2.287668,
+    48.87476
+],
   "geometry": {"coordinates":[2.287668,48.87476],"type":"Point"}
 }

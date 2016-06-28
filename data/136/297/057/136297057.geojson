@@ -2,13 +2,14 @@
   "id": 136297057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.357873,48.872417,2.357873,48.872417",
     "geom:latitude":48.872417,
     "geom:longitude":2.357873,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"21 rue de Nancy; Paris; 75010",
     "sg:classifiers":[
         {
@@ -23,11 +24,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873875,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":136297057,
-    "wof:lastmodified":1449075780,
+    "wof:lastmodified":1466246490,
     "wof:name":"Banque Du Bosphore",
     "wof:parent_id":85873875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.357873,48.872417,2.357873,48.872417],
+  "bbox": [
+    2.357873,
+    48.872417,
+    2.357873,
+    48.872417
+],
   "geometry": {"coordinates":[2.357873,48.872417],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 136274591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.051183,49.471951,1.051183,49.471951",
     "geom:latitude":49.471951,
     "geom:longitude":1.051183,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Bis Rue Joseph Hue",
     "sg:city":"D\u00e9ville L\u00e8s Rouen",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794441,
+        85683251,
         85633147,
         101750191,
         102071809,
-        85683251
+        85794441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136274591,
-    "wof:lastmodified":1449075080,
+    "wof:lastmodified":1466246245,
     "wof:name":"Ardial Fiduciaire Sa",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.051183,49.471951,1.051183,49.471951],
+  "bbox": [
+    1.051183,
+    49.471951,
+    1.051183,
+    49.471951
+],
   "geometry": {"coordinates":[1.051183,49.471951],"type":"Point"}
 }

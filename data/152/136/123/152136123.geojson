@@ -2,13 +2,14 @@
   "id": 152136123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.342627,48.863697,2.342627,48.863697",
     "geom:latitude":48.863697,
     "geom:longitude":2.342627,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rue Coquill\u00e8re 75001 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873785,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152136123,
-    "wof:lastmodified":1449048838,
+    "wof:lastmodified":1466249468,
     "wof:name":"Dehillerin Sa",
     "wof:parent_id":85873785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.342627,48.863697,2.342627,48.863697],
+  "bbox": [
+    2.342627,
+    48.863697,
+    2.342627,
+    48.863697
+],
   "geometry": {"coordinates":[2.342627,48.863697],"type":"Point"}
 }

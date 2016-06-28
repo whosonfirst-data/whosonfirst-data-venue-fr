@@ -2,13 +2,14 @@
   "id": 152229685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.201523,30.710594,-101.201523,30.710594",
     "geom:latitude":30.710594,
     "geom:longitude":-101.201523,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14 rue du Platre 69360 ST SYMPHORIEN D OZON",
     "sg:classifiers":[
         {
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":152229685,
-    "wof:lastmodified":1449047984,
+    "wof:lastmodified":1466249841,
     "wof:name":"Lalse Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-101.201523,30.710594,-101.201523,30.710594],
-  "geometry": {"coordinates":[-101.201523,30.710594],"type":"Point"}
+  "bbox": [
+    -101.201523,
+    30.710594,
+    -101.201523,
+    30.710594
+],
+  "geometry": {"coordinates":[-101.20152299999999,30.710594],"type":"Point"}
 }

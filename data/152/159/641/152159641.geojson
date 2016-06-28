@@ -2,13 +2,14 @@
   "id": 152159641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.437789,48.712444,2.437789,48.712444",
     "geom:latitude":48.712444,
     "geom:longitude":2.437789,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Mercure 91230 Montgeron",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794593,
+        85683371,
         85633147,
         101751037,
         102070425,
-        85683371
+        85794593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152159641,
-    "wof:lastmodified":1449044862,
+    "wof:lastmodified":1466249613,
     "wof:name":"Steem",
     "wof:parent_id":85794593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.437789,48.712444,2.437789,48.712444],
+  "bbox": [
+    2.437789,
+    48.712444,
+    2.437789,
+    48.712444
+],
   "geometry": {"coordinates":[2.437789,48.712444],"type":"Point"}
 }

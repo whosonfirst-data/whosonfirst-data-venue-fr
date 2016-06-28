@@ -2,13 +2,14 @@
   "id": 169105489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.340837,48.870708,2.340837,48.870708",
     "geom:latitude":48.870708,
     "geom:longitude":2.340837,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"43, Rue Vivienne, 75002 Paris",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873799,
+        85683497,
         85633147,
         101751119,
         102067221,
-        85683497
+        85873799
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169105489,
-    "wof:lastmodified":1449033948,
+    "wof:lastmodified":1466247946,
     "wof:name":"Ptolmix S.a.s.",
     "wof:parent_id":85873799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.340837,48.870708,2.340837,48.870708],
+  "bbox": [
+    2.340837,
+    48.870708,
+    2.340837,
+    48.870708
+],
   "geometry": {"coordinates":[2.340837,48.870708],"type":"Point"}
 }

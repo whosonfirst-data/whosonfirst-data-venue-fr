@@ -2,13 +2,14 @@
   "id": 152688769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.642347,45.448395,0.642347,45.448395",
     "geom:latitude":45.448395,
     "geom:longitude":0.642347,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 4, 24300 Nontron C\u00e9dex^^Av. Jules Ferry, 24300 Nontron",
     "sg:city":"Nontron",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":152688769,
-    "wof:lastmodified":1449046032,
+    "wof:lastmodified":1466251604,
     "wof:name":"P\u00e9ri Graphic S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.642347,45.448395,0.642347,45.448395],
+  "bbox": [
+    0.642347,
+    45.448395,
+    0.642347,
+    45.448395
+],
   "geometry": {"coordinates":[0.642347,45.448395],"type":"Point"}
 }

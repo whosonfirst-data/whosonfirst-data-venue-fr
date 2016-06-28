@@ -2,13 +2,14 @@
   "id": 152669131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.683687,48.945366,2.683687,48.945366",
     "geom:latitude":48.945366,
     "geom:longitude":2.683687,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1 bis, Rue du 8 Mai 1945, 77410 Claye Souilly",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102065403,
-        85633147,
         85683385,
-        85794641
+        85633147,
+        85794641,
+        102065403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152669131,
-    "wof:lastmodified":1449044834,
+    "wof:lastmodified":1466251387,
     "wof:name":"Phytorus S.a.",
     "wof:parent_id":85794641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.683687,48.945366,2.683687,48.945366],
+  "bbox": [
+    2.683687,
+    48.945366,
+    2.683687,
+    48.945366
+],
   "geometry": {"coordinates":[2.683687,48.945366],"type":"Point"}
 }

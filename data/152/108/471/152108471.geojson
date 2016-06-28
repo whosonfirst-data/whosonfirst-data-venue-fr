@@ -2,13 +2,14 @@
   "id": 152108471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.212079,48.790413,2.212079,48.790413",
     "geom:latitude":48.790413,
     "geom:longitude":2.212079,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Jeanne Braconnier 92366 Meudon La For\u00eat Cedex",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794445,
+        85683157,
         85633147,
         101751135,
         102070801,
-        85683157
+        85794445
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152108471,
-    "wof:lastmodified":1449044373,
+    "wof:lastmodified":1466249305,
     "wof:name":"Sulzer Cardiovascular Sa",
     "wof:parent_id":85794445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.212079,48.790413,2.212079,48.790413],
+  "bbox": [
+    2.212079,
+    48.790413,
+    2.212079,
+    48.790413
+],
   "geometry": {"coordinates":[2.212079,48.790413],"type":"Point"}
 }

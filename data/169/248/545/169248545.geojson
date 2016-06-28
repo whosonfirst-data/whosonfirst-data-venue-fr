@@ -2,13 +2,14 @@
   "id": 169248545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.431656,48.858077,2.431656,48.858077",
     "geom:latitude":48.858077,
     "geom:longitude":2.431656,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16, rue D\u00e9sir\u00e9 Preaux",
     "sg:city":"Montreuil",
     "sg:classifiers":[
@@ -35,11 +36,11 @@
     "sg:website":"http://www.cbondesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85874051,
+        85683475,
         85633147,
         101749845,
         102072055,
-        85683475
+        85874051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":169248545,
-    "wof:lastmodified":1449034503,
+    "wof:lastmodified":1466249516,
     "wof:name":"Cbondesign",
     "wof:parent_id":85874051,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.431656,48.858077,2.431656,48.858077],
+  "bbox": [
+    2.431656,
+    48.858077,
+    2.431656,
+    48.858077
+],
   "geometry": {"coordinates":[2.431656,48.858077],"type":"Point"}
 }

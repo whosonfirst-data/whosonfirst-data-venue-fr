@@ -2,13 +2,14 @@
   "id": 152657071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.269731,48.822914,2.269731,48.822914",
     "geom:latitude":48.822914,
     "geom:longitude":2.269731,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25, Av. Victor Cresson, 92130 Issy les Moulineaux",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873965,
+        85683157,
         85633147,
         101749789,
         102071993,
-        85683157
+        85873965
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152657071,
-    "wof:lastmodified":1449044825,
+    "wof:lastmodified":1466251350,
     "wof:name":"P.a.c.i. S.a. - Palais Des Arts Et Des Congr\u00e8s D'issy",
     "wof:parent_id":85873965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.269731,48.822914,2.269731,48.822914],
+  "bbox": [
+    2.269731,
+    48.822914,
+    2.269731,
+    48.822914
+],
   "geometry": {"coordinates":[2.269731,48.822914],"type":"Point"}
 }

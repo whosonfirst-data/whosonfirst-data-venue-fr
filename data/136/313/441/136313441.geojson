@@ -2,13 +2,14 @@
   "id": 136313441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.341704,48.860428,2.341704,48.860428",
     "geom:latitude":48.860428,
     "geom:longitude":2.341704,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"87 rue de Rivoli 75001 Paris",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873789,
+        85683497,
         85633147,
         101751119,
         102067017,
-        85683497
+        85873789
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":136313441,
-    "wof:lastmodified":1449074962,
+    "wof:lastmodified":1466245325,
     "wof:name":"Pronuptia De Paris Sa",
     "wof:parent_id":85873789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.341704,48.860428,2.341704,48.860428],
+  "bbox": [
+    2.341704,
+    48.860428,
+    2.341704,
+    48.860428
+],
   "geometry": {"coordinates":[2.341704,48.860428],"type":"Point"}
 }

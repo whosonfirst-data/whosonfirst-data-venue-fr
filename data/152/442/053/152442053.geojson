@@ -2,13 +2,14 @@
   "id": 152442053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.255751,48.766495,2.255751,48.766495",
     "geom:latitude":48.766495,
     "geom:longitude":2.255751,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"1, Rue Nicolas Appert, 92297 Ch\u00e2tenay Malabry C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":152442053,
-    "wof:lastmodified":1449046335,
+    "wof:lastmodified":1466250589,
     "wof:name":"Ericsson France S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.255751,48.766495,2.255751,48.766495],
+  "bbox": [
+    2.255751,
+    48.766495,
+    2.255751,
+    48.766495
+],
   "geometry": {"coordinates":[2.255751,48.766495],"type":"Point"}
 }

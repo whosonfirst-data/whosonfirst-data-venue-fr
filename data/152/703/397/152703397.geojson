@@ -2,13 +2,14 @@
   "id": 152703397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.356121,48.851849,2.356121,48.851849",
     "geom:latitude":48.851849,
     "geom:longitude":2.356121,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"15, Rue du Port - Parc de l'Ile, 92022 Nanterre C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873809,
+        85683497,
         85633147,
         101751119,
         102067591,
-        85683497
+        85873809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152703397,
-    "wof:lastmodified":1449045708,
+    "wof:lastmodified":1466251537,
     "wof:name":"Riva France S.a.",
     "wof:parent_id":85873809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.356121,48.851849,2.356121,48.851849],
+  "bbox": [
+    2.356121,
+    48.851849,
+    2.356121,
+    48.851849
+],
   "geometry": {"coordinates":[2.356121,48.851849],"type":"Point"}
 }

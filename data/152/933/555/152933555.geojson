@@ -2,13 +2,14 @@
   "id": 152933555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.262971,48.829235,2.262971,48.829235",
     "geom:latitude":48.829235,
     "geom:longitude":2.262971,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rue Rouget De Lisle 92130 Issy Les Moulineaux",
     "sg:classifiers":[
         {
@@ -26,11 +27,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152933555,
-    "wof:lastmodified":1449045254,
+    "wof:lastmodified":1466252355,
     "wof:name":"Editions Amaury",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.262971,48.829235,2.262971,48.829235],
+  "bbox": [
+    2.262971,
+    48.829235,
+    2.262971,
+    48.829235
+],
   "geometry": {"coordinates":[2.262971,48.829235],"type":"Point"}
 }

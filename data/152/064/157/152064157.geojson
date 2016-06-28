@@ -2,13 +2,14 @@
   "id": 152064157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.343116,48.874187,2.343116,48.874187",
     "geom:latitude":48.874187,
     "geom:longitude":2.343116,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Rue Richer 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873883,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152064157,
-    "wof:lastmodified":1449045939,
+    "wof:lastmodified":1466247109,
     "wof:name":"Agence Mc Sarl",
     "wof:parent_id":85873883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.343116,48.874187,2.343116,48.874187],
+  "bbox": [
+    2.343116,
+    48.874187,
+    2.343116,
+    48.874187
+],
   "geometry": {"coordinates":[2.343116,48.874187],"type":"Point"}
 }

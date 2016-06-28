@@ -2,13 +2,14 @@
   "id": 152074429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.44188,48.6297,2.44188,48.6297",
     "geom:latitude":48.6297,
     "geom:longitude":2.44188,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9 boulevard de l'Europe 91000 EVRY",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152074429,
-    "wof:lastmodified":1449046796,
+    "wof:lastmodified":1466246143,
     "wof:name":"Dynamic Spray S.a.",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.44188,48.6297,2.44188,48.6297],
+  "bbox": [
+    2.44188,
+    48.6297,
+    2.44188,
+    48.6297
+],
   "geometry": {"coordinates":[2.44188,48.6297],"type":"Point"}
 }

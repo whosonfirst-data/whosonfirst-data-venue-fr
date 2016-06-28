@@ -2,13 +2,14 @@
   "id": 136279731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.430558,48.626186,2.430558,48.626186",
     "geom:latitude":48.626186,
     "geom:longitude":2.430558,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Cour Blaise Pascal",
     "sg:city":"Evry",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794459,
+        85683371,
         85633147,
         101751009,
         102068625,
-        85683371
+        85794459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136279731,
-    "wof:lastmodified":1449075506,
+    "wof:lastmodified":1466245483,
     "wof:name":"Societe Generale (sg)",
     "wof:parent_id":85794459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.430558,48.626186,2.430558,48.626186],
+  "bbox": [
+    2.430558,
+    48.626186,
+    2.430558,
+    48.626186
+],
   "geometry": {"coordinates":[2.430558,48.626186],"type":"Point"}
 }

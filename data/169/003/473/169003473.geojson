@@ -2,13 +2,14 @@
   "id": 169003473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.251584,48.833405,2.251584,48.833405",
     "geom:latitude":48.833405,
     "geom:longitude":2.251584,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"16/18, Rue du D\u00f4me, 92100 Boulogne Billancourt",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873971,
+        85683157,
         85633147,
         101749067,
         102071913,
-        85683157
+        85873971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169003473,
-    "wof:lastmodified":1449035703,
+    "wof:lastmodified":1466245467,
     "wof:name":"Intelmatique S.a.",
     "wof:parent_id":85873971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.251584,48.833405,2.251584,48.833405],
+  "bbox": [
+    2.251584,
+    48.833405,
+    2.251584,
+    48.833405
+],
   "geometry": {"coordinates":[2.251584,48.833405],"type":"Point"}
 }

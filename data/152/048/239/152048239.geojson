@@ -2,13 +2,14 @@
   "id": 152048239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.26695,43.705078,7.26695,43.705078",
     "geom:latitude":43.705078,
     "geom:longitude":7.26695,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Rue Lamartine 06000 Nice",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794467,
+        85683323,
         85633147,
         101749273,
         102072439,
-        85683323
+        85794467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152048239,
-    "wof:lastmodified":1449045916,
+    "wof:lastmodified":1466245701,
     "wof:name":"Hotel Alexandra Sa",
     "wof:parent_id":85794467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.26695,43.705078,7.26695,43.705078],
+  "bbox": [
+    7.26695,
+    43.705078,
+    7.26695,
+    43.705078
+],
   "geometry": {"coordinates":[7.26695,43.705078],"type":"Point"}
 }

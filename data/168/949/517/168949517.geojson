@@ -2,13 +2,14 @@
   "id": 168949517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"7.771486,48.567196,7.771486,48.567196",
     "geom:latitude":48.567196,
     "geom:longitude":7.771486,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"88, Av Jean Jaur\u00e8s, 67100 Strasbourg",
     "sg:city":"Strasbourg",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794607,
+        85683221,
         85633147,
         101751113,
         102072577,
-        85683221
+        85794607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168949517,
-    "wof:lastmodified":1449028258,
+    "wof:lastmodified":1466248162,
     "wof:name":"F.i.b.a. S.a. - Fiduciaire De La Basse Alsace",
     "wof:parent_id":85794607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [7.771486,48.567196,7.771486,48.567196],
+  "bbox": [
+    7.771486,
+    48.567196,
+    7.771486,
+    48.567196
+],
   "geometry": {"coordinates":[7.771486,48.567196],"type":"Point"}
 }

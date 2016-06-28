@@ -2,13 +2,14 @@
   "id": 152103507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.490267,48.785793,2.490267,48.785793",
     "geom:latitude":48.785793,
     "geom:longitude":2.490267,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Ter Av Raspail 94100 St Maur Des Foss\u00e9s",
     "sg:classifiers":[
         {
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871099,
+        85683459,
         85633147,
         101751079,
         102072133,
-        85683459
+        85871099
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":152103507,
-    "wof:lastmodified":1449047184,
+    "wof:lastmodified":1466248852,
     "wof:name":"Ascenseurs Scma (sa)",
     "wof:parent_id":85871099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.490267,48.785793,2.490267,48.785793],
+  "bbox": [
+    2.490267,
+    48.785793,
+    2.490267,
+    48.785793
+],
   "geometry": {"coordinates":[2.490267,48.785793],"type":"Point"}
 }

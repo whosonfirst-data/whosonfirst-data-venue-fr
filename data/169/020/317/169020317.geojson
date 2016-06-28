@@ -2,13 +2,14 @@
   "id": 169020317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.344437,48.913071,2.344437,48.913071",
     "geom:latitude":48.913071,
     "geom:longitude":2.344437,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"9, Av. Michelet, 93400 Saint Ouen",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871095,
+        85683475,
         85633147,
         101751155,
         102072369,
-        85683475
+        85871095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169020317,
-    "wof:lastmodified":1449034216,
+    "wof:lastmodified":1466246604,
     "wof:name":"La Garde De Nuit S.a.",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.344437,48.913071,2.344437,48.913071],
+  "bbox": [
+    2.344437,
+    48.913071,
+    2.344437,
+    48.913071
+],
   "geometry": {"coordinates":[2.344437,48.913071],"type":"Point"}
 }

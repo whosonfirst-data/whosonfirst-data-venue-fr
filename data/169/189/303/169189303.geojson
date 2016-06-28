@@ -2,13 +2,14 @@
   "id": 169189303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-1.50785,47.248169,-1.50785,47.248169",
     "geom:latitude":47.248169,
     "geom:longitude":-1.50785,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"14, Rue de la Raini\u00e8re - Parc Club de Perray, 44300 Nantes",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,10 +18,10 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072459,
-        85633147,
         85683233,
-        85897705
+        85633147,
+        85897705,
+        102072459
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169189303,
-    "wof:lastmodified":1449035008,
+    "wof:lastmodified":1466248675,
     "wof:name":"T. Systems Sol\u00e9ri S.a.",
     "wof:parent_id":85897705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-1.50785,47.248169,-1.50785,47.248169],
+  "bbox": [
+    -1.50785,
+    47.248169,
+    -1.50785,
+    47.248169
+],
   "geometry": {"coordinates":[-1.50785,47.248169],"type":"Point"}
 }

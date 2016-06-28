@@ -2,13 +2,14 @@
   "id": 152541073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.359713,48.808887,2.359713,48.808887",
     "geom:latitude":48.808887,
     "geom:longitude":2.359713,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"10, Rue Jean Monnet, 94270 Le Kremlin Bic\u00eatre",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873929,
+        85683459,
         85633147,
         101749729,
         102071973,
-        85683459
+        85873929
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152541073,
-    "wof:lastmodified":1449044820,
+    "wof:lastmodified":1466251165,
     "wof:name":"Information Document S.a.r.l.",
     "wof:parent_id":85873929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.359713,48.808887,2.359713,48.808887],
+  "bbox": [
+    2.359713,
+    48.808887,
+    2.359713,
+    48.808887
+],
   "geometry": {"coordinates":[2.359713,48.808887],"type":"Point"}
 }

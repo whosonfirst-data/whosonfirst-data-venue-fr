@@ -2,13 +2,14 @@
   "id": 136292169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.448507,48.851013,2.448507,48.851013",
     "geom:latitude":48.851013,
     "geom:longitude":2.448507,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"77 rue des 3 Territoires 94120 FONTENAY SOUS BOIS",
     "sg:classifiers":[
         {
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102069097,
-        85633147,
         85683497,
-        85873901
+        85633147,
+        85873901,
+        102069097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":136292169,
-    "wof:lastmodified":1449075005,
+    "wof:lastmodified":1466246208,
     "wof:name":"Maveco S.a.",
     "wof:parent_id":85873901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.448507,48.851013,2.448507,48.851013],
+  "bbox": [
+    2.448507,
+    48.851013,
+    2.448507,
+    48.851013
+],
   "geometry": {"coordinates":[2.448507,48.851013],"type":"Point"}
 }

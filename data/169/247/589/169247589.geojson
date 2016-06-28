@@ -2,13 +2,14 @@
   "id": 169247589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.577386,44.843843,-0.577386,44.843843",
     "geom:latitude":44.843843,
     "geom:longitude":-0.577386,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"25 rue Mably",
     "sg:city":"Bordeaux",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     "sg:website":"http://www.libcast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85897685,
+        85683243,
         85633147,
         101748979,
         102072453,
-        85683243
+        85897685
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169247589,
-    "wof:lastmodified":1449034623,
+    "wof:lastmodified":1466249522,
     "wof:name":"LIBCAST",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-0.577386,44.843843,-0.577386,44.843843],
+  "bbox": [
+    -0.577386,
+    44.843843,
+    -0.577386,
+    44.843843
+],
   "geometry": {"coordinates":[-0.577386,44.843843],"type":"Point"}
 }

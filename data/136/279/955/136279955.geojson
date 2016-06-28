@@ -2,13 +2,14 @@
   "id": 136279955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.19079,49.492271,0.19079,49.492271",
     "geom:latitude":49.492271,
     "geom:longitude":0.19079,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Route Du Hoc",
     "sg:city":"Le Havre",
     "sg:classifiers":[
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794537,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":136279955,
-    "wof:lastmodified":1449075505,
+    "wof:lastmodified":1466245530,
     "wof:name":"Ste Auxiliaire Etude Technique Travaux Sarl",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.19079,49.492271,0.19079,49.492271],
+  "bbox": [
+    0.19079,
+    49.492271,
+    0.19079,
+    49.492271
+],
   "geometry": {"coordinates":[0.19079,49.492271],"type":"Point"}
 }

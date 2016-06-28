@@ -2,13 +2,14 @@
   "id": 152389975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.08024,50.636189,3.08024,50.636189",
     "geom:latitude":50.636189,
     "geom:longitude":3.08024,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 36, 59007 Lille C\u00e9dex^^37, Rue Aristote, 59800 Lille",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -18,11 +19,11 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794533,
+        85683445,
         85633147,
         101750277,
         102071951,
-        85683445
+        85794533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":152389975,
-    "wof:lastmodified":1449047975,
+    "wof:lastmodified":1466250413,
     "wof:name":"D.a.g. S.a. - Documents Arts Graphiques",
     "wof:parent_id":85794533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.08024,50.636189,3.08024,50.636189],
+  "bbox": [
+    3.08024,
+    50.636189,
+    3.08024,
+    50.636189
+],
   "geometry": {"coordinates":[3.08024,50.636189],"type":"Point"}
 }

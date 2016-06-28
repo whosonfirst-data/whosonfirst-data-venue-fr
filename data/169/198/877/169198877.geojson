@@ -2,13 +2,14 @@
   "id": 169198877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-4.566987,48.361706,-4.566987,48.361706",
     "geom:latitude":48.361706,
     "geom:longitude":-4.566987,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Rue Graham Bell",
     "sg:city":"Plouzan\u00e9",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102072399,
-        85633147,
         85683553,
-        85794663
+        85633147,
+        85794663,
+        102072399
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169198877,
-    "wof:lastmodified":1449033887,
+    "wof:lastmodified":1466249013,
     "wof:name":"Tis-livingston S.a.",
     "wof:parent_id":85794663,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-4.566987,48.361706,-4.566987,48.361706],
+  "bbox": [
+    -4.566987,
+    48.361706,
+    -4.566987,
+    48.361706
+],
   "geometry": {"coordinates":[-4.566987,48.361706],"type":"Point"}
 }

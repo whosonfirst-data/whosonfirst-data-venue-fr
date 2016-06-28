@@ -2,13 +2,14 @@
   "id": 152823291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"1.049415,47.247349,1.049415,47.247349",
     "geom:latitude":47.247349,
     "geom:longitude":1.049415,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 5, 37150 Chisseaux^^7, Rue de la Gare, 37150 Chisseaux",
     "sg:city":"Chisseaux",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":152823291,
-    "wof:lastmodified":1449048867,
+    "wof:lastmodified":1466252057,
     "wof:name":"Touraine Environnement S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [1.049415,47.247349,1.049415,47.247349],
+  "bbox": [
+    1.049415,
+    47.247349,
+    1.049415,
+    47.247349
+],
   "geometry": {"coordinates":[1.049415,47.247349],"type":"Point"}
 }

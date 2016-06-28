@@ -2,13 +2,14 @@
   "id": 152114261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.561265,48.838055,2.561265,48.838055",
     "geom:latitude":48.838055,
     "geom:longitude":2.561265,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Av Du Pav\u00e9 Neuf 93160 Noisy Le Grand",
     "sg:classifiers":[
         {
@@ -29,11 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794473,
+        85683459,
         85633147,
         101751099,
         102070873,
-        85683459
+        85794473
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":152114261,
-    "wof:lastmodified":1449046233,
+    "wof:lastmodified":1466249194,
     "wof:name":"Metin Noisy Sa",
     "wof:parent_id":85794473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.561265,48.838055,2.561265,48.838055],
+  "bbox": [
+    2.561265,
+    48.838055,
+    2.561265,
+    48.838055
+],
   "geometry": {"coordinates":[2.561265,48.838055],"type":"Point"}
 }

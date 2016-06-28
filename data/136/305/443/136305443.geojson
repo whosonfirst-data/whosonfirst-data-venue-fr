@@ -2,13 +2,14 @@
   "id": 136305443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.281106,48.848484,2.281106,48.848484",
     "geom:latitude":48.848484,
     "geom:longitude":2.281106,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"BP 1002, 7a 11 Quai Andr\u00e9 Citroen, 75901 Paris, Dept 75",
     "sg:classifiers":[
         {
@@ -21,11 +22,11 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873955,
+        85683497,
         85633147,
         101751119,
         102069645,
-        85683497
+        85873955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":136305443,
-    "wof:lastmodified":1449075114,
+    "wof:lastmodified":1466246977,
     "wof:name":"Dexia France",
     "wof:parent_id":85873955,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.281106,48.848484,2.281106,48.848484],
+  "bbox": [
+    2.281106,
+    48.848484,
+    2.281106,
+    48.848484
+],
   "geometry": {"coordinates":[2.281106,48.848484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152085145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.287919,48.879089,2.287919,48.879089",
     "geom:latitude":48.879089,
     "geom:longitude":2.287919,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Rue Labie 75017 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873997,
+        85683157,
         85633147,
         101749809,
         102072331,
-        85683157
+        85873997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152085145,
-    "wof:lastmodified":1449045451,
+    "wof:lastmodified":1466247786,
     "wof:name":"Phelippeau Decoration Sa",
     "wof:parent_id":85873997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.287919,48.879089,2.287919,48.879089],
+  "bbox": [
+    2.287919,
+    48.879089,
+    2.287919,
+    48.879089
+],
   "geometry": {"coordinates":[2.287919,48.879089],"type":"Point"}
 }

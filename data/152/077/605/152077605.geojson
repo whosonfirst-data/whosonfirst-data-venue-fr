@@ -2,13 +2,14 @@
   "id": 152077605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.364976,48.876083,2.364976,48.876083",
     "geom:latitude":48.876083,
     "geom:longitude":2.364976,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Quai De Jemmapes 75461 Paris Cedex 10",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873879,
+        85683497,
         85633147,
         101751119,
         102068731,
-        85683497
+        85873879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152077605,
-    "wof:lastmodified":1449045043,
+    "wof:lastmodified":1466246794,
     "wof:name":"Atelier De Fabrication D'agendas",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.364976,48.876083,2.364976,48.876083],
+  "bbox": [
+    2.364976,
+    48.876083,
+    2.364976,
+    48.876083
+],
   "geometry": {"coordinates":[2.364976,48.876083],"type":"Point"}
 }

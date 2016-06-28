@@ -2,13 +2,14 @@
   "id": 168882603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.658478,30.324221,-81.658478,30.324221",
     "geom:latitude":30.324221,
     "geom:longitude":-81.658478,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"2, Rue Montplaisir, 32201 Gimont C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Unclassifiable Establishments",
@@ -17,11 +18,11 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85866891,
+        85688651,
         85633793,
         85932547,
         102084753,
-        85688651
+        85866891
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":168882603,
-    "wof:lastmodified":1449027913,
+    "wof:lastmodified":1466246857,
     "wof:name":"Comtesse Du Barry S.a.",
     "wof:parent_id":85866891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-81.658478,30.324221,-81.658478,30.324221],
+  "bbox": [
+    -81.658478,
+    30.324221,
+    -81.658478,
+    30.324221
+],
   "geometry": {"coordinates":[-81.658478,30.324221],"type":"Point"}
 }

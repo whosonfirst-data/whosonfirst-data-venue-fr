@@ -2,13 +2,14 @@
   "id": 152049107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.327977,48.872101,2.327977,48.872101",
     "geom:latitude":48.872101,
     "geom:longitude":2.327977,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"33-35 R De Caumartin 75009 Paris",
     "sg:classifiers":[
         {
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873871,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152049107,
-    "wof:lastmodified":1449046590,
+    "wof:lastmodified":1466245730,
     "wof:name":"H\u00d4tel St Petersbourg",
     "wof:parent_id":85873871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.327977,48.872101,2.327977,48.872101],
+  "bbox": [
+    2.327977,
+    48.872101,
+    2.327977,
+    48.872101
+],
   "geometry": {"coordinates":[2.327977,48.872101],"type":"Point"}
 }

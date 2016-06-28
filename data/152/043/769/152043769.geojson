@@ -2,13 +2,14 @@
   "id": 152043769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.33471,48.879654,2.33471,48.879654",
     "geom:latitude":48.879654,
     "geom:longitude":2.33471,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Rue De La Rochefoucauld 75009 Paris",
     "sg:classifiers":[
         {
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873863,
+        85683497,
         85633147,
         101751119,
         102068555,
-        85683497
+        85873863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152043769,
-    "wof:lastmodified":1449047753,
+    "wof:lastmodified":1466245286,
     "wof:name":"Compagnie Des Experts Cea",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.33471,48.879654,2.33471,48.879654],
+  "bbox": [
+    2.33471,
+    48.879654,
+    2.33471,
+    48.879654
+],
   "geometry": {"coordinates":[2.33471,48.879654],"type":"Point"}
 }

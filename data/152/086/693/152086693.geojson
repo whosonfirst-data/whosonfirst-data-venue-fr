@@ -2,13 +2,14 @@
   "id": 152086693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"3.870474,45.026131,3.870474,45.026131",
     "geom:latitude":45.026131,
     "geom:longitude":3.870474,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rue Louis Prioude 43750 Vals Pr\u00e9s Le Puy",
     "sg:city":"Vals-pr\u00e8s-le-Puy",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152086693,
-    "wof:lastmodified":1449047394,
+    "wof:lastmodified":1466247987,
     "wof:name":"Sarl Dentelle Du Velay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [3.870474,45.026131,3.870474,45.026131],
+  "bbox": [
+    3.870474,
+    45.026131,
+    3.870474,
+    45.026131
+],
   "geometry": {"coordinates":[3.870474,45.026131],"type":"Point"}
 }

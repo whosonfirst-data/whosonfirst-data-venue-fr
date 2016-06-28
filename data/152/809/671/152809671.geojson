@@ -2,13 +2,14 @@
   "id": 152809671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.891731,38.258121,-75.891731,38.258121",
     "geom:latitude":38.258121,
     "geom:longitude":-75.891731,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Av. du Colonel Prat",
     "sg:city":"Saint Apollinaire",
     "sg:classifiers":[],
@@ -19,10 +20,10 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082715,
-        85633793,
         85688501,
-        85845061
+        85633793,
+        85845061,
+        102082715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":152809671,
-    "wof:lastmodified":1449048081,
+    "wof:lastmodified":1466251903,
     "wof:name":"T.p.c. S.a.s.",
     "wof:parent_id":85845061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.891731,38.258121,-75.891731,38.258121],
-  "geometry": {"coordinates":[-75.891731,38.258121],"type":"Point"}
+  "bbox": [
+    -75.891731,
+    38.258121,
+    -75.891731,
+    38.258121
+],
+  "geometry": {"coordinates":[-75.89173099999999,38.258121],"type":"Point"}
 }

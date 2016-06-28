@@ -2,13 +2,14 @@
   "id": 152370899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"4.842415,45.746235,4.842415,45.746235",
     "geom:latitude":45.746235,
     "geom:longitude":4.842415,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"B.P. 7309, 69357 Lyon C\u00e9dex 07^^1, Rue Desaugiers, 69007 Lyon",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":152370899,
-    "wof:lastmodified":1449046825,
+    "wof:lastmodified":1466250416,
     "wof:name":"Cofathes Services S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [4.842415,45.746235,4.842415,45.746235],
+  "bbox": [
+    4.842415,
+    45.746235,
+    4.842415,
+    45.746235
+],
   "geometry": {"coordinates":[4.842415,45.746235],"type":"Point"}
 }

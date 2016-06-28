@@ -2,13 +2,14 @@
   "id": 152076445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"2.404879,48.805374,2.404879,48.805374",
     "geom:latitude":48.805374,
     "geom:longitude":2.404879,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Avenue Jean Jaures 94200 Ivry Sur Seine",
     "sg:classifiers":[
         {
@@ -31,11 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873913,
+        85683459,
         85633147,
         101749701,
         102065493,
-        85683459
+        85873913
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":152076445,
-    "wof:lastmodified":1449047922,
+    "wof:lastmodified":1466246556,
     "wof:name":"Ste Indle De Reparation Electromecanique Sirem",
     "wof:parent_id":85873913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [2.404879,48.805374,2.404879,48.805374],
+  "bbox": [
+    2.404879,
+    48.805374,
+    2.404879,
+    48.805374
+],
   "geometry": {"coordinates":[2.404879,48.805374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 168856721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"0.129593,49.485523,0.129593,49.485523",
     "geom:latitude":49.485523,
     "geom:longitude":0.129593,
     "iso:country":"FR",
+    "mz:hierarchy_label":1,
     "sg:address":"Place Caillard",
     "sg:city":"Le Havre",
     "sg:classifiers":[],
@@ -19,11 +20,11 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85794635,
+        85683251,
         85633147,
         101750183,
         102072319,
-        85683251
+        85794635
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":168856721,
-    "wof:lastmodified":1449027985,
+    "wof:lastmodified":1466245577,
     "wof:name":"Caillard S.a.",
     "wof:parent_id":85794635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [0.129593,49.485523,0.129593,49.485523],
+  "bbox": [
+    0.129593,
+    49.485523,
+    0.129593,
+    49.485523
+],
   "geometry": {"coordinates":[0.129593,49.485523],"type":"Point"}
 }
