@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.48169,45.147606,1.48169,45.147606",
     "geom:latitude":45.147606,
     "geom:longitude":1.48169,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830659,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
         102072241
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5yXt8JsKBsDJKYXRp0Tu93_45.147606_1.481690@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f11198d3258d9bb2ae00d3e18b74c8aa",
+    "wof:geomhash":"53e09d83a0f10d35831a5f4f927803c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
             "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152198369
         }
     ],
     "wof:id":152198369,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1496777432,
     "wof:name":"Limoujoux Brive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

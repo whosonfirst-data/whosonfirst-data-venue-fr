@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.591135,47.448685,5.591135,47.448685",
     "geom:latitude":47.448685,
     "geom:longitude":5.591135,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829467,
-        85633147,
         85683559,
+        102191581,
+        404227951,
+        404363221,
+        85633147,
+        1108826395,
+        101829467,
+        136253037,
         102065939
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0PzbtuLpmjEJRMyLsmxeqT_47.448685_5.591135@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6155542cca3ee8f8d8bb4d00d5654a61",
+    "wof:geomhash":"e5b0c3f99e58ab825b9124dcf30ec7bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065939,
+            "empire_id":136253037,
+            "localadmin_id":404363221,
             "locality_id":101829467,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152089355
         }
     ],
     "wof:id":152089355,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496804499,
     "wof:name":"Ets Bernard Brisard & Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

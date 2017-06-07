@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.726865,50.509426,2.726865,50.509426",
     "geom:latitude":50.509426,
     "geom:longitude":2.726865,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840487,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404377723,
+        85633147,
+        1108826399,
+        101840487,
+        136253037,
         102067459
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1TKU6huim7cNNllbCadaQm_50.509426_2.726865@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"227fcde5edcd74b02cf202ff1dd3212b",
+    "wof:geomhash":"6349cb607d9004042aeb5b6fc0a9518f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067459,
+            "empire_id":136253037,
+            "localadmin_id":404377723,
             "locality_id":101840487,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152535211
         }
     ],
     "wof:id":152535211,
-    "wof:lastmodified":1473798463,
+    "wof:lastmodified":1496792621,
     "wof:name":"Import Elec S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

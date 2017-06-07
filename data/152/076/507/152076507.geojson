@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.910567,45.5811,5.910567,45.5811",
     "geom:latitude":45.5811,
     "geom:longitude":5.910567,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3d2mZ5ZEKrs6JxyFvjZies_45.581100_5.910567@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"90565a2a9c8b928538d68aba9d9b753e",
+    "wof:geomhash":"50cafafbada3adbca8a4cc14cb90101b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152076507
         }
     ],
     "wof:id":152076507,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496780937,
     "wof:name":"Export Materiel Industriel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

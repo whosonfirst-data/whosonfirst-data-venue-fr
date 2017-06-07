@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.338149,46.584084,0.338149,46.584084",
     "geom:latitude":46.584084,
     "geom:longitude":0.338149,
@@ -22,9 +23,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_0hkSpTBT3ZtIPXe5VHLOVl_46.584084_0.338149@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39423599afe217fb7522def3ec8b9dbc",
+    "wof:geomhash":"1b7816227fd247500c5e8d2c4b1ceb8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152773487
         }
     ],
     "wof:id":152773487,
-    "wof:lastmodified":1473798525,
+    "wof:lastmodified":1496775863,
     "wof:name":"Soci\u00e9t\u00e9 Expertise Comptable Seuil Du Poitou S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

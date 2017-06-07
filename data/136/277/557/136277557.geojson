@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.582924,48.708271,-0.582924,48.708271",
     "geom:latitude":48.708271,
     "geom:longitude":-0.582924,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101881015,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404378015,
+        85633147,
+        1108826393,
+        101881015,
+        136253037,
         102071055
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0BkZgp1tSV89MRv6V5m31C_48.708271_-0.582924@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cba810450506f39fa22fc3d62492691f",
+    "wof:geomhash":"00602797a3769898596c98d3bc8d5ebf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071055,
+            "empire_id":136253037,
+            "localadmin_id":404378015,
             "locality_id":101881015,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":136277557
         }
     ],
     "wof:id":136277557,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496787158,
     "wof:name":"Fiduciaire Technique Et Comptable De L'ouest (fiteco)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

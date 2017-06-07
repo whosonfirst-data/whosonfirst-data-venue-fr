@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.418298,45.440628,4.418298,45.440628",
     "geom:latitude":45.440628,
     "geom:longitude":4.418298,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4gPPz8mQRV3zSiCZNmjrMO_45.440628_4.418298@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f39f6fcd480dececad94998adcfc543f",
+    "wof:geomhash":"50240ca16a3aefc9cedf5f30e0067f92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152126519
         }
     ],
     "wof:id":152126519,
-    "wof:lastmodified":1473798295,
+    "wof:lastmodified":1496781036,
     "wof:name":"Ste D'exploit Des Ets J Brunet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

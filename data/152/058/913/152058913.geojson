@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.159292,50.755573,3.159292,50.755573",
     "geom:latitude":50.755573,
     "geom:longitude":3.159292,
@@ -28,9 +29,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750295,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750295,
+        136253037,
         102071789
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_5mB83PUe9htQ977XXvI7wV_50.755573_3.159292@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"47c28c2e87f6d0e9a3a4eb0b5201a07c",
+    "wof:geomhash":"1b7a074d945f0300b6d7fb7ef8147f98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071789,
+            "empire_id":136253037,
             "locality_id":101750295,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152058913
         }
     ],
     "wof:id":152058913,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496790241,
     "wof:name":"Soci\u00e9t\u00e9 Europ\u00e9enne De Confiserie Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

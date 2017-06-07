@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.293619,49.219284,-0.293619,49.219284",
     "geom:latitude":49.219284,
     "geom:longitude":-0.293619,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749119,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404371749,
+        85633147,
+        1108826393,
+        101749119,
+        136253037,
         102071479
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1f5XctZ2YcIdUfV3QO1WqI_49.219284_-0.293619@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"08db0c5eee8bc702b95dde4235872557",
+    "wof:geomhash":"cadbb547e3d297a11e4369c42009cf6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071479,
+            "empire_id":136253037,
+            "localadmin_id":404371749,
             "locality_id":101749119,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152181815
         }
     ],
     "wof:id":152181815,
-    "wof:lastmodified":1473798311,
+    "wof:lastmodified":1496803231,
     "wof:name":"Metallisation Du Val Dorne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

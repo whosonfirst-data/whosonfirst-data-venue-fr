@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.535006,44.796967,-0.535006,44.796967",
     "geom:latitude":44.796967,
     "geom:longitude":-0.535006,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749339,
-        85633147,
         85683243,
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101749339,
+        136253037,
         102071639
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1nNZMOFXqSvxAUYnnzVDgL_44.796967_-0.535006@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20b9a2528abb2e7586b459ec807c0d98",
+    "wof:geomhash":"6cba123eb81a3f0ac175048dec272ab7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071639,
+            "empire_id":136253037,
             "locality_id":101749339,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152975083
         }
     ],
     "wof:id":152975083,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496775843,
     "wof:name":"Transports Frigorifiques Europeens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

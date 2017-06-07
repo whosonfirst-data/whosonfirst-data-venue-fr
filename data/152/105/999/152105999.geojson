@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.500942,47.311161,6.500942,47.311161",
     "geom:latitude":47.311161,
     "geom:longitude":6.500942,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888745,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404377217,
+        85633147,
+        1108826395,
+        101888745,
+        136253037,
         102065685
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0inLCFUJcOFa4WDz62I74S_47.311161_6.500942@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fbda9ce12f5762cb4be6aa9b486d1e49",
+    "wof:geomhash":"4f5f1e4bf952c50de07ec61bde597de2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065685,
+            "empire_id":136253037,
+            "localadmin_id":404377217,
             "locality_id":101888745,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152105999
         }
     ],
     "wof:id":152105999,
-    "wof:lastmodified":1473798251,
+    "wof:lastmodified":1496788509,
     "wof:name":"Les Avives De L'est S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

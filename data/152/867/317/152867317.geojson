@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.714646,45.186222,0.714646,45.186222",
     "geom:latitude":45.186222,
     "geom:longitude":0.714646,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_429kDIRfArnzeNM8a5jNXY_45.186222_0.714646@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2ec48bb0db9327e84ab3ba00886cddc",
+    "wof:geomhash":"9a6ffbe50563d4c4f3018288de4d80b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152867317
         }
     ],
     "wof:id":152867317,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496798371,
     "wof:name":"Papeterie (soc Perigourdine De) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

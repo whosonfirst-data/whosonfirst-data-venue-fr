@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.328803,47.750137,7.328803,47.750137",
     "geom:latitude":47.750137,
     "geom:longitude":7.328803,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749573,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404228255,
+        1108826391,
+        101749573,
+        136253037,
         102072565
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_7J4yHnjFCw1QnDVx50DKEz_47.750137_7.328803@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2ea80c46e20150201920bd31cd1f4fd6",
+    "wof:geomhash":"78158a867b2da306a1f806979951789f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072565,
+            "empire_id":136253037,
             "locality_id":101749573,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136312737
         }
     ],
     "wof:id":136312737,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496793350,
     "wof:name":"Marcel Spitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

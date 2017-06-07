@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.599646,49.089279,1.599646,49.089279",
     "geom:latitude":49.089279,
     "geom:longitude":1.599646,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760189,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404407425,
+        85633147,
+        1108826393,
+        101760189,
+        136253037,
         102066791
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1Xy33Jv51o5JpVsEqO56ZO_49.089279_1.599646@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fb4fcb115a6716973674b893e51f791b",
+    "wof:geomhash":"3f8dbf1e5265318b8faa172ce68a9201",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066791,
+            "empire_id":136253037,
+            "localadmin_id":404407425,
             "locality_id":101760189,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152142599
         }
     ],
     "wof:id":152142599,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496804823,
     "wof:name":"Guillon Et Compagnie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

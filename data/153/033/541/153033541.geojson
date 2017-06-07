@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.892116,45.585934,5.892116,45.585934",
     "geom:latitude":45.585934,
     "geom:longitude":5.892116,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_0b5jQNPqLEdnIIF2lJLvdV_45.585934_5.892116@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7fc7855a80624b24ae2a995ebfa58f46",
+    "wof:geomhash":"263d59c5ed8cc67b382842263379c932",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":153033541
         }
     ],
     "wof:id":153033541,
-    "wof:lastmodified":1473797982,
+    "wof:lastmodified":1496801930,
     "wof:name":"Unitral Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

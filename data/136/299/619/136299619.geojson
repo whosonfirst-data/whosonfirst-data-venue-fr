@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.176597,49.111137,6.176597,49.111137",
     "geom:latitude":49.111137,
     "geom:longitude":6.176597,
@@ -27,9 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1inknr2dKd9dIzI23edKGt_49.111137_6.176597@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2b014329a75c3789702e1f2b256cbe7",
+    "wof:geomhash":"2d3f55949cc8d2dcbe0a0ed46a6ba7a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136299619
         }
     ],
     "wof:id":136299619,
-    "wof:lastmodified":1473798027,
+    "wof:lastmodified":1496794302,
     "wof:name":"Banque Populaire De Lorraine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

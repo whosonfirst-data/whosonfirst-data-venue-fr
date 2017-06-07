@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.088571,45.051235,5.088571,45.051235",
     "geom:latitude":45.051235,
     "geom:longitude":5.088571,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830435,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404384089,
+        85633147,
+        1108826389,
+        101830435,
+        136253037,
         102064589
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_52sMM6H12i0iQtcXKIqIph_45.051235_5.088571@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d090e582e0c391f6d0adc52012ce3fdc",
+    "wof:geomhash":"b28401bf97616a917919ed294c3a2790",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064589,
+            "empire_id":136253037,
+            "localadmin_id":404384089,
             "locality_id":101830435,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152103089
         }
     ],
     "wof:id":152103089,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496779620,
     "wof:name":"Verres Et Glaces De La Drome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

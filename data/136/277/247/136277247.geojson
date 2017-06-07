@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.351086,48.969368,4.351086,48.969368",
     "geom:latitude":48.969368,
     "geom:longitude":4.351086,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_7ZOEHvtrMsFJjcCeT8ejT7_48.969368_4.351086@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4aaf1b5f1cd04399652218dad30d4938",
+    "wof:geomhash":"1e474f3ad3c1d5dd427fe1ced0b82bac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136277247
         }
     ],
     "wof:id":136277247,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496784730,
     "wof:name":"Fcn Societe Francaise De Revision",
-    "wof:parent_id":101828123,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

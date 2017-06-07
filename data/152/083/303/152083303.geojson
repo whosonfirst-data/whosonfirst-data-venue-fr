@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.434106,47.550629,6.434106,47.550629",
     "geom:latitude":47.550629,
     "geom:longitude":6.434106,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767269,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404364305,
+        85633147,
+        1108826395,
+        101767269,
+        136253037,
         102069295
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3DUI2kgDUOyMeTCHuQSP0t_47.550629_6.434106@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eafa887f693e7e4c44e03a9e8c72a7e6",
+    "wof:geomhash":"d84a2ab27e21c647c747f0da8fc5d13f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069295,
+            "empire_id":136253037,
+            "localadmin_id":404364305,
             "locality_id":101767269,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152083303
         }
     ],
     "wof:id":152083303,
-    "wof:lastmodified":1473798137,
+    "wof:lastmodified":1496804435,
     "wof:name":"Entreprise Generale De Securite (egs)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

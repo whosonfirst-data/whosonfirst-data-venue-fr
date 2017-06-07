@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.938553,45.677994,4.938553,45.677994",
     "geom:latitude":45.677994,
     "geom:longitude":4.938553,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749441,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404368503,
+        85633147,
+        1108826389,
+        101749441,
+        136253037,
         102070837
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2PM52aVl48ie0sU2GpmUF7_45.677994_4.938553@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4940601bed65e5ce898817fb98f38e3",
+    "wof:geomhash":"484e6eefdcf530153b235aa6ed4e05ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070837,
+            "empire_id":136253037,
+            "localadmin_id":404368503,
             "locality_id":101749441,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136282485
         }
     ],
     "wof:id":136282485,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496800105,
     "wof:name":"Bio Rad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

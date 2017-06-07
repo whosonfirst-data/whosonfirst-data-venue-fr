@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.22715,48.763039,1.22715,48.763039",
     "geom:latitude":48.763039,
     "geom:longitude":1.22715,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827885,
-        85633147,
         85683189,
+        102191581,
+        85633147,
+        404422043,
+        404228057,
+        404227461,
+        101827885,
         102065163
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_19CGQt3qmEFFCMWntni9mX_48.763039_1.227150@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb52e24a13eeae32a35c885b433fa3fb",
+    "wof:geomhash":"88d1041204660656536edf2d9158c5a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065163,
+            "localadmin_id":404422043,
             "locality_id":101827885,
+            "macrocounty_id":404228057,
+            "macroregion_id":404227461,
             "region_id":85683189,
             "venue_id":152195215
         }
     ],
     "wof:id":152195215,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1496787221,
     "wof:name":"Avre Industries Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

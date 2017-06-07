@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.088574,47.012211,3.088574,47.012211",
     "geom:latitude":47.012211,
     "geom:longitude":3.088574,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768443,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404361305,
+        85633147,
+        1108826395,
+        101768443,
+        136253037,
         102067521
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_2X3g0t7FmUO1L8CcaWgUmQ_47.012211_3.088574@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"beff8211b9a6b45453f327f7a3e161ba",
+    "wof:geomhash":"50a6dcc2f53a988524a6777f81e91efb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067521,
+            "empire_id":136253037,
+            "localadmin_id":404361305,
             "locality_id":101768443,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152104523
         }
     ],
     "wof:id":152104523,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1496788626,
     "wof:name":"Royer Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

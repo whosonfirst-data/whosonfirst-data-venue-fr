@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092896,47.310585,5.092896,47.310585",
     "geom:latitude":47.310585,
     "geom:longitude":5.092896,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753313,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404365881,
+        85633147,
+        1108826395,
+        101753313,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5jhNVEQUgrn8XY9Xkrbu5i_47.310585_5.092896@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c352f9a8e3c1b105f5bf5b337ca0bed7",
+    "wof:geomhash":"f63d7c548f9b6f1e53d5247b33f09e7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404365881,
             "locality_id":101753313,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136274451
         }
     ],
     "wof:id":136274451,
-    "wof:lastmodified":1473797861,
+    "wof:lastmodified":1496788496,
     "wof:name":"A C A Audit Conseil Associes Sa",
-    "wof:parent_id":101753313,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

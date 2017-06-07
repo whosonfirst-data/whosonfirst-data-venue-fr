@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.073385,43.232677,0.073385,43.232677",
     "geom:latitude":43.232677,
     "geom:longitude":0.073385,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831671,
-        85633147,
         85683203,
+        102191581,
+        85633147,
+        404228139,
+        1108826387,
+        101831671,
+        136253037,
         102072535
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_084TqJWOHmtM0M7HPz9ssP_43.232677_0.073385@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bb921656ae2c958a08da3ac302eda1d2",
+    "wof:geomhash":"81c3b743b68469625f1a37b1c40609ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072535,
+            "empire_id":136253037,
             "locality_id":101831671,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152913523
         }
     ],
     "wof:id":152913523,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496778317,
     "wof:name":"La Depeche Du Midi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

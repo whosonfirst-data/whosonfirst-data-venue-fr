@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.455556,49.527641,5.455556,49.527641",
     "geom:latitude":49.527641,
     "geom:longitude":5.455556,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902587,
-        85633147,
         85683297,
+        102191581,
+        404228117,
+        404418571,
+        85633147,
+        1108826391,
+        101902587,
+        136253037,
         102066937
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3kVQGNjCAHHLQ6sqPvUhsT_49.527641_5.455556@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2f6f015c35ec0aa380d278e1705d0e4",
+    "wof:geomhash":"4feb458646cdbb368b429873b1da613f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066937,
+            "empire_id":136253037,
+            "localadmin_id":404418571,
             "locality_id":101902587,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":136286917
         }
     ],
     "wof:id":136286917,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496785945,
     "wof:name":"Societe D'exploitation Forestiere De L'est (sefe)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

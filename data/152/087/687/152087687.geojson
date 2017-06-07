@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.508144,45.472729,4.508144,45.472729",
     "geom:latitude":45.472729,
     "geom:longitude":4.508144,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830787,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101830787,
+        136253037,
         102072203
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_5MQGGAZAeIrZR8y7jlpYWl_45.472729_4.508144@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c3cfb4253080a8ccfe66a7d376f4be5",
+    "wof:geomhash":"9f7a2557ef1a83739c78bdb186a67676",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072203,
+            "empire_id":136253037,
             "locality_id":101830787,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152087687
         }
     ],
     "wof:id":152087687,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496780481,
     "wof:name":"Colomb Metallerie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

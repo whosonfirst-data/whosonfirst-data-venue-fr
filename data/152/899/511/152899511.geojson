@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.31651,46.613789,0.31651,46.613789",
     "geom:latitude":46.613789,
     "geom:longitude":0.31651,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753299,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101753299,
+        136253037,
         102068303
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_29gKCVnM3OwFXojGrbkssv_46.613789_0.316510@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0a55e5181ac21958d8d62f5becbf40db",
+    "wof:geomhash":"615d00f195c077885f9c2155f378d42a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068303,
+            "empire_id":136253037,
             "locality_id":101753299,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152899511
         }
     ],
     "wof:id":152899511,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496775442,
     "wof:name":"Poitou Pesage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

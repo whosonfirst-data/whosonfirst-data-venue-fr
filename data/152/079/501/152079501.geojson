@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.082643,46.047771,4.082643,46.047771",
     "geom:latitude":46.047771,
     "geom:longitude":4.082643,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_6cVFJzVvX37Omp7UEb5b6m_46.047771_4.082643@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c337661965e556bbbdc9123fde2b6b79",
+    "wof:geomhash":"07170858dd9b5ba5e99c479ff4dbee16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152079501
         }
     ],
     "wof:id":152079501,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1496780886,
     "wof:name":"Coteau Machines A Coudre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

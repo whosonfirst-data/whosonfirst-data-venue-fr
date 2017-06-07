@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.375105,46.876068,6.375105,46.876068",
     "geom:latitude":46.876068,
     "geom:longitude":6.375105,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766893,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404358171,
+        85633147,
+        1108826395,
+        101766893,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0NBgQ57IoSjFkkvDGvUV7b_46.876068_6.375105@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c7ba6286f27b200eb2b282b361d5afee",
+    "wof:geomhash":"41d1247d3f730a852d18f6ee1a1e6d66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404358171,
             "locality_id":101766893,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152095301
         }
     ],
     "wof:id":152095301,
-    "wof:lastmodified":1473798190,
+    "wof:lastmodified":1496804397,
     "wof:name":"A Decreuse L'artisan Du Fume Fumaison Du Haut Doubs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

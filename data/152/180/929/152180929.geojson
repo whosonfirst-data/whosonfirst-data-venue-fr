@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.441782,48.539219,7.441782,48.539219",
     "geom:latitude":48.539219,
     "geom:longitude":7.441782,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827839,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404360705,
+        85633147,
+        1108826391,
+        101827839,
+        136253037,
         102066949
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2H3jVMwN7V4W6bQu1NUVpe_48.539219_7.441782@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d77bbbc8dc597a8d446a82d3662b41c6",
+    "wof:geomhash":"8d0cb80c4e283d461d5feae2aaa98305",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066949,
+            "empire_id":136253037,
+            "localadmin_id":404360705,
             "locality_id":101827839,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152180929
         }
     ],
     "wof:id":152180929,
-    "wof:lastmodified":1473798315,
+    "wof:lastmodified":1496792828,
     "wof:name":"Lauer Et Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

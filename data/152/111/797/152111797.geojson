@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.380862,50.09988,3.380862,50.09988",
     "geom:latitude":50.09988,
     "geom:longitude":3.380862,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811361,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404413765,
+        85633147,
+        1108826399,
+        101811361,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1rD79ogqsicNvjtDbFyzYR_50.099880_3.380862@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"22f22b8ccfc2c4e6ef3fd2d98dd05bd0",
+    "wof:geomhash":"edf107eb45b7c1adef31a17261b1f1bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404413765,
             "locality_id":101811361,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152111797
         }
     ],
     "wof:id":152111797,
-    "wof:lastmodified":1473798279,
+    "wof:lastmodified":1496797343,
     "wof:name":"Sarl Paul Lemaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

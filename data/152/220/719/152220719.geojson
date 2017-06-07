@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.50467,50.49968,2.50467,50.49968",
     "geom:latitude":50.49968,
     "geom:longitude":2.50467,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839571,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404413941,
+        85633147,
+        1108826399,
+        101839571,
+        136253037,
         102071849
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4qIpKUXungwYeTqVmhoq8e_50.499680_2.504670@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"59149fc11efdcbb9899c3d5f551c5c67",
+    "wof:geomhash":"ac883a08d0ef0595835ddc6b4560b36f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071849,
+            "empire_id":136253037,
+            "localadmin_id":404413941,
             "locality_id":101839571,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152220719
         }
     ],
     "wof:id":152220719,
-    "wof:lastmodified":1473798328,
+    "wof:lastmodified":1496790420,
     "wof:name":"Faurecia Interieur Industrie (fii)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

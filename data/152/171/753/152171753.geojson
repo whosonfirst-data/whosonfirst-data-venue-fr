@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.043565,47.331905,5.043565,47.331905",
     "geom:latitude":47.331905,
     "geom:longitude":5.043565,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_13XuBVNyL9UXOC6ffN7XRv_47.331905_5.043565@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3416e0f735ad655453de376245fe4c3c",
+    "wof:geomhash":"672fe9ae2025a56f8a697837d7873424",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152171753
         }
     ],
     "wof:id":152171753,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1496789229,
     "wof:name":"Bourgogne Repro Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

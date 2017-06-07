@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.027245,49.382645,1.027245,49.382645",
     "geom:latitude":49.382645,
     "geom:longitude":1.027245,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751445,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404375269,
+        85633147,
+        1108826393,
+        101751445,
+        136253037,
         102069201
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3KNvwGAUt5peJCaqybEDwS_49.382645_1.027245@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"818c444b7826380a658197b5e4776aff",
+    "wof:geomhash":"530773ae412571a7e6b66549a1bb844c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069201,
+            "empire_id":136253037,
+            "localadmin_id":404375269,
             "locality_id":101751445,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152091797
         }
     ],
     "wof:id":152091797,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496787143,
     "wof:name":"Tissot Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

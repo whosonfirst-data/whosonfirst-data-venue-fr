@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.59761,46.34465,2.59761,46.34465",
     "geom:latitude":46.34465,
     "geom:longitude":2.59761,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829205,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
         102072223
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7eahng4iLfYYaSvlpXc29H_46.344650_2.597610@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"34ce9df3756008452045895695bd7b33",
+    "wof:geomhash":"72a11063ef8cd883b7151cc95a48ccb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072223,
+            "empire_id":136253037,
             "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152922839
         }
     ],
     "wof:id":152922839,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496781142,
     "wof:name":"Deschamps Franck Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

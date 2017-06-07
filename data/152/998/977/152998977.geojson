@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.925395,45.753712,4.925395,45.753712",
     "geom:latitude":45.753712,
     "geom:longitude":4.925395,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0iKgWUoYN2fs4bLKHR48BK_45.753712_4.925395@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a117e981fe1df9a91625edb85bc52c5e",
+    "wof:geomhash":"cc102017a7325fdf18d71c1e5950d9e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152998977
         }
     ],
     "wof:id":152998977,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496779417,
     "wof:name":"Technomed Medical Systems S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

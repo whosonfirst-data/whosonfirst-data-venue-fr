@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.593189,44.777119,-0.593189,44.777119",
     "geom:latitude":44.777119,
     "geom:longitude":-0.593189,
@@ -32,28 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sETUMG6amQ9xdttlbLHOE_44.777119_-0.593189@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf88faf3f251ed606947a97d88263beb",
+    "wof:geomhash":"53d750598f4f7b3bcdd896b0d9e0e04a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":152229387
         }
     ],
     "wof:id":152229387,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496776554,
     "wof:name":"Arsenal Sarl",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

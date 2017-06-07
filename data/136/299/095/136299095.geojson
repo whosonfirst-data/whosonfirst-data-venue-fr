@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.963756,45.729065,4.963756,45.729065",
     "geom:latitude":45.729065,
     "geom:longitude":4.963756,
@@ -27,9 +28,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749389,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404419897,
+        85633147,
+        1108826389,
+        101749389,
+        136253037,
         102071311
     ],
     "wof:brand_id":420573859,
@@ -38,18 +44,23 @@
         "sg:id":"SG_1JDcbgmf7jIcJLFhMOFg8r_45.729065_4.963756@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c68c6024f91f9778b1ccfe8e450ca66e",
+    "wof:geomhash":"842f61c1ed6fd1e5c3dada16bd4baed2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404419897,
             "locality_id":101749389,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136299095
         }
     ],
     "wof:id":136299095,
-    "wof:lastmodified":1473797980,
+    "wof:lastmodified":1496780346,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

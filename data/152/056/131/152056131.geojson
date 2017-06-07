@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.533215,49.292896,6.533215,49.292896",
     "geom:latitude":49.292896,
     "geom:longitude":6.533215,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761343,
-        85633147,
         85683271,
+        102191581,
+        404227711,
+        404415213,
+        85633147,
+        1108826391,
+        101761343,
+        136253037,
         102064857
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_082XCbkgjTRqY5eCscOefQ_49.292896_6.533215@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70c7a8a410e30d9ef0d7d864e514127e",
+    "wof:geomhash":"74e4b3d712b7d94b019df78d1f2a72a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064857,
+            "empire_id":136253037,
+            "localadmin_id":404415213,
             "locality_id":101761343,
+            "macrocounty_id":404227711,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152056131
         }
     ],
     "wof:id":152056131,
-    "wof:lastmodified":1473797895,
+    "wof:lastmodified":1496786267,
     "wof:name":"Cpe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

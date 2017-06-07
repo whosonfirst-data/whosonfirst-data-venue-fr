@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.846324,46.813438,4.846324,46.813438",
     "geom:latitude":46.813438,
     "geom:longitude":4.846324,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752995,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404416037,
+        85633147,
+        1108826395,
+        101752995,
+        136253037,
         102072317
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1OPlRu8LpZxBuuhxjZIT1Y_46.813438_4.846324@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f4ed26d1fab4db0d52d560020bb17ae5",
+    "wof:geomhash":"e9b1eabd4fbd1a188cf565ad373fef7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072317,
+            "empire_id":136253037,
+            "localadmin_id":404416037,
             "locality_id":101752995,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152132257
         }
     ],
     "wof:id":152132257,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496794983,
     "wof:name":"Ateliers De Mecanique Gasne (amg)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

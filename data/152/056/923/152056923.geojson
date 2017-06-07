@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.757623,50.831314,1.757623,50.831314",
     "geom:latitude":50.831314,
     "geom:longitude":1.757623,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811181,
-        85633147,
         85683255,
+        102191581,
+        404228131,
+        404393185,
+        85633147,
+        1108826399,
+        101811181,
+        136253037,
         102070677
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3p8dcqCRohnw8Oc65kPKRU_50.831314_1.757623@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62c7002cd05af0bc9f5e1f1a4f633cd6",
+    "wof:geomhash":"bc3445fe088bf87f93794610d312f2b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070677,
+            "empire_id":136253037,
+            "localadmin_id":404393185,
             "locality_id":101811181,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152056923
         }
     ],
     "wof:id":152056923,
-    "wof:lastmodified":1473797958,
+    "wof:lastmodified":1496790730,
     "wof:name":"Groupe Meac Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

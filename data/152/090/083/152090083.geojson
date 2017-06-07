@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930789,45.778347,4.930789,45.778347",
     "geom:latitude":45.778347,
     "geom:longitude":4.930789,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_1cEoiqeOmGTUkhxmQP767n_45.778347_4.930789@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"edb833f8499ab3177cb17290f9686698",
+    "wof:geomhash":"2918ae17be850fde4c2df96da9819857",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152090083
         }
     ],
     "wof:id":152090083,
-    "wof:lastmodified":1473798167,
+    "wof:lastmodified":1496779333,
     "wof:name":"Lyon Echafaudages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

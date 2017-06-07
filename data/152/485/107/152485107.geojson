@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.90524,43.570381,3.90524,43.570381",
     "geom:latitude":43.570381,
     "geom:longitude":3.90524,
@@ -24,9 +25,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757253,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404398013,
+        85633147,
+        1108826387,
+        101757253,
+        136253037,
         102071489
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0cQJoO9cl90hIBeWEtS1VL_43.570381_3.905240@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16d70ffb75a425447fbd7ba0a5837320",
+    "wof:geomhash":"16476a381b37e4a598e1a8d4de09f36d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071489,
+            "empire_id":136253037,
+            "localadmin_id":404398013,
             "locality_id":101757253,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152485107
         }
     ],
     "wof:id":152485107,
-    "wof:lastmodified":1473798424,
+    "wof:lastmodified":1496777693,
     "wof:name":"France Antennes Et Protections S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.200842,46.995159,-0.200842,46.995159",
     "geom:latitude":46.995159,
     "geom:longitude":-0.200842,
@@ -35,28 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829273,
-        85633147,
         85683163,
-        102070111
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829273,
+        136253037,
+        102072007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04JhCdb75OGxFo8PYDVz6M_46.995159_-0.200842@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2f2e8830a95796e136a84f486d4f0d25",
+    "wof:geomhash":"3c82e1682ab042c5f1ff3a4e1d0eb656",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070111,
+            "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829273,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136291381
         }
     ],
     "wof:id":136291381,
-    "wof:lastmodified":1473797916,
+    "wof:lastmodified":1496798547,
     "wof:name":"Sanders Thouars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

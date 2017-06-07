@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.803687,47.810226,3.803687,47.810226",
     "geom:latitude":47.810226,
     "geom:longitude":3.803687,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766171,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404356717,
+        85633147,
+        1108826395,
+        101766171,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0MAztKyP3bmP85bhO9PAxr_47.810226_3.803687@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3814006f960cff51a5bf1a42cc0f2069",
+    "wof:geomhash":"810acdb3049a55009b31cd7eee542761",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404356717,
             "locality_id":101766171,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152097837
         }
     ],
     "wof:id":152097837,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496788305,
     "wof:name":"Domaine Du Chardonnay Gaec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

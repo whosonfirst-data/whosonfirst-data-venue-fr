@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.311982,49.381573,3.311982,49.381573",
     "geom:latitude":49.381573,
     "geom:longitude":3.311982,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842473,
-        85633147,
         85683247,
+        102191581,
+        404228197,
+        404395163,
+        85633147,
+        1108826399,
+        101842473,
+        136253037,
         102072551
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2nsv9CIkuCe1TtK3qbKhQR_49.381573_3.311982@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"89165b06de653eb3e0e7eabbe6776f1b",
+    "wof:geomhash":"c01bf71a784067557f89672d7213b2f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072551,
+            "empire_id":136253037,
+            "localadmin_id":404395163,
             "locality_id":101842473,
+            "macrocounty_id":404228197,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152107475
         }
     ],
     "wof:id":152107475,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496790259,
     "wof:name":"Laboratoire Donne Gaudel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

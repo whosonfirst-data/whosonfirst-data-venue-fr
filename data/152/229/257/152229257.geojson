@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.4838,44.853226,0.4838,44.853226",
     "geom:latitude":44.853226,
     "geom:longitude":0.4838,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5r4fjvRenqEVnAvUnUGvL2_44.853226_0.483800@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03ecd7ad02e949951be66dd54f63f853",
+    "wof:geomhash":"992e4aabb876997495ae9796471d5385",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152229257
         }
     ],
     "wof:id":152229257,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496776337,
     "wof:name":"Ets Roche Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

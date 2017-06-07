@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.38811,45.821911,3.38811,45.821911",
     "geom:latitude":45.821911,
     "geom:longitude":3.38811,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842923,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404383229,
+        85633147,
+        1108826389,
+        101842923,
+        136253037,
         102068503
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7avQtnTesjzzjMQrp7VFYm_45.821911_3.388110@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"562cc45ff99de824556433ff5eac3816",
+    "wof:geomhash":"8143e354ab3674d224f10226fc66aeb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068503,
+            "empire_id":136253037,
+            "localadmin_id":404383229,
             "locality_id":101842923,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152122137
         }
     ],
     "wof:id":152122137,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496781693,
     "wof:name":"Fayet Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.907795,43.751286,1.907795,43.751286",
     "geom:latitude":43.751286,
     "geom:longitude":1.907795,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772539,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404356975,
+        85633147,
+        1108826387,
+        101772539,
+        136253037,
         102066697
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1qww03uZLxNQVlpopHVWVk_43.751286_1.907795@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"19d48fe64f661070a5a0e948514107ad",
+    "wof:geomhash":"dce8f393b6e85009a748feaf2cace396",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066697,
+            "empire_id":136253037,
+            "localadmin_id":404356975,
             "locality_id":101772539,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152067949
         }
     ],
     "wof:id":152067949,
-    "wof:lastmodified":1473798090,
+    "wof:lastmodified":1496803769,
     "wof:name":"Sotp (ste Occitane De Travaux Publics)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

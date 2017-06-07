@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.021958,49.400032,1.021958,49.400032",
     "geom:latitude":49.400032,
     "geom:longitude":1.021958,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751445,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404375269,
+        85633147,
+        1108826393,
+        101751445,
+        136253037,
         102069201
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0e4KpGJZKlw98HKEw4Ma69_49.400032_1.021958@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0330ec036b4aca0aa1989997c683d071",
+    "wof:geomhash":"90fc174e6fd649b9fb2691705d6262f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069201,
+            "empire_id":136253037,
+            "localadmin_id":404375269,
             "locality_id":101751445,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152088973
         }
     ],
     "wof:id":152088973,
-    "wof:lastmodified":1473798214,
+    "wof:lastmodified":1496787812,
     "wof:name":"Crown Cork Company France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

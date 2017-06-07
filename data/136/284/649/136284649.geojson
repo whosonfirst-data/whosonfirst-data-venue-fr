@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.370854,43.552673,1.370854,43.552673",
     "geom:latitude":43.552673,
     "geom:longitude":1.370854,
@@ -39,28 +40,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HXca37u6tcVwZrpcMXIR6_43.552673_1.370854@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0a8a51cf0c9770fad8237805014f19e",
+    "wof:geomhash":"af90bf4dad56c74913867e18e83a2aed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":136284649
         }
     ],
     "wof:id":136284649,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496778378,
     "wof:name":"Sndc",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

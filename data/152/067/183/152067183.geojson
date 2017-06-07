@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.997335,43.656399,3.997335,43.656399",
     "geom:latitude":43.656399,
     "geom:longitude":3.997335,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831701,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404424939,
+        85633147,
+        1108826387,
+        101831701,
+        136253037,
         102065573
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5EJlDvM8wwt9D1hOyCp10e_43.656399_3.997335@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dec2fe72d740041831fc0588117dd827",
+    "wof:geomhash":"52b0e610abfbbbccae2ec74c06b38ab9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065573,
+            "empire_id":136253037,
+            "localadmin_id":404424939,
             "locality_id":101831701,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152067183
         }
     ],
     "wof:id":152067183,
-    "wof:lastmodified":1473798073,
+    "wof:lastmodified":1496799067,
     "wof:name":"Mazza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

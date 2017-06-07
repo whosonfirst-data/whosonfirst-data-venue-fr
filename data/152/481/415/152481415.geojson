@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.746125,50.31245,2.746125,50.31245",
     "geom:latitude":50.31245,
     "geom:longitude":2.746125,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840537,
-        85633147,
         85683255,
-        102071843
+        102191581,
+        404227723,
+        404350809,
+        85633147,
+        1108826399,
+        101840537,
+        136253037,
+        102072045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xTzztQ7a2roolUqGNmSrZ_50.312450_2.746125@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"79eb298679ab819482a0d0077dfa2622",
+    "wof:geomhash":"1d2c7e731c465945ec3062f3a45bb944",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071843,
+            "county_id":102072045,
+            "empire_id":136253037,
+            "localadmin_id":404350809,
             "locality_id":101840537,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152481415
         }
     ],
     "wof:id":152481415,
-    "wof:lastmodified":1473798427,
+    "wof:lastmodified":1496797236,
     "wof:name":"Fonderies De La Scarpe S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

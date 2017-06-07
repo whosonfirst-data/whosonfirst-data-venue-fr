@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.48627,44.902672,-0.48627,44.902672",
     "geom:latitude":44.902672,
     "geom:longitude":-0.48627,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750771,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404393663,
+        85633147,
+        1108826385,
+        101750771,
+        136253037,
         102067811
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5IRcrERgfIXHK0WziLDaCL_44.902672_-0.486270@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d163288a8cac57c89f2b09eae1c3a875",
+    "wof:geomhash":"c135da246e70aa910341e088a187d66c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067811,
+            "empire_id":136253037,
+            "localadmin_id":404393663,
             "locality_id":101750771,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152098541
         }
     ],
     "wof:id":152098541,
-    "wof:lastmodified":1473798205,
+    "wof:lastmodified":1496798365,
     "wof:name":"Woltner Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

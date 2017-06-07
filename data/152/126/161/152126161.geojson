@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.603494,49.204945,2.603494,49.204945",
     "geom:latitude":49.204945,
     "geom:longitude":2.603494,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_51MiAm0J4qsAdv0BQXzki2_49.204945_2.603494@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5e029ebfb3c044375135bf92b228f02e",
+    "wof:geomhash":"f267ec928deb404c3eb9f03b876ca229",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152126161
         }
     ],
     "wof:id":152126161,
-    "wof:lastmodified":1473798291,
+    "wof:lastmodified":1496790056,
     "wof:name":"Haas Cofen Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.870745,50.405327,2.870745,50.405327",
     "geom:latitude":50.405327,
     "geom:longitude":2.870745,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840401,
-        85633147,
         85683255,
+        102191581,
+        404228311,
+        404414101,
+        85633147,
+        1108826399,
+        101840401,
+        136253037,
         102071927
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4rQJDKnPFvshypSMzvm9ej_50.405327_2.870745@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d52e90ab611b46869d122e85b66311c8",
+    "wof:geomhash":"e5e8419a9f7522998b63d956f513a325",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071927,
+            "empire_id":136253037,
+            "localadmin_id":404414101,
             "locality_id":101840401,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152221643
         }
     ],
     "wof:id":152221643,
-    "wof:lastmodified":1473798328,
+    "wof:lastmodified":1496790698,
     "wof:name":"Garage Vinois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.404389,50.119263,3.404389,50.119263",
     "geom:latitude":50.119263,
     "geom:longitude":3.404389,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812721,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404392771,
+        85633147,
+        1108826399,
+        101812721,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1FYSne0dp957GH9WzXLeol_50.119263_3.404389@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"408edaf5477105e0b27be946ed112112",
+    "wof:geomhash":"58d86bf26af56443dda64b661d663409",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404392771,
             "locality_id":101812721,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152084825
         }
     ],
     "wof:id":152084825,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496792599,
     "wof:name":"Etablissements Andre Avio S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

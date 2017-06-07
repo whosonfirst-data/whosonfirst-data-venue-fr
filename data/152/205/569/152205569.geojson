@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.186629,48.655804,6.186629,48.655804",
     "geom:latitude":48.655804,
     "geom:longitude":6.186629,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751413,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101751413,
+        136253037,
         102072081
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2SPwKjYB9GS5OhGj423YXh_48.655804_6.186629@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8ccf6cd6802ce1bcd51ae422a382ca0b",
+    "wof:geomhash":"baebb95b28b7efae95e379325c267712",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072081,
+            "empire_id":136253037,
             "locality_id":101751413,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152205569
         }
     ],
     "wof:id":152205569,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496793944,
     "wof:name":"Servitech Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

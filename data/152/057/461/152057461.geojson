@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.098285,45.692921,3.098285,45.692921",
     "geom:latitude":45.692921,
     "geom:longitude":3.098285,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767821,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404398767,
+        85633147,
+        1108826389,
+        101767821,
+        136253037,
         102070757
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4RTlWO6qu4to3Am9C6BGdN_45.692921_3.098285@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb304c8b18c437ec98caa2a9f2751caa",
+    "wof:geomhash":"eb8b8a54146764fb71a4dca16aec72bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070757,
+            "empire_id":136253037,
+            "localadmin_id":404398767,
             "locality_id":101767821,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152057461
         }
     ],
     "wof:id":152057461,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496806422,
     "wof:name":"A Pharm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

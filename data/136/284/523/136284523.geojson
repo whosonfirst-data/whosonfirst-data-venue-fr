@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.687501,44.404106,0.687501,44.404106",
     "geom:latitude":44.404106,
     "geom:longitude":0.687501,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830421,
-        85633147,
         85683341,
+        102191581,
+        404228101,
+        404375495,
+        85633147,
+        1108826385,
+        101830421,
+        136253037,
         102070985
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_5alHHyJCgdRWYHgfy3zkmZ_44.404106_0.687501@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8745739c147e923be76c2599b7a81c6f",
+    "wof:geomhash":"e836f89bded8dc39151ebc96a05db8ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070985,
+            "empire_id":136253037,
+            "localadmin_id":404375495,
             "locality_id":101830421,
+            "macrocounty_id":404228101,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136284523
         }
     ],
     "wof:id":136284523,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496775908,
     "wof:name":"Societe D'exploitation Des Etablissements Pividori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.555814,47.220737,-1.555814,47.220737",
     "geom:latitude":47.220737,
     "geom:longitude":-1.555814,
@@ -22,11 +23,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,19 @@
     "wof:geomhash":"a4212435d0d06b39c027919548004464",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":169096681
         }
     ],
     "wof:id":169096681,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1491937893,
     "wof:name":"Point Compo E.u.r.l.",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.575626,44.350227,2.575626,44.350227",
     "geom:latitude":44.350227,
     "geom:longitude":2.575626,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831899,
-        85633147,
         85683301,
+        102191581,
+        85633147,
+        404227821,
+        1108826387,
+        101831899,
+        136253037,
         102072281
     ],
     "wof:brand_id":420575547,
@@ -44,18 +49,22 @@
         "sg:id":"SG_2I8yyqhPUxuUZ912ZPhkvE_44.350227_2.575626@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b151a12223e4aa8def5786f93e8654e1",
+    "wof:geomhash":"17cb9be512f488b7260e58af39fd8622",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072281,
+            "empire_id":136253037,
             "locality_id":101831899,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152062219
         }
     ],
     "wof:id":152062219,
-    "wof:lastmodified":1473797988,
+    "wof:lastmodified":1496803536,
     "wof:name":"Promod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

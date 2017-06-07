@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.60243,48.534088,6.60243,48.534088",
     "geom:latitude":48.534088,
     "geom:longitude":6.60243,
@@ -24,9 +25,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883819,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404360831,
+        85633147,
+        1108826391,
+        101883819,
+        136253037,
         102067633
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5SGWAnYCHKQmpQjkuG6LBh_48.534088_6.602430@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"439dd63b5677594c45436b6c04b53d17",
+    "wof:geomhash":"2cb4165b2247275386619e9acfd63b7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067633,
+            "empire_id":136253037,
+            "localadmin_id":404360831,
             "locality_id":101883819,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":169144591
         }
     ],
     "wof:id":169144591,
-    "wof:lastmodified":1473798178,
+    "wof:lastmodified":1496786460,
     "wof:name":"Saint Cl\u00e9ment Pr\u00e9cision S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

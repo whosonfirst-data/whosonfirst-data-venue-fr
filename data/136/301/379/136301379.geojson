@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.63607,50.514194,1.63607,50.514194",
     "geom:latitude":50.514194,
     "geom:longitude":1.63607,
@@ -27,16 +28,39 @@
     "sg:postcode":"62630",
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228249,
+        404423933,
+        85633147,
+        1108826399,
+        101840459,
+        136253037,
+        102068499
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q8FC4poC5jkNeL6v1G4YE_50.514194_1.636070@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"46775b177b924635347cd9471e189fc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"557260f209315e10f1bf762c9c7b14cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068499,
+            "empire_id":136253037,
+            "localadmin_id":404423933,
+            "locality_id":101840459,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":136301379
+        }
+    ],
     "wof:id":136301379,
-    "wof:lastmodified":1473798001,
+    "wof:lastmodified":1496790421,
     "wof:name":"Caisse Regionale De Cr\u00e9dit, Maritime Mutuel Du Finist\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

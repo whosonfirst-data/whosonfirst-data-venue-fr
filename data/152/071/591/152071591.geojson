@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.252753,50.753876,2.252753,50.753876",
     "geom:latitude":50.753876,
     "geom:longitude":2.252753,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_2Ng3pDMScoUm3W6ccgBX2A_50.753876_2.252753@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0cf8d05c1b0657f138852b286170c254",
+    "wof:geomhash":"a9264ac81364e9b47cf36f5640640bdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152071591
         }
     ],
     "wof:id":152071591,
-    "wof:lastmodified":1473798106,
+    "wof:lastmodified":1496797133,
     "wof:name":"Brasserie De Saint Omer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

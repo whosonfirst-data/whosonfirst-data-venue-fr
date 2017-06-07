@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.588554,47.785873,3.588554,47.785873",
     "geom:latitude":47.785873,
     "geom:longitude":3.588554,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_2DliHJcxgyYqSbYC6eE4DV_47.785873_3.588554@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"31bbcba4cbc8c36bcadabdd863a16de3",
+    "wof:geomhash":"13dd6c7fc7768986026a26f50ac267f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136284611
         }
     ],
     "wof:id":136284611,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496789280,
     "wof:name":"Vanomat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.582365,49.480915,0.582365,49.480915",
     "geom:latitude":49.480915,
     "geom:longitude":0.582365,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840323,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404425951,
+        85633147,
+        1108826393,
+        101840323,
+        136253037,
         102070295
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7JHpB2yinoBwcr8PBjwXwL_49.480915_0.582365@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7ea2c6ddac43667d29c087dfc596c8d8",
+    "wof:geomhash":"92199c7c0e52bbceec2e32335093414f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070295,
+            "empire_id":136253037,
+            "localadmin_id":404425951,
             "locality_id":101840323,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152201923
         }
     ],
     "wof:id":152201923,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496787491,
     "wof:name":"Comptoir Industriel Estuaire De La Seine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

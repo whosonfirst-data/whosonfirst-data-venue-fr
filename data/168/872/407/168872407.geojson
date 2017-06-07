@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.818301,49.524086,2.818301,49.524086",
     "geom:latitude":49.524086,
     "geom:longitude":2.818301,
@@ -24,9 +25,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902679,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404427517,
+        85633147,
+        1108826399,
+        101902679,
+        136253037,
         102067915
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3wjzMwgr2QytVFZ2zdlrXg_49.524086_2.818301@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8bf28110914c31d4ab91998bc18b2fad",
+    "wof:geomhash":"e11fbf5e4a0dbf92dcf811457d327720",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067915,
+            "empire_id":136253037,
+            "localadmin_id":404427517,
             "locality_id":101902679,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":168872407
         }
     ],
     "wof:id":168872407,
-    "wof:lastmodified":1473798007,
+    "wof:lastmodified":1496795322,
     "wof:name":"Ch\u00e2teau De Bellinglise S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

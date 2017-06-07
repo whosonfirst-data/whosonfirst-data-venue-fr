@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.77151,43.200996,2.77151,43.200996",
     "geom:latitude":43.200996,
     "geom:longitude":2.77151,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773349,
-        85633147,
         85683485,
+        102191581,
+        404228023,
+        404375095,
+        85633147,
+        1108826387,
+        101773349,
+        136253037,
         102067873
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_19THEvDHJ0F2tJMUWe1Oxy_43.200996_2.771510@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"880a8dc7b3d979cec0bee11fff6e0ed5",
+    "wof:geomhash":"74e1d73665a8d1ba8a2aa950cbd2ef81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067873,
+            "empire_id":136253037,
+            "localadmin_id":404375095,
             "locality_id":101773349,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":152167487
         }
     ],
     "wof:id":152167487,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496778745,
     "wof:name":"Profil Languedoc Roussillon (pl R)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

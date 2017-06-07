@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.577526,47.255455,-1.577526,47.255455",
     "geom:latitude":47.255455,
     "geom:longitude":-1.577526,
@@ -27,11 +28,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897707,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897707
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,19 @@
     "wof:geomhash":"027bed967dc8afa9fe105d7ae749793c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897707,
             "region_id":85683233,
             "venue_id":136296415
         }
     ],
     "wof:id":136296415,
-    "wof:lastmodified":1473797916,
+    "wof:lastmodified":1491919701,
     "wof:name":"Banque Cio, Nantes Pont Du Cens",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",

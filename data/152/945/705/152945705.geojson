@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.954706,49.031082,7.954706,49.031082",
     "geom:latitude":49.031082,
     "geom:longitude":7.954706,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761061,
-        85633147,
         85683221,
+        102191581,
+        404228315,
+        404358647,
+        85633147,
+        1108826391,
+        101761061,
+        136253037,
         102070489
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3rHYNEJ0tIIv5VDpYAqdrx_49.031082_7.954706@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b9d04da349759fb8a04a38f6bd51c64",
+    "wof:geomhash":"1abdd2f2bb72cc77e3b520300686cf02",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070489,
+            "empire_id":136253037,
+            "localadmin_id":404358647,
             "locality_id":101761061,
+            "macrocounty_id":404228315,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152945705
         }
     ],
     "wof:id":152945705,
-    "wof:lastmodified":1473798579,
+    "wof:lastmodified":1496783877,
     "wof:name":"Bloch Freres Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

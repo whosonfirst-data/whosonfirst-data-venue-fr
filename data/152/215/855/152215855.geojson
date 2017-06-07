@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.356688,49.168858,2.356688,49.168858",
     "geom:latitude":49.168858,
     "geom:longitude":2.356688,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760367,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404380483,
+        85633147,
+        1108826399,
+        101760367,
+        136253037,
         102069231
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7Jri1hWPZh1sDhtMD43mxQ_49.168858_2.356688@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc646a2f583278ac886eb1b7c9fe6f2a",
+    "wof:geomhash":"801f99126672993c30be1f3ea46224da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069231,
+            "empire_id":136253037,
+            "localadmin_id":404380483,
             "locality_id":101760367,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152215855
         }
     ],
     "wof:id":152215855,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1496791154,
     "wof:name":"Sport France Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

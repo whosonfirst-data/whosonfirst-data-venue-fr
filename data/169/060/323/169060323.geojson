@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.018714,50.373268,2.018714,50.373268",
     "geom:latitude":50.373268,
     "geom:longitude":2.018714,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840471,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404361065,
+        85633147,
+        1108826399,
+        101840471,
+        136253037,
         102069233
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_266LkUcmp3yx8mwXKr2Fdo_50.373268_2.018714@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f4a52ef4a093f6558561c8b59121313d",
+    "wof:geomhash":"1fbff2fa9f044b93e0e193bdadc6f908",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069233,
+            "empire_id":136253037,
+            "localadmin_id":404361065,
             "locality_id":101840471,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":169060323
         }
     ],
     "wof:id":169060323,
-    "wof:lastmodified":1473798036,
+    "wof:lastmodified":1496791277,
     "wof:name":"Meurot Fr\u00e8res S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

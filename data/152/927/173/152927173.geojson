@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.10574,50.650059,3.10574,50.650059",
     "geom:latitude":50.650059,
     "geom:longitude":3.10574,
@@ -30,30 +31,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
+        85794547,
+        102191581,
         85633147,
-        101751547,
-        102071877,
-        85794547
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s0AR9cqJWfwVuuZuC4QOm_50.650059_3.105740@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de1ae2c154236d0a79ae305299aa3586",
+    "wof:geomhash":"f2c283b4430be1d7d7d6d89c811d27d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071877,
-            "locality_id":101751547,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794547,
             "region_id":85683445,
             "venue_id":152927173
         }
     ],
     "wof:id":152927173,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496791145,
     "wof:name":"Imprimerie Monsoise Sa",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.075075,45.775002,3.075075,45.775002",
     "geom:latitude":45.775002,
     "geom:longitude":3.075075,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_43YhkFGahRN07WikX2kPx5_45.775002_3.075075@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"50b28ffe6922e4a4d49f20fb6d62300b",
+    "wof:geomhash":"4b0ae5232f9c7420ff64b10120f0ef2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152913769
         }
     ],
     "wof:id":152913769,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496781375,
     "wof:name":"La Montagne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

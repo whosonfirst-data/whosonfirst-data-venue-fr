@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.806358,50.441082,2.806358,50.441082",
     "geom:latitude":50.441082,
     "geom:longitude":2.806358,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840441,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840441,
+        136253037,
         102071587
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0VYQBNVIcgHU9vojCg63Va_50.441082_2.806358@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6f4483d44d9d163fa80bd6aec332e9b6",
+    "wof:geomhash":"0c399b8835bfbfa07acd38b610d8180e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071587,
+            "empire_id":136253037,
             "locality_id":101840441,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136275473
         }
     ],
     "wof:id":136275473,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496791532,
     "wof:name":"Cabinet Deplanque Sa",
-    "wof:parent_id":101840441,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

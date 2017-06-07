@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.668025,45.194756,5.668025,45.194756",
     "geom:latitude":45.194756,
     "geom:longitude":5.668025,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749301,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749301,
+        136253037,
         102072039
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_3mDZANAI5aYXMiU9H7a88J_45.194756_5.668025@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"061a6c75dd33b1f5e031f59db778a212",
+    "wof:geomhash":"5a651c74e2f76e3eacffd2a3a8aef50f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072039,
+            "empire_id":136253037,
             "locality_id":101749301,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152075919
         }
     ],
     "wof:id":152075919,
-    "wof:lastmodified":1473798145,
+    "wof:lastmodified":1496781848,
     "wof:name":"Isnard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

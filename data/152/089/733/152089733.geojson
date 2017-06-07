@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86565,46.810909,4.86565,46.810909",
     "geom:latitude":46.810909,
     "geom:longitude":4.86565,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749513,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404373245,
+        85633147,
+        1108826395,
+        101749513,
+        136253037,
         102071657
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6AKGW5hn1fmMt0d18G039y_46.810909_4.865650@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17dad132602b4457f123e3ce5880c0cd",
+    "wof:geomhash":"97f953d549f966e2e7aafea9384751b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071657,
+            "empire_id":136253037,
+            "localadmin_id":404373245,
             "locality_id":101749513,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152089733
         }
     ],
     "wof:id":152089733,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496788201,
     "wof:name":"Galinov",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

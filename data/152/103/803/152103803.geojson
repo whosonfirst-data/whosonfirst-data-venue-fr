@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.517092,49.358444,0.517092,49.358444",
     "geom:latitude":49.358444,
     "geom:longitude":0.517092,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828373,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404348341,
+        85633147,
+        1108826393,
+        101828373,
+        136253037,
         102069339
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_3tp6Qxpag7amXlBdflTM3P_49.358444_0.517092@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c3ad3a7ec18c16de3704916226464991",
+    "wof:geomhash":"b6ed3faf0efb791009cb1cd8806741e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069339,
+            "empire_id":136253037,
+            "localadmin_id":404348341,
             "locality_id":101828373,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152103803
         }
     ],
     "wof:id":152103803,
-    "wof:lastmodified":1473798243,
+    "wof:lastmodified":1496804760,
     "wof:name":"Entreprise Risloise D'accompagnement Et D'insertion (entrain)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

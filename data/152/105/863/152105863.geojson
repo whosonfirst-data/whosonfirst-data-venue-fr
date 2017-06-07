@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.730529,48.764141,-0.730529,48.764141",
     "geom:latitude":48.764141,
     "geom:longitude":-0.730529,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761231,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404363137,
+        85633147,
+        1108826393,
+        101761231,
+        136253037,
         102070283
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0FnIW6esuU6412lHbSfW2O_48.764141_-0.730529@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2d55632a22422bb4a78e5c788aeb128",
+    "wof:geomhash":"747a91c8d6c278ae4bab49b98cfe5df7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070283,
+            "empire_id":136253037,
+            "localadmin_id":404363137,
             "locality_id":101761231,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152105863
         }
     ],
     "wof:id":152105863,
-    "wof:lastmodified":1473798246,
+    "wof:lastmodified":1496787150,
     "wof:name":"Dubois Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

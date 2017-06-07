@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.045375,50.015911,4.045375,50.015911",
     "geom:latitude":50.015911,
     "geom:longitude":4.045375,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813883,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404404553,
+        85633147,
+        1108826399,
+        101813883,
+        136253037,
         102071803
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2v8G7M1K9wm6Uf5h3opHid_50.015911_4.045375@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9cb289f72b507c1021d1e3d2f816aea6",
+    "wof:geomhash":"b7173c215adba224ddf4833f43094515",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071803,
+            "empire_id":136253037,
+            "localadmin_id":404404553,
             "locality_id":101813883,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136275463
         }
     ],
     "wof:id":136275463,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496792590,
     "wof:name":"Cabinet De Comptabilite Et De Gestion C C A G Sa",
-    "wof:parent_id":101813883,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

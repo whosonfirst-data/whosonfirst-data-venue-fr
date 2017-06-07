@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.314613,46.036469,4.314613,46.036469",
     "geom:latitude":46.036469,
     "geom:longitude":4.314613,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828899,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404372993,
+        85633147,
+        1108826389,
+        101828899,
+        136253037,
         102069849
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1g8zXFRxbfjJwyCBh3fhfF_46.036469_4.314613@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"090a7765f02f9f5c594628eddd5785d0",
+    "wof:geomhash":"d69c996992693b809a49f8e12ef4dab8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069849,
+            "empire_id":136253037,
+            "localadmin_id":404372993,
             "locality_id":101828899,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152086807
         }
     ],
     "wof:id":152086807,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496779312,
     "wof:name":"Societe Stet Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

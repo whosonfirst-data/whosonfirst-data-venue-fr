@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.839747,45.735874,4.839747,45.735874",
     "geom:latitude":45.735874,
     "geom:longitude":4.839747,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_41ipQcHQahGlGRys603w8o_45.735874_4.839747@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d17a04971194d6b74f4b0ed89f167b36",
+    "wof:geomhash":"b6893d026e49bded793a60ff647b7061",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152115981
         }
     ],
     "wof:id":152115981,
-    "wof:lastmodified":1473798279,
+    "wof:lastmodified":1496780172,
     "wof:name":"Computacenter France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.440804,43.326012,-0.440804,43.326012",
     "geom:latitude":43.326012,
     "geom:longitude":-0.440804,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749217,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404349123,
+        85633147,
+        1108826385,
+        101749217,
+        136253037,
         102067921
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0I6teR2n2Tc8aJ5Hr3xiTX_43.326012_-0.440804@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce1e27f59141c4ebc46c393c76c7f4ac",
+    "wof:geomhash":"04602bd602ee3899d4f561324eeb33b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067921,
+            "empire_id":136253037,
+            "localadmin_id":404349123,
             "locality_id":101749217,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152102003
         }
     ],
     "wof:id":152102003,
-    "wof:lastmodified":1473798217,
+    "wof:lastmodified":1496776688,
     "wof:name":"Beton Controle Du Bearn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

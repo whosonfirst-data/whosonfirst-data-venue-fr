@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.044485,50.625576,3.044485,50.625576",
     "geom:latitude":50.625576,
     "geom:longitude":3.044485,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h6K7kqiFDgJST6tMBC4Oi_50.625576_3.044485@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd225d9bde717a31baa6a678e448b350",
+    "wof:geomhash":"6e6309e33d002aab7babb0616e398afe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":169183311
         }
     ],
     "wof:id":169183311,
-    "wof:lastmodified":1473798216,
+    "wof:lastmodified":1496791137,
     "wof:name":"Steverlynck S.n.c.",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

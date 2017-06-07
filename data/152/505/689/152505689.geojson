@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.39896,49.171494,-0.39896,49.171494",
     "geom:latitude":49.171494,
     "geom:longitude":-0.39896,
@@ -24,9 +25,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750149,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404382871,
+        85633147,
+        1108826393,
+        101750149,
+        136253037,
         102072139
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6HEyArDPeANRUNP5Iq2qIQ_49.171494_-0.398960@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d672153aaa3e8f8a499c02fe8fb8942a",
+    "wof:geomhash":"74c9db9360af6aa3d661be232e6f17e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072139,
+            "empire_id":136253037,
+            "localadmin_id":404382871,
             "locality_id":101750149,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152505689
         }
     ],
     "wof:id":152505689,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1496787453,
     "wof:name":"Gouville S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

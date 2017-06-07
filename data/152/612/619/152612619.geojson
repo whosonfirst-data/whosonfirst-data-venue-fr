@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.46092,49.985958,3.46092,49.985958",
     "geom:latitude":49.985958,
     "geom:longitude":3.46092,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812397,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404368469,
+        85633147,
+        1108826399,
+        101812397,
+        136253037,
         102064767
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_64weLLceYpt3cqEEZDsF9u_49.985958_3.460920@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1d260c368cc60b0c69a120c3a64672a",
+    "wof:geomhash":"d778680fbcbe2f83b6a7e9c3b00aef85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064767,
+            "empire_id":136253037,
+            "localadmin_id":404368469,
             "locality_id":101812397,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152612619
         }
     ],
     "wof:id":152612619,
-    "wof:lastmodified":1473798471,
+    "wof:lastmodified":1496795505,
     "wof:name":"Marolle Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

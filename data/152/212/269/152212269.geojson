@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.748245,45.19656,5.748245,45.19656",
     "geom:latitude":45.19656,
     "geom:longitude":5.748245,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749309,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404428247,
+        85633147,
+        1108826389,
+        101749309,
+        136253037,
         102071553
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6k6aKPotEr4tXfNy7QYIAf_45.196560_5.748245@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"876bd2773320bc39b4c9b15b3d2bc6a0",
+    "wof:geomhash":"6dc52ed5c943d95a9ddfac34cc75f0ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071553,
+            "empire_id":136253037,
+            "localadmin_id":404428247,
             "locality_id":101749309,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152212269
         }
     ],
     "wof:id":152212269,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496782116,
     "wof:name":"Pompes Funebres Intercommunales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

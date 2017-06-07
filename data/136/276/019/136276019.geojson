@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.459007,47.54258,4.459007,47.54258",
     "geom:latitude":47.54258,
     "geom:longitude":4.459007,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767309,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404422219,
+        85633147,
+        1108826395,
+        101767309,
+        136253037,
         102070659
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_60DIPbQQ74tgIMPHs2r3p1_47.542580_4.459007@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7b118060c5230b978155cf6522c2a7a",
+    "wof:geomhash":"6216114c3e2da96a51d27bcaf476eaee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070659,
+            "empire_id":136253037,
+            "localadmin_id":404422219,
             "locality_id":101767309,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136276019
         }
     ],
     "wof:id":136276019,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496788294,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De La Cote D'or",
-    "wof:parent_id":101767309,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

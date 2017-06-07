@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.603045,45.71283,1.603045,45.71283",
     "geom:latitude":45.71283,
     "geom:longitude":1.603045,
@@ -40,9 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768291,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404356325,
+        85633147,
+        1108826385,
+        101768291,
+        136253037,
         102065345
     ],
     "wof:breaches":[],
@@ -50,18 +56,23 @@
         "sg:id":"SG_4qCG0DTVqc2X8A62yWqe5E_45.712830_1.603045@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f22ddde35d3ca94eb0571c9811160106",
+    "wof:geomhash":"9fc5d9783c18aa927eb901d154a0c51d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065345,
+            "empire_id":136253037,
+            "localadmin_id":404356325,
             "locality_id":101768291,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152105109
         }
     ],
     "wof:id":152105109,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1496775929,
     "wof:name":"Sa Faye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

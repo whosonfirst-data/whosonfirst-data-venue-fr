@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.198695,46.998043,-0.198695,46.998043",
     "geom:latitude":46.998043,
     "geom:longitude":-0.198695,
@@ -35,28 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829273,
-        85633147,
         85683163,
-        102070111
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829273,
+        136253037,
+        102072007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tjlSp8g2CwJTW6Bzve7Ij_46.998043_-0.198695@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d714c3e4c21862f3bc98d6ca7502299",
+    "wof:geomhash":"df5f2e33f12823aa385706c85c2b5e8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070111,
+            "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829273,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136291349
         }
     ],
     "wof:id":136291349,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496775601,
     "wof:name":"Rocvent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

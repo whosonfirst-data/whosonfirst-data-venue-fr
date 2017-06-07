@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935949,45.756454,4.935949,45.756454",
     "geom:latitude":45.756454,
     "geom:longitude":4.935949,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6q21NyPbzyy5jkJBGXq2hG_45.756454_4.935949@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc5e3cddac43c22deede1696410425c3",
+    "wof:geomhash":"66ad21ff1c596562336ffe7a571e5976",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":168861877
         }
     ],
     "wof:id":168861877,
-    "wof:lastmodified":1473797979,
+    "wof:lastmodified":1496799842,
     "wof:name":"Cartier D\u00e9coupage Emboutissage S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

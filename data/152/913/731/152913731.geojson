@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.548227,45.855789,3.548227,45.855789",
     "geom:latitude":45.855789,
     "geom:longitude":3.548227,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767857,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404348921,
+        85633147,
+        1108826389,
+        101767857,
+        136253037,
         102071435
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2YKf9OHuVe9xmCXFtL7dw7_45.855789_3.548227@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4499daed81b2250bc0957c44db4ef0da",
+    "wof:geomhash":"5afa4b2585f5d69e55b7df89f5d19209",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071435,
+            "empire_id":136253037,
+            "localadmin_id":404348921,
             "locality_id":101767857,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152913731
         }
     ],
     "wof:id":152913731,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496806380,
     "wof:name":"La Montagne (la Montagne Centre France)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.278283,49.016136,3.278283,49.016136",
     "geom:latitude":49.016136,
     "geom:longitude":3.278283,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880581,
-        85633147,
         85683247,
+        102191581,
+        404227587,
+        404386733,
+        85633147,
+        1108826399,
+        101880581,
+        136253037,
         102065405
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5hlY044DHP6rW266P98PNX_49.016136_3.278283@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"463b6cb8916adab60a0d7962ef3a65d0",
+    "wof:geomhash":"1fc91a6451d0f10eca134b98e8205581",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065405,
+            "empire_id":136253037,
+            "localadmin_id":404386733,
             "locality_id":101880581,
+            "macrocounty_id":404227587,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169243613
         }
     ],
     "wof:id":169243613,
-    "wof:lastmodified":1473798283,
+    "wof:lastmodified":1496795328,
     "wof:name":"Sarl Droit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

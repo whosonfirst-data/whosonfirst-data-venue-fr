@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.021711,48.946217,4.021711,48.946217",
     "geom:latitude":48.946217,
     "geom:longitude":4.021711,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762645,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404361695,
+        85633147,
+        1108826391,
+        101762645,
+        136253037,
         102064555
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_33HDcFYRve3D8X514kkZ9y_48.946217_4.021711@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"30604f0aec795957caf33a286fe40252",
+    "wof:geomhash":"3deada96ed8019cf402324efad05f0fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064555,
+            "empire_id":136253037,
+            "localadmin_id":404361695,
             "locality_id":101762645,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152053441
         }
     ],
     "wof:id":152053441,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496784700,
     "wof:name":"Champagne L\u00e9on Launois Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

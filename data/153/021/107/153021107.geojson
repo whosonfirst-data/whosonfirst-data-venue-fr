@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.557187,44.861862,-0.557187,44.861862",
     "geom:latitude":44.861862,
     "geom:longitude":-0.557187,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uCJbTPHiHd9Eg9jCBw63K_44.861862_-0.557187@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c5ffaa940ac42974d6454b2c3d12093",
+    "wof:geomhash":"e53cf8a56dfcd0af6da438449d075d01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":153021107
         }
     ],
     "wof:id":153021107,
-    "wof:lastmodified":1473797868,
+    "wof:lastmodified":1496777128,
     "wof:name":"Bordeaux Stockage Sarl",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

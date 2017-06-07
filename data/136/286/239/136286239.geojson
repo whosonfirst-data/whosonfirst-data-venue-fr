@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.797454,49.515709,-1.797454,49.515709",
     "geom:latitude":49.515709,
     "geom:longitude":-1.797454,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812413,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404376369,
+        85633147,
+        1108826393,
+        101812413,
+        136253037,
         102069501
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_4NMrUxGcQvGXhz0AUnLHwc_49.515709_-1.797454@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c41d2d6b85f765603c7fa97e06d2dd73",
+    "wof:geomhash":"a29099c6d37182a6c5d22421827a9aeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069501,
+            "empire_id":136253037,
+            "localadmin_id":404376369,
             "locality_id":101812413,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136286239
         }
     ],
     "wof:id":136286239,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496786973,
     "wof:name":"Agrial Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

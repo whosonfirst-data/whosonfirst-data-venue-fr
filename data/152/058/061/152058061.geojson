@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.25209,43.60733,2.25209,43.60733",
     "geom:latitude":43.60733,
     "geom:longitude":2.25209,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831833,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831833,
+        136253037,
         102072325
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_5Sj5hSDWXIN786TPasKuwI_43.607330_2.252090@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4bced210a873c8c4bf933b7bb4a76fde",
+    "wof:geomhash":"cd3af189b5845c91995833ad2e0bc5e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072325,
+            "empire_id":136253037,
             "locality_id":101831833,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152058061
         }
     ],
     "wof:id":152058061,
-    "wof:lastmodified":1473797882,
+    "wof:lastmodified":1496803735,
     "wof:name":"Laboratoires Biomerieux-pierre Fabre S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

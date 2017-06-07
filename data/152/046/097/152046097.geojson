@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.574051,41.136169,-73.574051,41.136169",
     "geom:latitude":41.136169,
     "geom:longitude":-73.574051,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85930787,
-        85633793,
         85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
         102084283
     ],
     "wof:breaches":[],
@@ -46,15 +49,17 @@
     "wof:geomhash":"19e825f0559724e89f02d08d9b86af10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495855,
             "locality_id":85930787,
             "region_id":85688629,
             "venue_id":152046097
         }
     ],
     "wof:id":152046097,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1492064686,
     "wof:name":"Institut Theseus (geie)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

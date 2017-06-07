@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853402,45.674488,4.853402,45.674488",
     "geom:latitude":45.674488,
     "geom:longitude":4.853402,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7GO2EmMokVr7iGYHwNMqBI_45.674488_4.853402@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7c9a1cdc7f6ed302df0fc7b1fa7da260",
+    "wof:geomhash":"09783b310bf5fc09f54e5961d16e4a1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152473155
         }
     ],
     "wof:id":152473155,
-    "wof:lastmodified":1473798423,
+    "wof:lastmodified":1496779328,
     "wof:name":"Faure Automatisme S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

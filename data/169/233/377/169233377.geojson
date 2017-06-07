@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.379942,46.50116,5.379942,46.50116",
     "geom:latitude":46.50116,
     "geom:longitude":5.379942,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766571,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404365309,
+        85633147,
+        1108826395,
+        101766571,
+        136253037,
         102067157
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0zWnSo9gGvRrhUtT696b1z_46.501160_5.379942@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abad5ee6ed2c8a4baa693a0be41a91f6",
+    "wof:geomhash":"4fd4bc9c3a37f2dfb8320b73c7f04bc0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067157,
+            "empire_id":136253037,
+            "localadmin_id":404365309,
             "locality_id":101766571,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":169233377
         }
     ],
     "wof:id":169233377,
-    "wof:lastmodified":1473798271,
+    "wof:lastmodified":1496788361,
     "wof:name":"Scierie Cheveaux Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

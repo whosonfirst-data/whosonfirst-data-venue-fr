@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.54685,46.816074,0.54685,46.816074",
     "geom:latitude":46.816074,
     "geom:longitude":0.54685,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_53yOWxEm6K6v0sALbcxTF3_46.816074_0.546850@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"115550c53b39e642877b5466e00dd65b",
+    "wof:geomhash":"9f7bb023db4a326ec25c25e0b931766e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136275673
         }
     ],
     "wof:id":136275673,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496776041,
     "wof:name":"Caisse D'epargne Et De Prevoyance De Poitou Charentes",
-    "wof:parent_id":101829385,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.284746,45.804909,1.284746,45.804909",
     "geom:latitude":45.804909,
     "geom:longitude":1.284746,
@@ -23,9 +24,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6ImVtOirY7mIXydHek1vww_45.804909_1.284746@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc0ecbd8783d0a4fdfb545c88b710f18",
+    "wof:geomhash":"0530e98f09f613cfe940444904875e26",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152359719
         }
     ],
     "wof:id":152359719,
-    "wof:lastmodified":1473798382,
+    "wof:lastmodified":1496777480,
     "wof:name":"Charcuterie Andr\u00e9 Penaud S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

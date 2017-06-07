@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.958038,49.477074,5.958038,49.477074",
     "geom:latitude":49.477074,
     "geom:longitude":5.958038,
@@ -22,8 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840207,
+        85683271,
+        102191581,
+        404228323,
+        404348235,
         85633147,
+        1108826391,
+        101840207,
+        136253037,
         102066401
     ],
     "wof:breaches":[],
@@ -31,18 +38,23 @@
         "sg:id":"SG_6qAWx4zBlztXu0ujfhAJwV_49.477074_5.958038@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73a8009964a1ea57fe3a3381c1dd7da9",
+    "wof:geomhash":"2fc33d2d4adc1b88dcae3b66fa548543",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066401,
+            "empire_id":136253037,
+            "localadmin_id":404348235,
             "locality_id":101840207,
-            "region_id":-1,
+            "macrocounty_id":404228323,
+            "macroregion_id":1108826391,
+            "region_id":85683271,
             "venue_id":152668325
         }
     ],
     "wof:id":152668325,
-    "wof:lastmodified":1473798480,
+    "wof:lastmodified":1496785879,
     "wof:name":"Philippe Pahon - Uap Assurances",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

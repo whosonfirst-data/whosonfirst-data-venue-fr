@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.219101,43.342068,3.219101,43.342068",
     "geom:latitude":43.342068,
     "geom:longitude":3.219101,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749211,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404422507,
+        85633147,
+        1108826387,
+        101749211,
+        136253037,
         102072255
     ],
     "wof:brand_id":420574521,
@@ -45,20 +51,25 @@
         "sg:id":"SG_4iivLuk6PIJOctOGwSM1bC_43.342068_3.219101@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dfda30b43607fd43df118e86de8a0ad9",
+    "wof:geomhash":"c3f7fd069fbb3262852ba5af60d09695",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072255,
+            "empire_id":136253037,
+            "localadmin_id":404422507,
             "locality_id":101749211,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136274879
         }
     ],
     "wof:id":136274879,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496777660,
     "wof:name":"Banque De France",
-    "wof:parent_id":101749211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

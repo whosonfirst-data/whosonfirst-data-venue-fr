@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.67075,45.17429,1.67075,45.17429",
     "geom:latitude":45.17429,
     "geom:longitude":1.67075,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894951,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404357055,
+        85633147,
+        1108826385,
+        101894951,
+        136253037,
         102064827
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_2kRZLVF79CQ12vj5nKAFCE_45.174290_1.670750@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b07d9aca2df4d33222d777bb12814ec",
+    "wof:geomhash":"16b98cb8c15cbfd6d547d049d245be2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064827,
+            "empire_id":136253037,
+            "localadmin_id":404357055,
             "locality_id":101894951,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":169242083
         }
     ],
     "wof:id":169242083,
-    "wof:lastmodified":1473798276,
+    "wof:lastmodified":1496806018,
     "wof:name":"Obbia Sa Omnium Bois Batiment Industrie Associes Sa (obbia)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

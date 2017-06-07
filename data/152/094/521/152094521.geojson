@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.5734,45.719326,6.5734,45.719326",
     "geom:latitude":45.719326,
     "geom:longitude":6.5734,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769251,
-        85633147,
         85683265,
+        102191581,
+        404227745,
+        404397739,
+        85633147,
+        1108826389,
+        101769251,
+        136253037,
         102065249
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1TmYr47hVeW25k8CBTyjd1_45.719326_6.573400@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"31e52c6d81e1a5450466e0e17643064d",
+    "wof:geomhash":"fe77e6bdc26c598a96fd66a51a190415",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065249,
+            "empire_id":136253037,
+            "localadmin_id":404397739,
             "locality_id":101769251,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152094521
         }
     ],
     "wof:id":152094521,
-    "wof:lastmodified":1473798193,
+    "wof:lastmodified":1496801919,
     "wof:name":"Ste Coop Laitiere Du Beaufortin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

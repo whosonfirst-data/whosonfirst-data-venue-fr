@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.69657,45.161789,5.69657,45.161789",
     "geom:latitude":45.161789,
     "geom:longitude":5.69657,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753197,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404392483,
+        85633147,
+        1108826389,
+        101753197,
+        136253037,
         102071705
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7YUtPi4GubHWRycaWrGkha_45.161789_5.696570@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f32adc04be8060ac93358b840af1336",
+    "wof:geomhash":"ec2c477c84fcd1954fa04a81295af01c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071705,
+            "empire_id":136253037,
+            "localadmin_id":404392483,
             "locality_id":101753197,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152074979
         }
     ],
     "wof:id":152074979,
-    "wof:lastmodified":1473798150,
+    "wof:lastmodified":1496801985,
     "wof:name":"Insidix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

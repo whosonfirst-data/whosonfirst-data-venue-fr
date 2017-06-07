@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.388536,49.034489,3.388536,49.034489",
     "geom:latitude":49.034489,
     "geom:longitude":3.388536,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828525,
-        85633147,
         85683247,
+        102191581,
+        404227587,
+        404384611,
+        85633147,
+        1108826399,
+        101828525,
+        136253037,
         102065611
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2Yt2NWmLQwnVsizSoyy3SM_49.034489_3.388536@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2ff0f2d226df604ca714f3690510549",
+    "wof:geomhash":"099fdc122a6079048a57615307012f81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065611,
+            "empire_id":136253037,
+            "localadmin_id":404384611,
             "locality_id":101828525,
+            "macrocounty_id":404227587,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152081881
         }
     ],
     "wof:id":152081881,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496795696,
     "wof:name":"Compagnie Generale Des Eaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

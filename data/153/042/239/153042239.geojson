@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.416319,48.623421,-0.416319,48.623421",
     "geom:latitude":48.623421,
     "geom:longitude":-0.416319,
@@ -24,24 +25,37 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683527,
+        102191581,
         85633147,
-        85683527
+        404383447,
+        404227721,
+        1108826393,
+        136253037,
+        102066815
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1alE1YUxZTHf0wL2QTf9N0_48.623421_-0.416319@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51bc9e4c6fcf0124466a72245e5a33fe",
+    "wof:geomhash":"f5b8e5223b55e77b04f8c0653467aa4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066815,
+            "empire_id":136253037,
+            "localadmin_id":404383447,
+            "locality_id":-1,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":153042239
         }
     ],
     "wof:id":153042239,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496803323,
     "wof:name":"A.c.m. S.a.s. - Atelier Des Compagnons Moulistes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.241121,50.631481,3.241121,50.631481",
     "geom:latitude":50.631481,
     "geom:longitude":3.241121,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840667,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404384687,
+        85633147,
+        1108826399,
+        101840667,
+        136253037,
         102070353
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7BpiGIrSqFgvQSxb83koDt_50.631481_3.241121@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c6eb25ec637110ed6f0648976c72746",
+    "wof:geomhash":"13c2c97e117022b35d7507d28f6b6f50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404384687,
             "locality_id":101840667,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":168856231
         }
     ],
     "wof:id":168856231,
-    "wof:lastmodified":1473797973,
+    "wof:lastmodified":1496791001,
     "wof:name":"Caddy S.a. - Groupe Storck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

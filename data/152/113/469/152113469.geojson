@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.233605,43.599979,1.233605,43.599979",
     "geom:latitude":43.599979,
     "geom:longitude":1.233605,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831773,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404375113,
+        85633147,
+        1108826387,
+        101831773,
+        136253037,
         102067693
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_60Rbk7caV2d5xsSmtZcX49_43.599979_1.233605@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6c9080097784f611795e4503572e809b",
+    "wof:geomhash":"802bbd0d0e2f2cbdee52d85d6ad812ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067693,
+            "empire_id":136253037,
+            "localadmin_id":404375113,
             "locality_id":101831773,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152113469
         }
     ],
     "wof:id":152113469,
-    "wof:lastmodified":1473798269,
+    "wof:lastmodified":1496778169,
     "wof:name":"Centrale Toulousaine Des Bois Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

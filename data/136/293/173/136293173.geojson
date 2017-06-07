@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.214676,49.612282,3.214676,49.612282",
     "geom:latitude":49.612282,
     "geom:longitude":3.214676,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840241,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404358343,
+        85633147,
+        1108826399,
+        101840241,
+        136253037,
         102065879
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3MKFR5nOOAy3b8t2EdaHUv_49.612282_3.214676@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fbba5a541ab9a5ffe29e2e550f6f572e",
+    "wof:geomhash":"8453bd54c49f7f03fdb6021c701435fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065879,
+            "empire_id":136253037,
+            "localadmin_id":404358343,
             "locality_id":101840241,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136293173
         }
     ],
     "wof:id":136293173,
-    "wof:lastmodified":1473797886,
+    "wof:lastmodified":1496792026,
     "wof:name":"Mar\u00e9challe - Pesage - M\u00e9trologie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

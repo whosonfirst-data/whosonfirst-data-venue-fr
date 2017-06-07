@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.597364,46.349415,2.597364,46.349415",
     "geom:latitude":46.349415,
     "geom:longitude":2.597364,
@@ -24,9 +25,13 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829205,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
         102072223
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_5mAquTvknG02wEw3ky35nT_46.349415_2.597364@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"392f2e45ca85f502e2b86004c9882444",
+    "wof:geomhash":"203c674ec0d120b0c0e8990835c1e732",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072223,
+            "empire_id":136253037,
             "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":169096813
         }
     ],
     "wof:id":169096813,
-    "wof:lastmodified":1473798101,
+    "wof:lastmodified":1496806439,
     "wof:name":"Point P S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.177246,48.690914,6.177246,48.690914",
     "geom:latitude":48.690914,
     "geom:longitude":6.177246,
@@ -27,9 +28,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:brand_id":420574521,
@@ -38,18 +43,22 @@
         "sg:id":"SG_2ZROcTjYrKMtPfLacEUsLA_48.690914_6.177246@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfcfcbb5dff9f915bd9778c1c427f323",
+    "wof:geomhash":"037df4839bbf76e46ba4c1938f4b030e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136296687
         }
     ],
     "wof:id":136296687,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496784719,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

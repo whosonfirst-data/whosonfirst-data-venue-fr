@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.538116,50.455654,3.538116,50.455654",
     "geom:latitude":50.455654,
     "geom:longitude":3.538116,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898641,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425909,
+        85633147,
+        1108826399,
+        101898641,
+        136253037,
         102067939
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1ZcwNRRN1myFkvlyCr9FDw_50.455654_3.538116@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"701804cc8fd5cbecb188e744d3d2ad0f",
+    "wof:geomhash":"981a2e37e71338b6961249f6e977e96a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067939,
+            "empire_id":136253037,
+            "localadmin_id":404425909,
             "locality_id":101898641,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169144547
         }
     ],
     "wof:id":169144547,
-    "wof:lastmodified":1473798178,
+    "wof:lastmodified":1496790405,
     "wof:name":"Sainord Chaudronnerie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.571085,48.485924,6.571085,48.485924",
     "geom:latitude":48.485924,
     "geom:longitude":6.571085,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883973,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404398095,
+        85633147,
+        1108826391,
+        101883973,
+        136253037,
         102066683
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0u134M4kpGa17w1MjbE6Xh_48.485924_6.571085@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b00b2ebd87c4e27d6aaea01f8686777e",
+    "wof:geomhash":"51bd74fe7bd189e546767af4922c7794",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066683,
+            "empire_id":136253037,
+            "localadmin_id":404398095,
             "locality_id":101883973,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":169245757
         }
     ],
     "wof:id":169245757,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496784546,
     "wof:name":"Tournerie Bois Prevost Lagrange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

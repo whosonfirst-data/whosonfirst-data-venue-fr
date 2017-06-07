@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.573186,44.76799,-0.573186,44.76799",
     "geom:latitude":44.76799,
     "geom:longitude":-0.573186,
@@ -24,28 +25,40 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JNgQXKNSJ5t8jgxmnBvlp_44.767990_-0.573186@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"274d3e9bff5bb79f252c583f6857a8ec",
+    "wof:geomhash":"5c7b8628967fab0445a0340f7ce4de3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":169199337
         }
     ],
     "wof:id":169199337,
-    "wof:lastmodified":1473798213,
+    "wof:lastmodified":1496775558,
     "wof:name":"Tixit S.a.",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.004841,49.292671,1.004841,49.292671",
     "geom:latitude":49.292671,
     "geom:longitude":1.004841,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753585,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404369035,
+        85633147,
+        1108826393,
+        101753585,
+        136253037,
         102067529
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3x9mUXwMMFFreU9TH4yoGJ_49.292671_1.004841@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23e5e86083cbd4aa9ec7206739e6b0b8",
+    "wof:geomhash":"4a4ae16a9cb4386357f00a62f70d9870",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067529,
+            "empire_id":136253037,
+            "localadmin_id":404369035,
             "locality_id":101753585,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136275811
         }
     ],
     "wof:id":136275811,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496787140,
     "wof:name":"Caisse Primaire Assur Maladie",
-    "wof:parent_id":101753585,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

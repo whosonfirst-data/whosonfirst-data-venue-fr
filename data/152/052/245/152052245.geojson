@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.075365,49.109051,7.075365,49.109051",
     "geom:latitude":49.109051,
     "geom:longitude":7.075365,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828147,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404353777,
+        85633147,
+        1108826391,
+        101828147,
+        136253037,
         102069919
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1gxLiFzMlx3c2JCorNjpDB_49.109051_7.075365@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da5799c8f2116caf7e91c90a5cee7de3",
+    "wof:geomhash":"e6f4db004f8a9f351ee917f917e52d6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069919,
+            "empire_id":136253037,
+            "localadmin_id":404353777,
             "locality_id":101828147,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152052245
         }
     ],
     "wof:id":152052245,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496785233,
     "wof:name":"Sarreguemines Batiment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

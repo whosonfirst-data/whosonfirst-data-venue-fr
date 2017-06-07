@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8554,45.75761,4.8554,45.75761",
     "geom:latitude":45.75761,
     "geom:longitude":4.8554,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4Xhlar6lR4BdUqGVJFWuLk_45.757610_4.855400@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8bd72292f5603f7ee5728d6cbbfd960",
+    "wof:geomhash":"48cb5214171e5f3aa0d7b3c7a88991a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152101131
         }
     ],
     "wof:id":152101131,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1496780353,
     "wof:name":"Maison Municipale De L Enfance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

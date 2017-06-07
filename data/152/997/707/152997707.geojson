@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1744,47.507195,4.1744,47.507195",
     "geom:latitude":47.507195,
     "geom:longitude":4.1744,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889337,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404361831,
+        85633147,
+        1108826395,
+        101889337,
+        136253037,
         102070311
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0okU60Sq31zlueT9MRefb9_47.507195_4.174400@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c34ae520b0a0f877ba87a3b1811dd16",
+    "wof:geomhash":"504290b16c735701a4be5e386f1b842b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070311,
+            "empire_id":136253037,
+            "localadmin_id":404361831,
             "locality_id":101889337,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152997707
         }
     ],
     "wof:id":152997707,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496788214,
     "wof:name":"Fromagerie Berthaut Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

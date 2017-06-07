@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.536373,47.233574,-1.536373,47.233574",
     "geom:latitude":47.233574,
     "geom:longitude":-1.536373,
@@ -22,11 +23,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897697,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897697
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,19 @@
     "wof:geomhash":"dfeb14d3d3a489dc54d4d9f60972e346",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897697,
             "region_id":85683233,
             "venue_id":168978233
         }
     ],
     "wof:id":168978233,
-    "wof:lastmodified":1473798176,
+    "wof:lastmodified":1491925231,
     "wof:name":"Greta Nantes Services",
     "wof:parent_id":85897697,
     "wof:placetype":"venue",

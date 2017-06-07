@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.834397,50.663452,1.834397,50.663452",
     "geom:latitude":50.663452,
     "geom:longitude":1.834397,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811187,
-        85633147,
         85683255,
+        102191581,
+        404228131,
+        404386313,
+        85633147,
+        1108826399,
+        101811187,
+        136253037,
         102068283
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_7dmfq7GS9sn1IAXV83jPZ9_50.663452_1.834397@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"550c87560188b87be7683c4b0203f83d",
+    "wof:geomhash":"48037f98eef6cb2db06c1fafc6cc66be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068283,
+            "empire_id":136253037,
+            "localadmin_id":404386313,
             "locality_id":101811187,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152051885
         }
     ],
     "wof:id":152051885,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496791791,
     "wof:name":"Desvres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

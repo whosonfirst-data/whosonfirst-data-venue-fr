@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.096876,49.475758,1.096876,49.475758",
     "geom:latitude":49.475758,
     "geom:longitude":1.096876,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750213,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404371759,
+        85633147,
+        1108826393,
+        101750213,
+        136253037,
         102071809
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_69F7fmiK6QqLEhXep4mWrc_49.475758_1.096876@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9343bc262356d123885f7fcbe66324ae",
+    "wof:geomhash":"2e783952b212cc9166a8c49f869610e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071809,
+            "empire_id":136253037,
+            "localadmin_id":404371759,
             "locality_id":101750213,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152931259
         }
     ],
     "wof:id":152931259,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496787300,
     "wof:name":"Ricoh France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

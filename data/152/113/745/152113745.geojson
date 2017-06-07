@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.720652,46.06052,4.720652,46.06052",
     "geom:latitude":46.06052,
     "geom:longitude":4.720652,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767731,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404362351,
+        85633147,
+        1108826389,
+        101767731,
+        136253037,
         102065119
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2FwUlnUabqSA7njg7st7U7_46.060520_4.720652@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f3aaad6fcccd5b685adbd5389808337a",
+    "wof:geomhash":"24e966c821c8bc522425939c394542f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065119,
+            "empire_id":136253037,
+            "localadmin_id":404362351,
             "locality_id":101767731,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152113745
         }
     ],
     "wof:id":152113745,
-    "wof:lastmodified":1473798275,
+    "wof:lastmodified":1496800218,
     "wof:name":"Branche Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

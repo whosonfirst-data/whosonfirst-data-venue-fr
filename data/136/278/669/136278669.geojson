@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.076759,44.103233,3.076759,44.103233",
     "geom:latitude":44.103233,
     "geom:longitude":3.076759,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831891,
-        85633147,
         85683301,
+        102191581,
+        404227609,
+        404348401,
+        85633147,
+        1108826387,
+        101831891,
+        136253037,
         102072101
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0SLjWoFdTIu4LCiR8P74ab_44.103233_3.076759@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7994315ac5cdd54a0ca5f735bac50a93",
+    "wof:geomhash":"76acd2bc45f53e780130dca29f437c0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072101,
+            "empire_id":136253037,
+            "localadmin_id":404348401,
             "locality_id":101831891,
+            "macrocounty_id":404227609,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":136278669
         }
     ],
     "wof:id":136278669,
-    "wof:lastmodified":1473797930,
+    "wof:lastmodified":1496778688,
     "wof:name":"Rubio Et Associes Experts Comptables Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

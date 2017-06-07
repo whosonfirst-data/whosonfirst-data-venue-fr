@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.086416,50.365829,3.086416,50.365829",
     "geom:latitude":50.365829,
     "geom:longitude":3.086416,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840557,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228125,
+        1108826399,
+        101840557,
+        136253037,
         102071911
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_030jtV3VxPzERUfF182UUe_50.365829_3.086416@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e4ccc3214de4000cf236a71e46794bf7",
+    "wof:geomhash":"14a7eb12690806b0b74c689ef428f818",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071911,
+            "empire_id":136253037,
             "locality_id":101840557,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136274739
         }
     ],
     "wof:id":136274739,
-    "wof:lastmodified":1473797897,
+    "wof:lastmodified":1496790766,
     "wof:name":"Audit & Assistance Internat A Lagoutte Sa",
-    "wof:parent_id":101840557,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

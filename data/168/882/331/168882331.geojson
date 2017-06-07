@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.092527,43.677731,4.092527,43.677731",
     "geom:latitude":43.677731,
     "geom:longitude":4.092527,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831707,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404370295,
+        85633147,
+        1108826387,
+        101831707,
+        136253037,
         102067509
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6dbllqXAHiBRIuJT3XP3gh_43.677731_4.092527@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"efe644c025a84c181b488a6c6ab8563a",
+    "wof:geomhash":"d204d5b5d274dede3e4abc8e4648d12a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067509,
+            "empire_id":136253037,
+            "localadmin_id":404370295,
             "locality_id":101831707,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":168882331
         }
     ],
     "wof:id":168882331,
-    "wof:lastmodified":1473798050,
+    "wof:lastmodified":1496799195,
     "wof:name":"Comptoir National De Diffusion S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

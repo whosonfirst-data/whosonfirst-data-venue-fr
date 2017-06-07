@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.361257,51.049286,2.361257,51.049286",
     "geom:latitude":51.049286,
     "geom:longitude":2.361257,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750237,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_1M69p7yymU4nIdPT15SkuI_51.049286_2.361257@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9b23b5ec254834dac25b2fa60cd283af",
+    "wof:geomhash":"e4191f190672c25e34ac359b9ecbfa20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152087699
         }
     ],
     "wof:id":152087699,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496791171,
     "wof:name":"Echafaudage Montage Dunkerquois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

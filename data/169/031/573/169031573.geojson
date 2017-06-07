@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.996028,49.482449,2.996028,49.482449",
     "geom:latitude":49.482449,
     "geom:longitude":2.996028,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813685,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404408483,
+        85633147,
+        1108826399,
+        101813685,
+        136253037,
         102064395
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6aKlYxJmL4nZLgQB3Ax7cT_49.482449_2.996028@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b68f795ca7bd733d9248afeb827e8b0f",
+    "wof:geomhash":"fc43e894467aa8fd6cc146fbac275da8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064395,
+            "empire_id":136253037,
+            "localadmin_id":404408483,
             "locality_id":101813685,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169031573
         }
     ],
     "wof:id":169031573,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496792675,
     "wof:name":"Lemaitre Stand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

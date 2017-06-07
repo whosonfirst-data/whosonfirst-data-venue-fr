@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.27784,45.884987,1.27784,45.884987",
     "geom:latitude":45.884987,
     "geom:longitude":1.27784,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6t5SOvZp07dTWZL5nD9h5V_45.884987_1.277840@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e27f13faa961ddcb58042bc8bd2cecc1",
+    "wof:geomhash":"335546adffc85ecc9b68c84c0a4518f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152082609
         }
     ],
     "wof:id":152082609,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496776588,
     "wof:name":"Valeo Materiaux Friction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

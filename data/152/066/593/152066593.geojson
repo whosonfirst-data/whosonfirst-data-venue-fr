@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.760576,45.450722,4.760576,45.450722",
     "geom:latitude":45.450722,
     "geom:longitude":4.760576,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830585,
-        85633147,
         85683427,
-        102070983
+        102191581,
+        404228083,
+        404395397,
+        85633147,
+        1108826389,
+        101830585,
+        136253037,
+        102068821
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22ba64QmfvLqkV9zoUwGAJ_45.450722_4.760576@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dca83b3f1a014acc2760488f9d5728a0",
+    "wof:geomhash":"dd3a235155f8ff0843878cab38865ab0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070983,
+            "county_id":102068821,
+            "empire_id":136253037,
+            "localadmin_id":404395397,
             "locality_id":101830585,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152066593
         }
     ],
     "wof:id":152066593,
-    "wof:lastmodified":1473798042,
+    "wof:lastmodified":1496781036,
     "wof:name":"Ets Andrieux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

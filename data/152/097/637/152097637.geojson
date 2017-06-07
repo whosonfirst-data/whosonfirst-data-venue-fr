@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.708715,46.713928,4.708715,46.713928",
     "geom:latitude":46.713928,
     "geom:longitude":4.708715,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766581,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404378119,
+        85633147,
+        1108826395,
+        101766581,
+        136253037,
         102064939
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5gtRPV0pTnCCthTKNZGNcq_46.713928_4.708715@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c09e4d1c3528881121d7afee69ee8ff",
+    "wof:geomhash":"0de23f03b250745c0e08da7daaa0ca81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064939,
+            "empire_id":136253037,
+            "localadmin_id":404378119,
             "locality_id":101766581,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152097637
         }
     ],
     "wof:id":152097637,
-    "wof:lastmodified":1473798212,
+    "wof:lastmodified":1496788279,
     "wof:name":"Cave Des Vignerons De Buxy Coop.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

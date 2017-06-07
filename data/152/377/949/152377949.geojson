@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.515346,43.863972,-0.515346,43.863972",
     "geom:latitude":43.863972,
     "geom:longitude":-0.515346,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831887,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404380875,
+        85633147,
+        1108826385,
+        101831887,
+        136253037,
         102069831
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3RWixmaLIF7tXorVa3cXtW_43.863972_-0.515346@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1bf4d4b333e4539a67927ed3bd6f54b9",
+    "wof:geomhash":"8b9c69b8b5bc14e5e931a1988afd4c76",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069831,
+            "empire_id":136253037,
+            "localadmin_id":404380875,
             "locality_id":101831887,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152377949
         }
     ],
     "wof:id":152377949,
-    "wof:lastmodified":1473798390,
+    "wof:lastmodified":1496776263,
     "wof:name":"Confort Plus S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

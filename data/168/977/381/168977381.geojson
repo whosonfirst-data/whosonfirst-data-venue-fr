@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.640097,44.232975,0.640097,44.232975",
     "geom:latitude":44.232975,
     "geom:longitude":0.640097,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771673,
-        85633147,
         85683341,
+        102191581,
+        404227689,
+        404362075,
+        85633147,
+        1108826385,
+        101771673,
+        136253037,
         102070623
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1x34RZiVa1d8Cbr1mOmDlw_44.232975_0.640097@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cbdadd1f19e6a83368eeae2dd3ba7bbb",
+    "wof:geomhash":"ea5ecfea3fa04a4927a3c92df7ca80de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070623,
+            "empire_id":136253037,
+            "localadmin_id":404362075,
             "locality_id":101771673,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":168977381
         }
     ],
     "wof:id":168977381,
-    "wof:lastmodified":1473798171,
+    "wof:lastmodified":1496777362,
     "wof:name":"Graphocoop 47 S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

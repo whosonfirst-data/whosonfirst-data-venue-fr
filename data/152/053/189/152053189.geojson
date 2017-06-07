@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.54786,45.85339,3.54786,45.85339",
     "geom:latitude":45.85339,
     "geom:longitude":3.54786,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767857,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404348921,
+        85633147,
+        1108826389,
+        101767857,
+        136253037,
         102071435
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7OFlOECG6ljcyUV3TxbTbJ_45.853390_3.547860@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4dbd01c65a760443db4bc59a21674e54",
+    "wof:geomhash":"1ded11a89831f1058c2f2a436de38001",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071435,
+            "empire_id":136253037,
+            "localadmin_id":404348921,
             "locality_id":101767857,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152053189
         }
     ],
     "wof:id":152053189,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496781863,
     "wof:name":"Chambre De Commerce De Thiers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.089303,49.4212,1.089303,49.4212",
     "geom:latitude":49.4212,
     "geom:longitude":1.089303,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751465,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751465,
+        136253037,
         102071947
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2ewXo3dwT4m5kl09RbBupO_49.421200_1.089303@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"00d1695c4249d5f2288103a64b9ba8aa",
+    "wof:geomhash":"5f928ec43a59152295675984bef17063",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071947,
+            "empire_id":136253037,
             "locality_id":101751465,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152108183
         }
     ],
     "wof:id":152108183,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496786885,
     "wof:name":"Prothese Plus Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

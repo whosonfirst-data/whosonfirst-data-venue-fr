@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.922649,44.145264,-0.922649,44.145264",
     "geom:latitude":44.145264,
     "geom:longitude":-0.922649,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895683,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404373729,
+        85633147,
+        1108826385,
+        101895683,
+        136253037,
         102068017
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1LdYGM5ml4hoIYrheE4SHF_44.145264_-0.922649@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"31a3738cfaf5f37a18e489b9f2081b8d",
+    "wof:geomhash":"7b34db1c7fdc2e680bde1293c20a7016",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068017,
+            "empire_id":136253037,
+            "localadmin_id":404373729,
             "locality_id":101895683,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152132123
         }
     ],
     "wof:id":152132123,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496776263,
     "wof:name":"Atelier De Mecanique De Labouheyre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

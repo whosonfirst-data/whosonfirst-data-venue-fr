@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.406438,50.088005,3.406438,50.088005",
     "geom:latitude":50.088005,
     "geom:longitude":3.406438,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899757,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404423765,
+        85633147,
+        1108826399,
+        101899757,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6tglIJNVSAtMGagotG54ut_50.088005_3.406438@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73e9ac196d304e66a106096451b5c69e",
+    "wof:geomhash":"42560dd6dbba160ea8b928c48d9d3b96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404423765,
             "locality_id":101899757,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152085153
         }
     ],
     "wof:id":152085153,
-    "wof:lastmodified":1473798124,
+    "wof:lastmodified":1496790303,
     "wof:name":"Pierre Frey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

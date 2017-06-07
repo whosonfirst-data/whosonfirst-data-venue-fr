@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.879941,43.606339,3.879941,43.606339",
     "geom:latitude":43.606339,
     "geom:longitude":3.879941,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6OAe5eRLLW3e50zbL7PM8C_43.606339_3.879941@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96135a2b6a254063661bae066c4aefff",
+    "wof:geomhash":"d9a3ed59f1582bd51325be3a2f9c4869",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136293469
         }
     ],
     "wof:id":136293469,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496778033,
     "wof:name":"Banque Nationale De Paris (bnp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

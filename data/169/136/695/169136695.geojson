@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.599749,49.64703,-1.599749,49.64703",
     "geom:latitude":49.64703,
     "geom:longitude":-1.599749,
@@ -24,9 +25,13 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840309,
-        85633147,
         85683489,
+        102191581,
+        85633147,
+        404227907,
+        1108826393,
+        101840309,
+        136253037,
         102072067
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_6EoglRj1QwuBOb6TyGaQ8A_49.647030_-1.599749@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"27fd5129483b592119628a3e3cfea991",
+    "wof:geomhash":"86284c62ef91ce52546d564698f86b94",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072067,
+            "empire_id":136253037,
             "locality_id":101840309,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":169136695
         }
     ],
     "wof:id":169136695,
-    "wof:lastmodified":1473798152,
+    "wof:lastmodified":1496803213,
     "wof:name":"S.n.c. S.a.r.l. - Soci\u00e9t\u00e9 Navale Cherbourgeoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

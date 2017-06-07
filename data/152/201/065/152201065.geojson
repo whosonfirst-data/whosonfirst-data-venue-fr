@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.36035,43.86256,4.36035,43.86256",
     "geom:latitude":43.86256,
     "geom:longitude":4.36035,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4tuPugDUtobPHh9r6H48bc_43.862560_4.360350@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7f696954556be6e3ab14bc7945763c84",
+    "wof:geomhash":"6ec809456259c64e9a67b1a9374df3ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152201065
         }
     ],
     "wof:id":152201065,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496778304,
     "wof:name":"Berton Sicard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.80099,47.250889,6.80099,47.250889",
     "geom:latitude":47.250889,
     "geom:longitude":6.80099,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766873,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404375555,
+        85633147,
+        1108826395,
+        101766873,
+        136253037,
         102066485
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5ZCS46Qw7nNILLshfrGZP1_47.250889_6.800990@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e536c326bb4b191fbcbc7db87722d19d",
+    "wof:geomhash":"aa3652c47ef6fec216577570565ca246",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066485,
+            "empire_id":136253037,
+            "localadmin_id":404375555,
             "locality_id":101766873,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152205067
         }
     ],
     "wof:id":152205067,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496804218,
     "wof:name":"Pxtools France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

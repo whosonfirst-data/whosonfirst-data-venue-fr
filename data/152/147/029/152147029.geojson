@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.413851,43.498856,2.413851,43.498856",
     "geom:latitude":43.498856,
     "geom:longitude":2.413851,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831815,
-        85633147,
         85683603,
-        102067853
+        102191581,
+        404227975,
+        404354999,
+        85633147,
+        1108826387,
+        101831815,
+        136253037,
+        102072479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KoK2XoH5njgReygcpyA5U_43.498856_2.413851@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd9501c7962c6618efe3dc13937f4d1b",
+    "wof:geomhash":"ed7d1aded7ca5de099d2ba2ae5f9af00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067853,
+            "county_id":102072479,
+            "empire_id":136253037,
+            "localadmin_id":404354999,
             "locality_id":101831815,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152147029
         }
     ],
     "wof:id":152147029,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496777608,
     "wof:name":"Marceau Amalric Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

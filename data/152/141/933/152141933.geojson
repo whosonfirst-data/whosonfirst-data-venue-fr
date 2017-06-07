@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.367409,43.837688,4.367409,43.837688",
     "geom:latitude":43.837688,
     "geom:longitude":4.367409,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_75syLsORetCzUZi0V2QoId_43.837688_4.367409@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"60d2fd81f2df538bc881a1f3327238c8",
+    "wof:geomhash":"5cf9d631c6413c3d84af54e853dfd396",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152141933
         }
     ],
     "wof:id":152141933,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496778738,
     "wof:name":"Gaz Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.660476,46.617229,4.660476,46.617229",
     "geom:latitude":46.617229,
     "geom:longitude":4.660476,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891235,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404367513,
+        85633147,
+        1108826395,
+        101891235,
+        136253037,
         102071171
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2ywGnmoQvXgzkXhM2fHqrO_46.617229_4.660476@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2a5254eff6bc4622db8907e68362a942",
+    "wof:geomhash":"0e0db2fd67c0d2bd7f492b6b5f9b35b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071171,
+            "empire_id":136253037,
+            "localadmin_id":404367513,
             "locality_id":101891235,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152309319
         }
     ],
     "wof:id":152309319,
-    "wof:lastmodified":1473798361,
+    "wof:lastmodified":1496788681,
     "wof:name":"Blondeau S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

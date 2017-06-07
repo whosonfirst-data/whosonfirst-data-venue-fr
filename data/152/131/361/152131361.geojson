@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.559126,43.389709,-0.559126,43.389709",
     "geom:latitude":43.389709,
     "geom:longitude":-0.559126,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773903,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404393367,
+        85633147,
+        1108826385,
+        101773903,
+        136253037,
         102064789
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6QoB43VoVrgo0darKxHuux_43.389709_-0.559126@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"882ab22e4e0b54fa8c10a2a8b9e38875",
+    "wof:geomhash":"b1fc35a922e4fa0ba8801e8c5a7128a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064789,
+            "empire_id":136253037,
+            "localadmin_id":404393367,
             "locality_id":101773903,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152131361
         }
     ],
     "wof:id":152131361,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496798387,
     "wof:name":"Air Quality Process",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.61395,50.455952,1.61395,50.455952",
     "geom:latitude":50.455952,
     "geom:longitude":1.61395,
@@ -27,9 +28,14 @@
     "sg:province":"Nord-Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840461,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404404701,
+        85633147,
+        1108826399,
+        101840461,
+        136253037,
         102070813
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_6wAF1LgNd3D2mGhDEWvNUE_50.455952_1.613950@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1654b27b565189b5f9506f0307a0f560",
+    "wof:geomhash":"5a4e9d95f2ddb93e280d4c5ab6a85072",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070813,
+            "empire_id":136253037,
+            "localadmin_id":404404701,
             "locality_id":101840461,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":153034539
         }
     ],
     "wof:id":153034539,
-    "wof:lastmodified":1473797982,
+    "wof:lastmodified":1496790444,
     "wof:name":"Bagatelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

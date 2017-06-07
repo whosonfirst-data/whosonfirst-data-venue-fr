@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.858591,47.513599,6.858591,47.513599",
     "geom:latitude":47.513599,
     "geom:longitude":6.858591,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829343,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404402243,
+        85633147,
+        1108826395,
+        101829343,
+        136253037,
         102070399
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_36PU13Asc9AEPfVPAv9oWr_47.513599_6.858591@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"69d11860095c3a29b5cd41539bc5b7f3",
+    "wof:geomhash":"83dae96fd2964bcebb4cbc11933c0669",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070399,
+            "empire_id":136253037,
+            "localadmin_id":404402243,
             "locality_id":101829343,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152082525
         }
     ],
     "wof:id":152082525,
-    "wof:lastmodified":1473798143,
+    "wof:lastmodified":1496789236,
     "wof:name":"Schmitter France Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

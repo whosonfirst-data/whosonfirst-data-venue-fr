@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.586096,48.011147,6.586096,48.011147",
     "geom:latitude":48.011147,
     "geom:longitude":6.586096,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829635,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404353553,
+        85633147,
+        1108826391,
+        101829635,
+        136253037,
         102068567
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_3VoO9VPlgh129s0IouF2wA_48.011147_6.586096@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"49fe205cea79d7b54acabbd00af73e1b",
+    "wof:geomhash":"0164029efba264a7c733e0b42def67e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068567,
+            "empire_id":136253037,
+            "localadmin_id":404353553,
             "locality_id":101829635,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152092461
         }
     ],
     "wof:id":152092461,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496793761,
     "wof:name":"Sa Les Ateliers D'herival",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

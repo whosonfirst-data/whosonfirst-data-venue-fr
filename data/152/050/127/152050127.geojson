@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.896142,45.59576,5.896142,45.59576",
     "geom:latitude":45.59576,
     "geom:longitude":5.896142,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_6asCGhl52FNxYBvnijOrzK_45.595760_5.896142@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3f23296e37d882c189268736cd4609ce",
+    "wof:geomhash":"144b13f62998debef62a2281858cc596",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152050127
         }
     ],
     "wof:id":152050127,
-    "wof:lastmodified":1473797884,
+    "wof:lastmodified":1496801933,
     "wof:name":"Hotel Ibis Chambery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

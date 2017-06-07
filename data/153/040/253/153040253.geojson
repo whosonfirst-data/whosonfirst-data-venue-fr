@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.97484,45.72813,4.97484,45.72813",
     "geom:latitude":45.72813,
     "geom:longitude":4.97484,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749389,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404419897,
+        85633147,
+        1108826389,
+        101749389,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1ONwTuZwZuxnEjA9Zksxa4_45.728130_4.974840@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0ca39140d389ed61b8cf94995229612b",
+    "wof:geomhash":"91d5e513a515321945f767ace33ecca8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404419897,
             "locality_id":101749389,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153040253
         }
     ],
     "wof:id":153040253,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496800094,
     "wof:name":"A.b.c. S.a.r.l. - Application Brochage Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

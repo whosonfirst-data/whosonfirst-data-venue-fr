@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.625183,49.638912,-1.625183,49.638912",
     "geom:latitude":49.638912,
     "geom:longitude":-1.625183,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840309,
-        85633147,
         85683489,
+        102191581,
+        85633147,
+        404227907,
+        1108826393,
+        101840309,
+        136253037,
         102072067
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4utIBOTRG6Lu9lo2f5L2HE_49.638912_-1.625183@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcecdf29194e8565695006342fd579bb",
+    "wof:geomhash":"1683b0e2646568981372138267129411",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072067,
+            "empire_id":136253037,
             "locality_id":101840309,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136279741
         }
     ],
     "wof:id":136279741,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496787064,
     "wof:name":"Societe Generale (sg)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

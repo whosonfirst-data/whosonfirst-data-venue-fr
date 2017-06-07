@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.316932,45.501125,4.316932,45.501125",
     "geom:latitude":45.501125,
     "geom:longitude":4.316932,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769549,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404363245,
+        85633147,
+        1108826389,
+        101769549,
+        136253037,
         102069555
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0do8KgvstKDQBuUeCqIeRw_45.501125_4.316932@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e623c97d05e9149343e0cfd73793704",
+    "wof:geomhash":"0f2ebc9bc96f9d7c59bb2c91a8402e48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069555,
+            "empire_id":136253037,
+            "localadmin_id":404363245,
             "locality_id":101769549,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152646577
         }
     ],
     "wof:id":152646577,
-    "wof:lastmodified":1473798479,
+    "wof:lastmodified":1496779864,
     "wof:name":"Novo Plast S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

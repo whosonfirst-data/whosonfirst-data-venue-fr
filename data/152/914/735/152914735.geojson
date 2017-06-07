@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.326109,45.222088,2.326109,45.222088",
     "geom:latitude":45.222088,
     "geom:longitude":2.326109,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769085,
-        85633147,
         85683517,
+        102191581,
+        404227829,
+        404375137,
+        85633147,
+        1108826389,
+        101769085,
+        136253037,
         102065891
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0dXCSNepyYmEfGoE7ZTAc4_45.222088_2.326109@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2fcb3f4f65a59dda5ff8001b67a51428",
+    "wof:geomhash":"0285b6a07721ed25cfec3ea01c7199ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065891,
+            "empire_id":136253037,
+            "localadmin_id":404375137,
             "locality_id":101769085,
+            "macrocounty_id":404227829,
+            "macroregion_id":1108826389,
             "region_id":85683517,
             "venue_id":152914735
         }
     ],
     "wof:id":152914735,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496806452,
     "wof:name":"Le Reveil De Mauriac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

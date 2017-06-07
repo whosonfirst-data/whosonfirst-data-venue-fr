@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.72353,46.398151,0.72353,46.398151",
     "geom:latitude":46.398151,
     "geom:longitude":0.72353,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767001,
-        85633147,
         85683185,
+        102191581,
+        404227985,
+        404405951,
+        85633147,
+        1108826385,
+        101767001,
+        136253037,
         102066897
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5sHtVvxJpXEGey6ZmiUgf8_46.398151_0.723530@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"577736d33400927ef2e4926e52e5ffa3",
+    "wof:geomhash":"d42caef1131171ac1a8b5b79d87c1880",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066897,
+            "empire_id":136253037,
+            "localadmin_id":404405951,
             "locality_id":101767001,
+            "macrocounty_id":404227985,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169097153
         }
     ],
     "wof:id":169097153,
-    "wof:lastmodified":1473798099,
+    "wof:lastmodified":1496776062,
     "wof:name":"Poitou Carburants S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

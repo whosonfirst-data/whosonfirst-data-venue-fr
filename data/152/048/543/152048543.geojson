@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.629025,48.763596,0.629025,48.763596",
     "geom:latitude":48.763596,
     "geom:longitude":0.629025,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762579,
-        85633147,
         85683527,
+        102191581,
+        85633147,
+        404228129,
+        1108826393,
+        101762579,
+        136253037,
         102072355
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2kBirjf49qFlpVWD7rq3iw_48.763596_0.629025@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81a1b92dac2c13f06a04b1c77f028fff",
+    "wof:geomhash":"80f16818660fc566f184d822def32587",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072355,
+            "empire_id":136253037,
             "locality_id":101762579,
+            "macrocounty_id":404228129,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152048543
         }
     ],
     "wof:id":152048543,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496787106,
     "wof:name":"Hotel Du Dauphin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

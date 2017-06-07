@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.978414,49.676243,4.978414,49.676243",
     "geom:latitude":49.676243,
     "geom:longitude":4.978414,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840259,
-        85633147,
         85683309,
+        102191581,
+        404228017,
+        404370735,
+        85633147,
+        1108826391,
+        101840259,
+        136253037,
         102069371
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1Ib88IW2zgBVldImvKEKEc_49.676243_4.978414@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3278f3ddf8dbcd55dbd646b6889e9226",
+    "wof:geomhash":"8236ca53b1943db5f78a785c6d024abb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069371,
+            "empire_id":136253037,
+            "localadmin_id":404370735,
             "locality_id":101840259,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152203863
         }
     ],
     "wof:id":152203863,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496784834,
     "wof:name":"La Frappe Ardennaise (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.164819,45.743046,3.164819,45.743046",
     "geom:latitude":45.743046,
     "geom:longitude":3.164819,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753255,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404425569,
+        85633147,
+        1108826389,
+        101753255,
+        136253037,
         102071741
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_77nO5UAJztWqyd8ymaDagv_45.743046_3.164819@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36bcba4114d000b807aafec2a24a187b",
+    "wof:geomhash":"d7c880c04ca396b39a482dbab66e9135",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071741,
+            "empire_id":136253037,
+            "localadmin_id":404425569,
             "locality_id":101753255,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152948851
         }
     ],
     "wof:id":152948851,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496780766,
     "wof:name":"La Routiere Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

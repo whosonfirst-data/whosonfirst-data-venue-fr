@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.694643,48.558426,7.694643,48.558426",
     "geom:latitude":48.558426,
     "geom:longitude":7.694643,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749759,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404409281,
+        85633147,
+        1108826391,
+        101749759,
+        136253037,
         102071231
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_74t608OhRSRoZwey3C1MTe_48.558426_7.694643@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3ecf8374bdea2c9331001d551e38df3e",
+    "wof:geomhash":"33e1e06162ee9e692bf5038ea1d64db2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071231,
+            "empire_id":136253037,
+            "localadmin_id":404409281,
             "locality_id":101749759,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":153015253
         }
     ],
     "wof:id":153015253,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496793182,
     "wof:name":"Tenovis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

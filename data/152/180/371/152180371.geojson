@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.563034,43.394562,-0.563034,43.394562",
     "geom:latitude":43.394562,
     "geom:longitude":-0.563034,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773903,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404393367,
+        85633147,
+        1108826385,
+        101773903,
+        136253037,
         102064789
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0NY5JsRW0vJ8Zltt7RoqKH_43.394562_-0.563034@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33432230e35d31a12337bb7b194ddef6",
+    "wof:geomhash":"37c7f86ffd8e8242c8bc3dd373aa75a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064789,
+            "empire_id":136253037,
+            "localadmin_id":404393367,
             "locality_id":101773903,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152180371
         }
     ],
     "wof:id":152180371,
-    "wof:lastmodified":1473798315,
+    "wof:lastmodified":1496797678,
     "wof:name":"Institut De Soudure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

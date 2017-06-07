@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.980662,48.394089,6.980662,48.394089",
     "geom:latitude":48.394089,
     "geom:longitude":6.980662,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763257,
-        85633147,
         85683223,
+        102191581,
+        404228179,
+        404405535,
+        85633147,
+        1108826391,
+        101763257,
+        136253037,
         102069211
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_5BUBVA2XMJ21mMT7u7EouI_48.394089_6.980662@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"72344b31d0b18b8805033458fd15751c",
+    "wof:geomhash":"d56a783fa3933678fe3b6ad3b59cdfed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069211,
+            "empire_id":136253037,
+            "localadmin_id":404405535,
             "locality_id":101763257,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":153017133
         }
     ],
     "wof:id":153017133,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496785226,
     "wof:name":"Ecotex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

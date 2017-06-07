@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.314523,45.556065,2.314523,45.556065",
     "geom:latitude":45.556065,
     "geom:longitude":2.314523,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769609,
-        85633147,
         85683209,
+        102191581,
+        85633147,
+        404228041,
+        1108826385,
+        101769609,
+        136253037,
         102072187
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4UENFsXxJsO5SKjzkV4yfM_45.556065_2.314523@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c163cd9beff9aaaa724508699f2317ad",
+    "wof:geomhash":"236faa49b377e217347a7baff2f74581",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072187,
+            "empire_id":136253037,
             "locality_id":101769609,
+            "macrocounty_id":404228041,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152072691
         }
     ],
     "wof:id":152072691,
-    "wof:lastmodified":1473798103,
+    "wof:lastmodified":1496776702,
     "wof:name":"Elidis Distribution Aquitaine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

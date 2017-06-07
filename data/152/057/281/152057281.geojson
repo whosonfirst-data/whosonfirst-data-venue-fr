@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.197837,46.154072,-1.197837,46.154072",
     "geom:latitude":46.154072,
     "geom:longitude":-1.197837,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1mnUQ3nhBzK4s9g0MS30gx_46.154072_-1.197837@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6164022e664192cd273889ef1e39572e",
+    "wof:geomhash":"96ad3dddbce17b7e608b216d0c3aed55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152057281
         }
     ],
     "wof:id":152057281,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496776319,
     "wof:name":"Rhodia Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

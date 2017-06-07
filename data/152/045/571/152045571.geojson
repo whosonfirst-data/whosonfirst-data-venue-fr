@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.192893,48.696175,6.192893,48.696175",
     "geom:latitude":48.696175,
     "geom:longitude":6.192893,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2BYeO159ZWzkrp6ymwuDEd_48.696175_6.192893@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e9dc9031af8e9e0656f78e6424ea8c4",
+    "wof:geomhash":"c8bbf060db1af1c549b45b0d9946cfaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152045571
         }
     ],
     "wof:id":152045571,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496786287,
     "wof:name":"Ecole D'architecture De Nancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

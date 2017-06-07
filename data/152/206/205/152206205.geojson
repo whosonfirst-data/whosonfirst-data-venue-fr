@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.807384,49.873383,4.807384,49.873383",
     "geom:latitude":49.873383,
     "geom:longitude":4.807384,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813737,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404395035,
+        85633147,
+        1108826391,
+        101813737,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4lLkPChncXh2nzhc41pcM3_49.873383_4.807384@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05bb1f917b4d7e2db1ce7a57dd76784e",
+    "wof:geomhash":"a875f15032f97e0b477a6ce173392a01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404395035,
             "locality_id":101813737,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152206205
         }
     ],
     "wof:id":152206205,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496784415,
     "wof:name":"Thevenin Et Cie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

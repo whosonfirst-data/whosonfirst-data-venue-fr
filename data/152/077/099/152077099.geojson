@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.716378,45.181084,0.716378,45.181084",
     "geom:latitude":45.181084,
     "geom:longitude":0.716378,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4GXhtYKvpXvbxCxpvQonqX_45.181084_0.716378@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"26486c8c6560fda043da4f7595a7e646",
+    "wof:geomhash":"faa2553284fc2ec373268fc90ac152e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152077099
         }
     ],
     "wof:id":152077099,
-    "wof:lastmodified":1473798121,
+    "wof:lastmodified":1496776268,
     "wof:name":"Otis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

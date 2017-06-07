@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.096696,49.445221,1.096696,49.445221",
     "geom:latitude":49.445221,
     "geom:longitude":1.096696,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_2yMl5t5xxG88rgFtkzRHkC_49.445221_1.096696@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4c0457f837461e2282a7feba2bcc581",
+    "wof:geomhash":"8540dfc161b06127e29831372f3c46b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152123239
         }
     ],
     "wof:id":152123239,
-    "wof:lastmodified":1473798283,
+    "wof:lastmodified":1496786887,
     "wof:name":"Chaussor Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

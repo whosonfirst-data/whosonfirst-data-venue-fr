@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.577311,47.79496,3.577311,47.79496",
     "geom:latitude":47.79496,
     "geom:longitude":3.577311,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_04zkQfMQvZduOXfTSeILry_47.794960_3.577311@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9d6f1213f0f07126e1ba6451710631c",
+    "wof:geomhash":"0f3bdf03ea681e68dbf4794f93731cba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136312021
         }
     ],
     "wof:id":136312021,
-    "wof:lastmodified":1473797975,
+    "wof:lastmodified":1496789280,
     "wof:name":"Boulangerie Patisserie Roy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

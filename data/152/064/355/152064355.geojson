@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.238446,47.624603,7.238446,47.624603",
     "geom:latitude":47.624603,
     "geom:longitude":7.238446,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765741,
-        85633147,
         85683381,
+        102191581,
+        404227733,
+        404374783,
+        85633147,
+        1108826391,
+        101765741,
+        136253037,
         102064281
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1fRfZTN3wfGtPJFOEqlGzF_47.624603_7.238446@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"12df4061d19f3c6208eb4a47aa5dd4b2",
+    "wof:geomhash":"9feb6d99e569008475c717c903bf4378",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064281,
+            "empire_id":136253037,
+            "localadmin_id":404374783,
             "locality_id":101765741,
+            "macrocounty_id":404227733,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152064355
         }
     ],
     "wof:id":152064355,
-    "wof:lastmodified":1473798073,
+    "wof:lastmodified":1496784184,
     "wof:name":"Editions Des Dernieres Nouvelles D'alsace (dna)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

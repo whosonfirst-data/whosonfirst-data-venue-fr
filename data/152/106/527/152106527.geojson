@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.61706,50.77776,1.61706,50.77776",
     "geom:latitude":50.77776,
     "geom:longitude":1.61706,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839589,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228131,
+        1108826399,
+        101839589,
+        136253037,
         102071807
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3947XfjrzjyGO4awQWewMM_50.777760_1.617060@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5795dd2208e79fdd1c5bacf52f3bc79d",
+    "wof:geomhash":"7ca06e7979ad7d6f83af7603c533c1ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071807,
+            "empire_id":136253037,
             "locality_id":101839589,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152106527
         }
     ],
     "wof:id":152106527,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496790748,
     "wof:name":"Acime Frame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

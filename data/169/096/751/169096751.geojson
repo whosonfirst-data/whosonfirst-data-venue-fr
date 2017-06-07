@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.068699,43.249596,0.068699,43.249596",
     "geom:latitude":43.249596,
     "geom:longitude":0.068699,
@@ -22,9 +23,13 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831671,
-        85633147,
         85683203,
+        102191581,
+        85633147,
+        404228139,
+        1108826387,
+        101831671,
+        136253037,
         102072535
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_0uiE6Z4zOaBlvxZ9BUmKKn_43.249596_0.068699@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3ff73cac331dcff6a3f3937ef7d096f9",
+    "wof:geomhash":"e2bd73ba4b77b1ee5e978419867f031b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072535,
+            "empire_id":136253037,
             "locality_id":101831671,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":169096751
         }
     ],
     "wof:id":169096751,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1496778119,
     "wof:name":"Point P La M\u00e9ridionale S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

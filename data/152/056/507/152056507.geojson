@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.594794,43.651764,0.594794,43.651764",
     "geom:latitude":43.651764,
     "geom:longitude":0.594794,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772589,
-        85633147,
         85683467,
+        102191581,
+        85633147,
+        404227655,
+        1108826387,
+        101772589,
+        136253037,
         102072401
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_4dAEgFts0AWvXEF2whg2aE_43.651764_0.594794@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"478e6a29e8123e400283cf73f3c00970",
+    "wof:geomhash":"7c8895e71950133b9a59c2c31d9a519d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072401,
+            "empire_id":136253037,
             "locality_id":101772589,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152056507
         }
     ],
     "wof:id":152056507,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496803660,
     "wof:name":"Agora Master",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

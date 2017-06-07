@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.162129,49.209221,1.162129,49.209221",
     "geom:latitude":49.209221,
     "geom:longitude":1.162129,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828377,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404359165,
+        85633147,
+        1108826393,
+        101828377,
+        136253037,
         102072247
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1Nc5FLtTfwxku8ZsfAYP1f_49.209221_1.162129@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cd9cf544cb8920a32fe83875e1f0cd73",
+    "wof:geomhash":"39595ef76504add2b792708ca4e415f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072247,
+            "empire_id":136253037,
+            "localadmin_id":404359165,
             "locality_id":101828377,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":168950721
         }
     ],
     "wof:id":168950721,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496787498,
     "wof:name":"Fabre Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

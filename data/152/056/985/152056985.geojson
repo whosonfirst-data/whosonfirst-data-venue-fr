@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.745062,50.392986,2.745062,50.392986",
     "geom:latitude":50.392986,
     "geom:longitude":2.745062,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812585,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404360299,
+        85633147,
+        1108826399,
+        101812585,
+        136253037,
         102071355
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7fB24Ul5zvnyHj5J7AtzIF_50.392986_2.745062@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"02393d7fae79e05a6f0bf2d68fcdb886",
+    "wof:geomhash":"364513e761a84bfa5352a3f9a6fcca8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071355,
+            "empire_id":136253037,
+            "localadmin_id":404360299,
             "locality_id":101812585,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152056985
         }
     ],
     "wof:id":152056985,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496792192,
     "wof:name":"Palchem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

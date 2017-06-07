@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.054129,48.900719,6.054129,48.900719",
     "geom:latitude":48.900719,
     "geom:longitude":6.054129,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828227,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404398655,
+        85633147,
+        1108826391,
+        101828227,
+        136253037,
         102068831
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3rXPW9r92JY7fQRFgVAjVm_48.900719_6.054129@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a2b37dd3409abb1bcc5c1f437d1205b",
+    "wof:geomhash":"65ec06f4a14fa480a28a3d89126166d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068831,
+            "empire_id":136253037,
+            "localadmin_id":404398655,
             "locality_id":101828227,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152045853
         }
     ],
     "wof:id":152045853,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496793973,
     "wof:name":"Externat Notre Dame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.101867,46.979736,0.101867,46.979736",
     "geom:latitude":46.979736,
     "geom:longitude":0.101867,
@@ -28,9 +29,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888885,
-        85633147,
         85683185,
+        102191581,
+        404227775,
+        404379057,
+        85633147,
+        1108826385,
+        101888885,
+        136253037,
         102066461
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_7lxCmZMVCEYXtX3JupcGZ3_46.979736_0.101867@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"52c53c8e346bd1ffa0283d8130645649",
+    "wof:geomhash":"6dc23459fee856b8fff271a3bca38ed2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066461,
+            "empire_id":136253037,
+            "localadmin_id":404379057,
             "locality_id":101888885,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152099287
         }
     ],
     "wof:id":152099287,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496775600,
     "wof:name":"S.a.r.l. De La Roche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

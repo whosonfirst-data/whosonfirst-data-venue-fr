@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.766149,49.645527,-1.766149,49.645527",
     "geom:latitude":49.645527,
     "geom:longitude":-1.766149,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900063,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404401593,
+        85633147,
+        1108826393,
+        101900063,
+        136253037,
         102064919
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_4m0O8jm07JIEy6briOn7QH_49.645527_-1.766149@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2514a01bcdabe51ebca4e26831ac253",
+    "wof:geomhash":"1a5d1847216f78935c1eb9785d20ef57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064919,
+            "empire_id":136253037,
+            "localadmin_id":404401593,
             "locality_id":101900063,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152103657
         }
     ],
     "wof:id":152103657,
-    "wof:lastmodified":1473798240,
+    "wof:lastmodified":1496787725,
     "wof:name":"Cherbourg Levage Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.313195,43.413681,1.313195,43.413681",
     "geom:latitude":43.413681,
     "geom:longitude":1.313195,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773941,
-        85633147,
         85683397,
+        102191581,
+        404227653,
+        404413845,
+        85633147,
+        1108826387,
+        101773941,
+        136253037,
         102068533
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4vZR5195m90TLT6hwqLxCh_43.413681_1.313195@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fcbf2172c58ffc89515aaf7e1eb99371",
+    "wof:geomhash":"5b70fb0e57d95804405dca7f03caf25c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068533,
+            "empire_id":136253037,
+            "localadmin_id":404413845,
             "locality_id":101773941,
+            "macrocounty_id":404227653,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152181079
         }
     ],
     "wof:id":152181079,
-    "wof:lastmodified":1473798310,
+    "wof:lastmodified":1496778060,
     "wof:name":"Les Polisseurs Reunis Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

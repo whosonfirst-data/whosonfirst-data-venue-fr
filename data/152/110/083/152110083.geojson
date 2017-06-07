@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.576497,49.640137,-1.576497,49.640137",
     "geom:latitude":49.640137,
     "geom:longitude":-1.576497,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840307,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404416031,
+        85633147,
+        1108826393,
+        101840307,
+        136253037,
         102071603
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_60OZYZa59GA6KVnwjv43yg_49.640137_-1.576497@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8cb3e5072289b151de1c8173fd25c81",
+    "wof:geomhash":"200badb491305d8ed7495276c99be376",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071603,
+            "empire_id":136253037,
+            "localadmin_id":404416031,
             "locality_id":101840307,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152110083
         }
     ],
     "wof:id":152110083,
-    "wof:lastmodified":1473798241,
+    "wof:lastmodified":1496803077,
     "wof:name":"Cherbourg Deco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

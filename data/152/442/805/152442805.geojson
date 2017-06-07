@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.318885,48.883629,2.318885,48.883629",
     "geom:latitude":48.883629,
     "geom:longitude":2.318885,
@@ -23,11 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873849,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068357,
-        85873849
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +41,19 @@
     "wof:geomhash":"d00fe1dc910e151c67a176d9773309c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873849,
             "region_id":85683497,
             "venue_id":152442805
         }
     ],
     "wof:id":152442805,
-    "wof:lastmodified":1473798412,
+    "wof:lastmodified":1491895457,
     "wof:name":"Escorte S\u00e9curit\u00e9 S.a.",
     "wof:parent_id":85873849,
     "wof:placetype":"venue",

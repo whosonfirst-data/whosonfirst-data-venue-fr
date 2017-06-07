@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.104887,49.387051,1.104887,49.387051",
     "geom:latitude":49.387051,
     "geom:longitude":1.104887,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751461,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751461,
+        136253037,
         102071971
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6AvoPTXJ0SkA4GqMEYhfUB_49.387051_1.104887@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc8404c3e7a917f8bd5c5a8655084f6f",
+    "wof:geomhash":"0e496f67227e8bf218c51cd671d8c542",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071971,
+            "empire_id":136253037,
             "locality_id":101751461,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136274727
         }
     ],
     "wof:id":136274727,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496804734,
     "wof:name":"Atem Sarl",
-    "wof:parent_id":101751461,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

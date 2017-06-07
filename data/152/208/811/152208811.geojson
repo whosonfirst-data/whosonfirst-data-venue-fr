@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.623465,50.52438,2.623465,50.52438",
     "geom:latitude":50.52438,
     "geom:longitude":2.623465,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840483,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404400657,
+        85633147,
+        1108826399,
+        101840483,
+        136253037,
         102066517
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5HrLAzJ7xJUrXIVNVVkM5R_50.524380_2.623465@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"59952106905b904a1edab88d3847c5ef",
+    "wof:geomhash":"cf5d94aaaf37b27d9595145fd4592ada",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066517,
+            "empire_id":136253037,
+            "localadmin_id":404400657,
             "locality_id":101840483,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152208811
         }
     ],
     "wof:id":152208811,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496791282,
     "wof:name":"Ceramiques De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.55417,46.076881,6.55417,46.076881",
     "geom:latitude":46.076881,
     "geom:longitude":6.55417,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829019,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404418205,
+        85633147,
+        1108826389,
+        101829019,
+        136253037,
         102065721
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7XTFkMCR3mccIk4ikFMRu2_46.076881_6.554170@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c752748bebd7688286612d6e465a97b1",
+    "wof:geomhash":"307d718a09fc3b6e9ee142d69a34a3a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065721,
+            "empire_id":136253037,
+            "localadmin_id":404418205,
             "locality_id":101829019,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152295733
         }
     ],
     "wof:id":152295733,
-    "wof:lastmodified":1473798356,
+    "wof:lastmodified":1496781565,
     "wof:name":"Bacchetti Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

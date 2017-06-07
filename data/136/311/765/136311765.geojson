@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.21823,46.14349,-0.21823,46.14349",
     "geom:latitude":46.14349,
     "geom:longitude":-0.21823,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766721,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404361025,
+        85633147,
+        1108826385,
+        101766721,
+        136253037,
         102065131
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6OarGwcTG08Jw4QI7Pwojy_46.143490_-0.218230@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"480fca94bd6672563d4dcb0383147fab",
+    "wof:geomhash":"56b4677706f9e3d9d3c4511e15c88882",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065131,
+            "empire_id":136253037,
+            "localadmin_id":404361025,
             "locality_id":101766721,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136311765
         }
     ],
     "wof:id":136311765,
-    "wof:lastmodified":1473798021,
+    "wof:lastmodified":1496775418,
     "wof:name":"Baillon Et Cie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

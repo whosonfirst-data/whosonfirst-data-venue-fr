@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.102365,50.382454,3.102365,50.382454",
     "geom:latitude":50.382454,
     "geom:longitude":3.102365,
@@ -34,28 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840657,
-        85633147,
         85683445,
-        102068465
+        102191581,
+        85633147,
+        404228125,
+        1108826399,
+        101840657,
+        136253037,
+        102071911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rNEuYrHkPKyPju2MG7LAV_50.382454_3.102365@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"499be839dd5b8b766071f373e3f812d2",
+    "wof:geomhash":"c706e84b37bb179e70757c65da18e09d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068465,
+            "county_id":102071911,
+            "empire_id":136253037,
             "locality_id":101840657,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152055593
         }
     ],
     "wof:id":152055593,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496790694,
     "wof:name":"Societe Des Gaz Industriels De France (sogif)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

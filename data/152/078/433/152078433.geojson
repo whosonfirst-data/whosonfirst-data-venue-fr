@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.670348,46.020035,0.670348,46.020035",
     "geom:latitude":46.020035,
     "geom:longitude":0.670348,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766283,
-        85633147,
         85683437,
+        102191581,
+        85633147,
+        404228035,
+        1108826385,
+        101766283,
+        136253037,
         102072507
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1wS6isFSYTHxa9nAl96twA_46.020035_0.670348@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b76bf1454db2bce7e21fbf96c73f025",
+    "wof:geomhash":"74f31098281a123269ca72b87570f244",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072507,
+            "empire_id":136253037,
             "locality_id":101766283,
+            "macrocounty_id":404228035,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152078433
         }
     ],
     "wof:id":152078433,
-    "wof:lastmodified":1473798135,
+    "wof:lastmodified":1496776566,
     "wof:name":"Legrand Sa Fourniture Electrique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

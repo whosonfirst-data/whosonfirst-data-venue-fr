@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.384772,43.567734,1.384772,43.567734",
     "geom:latitude":43.567734,
     "geom:longitude":1.384772,
@@ -37,28 +38,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kk8ZAelDTvoCWywx7qYuY_43.567734_1.384772@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab0d3bc022d4d2da5876a69517d2d172",
+    "wof:geomhash":"46bddc0b9d973e1a890516fcd0fc28dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":152104969
         }
     ],
     "wof:id":152104969,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496803719,
     "wof:name":"Thyssen Ascenseurs",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

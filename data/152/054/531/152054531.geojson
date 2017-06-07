@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.148454,49.436897,1.148454,49.436897",
     "geom:latitude":49.436897,
     "geom:longitude":1.148454,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750189,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404377761,
+        85633147,
+        1108826393,
+        101750189,
+        136253037,
         102066751
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3VvtnwMzHfF0lIjMb4JOBH_49.436897_1.148454@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23cd462880bfe6576f859d7d4f2c1a3d",
+    "wof:geomhash":"3bca71d18bdae7ac8ba2db611bac66a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066751,
+            "empire_id":136253037,
+            "localadmin_id":404377761,
             "locality_id":101750189,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152054531
         }
     ],
     "wof:id":152054531,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496804867,
     "wof:name":"Emeraude Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

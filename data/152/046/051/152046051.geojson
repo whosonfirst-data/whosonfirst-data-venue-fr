@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.769973,45.775471,4.769973,45.775471",
     "geom:latitude":45.775471,
     "geom:longitude":4.769973,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0tsQ9pRKxp3Y2660Tod8x6_45.775471_4.769973@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"291fbaa1a1816842ae192ab7617e4fbe",
+    "wof:geomhash":"f0617bd204a2249ade90b3b7ebf1297b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152046051
         }
     ],
     "wof:id":152046051,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496783453,
     "wof:name":"Institut Paul Bocuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

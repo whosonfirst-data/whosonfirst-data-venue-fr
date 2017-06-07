@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.779462,49.408123,2.779462,49.408123",
     "geom:latitude":49.408123,
     "geom:longitude":2.779462,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842415,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842415,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3WOzdkgVkKeezsiA9d6bQG_49.408123_2.779462@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d2512d1caef99a92c8aaa85f783534a",
+    "wof:geomhash":"2c0581f82bc2b3a0d2f05cf560255fd1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842415,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153079113
         }
     ],
     "wof:id":153079113,
-    "wof:lastmodified":1473797968,
+    "wof:lastmodified":1496790745,
     "wof:name":"Asturienne P\u00e9namet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.195891,48.696247,6.195891,48.696247",
     "geom:latitude":48.696247,
     "geom:longitude":6.195891,
@@ -22,9 +23,13 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_566eZUcqyTvbQAz20anOLG_48.696247_6.195891@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ca14c2dfc8c5c86b8d22f2847d46f31",
+    "wof:geomhash":"c28f53895df8e3d50b2e58bac3810317",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":168976777
         }
     ],
     "wof:id":168976777,
-    "wof:lastmodified":1473798191,
+    "wof:lastmodified":1496785633,
     "wof:name":"Grands Moulins De Paris, Usine De Nancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

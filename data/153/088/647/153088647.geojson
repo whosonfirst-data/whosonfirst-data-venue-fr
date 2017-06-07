@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.033333,45.780098,3.033333,45.780098",
     "geom:latitude":45.780098,
     "geom:longitude":3.033333,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842931,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404348279,
+        85633147,
+        1108826389,
+        101842931,
+        136253037,
         102071777
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5y5MPOlgrlBqzGmC73fWFG_45.780098_3.033333@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7fc8fb28c284c8752c76ecc28df7b938",
+    "wof:geomhash":"5dffd23e515e411c9b1571d569d0e305",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071777,
+            "empire_id":136253037,
+            "localadmin_id":404348279,
             "locality_id":101842931,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":153088647
         }
     ],
     "wof:id":153088647,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496781216,
     "wof:name":"B.g.c. Toscane S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

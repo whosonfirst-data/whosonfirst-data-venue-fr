@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.180586,48.694473,6.180586,48.694473",
     "geom:latitude":48.694473,
     "geom:longitude":6.180586,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6ibxE4RPQkjQc6PULzMv3n_48.694473_6.180586@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a8431d52527fec6a6b8745cdf60e5f9",
+    "wof:geomhash":"685fad0c4992950256154a0eb9982cff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136279803
         }
     ],
     "wof:id":136279803,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496785120,
     "wof:name":"Societe Nanceienne Varin Bernier (snvb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

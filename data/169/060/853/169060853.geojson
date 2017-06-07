@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.42848,45.947559,4.42848,45.947559",
     "geom:latitude":45.947559,
     "geom:longitude":4.42848,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893357,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404351245,
+        85633147,
+        1108826389,
+        101893357,
+        136253037,
         102069669
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0lQTkrGRnHppzouOJ6TF40_45.947559_4.428480@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e048dfcc55eb5cc1ab2d932921ef8fb",
+    "wof:geomhash":"cf307a896615f5db89fd9447a75a7ffa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069669,
+            "empire_id":136253037,
+            "localadmin_id":404351245,
             "locality_id":101893357,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169060853
         }
     ],
     "wof:id":169060853,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496779862,
     "wof:name":"Michel Photogravure Industrie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

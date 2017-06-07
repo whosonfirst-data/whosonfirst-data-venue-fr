@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.414864,49.378986,2.414864,49.378986",
     "geom:latitude":49.378986,
     "geom:longitude":2.414864,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842411,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404373827,
+        85633147,
+        1108826399,
+        101842411,
+        136253037,
         102065713
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0Nj6cNRl2MgdjZR9uV1wHH_49.378986_2.414864@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2e2f673e3aa59f3ec319a107469711e",
+    "wof:geomhash":"0455052d918fb38fd41c91dd18c7a78b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065713,
+            "empire_id":136253037,
+            "localadmin_id":404373827,
             "locality_id":101842411,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136293797
         }
     ],
     "wof:id":136293797,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496791248,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De L'oise (crcamo)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

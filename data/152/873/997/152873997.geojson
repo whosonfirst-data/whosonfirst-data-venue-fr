@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.37571,49.764946,3.37571,49.764946",
     "geom:latitude":49.764946,
     "geom:longitude":3.37571,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899797,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404369137,
+        85633147,
+        1108826399,
+        101899797,
+        136253037,
         102068053
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7JnKWePAnH4vWPreg6YqNp_49.764946_3.375710@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2cbb0c7c86b1c146376139e22430d5c2",
+    "wof:geomhash":"3fe0ed5a14b71e2dd39da92c5799db81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068053,
+            "empire_id":136253037,
+            "localadmin_id":404369137,
             "locality_id":101899797,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152873997
         }
     ],
     "wof:id":152873997,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496790154,
     "wof:name":"Smurfit Limousin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

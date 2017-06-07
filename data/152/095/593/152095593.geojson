@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.486804,44.856113,0.486804,44.856113",
     "geom:latitude":44.856113,
     "geom:longitude":0.486804,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_7mzJFJdj1FI9ZnYDtqnS3g_44.856113_0.486804@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2abe2b3cd33988f57209e09822905510",
+    "wof:geomhash":"0b9a762c02ebd715015373e56577e8ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152095593
         }
     ],
     "wof:id":152095593,
-    "wof:lastmodified":1473798202,
+    "wof:lastmodified":1496775706,
     "wof:name":"Etablissements Danjot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

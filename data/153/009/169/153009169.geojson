@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.376191,46.609844,0.376191,46.609844",
     "geom:latitude":46.609844,
     "geom:longitude":0.376191,
@@ -29,16 +30,37 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101749519,
+        136253037,
+        102068477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69W97pt55BZIsb82MMmYJO_46.609844_0.376191@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1ebe57652b28fea9bb0edb7f821c6eae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"221cb39b51b9b0883689c6ff40bee396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068477,
+            "empire_id":136253037,
+            "locality_id":101749519,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
+            "region_id":85683185,
+            "venue_id":153009169
+        }
+    ],
     "wof:id":153009169,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496775862,
     "wof:name":"Atelier M'prim 86 Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

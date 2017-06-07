@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.724942,45.412209,3.724942,45.412209",
     "geom:latitude":45.412209,
     "geom:longitude":3.724942,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769567,
-        85633147,
         85683471,
+        102191581,
+        404227725,
+        404354023,
+        85633147,
+        1108826389,
+        101769567,
+        136253037,
         102064867
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5RfRrmsobc8ofbivXzMn0s_45.412209_3.724942@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6e6cb5602af47674a340ee4dbb9bcce9",
+    "wof:geomhash":"51381c54a08271c5df5ef32df94f9821",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064867,
+            "empire_id":136253037,
+            "localadmin_id":404354023,
             "locality_id":101769567,
+            "macrocounty_id":404227725,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152459263
         }
     ],
     "wof:id":152459263,
-    "wof:lastmodified":1473798414,
+    "wof:lastmodified":1496806399,
     "wof:name":"Etablissements Veyri\u00e8re S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

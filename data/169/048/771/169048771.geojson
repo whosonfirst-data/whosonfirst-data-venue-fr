@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.271922,49.902287,2.271922,49.902287",
     "geom:latitude":49.902287,
     "geom:longitude":2.271922,
@@ -22,9 +23,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_0zMPkQgydjSdZdF9H7lIu1_49.902287_2.271922@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d5540c608dd771c548dff5a330d5011d",
+    "wof:geomhash":"f6916dc2f1d39ebab6c1dc04c5183c83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169048771
         }
     ],
     "wof:id":169048771,
-    "wof:lastmodified":1473798025,
+    "wof:lastmodified":1496790467,
     "wof:name":"Magneti Marelli France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

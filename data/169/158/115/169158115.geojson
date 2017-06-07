@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.253735,46.19141,6.253735,46.19141",
     "geom:latitude":46.19141,
     "geom:longitude":6.253735,
@@ -22,28 +23,38 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5niHufxux9PPR164Svh7wB_46.191410_6.253735@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73aa6c7bef45e495a64cf9a147886e59",
+    "wof:geomhash":"fdf0fca0be3fc17b11827087ae646c20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":169158115
         }
     ],
     "wof:id":169158115,
-    "wof:lastmodified":1473798177,
+    "wof:lastmodified":1496780979,
     "wof:name":"Sicpa S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.334475,50.30698,3.334475,50.30698",
     "geom:latitude":50.30698,
     "geom:longitude":3.334475,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840579,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404395927,
+        85633147,
+        1108826399,
+        101840579,
+        136253037,
         102066395
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5feEBDLXYnWdbv3oiLFk0s_50.306980_3.334475@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23b60629cbf8469db7868571398bb68d",
+    "wof:geomhash":"2d4fa5d7dbbdb13e075dc07ce2b568b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066395,
+            "empire_id":136253037,
+            "localadmin_id":404395927,
             "locality_id":101840579,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152851009
         }
     ],
     "wof:id":152851009,
-    "wof:lastmodified":1473798546,
+    "wof:lastmodified":1496790320,
     "wof:name":"Warin Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

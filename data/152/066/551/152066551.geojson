@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905809,45.734241,4.905809,45.734241",
     "geom:latitude":45.734241,
     "geom:longitude":4.905809,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749377,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101749377,
+        136253037,
         102070519
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_12CU58asYqCzANetrxvcA7_45.734241_4.905809@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c29c7213acdb014be12beb19bdd73fb6",
+    "wof:geomhash":"52091c630a056769a50622730f55f2d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070519,
+            "empire_id":136253037,
             "locality_id":101749377,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152066551
         }
     ],
     "wof:id":152066551,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1496780173,
     "wof:name":"Etablissements Chazal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

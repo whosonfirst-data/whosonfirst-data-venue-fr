@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.662971,44.861404,-0.662971,44.861404",
     "geom:latitude":44.861404,
     "geom:longitude":-0.662971,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749349,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404396121,
+        85633147,
+        1108826385,
+        101749349,
+        136253037,
         102065291
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2BFo4Gjuiesn6whdq9b3HP_44.861404_-0.662971@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c8c32e92e378b15169ce23a415693fc9",
+    "wof:geomhash":"6a11b07a3bcef41ff3f92383c88e175f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065291,
+            "empire_id":136253037,
+            "localadmin_id":404396121,
             "locality_id":101749349,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152281149
         }
     ],
     "wof:id":152281149,
-    "wof:lastmodified":1473798352,
+    "wof:lastmodified":1496776296,
     "wof:name":"Ateliers Serres S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

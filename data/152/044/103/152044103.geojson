@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.637144,45.298046,5.637144,45.298046",
     "geom:latitude":45.298046,
     "geom:longitude":5.637144,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770529,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404413057,
+        85633147,
+        1108826389,
+        101770529,
+        136253037,
         102071351
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7ives692BT5o3sAJLRk7MW_45.298046_5.637144@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"154a0f07675dd7fd454723f558070a5f",
+    "wof:geomhash":"3e798372d77588dbf0165b4bfc784b67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071351,
+            "empire_id":136253037,
+            "localadmin_id":404413057,
             "locality_id":101770529,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152044103
         }
     ],
     "wof:id":152044103,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496801650,
     "wof:name":"Mairie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

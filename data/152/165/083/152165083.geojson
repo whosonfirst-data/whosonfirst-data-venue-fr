@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.962307,46.576389,5.962307,46.576389",
     "geom:latitude":46.576389,
     "geom:longitude":5.962307,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766655,
-        85633147,
         85683173,
+        102191581,
+        404228085,
+        404388623,
+        85633147,
+        1108826395,
+        101766655,
+        136253037,
         102069553
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6zH3aHLDCBUhNquSJvV9Da_46.576389_5.962307@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73f1742b0093f3f52ad4f216d2a15790",
+    "wof:geomhash":"71666bb03b9d9d61e8af07aa6879e3a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069553,
+            "empire_id":136253037,
+            "localadmin_id":404388623,
             "locality_id":101766655,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152165083
         }
     ],
     "wof:id":152165083,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496788804,
     "wof:name":"Etablissements Jean Cottez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

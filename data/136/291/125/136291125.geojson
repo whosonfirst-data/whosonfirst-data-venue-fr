@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.188755,43.887516,4.188755,43.887516",
     "geom:latitude":43.887516,
     "geom:longitude":4.188755,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842775,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404402719,
+        85633147,
+        1108826387,
+        101842775,
+        136253037,
         102069825
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_40JCgpOcVIGtQVkQZw6HIh_43.887516_4.188755@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f01bbd560058c91eaf0b83da924f414e",
+    "wof:geomhash":"45a8c307df43cf891d55e00f938cb2ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069825,
+            "empire_id":136253037,
+            "localadmin_id":404402719,
             "locality_id":101842775,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136291125
         }
     ],
     "wof:id":136291125,
-    "wof:lastmodified":1473797889,
+    "wof:lastmodified":1496799435,
     "wof:name":"Duc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

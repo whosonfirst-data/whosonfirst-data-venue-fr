@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.579554,44.87677,-0.579554,44.87677",
     "geom:latitude":44.87677,
     "geom:longitude":-0.579554,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qV3ezVEng1K8ZJ2eghbW4_44.876770_-0.579554@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07922ce17dba56e81057777f040c002a",
+    "wof:geomhash":"288bb06bdcdc3010c36d7a1cfee8e6c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":168897049
         }
     ],
     "wof:id":168897049,
-    "wof:lastmodified":1473798050,
+    "wof:lastmodified":1496777412,
     "wof:name":"Dauphin S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.82199,49.418652,2.82199,49.418652",
     "geom:latitude":49.418652,
     "geom:longitude":2.82199,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842439,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842439,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_7gC80iltuydRAYlPT7Noku_49.418652_2.821990@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15f2bfd13998c5e2411e00538208cf1c",
+    "wof:geomhash":"01fcf1b7f2f518a007bab2b4c3424dba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842439,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152918283
         }
     ],
     "wof:id":152918283,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496791835,
     "wof:name":"Societe De Presse De L'oise Spo (spo)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

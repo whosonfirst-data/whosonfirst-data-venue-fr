@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.639779,44.77594,-0.639779,44.77594",
     "geom:latitude":44.77594,
     "geom:longitude":-0.639779,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749353,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
         102071749
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_4KcNR0WJmEpz6g7dU4wfzP_44.775940_-0.639779@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eadc99eff336be8497f21580bf5fce7d",
+    "wof:geomhash":"cc76a5d1b39088531076139bf70da93c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
             "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152076395
         }
     ],
     "wof:id":152076395,
-    "wof:lastmodified":1473798135,
+    "wof:lastmodified":1496776336,
     "wof:name":"Gestamatic Sarl (gst)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

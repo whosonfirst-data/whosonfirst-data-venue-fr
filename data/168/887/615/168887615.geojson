@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.266599,45.823044,1.266599,45.823044",
     "geom:latitude":45.823044,
     "geom:longitude":1.266599,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0t7TB2z1ZR8MJX9a1ipjWD_45.823044_1.266599@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f6d7dec1bf7dfed0d4d2d3c3fda3da10",
+    "wof:geomhash":"ef8470a292094887f7c933750b21fb67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":168887615
         }
     ],
     "wof:id":168887615,
-    "wof:lastmodified":1473798061,
+    "wof:lastmodified":1496777466,
     "wof:name":"Couperie Villemaud S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

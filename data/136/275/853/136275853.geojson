@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.65007,50.003208,2.65007,50.003208",
     "geom:latitude":50.003208,
     "geom:longitude":2.65007,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812543,
-        85633147,
         85683363,
+        102191581,
+        404228267,
+        404357837,
+        85633147,
+        1108826399,
+        101812543,
+        136253037,
         102065399
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7Iue1Xg1YObTcqKT4DLCyq_50.003208_2.650070@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2f6ae6f5d4ccf36678435393c36f8d73",
+    "wof:geomhash":"f5842f72cf026c827032c632bdbab824",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065399,
+            "empire_id":136253037,
+            "localadmin_id":404357837,
             "locality_id":101812543,
+            "macrocounty_id":404228267,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136275853
         }
     ],
     "wof:id":136275853,
-    "wof:lastmodified":1473797943,
+    "wof:lastmodified":1496792272,
     "wof:name":"Caisse Regional E De Credit Agricole Mutuel De La Somme",
-    "wof:parent_id":101812543,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

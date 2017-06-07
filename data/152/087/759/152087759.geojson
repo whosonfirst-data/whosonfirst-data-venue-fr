@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.881744,43.581722,3.881744,43.581722",
     "geom:latitude":43.581722,
     "geom:longitude":3.881744,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_3WmSsEO1mGRWaVEI6latJT_43.581722_3.881744@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d05c3cbfe0431757bdc27458f6852aa",
+    "wof:geomhash":"56fe18a965fa04ae1121cb3bbb3a3669",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152087759
         }
     ],
     "wof:id":152087759,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496778711,
     "wof:name":"Porcher Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

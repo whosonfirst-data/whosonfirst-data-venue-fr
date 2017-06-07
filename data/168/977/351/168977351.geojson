@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.878773,45.602402,5.878773,45.602402",
     "geom:latitude":45.602402,
     "geom:longitude":5.878773,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749331,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404407379,
+        85633147,
+        1108826389,
+        101749331,
+        136253037,
         102067843
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6kJclWS7AI9Dzm6a8AvgWY_45.602402_5.878773@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5cdb29711fe76e71101381575296d323",
+    "wof:geomhash":"6ec15f0320968699d3ef2eb0a8e8cd22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067843,
+            "empire_id":136253037,
+            "localadmin_id":404407379,
             "locality_id":101749331,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":168977351
         }
     ],
     "wof:id":168977351,
-    "wof:lastmodified":1473798174,
+    "wof:lastmodified":1496779321,
     "wof:name":"Graphique Productions S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

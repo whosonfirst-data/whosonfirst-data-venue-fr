@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.500295,45.673035,0.500295,45.673035",
     "geom:latitude":45.673035,
     "geom:longitude":0.500295,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768081,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404363813,
+        85633147,
+        1108826385,
+        101768081,
+        136253037,
         102067747
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2npTQA8v3kIWJI1L07PJkH_45.673035_0.500295@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c509d4a3ad07fe823f169eed4229377",
+    "wof:geomhash":"3820095cf67492cc1aa60562460fb299",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067747,
+            "empire_id":136253037,
+            "localadmin_id":404363813,
             "locality_id":101768081,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152085247
         }
     ],
     "wof:id":152085247,
-    "wof:lastmodified":1473798127,
+    "wof:lastmodified":1496775926,
     "wof:name":"Toison D'or",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.517305,49.870827,2.517305,49.870827",
     "geom:latitude":49.870827,
     "geom:longitude":2.517305,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812541,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404408729,
+        85633147,
+        1108826399,
+        101812541,
+        136253037,
         102067653
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_288LszTOBWv3RvlQXOPTth_49.870827_2.517305@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd779fc23055e6b943363ab2475939ba",
+    "wof:geomhash":"fb6de7fe3031336171698e1dc442f469",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067653,
+            "empire_id":136253037,
+            "localadmin_id":404408729,
             "locality_id":101812541,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152063265
         }
     ],
     "wof:id":152063265,
-    "wof:lastmodified":1473798061,
+    "wof:lastmodified":1496795326,
     "wof:name":"Tricotage Du Hamel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

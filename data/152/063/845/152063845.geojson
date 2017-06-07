@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.40635,50.689606,2.40635,50.689606",
     "geom:latitude":50.689606,
     "geom:longitude":2.40635,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811281,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404417319,
+        85633147,
+        1108826399,
+        101811281,
+        136253037,
         102069745
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0SsPFU42yYvU9vqqarHtkt_50.689606_2.406350@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0befa38810bf275b4d954f54684f41a9",
+    "wof:geomhash":"d68f636f0ea2406d1e2a97b41d0c1c84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069745,
+            "empire_id":136253037,
+            "localadmin_id":404417319,
             "locality_id":101811281,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152063845
         }
     ],
     "wof:id":152063845,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496796810,
     "wof:name":"Mpp Boutons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

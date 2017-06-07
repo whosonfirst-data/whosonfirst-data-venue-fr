@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.181538,45.753502,5.181538,45.753502",
     "geom:latitude":45.753502,
     "geom:longitude":5.181538,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830549,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404389637,
+        85633147,
+        1108826389,
+        101830549,
+        136253037,
         102071423
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7PVxAJrisG5SekXRN2H2jn_45.753502_5.181538@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c3aee5e12f71ec8b5d5465ba4c95f829",
+    "wof:geomhash":"d4aef150f4a709d666b241f451e73cbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071423,
+            "empire_id":136253037,
+            "localadmin_id":404389637,
             "locality_id":101830549,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152188187
         }
     ],
     "wof:id":152188187,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1496781183,
     "wof:name":"Sa Des Etablissements Gindre Duchavany",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

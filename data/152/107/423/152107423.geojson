@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84395,46.785625,4.84395,46.785625",
     "geom:latitude":46.785625,
     "geom:longitude":4.84395,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752995,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404416037,
+        85633147,
+        1108826395,
+        101752995,
+        136253037,
         102072317
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_64QwwCPd3Z3H2KbIXv7lfE_46.785625_4.843950@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"94968885108e9b7845fa34a89956aaf2",
+    "wof:geomhash":"021f429fe8e7e22fa2c6d22c1c4724cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072317,
+            "empire_id":136253037,
+            "localadmin_id":404416037,
             "locality_id":101752995,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152107423
         }
     ],
     "wof:id":152107423,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496788514,
     "wof:name":"Laboratoire De Prothese Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

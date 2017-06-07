@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.277315,45.562119,4.277315,45.562119",
     "geom:latitude":45.562119,
     "geom:longitude":4.277315,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830771,
-        85633147,
         85683377,
+        102191581,
+        404227677,
+        404376063,
+        85633147,
+        1108826389,
+        101830771,
+        136253037,
         102068539
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6IJHxXrwBKC28DTPyDLYLq_45.562119_4.277315@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"646af460871837b13c8de21367515803",
+    "wof:geomhash":"88278781c44865bbf55a125620134192",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068539,
+            "empire_id":136253037,
+            "localadmin_id":404376063,
             "locality_id":101830771,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152956993
         }
     ],
     "wof:id":152956993,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496780153,
     "wof:name":"Ets Bercet Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

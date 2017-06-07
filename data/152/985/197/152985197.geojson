@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.262393,44.558521,-0.262393,44.558521",
     "geom:latitude":44.558521,
     "geom:longitude":-0.262393,
@@ -29,9 +30,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830747,
-        85633147,
         85683243,
+        102191581,
+        404228071,
+        404372693,
+        85633147,
+        1108826385,
+        101830747,
+        136253037,
         102069547
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_6oWsDa59TQuEAl6S3zd2bL_44.558521_-0.262393@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"661fc56da3bc0f4376584e39eb56aac9",
+    "wof:geomhash":"e8ecaa9ebb3d54f83460a2d9e127710b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069547,
+            "empire_id":136253037,
+            "localadmin_id":404372693,
             "locality_id":101830747,
+            "macrocounty_id":404228071,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152985197
         }
     ],
     "wof:id":152985197,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496777304,
     "wof:name":"Saphore Pneus Point S Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

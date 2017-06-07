@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.293807,45.111111,4.293807,45.111111",
     "geom:latitude":45.111111,
     "geom:longitude":4.293807,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770465,
-        85633147,
         85683413,
+        102191581,
+        404228091,
+        404348093,
+        85633147,
+        1108826389,
+        101770465,
+        136253037,
         102069385
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0G8ieAaLrrxTYEXSwqkT7Z_45.111111_4.293807@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"689a009cb5ae8ba6111fd1c3f1916f98",
+    "wof:geomhash":"61325a5df54d6505b50852d4315c6e30",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069385,
+            "empire_id":136253037,
+            "localadmin_id":404348093,
             "locality_id":101770465,
+            "macrocounty_id":404228091,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":168861205
         }
     ],
     "wof:id":168861205,
-    "wof:lastmodified":1473797967,
+    "wof:lastmodified":1496780298,
     "wof:name":"Carri\u00e8res Faurie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

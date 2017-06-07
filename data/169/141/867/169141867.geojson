@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.707904,45.199837,5.707904,45.199837",
     "geom:latitude":45.199837,
     "geom:longitude":5.707904,
@@ -22,9 +23,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_2SgOSNZc8smux4tYag1NRJ_45.199837_5.707904@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"65261fe469abf2df42cc70185259c741",
+    "wof:geomhash":"2fe787baa32a52c10ee51b9d4e4942d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169141867
         }
     ],
     "wof:id":169141867,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496801829,
     "wof:name":"S.t.m.i. Grenoble - Soci\u00e9t\u00e9 Des Techniques En Milieu Ionisant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

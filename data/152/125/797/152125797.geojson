@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.724107,46.015297,4.724107,46.015297",
     "geom:latitude":46.015297,
     "geom:longitude":4.724107,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748981,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404392499,
+        85633147,
+        1108826389,
+        101748981,
+        136253037,
         102071653
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7L9mWmqDbWSoh5KTSYyxhF_46.015297_4.724107@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6621aec47de2e58901323df2cc67c5e8",
+    "wof:geomhash":"501cc2d799d54c8499b6c518592e90a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071653,
+            "empire_id":136253037,
+            "localadmin_id":404392499,
             "locality_id":101748981,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152125797
         }
     ],
     "wof:id":152125797,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496779648,
     "wof:name":"Appareillage Industriel Et Scientifique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

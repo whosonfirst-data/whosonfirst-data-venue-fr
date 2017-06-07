@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.606654,50.721752,1.606654,50.721752",
     "geom:latitude":50.721752,
     "geom:longitude":1.606654,
@@ -34,30 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54KYR8vaL2qW2rDgJ5mR14_50.721752_1.606654@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"507bede32af6621e00d39008896a6f05",
+    "wof:geomhash":"41d992b2c978d4f770f85f980b1571a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":136275545
         }
     ],
     "wof:id":136275545,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496790753,
     "wof:name":"Cabinet Michel Duisant Sa",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

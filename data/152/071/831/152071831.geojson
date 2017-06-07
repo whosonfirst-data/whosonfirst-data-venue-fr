@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.00477,49.05476,4.00477,49.05476",
     "geom:latitude":49.05476,
     "geom:longitude":4.00477,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762643,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404409659,
+        85633147,
+        1108826391,
+        101762643,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4rPBKJYxSYPKau7EiH3PDp_49.054760_4.004770@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0cc8d4ce15fb5370e4fef0e452a5e0c",
+    "wof:geomhash":"e6002a637aeecfc392b47e9b94cb707b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404409659,
             "locality_id":101762643,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071831
         }
     ],
     "wof:id":152071831,
-    "wof:lastmodified":1473798114,
+    "wof:lastmodified":1496805765,
     "wof:name":"Champagne De Meric Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

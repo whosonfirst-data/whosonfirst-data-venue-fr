@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.256784,43.341354,-0.256784,43.341354",
     "geom:latitude":43.341354,
     "geom:longitude":-0.256784,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773895,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404365479,
+        85633147,
+        1108826385,
+        101773895,
+        136253037,
         102068661
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1mUWuXn1u0l1OQYx0gj7ys_43.341354_-0.256784@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"35a7177b7f3f217634e0b77bd8f3287d",
+    "wof:geomhash":"d0127db864e0e576277016867d162000",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068661,
+            "empire_id":136253037,
+            "localadmin_id":404365479,
             "locality_id":101773895,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136313031
         }
     ],
     "wof:id":136313031,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496798442,
     "wof:name":"Sarl Bergouli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

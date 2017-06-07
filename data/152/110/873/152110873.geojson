@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.376525,51.035416,2.376525,51.035416",
     "geom:latitude":51.035416,
     "geom:longitude":2.376525,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750237,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_30geKGAcXtUfptcdOjVYdU_51.035416_2.376525@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a8ba686d07952fd8d95994c51b28547",
+    "wof:geomhash":"8bb530b7e8016e4778278d56837e4d71",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152110873
         }
     ],
     "wof:id":152110873,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496790379,
     "wof:name":"Les Editions Anticyclone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

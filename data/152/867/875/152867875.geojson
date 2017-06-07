@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.336429,49.294098,2.336429,49.294098",
     "geom:latitude":49.294098,
     "geom:longitude":2.336429,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760329,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404388251,
+        85633147,
+        1108826399,
+        101760329,
+        136253037,
         102069231
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_34pf1KYfuXg7Azsl7e9xSu_49.294098_2.336429@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0935ad8f56638663066fd6ea1348f74c",
+    "wof:geomhash":"7c0fd0f746a5d5a5d0e9432d51fa8055",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069231,
+            "empire_id":136253037,
+            "localadmin_id":404388251,
             "locality_id":101760329,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152867875
         }
     ],
     "wof:id":152867875,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496795417,
     "wof:name":"Ste Fran\u00c7aise Des Papiers Peints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

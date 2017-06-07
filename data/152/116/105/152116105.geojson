@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.017125,49.024433,4.017125,49.024433",
     "geom:latitude":49.024433,
     "geom:longitude":4.017125,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879875,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404385595,
+        85633147,
+        1108826391,
+        101879875,
+        136253037,
         102070753
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2mr64RDL2Uyooxrt6QOGSt_49.024433_4.017125@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa050acdb73f3bc42df425f6044563d2",
+    "wof:geomhash":"970a82a3c214ac81b3ebd14fb758e24e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070753,
+            "empire_id":136253037,
+            "localadmin_id":404385595,
             "locality_id":101879875,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152116105
         }
     ],
     "wof:id":152116105,
-    "wof:lastmodified":1473798257,
+    "wof:lastmodified":1496786491,
     "wof:name":"Application Informatique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

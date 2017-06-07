@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.03671,46.781086,6.03671,46.781086",
     "geom:latitude":46.781086,
     "geom:longitude":6.03671,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891495,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404402879,
+        85633147,
+        1108826395,
+        101891495,
+        136253037,
         102068015
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1ICQB6AOxHFi2vS5J9epgA_46.781086_6.036710@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"46e322558cc741c66e043988db903142",
+    "wof:geomhash":"0c8903103ed638f965338fa94919d47b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068015,
+            "empire_id":136253037,
+            "localadmin_id":404402879,
             "locality_id":101891495,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":136291281
         }
     ],
     "wof:id":136291281,
-    "wof:lastmodified":1473797897,
+    "wof:lastmodified":1496804293,
     "wof:name":"Minoterie Vuillermet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

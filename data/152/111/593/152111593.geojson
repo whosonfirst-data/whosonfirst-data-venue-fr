@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.181393,48.670692,6.181393,48.670692",
     "geom:latitude":48.670692,
     "geom:longitude":6.181393,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751413,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101751413,
+        136253037,
         102072081
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3QFEXO7s9G1tRxL04LAsjI_48.670692_6.181393@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc9b846083d49ab502fbabc838a02776",
+    "wof:geomhash":"6b7be17cbc37bff03359b17b769ffda0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072081,
+            "empire_id":136253037,
             "locality_id":101751413,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152111593
         }
     ],
     "wof:id":152111593,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496784685,
     "wof:name":"Rego Distribution (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

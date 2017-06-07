@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.968732,45.567139,5.968732,45.567139",
     "geom:latitude":45.567139,
     "geom:longitude":5.968732,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749333,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404406481,
+        85633147,
+        1108826389,
+        101749333,
+        136253037,
         102070293
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7kAMvz8aywg6IQf0sccEoZ_45.567139_5.968732@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d7dffa6efbb0570e25d5df9a031a7b4c",
+    "wof:geomhash":"007583a98a9415686251c2913624944c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070293,
+            "empire_id":136253037,
+            "localadmin_id":404406481,
             "locality_id":101749333,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152092983
         }
     ],
     "wof:id":152092983,
-    "wof:lastmodified":1473798222,
+    "wof:lastmodified":1496780937,
     "wof:name":"Picon Robinetterie Industrielle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

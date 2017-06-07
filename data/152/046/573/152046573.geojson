@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.912325,45.897415,0.912325,45.897415",
     "geom:latitude":45.897415,
     "geom:longitude":0.912325,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768243,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404228177,
+        1108826385,
+        101768243,
+        136253037,
         102072363
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7exi4KVS58sJM6xrDJgmga_45.897415_0.912325@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6d324bae3b962fe97e88fb5a8059556",
+    "wof:geomhash":"e065dcb4036aa9be27c4759fb2e49ab7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072363,
+            "empire_id":136253037,
             "locality_id":101768243,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152046573
         }
     ],
     "wof:id":152046573,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496776564,
     "wof:name":"Lycee Professionnel Edouard Vaillant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

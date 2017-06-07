@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.289795,49.900021,2.289795,49.900021",
     "geom:latitude":49.900021,
     "geom:longitude":2.289795,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0WX7OELrsHtGB2lIZeKDWx_49.900021_2.289795@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"167acc2736fc406179a372ae5c61f2ee",
+    "wof:geomhash":"0047dbcbb2a463593b71969a62889a2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152045815
         }
     ],
     "wof:id":152045815,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496795599,
     "wof:name":"Esiee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

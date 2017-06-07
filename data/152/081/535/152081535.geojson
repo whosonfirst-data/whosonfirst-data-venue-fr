@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.72168,45.181332,5.72168,45.181332",
     "geom:latitude":45.181332,
     "geom:longitude":5.72168,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7RbsV0Q8HPZTEkreyIgF4F_45.181332_5.721680@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"48ae614cb4d457e5c0b39974012e77e5",
+    "wof:geomhash":"c70394c7113941190626903a2462be3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152081535
         }
     ],
     "wof:id":152081535,
-    "wof:lastmodified":1473798139,
+    "wof:lastmodified":1496800058,
     "wof:name":"Regie Des Eaux De Grenoble (reg)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.816762,45.89381,6.816762,45.89381",
     "geom:latitude":45.89381,
     "geom:longitude":6.816762,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829031,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404360949,
+        85633147,
+        1108826389,
+        101829031,
+        136253037,
         102065943
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5zBvucGxw8QYzLwyXqsvz5_45.893810_6.816762@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4888beea3827371275d551b2a8535de1",
+    "wof:geomhash":"e23e8ee3c081a64faa4c67dd62ba91cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065943,
+            "empire_id":136253037,
+            "localadmin_id":404360949,
             "locality_id":101829031,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":169205919
         }
     ],
     "wof:id":169205919,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496780078,
     "wof:name":"Trappier Claude Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

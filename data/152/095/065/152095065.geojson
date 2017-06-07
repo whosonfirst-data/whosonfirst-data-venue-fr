@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.129782,45.783417,3.129782,45.783417",
     "geom:latitude":45.783417,
     "geom:longitude":3.129782,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_6roPXC2zTG0nWDoUMUpGSL_45.783417_3.129782@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7d65933978553950d3170bd83ba35aaf",
+    "wof:geomhash":"a4049c14d9346265a89a58fdc6ce8d2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152095065
         }
     ],
     "wof:id":152095065,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496806253,
     "wof:name":"Krill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

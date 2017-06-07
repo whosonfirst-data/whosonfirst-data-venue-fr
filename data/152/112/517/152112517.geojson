@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.717625,45.164154,5.717625,45.164154",
     "geom:latitude":45.164154,
     "geom:longitude":5.717625,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4qhpcOAEC1eNkmBpPhiuLk_45.164154_5.717625@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51e632bc905815fb88f73989983c9a6a",
+    "wof:geomhash":"f84b31246732ea517418d7e635e64488",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152112517
         }
     ],
     "wof:id":152112517,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496801984,
     "wof:name":"Alstom Power Hydro S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

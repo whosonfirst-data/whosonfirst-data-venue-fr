@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854241,45.672485,4.854241,45.672485",
     "geom:latitude":45.672485,
     "geom:longitude":4.854241,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3T2g9tkjHuqg1u8xNWzY1h_45.672485_4.854241@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"723b6b8ee3dc6fb04256701e9e5ea782",
+    "wof:geomhash":"d5ee1a8527d60a1d40d44e53b55b232c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152078713
         }
     ],
     "wof:id":152078713,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496801624,
     "wof:name":"Secauto Rhone Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

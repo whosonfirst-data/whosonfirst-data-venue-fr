@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.179137,48.755966,5.179137,48.755966",
     "geom:latitude":48.755966,
     "geom:longitude":5.179137,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763975,
-        85633147,
         85683297,
+        102191581,
+        85633147,
+        404227707,
+        1108826391,
+        101763975,
+        136253037,
         102071939
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_42wDKm8LHApjEdCvhYjtay_48.755966_5.179137@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"135161242857b2fb346e82b134c325e4",
+    "wof:geomhash":"4f375fe898b7ed735ffcde53b33fca16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071939,
+            "empire_id":136253037,
             "locality_id":101763975,
+            "macrocounty_id":404227707,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":153020859
         }
     ],
     "wof:id":153020859,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496785712,
     "wof:name":"Bar Levage Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

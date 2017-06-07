@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.289481,49.88802,2.289481,49.88802",
     "geom:latitude":49.88802,
     "geom:longitude":2.289481,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4qlLLZMO44WZK4wVQHOavP_49.888020_2.289481@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"490f9eb02edb302fdde9c2f475da9dfe",
+    "wof:geomhash":"661f2d73286111840e26d347e2c6702a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136275517
         }
     ],
     "wof:id":136275517,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496795423,
     "wof:name":"Cabinet Jean Francois Deffains",
-    "wof:parent_id":101749133,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

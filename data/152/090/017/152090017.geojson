@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.990306,45.460781,5.990306,45.460781",
     "geom:latitude":45.460781,
     "geom:longitude":5.990306,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769193,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404420407,
+        85633147,
+        1108826389,
+        101769193,
+        136253037,
         102070371
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5z6xtCX54etdqIplQ28GsZ_45.460781_5.990306@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c751b3432fbf1127e1717c7fca02721b",
+    "wof:geomhash":"cf6b19db214ab438e1339ce491bf68d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070371,
+            "empire_id":136253037,
+            "localadmin_id":404420407,
             "locality_id":101769193,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152090017
         }
     ],
     "wof:id":152090017,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496779305,
     "wof:name":"Les Ateliers Du Granier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

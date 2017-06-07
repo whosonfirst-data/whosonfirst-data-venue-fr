@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.578225,47.829414,3.578225,47.829414",
     "geom:latitude":47.829414,
     "geom:longitude":3.578225,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829669,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829669,
+        136253037,
         102072009
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_0IcrCF2tJMd0HBoaIp3fj7_47.829414_3.578225@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eec565b80c47a786c8bbd120f936b4b0",
+    "wof:geomhash":"d775740ee337f730d272ed62493ed477",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072009,
+            "empire_id":136253037,
             "locality_id":101829669,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152170925
         }
     ],
     "wof:id":152170925,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496794936,
     "wof:name":"Mm Packaging France (mmp France)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

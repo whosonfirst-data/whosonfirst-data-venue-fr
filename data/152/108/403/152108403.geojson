@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.48023,46.04739,1.48023,46.04739",
     "geom:latitude":46.04739,
     "geom:longitude":1.48023,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892527,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404367359,
+        85633147,
+        1108826385,
+        101892527,
+        136253037,
         102066127
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_08oAj0C9MVSOqQYtubMz0w_46.047390_1.480230@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d1d87f37d5cb63f2f9898fe6b6cf593",
+    "wof:geomhash":"701c09f46e6171ff0649633f3cc3d5e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066127,
+            "empire_id":136253037,
+            "localadmin_id":404367359,
             "locality_id":101892527,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152108403
         }
     ],
     "wof:id":152108403,
-    "wof:lastmodified":1473798259,
+    "wof:lastmodified":1496775616,
     "wof:name":"Societe Francaise De Fabrication D'instruments De Chirurgie (sffic)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

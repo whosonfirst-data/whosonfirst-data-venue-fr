@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.561776,48.740223,-0.561776,48.740223",
     "geom:latitude":48.740223,
     "geom:longitude":-0.561776,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828047,
-        85633147,
         85683527,
+        102191581,
+        85633147,
+        404227931,
+        1108826393,
+        101828047,
+        136253037,
         102072071
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1LgsaF4qxe9TinRDNyhVPs_48.740223_-0.561776@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0cb1cbec79f883937e1e2b25750273d6",
+    "wof:geomhash":"d38b464d2e68d6627b675284ce49138c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072071,
+            "empire_id":136253037,
             "locality_id":101828047,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152065771
         }
     ],
     "wof:id":152065771,
-    "wof:lastmodified":1473798086,
+    "wof:lastmodified":1496786919,
     "wof:name":"Appia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

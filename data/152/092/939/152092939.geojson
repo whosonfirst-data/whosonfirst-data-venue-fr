@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.301085,44.166965,0.301085,44.166965",
     "geom:latitude":44.166965,
     "geom:longitude":0.301085,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830411,
-        85633147,
         85683341,
+        102191581,
+        404228231,
+        404348365,
+        85633147,
+        1108826385,
+        101830411,
+        136253037,
         102067741
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1GL8OwsYybrWjJeDn98CDg_44.166965_0.301085@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3d20c7f06cf545d6c19bb0aabbce177",
+    "wof:geomhash":"9357555e5b78eda55d723f8339824109",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067741,
+            "empire_id":136253037,
+            "localadmin_id":404348365,
             "locality_id":101830411,
+            "macrocounty_id":404228231,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152092939
         }
     ],
     "wof:id":152092939,
-    "wof:lastmodified":1473798217,
+    "wof:lastmodified":1496798415,
     "wof:name":"Cruz Robert Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

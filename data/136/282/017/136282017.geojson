@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.329139,46.604794,0.329139,46.604794",
     "geom:latitude":46.604794,
     "geom:longitude":0.329139,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7iS2qx55WDmfp3VHoZQFTg_46.604794_0.329139@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88ccda93bda8428357e6a8350ca3131a",
+    "wof:geomhash":"d90fda948b8ded2793794acaa5e43710",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136282017
         }
     ],
     "wof:id":136282017,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496775872,
     "wof:name":"Matin Service Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

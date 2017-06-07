@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.006891,50.627857,3.006891,50.627857",
     "geom:latitude":50.627857,
     "geom:longitude":3.006891,
@@ -22,9 +23,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750277,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
         102071951
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_2PupX5hkHc3E04wY6MqHOk_50.627857_3.006891@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f1865ecaf0284eb77708a4545f076fd6",
+    "wof:geomhash":"d3671d35336297d8b9498341cc829992",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071951,
+            "empire_id":136253037,
             "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169139603
         }
     ],
     "wof:id":169139603,
-    "wof:lastmodified":1473798180,
+    "wof:lastmodified":1496790115,
     "wof:name":"S.p.i. S.a.r.l. - Soci\u00e9t\u00e9 De Peintures Industrielles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

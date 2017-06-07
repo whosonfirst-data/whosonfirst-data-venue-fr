@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.517868,50.01273,1.517868,50.01273",
     "geom:latitude":50.01273,
     "geom:longitude":1.517868,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812519,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404371051,
+        85633147,
+        1108826393,
+        101812519,
+        136253037,
         102067775
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4QQVS52alMplJGPwFBvXeK_50.012730_1.517868@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39e5223f9d2b68c83e5aa376892d347e",
+    "wof:geomhash":"6398b98359ce7cff5240a58a0181aa93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067775,
+            "empire_id":136253037,
+            "localadmin_id":404371051,
             "locality_id":101812519,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152091923
         }
     ],
     "wof:id":152091923,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496790664,
     "wof:name":"Val Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

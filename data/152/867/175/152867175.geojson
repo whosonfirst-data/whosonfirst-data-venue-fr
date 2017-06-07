@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.289225,45.84425,1.289225,45.84425",
     "geom:latitude":45.84425,
     "geom:longitude":1.289225,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3FLz6tD5F1blkPi1VImrHj_45.844250_1.289225@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fcbc12d578fa50e9ca6a27305a56e589",
+    "wof:geomhash":"94521b3fea99ad7199a8ef5d435d905e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152867175
         }
     ],
     "wof:id":152867175,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496776563,
     "wof:name":"Mme France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

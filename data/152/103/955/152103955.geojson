@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.792148,49.360413,2.792148,49.360413",
     "geom:latitude":49.360413,
     "geom:longitude":2.792148,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828513,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404405075,
+        85633147,
+        1108826399,
+        101828513,
+        136253037,
         102070783
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_1oRpwRZ2W16gURtUBOpznq_49.360413_2.792148@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1604bf2c6b0706a573bc936105d0f34",
+    "wof:geomhash":"40261818b87c17d8f02c81b527cfd19b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070783,
+            "empire_id":136253037,
+            "localadmin_id":404405075,
             "locality_id":101828513,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152103955
         }
     ],
     "wof:id":152103955,
-    "wof:lastmodified":1473798245,
+    "wof:lastmodified":1496791272,
     "wof:name":"Fraco France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

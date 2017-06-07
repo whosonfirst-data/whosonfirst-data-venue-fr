@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.357828,46.903534,6.357828,46.903534",
     "geom:latitude":46.903534,
     "geom:longitude":6.357828,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829325,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
         102068065
     ],
     "wof:brand_id":420574767,
@@ -45,18 +51,23 @@
         "sg:id":"SG_1WE9XfFOwSKmqnDEdtGVPJ_46.903534_6.357828@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"44f3f513e37c8253b0a69d2c48a2b20e",
+    "wof:geomhash":"6f535fe6ddec143cbc2dfea96acc421a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
             "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":136279303
         }
     ],
     "wof:id":136279303,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496788734,
     "wof:name":"Societe Fiduciaire Nationale D'expertise Comptable Fidexpert (fid)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

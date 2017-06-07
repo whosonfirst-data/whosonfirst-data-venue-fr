@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.482435,44.853004,0.482435,44.853004",
     "geom:latitude":44.853004,
     "geom:longitude":0.482435,
@@ -24,9 +25,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_2aUFUw9tOQHmpA4tNWDbWr_44.853004_0.482435@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a195579975d9eeefee4f0cee321f909",
+    "wof:geomhash":"76b2b68c18c310e6d81669843cadec8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":169034649
         }
     ],
     "wof:id":169034649,
-    "wof:lastmodified":1473798006,
+    "wof:lastmodified":1496777015,
     "wof:name":"Les Presses D'aquitaine S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

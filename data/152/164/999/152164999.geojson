@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.401615,46.140984,6.401615,46.140984",
     "geom:latitude":46.140984,
     "geom:longitude":6.401615,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767901,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404390573,
+        85633147,
+        1108826389,
+        101767901,
+        136253037,
         102068041
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5RZ9iO5I6wDjRrQtAfZW32_46.140984_6.401615@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f2df95049528344e4366ce0ae8922c0a",
+    "wof:geomhash":"fc0e362b4901f4596fa1b428105d5bef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068041,
+            "empire_id":136253037,
+            "localadmin_id":404390573,
             "locality_id":101767901,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152164999
         }
     ],
     "wof:id":152164999,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496783113,
     "wof:name":"Esve Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

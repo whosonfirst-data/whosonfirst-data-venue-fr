@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.892717,48.669209,5.892717,48.669209",
     "geom:latitude":48.669209,
     "geom:longitude":5.892717,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828237,
-        85633147,
         85683343,
+        102191581,
+        404228239,
+        404420587,
+        85633147,
+        1108826391,
+        101828237,
+        136253037,
         102072561
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0rHmEeQpAtCfAjO0TONsaZ_48.669209_5.892717@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a76d4a65f33f16e5a20d444b294bf8d3",
+    "wof:geomhash":"9283e9bdb71c6e8507eb206f104187c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072561,
+            "empire_id":136253037,
+            "localadmin_id":404420587,
             "locality_id":101828237,
+            "macrocounty_id":404228239,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136291215
         }
     ],
     "wof:id":136291215,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496784734,
     "wof:name":"Grands Moulins Aubry Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

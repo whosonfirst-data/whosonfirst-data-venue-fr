@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.563978,44.771111,-0.563978,44.771111",
     "geom:latitude":44.771111,
     "geom:longitude":-0.563978,
@@ -35,28 +36,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PVfBFHBwXyTN1WKt9NW4r_44.771111_-0.563978@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d16c211034c50b2ceae4ec8df6ee006",
+    "wof:geomhash":"34003ccfc41abe2c85e9091e9288edb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":152114447
         }
     ],
     "wof:id":152114447,
-    "wof:lastmodified":1473798271,
+    "wof:lastmodified":1496797597,
     "wof:name":"Rfa Sa",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

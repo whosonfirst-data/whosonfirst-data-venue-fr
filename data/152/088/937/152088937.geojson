@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.372046,46.640839,4.372046,46.640839",
     "geom:latitude":46.640839,
     "geom:longitude":4.372046,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829219,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101829219,
+        136253037,
         102071713
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_5QZym0imhWeeXbt5zM5hJn_46.640839_4.372046@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14d96004db1c0aafd63560c7ee320b75",
+    "wof:geomhash":"b45a5b5517202602063d4b9198951604",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071713,
+            "empire_id":136253037,
             "locality_id":101829219,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152088937
         }
     ],
     "wof:id":152088937,
-    "wof:lastmodified":1473798213,
+    "wof:lastmodified":1496789531,
     "wof:name":"Cothenet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

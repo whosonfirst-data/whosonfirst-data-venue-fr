@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.850619,48.767056,7.850619,48.767056",
     "geom:latitude":48.767056,
     "geom:longitude":7.850619,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827861,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404413105,
+        85633147,
+        1108826391,
+        101827861,
+        136253037,
         102064753
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6NXnyULpbxKyKHE8nLJYri_48.767056_7.850619@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d9f9c36515cd676d3b5301ee25265190",
+    "wof:geomhash":"862066a3e69504b2c8e3fc91918a3e58",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064753,
+            "empire_id":136253037,
+            "localadmin_id":404413105,
             "locality_id":101827861,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152108995
         }
     ],
     "wof:id":152108995,
-    "wof:lastmodified":1473798273,
+    "wof:lastmodified":1496785231,
     "wof:name":"Sofema Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

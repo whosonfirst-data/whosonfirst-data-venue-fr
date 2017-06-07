@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.885133,43.609779,3.885133,43.609779",
     "geom:latitude":43.609779,
     "geom:longitude":3.885133,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7VyoLPVmbG5XVEtZI8VetT_43.609779_3.885133@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"19096281c8993e1b8c1f0325a8f990b2",
+    "wof:geomhash":"6cf8bacc29b4d007d427692e41db64ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152048657
         }
     ],
     "wof:id":152048657,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496778707,
     "wof:name":"Hotel Ibis Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.821174,45.706051,4.821174,45.706051",
     "geom:latitude":45.706051,
     "geom:longitude":4.821174,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750785,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404395503,
+        85633147,
+        1108826389,
+        101750785,
+        136253037,
         102071477
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0L8sjtVGncGYlWsDyCDR2i_45.706051_4.821174@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"47eb211a18b768fc21f6f137831059a2",
+    "wof:geomhash":"0a286e162935f7c6de2ab6ac73add39d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071477,
+            "empire_id":136253037,
+            "localadmin_id":404395503,
             "locality_id":101750785,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152108219
         }
     ],
     "wof:id":152108219,
-    "wof:lastmodified":1473798254,
+    "wof:lastmodified":1496800193,
     "wof:name":"Rhone Orthopedie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

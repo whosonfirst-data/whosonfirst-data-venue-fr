@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.917502,50.549976,2.917502,50.549976",
     "geom:latitude":50.549976,
     "geom:longitude":2.917502,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840677,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404372013,
+        85633147,
+        1108826399,
+        101840677,
+        136253037,
         102071733
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7Vm1vGtrb3kIZ5GSFTwNIA_50.549976_2.917502@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9667610b7739ce55051c264ab5b22f2",
+    "wof:geomhash":"59e55058cb1d7647827e858caa983051",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071733,
+            "empire_id":136253037,
+            "localadmin_id":404372013,
             "locality_id":101840677,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169141015
         }
     ],
     "wof:id":169141015,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496790199,
     "wof:name":"S.t.b. Mat\u00e9riaux, S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.592265,46.365238,2.592265,46.365238",
     "geom:latitude":46.365238,
     "geom:longitude":2.592265,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829205,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
         102072223
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_5XwyuUTe7JRaVBxNZgzfZK_46.365238_2.592265@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"38e31d754c53088bce613c73ef92134b",
+    "wof:geomhash":"91d0831c7068e24c9a3304f7ee9a0385",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072223,
+            "empire_id":136253037,
             "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152105001
         }
     ],
     "wof:id":152105001,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496780870,
     "wof:name":"Toueix Industrie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

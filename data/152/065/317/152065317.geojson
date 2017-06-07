@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.101505,45.742371,3.101505,45.742371",
     "geom:latitude":45.742371,
     "geom:longitude":3.101505,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750845,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404359115,
+        85633147,
+        1108826389,
+        101750845,
+        136253037,
         102071693
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4Me5jP1n9AxEQL6XKCpYt2_45.742371_3.101505@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ece49016f9682656101ad9d9a49c1cec",
+    "wof:geomhash":"895e3e0419661ac71635978ad3af007f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071693,
+            "empire_id":136253037,
+            "localadmin_id":404359115,
             "locality_id":101750845,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152065317
         }
     ],
     "wof:id":152065317,
-    "wof:lastmodified":1473798065,
+    "wof:lastmodified":1496781269,
     "wof:name":"Phone Excel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

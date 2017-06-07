@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.081156,44.12352,4.081156,44.12352",
     "geom:latitude":44.12352,
     "geom:longitude":4.081156,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831863,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227651,
+        1108826387,
+        101831863,
+        136253037,
         102072253
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_15wQk3whkM6fnJk8imECA2_44.123520_4.081156@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"299ff58b3b07cafe7cede40c2ce23979",
+    "wof:geomhash":"65804f516fe7606ad3b58a21477e0422",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072253,
+            "empire_id":136253037,
             "locality_id":101831863,
+            "macrocounty_id":404227651,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136275113
         }
     ],
     "wof:id":136275113,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496777806,
     "wof:name":"Banque Populaire Du Midi",
-    "wof:parent_id":101831863,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

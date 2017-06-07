@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.481762,46.370571,6.481762,46.370571",
     "geom:latitude":46.370571,
     "geom:longitude":6.481762,
@@ -27,9 +28,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_7FDmFMgtcxAp3SknmftDkb_46.370571_6.481762@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c514a43550073fcd28fa0d60d9af8f59",
+    "wof:geomhash":"49007b6ea20d3648491c4c477c6a3f8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":136297493
         }
     ],
     "wof:id":136297493,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496800721,
     "wof:name":"Banque Marin Et Gianola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

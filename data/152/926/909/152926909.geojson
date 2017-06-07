@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.134377,48.041622,7.134377,48.041622",
     "geom:latitude":48.041622,
     "geom:longitude":7.134377,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764473,
-        85633147,
         85683381,
+        102191581,
+        404227947,
+        404419201,
+        85633147,
+        1108826391,
+        101764473,
+        136253037,
         102067639
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_62qPShg7YUOsbRZ2A6DHDN_48.041622_7.134377@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f4ee117547b044841e3da46f4d91ae1",
+    "wof:geomhash":"271b99ce9e48f741ec28c8dbbd209310",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067639,
+            "empire_id":136253037,
+            "localadmin_id":404419201,
             "locality_id":101764473,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152926909
         }
     ],
     "wof:id":152926909,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496786292,
     "wof:name":"Imprimerie Lefranc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.252777,48.61475,6.252777,48.61475",
     "geom:latitude":48.61475,
     "geom:longitude":6.252777,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883823,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404361425,
+        85633147,
+        1108826391,
+        101883823,
+        136253037,
         102069021
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4YHOu4aKr5iWFkUMJEyp6X_48.614750_6.252777@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"935f51b1cf050aea46d6aa92f1b8ba44",
+    "wof:geomhash":"7e342c0707b625a13fb596de77d274b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069021,
+            "empire_id":136253037,
+            "localadmin_id":404361425,
             "locality_id":101883823,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152110769
         }
     ],
     "wof:id":152110769,
-    "wof:lastmodified":1473798261,
+    "wof:lastmodified":1496784541,
     "wof:name":"La Maison Du Massif",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

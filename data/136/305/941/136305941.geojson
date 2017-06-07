@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.749616,46.10849,4.749616,46.10849",
     "geom:latitude":46.10849,
     "geom:longitude":4.749616,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828929,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404394643,
+        85633147,
+        1108826389,
+        101828929,
+        136253037,
         102065119
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_0zgAMeEVtoIDU90D1IIoZ7_46.108490_4.749616@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2abb1d82caff89aae13d026756b9fd0f",
+    "wof:geomhash":"c28f67b7257af4d2f27dad40c98f448e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065119,
+            "empire_id":136253037,
+            "localadmin_id":404394643,
             "locality_id":101828929,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136305941
         }
     ],
     "wof:id":136305941,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496801607,
     "wof:name":"Lyonnaise De Banque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

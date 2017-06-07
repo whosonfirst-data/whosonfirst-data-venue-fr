@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.539579,44.797867,-0.539579,44.797867",
     "geom:latitude":44.797867,
     "geom:longitude":-0.539579,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749339,
-        85633147,
         85683243,
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101749339,
+        136253037,
         102071639
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_78kqQCj7ip62aXNFpo83pD_44.797867_-0.539579@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a5f85e29d78787eddf06e8d7a7319e1",
+    "wof:geomhash":"c9d87a388b88fd1cbac6a2df6c85743f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071639,
+            "empire_id":136253037,
             "locality_id":101749339,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152912027
         }
     ],
     "wof:id":152912027,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496776768,
     "wof:name":"Gil Communication Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

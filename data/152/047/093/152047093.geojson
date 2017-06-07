@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.02285,47.240597,6.02285,47.240597",
     "geom:latitude":47.240597,
     "geom:longitude":6.02285,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3PFXFngrp58Hlc9xnPzuSr_47.240597_6.022850@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1cd5ef409e692c9ca15564e1ebe63ab6",
+    "wof:geomhash":"6439dce988175bc4be2093c5ae259465",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152047093
         }
     ],
     "wof:id":152047093,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496804313,
     "wof:name":"Universit\u00c9 De France-comte Secretariat General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

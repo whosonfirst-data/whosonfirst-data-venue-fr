@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.06206,50.386208,3.06206,50.386208",
     "geom:latitude":50.386208,
     "geom:longitude":3.06206,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840681,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404347507,
+        85633147,
+        1108826399,
+        101840681,
+        136253037,
         102071869
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0XSZmjSDqZzsumWJbzvnDu_50.386208_3.062060@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"686c2d4f20be45f01cbd7cad5c0c6ce0",
+    "wof:geomhash":"91224e2e6ada64ba02b4c135c59d00d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071869,
+            "empire_id":136253037,
+            "localadmin_id":404347507,
             "locality_id":101840681,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152538515
         }
     ],
     "wof:id":152538515,
-    "wof:lastmodified":1473798452,
+    "wof:lastmodified":1496790692,
     "wof:name":"Imprimerie Nationale S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

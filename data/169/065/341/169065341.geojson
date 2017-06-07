@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.297743,49.655186,3.297743,49.655186",
     "geom:latitude":49.655186,
     "geom:longitude":3.297743,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840835,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404355423,
+        85633147,
+        1108826399,
+        101840835,
+        136253037,
         102071191
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_531ONmqhf0sgsburVN9VmZ_49.655186_3.297743@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0efc188e069be9b06db79db3ecb07d2",
+    "wof:geomhash":"e94d01968485d6d94813377750fdd3a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071191,
+            "empire_id":136253037,
+            "localadmin_id":404355423,
             "locality_id":101840835,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169065341
         }
     ],
     "wof:id":169065341,
-    "wof:lastmodified":1473798053,
+    "wof:lastmodified":1496790166,
     "wof:name":"Morelle P\u00e8re Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

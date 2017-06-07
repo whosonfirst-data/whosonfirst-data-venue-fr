@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.051124,50.311958,3.051124,50.311958",
     "geom:latitude":50.311958,
     "geom:longitude":3.051124,
@@ -38,28 +39,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811341,
+        85683445,
+        102191581,
+        404228125,
+        404400581,
         85633147,
-        85683255,
-        102071393
+        1108826399,
+        101811341,
+        136253037,
+        102064393
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CRnKNy7mBQrrCWiwXniNA_50.311958_3.051124@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ecd3dcf7c3908943991f09a0cb126d3c",
+    "wof:geomhash":"4522a3ee012605610c985f0c6be79ae9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071393,
+            "county_id":102064393,
+            "empire_id":136253037,
+            "localadmin_id":404400581,
             "locality_id":101811341,
-            "region_id":85683255,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
+            "region_id":85683445,
             "venue_id":136286257
         }
     ],
     "wof:id":136286257,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496796691,
     "wof:name":"Groupe Carre Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84981,45.798611,4.84981,45.798611",
     "geom:latitude":45.798611,
     "geom:longitude":4.84981,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749381,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404422247,
+        85633147,
+        1108826389,
+        101749381,
+        136253037,
         102071245
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3RB6zS7MJqslCCAdr0wPRl_45.798611_4.849810@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6e7f8fcfc6489b6e2cee4546a117e757",
+    "wof:geomhash":"465f4de8d4cc6b1d65cc4e8a583382fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071245,
+            "empire_id":136253037,
+            "localadmin_id":404422247,
             "locality_id":101749381,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152066225
         }
     ],
     "wof:id":152066225,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496780290,
     "wof:name":"Corefic Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

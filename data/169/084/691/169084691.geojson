@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.561887,44.862041,-0.561887,44.862041",
     "geom:latitude":44.862041,
     "geom:longitude":-0.561887,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZQTlBGyogsElBsRB7VL53_44.862041_-0.561887@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de62c6840c643e6bffcd74e8c2fba515",
+    "wof:geomhash":"5433324f059cf131d9315bff791f003c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169084691
         }
     ],
     "wof:id":169084691,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1496776810,
     "wof:name":"P.m.s.o. S.a. - Produits M\u00e9tallurgique Du Sud Ouest",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

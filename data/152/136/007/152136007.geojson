@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.630975,48.956032,7.630975,48.956032",
     "geom:latitude":48.956032,
     "geom:longitude":7.630975,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761053,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404356071,
+        85633147,
+        1108826391,
+        101761053,
+        136253037,
         102067073
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4UYmVZ1SSIT7GfMVSW491H_48.956032_7.630975@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9dac1060b072db593d77072b555f2f8",
+    "wof:geomhash":"179e51439659cb144008eb493c4be353",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067073,
+            "empire_id":136253037,
+            "localadmin_id":404356071,
             "locality_id":101761053,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152136007
         }
     ],
     "wof:id":152136007,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496784380,
     "wof:name":"De Dietrich Thermique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

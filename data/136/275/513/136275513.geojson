@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.88531,45.596432,5.88531,45.596432",
     "geom:latitude":45.596432,
     "geom:longitude":5.88531,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749331,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404407379,
+        85633147,
+        1108826389,
+        101749331,
+        136253037,
         102067843
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3I0xPEC7fTfPwPjc3ZnqOa_45.596432_5.885310@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40fcfb8dabfa13da07402dc27fbb0deb",
+    "wof:geomhash":"a214e4be0ab3e760a9923bd997d41415",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067843,
+            "empire_id":136253037,
+            "localadmin_id":404407379,
             "locality_id":101749331,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":136275513
         }
     ],
     "wof:id":136275513,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496782048,
     "wof:name":"Cabinet Henri Lombard Sa",
-    "wof:parent_id":101749331,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.622223,44.162724,4.622223,44.162724",
     "geom:latitude":44.162724,
     "geom:longitude":4.622223,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772703,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404405779,
+        85633147,
+        1108826387,
+        101772703,
+        136253037,
         102065527
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1UR56rhzTirb4RzLQ5SPzQ_44.162724_4.622223@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc3ba74b96fc0217714a542e0348fe8f",
+    "wof:geomhash":"eba5e0ca2be705d54e6f36fee170684e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065527,
+            "empire_id":136253037,
+            "localadmin_id":404405779,
             "locality_id":101772703,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136294865
         }
     ],
     "wof:id":136294865,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496777970,
     "wof:name":"Societe Generale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

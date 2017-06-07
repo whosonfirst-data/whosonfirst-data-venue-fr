@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.610585,48.852066,7.610585,48.852066",
     "geom:latitude":48.852066,
     "geom:longitude":7.610585,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827849,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404417973,
+        85633147,
+        1108826391,
+        101827849,
+        136253037,
         102065001
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1SLkXVHl8o0lt3ZGxg7uUm_48.852066_7.610585@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2c3e0e10c62a50429a1728aede63421",
+    "wof:geomhash":"245dc377ff94488fbcac0282083b3490",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065001,
+            "empire_id":136253037,
+            "localadmin_id":404417973,
             "locality_id":101827849,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":168986417
         }
     ],
     "wof:id":168986417,
-    "wof:lastmodified":1473798178,
+    "wof:lastmodified":1496784129,
     "wof:name":"Heckel S\u00e9curit\u00e9 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

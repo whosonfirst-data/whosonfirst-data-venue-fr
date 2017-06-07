@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.711707,45.153614,5.711707,45.153614",
     "geom:latitude":45.153614,
     "geom:longitude":5.711707,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750759,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404421311,
+        85633147,
+        1108826389,
+        101750759,
+        136253037,
         102071999
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5eMrOu5SSJsAxAy9SUlzaw_45.153614_5.711707@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"368a2d45c2cf82ddd2ca85034da60065",
+    "wof:geomhash":"35401c7621341e8bcaf87d4be561d1de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071999,
+            "empire_id":136253037,
+            "localadmin_id":404421311,
             "locality_id":101750759,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169158439
         }
     ],
     "wof:id":169158439,
-    "wof:lastmodified":1473798185,
+    "wof:lastmodified":1496802077,
     "wof:name":"Siemens Landis Et Staefa S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

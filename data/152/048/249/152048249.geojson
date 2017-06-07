@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875659,44.934994,4.875659,44.934994",
     "geom:latitude":44.934994,
     "geom:longitude":4.875659,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752981,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404389373,
+        85633147,
+        1108826389,
+        101752981,
+        136253037,
         102067869
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1ItfQEjLKK8YRDZjpma1Ld_44.934994_4.875659@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"26480fb91479a5ee538ef6d9bd863d83",
+    "wof:geomhash":"8a9f9c51af84e13b7c52c116ce5935b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067869,
+            "empire_id":136253037,
+            "localadmin_id":404389373,
             "locality_id":101752981,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152048249
         }
     ],
     "wof:id":152048249,
-    "wof:lastmodified":1473797897,
+    "wof:lastmodified":1496801871,
     "wof:name":"Hotel Alpes Cevennes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

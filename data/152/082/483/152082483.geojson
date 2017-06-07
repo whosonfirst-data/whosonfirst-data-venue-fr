@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.241316,49.108158,6.241316,49.108158",
     "geom:latitude":49.108158,
     "geom:longitude":6.241316,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1HCJ1CCQmbgH5tjzWlwFhG_49.108158_6.241316@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4cd1113697a19ee7cb7d196e135bb04b",
+    "wof:geomhash":"4af78088f14cad93e474c2b03dc99717",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152082483
         }
     ],
     "wof:id":152082483,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496785143,
     "wof:name":"Peugeot Citroen Automobiles Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

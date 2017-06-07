@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.342585,46.579449,0.342585,46.579449",
     "geom:latitude":46.579449,
     "geom:longitude":0.342585,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0Ozao8jz95Y0yVtng2OfDo_46.579449_0.342585@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f1362971978b43cc09654078fec3480c",
+    "wof:geomhash":"7745f92ad261feb0e4240f9b2ecf6a20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136277159
         }
     ],
     "wof:id":136277159,
-    "wof:lastmodified":1473797880,
+    "wof:lastmodified":1496776004,
     "wof:name":"Exco Poitou Charentes Sa",
-    "wof:parent_id":101750881,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

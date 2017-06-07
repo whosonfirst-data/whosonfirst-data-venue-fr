@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.565041,46.666016,5.565041,46.666016",
     "geom:latitude":46.666016,
     "geom:longitude":5.565041,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3iaADGAXJ7znNUDYDDez9Y_46.666016_5.565041@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6e734c60c9ff09135547ee78b3e53151",
+    "wof:geomhash":"26b2bed011df6c363fa3138a7984825a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":136276271
         }
     ],
     "wof:id":136276271,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496788676,
     "wof:name":"Centre Comptabilite Agric Jura",
-    "wof:parent_id":101829255,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

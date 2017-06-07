@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.022669,49.572285,3.022669,49.572285",
     "geom:latitude":49.572285,
     "geom:longitude":3.022669,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814949,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404383477,
+        85633147,
+        1108826399,
+        101814949,
+        136253037,
         102069723
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2ct41tQ5FiuS9g466I5OiH_49.572285_3.022669@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a67e073401887880a672280b12ce1f38",
+    "wof:geomhash":"0b727f2dd98a618d310e18f98b695ce2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069723,
+            "empire_id":136253037,
+            "localadmin_id":404383477,
             "locality_id":101814949,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169096801
         }
     ],
     "wof:id":169096801,
-    "wof:lastmodified":1473798100,
+    "wof:lastmodified":1496795848,
     "wof:name":"Point P Nord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554664,45.293205,4.554664,45.293205",
     "geom:latitude":45.293205,
     "geom:longitude":4.554664,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770739,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404390207,
+        85633147,
+        1108826389,
+        101770739,
+        136253037,
         102064775
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1opHBFk3H7hjF0ghvtfIdW_45.293205_4.554664@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e45eb8fe2a35d1c1d447cbec4f9d3be",
+    "wof:geomhash":"4d0f90211fe2ab7f3dcf9ee2f1f10532",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064775,
+            "empire_id":136253037,
+            "localadmin_id":404390207,
             "locality_id":101770739,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152124293
         }
     ],
     "wof:id":152124293,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496781267,
     "wof:name":"Delvaux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

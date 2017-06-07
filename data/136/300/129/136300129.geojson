@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.48203,46.372757,6.48203,46.372757",
     "geom:latitude":46.372757,
     "geom:longitude":6.48203,
@@ -28,9 +29,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_1u2bbiqScko64BjUHBXHKP_46.372757_6.482030@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"580bf966e6613c32e6665efce4123400",
+    "wof:geomhash":"54f5f1756a7325e19f82c158eb1eaf16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":136300129
         }
     ],
     "wof:id":136300129,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496780518,
     "wof:name":"Banque Rh\u00f4ne-alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.265821,49.484238,6.265821,49.484238",
     "geom:latitude":49.484238,
     "geom:longitude":6.265821,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902457,
+        85683271,
+        102191581,
+        404228309,
+        404384929,
         85633147,
+        1108826391,
+        101902457,
+        136253037,
         102065207
     ],
     "wof:breaches":[],
@@ -41,18 +48,23 @@
         "sg:id":"SG_7QDcSN55Gggc96dvw0TYVI_49.484238_6.265821@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7a6ef21393207391963f1f4a2a5870b8",
+    "wof:geomhash":"dbb4f60d48da0d8f8acee45f24c4023f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065207,
+            "empire_id":136253037,
+            "localadmin_id":404384929,
             "locality_id":101902457,
-            "region_id":-1,
+            "macrocounty_id":404228309,
+            "macroregion_id":1108826391,
+            "region_id":85683271,
             "venue_id":153007801
         }
     ],
     "wof:id":153007801,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496786385,
     "wof:name":"Travaux Industriels Lorrains S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

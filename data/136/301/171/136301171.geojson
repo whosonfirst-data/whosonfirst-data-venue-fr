@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.317116,48.859787,2.317116,48.859787",
     "geom:latitude":48.859787,
     "geom:longitude":2.317116,
@@ -27,11 +28,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873843,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
         102068177,
-        85873843
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,19 @@
     "wof:geomhash":"3b27af8917c9c2e82c23ddc1706b9eb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873843,
             "region_id":85683497,
             "venue_id":136301171
         }
     ],
     "wof:id":136301171,
-    "wof:lastmodified":1473797985,
+    "wof:lastmodified":1491906467,
     "wof:name":"Caisse Fran\u00e7aise De D\u00e9veloppement Industriel",
     "wof:parent_id":85873843,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849705,45.673664,4.849705,45.673664",
     "geom:latitude":45.673664,
     "geom:longitude":4.849705,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1M7rbCvE0qB6qAHqYgH49h_45.673664_4.849705@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d8da64b19d1b22ee8600225cb0905541",
+    "wof:geomhash":"394f16ec7ce023f9a0536424aaf33f9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152110481
         }
     ],
     "wof:id":152110481,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496780265,
     "wof:name":"Fournifleur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

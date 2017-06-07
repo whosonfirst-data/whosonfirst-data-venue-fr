@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.330457,46.605827,0.330457,46.605827",
     "geom:latitude":46.605827,
     "geom:longitude":0.330457,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_62uQdpoOYJb5G8oDB1DFtw_46.605827_0.330457@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d12488354ce5aa578265bc1df13b5749",
+    "wof:geomhash":"e9aec831e81e48c77949f820d122d468",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136282727
         }
     ],
     "wof:id":136282727,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496777054,
     "wof:name":"Novatec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

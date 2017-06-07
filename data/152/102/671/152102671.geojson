@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.419422,45.440224,4.419422,45.440224",
     "geom:latitude":45.440224,
     "geom:longitude":4.419422,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_12GlVNq2CLDhjhkVvbRHhX_45.440224_4.419422@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"393257b388318489d9ad906efa0dfaf8",
+    "wof:geomhash":"1c1605aec5b4eb9e103f72226d585db0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152102671
         }
     ],
     "wof:id":152102671,
-    "wof:lastmodified":1473798251,
+    "wof:lastmodified":1496799858,
     "wof:name":"Jamos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

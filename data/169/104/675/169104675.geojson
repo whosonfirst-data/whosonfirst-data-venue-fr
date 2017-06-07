@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.886453,49.119102,6.886453,49.119102",
     "geom:latitude":49.119102,
     "geom:longitude":6.886453,
@@ -22,28 +23,38 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828125,
-        85633147,
         85683271,
-        102071463
+        102191581,
+        404228121,
+        404388417,
+        85633147,
+        1108826391,
+        101828125,
+        136253037,
+        102071145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FAr9iZm8Fiv8FHEclkgLZ_49.119102_6.886453@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e7ff4552fec1db13e89770ad67680e1e",
+    "wof:geomhash":"cf8e67e30224f65df3ff73cab57a784c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071463,
+            "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404388417,
             "locality_id":101828125,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":169104675
         }
     ],
     "wof:id":169104675,
-    "wof:lastmodified":1473798117,
+    "wof:lastmodified":1496784018,
     "wof:name":"Provost S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

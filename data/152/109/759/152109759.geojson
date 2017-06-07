@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.387022,43.543457,-1.387022,43.543457",
     "geom:latitude":43.543457,
     "geom:longitude":-1.387022,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772893,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404384133,
+        85633147,
+        1108826385,
+        101772893,
+        136253037,
         102068167
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0FQrmXDoJ4jNc4I1DCR0iX_43.543457_-1.387022@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"26b453b120283d2814d304e7d4d2d962",
+    "wof:geomhash":"1d3cf5855b7fab975334906a5c1e73b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068167,
+            "empire_id":136253037,
+            "localadmin_id":404384133,
             "locality_id":101772893,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152109759
         }
     ],
     "wof:id":152109759,
-    "wof:lastmodified":1473798269,
+    "wof:lastmodified":1496775684,
     "wof:name":"Application Plastique Regionale 2 (apr2)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

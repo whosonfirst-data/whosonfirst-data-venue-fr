@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.604077,49.208698,2.604077,49.208698",
     "geom:latitude":49.208698,
     "geom:longitude":2.604077,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5tHU19malqUMdEYwtpMCt0_49.208698_2.604077@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e17c3b1717d3a260467dd7b0a196ac95",
+    "wof:geomhash":"04ba89d55cff740713ee2ea7411f8755",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152056901
         }
     ],
     "wof:id":152056901,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496790184,
     "wof:name":"Flexagri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

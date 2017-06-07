@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.834872,50.664223,1.834872,50.664223",
     "geom:latitude":50.664223,
     "geom:longitude":1.834872,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811187,
-        85633147,
         85683255,
+        102191581,
+        404228131,
+        404386313,
+        85633147,
+        1108826399,
+        101811187,
+        136253037,
         102068283
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6dF2tVUSuIOU1PA0BC14xF_50.664223_1.834872@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cc1bd53cf5940e2e8ac73ebf33542a79",
+    "wof:geomhash":"3ad9043234a25599235048472cb7252e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068283,
+            "empire_id":136253037,
+            "localadmin_id":404386313,
             "locality_id":101811187,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152051991
         }
     ],
     "wof:id":152051991,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496790125,
     "wof:name":"Cofrac Cermix Desvres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

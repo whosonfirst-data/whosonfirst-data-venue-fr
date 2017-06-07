@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.375705,43.491051,2.375705,43.491051",
     "geom:latitude":43.491051,
     "geom:longitude":2.375705,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831835,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404354999,
+        85633147,
+        1108826387,
+        101831835,
+        136253037,
         102072479
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5MiQifIvaXVZVyjKyrfl6i_43.491051_2.375705@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b0881961396e64a74ba6e1f73cb788dd",
+    "wof:geomhash":"3051829399bc98887df467d7b1f6513f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072479,
+            "empire_id":136253037,
+            "localadmin_id":404354999,
             "locality_id":101831835,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136275667
         }
     ],
     "wof:id":136275667,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496803583,
     "wof:name":"Caisse D'epargne Et De Prevoyance De Midi Pyrenees",
-    "wof:parent_id":101831835,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

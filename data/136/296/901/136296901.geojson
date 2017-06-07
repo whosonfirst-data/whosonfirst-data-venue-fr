@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.579815,46.063976,6.579815,46.063976",
     "geom:latitude":46.063976,
     "geom:longitude":6.579815,
@@ -27,9 +28,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829013,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404392625,
+        85633147,
+        1108826389,
+        101829013,
+        136253037,
         102066117
     ],
     "wof:brand_id":420574521,
@@ -38,18 +44,23 @@
         "sg:id":"SG_6hA40hGFdFsE4ZxpXhMGO0_46.063976_6.579815@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"002b57ff0d59cdf081ea1dbd77b0e13e",
+    "wof:geomhash":"57a8c582bfcf01da175bea81665a99d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404392625,
             "locality_id":101829013,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":136296901
         }
     ],
     "wof:id":136296901,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496800601,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

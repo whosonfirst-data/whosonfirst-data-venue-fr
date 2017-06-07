@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.364402,46.493973,0.364402,46.493973",
     "geom:latitude":46.493973,
     "geom:longitude":0.364402,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766985,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404348459,
+        85633147,
+        1108826385,
+        101766985,
+        136253037,
         102069573
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1BwBwU6cUu6TufgfyDE1LZ_46.493973_0.364402@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d6cae5edec75c479f31025607a7d33d4",
+    "wof:geomhash":"6d19afee5b9e1b1eff0169478d4937a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069573,
+            "empire_id":136253037,
+            "localadmin_id":404348459,
             "locality_id":101766985,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":153003583
         }
     ],
     "wof:id":153003583,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496798525,
     "wof:name":"Metal S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

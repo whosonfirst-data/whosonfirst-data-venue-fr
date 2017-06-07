@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.956175,50.949181,1.956175,50.949181",
     "geom:latitude":50.949181,
     "geom:longitude":1.956175,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750231,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228305,
+        1108826399,
+        101750231,
+        136253037,
         102071683
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_2zqawNLPZ6p4adQHpM447s_50.949181_1.956175@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcdd8ecf8996f7571970b97f49a9d651",
+    "wof:geomhash":"d2ece21b6486f36936c917f75ded9e38",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071683,
+            "empire_id":136253037,
             "locality_id":101750231,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152930049
         }
     ],
     "wof:id":152930049,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496790508,
     "wof:name":"Offset Service Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

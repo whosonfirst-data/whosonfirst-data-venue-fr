@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.348751,46.584572,0.348751,46.584572",
     "geom:latitude":46.584572,
     "geom:longitude":0.348751,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_6Rmrw5NdRWLuzApRTIAIjo_46.584572_0.348751@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e970fd08889f8481a7bffc030745c3ed",
+    "wof:geomhash":"2facefaa4b2c0773576dde37c2ac1893",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152046501
         }
     ],
     "wof:id":152046501,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496777551,
     "wof:name":"Lycee Prive Des Feuillants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

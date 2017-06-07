@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.68204,45.208008,5.68204,45.208008",
     "geom:latitude":45.208008,
     "geom:longitude":5.68204,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750753,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404410619,
+        85633147,
+        1108826389,
+        101750753,
+        136253037,
         102070091
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1aLXaIKPOXp6V3Dfa967L0_45.208008_5.682040@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f0c8605bd09b0db841a4624470436f6d",
+    "wof:geomhash":"5f8fd3c2e73873178af8c0aea0685efa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070091,
+            "empire_id":136253037,
+            "localadmin_id":404410619,
             "locality_id":101750753,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":153005603
         }
     ],
     "wof:id":153005603,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496779593,
     "wof:name":"Corelec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.078952,47.342457,5.078952,47.342457",
     "geom:latitude":47.342457,
     "geom:longitude":5.078952,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750903,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404410649,
+        85633147,
+        1108826395,
+        101750903,
+        136253037,
         102065897
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3tImxAWYKKvDmw0USNTf0e_47.342457_5.078952@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03a6a50770ca2ba822852d7e32dd6921",
+    "wof:geomhash":"5f9b314e7a634287f549e9eb3565e051",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065897,
+            "empire_id":136253037,
+            "localadmin_id":404410649,
             "locality_id":101750903,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152952641
         }
     ],
     "wof:id":152952641,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496788351,
     "wof:name":"Boreal Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

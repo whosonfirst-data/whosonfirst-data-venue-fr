@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.296556,49.054707,0.296556,49.054707",
     "geom:latitude":49.054707,
     "geom:longitude":0.296556,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879189,
-        85633147,
         85683579,
+        102191581,
+        404228031,
+        404368999,
+        85633147,
+        1108826393,
+        101879189,
+        136253037,
         102069175
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_1zEFyb1JhCpbXxWvvkrca2_49.054707_0.296556@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"018f5eef374fa57362a9d2ea9e7a0c64",
+    "wof:geomhash":"2d2caec0dc0525d4f56c6bd765248094",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069175,
+            "empire_id":136253037,
+            "localadmin_id":404368999,
             "locality_id":101879189,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152104583
         }
     ],
     "wof:id":152104583,
-    "wof:lastmodified":1473798241,
+    "wof:lastmodified":1496787468,
     "wof:name":"Sarl Multi Services Rolls (msr)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

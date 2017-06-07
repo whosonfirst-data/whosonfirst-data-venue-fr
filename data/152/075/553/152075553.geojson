@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.269292,45.533726,4.269292,45.533726",
     "geom:latitude":45.533726,
     "geom:longitude":4.269292,
@@ -36,28 +37,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830773,
-        85633147,
         85683377,
-        102069939
+        102191581,
+        404227677,
+        404379613,
+        85633147,
+        1108826389,
+        101830773,
+        136253037,
+        102068539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d0YAakiD4tFzMpjSp0eb4_45.533726_4.269292@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58d46f75ee027217ea91c3deb304c2a5",
+    "wof:geomhash":"48f6ecc69c299dbd2d7f4c2975add6d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069939,
+            "county_id":102068539,
+            "empire_id":136253037,
+            "localadmin_id":404379613,
             "locality_id":101830773,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152075553
         }
     ],
     "wof:id":152075553,
-    "wof:lastmodified":1473798137,
+    "wof:lastmodified":1496780158,
     "wof:name":"Cef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

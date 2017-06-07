@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.947995,48.281158,6.947995,48.281158",
     "geom:latitude":48.281158,
     "geom:longitude":6.947995,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827657,
-        85633147,
         85683223,
+        102191581,
+        85633147,
+        404228179,
+        1108826391,
+        101827657,
+        136253037,
         102072365
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1rRstp8AXvfUOKKL3SjA1l_48.281158_6.947995@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb23a7538fffc00e68395f3182e44756",
+    "wof:geomhash":"fe2cd7af5900f16c03f2bf3c820684d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072365,
+            "empire_id":136253037,
             "locality_id":101827657,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152109005
         }
     ],
     "wof:id":152109005,
-    "wof:lastmodified":1473798243,
+    "wof:lastmodified":1496784031,
     "wof:name":"Ste Mecanique De Precision S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

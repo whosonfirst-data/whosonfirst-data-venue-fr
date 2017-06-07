@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.43357,45.897942,4.43357,45.897942",
     "geom:latitude":45.897942,
     "geom:longitude":4.43357,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828919,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404401613,
+        85633147,
+        1108826389,
+        101828919,
+        136253037,
         102069669
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4UNwke2yrIuqGfT4fyY6Pn_45.897942_4.433570@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"332b28698b5442eef948e66b07f2f1b5",
+    "wof:geomhash":"64e95462a0d04ce626a58d1bb1a1540a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069669,
+            "empire_id":136253037,
+            "localadmin_id":404401613,
             "locality_id":101828919,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152044599
         }
     ],
     "wof:id":152044599,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496780816,
     "wof:name":"Association D'education Populaire De Tarare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

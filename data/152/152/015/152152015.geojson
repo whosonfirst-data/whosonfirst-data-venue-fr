@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.919483,45.04665,3.919483,45.04665",
     "geom:latitude":45.04665,
     "geom:longitude":3.919483,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830495,
-        85633147,
         85683413,
+        102191581,
+        404227891,
+        404386235,
+        85633147,
+        1108826389,
+        101830495,
+        136253037,
         102069991
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5xyuV5PwXuNkzE28K8VoQr_45.046650_3.919483@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ba02e60b6b927757ed4c0fd6042b356",
+    "wof:geomhash":"71a86e6e8b2ec4993f385e58aaab7ce9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069991,
+            "empire_id":136253037,
+            "localadmin_id":404386235,
             "locality_id":101830495,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152152015
         }
     ],
     "wof:id":152152015,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496806344,
     "wof:name":"Promeca Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.990694,46.298954,-0.990694,46.298954",
     "geom:latitude":46.298954,
     "geom:longitude":-0.990694,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766471,
-        85633147,
         85683275,
+        102191581,
+        404228037,
+        404360825,
+        85633147,
+        1108826385,
+        101766471,
+        136253037,
         102066715
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2fGEI9D2hRzuMNmMG8bMKD_46.298954_-0.990694@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2e58bccee7ae0a13393c3a5a86a2b6e7",
+    "wof:geomhash":"a4460a01288a9c7eac24431ca448886f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066715,
+            "empire_id":136253037,
+            "localadmin_id":404360825,
             "locality_id":101766471,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136291261
         }
     ],
     "wof:id":136291261,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496777562,
     "wof:name":"Loire Ocean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

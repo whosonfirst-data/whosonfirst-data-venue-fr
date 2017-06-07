@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.589809,48.022858,6.589809,48.022858",
     "geom:latitude":48.022858,
     "geom:longitude":6.589809,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829635,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404353553,
+        85633147,
+        1108826391,
+        101829635,
+        136253037,
         102068567
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1awptd2xC2WFt8yBrfDmcF_48.022858_6.589809@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0cdcb040e0921b58dd27e8e5388a6458",
+    "wof:geomhash":"38f3f3032b5d43050eeb441d9c07a49b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068567,
+            "empire_id":136253037,
+            "localadmin_id":404353553,
             "locality_id":101829635,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152570083
         }
     ],
     "wof:id":152570083,
-    "wof:lastmodified":1473798462,
+    "wof:lastmodified":1496784190,
     "wof:name":"Laboratoire Lohmann & Rausher S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

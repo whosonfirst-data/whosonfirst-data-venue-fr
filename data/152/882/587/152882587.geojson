@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.816615,50.404903,2.816615,50.404903",
     "geom:latitude":50.404903,
     "geom:longitude":2.816615,
@@ -34,28 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840503,
-        85633147,
         85683255,
-        102071771
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840503,
+        136253037,
+        102072031
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dWUwsptbnbxr7aXGQLosX_50.404903_2.816615@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4526f76cef77e0683edbb39329f0092d",
+    "wof:geomhash":"7fec87379c0c3836781b008e529d7aa6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071771,
+            "county_id":102072031,
+            "empire_id":136253037,
             "locality_id":101840503,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152882587
         }
     ],
     "wof:id":152882587,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496790693,
     "wof:name":"Profiles Extrudes Pour Fenetres Portes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

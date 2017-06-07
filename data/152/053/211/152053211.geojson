@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.13231,49.498619,0.13231,49.498619",
     "geom:latitude":49.498619,
     "geom:longitude":0.13231,
@@ -31,30 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794537,
+        102191581,
         85633147,
+        404227963,
+        1108826393,
         101750183,
+        136253037,
         102072319,
-        85794537
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XMdwxxhCI6fosyMBdInPt_49.498619_0.132310@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2de6f5e857563f013e58e76d97c8b676",
+    "wof:geomhash":"bd25efacf7508f2d674113874f285f22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072319,
+            "empire_id":136253037,
             "locality_id":101750183,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794537,
             "region_id":85683251,
             "venue_id":152053211
         }
     ],
     "wof:id":152053211,
-    "wof:lastmodified":1473797894,
+    "wof:lastmodified":1496804866,
     "wof:name":"Chambre De Commerce Du Havre",
     "wof:parent_id":85794537,
     "wof:placetype":"venue",

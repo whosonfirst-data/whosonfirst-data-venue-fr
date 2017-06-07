@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.211696,49.882576,1.211696,49.882576",
     "geom:latitude":49.882576,
     "geom:longitude":1.211696,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812469,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404358837,
+        85633147,
+        1108826393,
+        101812469,
+        136253037,
         102067593
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0545oV61Z6ruUulTHMaZ24_49.882576_1.211696@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c212d1cd9563767cee76209e20604644",
+    "wof:geomhash":"a0e97880e863dda3fad898ee8929e958",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067593,
+            "empire_id":136253037,
+            "localadmin_id":404358837,
             "locality_id":101812469,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152094075
         }
     ],
     "wof:id":152094075,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496787373,
     "wof:name":"La Normande Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

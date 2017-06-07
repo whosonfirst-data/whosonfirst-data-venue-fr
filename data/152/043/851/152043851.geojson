@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.108497,50.660679,3.108497,50.660679",
     "geom:latitude":50.660679,
     "geom:longitude":3.108497,
@@ -31,30 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
+        85794547,
+        102191581,
         85633147,
-        101751547,
-        102071877,
-        85794547
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73T0IKiSvFBhXfYBCoSeq8_50.660679_3.108497@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54ff79b842d6919b9ba32b92d57ce8be",
+    "wof:geomhash":"346e5e33f16ae3a55c7204251648068f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071877,
-            "locality_id":101751547,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794547,
             "region_id":85683445,
             "venue_id":152043851
         }
     ],
     "wof:id":152043851,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496791144,
     "wof:name":"Entreprises Et Cites",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.61107,45.85043,4.61107,45.85043",
     "geom:latitude":45.85043,
     "geom:longitude":4.61107,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828901,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404426459,
+        85633147,
+        1108826389,
+        101828901,
+        136253037,
         102064681
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2baW8Kc9C35DOaWnao97tr_45.850430_4.611070@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"368e3f06a4622893c8a6a622eea4b491",
+    "wof:geomhash":"44fd3420cfc7cd9d98b5c20c24c637a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064681,
+            "empire_id":136253037,
+            "localadmin_id":404426459,
             "locality_id":101828901,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152044755
         }
     ],
     "wof:id":152044755,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496780816,
     "wof:name":"Centre De Recherche Et D'elevage Des Oncins Iffa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.965429,49.050922,3.965429,49.050922",
     "geom:latitude":49.050922,
     "geom:longitude":3.965429,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne-Ardenne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828111,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828111,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7OzsbIYrXuSyV6pbsw0lgn_49.050922_3.965429@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6bab90612aa93761ee6e6f1f19c85e79",
+    "wof:geomhash":"a1c7aa857a910d22d0e32a3436502b6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828111,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":168904925
         }
     ],
     "wof:id":168904925,
-    "wof:lastmodified":1473798071,
+    "wof:lastmodified":1496785827,
     "wof:name":"Din Imprimerie S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

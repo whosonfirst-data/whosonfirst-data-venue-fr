@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.894331,42.697433,2.894331,42.697433",
     "geom:latitude":42.697433,
     "geom:longitude":2.894331,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750645,
-        85633147,
         85683169,
+        102191581,
+        85633147,
+        404227943,
+        1108826387,
+        101750645,
+        136253037,
         102072469
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0QLHu9b1gmVVJ9mp02WV9d_42.697433_2.894331@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a70896362eeb53a5a98b80d325e6e863",
+    "wof:geomhash":"3a93f46e44b11b04d7a3d04d5aaa8076",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072469,
+            "empire_id":136253037,
             "locality_id":101750645,
+            "macrocounty_id":404227943,
+            "macroregion_id":1108826387,
             "region_id":85683169,
             "venue_id":136276591
         }
     ],
     "wof:id":136276591,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496799440,
     "wof:name":"Coopers Et Lybrand Entreprises",
-    "wof:parent_id":101750645,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

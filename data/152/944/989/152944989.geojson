@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.660893,48.922958,7.660893,48.922958",
     "geom:latitude":48.922958,
     "geom:longitude":7.660893,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827847,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404348331,
+        85633147,
+        1108826391,
+        101827847,
+        136253037,
         102067073
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4geOcWJSnb1y5ut1jQcyFX_48.922958_7.660893@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fc3a24ae5dd9ddf4a6470e52206b51e",
+    "wof:geomhash":"4e6e9e1b7a9a83f54cfa67ee52987811",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067073,
+            "empire_id":136253037,
+            "localadmin_id":404348331,
             "locality_id":101827847,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152944989
         }
     ],
     "wof:id":152944989,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496785161,
     "wof:name":"Alstom Ddf S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092935,47.311283,5.092935,47.311283",
     "geom:latitude":47.311283,
     "geom:longitude":5.092935,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753313,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404365881,
+        85633147,
+        1108826395,
+        101753313,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1ZIrhkJkPiKJp6hD2IPrwX_47.311283_5.092935@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5666911c3cf95ea09b6eae8e8305af54",
+    "wof:geomhash":"155b2fc2ac18c1f6c29179c5cb156748",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404365881,
             "locality_id":101753313,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152159101
         }
     ],
     "wof:id":152159101,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496794797,
     "wof:name":"Ste D'automatisme Et Mecanique De Bourgogne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

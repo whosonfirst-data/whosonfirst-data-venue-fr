@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.43286,50.135571,3.43286,50.135571",
     "geom:latitude":50.135571,
     "geom:longitude":3.43286,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899681,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404388325,
+        85633147,
+        1108826399,
+        101899681,
+        136253037,
         102067063
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_33qoPAeBr1IBFrYAy1nrF4_50.135571_3.432860@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"816d3ace154835c4987ebe3eb7fcc42e",
+    "wof:geomhash":"f5c05d0f3038d7d2e2fa2fd526eb5308",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067063,
+            "empire_id":136253037,
+            "localadmin_id":404388325,
             "locality_id":101899681,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169048075
         }
     ],
     "wof:id":169048075,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496792230,
     "wof:name":"Machu Victor Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

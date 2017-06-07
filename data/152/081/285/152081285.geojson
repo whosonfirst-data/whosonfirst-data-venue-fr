@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.734433,45.995678,4.734433,45.995678",
     "geom:latitude":45.995678,
     "geom:longitude":4.734433,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5zTG0iCEidAzLt6WkxeRdj_45.995678_4.734433@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4280f2156c58bd0c90674f054cb262f3",
+    "wof:geomhash":"46b376d48de0874ba22ceeed8387fddc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152081285
         }
     ],
     "wof:id":152081285,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496799984,
     "wof:name":"Compagnie Generale Des Eaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

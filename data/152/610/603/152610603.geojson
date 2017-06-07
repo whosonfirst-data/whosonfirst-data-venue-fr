@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.762414,45.652542,4.762414,45.652542",
     "geom:latitude":45.652542,
     "geom:longitude":4.762414,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753225,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404424073,
+        85633147,
+        1108826389,
+        101753225,
+        136253037,
         102069091
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4UkvLqTcnzJFDxf1h8eubW_45.652542_4.762414@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c2d44b803fdbf24ea89f88f4e1b04340",
+    "wof:geomhash":"5e8ead21bbc2ec02cc7c8179c99fb15c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069091,
+            "empire_id":136253037,
+            "localadmin_id":404424073,
             "locality_id":101753225,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152610603
         }
     ],
     "wof:id":152610603,
-    "wof:lastmodified":1473798481,
+    "wof:lastmodified":1496800036,
     "wof:name":"Manustra Techniques S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

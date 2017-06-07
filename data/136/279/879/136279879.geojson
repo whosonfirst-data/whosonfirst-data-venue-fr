@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.061386,49.329903,6.061386,49.329903",
     "geom:latitude":49.329903,
     "geom:longitude":6.061386,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757345,
-        85633147,
         85683271,
+        102191581,
+        404228323,
+        404405959,
+        85633147,
+        1108826391,
+        101757345,
+        136253037,
         102067169
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2fYQAwFAF91nj3bjL37UL0_49.329903_6.061386@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce2524179ec8e3a6dde995af53124216",
+    "wof:geomhash":"40f9be08cc9cbbd0f6fcc6d11d976e67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067169,
+            "empire_id":136253037,
+            "localadmin_id":404405959,
             "locality_id":101757345,
+            "macrocounty_id":404228323,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136279879
         }
     ],
     "wof:id":136279879,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496785878,
     "wof:name":"Sofico France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

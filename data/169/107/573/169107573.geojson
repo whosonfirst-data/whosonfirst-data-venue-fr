@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.933601,49.914406,2.933601,49.914406",
     "geom:latitude":49.914406,
     "geom:longitude":2.933601,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812553,
-        85633147,
         85683363,
+        102191581,
+        404228267,
+        404362145,
+        85633147,
+        1108826399,
+        101812553,
+        136253037,
         102070349
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5CKQsEAREYssy8EM2FNIXB_49.914406_2.933601@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06bb6b721685d4e4b0182ded503d6ff2",
+    "wof:geomhash":"6ad8564c0117ec1b05c795663f392414",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070349,
+            "empire_id":136253037,
+            "localadmin_id":404362145,
             "locality_id":101812553,
+            "macrocounty_id":404228267,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169107573
         }
     ],
     "wof:id":169107573,
-    "wof:lastmodified":1473798111,
+    "wof:lastmodified":1496792604,
     "wof:name":"P\u00e9ronne Mat\u00e9riaux S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

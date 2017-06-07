@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.590385,50.72105,1.590385,50.72105",
     "geom:latitude":50.72105,
     "geom:longitude":1.590385,
@@ -33,30 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k6zv7LsnFVIO8VcmtW3mB_50.721050_1.590385@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15c5136f0073d5f585b897a3e3dae67f",
+    "wof:geomhash":"0694f3a42570f3b54334ca2083148092",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":152143627
         }
     ],
     "wof:id":152143627,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496791129,
     "wof:name":"Installation Et Maintenance Europeennes Frigorifiques",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

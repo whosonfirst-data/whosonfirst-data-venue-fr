@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.621322,44.204113,0.621322,44.204113",
     "geom:latitude":44.204113,
     "geom:longitude":0.621322,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0Bmzj0XQLmRu52yMPxGa7M_44.204113_0.621322@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54c3310786f6c51c5c9e61d98534f7d4",
+    "wof:geomhash":"e60b6f218d3bb5f843b56c364c762829",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152043889
         }
     ],
     "wof:id":152043889,
-    "wof:lastmodified":1473797896,
+    "wof:lastmodified":1496798236,
     "wof:name":"Federation D'aide A Domicile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

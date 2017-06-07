@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.03819,49.50864,1.03819,49.50864",
     "geom:latitude":49.50864,
     "geom:longitude":1.03819,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750201,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404406879,
+        85633147,
+        1108826393,
+        101750201,
+        136253037,
         102071813
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6RfrodkwJTiuPtNFYT6X3G_49.508640_1.038190@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1638543d572f8c1ef5a3ffbb89260c0",
+    "wof:geomhash":"7719e4d8afba6b5cd6194dab3b1f200c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071813,
+            "empire_id":136253037,
+            "localadmin_id":404406879,
             "locality_id":101750201,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152078279
         }
     ],
     "wof:id":152078279,
-    "wof:lastmodified":1473798132,
+    "wof:lastmodified":1496787286,
     "wof:name":"Gnd Automatismes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

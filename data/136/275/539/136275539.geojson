@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86083,45.511162,4.86083,45.511162",
     "geom:latitude":45.511162,
     "geom:longitude":4.86083,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830603,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404353875,
+        85633147,
+        1108826389,
+        101830603,
+        136253037,
         102072517
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2rMyYMl7OiPmkFt6u14Pc1_45.511162_4.860830@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f17ac3dff734969e9f42cac34138622d",
+    "wof:geomhash":"59a758c494311109378b7e8d71316fb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072517,
+            "empire_id":136253037,
+            "localadmin_id":404353875,
             "locality_id":101830603,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136275539
         }
     ],
     "wof:id":136275539,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496780784,
     "wof:name":"Cabinet Magnat Sa",
-    "wof:parent_id":101830603,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.9123,45.570156,5.9123,45.570156",
     "geom:latitude":45.570156,
     "geom:longitude":5.9123,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_52y4208pHp3RkazKAymyXD_45.570156_5.912300@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"530b9c1b17edb5849ff1f113445a3169",
+    "wof:geomhash":"1ffe45de1a597ad8a1ab747d98326906",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152049695
         }
     ],
     "wof:id":152049695,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496781945,
     "wof:name":"Residence Agelia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

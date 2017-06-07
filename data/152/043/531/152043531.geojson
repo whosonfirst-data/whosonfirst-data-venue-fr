@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.084003,49.431664,1.084003,49.431664",
     "geom:latitude":49.431664,
     "geom:longitude":1.084003,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6HfjLFZHjNMCznI0xY5OXc_49.431664_1.084003@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e458b6589e6c781a33248cbe504f706",
+    "wof:geomhash":"d23b96297f8a190bf717da868462b70e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152043531
         }
     ],
     "wof:id":152043531,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496804868,
     "wof:name":"Association Normandie Developpement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

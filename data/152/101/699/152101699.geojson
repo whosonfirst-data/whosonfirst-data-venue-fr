@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.384655,45.466461,4.384655,45.466461",
     "geom:latitude":45.466461,
     "geom:longitude":4.384655,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5VYmwVUnclXqNv9rgnFyno_45.466461_4.384655@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6535a16eabb5e6750c6117b319f0a48d",
+    "wof:geomhash":"a1413db4c69ec956e3a8308378b26869",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152101699
         }
     ],
     "wof:id":152101699,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496779563,
     "wof:name":"Chemica Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

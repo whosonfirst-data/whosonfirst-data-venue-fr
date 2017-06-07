@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.807114,46.124096,5.807114,46.124096",
     "geom:latitude":46.124096,
     "geom:longitude":5.807114,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767975,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404383667,
+        85633147,
+        1108826389,
+        101767975,
+        136253037,
         102064803
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1U85gKW2xz3VYi9JPFet6U_46.124096_5.807114@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0fe3a45a491e2814368ab4dd3a5297d6",
+    "wof:geomhash":"b87c68db3919b386d335a1df90e044fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064803,
+            "empire_id":136253037,
+            "localadmin_id":404383667,
             "locality_id":101767975,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152220311
         }
     ],
     "wof:id":152220311,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1496781556,
     "wof:name":"Etablissements Carrel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

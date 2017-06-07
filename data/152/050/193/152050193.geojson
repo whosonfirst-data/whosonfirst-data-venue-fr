@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.80055,47.812183,3.80055,47.812183",
     "geom:latitude":47.812183,
     "geom:longitude":3.80055,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766171,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404356717,
+        85633147,
+        1108826395,
+        101766171,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4wYgKmFeOhzl3JFDFpuS0Y_47.812183_3.800550@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ea84d4bc87995cc9b6149d6b175f9ae",
+    "wof:geomhash":"2bc4c22065985a5fa2dc61df1a70bfcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404356717,
             "locality_id":101766171,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152050193
         }
     ],
     "wof:id":152050193,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496788471,
     "wof:name":"Hotellerie Des Clos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

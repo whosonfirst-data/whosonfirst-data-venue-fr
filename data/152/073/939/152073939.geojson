@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.224966,49.09425,4.224966,49.09425",
     "geom:latitude":49.09425,
     "geom:longitude":4.224966,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879921,
-        85633147,
         85683405,
+        102191581,
+        404227697,
+        404420793,
+        85633147,
+        1108826391,
+        101879921,
+        136253037,
         102069275
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7JaH4Waz8EU60nWsPsqEXq_49.094250_4.224966@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4086b1c57dbbbd438baab56fd72dee1e",
+    "wof:geomhash":"e69ffcb83f9c6b5b2586c097eff5bd62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069275,
+            "empire_id":136253037,
+            "localadmin_id":404420793,
             "locality_id":101879921,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073939
         }
     ],
     "wof:id":152073939,
-    "wof:lastmodified":1473798148,
+    "wof:lastmodified":1496805529,
     "wof:name":"Societe Champenoise De Prestations (scp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

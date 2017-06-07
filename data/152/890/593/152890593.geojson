@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.906442,49.224415,2.906442,49.224415",
     "geom:latitude":49.224415,
     "geom:longitude":2.906442,
@@ -27,9 +28,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761689,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404376905,
+        85633147,
+        1108826399,
+        101761689,
+        136253037,
         102066575
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1pTbSj9fAfM4edDLOS69mk_49.224415_2.906442@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"43595ce184a5f1fd5fc8d55def03ec1d",
+    "wof:geomhash":"100278c1a7c8df6b7f6e1090052aa4fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066575,
+            "empire_id":136253037,
+            "localadmin_id":404376905,
             "locality_id":101761689,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152890593
         }
     ],
     "wof:id":152890593,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496790280,
     "wof:name":"Federal Mogul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

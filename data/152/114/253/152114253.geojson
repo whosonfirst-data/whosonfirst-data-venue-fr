@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.321545,48.690884,5.321545,48.690884",
     "geom:latitude":48.690884,
     "geom:longitude":5.321545,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763979,
-        85633147,
         85683297,
+        102191581,
+        404227707,
+        404355549,
+        85633147,
+        1108826391,
+        101763979,
+        136253037,
         102066251
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2oeI4qJIoCHc7gayfmodWf_48.690884_5.321545@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"edc93bf21bb840a6009ece4994e3f037",
+    "wof:geomhash":"342ddbf486a39e8c8a32ecdfe9e8fe5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066251,
+            "empire_id":136253037,
+            "localadmin_id":404355549,
             "locality_id":101763979,
+            "macrocounty_id":404227707,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":152114253
         }
     ],
     "wof:id":152114253,
-    "wof:lastmodified":1473798266,
+    "wof:lastmodified":1496785273,
     "wof:name":"Mecanique De Precision Du Barrois Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

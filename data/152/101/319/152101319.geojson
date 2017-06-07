@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.65715,46.25322,5.65715,46.25322",
     "geom:latitude":46.25322,
     "geom:longitude":5.65715,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3yEjsFJSik4x6XYNagUL7Y_46.253220_5.657150@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"736b43fb04da0c3dc8c9801c5c4a38ea",
+    "wof:geomhash":"dce76215c0988063a8cceabdd0abde94",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152101319
         }
     ],
     "wof:id":152101319,
-    "wof:lastmodified":1473798230,
+    "wof:lastmodified":1496780110,
     "wof:name":"A. Paget Et Fils Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

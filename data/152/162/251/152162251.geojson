@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.132656,47.802921,7.132656,47.802921",
     "geom:latitude":47.802921,
     "geom:longitude":7.132656,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829551,
-        85633147,
         85683381,
+        102191581,
+        404228307,
+        404412463,
+        85633147,
+        1108826391,
+        101829551,
+        136253037,
         102069061
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_5wc5C6qAWeFmGNfJqF8IZH_47.802921_7.132656@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"26cd29879cc316b52b13655332346535",
+    "wof:geomhash":"1481a2860bf8ab0dbfec63e60d64ce8a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069061,
+            "empire_id":136253037,
+            "localadmin_id":404412463,
             "locality_id":101829551,
+            "macrocounty_id":404228307,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152162251
         }
     ],
     "wof:id":152162251,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496785115,
     "wof:name":"Mapco Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

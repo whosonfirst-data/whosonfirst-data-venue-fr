@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.046769,49.166164,4.046769,49.166164",
     "geom:latitude":49.166164,
     "geom:longitude":4.046769,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101759863,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404372815,
+        85633147,
+        1108826391,
+        101759863,
+        136253037,
         102069875
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_242SDegwiU72zf786spNU2_49.166164_4.046769@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b8411c36a5e954d36895bf0bcc2387f",
+    "wof:geomhash":"d60ec66dfe8f54f8b97c78a9041548ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069875,
+            "empire_id":136253037,
+            "localadmin_id":404372815,
             "locality_id":101759863,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071797
         }
     ],
     "wof:id":152071797,
-    "wof:lastmodified":1473798119,
+    "wof:lastmodified":1496805635,
     "wof:name":"Champagne Binet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

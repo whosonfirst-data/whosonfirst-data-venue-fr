@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.778455,50.297298,2.778455,50.297298",
     "geom:latitude":50.297298,
     "geom:longitude":2.778455,
@@ -24,9 +25,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840385,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404420323,
+        85633147,
+        1108826399,
+        101840385,
+        136253037,
         102064675
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2k6dtpgFhy8KARxHu97qIa_50.297298_2.778455@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d4762b4c01d11a3d56d0176160ebb56",
+    "wof:geomhash":"e9ccdd9ff5b61f928b6f32b86c42ae1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064675,
+            "empire_id":136253037,
+            "localadmin_id":404420323,
             "locality_id":101840385,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152285527
         }
     ],
     "wof:id":152285527,
-    "wof:lastmodified":1473798354,
+    "wof:lastmodified":1496792046,
     "wof:name":"Autop S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

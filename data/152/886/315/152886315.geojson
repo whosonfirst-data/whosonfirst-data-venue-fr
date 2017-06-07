@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.873515,48.764977,7.873515,48.764977",
     "geom:latitude":48.764977,
     "geom:longitude":7.873515,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827861,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404413105,
+        85633147,
+        1108826391,
+        101827861,
+        136253037,
         102064753
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_6HYQz08ZB2VUVSWlAw5izF_48.764977_7.873515@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9cf8ef146a78b9f58ad22e642caf0002",
+    "wof:geomhash":"315dea5ea4f896c30b054b2a88db4d96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064753,
+            "empire_id":136253037,
+            "localadmin_id":404413105,
             "locality_id":101827861,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152886315
         }
     ],
     "wof:id":152886315,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496784847,
     "wof:name":"Metzeler Mousse Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

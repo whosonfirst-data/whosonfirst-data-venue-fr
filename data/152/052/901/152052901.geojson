@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.853857,49.236095,2.853857,49.236095",
     "geom:latitude":49.236095,
     "geom:longitude":2.853857,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879295,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404394995,
+        85633147,
+        1108826399,
+        101879295,
+        136253037,
         102066575
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4KmF0H4ATw18acGlUOmytH_49.236095_2.853857@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ab18fc498177c5c5b043bfe62bdb543",
+    "wof:geomhash":"fff0fbe66966e60a6dc030b5d4b5255c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066575,
+            "empire_id":136253037,
+            "localadmin_id":404394995,
             "locality_id":101879295,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152052901
         }
     ],
     "wof:id":152052901,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496792300,
     "wof:name":"Societe D'exploitation Du Moulin De Duvy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

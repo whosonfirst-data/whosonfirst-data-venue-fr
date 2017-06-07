@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.742166,45.786819,4.742166,45.786819",
     "geom:latitude":45.786819,
     "geom:longitude":4.742166,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752985,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404404835,
+        85633147,
+        1108826389,
+        101752985,
+        136253037,
         102069953
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7JG9N7upzpiodpj3cKTBSY_45.786819_4.742166@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4acedb90f6c9822505004435e5b427da",
+    "wof:geomhash":"b6296f5723c2bb1fb9937efe11b4546e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069953,
+            "empire_id":136253037,
+            "localadmin_id":404404835,
             "locality_id":101752985,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136274755
         }
     ],
     "wof:id":136274755,
-    "wof:lastmodified":1473797906,
+    "wof:lastmodified":1496779467,
     "wof:name":"Auditeurs Consultants Associes",
-    "wof:parent_id":101752985,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

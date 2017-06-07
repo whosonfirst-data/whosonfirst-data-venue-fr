@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.96512,48.97324,3.96512,48.97324",
     "geom:latitude":48.97324,
     "geom:longitude":3.96512,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879943,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404368665,
+        85633147,
+        1108826391,
+        101879943,
+        136253037,
         102064555
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4lp6raQ41096zPEAVhGpHB_48.973240_3.965120@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1347e2ea7cd8543df668596d968766fd",
+    "wof:geomhash":"9f79ba1c30dd4b175ff5d23fa2b95f18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064555,
+            "empire_id":136253037,
+            "localadmin_id":404368665,
             "locality_id":101879943,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071895
         }
     ],
     "wof:id":152071895,
-    "wof:lastmodified":1473798118,
+    "wof:lastmodified":1496805554,
     "wof:name":"Champagne Mathieu Princet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

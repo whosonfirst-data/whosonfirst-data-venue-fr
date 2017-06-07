@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.810359,49.14537,6.810359,49.14537",
     "geom:latitude":49.14537,
     "geom:longitude":6.810359,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101758677,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404356099,
+        85633147,
+        1108826391,
+        101758677,
+        136253037,
         102071145
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2i7RldxdjJUQHU58jsm7rq_49.145370_6.810359@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"030a56e8ca3b1f84a1e15f1994b1b4db",
+    "wof:geomhash":"34c1349ac62742c8cb706a063c753d1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404356099,
             "locality_id":101758677,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152508305
         }
     ],
     "wof:id":152508305,
-    "wof:lastmodified":1473798440,
+    "wof:lastmodified":1496785801,
     "wof:name":"Greta Du Bassin Houiller Lorrain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

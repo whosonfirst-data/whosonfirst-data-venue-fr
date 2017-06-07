@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.129773,49.288166,-0.129773,49.288166",
     "geom:latitude":49.288166,
     "geom:longitude":-0.129773,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828423,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404371751,
+        85633147,
+        1108826393,
+        101828423,
+        136253037,
         102071443
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1eVUTOUBJq0Ay9iDcbFBLw_49.288166_-0.129773@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dec4acfe26f425fa85df2a296756f740",
+    "wof:geomhash":"64bcb6583bac9c9934daa8d8af4561d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071443,
+            "empire_id":136253037,
+            "localadmin_id":404371751,
             "locality_id":101828423,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":169232311
         }
     ],
     "wof:id":169232311,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1496787774,
     "wof:name":"Pierre Houchard Ste Coop Ouvriere De Prod Anonyme A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.76138,45.758121,4.76138,45.758121",
     "geom:latitude":45.758121,
     "geom:longitude":4.76138,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750815,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404382673,
+        85633147,
+        1108826389,
+        101750815,
+        136253037,
         102071597
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7cBRWeTpTxDsyh2QDQCzlo_45.758121_4.761380@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55cc2a3ca3f2ce2e35d3f8ab3613cf92",
+    "wof:geomhash":"4f37d0571a2eb1a2f41ced067d54785a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071597,
+            "empire_id":136253037,
+            "localadmin_id":404382673,
             "locality_id":101750815,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152145173
         }
     ],
     "wof:id":152145173,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496779685,
     "wof:name":"Lambert Alcyon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

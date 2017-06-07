@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.243101,50.472755,3.243101,50.472755",
     "geom:latitude":50.472755,
     "geom:longitude":3.243101,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812665,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404410511,
+        85633147,
+        1108826399,
+        101812665,
+        136253037,
         102071465
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2R3HGMF6aqdzMYCyFZAZMb_50.472755_3.243101@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6afad36885082b85fa1539851532b68",
+    "wof:geomhash":"7ba6fa272c4b7466f8fc17f9241150c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071465,
+            "empire_id":136253037,
+            "localadmin_id":404410511,
             "locality_id":101812665,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152107387
         }
     ],
     "wof:id":152107387,
-    "wof:lastmodified":1473798256,
+    "wof:lastmodified":1496790408,
     "wof:name":"Laboratoire Dalle Desaulty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

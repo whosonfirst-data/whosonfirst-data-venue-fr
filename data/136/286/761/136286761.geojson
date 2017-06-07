@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.919254,45.56953,5.919254,45.56953",
     "geom:latitude":45.56953,
     "geom:longitude":5.919254,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1ylIipjsOdqrrTe2dYpiUU_45.569530_5.919254@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4b12a454c6101ad7ec5ea74e0433ab73",
+    "wof:geomhash":"3541c339fa258145537a3f2a170d719f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":136286761
         }
     ],
     "wof:id":136286761,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496799855,
     "wof:name":"Office National Des Forets (onf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

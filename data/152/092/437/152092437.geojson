@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.321222,49.166992,-0.321222,49.166992",
     "geom:latitude":49.166992,
     "geom:longitude":-0.321222,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750167,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404227825,
+        1108826393,
+        101750167,
+        136253037,
         102071255
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_0G1UnCnVY1uGTX6twE7p2L_49.166992_-0.321222@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"daaec789ebe81dcb3e26734d360098fc",
+    "wof:geomhash":"8aba9ab5895fba526fa490dd64732255",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071255,
+            "empire_id":136253037,
             "locality_id":101750167,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152092437
         }
     ],
     "wof:id":152092437,
-    "wof:lastmodified":1473798199,
+    "wof:lastmodified":1496787651,
     "wof:name":"Normandie Tuyauterie Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

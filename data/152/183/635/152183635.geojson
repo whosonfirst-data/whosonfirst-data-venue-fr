@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.395794,48.275425,6.395794,48.275425",
     "geom:latitude":48.275425,
     "geom:longitude":6.395794,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827669,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404369143,
+        85633147,
+        1108826391,
+        101827669,
+        136253037,
         102065255
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0qA2DiJ1TzzBahjgAI3ymY_48.275425_6.395794@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d59ba54c177457b0fadc748d0c490fb",
+    "wof:geomhash":"580c8c19c658246510f19f9550c41c74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065255,
+            "empire_id":136253037,
+            "localadmin_id":404369143,
             "locality_id":101827669,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152183635
         }
     ],
     "wof:id":152183635,
-    "wof:lastmodified":1473798317,
+    "wof:lastmodified":1496785573,
     "wof:name":"Sa Coanus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

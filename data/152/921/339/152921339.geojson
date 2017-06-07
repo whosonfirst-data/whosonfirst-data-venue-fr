@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.160856,50.72554,3.160856,50.72554",
     "geom:latitude":50.72554,
     "geom:longitude":3.160856,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_3ZXtCzjMSHuImOihdWeGO1_50.725540_3.160856@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"92b535e64163e1f98ba708304ebc472d",
+    "wof:geomhash":"668d0dad88ddd3f1c59c136d11b94fcd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152921339
         }
     ],
     "wof:id":152921339,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496792178,
     "wof:name":"Bl Impression",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

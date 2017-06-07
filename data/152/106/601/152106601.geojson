@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.111836,44.109779,4.111836,44.109779",
     "geom:latitude":44.109779,
     "geom:longitude":4.111836,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831863,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227651,
+        1108826387,
+        101831863,
+        136253037,
         102072253
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5cV7MtftoeLh70M8EPNcOq_44.109779_4.111836@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d6e7229fb9ff46ed5f92ad3deda3a20",
+    "wof:geomhash":"b08d420cb9aab87f3003a637d49dc240",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072253,
+            "empire_id":136253037,
             "locality_id":101831863,
+            "macrocounty_id":404227651,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152106601
         }
     ],
     "wof:id":152106601,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496778296,
     "wof:name":"Art Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

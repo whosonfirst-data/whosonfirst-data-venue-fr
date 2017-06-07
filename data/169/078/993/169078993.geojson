@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.031804,45.622372,-1.031804,45.622372",
     "geom:latitude":45.622372,
     "geom:longitude":-1.031804,
@@ -24,9 +25,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829171,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404227833,
+        1108826385,
+        101829171,
+        136253037,
         102072059
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_2qynQiwVEMrQEklUiNDx3R_45.622372_-1.031804@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d5601d90bbe91f8a320d3fc68bcbfb4",
+    "wof:geomhash":"a04cd5e0eb435356a4e77f05ceca1b9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072059,
+            "empire_id":136253037,
             "locality_id":101829171,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":169078993
         }
     ],
     "wof:id":169078993,
-    "wof:lastmodified":1473798071,
+    "wof:lastmodified":1496776379,
     "wof:name":"Office De Tourisme De Royan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

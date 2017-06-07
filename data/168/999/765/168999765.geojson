@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.531679,45.163925,1.531679,45.163925",
     "geom:latitude":45.163925,
     "geom:longitude":1.531679,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830659,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
         102072241
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_41zPz42PcCGrPOcg3iLG6s_45.163925_1.531679@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"43d72bdc0c5e11222fde64ddb795a631",
+    "wof:geomhash":"5a1a48a9a87ac2bd5d3d077fae9d50c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
             "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":168999765
         }
     ],
     "wof:id":168999765,
-    "wof:lastmodified":1473798199,
+    "wof:lastmodified":1496776126,
     "wof:name":"Imprimerie J.p. Dales S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

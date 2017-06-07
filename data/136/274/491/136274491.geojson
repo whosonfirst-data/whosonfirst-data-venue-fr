@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.365237,48.960014,4.365237,48.960014",
     "geom:latitude":48.960014,
     "geom:longitude":4.365237,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6eaegFp3ScSWucebjKzi7c_48.960014_4.365237@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8c338e0a1677e57b52233f49079a482",
+    "wof:geomhash":"e31c4accef682e2a200bcb5a2a0a51d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136274491
         }
     ],
     "wof:id":136274491,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496786505,
     "wof:name":"Acg & Associes",
-    "wof:parent_id":101828123,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

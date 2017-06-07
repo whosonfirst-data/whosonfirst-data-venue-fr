@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.494737,45.401314,2.494737,45.401314",
     "geom:latitude":45.401314,
     "geom:longitude":2.494737,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769319,
-        85633147,
         85683209,
+        102191581,
+        404228041,
+        404363141,
+        85633147,
+        1108826385,
+        101769319,
+        136253037,
         102065161
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0SnM3ETdmYKf2yiXGSO0KN_45.401314_2.494737@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d63e2fe34b7e22d5282837109a9489b",
+    "wof:geomhash":"cdd595da4a1ad008946da334fd1ec82f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065161,
+            "empire_id":136253037,
+            "localadmin_id":404363141,
             "locality_id":101769319,
+            "macrocounty_id":404228041,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":153029077
         }
     ],
     "wof:id":153029077,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496775614,
     "wof:name":"Cheriex Transports Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

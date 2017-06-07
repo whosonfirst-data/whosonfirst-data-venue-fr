@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.491953,46.37632,6.491953,46.37632",
     "geom:latitude":46.37632,
     "geom:longitude":6.491953,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5FEyIDZwmWPLGuDxLt3Nkk_46.376320_6.491953@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc102db60aa6d82c0efcdcc83b0a84d7",
+    "wof:geomhash":"f0cfbb845d6e668e4edaa2797d733e91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152211217
         }
     ],
     "wof:id":152211217,
-    "wof:lastmodified":1473798325,
+    "wof:lastmodified":1496781651,
     "wof:name":"Marbrerie Buttay Rouger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

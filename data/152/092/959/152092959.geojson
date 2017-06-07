@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.937467,43.586887,3.937467,43.586887",
     "geom:latitude":43.586887,
     "geom:longitude":3.937467,
@@ -34,26 +35,42 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544757,
+        85683419,
+        102191581,
+        404228073,
+        404410881,
         85633147,
-        85683419
+        1108826387,
+        136253037,
+        102071489
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z486VDN72nvqnFCAtxKRa_43.586887_3.937467@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"941e8d93dfcde9619fd33fd3e5eeba4d",
+    "wof:geomhash":"62cc03cda8373e70843434e83b8ed550",
     "wof:hierarchy":[
         {
+            "campus_id":102544757,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071489,
+            "empire_id":136253037,
+            "localadmin_id":404410881,
+            "locality_id":-1,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":-1,
             "region_id":85683419,
             "venue_id":152092959
         }
     ],
     "wof:id":152092959,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496778423,
     "wof:name":"Dedienne Sante S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

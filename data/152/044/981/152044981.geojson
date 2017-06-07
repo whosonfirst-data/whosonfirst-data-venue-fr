@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.965299,47.220383,5.965299,47.220383",
     "geom:latitude":47.220383,
     "geom:longitude":5.965299,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6ij8WKfM0XZhOclxvzSi0i_47.220383_5.965299@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3caabb7a8e7f1436338aa789198e188",
+    "wof:geomhash":"75ee6ec54c28bb6bac77e6dd000778c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152044981
         }
     ],
     "wof:id":152044981,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496788326,
     "wof:name":"College Diderot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

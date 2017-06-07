@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.162668,49.090263,6.162668,49.090263",
     "geom:latitude":49.090263,
     "geom:longitude":6.162668,
@@ -22,9 +23,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750107,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404411163,
+        85633147,
+        1108826391,
+        101750107,
+        136253037,
         102068125
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0AvPbtWNORTkYavCbopTkv_49.090263_6.162668@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f697b2c6facbde74864934d11df9078",
+    "wof:geomhash":"5a5587b779bf4a16190b660e85b5efd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068125,
+            "empire_id":136253037,
+            "localadmin_id":404411163,
             "locality_id":101750107,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152263363
         }
     ],
     "wof:id":152263363,
-    "wof:lastmodified":1473798342,
+    "wof:lastmodified":1496785997,
     "wof:name":"Allo Nettoyage S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.920956,50.866989,1.920956,50.866989",
     "geom:latitude":50.866989,
     "geom:longitude":1.920956,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811165,
-        85633147,
         85683255,
+        102191581,
+        404228305,
+        404387157,
+        85633147,
+        1108826399,
+        101811165,
+        136253037,
         102069059
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1sFCjXP879VbfrHgbk2uuM_50.866989_1.920956@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"377fcd23635b0981c2ac928d815aca7e",
+    "wof:geomhash":"1d15a9b48af4c179cb830cc8e611e452",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069059,
+            "empire_id":136253037,
+            "localadmin_id":404387157,
             "locality_id":101811165,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152075325
         }
     ],
     "wof:id":152075325,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496792148,
     "wof:name":"Service Integration Electronique Electri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

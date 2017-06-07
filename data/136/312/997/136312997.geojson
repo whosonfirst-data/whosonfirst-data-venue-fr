@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.709029,49.103718,6.709029,49.103718",
     "geom:latitude":49.103718,
     "geom:longitude":6.709029,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828171,
-        85633147,
         85683271,
+        102191581,
+        85633147,
+        404228121,
+        1108826391,
+        101828171,
+        136253037,
         102072083
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6aCWGLVgOMFNK2TPy9DRxo_49.103718_6.709029@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b36da94462d2617d29cde6d898f777c7",
+    "wof:geomhash":"dcc44f5719b00c5ca11a7fe75038457b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072083,
+            "empire_id":136253037,
             "locality_id":101828171,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136312997
         }
     ],
     "wof:id":136312997,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496794004,
     "wof:name":"Sa D'exploitation Des Etablissements Streiff Pierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

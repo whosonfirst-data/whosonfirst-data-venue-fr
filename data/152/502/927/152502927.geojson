@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.964322,48.997456,3.964322,48.997456",
     "geom:latitude":48.997456,
     "geom:longitude":3.964322,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne-Ardenne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879939,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404352921,
+        85633147,
+        1108826391,
+        101879939,
+        136253037,
         102064555
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4FAWNFUSxh1z6MFqccJtaj_48.997456_3.964322@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f50ddf9ab69a64a7dad440294ab6d485",
+    "wof:geomhash":"b93c60c3cb07ecc6b2a474412cd9c955",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064555,
+            "empire_id":136253037,
+            "localadmin_id":404352921,
             "locality_id":101879939,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152502927
         }
     ],
     "wof:id":152502927,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1496786537,
     "wof:name":"Gimonnet Pierre Et Fils S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

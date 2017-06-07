@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.970437,47.238777,4.970437,47.238777",
     "geom:latitude":47.238777,
     "geom:longitude":4.970437,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890653,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404408759,
+        85633147,
+        1108826395,
+        101890653,
+        136253037,
         102067033
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_41kMOMeiW4aG9ggT51zFVv_47.238777_4.970437@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa8d6add9e9b878d58923e61134febca",
+    "wof:geomhash":"4d3317cb65a369b712fa3ac57396b706",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067033,
+            "empire_id":136253037,
+            "localadmin_id":404408759,
             "locality_id":101890653,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152573731
         }
     ],
     "wof:id":152573731,
-    "wof:lastmodified":1473798485,
+    "wof:lastmodified":1496788776,
     "wof:name":"Laiterie De La C\u00f4te S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

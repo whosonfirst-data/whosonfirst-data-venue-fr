@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.091705,46.022202,4.091705,46.022202",
     "geom:latitude":46.022202,
     "geom:longitude":4.091705,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828957,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404426389,
+        85633147,
+        1108826389,
+        101828957,
+        136253037,
         102066879
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ObFbDqMAUW1sRzlW6HUWu_46.022202_4.091705@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b5e5d4ce7ed0476ba77c944a8fd4178c",
+    "wof:geomhash":"7b0a3781f123c970c594d7d4488a3e5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066879,
+            "empire_id":136253037,
+            "localadmin_id":404426389,
             "locality_id":101828957,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168936241
         }
     ],
     "wof:id":168936241,
-    "wof:lastmodified":1473798101,
+    "wof:lastmodified":1496801711,
     "wof:name":"Etablissements Desbenoit S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

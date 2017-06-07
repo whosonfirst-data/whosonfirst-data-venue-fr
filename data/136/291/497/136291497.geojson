@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.257522,45.39476,5.257522,45.39476",
     "geom:latitude":45.39476,
     "geom:longitude":5.257522,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769221,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404381057,
+        85633147,
+        1108826389,
+        101769221,
+        136253037,
         102065577
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4Uld9KIL5Iq1qmp8qzdOjJ_45.394760_5.257522@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3348abb2973bdc2c9da368ac47a3651b",
+    "wof:geomhash":"1ff41b3c245a9315458e380278c8b56c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065577,
+            "empire_id":136253037,
+            "localadmin_id":404381057,
             "locality_id":101769221,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136291497
         }
     ],
     "wof:id":136291497,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496779350,
     "wof:name":"Sud Est Agri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

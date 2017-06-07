@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.627227,49.931759,1.627227,49.931759",
     "geom:latitude":49.931759,
     "geom:longitude":1.627227,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813767,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404383097,
+        85633147,
+        1108826393,
+        101813767,
+        136253037,
         102065061
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3QjNmvhcmqV0XDhWUbCAAa_49.931759_1.627227@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8b4ce65de317b6ed8a6bda2fc2ec825c",
+    "wof:geomhash":"40ebd9c2b63a01a7fd95c4902d69e816",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065061,
+            "empire_id":136253037,
+            "localadmin_id":404383097,
             "locality_id":101813767,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152579865
         }
     ],
     "wof:id":152579865,
-    "wof:lastmodified":1473798481,
+    "wof:lastmodified":1496787198,
     "wof:name":"Le Polygone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

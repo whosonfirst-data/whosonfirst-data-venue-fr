@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838655,45.876183,4.838655,45.876183",
     "geom:latitude":45.876183,
     "geom:longitude":4.838655,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749445,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404424839,
+        85633147,
+        1108826389,
+        101749445,
+        136253037,
         102068923
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0rwgkzxqal5ODzSrRNEF2m_45.876183_4.838655@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"557aaefd433266a04a5fddca4bbca5db",
+    "wof:geomhash":"07f5c41dec52795cf430a1762779ae8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068923,
+            "empire_id":136253037,
+            "localadmin_id":404424839,
             "locality_id":101749445,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136293853
         }
     ],
     "wof:id":136293853,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496780820,
     "wof:name":"Caisse Regionale Du Credit Agricole Du Centre Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

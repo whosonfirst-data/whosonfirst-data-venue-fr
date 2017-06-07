@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.257053,49.1506,0.257053,49.1506",
     "geom:latitude":49.1506,
     "geom:longitude":0.257053,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828401,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404228031,
+        1108826393,
+        101828401,
+        136253037,
         102072503
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_2mjyltxC6Hawu9uTJCIQyO_49.150600_0.257053@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d77a56597854cdf9b3baf69782fe2afe",
+    "wof:geomhash":"e4b86afed5cc34af0415b24956fbafff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072503,
+            "empire_id":136253037,
             "locality_id":101828401,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152165539
         }
     ],
     "wof:id":152165539,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496787853,
     "wof:name":"Fouquet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

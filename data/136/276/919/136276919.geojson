@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.012965,43.659176,4.012965,43.659176",
     "geom:latitude":43.659176,
     "geom:longitude":4.012965,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831701,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404424939,
+        85633147,
+        1108826387,
+        101831701,
+        136253037,
         102065573
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_63HXnoT1MEAaF5oBo215wT_43.659176_4.012965@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b21a9c9396de70c738a97d63b536aa40",
+    "wof:geomhash":"f9575daf1da607f938c90575b0a7666a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065573,
+            "empire_id":136253037,
+            "localadmin_id":404424939,
             "locality_id":101831701,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136276919
         }
     ],
     "wof:id":136276919,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496778390,
     "wof:name":"De Benoist De La Prunarede & D Grasset",
-    "wof:parent_id":101831701,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

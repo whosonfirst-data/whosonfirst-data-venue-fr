@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.234045,50.627064,3.234045,50.627064",
     "geom:latitude":50.627064,
     "geom:longitude":3.234045,
@@ -31,28 +32,39 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85794639,
-        102070353
+        102191581,
+        85633147,
+        404421999,
+        404228283,
+        1108826399,
+        136253037,
+        102070353,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xKEmDieK6gZjUPMwtPXfS_50.627064_3.234045@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abd94b4208f57d19c5af813a4f0595f0",
+    "wof:geomhash":"5e469dd31d4ba015d193ae135b33d21c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421999,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794639,
             "region_id":85683445,
             "venue_id":152122133
         }
     ],
     "wof:id":152122133,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496790124,
     "wof:name":"Export Plus International Sa",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",

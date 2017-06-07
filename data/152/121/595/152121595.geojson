@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.048684,46.116425,1.048684,46.116425",
     "geom:latitude":46.116425,
     "geom:longitude":1.048684,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766329,
-        85633147,
         85683531,
+        102191581,
+        404227777,
+        404376045,
+        85633147,
+        1108826385,
+        101766329,
+        136253037,
         102064693
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4sTdgT4DqxfBsC1YgaeP7A_46.116425_1.048684@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55a616610d8bc894853fdbba6fa902fb",
+    "wof:geomhash":"066b4c748b9e37a24a9cfb4cc4a715f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064693,
+            "empire_id":136253037,
+            "localadmin_id":404376045,
             "locality_id":101766329,
+            "macrocounty_id":404227777,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152121595
         }
     ],
     "wof:id":152121595,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1496776701,
     "wof:name":"Tannerie Gal Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

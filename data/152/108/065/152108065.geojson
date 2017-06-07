@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.923153,45.567322,5.923153,45.567322",
     "geom:latitude":45.567322,
     "geom:longitude":5.923153,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5f5JUNVp00JnhjUXoHTAfV_45.567322_5.923153@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1ae4fba0ff621e2105eff546edae8d80",
+    "wof:geomhash":"eb2860d007e7ae2899567018f732baab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152108065
         }
     ],
     "wof:id":152108065,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496780967,
     "wof:name":"Perrier Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.53639,45.47242,4.53639,45.47242",
     "geom:latitude":45.47242,
     "geom:longitude":4.53639,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830783,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404401541,
+        85633147,
+        1108826389,
+        101830783,
+        136253037,
         102070317
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1reJVErqA3aODerTORyEuQ_45.472420_4.536390@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d965b258eb4804b97984ef69128b7b58",
+    "wof:geomhash":"7bf3130a751dae28e1c418da00281310",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070317,
+            "empire_id":136253037,
+            "localadmin_id":404401541,
             "locality_id":101830783,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152083511
         }
     ],
     "wof:id":152083511,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496779775,
     "wof:name":"Onyx Auvergne Rhone-alpes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

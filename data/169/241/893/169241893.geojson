@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.343615,45.216541,4.343615,45.216541",
     "geom:latitude":45.216541,
     "geom:longitude":4.343615,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770469,
-        85633147,
         85683413,
+        102191581,
+        404228091,
+        404383567,
+        85633147,
+        1108826389,
+        101770469,
+        136253037,
         102067131
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1flZIaZQkXSu1S4vvoBYRS_45.216541_4.343615@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8522272c7f13cd588b2877fe4c12ba0b",
+    "wof:geomhash":"57e9bd039fc15466e364feb89852dbf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067131,
+            "empire_id":136253037,
+            "localadmin_id":404383567,
             "locality_id":101770469,
+            "macrocounty_id":404228091,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":169241893
         }
     ],
     "wof:id":169241893,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496779841,
     "wof:name":"Moulin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

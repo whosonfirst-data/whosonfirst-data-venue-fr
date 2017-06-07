@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.082245,49.428387,1.082245,49.428387",
     "geom:latitude":49.428387,
     "geom:longitude":1.082245,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4Vh5yBUDkTNN6WnX2MPlAL_49.428387_1.082245@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"be755ad4822a9191fe7899f8f436f308",
+    "wof:geomhash":"e9f96663b34cd2a9b745db928764d926",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152044301
         }
     ],
     "wof:id":152044301,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496787761,
     "wof:name":"Sud Ptt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

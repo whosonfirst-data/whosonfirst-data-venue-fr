@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.423774,48.343307,7.423774,48.343307",
     "geom:latitude":48.343307,
     "geom:longitude":7.423774,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886223,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404378419,
+        85633147,
+        1108826391,
+        101886223,
+        136253037,
         102064425
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2Xck3lhOWElGYN7wj8ncRr_48.343307_7.423774@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"098fb4c59a670bc359da89a0e83b1e15",
+    "wof:geomhash":"f426142d5d3b0ecda421c75854e56d9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064425,
+            "empire_id":136253037,
+            "localadmin_id":404378419,
             "locality_id":101886223,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152086913
         }
     ],
     "wof:id":152086913,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496784653,
     "wof:name":"Teinturerie Centre Alsace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

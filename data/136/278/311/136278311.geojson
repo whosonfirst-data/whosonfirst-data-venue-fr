@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.08649,49.502201,0.08649,49.502201",
     "geom:latitude":49.502201,
     "geom:longitude":0.08649,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794449,
+        102191581,
         85633147,
-        101750183,
-        102072319,
-        85794449
+        404227963,
+        1108826393,
+        101751441,
+        136253037,
+        102071715,
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mRspvfIZzTpSn6B7rfCG8_49.502201_0.086490@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"646e7d6e4da8855767b870f7bdc839f0",
+    "wof:geomhash":"05fed35c4fefb0c61c8140dce53316d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072319,
-            "locality_id":101750183,
+            "county_id":102071715,
+            "empire_id":136253037,
+            "locality_id":101751441,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794449,
             "region_id":85683251,
             "venue_id":136278311
         }
     ],
     "wof:id":136278311,
-    "wof:lastmodified":1473797904,
+    "wof:lastmodified":1496786900,
     "wof:name":"Mazars Duparc Et Associes Sa",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",

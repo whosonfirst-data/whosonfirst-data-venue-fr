@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.813015,46.786446,0.813015,46.786446",
     "geom:latitude":46.786446,
     "geom:longitude":0.813015,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767003,
-        85633147,
         85683185,
+        102191581,
+        404227775,
+        404357275,
+        85633147,
+        1108826385,
+        101767003,
+        136253037,
         102067981
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3xhtVQMZ7RquLMSDetTbxZ_46.786446_0.813015@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55a25c21ee3c95ffe3e44219a7a98943",
+    "wof:geomhash":"711f97c618dc5fd85dc83812efbb51e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067981,
+            "empire_id":136253037,
+            "localadmin_id":404357275,
             "locality_id":101767003,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152048209
         }
     ],
     "wof:id":152048209,
-    "wof:lastmodified":1473797889,
+    "wof:lastmodified":1496775856,
     "wof:name":"Hostellerie Du Val De Creuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.260088,48.284473,7.260088,48.284473",
     "geom:latitude":48.284473,
     "geom:longitude":7.260088,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885329,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404390771,
+        85633147,
+        1108826391,
+        101885329,
+        136253037,
         102068697
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_11FteuYpRHAHlyVE7noCH4_48.284473_7.260088@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ff97dd239ff7b5dc02c60a7d807926d6",
+    "wof:geomhash":"7bf12f59df8b9e0e157bd6ede179fa88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068697,
+            "empire_id":136253037,
+            "localadmin_id":404390771,
             "locality_id":101885329,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152889937
         }
     ],
     "wof:id":152889937,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496785572,
     "wof:name":"Dinamic Emballages (societe Nouvelle) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

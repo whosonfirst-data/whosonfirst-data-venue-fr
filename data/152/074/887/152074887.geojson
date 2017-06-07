@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.483697,48.522995,7.483697,48.522995",
     "geom:latitude":48.522995,
     "geom:longitude":7.483697,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827837,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404377621,
+        85633147,
+        1108826391,
+        101827837,
+        136253037,
         102066949
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6tUtz7J683B1HF0bJ9POYM_48.522995_7.483697@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d073fea2e767ae6ed34ddff873403bd8",
+    "wof:geomhash":"bfaedff603b339585cc66a0e0955750c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066949,
+            "empire_id":136253037,
+            "localadmin_id":404377621,
             "locality_id":101827837,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152074887
         }
     ],
     "wof:id":152074887,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496784906,
     "wof:name":"Estelec Industrie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

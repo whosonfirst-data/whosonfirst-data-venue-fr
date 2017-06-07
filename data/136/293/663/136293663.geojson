@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.82893,46.303406,4.82893,46.303406",
     "geom:latitude":46.303406,
     "geom:longitude":4.82893,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5U5mtjWiuB2x7vpqAMiF1C_46.303406_4.828930@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fa1fbee1a084ecccc90b4454673ff880",
+    "wof:geomhash":"dc0a683890384c73831a141a324d8598",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136293663
         }
     ],
     "wof:id":136293663,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496788554,
     "wof:name":"Caisse D'epargne De Bourgogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

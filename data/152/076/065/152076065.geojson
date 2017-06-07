@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.306254,48.342648,7.306254,48.342648",
     "geom:latitude":48.342648,
     "geom:longitude":7.306254,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763777,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404392687,
+        85633147,
+        1108826391,
+        101763777,
+        136253037,
         102070217
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_04b0JKi26lylTRRquJMNaq_48.342648_7.306254@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d0de43498db63522749bc0166dff5ce",
+    "wof:geomhash":"94b142979418366ac8ac2096e03d3406",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070217,
+            "empire_id":136253037,
+            "localadmin_id":404392687,
             "locality_id":101763777,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152076065
         }
     ],
     "wof:id":152076065,
-    "wof:lastmodified":1473798116,
+    "wof:lastmodified":1496793371,
     "wof:name":"Signal Lux France Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

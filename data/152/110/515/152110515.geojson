@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.282437,46.205486,6.282437,46.205486",
     "geom:latitude":46.205486,
     "geom:longitude":6.282437,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OiAe5qQvNyorYjGnvWTZX_46.205486_6.282437@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3f5e6ebd17b84b8864c3a553aa99fd33",
+    "wof:geomhash":"5230862b1263a18198c2815c2f824ed1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152110515
         }
     ],
     "wof:id":152110515,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496780454,
     "wof:name":"Gama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

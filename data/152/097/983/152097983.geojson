@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.681839,46.911331,4.681839,46.911331",
     "geom:latitude":46.911331,
     "geom:longitude":4.681839,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890781,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404402255,
+        85633147,
+        1108826395,
+        101890781,
+        136253037,
         102068525
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4zQpvVPEVJbYfM5cnRtcO9_46.911331_4.681839@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b0a9715b1efed4cb3b6a2094a16de9aa",
+    "wof:geomhash":"57c061584b70b3101a99573cd7d753e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068525,
+            "empire_id":136253037,
+            "localadmin_id":404402255,
             "locality_id":101890781,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152097983
         }
     ],
     "wof:id":152097983,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1496794989,
     "wof:name":"G. Prieur S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

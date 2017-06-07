@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.426955,44.472389,1.426955,44.472389",
     "geom:latitude":44.472389,
     "geom:longitude":1.426955,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828857,
-        85633147,
         85683389,
+        102191581,
+        404227687,
+        404360187,
+        85633147,
+        1108826387,
+        101828857,
+        136253037,
         102069941
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3KsIWvSOiETPgXll1lLGVb_44.472389_1.426955@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"11c22f5f342cac85758b05de2da89840",
+    "wof:geomhash":"15aa51b779c62f68a18bac40ddee996c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069941,
+            "empire_id":136253037,
+            "localadmin_id":404360187,
             "locality_id":101828857,
+            "macrocounty_id":404227687,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":152048717
         }
     ],
     "wof:id":152048717,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496803782,
     "wof:name":"Hotel Kyriad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

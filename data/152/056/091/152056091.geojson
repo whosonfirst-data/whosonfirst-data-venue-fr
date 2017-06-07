@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.217921,48.479076,7.217921,48.479076",
     "geom:latitude":48.479076,
     "geom:longitude":7.217921,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827817,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404383049,
+        85633147,
+        1108826391,
+        101827817,
+        136253037,
         102068665
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3DjYoekG6uvQbBFxiahVNQ_48.479076_7.217921@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"91e8eae9fd8106773f0c447bd9a8bfc0",
+    "wof:geomhash":"e1351ed043d5f000c828b201ca84b003",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068665,
+            "empire_id":136253037,
+            "localadmin_id":404383049,
             "locality_id":101827817,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152056091
         }
     ],
     "wof:id":152056091,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496784548,
     "wof:name":"Compagnie Petroliere De L'est (cpe)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

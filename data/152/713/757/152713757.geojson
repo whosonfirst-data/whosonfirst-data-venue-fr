@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.626876,44.160385,0.626876,44.160385",
     "geom:latitude":44.160385,
     "geom:longitude":0.626876,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101850305,
-        85633147,
         85683341,
+        102191581,
+        404227689,
+        404367965,
+        85633147,
+        1108826385,
+        101850305,
+        136253037,
         102066999
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0fp8sQjBr19HV0hnhNGsI8_44.160385_0.626876@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21c0fb123a632a50b964dd6fef805833",
+    "wof:geomhash":"8ac1047c08d103f685dd2359088bfd74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066999,
+            "empire_id":136253037,
+            "localadmin_id":404367965,
             "locality_id":101850305,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152713757
         }
     ],
     "wof:id":152713757,
-    "wof:lastmodified":1473798519,
+    "wof:lastmodified":1496776005,
     "wof:name":"S.a.p. S.a.r.l. - Soci\u00e9t\u00e9 A\u00e9rostatique De Promotion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

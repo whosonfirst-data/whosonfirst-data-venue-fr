@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.40003,49.713741,0.40003,49.713741",
     "geom:latitude":49.713741,
     "geom:longitude":0.40003,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900163,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404384561,
+        85633147,
+        1108826393,
+        101900163,
+        136253037,
         102068233
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5smpeXVeRH9GvAZCxO5RdM_49.713741_0.400030@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2f49ef7671e24772691ede3a5513e40",
+    "wof:geomhash":"f82edf1df7087f3f09ba24899858703c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068233,
+            "empire_id":136253037,
+            "localadmin_id":404384561,
             "locality_id":101900163,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152071469
         }
     ],
     "wof:id":152071469,
-    "wof:lastmodified":1473798099,
+    "wof:lastmodified":1496805066,
     "wof:name":"Bacardi Martini Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

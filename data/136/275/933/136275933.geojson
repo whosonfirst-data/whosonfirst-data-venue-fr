@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.307178,49.869907,2.307178,49.869907",
     "geom:latitude":49.869907,
     "geom:longitude":2.307178,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_2lgXXAzYZVRm4JCtQaFdJP_49.869907_2.307178@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7244eb05358fb9a450b61327c38225a7",
+    "wof:geomhash":"b19e57916a702f468c4b4d9326b17696",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136275933
         }
     ],
     "wof:id":136275933,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496790544,
     "wof:name":"Caisse Regionale De Credit Agricole De La Somme",
-    "wof:parent_id":101749133,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

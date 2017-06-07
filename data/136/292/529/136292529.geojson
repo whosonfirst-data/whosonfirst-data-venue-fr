@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.983345,43.155918,2.983345,43.155918",
     "geom:latitude":43.155918,
     "geom:longitude":2.983345,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773353,
-        85633147,
         85683485,
+        102191581,
+        85633147,
+        404228023,
+        1108826387,
+        101773353,
+        136253037,
         102072185
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2srcqhvhjDsmv6g1AxuKOV_43.155918_2.983345@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a28aceb2e0032a5e5d90be5032322955",
+    "wof:geomhash":"2ab987036e7eb66fa091fcd3a502cfc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072185,
+            "empire_id":136253037,
             "locality_id":101773353,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":136292529
         }
     ],
     "wof:id":136292529,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496799375,
     "wof:name":"Frequences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

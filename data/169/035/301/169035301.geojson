@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.090829,43.820927,-0.090829,43.820927",
     "geom:latitude":43.820927,
     "geom:longitude":-0.090829,
@@ -22,9 +23,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895353,
-        85633147,
         85683467,
+        102191581,
+        404227867,
+        404367287,
+        85633147,
+        1108826387,
+        101895353,
+        136253037,
         102064907
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2w6LQ2WMjKAdlJWTuwmnER_43.820927_-0.090829@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"27bd087b4475d4b407267093e2d5bb59",
+    "wof:geomhash":"09428c85b067c4969d50fde760050557",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064907,
+            "empire_id":136253037,
+            "localadmin_id":404367287,
             "locality_id":101895353,
+            "macrocounty_id":404227867,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":169035301
         }
     ],
     "wof:id":169035301,
-    "wof:lastmodified":1473798002,
+    "wof:lastmodified":1496803688,
     "wof:name":"Les Vignobles De Gerland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

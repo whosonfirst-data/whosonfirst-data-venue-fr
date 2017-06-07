@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.863654,50.108318,1.863654,50.108318",
     "geom:latitude":50.108318,
     "geom:longitude":1.863654,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_0oP9oUlqcQJXRU7nHTER5s_50.108318_1.863654@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ecd6830f9e11888d4fe8b6362cb09871",
+    "wof:geomhash":"7f2f4192857bb6bca2427c83d6c340f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152162873
         }
     ],
     "wof:id":152162873,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496795829,
     "wof:name":"Schlumberger Industries Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.04793,49.266773,1.04793,49.266773",
     "geom:latitude":49.266773,
     "geom:longitude":1.04793,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753587,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404416075,
+        85633147,
+        1108826393,
+        101753587,
+        136253037,
         102071783
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0S7vUIy1WcTGGqwyPOhBhK_49.266773_1.047930@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0781c2c2253614850e4ce6961ef7eda5",
+    "wof:geomhash":"30bdc4b5556e8c645cb3409f458ba3a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071783,
+            "empire_id":136253037,
+            "localadmin_id":404416075,
             "locality_id":101753587,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":169091869
         }
     ],
     "wof:id":169091869,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1496786878,
     "wof:name":"Pharmasynth\u00e8se S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

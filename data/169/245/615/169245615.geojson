@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.610008,44.990101,-0.610008,44.990101",
     "geom:latitude":44.990101,
     "geom:longitude":-0.610008,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769383,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404384027,
+        85633147,
+        1108826385,
+        101769383,
+        136253037,
         102065291
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_69k3a3qF8L21B87THFklcD_44.990101_-0.610008@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f21c3c9ad961a4472a8648f9711f6064",
+    "wof:geomhash":"9add89c170849c93fe6dd2f1b953d8d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065291,
+            "empire_id":136253037,
+            "localadmin_id":404384027,
             "locality_id":101769383,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":169245615
         }
     ],
     "wof:id":169245615,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496775540,
     "wof:name":"Tonnellerie Ludonnaise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

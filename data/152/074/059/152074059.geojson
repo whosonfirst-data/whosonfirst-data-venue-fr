@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840554,47.032135,4.840554,47.032135",
     "geom:latitude":47.032135,
     "geom:longitude":4.840554,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767343,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404404313,
+        85633147,
+        1108826395,
+        101767343,
+        136253037,
         102072243
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3QkfPGvp5gstR48ymEcW7g_47.032135_4.840554@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee0085921cb8f45d81151b0066982a24",
+    "wof:geomhash":"fd57a70123714ad69c556786d71bf657",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072243,
+            "empire_id":136253037,
+            "localadmin_id":404404313,
             "locality_id":101767343,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152074059
         }
     ],
     "wof:id":152074059,
-    "wof:lastmodified":1473798112,
+    "wof:lastmodified":1496788219,
     "wof:name":"Ste Bourguignonne D'embouteillage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

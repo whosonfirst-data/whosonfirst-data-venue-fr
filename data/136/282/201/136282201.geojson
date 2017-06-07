@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.293165,49.894733,2.293165,49.894733",
     "geom:latitude":49.894733,
     "geom:longitude":2.293165,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_640d5InPOknKK6MxeDr2DE_49.894733_2.293165@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"98593741967aeee4f886042f42ace542",
+    "wof:geomhash":"d4a1b5318c54b7335a5f94fb93680bd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136282201
         }
     ],
     "wof:id":136282201,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496791057,
     "wof:name":"Viacom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

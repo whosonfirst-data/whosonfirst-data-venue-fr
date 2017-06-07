@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.052456,47.322224,5.052456,47.322224",
     "geom:latitude":47.322224,
     "geom:longitude":5.052456,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_5CZU0Hn1NoR5KIsWYIDif4_47.322224_5.052456@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b00f16d0144f6609e6fe11803b911f9e",
+    "wof:geomhash":"aca7900a75322218c5952cc2ba397c45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136276013
         }
     ],
     "wof:id":136276013,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496789229,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De La Cote D'or",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

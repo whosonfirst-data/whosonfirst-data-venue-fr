@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.006248,45.151016,0.006248,45.151016",
     "geom:latitude":45.151016,
     "geom:longitude":0.006248,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769335,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404425677,
+        85633147,
+        1108826385,
+        101769335,
+        136253037,
         102070021
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0CFou6BttdMpKVfEEn18UP_45.151016_0.006248@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"255efe092a898a68f99da781f69d9fc1",
+    "wof:geomhash":"f69e13fc284d55596066fab6a7a8308f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070021,
+            "empire_id":136253037,
+            "localadmin_id":404425677,
             "locality_id":101769335,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152047275
         }
     ],
     "wof:id":152047275,
-    "wof:lastmodified":1473797908,
+    "wof:lastmodified":1496775772,
     "wof:name":"Geodis Logistis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

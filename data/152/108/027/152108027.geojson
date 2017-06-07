@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.547838,46.815975,0.547838,46.815975",
     "geom:latitude":46.815975,
     "geom:longitude":0.547838,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6tD5eHVBAx5eHkWY53uwuV_46.815975_0.547838@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb8489b037616b96a868cdfdd5b7c5b8",
+    "wof:geomhash":"6e308f64fba3039b911abf058f195dd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152108027
         }
     ],
     "wof:id":152108027,
-    "wof:lastmodified":1473798244,
+    "wof:lastmodified":1496777331,
     "wof:name":"Orthophedie Duverger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

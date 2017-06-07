@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.554773,46.062855,6.554773,46.062855",
     "geom:latitude":46.062855,
     "geom:longitude":6.554773,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829017,
-        85633147,
         85683227,
-        102070157
+        102191581,
+        404227961,
+        404392625,
+        85633147,
+        1108826389,
+        101829017,
+        136253037,
+        102066117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H1YCMVIHvf54FCpwNXz1E_46.062855_6.554773@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"29c391d1c21b5791ad0f585ed6a872a1",
+    "wof:geomhash":"1dfeb88191bd603b18ef8b7d954c26d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070157,
+            "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404392625,
             "locality_id":101829017,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152901691
         }
     ],
     "wof:id":152901691,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496779499,
     "wof:name":"Charles Pery Et Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

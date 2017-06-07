@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.377693,48.859043,2.377693,48.859043",
     "geom:latitude":48.859043,
     "geom:longitude":2.377693,
@@ -22,12 +23,15 @@
     "sg:province":"\u00cele-de-France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873889,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068927,
-        85873893,
-        85873889
+        102068177,
+        85683497,
+        85873893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,26 +41,32 @@
     "wof:geomhash":"35cd8224037bd1a9b5e1b720c4c880e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068927,
+            "county_id":102068177,
             "locality_id":101751119,
-            "neighbourhood_id":85873893,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873889,
             "region_id":85683497,
             "venue_id":152725939
         },
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068927,
+            "county_id":102068177,
             "locality_id":101751119,
-            "neighbourhood_id":85873889,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873893,
             "region_id":85683497,
             "venue_id":152725939
         }
     ],
     "wof:id":152725939,
-    "wof:lastmodified":1473798517,
+    "wof:lastmodified":1491919548,
     "wof:name":"S.i.f.o.m. S.a. - Soci\u00e9t\u00e9 Industrielle Fran\u00e7aise D'outillage M\u00e9canique",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

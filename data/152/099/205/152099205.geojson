@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.884601,44.914379,4.884601,44.914379",
     "geom:latitude":44.914379,
     "geom:longitude":4.884601,
@@ -28,9 +29,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_76s7w3qhXshMRa9c0TWtpw_44.914379_4.884601@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c13e81ffeb9856b861f814edd2de7463",
+    "wof:geomhash":"bfe829a81c7bf9f8f047b579dcab42c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152099205
         }
     ],
     "wof:id":152099205,
-    "wof:lastmodified":1473798230,
+    "wof:lastmodified":1496801875,
     "wof:name":"Les Vergers De Valence Sica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.492746,45.827091,3.492746,45.827091",
     "geom:latitude":45.827091,
     "geom:longitude":3.492746,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767855,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404351393,
+        85633147,
+        1108826389,
+        101767855,
+        136253037,
         102068503
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2hL2fA17EhGL4S8t3em5bl_45.827091_3.492746@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"44b051be3e8b97f272a8e79a3ec77acc",
+    "wof:geomhash":"d3b27f3b244ab7cd7b1082a68d235025",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068503,
+            "empire_id":136253037,
+            "localadmin_id":404351393,
             "locality_id":101767855,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152133157
         }
     ],
     "wof:id":152133157,
-    "wof:lastmodified":1473798292,
+    "wof:lastmodified":1496806376,
     "wof:name":"Brugiere Outillage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

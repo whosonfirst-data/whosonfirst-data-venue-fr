@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.858296,45.76585,4.858296,45.76585",
     "geom:latitude":45.76585,
     "geom:longitude":4.858296,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2btT4375PSYzMM61ERrz2t_45.765850_4.858296@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"41a65679c5307db50db4f1aea95f2070",
+    "wof:geomhash":"53638d84f4d27ba00a3cdd7efe109164",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152110627
         }
     ],
     "wof:id":152110627,
-    "wof:lastmodified":1473798254,
+    "wof:lastmodified":1496780857,
     "wof:name":"Home Sails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

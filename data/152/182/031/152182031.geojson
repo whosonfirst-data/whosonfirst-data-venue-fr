@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848927,49.735832,4.848927,49.735832",
     "geom:latitude":49.735832,
     "geom:longitude":4.848927,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840279,
-        85633147,
         85683309,
+        102191581,
+        404228017,
+        404425081,
+        85633147,
+        1108826391,
+        101840279,
+        136253037,
         102070657
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7lMhNggOhr25Ktkb13cW7g_49.735832_4.848927@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70315417b38c650b2556263fd90f9001",
+    "wof:geomhash":"f64246369e0930751f0a8f1e7355260f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070657,
+            "empire_id":136253037,
+            "localadmin_id":404425081,
             "locality_id":101840279,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152182031
         }
     ],
     "wof:id":152182031,
-    "wof:lastmodified":1473798311,
+    "wof:lastmodified":1496805292,
     "wof:name":"Modec Sca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

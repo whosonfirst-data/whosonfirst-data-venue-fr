@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.465882,48.749958,-1.465882,48.749958",
     "geom:latitude":48.749958,
     "geom:longitude":-1.465882,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760415,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404358581,
+        85633147,
+        1108826393,
+        101760415,
+        136253037,
         102071181
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_05Stbh8TfNH10DugZdtvG6_48.749958_-1.465882@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"11006337c643f7e86ea7b749c41209b4",
+    "wof:geomhash":"71a8efdc48f0c76ba25b0fd9d316deb1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071181,
+            "empire_id":136253037,
+            "localadmin_id":404358581,
             "locality_id":101760415,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136291429
         }
     ],
     "wof:id":136291429,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496787152,
     "wof:name":"Societe Cooperative Agricole Et Agro Alimentaire Des Provinc (agralco)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.429576,48.200378,6.429576,48.200378",
     "geom:latitude":48.200378,
     "geom:longitude":6.429576,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827685,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404360513,
+        85633147,
+        1108826391,
+        101827685,
+        136253037,
         102069803
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0OoIDHTG2YLQm1po72uPhI_48.200378_6.429576@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ec798bf9a95fe9df7f1ad0721050f2e",
+    "wof:geomhash":"2e940019e5d1e810c14e539c21aa4165",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069803,
+            "empire_id":136253037,
+            "localadmin_id":404360513,
             "locality_id":101827685,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152088671
         }
     ],
     "wof:id":152088671,
-    "wof:lastmodified":1473798209,
+    "wof:lastmodified":1496793784,
     "wof:name":"Chaudronnerie Nouvelle D'epinal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.381528,43.57933,1.381528,43.57933",
     "geom:latitude":43.57933,
     "geom:longitude":1.381528,
@@ -22,30 +23,38 @@
     "sg:province":"Midi-Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        85794569,
+        102191581,
         85633147,
-        101750693,
-        102071661,
-        85794569
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RghcBSFJzsk9qppzD6TXz_43.579330_1.381528@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"123d5691824d88320c4c215fa9f136e2",
+    "wof:geomhash":"22cf1be85219553a88da2f76b2556910",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071661,
-            "locality_id":101750693,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794569,
             "region_id":85683397,
             "venue_id":152637107
         }
     ],
     "wof:id":152637107,
-    "wof:lastmodified":1473798448,
+    "wof:lastmodified":1496777788,
     "wof:name":"M\u00e9t\u00e9o France",
     "wof:parent_id":85794569,
     "wof:placetype":"venue",

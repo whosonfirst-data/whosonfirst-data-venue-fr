@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.826178,49.417469,2.826178,49.417469",
     "geom:latitude":49.417469,
     "geom:longitude":2.826178,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842439,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842439,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4UQWn63xTpA3c1gzqYXNve_49.417469_2.826178@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"603ea4907d9a4c15044ad6cf5c00ea1f",
+    "wof:geomhash":"790785ddf9177068c95bc7bbd58270f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842439,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136276815
         }
     ],
     "wof:id":136276815,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496795461,
     "wof:name":"Credit Lyonnais Eurocheques Unif",
-    "wof:parent_id":101842439,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.015931,45.624447,-1.015931,45.624447",
     "geom:latitude":45.624447,
     "geom:longitude":-1.015931,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829171,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404227833,
+        1108826385,
+        101829171,
+        136253037,
         102072059
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1n9By0uMM3UlqYVGuolUmH_45.624447_-1.015931@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06fb15affc296d818cb90a7e559194c6",
+    "wof:geomhash":"662c094767d0e924d50477b3ec732929",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072059,
+            "empire_id":136253037,
             "locality_id":101829171,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136311077
         }
     ],
     "wof:id":136311077,
-    "wof:lastmodified":1473797982,
+    "wof:lastmodified":1496798522,
     "wof:name":"Gatignol Et Fils Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

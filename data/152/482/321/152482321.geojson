@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.580478,49.385677,2.580478,49.385677",
     "geom:latitude":49.385677,
     "geom:longitude":2.580478,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902829,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404424285,
+        85633147,
+        1108826399,
+        101902829,
+        136253037,
         102065713
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0DRZFthP2mhxXnQtLxPtIt_49.385677_2.580478@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6c25279c76dbc440d41905f03542daac",
+    "wof:geomhash":"f288b3b756326c4a1d37246e49b75308",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065713,
+            "empire_id":136253037,
+            "localadmin_id":404424285,
             "locality_id":101902829,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152482321
         }
     ],
     "wof:id":152482321,
-    "wof:lastmodified":1473798426,
+    "wof:lastmodified":1496795713,
     "wof:name":"Ford France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

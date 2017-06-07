@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.363032,43.837421,4.363032,43.837421",
     "geom:latitude":43.837421,
     "geom:longitude":4.363032,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5qZ18MdWPvKcmp1oforitG_43.837421_4.363032@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee6c031f3d8460908a2d6ba9fb170351",
+    "wof:geomhash":"098f9222f57ee05c100ab5c6ff6e3be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152047991
         }
     ],
     "wof:id":152047991,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496778086,
     "wof:name":"Flunch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.333145,43.48484,1.333145,43.48484",
     "geom:latitude":43.48484,
     "geom:longitude":1.333145,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831763,
-        85633147,
         85683397,
-        102071625
+        102191581,
+        404227653,
+        404356925,
+        85633147,
+        1108826387,
+        101831763,
+        136253037,
+        102068533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YvkGfjwTUaVPW6QuSf1U5_43.484840_1.333145@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c24b43066d46294262676a69fe17bc8d",
+    "wof:geomhash":"e44126d4f917569b97fbc06be33c042c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102068533,
+            "empire_id":136253037,
+            "localadmin_id":404356925,
             "locality_id":101831763,
+            "macrocounty_id":404227653,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":136309375
         }
     ],
     "wof:id":136309375,
-    "wof:lastmodified":1473798002,
+    "wof:lastmodified":1496778409,
     "wof:name":"S.t.a.s.- Doyer S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

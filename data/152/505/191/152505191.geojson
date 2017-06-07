@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.87817,45.596512,5.87817,45.596512",
     "geom:latitude":45.596512,
     "geom:longitude":5.87817,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749331,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404407379,
+        85633147,
+        1108826389,
+        101749331,
+        136253037,
         102067843
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_79bAxBTQSDf8MT2ztiaBUg_45.596512_5.878170@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"611aa868bdc0bd315c9d828bc6bc6c3b",
+    "wof:geomhash":"6d2756a3d23d09f97acdbe9ba424a258",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067843,
+            "empire_id":136253037,
+            "localadmin_id":404407379,
             "locality_id":101749331,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152505191
         }
     ],
     "wof:id":152505191,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1496780937,
     "wof:name":"Gondrand Fr\u00e8res S.f.t. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

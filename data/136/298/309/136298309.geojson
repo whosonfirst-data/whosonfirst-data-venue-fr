@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.831846,50.429115,2.831846,50.429115",
     "geom:latitude":50.429115,
     "geom:longitude":2.831846,
@@ -29,9 +30,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840497,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840497,
+        136253037,
         102072031
     ],
     "wof:brand_id":420573859,
@@ -40,18 +45,22 @@
         "sg:id":"SG_0cY7igPlVRoE6qPGVuzvTi_50.429115_2.831846@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da786acb93121c186ae54995863552ba",
+    "wof:geomhash":"bcb2a78e164c10b45c808580febc2bbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072031,
+            "empire_id":136253037,
             "locality_id":101840497,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136298309
         }
     ],
     "wof:id":136298309,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496796699,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

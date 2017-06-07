@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.579812,43.681427,3.579812,43.681427",
     "geom:latitude":43.681427,
     "geom:longitude":3.579812,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773851,
-        85633147,
         85683419,
+        102191581,
+        404227871,
+        404404935,
+        85633147,
+        1108826387,
+        101773851,
+        136253037,
         102064547
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4BnxG4LbCG6iKyIG1AvW0V_43.681427_3.579812@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f1d943a27a53b1332a9a268f1ec9099b",
+    "wof:geomhash":"b00fdb11aa8b195e86c57eab486dd31f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064547,
+            "empire_id":136253037,
+            "localadmin_id":404404935,
             "locality_id":101773851,
+            "macrocounty_id":404227871,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152094379
         }
     ],
     "wof:id":152094379,
-    "wof:lastmodified":1473798181,
+    "wof:lastmodified":1496799487,
     "wof:name":"Salles Freres Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.999155,46.312363,-0.999155,46.312363",
     "geom:latitude":46.312363,
     "geom:longitude":-0.999155,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766471,
-        85633147,
         85683275,
+        102191581,
+        404228037,
+        404360825,
+        85633147,
+        1108826385,
+        101766471,
+        136253037,
         102066715
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3UdzWnzijbrPPFCsOLRbiP_46.312363_-0.999155@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8b66561ad25b01a8463d51c5960a3f5",
+    "wof:geomhash":"be4d5fa95bc31fd6be58cfbc5db679d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066715,
+            "empire_id":136253037,
+            "localadmin_id":404360825,
             "locality_id":101766471,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152102329
         }
     ],
     "wof:id":152102329,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1496777552,
     "wof:name":"Mar\u00e9chal Mats S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

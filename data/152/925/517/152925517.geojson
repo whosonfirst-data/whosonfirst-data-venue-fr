@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.723756,49.771,4.723756,49.771",
     "geom:latitude":49.771,
     "geom:longitude":4.723756,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750173,
-        85633147,
         85683309,
+        102191581,
+        85633147,
+        404227601,
+        1108826391,
+        101750173,
+        136253037,
         102072229
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_30kh1rCt8ZU4OgSvxscf6y_49.771000_4.723756@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e792fdd982779ba682cce78c9b29242b",
+    "wof:geomhash":"454db60e2ee783fea01a229987c83ded",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072229,
+            "empire_id":136253037,
             "locality_id":101750173,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152925517
         }
     ],
     "wof:id":152925517,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496783858,
     "wof:name":"Imprimerie Anciaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

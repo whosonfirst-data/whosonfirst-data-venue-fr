@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.872924,48.957001,6.872924,48.957001",
     "geom:latitude":48.957001,
     "geom:longitude":6.872924,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101881391,
-        85633147,
         85683271,
+        102191581,
+        404227923,
+        404388415,
+        85633147,
+        1108826391,
+        101881391,
+        136253037,
         102064353
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1yHdn9Qhp1OKXvXrJTpeKm_48.957001_6.872924@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"45c59597e2df6abb26cdc1f60911c33a",
+    "wof:geomhash":"60495994621e37c133b23743c5e3a919",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064353,
+            "empire_id":136253037,
+            "localadmin_id":404388415,
             "locality_id":101881391,
+            "macrocounty_id":404227923,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136291081
         }
     ],
     "wof:id":136291081,
-    "wof:lastmodified":1473797883,
+    "wof:lastmodified":1496793798,
     "wof:name":"Cooperative Agricole Moselle Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

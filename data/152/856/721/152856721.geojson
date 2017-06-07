@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.42651,48.174339,6.42651,48.174339",
     "geom:latitude":48.174339,
     "geom:longitude":6.42651,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827681,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404352281,
+        85633147,
+        1108826391,
+        101827681,
+        136253037,
         102072423
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_20AJ7Hesz6stfps9LebR0G_48.174339_6.426510@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e32e9749b88d75b49294d9dd1632ae99",
+    "wof:geomhash":"8cc81f5858e1a9467af52f3bcbe6f5b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072423,
+            "empire_id":136253037,
+            "localadmin_id":404352281,
             "locality_id":101827681,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152856721
         }
     ],
     "wof:id":152856721,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496784070,
     "wof:name":"Saunier Duval El\u00e9ctricit\u00e9 Loraine Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

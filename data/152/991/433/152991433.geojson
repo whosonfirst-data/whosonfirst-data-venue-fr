@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.972878,48.270924,6.972878,48.270924",
     "geom:latitude":48.270924,
     "geom:longitude":6.972878,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827655,
-        85633147,
         85683223,
+        102191581,
+        404228179,
+        404380855,
+        85633147,
+        1108826391,
+        101827655,
+        136253037,
         102068851
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0LoztF0rUGx4qCJIW821rz_48.270924_6.972878@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cff8f13b58a76a72dc0491651a3c3e84",
+    "wof:geomhash":"8a72e93cf5b1e13ea82fde3b12643080",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068851,
+            "empire_id":136253037,
+            "localadmin_id":404380855,
             "locality_id":101827655,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152991433
         }
     ],
     "wof:id":152991433,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496785550,
     "wof:name":"Fimaco Vosges Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.258242,50.746326,2.258242,50.746326",
     "geom:latitude":50.746326,
     "geom:longitude":2.258242,
@@ -22,9 +23,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_2N7BOo7ZRDtzJxah7KYXXy_50.746326_2.258242@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fff70bdd3a29e15f4d8555059ceeeda3",
+    "wof:geomhash":"59b0aec88f1a0ecd95af25f7b76adadb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152772303
         }
     ],
     "wof:id":152772303,
-    "wof:lastmodified":1473798521,
+    "wof:lastmodified":1496797131,
     "wof:name":"Soci\u00e9t\u00e9 Des Eaux De Saint Omer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

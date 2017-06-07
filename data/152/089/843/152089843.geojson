@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.818491,49.652466,2.818491,49.652466",
     "geom:latitude":49.652466,
     "geom:longitude":2.818491,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901151,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404359535,
+        85633147,
+        1108826399,
+        101901151,
+        136253037,
         102067915
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5W3kUtwAfww5xlvP5bMPB8_49.652466_2.818491@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"08e595be8f9fd56f1d820a091caa54f0",
+    "wof:geomhash":"fa5285b673c3ef174799a0a2c92ebe42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067915,
+            "empire_id":136253037,
+            "localadmin_id":404359535,
             "locality_id":101901151,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152089843
         }
     ],
     "wof:id":152089843,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496790279,
     "wof:name":"Guigand Industrie Services Gis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

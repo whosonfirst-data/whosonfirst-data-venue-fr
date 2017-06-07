@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.081324,45.395554,1.081324,45.395554",
     "geom:latitude":45.395554,
     "geom:longitude":1.081324,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893245,
-        85633147,
         85683331,
+        102191581,
+        404227847,
+        404347715,
+        85633147,
+        1108826385,
+        101893245,
+        136253037,
         102067613
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3hfw9pj3r3yRVyekzcbo6a_45.395554_1.081324@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f3b8ef75fe7e4a2f93c3733c84685dd8",
+    "wof:geomhash":"9753e9541ff88018d6682ff731c38754",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067613,
+            "empire_id":136253037,
+            "localadmin_id":404347715,
             "locality_id":101893245,
+            "macrocounty_id":404227847,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":169120511
         }
     ],
     "wof:id":169120511,
-    "wof:lastmodified":1473798114,
+    "wof:lastmodified":1496776119,
     "wof:name":"Rousseau Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

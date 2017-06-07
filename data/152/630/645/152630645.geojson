@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.553196,43.652691,3.553196,43.652691",
     "geom:latitude":43.652691,
     "geom:longitude":3.553196,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773847,
-        85633147,
         85683419,
+        102191581,
+        404227871,
+        404353001,
+        85633147,
+        1108826387,
+        101773847,
+        136253037,
         102066869
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3pND8LPqwbtH32VZerJEUs_43.652691_3.553196@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f44300d031c931cfd37ef81eb057731d",
+    "wof:geomhash":"b762d344ff82a156819e6011210418f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066869,
+            "empire_id":136253037,
+            "localadmin_id":404353001,
             "locality_id":101773847,
+            "macrocounty_id":404227871,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152630645
         }
     ],
     "wof:id":152630645,
-    "wof:lastmodified":1473798477,
+    "wof:lastmodified":1496778262,
     "wof:name":"Moulin De Gassac S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

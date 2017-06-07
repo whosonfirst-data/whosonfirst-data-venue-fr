@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.187085,44.507099,0.187085,44.507099",
     "geom:latitude":44.507099,
     "geom:longitude":0.187085,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830407,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227901,
+        1108826385,
+        101830407,
+        136253037,
         102072307
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3OFXIDSJPLdHh92LT1Xh1U_44.507099_0.187085@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40dd7d4609906231c14e5cd18748182f",
+    "wof:geomhash":"955fa04b1f6ce36ac952d2c9cb11f13d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072307,
+            "empire_id":136253037,
             "locality_id":101830407,
+            "macrocounty_id":404227901,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136274723
         }
     ],
     "wof:id":136274723,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496776447,
     "wof:name":"Astoux Crestia Associes Sa",
-    "wof:parent_id":101830407,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

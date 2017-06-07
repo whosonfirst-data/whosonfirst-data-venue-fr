@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854609,49.737343,4.854609,49.737343",
     "geom:latitude":49.737343,
     "geom:longitude":4.854609,
@@ -23,9 +24,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840279,
-        85633147,
         85683309,
+        102191581,
+        404228017,
+        404425081,
+        85633147,
+        1108826391,
+        101840279,
+        136253037,
         102070657
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0d3VSLki6V00lW2zOAkmLH_49.737343_4.854609@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1d950f18029ff7bf5cb2b67c1bff789",
+    "wof:geomhash":"fd106ab7da547c0a191e68623c66b635",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070657,
+            "empire_id":136253037,
+            "localadmin_id":404425081,
             "locality_id":101840279,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152260715
         }
     ],
     "wof:id":152260715,
-    "wof:lastmodified":1473798350,
+    "wof:lastmodified":1496805289,
     "wof:name":"Alcatel C\u00e2ble Interface S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

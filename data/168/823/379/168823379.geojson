@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.222837,45.233818,4.222837,45.233818",
     "geom:latitude":45.233818,
     "geom:longitude":4.222837,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830487,
-        85633147,
         85683413,
+        102191581,
+        404228091,
+        404382607,
+        85633147,
+        1108826389,
+        101830487,
+        136253037,
         102070573
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_73rHtYBsw2AsBV5hnAWHFj_45.233818_4.222837@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c98733514d432b51c73aff6f51778919",
+    "wof:geomhash":"457f1503405b72ff2c686def86353fc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070573,
+            "empire_id":136253037,
+            "localadmin_id":404382607,
             "locality_id":101830487,
+            "macrocounty_id":404228091,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":168823379
         }
     ],
     "wof:id":168823379,
-    "wof:lastmodified":1473797877,
+    "wof:lastmodified":1496806281,
     "wof:name":"Barth\u00e9l\u00e9my Jean S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

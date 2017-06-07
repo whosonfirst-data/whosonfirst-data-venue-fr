@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.777832,47.515533,6.777832,47.515533",
     "geom:latitude":47.515533,
     "geom:longitude":6.777832,
@@ -22,28 +23,36 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829327,
-        85633147,
         85683239,
-        102069821
+        102191581,
+        85633147,
+        404227849,
+        1108826395,
+        101829327,
+        136253037,
+        102072017
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UBDFR9G7qN9aoMXh84BrE_47.515533_6.777832@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d66c882f7f8de87676a41606795adae",
+    "wof:geomhash":"4d2a81960e99cb0529fd545ea255bbdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069821,
+            "county_id":102072017,
+            "empire_id":136253037,
             "locality_id":101829327,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152827757
         }
     ],
     "wof:id":152827757,
-    "wof:lastmodified":1473798540,
+    "wof:lastmodified":1496804573,
     "wof:name":"Transports D\u00e9m\u00e9nagements Schlick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

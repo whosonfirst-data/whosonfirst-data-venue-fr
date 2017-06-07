@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.519947,50.361073,3.519947,50.361073",
     "geom:latitude":50.361073,
     "geom:longitude":3.519947,
@@ -27,9 +28,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840599,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840599,
+        136253037,
         102072385
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_3vevIoCS2GKRDwgESggPyW_50.361073_3.519947@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3819f7ad035d845aafff2e012a5ca7d1",
+    "wof:geomhash":"4f034df869ce468034d3019a840b2cac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840599,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136301023
         }
     ],
     "wof:id":136301023,
-    "wof:lastmodified":1473797963,
+    "wof:lastmodified":1496790501,
     "wof:name":"Caisse D'epargne Des Pays Du Hainaut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.526425,44.955345,-0.526425,44.955345",
     "geom:latitude":44.955345,
     "geom:longitude":-0.526425,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66sCkSMf727pKnCM89S0l3_44.955345_-0.526425@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"137cf3e887af350a18a8bcca0acd0c16",
+    "wof:geomhash":"07a849480e3fdd592ac8d75a7b06ead9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152139529
         }
     ],
     "wof:id":152139529,
-    "wof:lastmodified":1473798294,
+    "wof:lastmodified":1496775564,
     "wof:name":"Ets Henri Sabourain Sarl",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

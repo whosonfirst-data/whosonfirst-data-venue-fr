@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.853675,49.096275,6.853675,49.096275",
     "geom:latitude":49.096275,
     "geom:longitude":6.853675,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880093,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404369845,
+        85633147,
+        1108826391,
+        101880093,
+        136253037,
         102071145
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5Jz7pPJfwBtsRueK2FPoWe_49.096275_6.853675@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e165e2565b2b38711094c4539e6442f",
+    "wof:geomhash":"2995c35597b83befb93771fb590019fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404369845,
             "locality_id":101880093,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152089143
         }
     ],
     "wof:id":152089143,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496794290,
     "wof:name":"Emka France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

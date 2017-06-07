@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.084143,49.428013,2.084143,49.428013",
     "geom:latitude":49.428013,
     "geom:longitude":2.084143,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1AIWtozZdnNYsaSUzZbNbt_49.428013_2.084143@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d10f851de3d02156ad486a22eabcf91",
+    "wof:geomhash":"c688105c5bcb32a23a160bdd4685acbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152060605
         }
     ],
     "wof:id":152060605,
-    "wof:lastmodified":1473797949,
+    "wof:lastmodified":1496791059,
     "wof:name":"Etablissements Albertine Millot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

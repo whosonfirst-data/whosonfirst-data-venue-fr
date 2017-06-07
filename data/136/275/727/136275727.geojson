@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.290109,45.391464,4.290109,45.391464",
     "geom:latitude":45.391464,
     "geom:longitude":4.290109,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752993,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404354045,
+        85633147,
+        1108826389,
+        101752993,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7hsTi9Ve7kSIZXtfDlYjeB_45.391464_4.290109@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5846ef32f4e1006e5954ef440db17c4",
+    "wof:geomhash":"a1379e5c500aee2b2774233337439e41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404354045,
             "locality_id":101752993,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136275727
         }
     ],
     "wof:id":136275727,
-    "wof:lastmodified":1473797932,
+    "wof:lastmodified":1496800665,
     "wof:name":"Caisse D'epargne Loire Drome Ardeche Banque Cooperativefirminy 1",
-    "wof:parent_id":101752993,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

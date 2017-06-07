@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.540547,46.077602,6.540547,46.077602",
     "geom:latitude":46.077602,
     "geom:longitude":6.540547,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829019,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404418205,
+        85633147,
+        1108826389,
+        101829019,
+        136253037,
         102065721
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3ad5rMP35xVDSYwD1u7DNj_46.077602_6.540547@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2984eb506f45e526c604f100962d911",
+    "wof:geomhash":"219a766f383aa232f97ed746543f0f45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065721,
+            "empire_id":136253037,
+            "localadmin_id":404418205,
             "locality_id":101829019,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152187339
         }
     ],
     "wof:id":152187339,
-    "wof:lastmodified":1473798315,
+    "wof:lastmodified":1496780571,
     "wof:name":"Hf Securite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

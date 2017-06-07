@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.534819,45.165363,1.534819,45.165363",
     "geom:latitude":45.165363,
     "geom:longitude":1.534819,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830659,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
         102072241
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0DjubJmKP2K6oo91yrgb9c_45.165363_1.534819@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39ee69fe2df5a6160ca94a5f5eabb528",
+    "wof:geomhash":"4fa80e220fe597e854c8716236cc8326",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
             "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152125895
         }
     ],
     "wof:id":152125895,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496776627,
     "wof:name":"Comptoir Des Bois De Brive Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

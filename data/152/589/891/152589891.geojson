@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854947,45.676292,4.854947,45.676292",
     "geom:latitude":45.676292,
     "geom:longitude":4.854947,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6qMo5NvNSj5p1ZQz9IQn7d_45.676292_4.854947@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d6a50a6144b8947d241207d81f1d584f",
+    "wof:geomhash":"1d4a6d929c823d52e83bfa8e16c34edd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152589891
         }
     ],
     "wof:id":152589891,
-    "wof:lastmodified":1473798477,
+    "wof:lastmodified":1496781541,
     "wof:name":"Linatec S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

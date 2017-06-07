@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.337059,43.689465,-1.337059,43.689465",
     "geom:latitude":43.689465,
     "geom:longitude":-1.337059,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772833,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404419583,
+        85633147,
+        1108826385,
+        101772833,
+        136253037,
         102068909
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_318odM93byMeyoD8viptMi_43.689465_-1.337059@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2083d4fbfe3186f6a3d908936021bc0d",
+    "wof:geomhash":"0ba5f77c9378b22aed04b2dfedffd360",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068909,
+            "empire_id":136253037,
+            "localadmin_id":404419583,
             "locality_id":101772833,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152128847
         }
     ],
     "wof:id":152128847,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496775974,
     "wof:name":"Draeger Industrie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

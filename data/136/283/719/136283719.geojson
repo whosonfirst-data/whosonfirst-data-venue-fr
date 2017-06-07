@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.225744,43.849758,1.225744,43.849758",
     "geom:latitude":43.849758,
     "geom:longitude":1.225744,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772787,
-        85633147,
         85683217,
+        102191581,
+        404227977,
+        404375021,
+        85633147,
+        1108826387,
+        101772787,
+        136253037,
         102068615
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1Oz3sCoWgK5Oqp3HpfqowL_43.849758_1.225744@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"090ec806e0929d7a4a4b47e490109642",
+    "wof:geomhash":"ee13901d3fe62f155906406c84636343",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068615,
+            "empire_id":136253037,
+            "localadmin_id":404375021,
             "locality_id":101772787,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":136283719
         }
     ],
     "wof:id":136283719,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496803577,
     "wof:name":"Compagnie D'amenagement Des Coteaux De Gascogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

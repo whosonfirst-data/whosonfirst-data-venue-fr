@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.384577,43.532215,1.384577,43.532215",
     "geom:latitude":43.532215,
     "geom:longitude":1.384577,
@@ -30,28 +31,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xWIfkeGHn2xPSn36ek7Wq_43.532215_1.384577@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d6b2352fdd4ba1117123bea0a319f776",
+    "wof:geomhash":"7ae1f98d95b27d0fbe71d8660f1d3722",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":153009445
         }
     ],
     "wof:id":153009445,
-    "wof:lastmodified":1473797874,
+    "wof:lastmodified":1496778289,
     "wof:name":"C Tel",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

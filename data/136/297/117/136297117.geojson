@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.805338,45.770943,4.805338,45.770943",
     "geom:latitude":45.770943,
     "geom:longitude":4.805338,
@@ -27,9 +28,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_76aK6u3NDtCheNga9cHtOm_45.770943_4.805338@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"759e15fdf7761bf9ec6bc39dca9ce0ee",
+    "wof:geomhash":"6a5f93293842339f456da787a9aeb904",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136297117
         }
     ],
     "wof:id":136297117,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496800690,
     "wof:name":"Banque Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.3115,48.150352,3.3115,48.150352",
     "geom:latitude":48.150352,
     "geom:longitude":3.3115,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885725,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404413819,
+        85633147,
+        1108826395,
+        101885725,
+        136253037,
         102071099
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7UcqRYaUucDKSNNUOwhGbI_48.150352_3.311500@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4257c223ff58b3919986a3048e242f90",
+    "wof:geomhash":"d03c3bca890f7118dd5d2e53156bbd05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071099,
+            "empire_id":136253037,
+            "localadmin_id":404413819,
             "locality_id":101885725,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152094417
         }
     ],
     "wof:id":152094417,
-    "wof:lastmodified":1473798176,
+    "wof:lastmodified":1496789173,
     "wof:name":"Schiever Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

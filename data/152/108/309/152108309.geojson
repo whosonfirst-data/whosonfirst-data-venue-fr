@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.30602,46.62225,0.30602,46.62225",
     "geom:latitude":46.62225,
     "geom:longitude":0.30602,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753299,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101753299,
+        136253037,
         102068303
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4CMxiiMW8atvHM1n6Oi3bf_46.622250_0.306020@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"687f639f196f1ece84930335e69d5920",
+    "wof:geomhash":"d6fd57108c97ee0310bec927dbd96844",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068303,
+            "empire_id":136253037,
             "locality_id":101753299,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152108309
         }
     ],
     "wof:id":152108309,
-    "wof:lastmodified":1473798254,
+    "wof:lastmodified":1496777199,
     "wof:name":"Sarl Soreau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

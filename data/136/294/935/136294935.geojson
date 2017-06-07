@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.366622,48.108017,7.366622,48.108017",
     "geom:latitude":48.108017,
     "geom:longitude":7.366622,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_1CZHjRDt81g84SoX7LjjET_48.108017_7.366622@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54321d94a98eaf41a348e5fc5be7ac7e",
+    "wof:geomhash":"8b779701d2b7209e3736655bb52c4ea1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136294935
         }
     ],
     "wof:id":136294935,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496793446,
     "wof:name":"Sodilog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

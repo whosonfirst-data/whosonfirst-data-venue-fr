@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.344868,51.03566,2.344868,51.03566",
     "geom:latitude":51.03566,
     "geom:longitude":2.344868,
@@ -22,9 +23,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751491,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101751491,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_1kujkewsachLfw5ncQh7ft_51.035660_2.344868@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"319950c3dd18ac4c41c862c37771b7ad",
+    "wof:geomhash":"193dc37222d02aa5bdfab0e5514befaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101751491,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169017223
         }
     ],
     "wof:id":169017223,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496791379,
     "wof:name":"L. Et N. Nollet S.a. - D\u00e9partement D.e.m.i. Distribution Electrique Marin Industrie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

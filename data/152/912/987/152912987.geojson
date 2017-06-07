@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.566581,46.665325,5.566581,46.665325",
     "geom:latitude":46.665325,
     "geom:longitude":5.566581,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_6e2lz2ivmPmOA3UpFRYyQK_46.665325_5.566581@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"125e804469c58224e2487aa8b1b3852c",
+    "wof:geomhash":"bf8721d070c598a14cf2b79770687c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152912987
         }
     ],
     "wof:id":152912987,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496788402,
     "wof:name":"Jar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

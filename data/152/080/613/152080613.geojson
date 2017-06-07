@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.913817,43.613934,3.913817,43.613934",
     "geom:latitude":43.613934,
     "geom:longitude":3.913817,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2jXIHNId1fPTDv5jpjmjel_43.613934_3.913817@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d67a9c2d58c242e3c07e8e5f0fe0ed41",
+    "wof:geomhash":"80eb6581ffce975f70c509dc88a2104b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152080613
         }
     ],
     "wof:id":152080613,
-    "wof:lastmodified":1473798143,
+    "wof:lastmodified":1496777759,
     "wof:name":"La Compagnie Du Vent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

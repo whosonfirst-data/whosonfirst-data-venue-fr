@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.111977,43.680016,4.111977,43.680016",
     "geom:latitude":43.680016,
     "geom:longitude":4.111977,
@@ -27,9 +28,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831707,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404370295,
+        85633147,
+        1108826387,
+        101831707,
+        136253037,
         102067509
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_0gMNHbSdAG2BOpaYNncPg9_43.680016_4.111977@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a6ec6f932645d831380c21d8345ce52",
+    "wof:geomhash":"fabff2b6bedb4320a0c8e8ef398a02d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067509,
+            "empire_id":136253037,
+            "localadmin_id":404370295,
             "locality_id":101831707,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152884885
         }
     ],
     "wof:id":152884885,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496777835,
     "wof:name":"Espace Composite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

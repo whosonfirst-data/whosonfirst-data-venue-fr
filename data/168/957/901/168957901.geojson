@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.70896,50.066944,1.70896,50.066944",
     "geom:latitude":50.066944,
     "geom:longitude":1.70896,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899111,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404419647,
+        85633147,
+        1108826399,
+        101899111,
+        136253037,
         102069647
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_118HbnB2Od0By2u3WOPEME_50.066944_1.708960@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b77103cacde95a7046dbbe7d54396bd3",
+    "wof:geomhash":"1f7296cc3e618bf3e4deae4bd58eb138",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069647,
+            "empire_id":136253037,
+            "localadmin_id":404419647,
             "locality_id":101899111,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":168957901
         }
     ],
     "wof:id":168957901,
-    "wof:lastmodified":1473798158,
+    "wof:lastmodified":1496790527,
     "wof:name":"Fonderie De Pr\u00e9cision Du Vimeu S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

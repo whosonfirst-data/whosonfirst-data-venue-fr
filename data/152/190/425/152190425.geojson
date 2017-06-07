@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.57038,45.298897,4.57038,45.298897",
     "geom:latitude":45.298897,
     "geom:longitude":4.57038,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770739,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404390207,
+        85633147,
+        1108826389,
+        101770739,
+        136253037,
         102064775
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6Kc19XWc5evIBVlUUrYJGC_45.298897_4.570380@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c86bb821963284e429c619d6897493a",
+    "wof:geomhash":"f4a2fe688c04068ee937cc3bf1bf4be7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064775,
+            "empire_id":136253037,
+            "localadmin_id":404390207,
             "locality_id":101770739,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152190425
         }
     ],
     "wof:id":152190425,
-    "wof:lastmodified":1473798314,
+    "wof:lastmodified":1496780057,
     "wof:name":"Bouard (ste D'exploitation Des Ets) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

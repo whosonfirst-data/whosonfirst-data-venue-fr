@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.767505,44.656887,4.767505,44.656887",
     "geom:latitude":44.656887,
     "geom:longitude":4.767505,
@@ -37,28 +38,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771825,
+        85683523,
+        102191581,
+        404227851,
+        404399789,
         85633147,
-        85683421,
-        102066843
+        1108826389,
+        101771825,
+        136253037,
+        102067039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cHglAejW1S3HfA9PDr4q0_44.656887_4.767505@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07792861996359b8f16bb8dc4d2a5fca",
+    "wof:geomhash":"881996d21bd2ddb17fb9ccc59e650abc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102066843,
+            "county_id":102067039,
+            "empire_id":136253037,
+            "localadmin_id":404399789,
             "locality_id":101771825,
-            "region_id":85683421,
+            "macrocounty_id":404227851,
+            "macroregion_id":1108826389,
+            "region_id":85683523,
             "venue_id":152104539
         }
     ],
     "wof:id":152104539,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1496801806,
     "wof:name":"Sa Vivar'pal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

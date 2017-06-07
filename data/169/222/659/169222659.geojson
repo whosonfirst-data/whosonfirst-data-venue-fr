@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.835718,45.763645,4.835718,45.763645",
     "geom:latitude":45.763645,
     "geom:longitude":4.835718,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_25A8M8erKfXxx1agk3PaPS_45.763645_4.835718@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7a8e13f52c16fba860dd5c71849471d7",
+    "wof:geomhash":"ee87381de6d6285b7ef76c90338e2ccd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169222659
         }
     ],
     "wof:id":169222659,
-    "wof:lastmodified":1473798244,
+    "wof:lastmodified":1496800671,
     "wof:name":"W\u00e9gelin Fr\u00e8res S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.793981,49.39114,2.793981,49.39114",
     "geom:latitude":49.39114,
     "geom:longitude":2.793981,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842415,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842415,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4o6mcLeTd6GqYTrw8Atz7B_49.391140_2.793981@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"313d986ff2b2adc5936382f66b94f89c",
+    "wof:geomhash":"473b4b943da15d3328e444abe07958d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842415,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152414369
         }
     ],
     "wof:id":152414369,
-    "wof:lastmodified":1473798400,
+    "wof:lastmodified":1496795921,
     "wof:name":"Dub\u00e9 - Fulcor S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

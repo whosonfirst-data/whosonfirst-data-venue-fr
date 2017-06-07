@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.588229,46.329525,2.588229,46.329525",
     "geom:latitude":46.329525,
     "geom:longitude":2.588229,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829205,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
         102072223
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1GhGpn6phdvap74NenCIr4_46.329525_2.588229@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33242f4af49dab5db8981629bbe46327",
+    "wof:geomhash":"e4db0d1a4d88205d0bb89615e6b256f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072223,
+            "empire_id":136253037,
             "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152045087
         }
     ],
     "wof:id":152045087,
-    "wof:lastmodified":1473797882,
+    "wof:lastmodified":1496779733,
     "wof:name":"College Jean Jacques Soulier Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

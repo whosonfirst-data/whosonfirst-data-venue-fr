@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.68126,48.602669,7.68126,48.602669",
     "geom:latitude":48.602669,
     "geom:longitude":7.68126,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QWhTaC61nZBbYuDdwdego_48.602669_7.681260@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9aa0a31bfab0829e5339e855b7efe683",
+    "wof:geomhash":"cf16c4898053c72fa05279e766c44cfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":136279985
         }
     ],
     "wof:id":136279985,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496784543,
     "wof:name":"Ste De Comptabilite Du Rhin Sa",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

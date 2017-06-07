@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.951675,46.516216,4.951675,46.516216",
     "geom:latitude":46.516216,
     "geom:longitude":4.951675,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891361,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404403493,
+        85633147,
+        1108826395,
+        101891361,
+        136253037,
         102071543
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0kms4ZFAVE2uHBeLQkG6KJ_46.516216_4.951675@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1604eb9b4d94c4cf7528e0f03cd5ed72",
+    "wof:geomhash":"9654345ff5e1ef5b10b100023124b56b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071543,
+            "empire_id":136253037,
+            "localadmin_id":404403493,
             "locality_id":101891361,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152355251
         }
     ],
     "wof:id":152355251,
-    "wof:lastmodified":1473798383,
+    "wof:lastmodified":1496789000,
     "wof:name":"Centre Est France Lubrifiants S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.871232,46.384308,5.871232,46.384308",
     "geom:latitude":46.384308,
     "geom:longitude":5.871232,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766657,
-        85633147,
         85683173,
+        102191581,
+        404228085,
+        404407465,
+        85633147,
+        1108826395,
+        101766657,
+        136253037,
         102069183
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1rjJyL7WGwt5VtgkJYvDJC_46.384308_5.871232@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"113e3c3b4c2687c3f6dd64072d5e3abc",
+    "wof:geomhash":"0d3dc744dcc883f282147e6928571402",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069183,
+            "empire_id":136253037,
+            "localadmin_id":404407465,
             "locality_id":101766657,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152118253
         }
     ],
     "wof:id":152118253,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496788229,
     "wof:name":"Gaston Poncet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

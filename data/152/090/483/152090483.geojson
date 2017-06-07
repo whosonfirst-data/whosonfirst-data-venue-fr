@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.490761,48.618824,7.490761,48.618824",
     "geom:latitude":48.618824,
     "geom:longitude":7.490761,
@@ -36,24 +37,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683221,
+        102191581,
         85633147,
-        85683221
+        404364207,
+        404228143,
+        1108826391,
+        136253037,
+        102070327
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eHeUHof5bauT7S5fXhpd0_48.618824_7.490761@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"464bc5263e262f48fad1974a562e29c5",
+    "wof:geomhash":"92e0283251c6baccfe5c95c90909bc51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070327,
+            "empire_id":136253037,
+            "localadmin_id":404364207,
+            "locality_id":-1,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152090483
         }
     ],
     "wof:id":152090483,
-    "wof:lastmodified":1473798204,
+    "wof:lastmodified":1496793404,
     "wof:name":"Outils Claude Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

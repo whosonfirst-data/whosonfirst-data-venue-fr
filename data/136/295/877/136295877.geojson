@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.852045,45.670788,4.852045,45.670788",
     "geom:latitude":45.670788,
     "geom:longitude":4.852045,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0qWf9G8whAWdDdBLnuZSzO_45.670788_4.852045@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b66041390570f5b36b0afc16f9222d1a",
+    "wof:geomhash":"3fd683adfbb050f145117222444500f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136295877
         }
     ],
     "wof:id":136295877,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496781551,
     "wof:name":"Unedic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

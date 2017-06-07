@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91746,45.70359,4.91746,45.70359",
     "geom:latitude":45.70359,
     "geom:longitude":4.91746,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750801,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404384273,
+        85633147,
+        1108826389,
+        101750801,
+        136253037,
         102071359
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4OWovCooO7rvw6HFwb0QJJ_45.703590_4.917460@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abc4b67503fd1590b7f8496a1c7cbf4c",
+    "wof:geomhash":"cf02e1ee850a42053d7d26da269b311b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071359,
+            "empire_id":136253037,
+            "localadmin_id":404384273,
             "locality_id":101750801,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152904021
         }
     ],
     "wof:id":152904021,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496801629,
     "wof:name":"Ste Bouchacourt S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

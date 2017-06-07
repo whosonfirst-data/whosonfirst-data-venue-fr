@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.822872,49.417477,2.822872,49.417477",
     "geom:latitude":49.417477,
     "geom:longitude":2.822872,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842439,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842439,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0rOAt0wLBs8yxH83k9pTJQ_49.417477_2.822872@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"624dc17997b46d28ed543e2af763ba36",
+    "wof:geomhash":"c246b2efac6f2b734e388db34c47c393",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842439,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136275081
         }
     ],
     "wof:id":136275081,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496791249,
     "wof:name":"Banque Populaire De La Region Nord De Parisbanque Populaire",
-    "wof:parent_id":101842439,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

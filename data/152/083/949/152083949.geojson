@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.691752,48.61412,7.691752,48.61412",
     "geom:latitude":48.61412,
     "geom:longitude":7.691752,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LnJwCEKjHzbLffIlU3azm_48.614120_7.691752@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c120f82d4e3351f24f0525b91f41bf6c",
+    "wof:geomhash":"8862d2f256e772d6317790dfe3ed530f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":152083949
         }
     ],
     "wof:id":152083949,
-    "wof:lastmodified":1473798154,
+    "wof:lastmodified":1496784542,
     "wof:name":"Arolab Sarl",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

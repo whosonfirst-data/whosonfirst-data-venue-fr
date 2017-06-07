@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.273539,50.46246,3.273539,50.46246",
     "geom:latitude":50.46246,
     "geom:longitude":3.273539,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101846669,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404383355,
+        85633147,
+        1108826399,
+        101846669,
+        136253037,
         102071465
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3LmfF7uTiAQxbxpQdistuP_50.462460_3.273539@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40476033adc7f4e43fe89cca1961bcf9",
+    "wof:geomhash":"82d1fc1ebe0f328324e8fb5b33d9260e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071465,
+            "empire_id":136253037,
+            "localadmin_id":404383355,
             "locality_id":101846669,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169096169
         }
     ],
     "wof:id":169096169,
-    "wof:lastmodified":1473798098,
+    "wof:lastmodified":1496792568,
     "wof:name":"Pliages Industriels S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

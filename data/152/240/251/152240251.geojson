@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.40661,49.162937,5.40661,49.162937",
     "geom:latitude":49.162937,
     "geom:longitude":5.40661,
@@ -24,9 +25,13 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828321,
-        85633147,
         85683297,
+        102191581,
+        85633147,
+        404228117,
+        1108826391,
+        101828321,
+        136253037,
         102071969
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_18KiJbctIRcF4WXrIz5wjn_49.162937_5.406610@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"780027805355df4f55d9604cac7462cd",
+    "wof:geomhash":"b67c5ff7c54efdcdd01ccde6a54a1181",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071969,
+            "empire_id":136253037,
             "locality_id":101828321,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":152240251
         }
     ],
     "wof:id":152240251,
-    "wof:lastmodified":1473798334,
+    "wof:lastmodified":1496784162,
     "wof:name":"A.g.e.i.l.o.r. S.a.r.l. - Applications Et G\u00e9nie Electro-industrielles De Lorraine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

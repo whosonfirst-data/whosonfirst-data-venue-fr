@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.325362,45.15601,5.325362,45.15601",
     "geom:latitude":45.15601,
     "geom:longitude":5.325362,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830611,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404361707,
+        85633147,
+        1108826389,
+        101830611,
+        136253037,
         102069779
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5AJaQ1XRC02BwoZD3bzlFL_45.156010_5.325362@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"000e9cff8252f924c952f97b36f2ee11",
+    "wof:geomhash":"4f54ca5bb11dbd1946e28845436278cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069779,
+            "empire_id":136253037,
+            "localadmin_id":404361707,
             "locality_id":101830611,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152069205
         }
     ],
     "wof:id":152069205,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496781851,
     "wof:name":"Fromagerie Veyret Veilleux Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

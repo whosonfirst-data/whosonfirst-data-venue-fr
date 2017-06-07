@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.167329,48.696991,6.167329,48.696991",
     "geom:latitude":48.696991,
     "geom:longitude":6.167329,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_14Y8M1oUsrWgspxfBiYinU_48.696991_6.167329@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"71bb51aa562be1327b15b3ce762f8fed",
+    "wof:geomhash":"e038d89a6c7aa80fe7366000091aace0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136314309
         }
     ],
     "wof:id":136314309,
-    "wof:lastmodified":1473798000,
+    "wof:lastmodified":1496786287,
     "wof:name":"Axys Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

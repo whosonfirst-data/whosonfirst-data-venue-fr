@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.212192,46.16135,-1.212192,46.16135",
     "geom:latitude":46.16135,
     "geom:longitude":-1.212192,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5ULm020oaXcrDgsaOW3044_46.161350_-1.212192@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"71e11693729e014cb084cbe10524ef13",
+    "wof:geomhash":"4e9dd7d77dddda8bcb783009086388e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136313713
         }
     ],
     "wof:id":136313713,
-    "wof:lastmodified":1473798007,
+    "wof:lastmodified":1496775397,
     "wof:name":"Cap'eco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

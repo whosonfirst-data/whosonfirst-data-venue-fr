@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.723041,48.504822,3.723041,48.504822",
     "geom:latitude":48.504822,
     "geom:longitude":3.723041,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763339,
-        85633147,
         85683193,
+        102191581,
+        404227817,
+        404368925,
+        85633147,
+        1108826391,
+        101763339,
+        136253037,
         102072137
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2eazU0wPkjN9QU0ftpbcaT_48.504822_3.723041@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e5218574a71cead658cf9515c518b69",
+    "wof:geomhash":"fe15b16be7c25a658d74c75af20a2ded",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072137,
+            "empire_id":136253037,
+            "localadmin_id":404368925,
             "locality_id":101763339,
+            "macrocounty_id":404227817,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152157423
         }
     ],
     "wof:id":152157423,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496784502,
     "wof:name":"Societe De Mecanique Champenoise Smc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

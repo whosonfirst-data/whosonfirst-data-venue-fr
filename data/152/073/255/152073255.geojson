@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.039603,50.571064,3.039603,50.571064",
     "geom:latitude":50.571064,
     "geom:longitude":3.039603,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751529,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404360725,
+        85633147,
+        1108826399,
+        101751529,
+        136253037,
         102071883
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_46OccQOpWnAi73Fhk9wIO4_50.571064_3.039603@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd47b7ff7648632c69681aa93c48e655",
+    "wof:geomhash":"8a6446842e24325ff82fea6123027e79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071883,
+            "empire_id":136253037,
+            "localadmin_id":404360725,
             "locality_id":101751529,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152073255
         }
     ],
     "wof:id":152073255,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496790975,
     "wof:name":"Maison Fichel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

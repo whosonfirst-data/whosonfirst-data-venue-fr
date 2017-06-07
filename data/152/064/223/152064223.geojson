@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.128845,48.657909,6.128845,48.657909",
     "geom:latitude":48.657909,
     "geom:longitude":6.128845,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751415,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404397469,
+        85633147,
+        1108826391,
+        101751415,
+        136253037,
         102070987
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7ST2zGizg1v7bZVpPj5Bng_48.657909_6.128845@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"10692ac7b98dce29086c0af8c4c72a95",
+    "wof:geomhash":"aa1dbe653fbf4bb7a5d8f5cdfe87d1cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070987,
+            "empire_id":136253037,
+            "localadmin_id":404397469,
             "locality_id":101751415,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152064223
         }
     ],
     "wof:id":152064223,
-    "wof:lastmodified":1473798062,
+    "wof:lastmodified":1496785691,
     "wof:name":"Auvitec Region Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

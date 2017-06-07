@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.901635,50.437683,2.901635,50.437683",
     "geom:latitude":50.437683,
     "geom:longitude":2.901635,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840397,
-        85633147,
         85683255,
+        102191581,
+        404228311,
+        404425979,
+        85633147,
+        1108826399,
+        101840397,
+        136253037,
         102071703
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1MPdgPzox18beZQoCcSxiz_50.437683_2.901635@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7fa51c660feead2e8877a502ec99e13d",
+    "wof:geomhash":"2f151e8ebad7ec46cda56dc3fb9dfb1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071703,
+            "empire_id":136253037,
+            "localadmin_id":404425979,
             "locality_id":101840397,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136292803
         }
     ],
     "wof:id":136292803,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496791532,
     "wof:name":"Johnson Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

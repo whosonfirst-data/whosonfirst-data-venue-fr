@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.234445,45.889721,1.234445,45.889721",
     "geom:latitude":45.889721,
     "geom:longitude":1.234445,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749495,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404227987,
+        1108826385,
+        101749495,
+        136253037,
         102070297
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_3Lis3GaGFLL63z2XofxWNb_45.889721_1.234445@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"924da08ac254abc12257895dc21da0fe",
+    "wof:geomhash":"be949cff86abb0777af30f16bfd0a0a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070297,
+            "empire_id":136253037,
             "locality_id":101749495,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152166369
         }
     ],
     "wof:id":152166369,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496776677,
     "wof:name":"Limo Formes Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

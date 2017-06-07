@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.297504,46.19698,6.297504,46.19698",
     "geom:latitude":46.19698,
     "geom:longitude":6.297504,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760505,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404417453,
+        85633147,
+        1108826389,
+        101760505,
+        136253037,
         102065179
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7BgGB4URjVQIOB0xIb6gc2_46.196980_6.297504@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73c095595bf135c81b67eddd82d78042",
+    "wof:geomhash":"f667e68e2fbf34b5e03bb2ac09176cbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065179,
+            "empire_id":136253037,
+            "localadmin_id":404417453,
             "locality_id":101760505,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":169033555
         }
     ],
     "wof:id":169033555,
-    "wof:lastmodified":1473798003,
+    "wof:lastmodified":1496781002,
     "wof:name":"Les Fils D'auguste Briffod S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

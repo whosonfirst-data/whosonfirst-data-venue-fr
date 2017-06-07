@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.086693,46.079659,4.086693,46.079659",
     "geom:latitude":46.079659,
     "geom:longitude":4.086693,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828947,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404383243,
+        85633147,
+        1108826389,
+        101828947,
+        136253037,
         102067267
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6HNU69HGXeuxeTkQAMpN0a_46.079659_4.086693@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6e9630de158834dcc8ff581d5b229e3d",
+    "wof:geomhash":"979aedc825e38f7f00d0485ccd6c9808",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067267,
+            "empire_id":136253037,
+            "localadmin_id":404383243,
             "locality_id":101828947,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152086211
         }
     ],
     "wof:id":152086211,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496780883,
     "wof:name":"International Textiles Associes (intexa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

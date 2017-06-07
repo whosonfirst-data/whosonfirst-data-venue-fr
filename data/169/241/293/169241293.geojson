@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.65643,47.94371,4.65643,47.94371",
     "geom:latitude":47.94371,
     "geom:longitude":4.65643,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886547,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404423225,
+        85633147,
+        1108826395,
+        101886547,
+        136253037,
         102068437
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7LV6VEZr7UtP32BkE2zV9G_47.943710_4.656430@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2858f9c6d60483ccd6a2a08e6f2655ef",
+    "wof:geomhash":"8e9a82e0f76e1f6a935d3fbe8b117b03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068437,
+            "empire_id":136253037,
+            "localadmin_id":404423225,
             "locality_id":101886547,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":169241293
         }
     ],
     "wof:id":169241293,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496788445,
     "wof:name":"Massard Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

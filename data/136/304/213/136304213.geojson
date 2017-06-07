@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.611501,44.776043,-0.611501,44.776043",
     "geom:latitude":44.776043,
     "geom:longitude":-0.611501,
@@ -27,10 +28,16 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:brand_id":420574555,
     "wof:breaches":[],
@@ -38,18 +45,24 @@
         "sg:id":"SG_3Akzl291GqWQyLAld8EZNe_44.776043_-0.611501@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"142251c49453dbbfa5be49bb89824338",
+    "wof:geomhash":"dde052a870d8ae10d4460f33a2c0fc1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":136304213
         }
     ],
     "wof:id":136304213,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496776433,
     "wof:name":"Cr\u00e9dit Lyonnais",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

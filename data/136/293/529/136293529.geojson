@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83695,45.76342,4.83695,45.76342",
     "geom:latitude":45.76342,
     "geom:longitude":4.83695,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7MdG8gJxowjCQ78MblNRkH_45.763420_4.836950@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0dd50f2ecec8b6693cc6acdf30827f20",
+    "wof:geomhash":"e9b67bf62ffe2318ae199cbeba716ae3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136293529
         }
     ],
     "wof:id":136293529,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496780562,
     "wof:name":"Banque Populaire Loiret Lyonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

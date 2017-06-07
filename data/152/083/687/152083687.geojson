@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.757345,45.260456,1.757345,45.260456",
     "geom:latitude":45.260456,
     "geom:longitude":1.757345,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830665,
-        85633147,
         85683209,
+        102191581,
+        404227837,
+        404357639,
+        85633147,
+        1108826385,
+        101830665,
+        136253037,
         102072443
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1zgQOvUmbE4iM6qX3ee2Oy_45.260456_1.757345@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"913eb0d1c1fe58aa840a4b6b20ecf7dd",
+    "wof:geomhash":"8e5570cdd0c6635c4c8c457e3ba57ffd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072443,
+            "empire_id":136253037,
+            "localadmin_id":404357639,
             "locality_id":101830665,
+            "macrocounty_id":404227837,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152083687
         }
     ],
     "wof:id":152083687,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496776774,
     "wof:name":"Socama Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

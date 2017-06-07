@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.940709,45.950588,-0.940709,45.950588",
     "geom:latitude":45.950588,
     "geom:longitude":-0.940709,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829173,
-        85633147,
         85683275,
+        102191581,
+        404227833,
+        404425325,
+        85633147,
+        1108826385,
+        101829173,
+        136253037,
         102072145
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0M6AfVCT1bP3tPaREGwFPn_45.950588_-0.940709@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"278a4f3377cb145dc32d390f213deeac",
+    "wof:geomhash":"58fe87243f579134659459b1f79a1c27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072145,
+            "empire_id":136253037,
+            "localadmin_id":404425325,
             "locality_id":101829173,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136277517
         }
     ],
     "wof:id":136277517,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496776737,
     "wof:name":"Fiduciaire Mecanocomptable Du Centre Ouest (fimeco)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

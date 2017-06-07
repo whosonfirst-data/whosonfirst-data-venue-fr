@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.224718,49.235748,6.224718,49.235748",
     "geom:latitude":49.235748,
     "geom:longitude":6.224718,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828131,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404396797,
+        85633147,
+        1108826391,
+        101828131,
+        136253037,
         102070603
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_0xBcp8chrYSqEg3P2jbhoB_49.235748_6.224718@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58fb765e712d0d77ed3600bdb91b74e8",
+    "wof:geomhash":"d07356cf3a6fe0d57a693755f9f15062",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070603,
+            "empire_id":136253037,
+            "localadmin_id":404396797,
             "locality_id":101828131,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136283507
         }
     ],
     "wof:id":136283507,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496785953,
     "wof:name":"Agco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

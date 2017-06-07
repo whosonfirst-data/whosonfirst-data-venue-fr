@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.261049,50.750027,2.261049,50.750027",
     "geom:latitude":50.750027,
     "geom:longitude":2.261049,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2owNAwfmEfejp1DgiIrAY5_50.750027_2.261049@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1efabd3c0687ed9f55551a1da4260152",
+    "wof:geomhash":"be8b68ff5a857b30bc36716d84294cb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152046681
         }
     ],
     "wof:id":152046681,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496791537,
     "wof:name":"Lycee Technique Prive Saint Denis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

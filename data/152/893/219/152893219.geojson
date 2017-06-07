@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.605895,44.20142,0.605895,44.20142",
     "geom:latitude":44.20142,
     "geom:longitude":0.605895,
@@ -29,9 +30,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831901,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831901,
+        136253037,
         102070725
     ],
     "wof:breaches":[],
@@ -39,18 +44,22 @@
         "sg:id":"SG_7DXjUemFKkOhfjW6HTueNL_44.201420_0.605895@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec476711bf5a638762cbb86a412839f8",
+    "wof:geomhash":"7eb614da2f41a92b775775efdb3291df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070725,
+            "empire_id":136253037,
             "locality_id":101831901,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152893219
         }
     ],
     "wof:id":152893219,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496798415,
     "wof:name":"Rehau Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.887218,45.616749,5.887218,45.616749",
     "geom:latitude":45.616749,
     "geom:longitude":5.887218,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750763,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404372357,
+        85633147,
+        1108826389,
+        101750763,
+        136253037,
         102070549
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0vnSimfsDMy1OT1GGHbBIY_45.616749_5.887218@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ffa5ed176c85e6d58b3ee9b1d060005c",
+    "wof:geomhash":"ab45deec4a2adc22661863dfe190ab16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070549,
+            "empire_id":136253037,
+            "localadmin_id":404372357,
             "locality_id":101750763,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152059377
         }
     ],
     "wof:id":152059377,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496781940,
     "wof:name":"La Grande Braderie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

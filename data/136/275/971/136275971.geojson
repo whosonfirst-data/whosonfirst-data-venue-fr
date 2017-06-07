@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.333733,47.862244,5.333733,47.862244",
     "geom:latitude":47.862244,
     "geom:longitude":5.333733,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766221,
-        85633147,
         85683261,
+        102191581,
+        404227911,
+        404350465,
+        85633147,
+        1108826391,
+        101766221,
+        136253037,
         102067271
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4YUpBsTuY5O2EAGCq9xYD1_47.862244_5.333733@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d8f60319ceaed5d9bf859837e3408ea8",
+    "wof:geomhash":"67c8e715b9d3d4fe75f0752476ce6b4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067271,
+            "empire_id":136253037,
+            "localadmin_id":404350465,
             "locality_id":101766221,
+            "macrocounty_id":404227911,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":136275971
         }
     ],
     "wof:id":136275971,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496805478,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De L'aube Et De (crcam Aube Haute Marne)",
-    "wof:parent_id":101766221,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

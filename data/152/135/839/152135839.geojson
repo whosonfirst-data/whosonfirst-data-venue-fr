@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.428733,46.096954,3.428733,46.096954",
     "geom:latitude":46.096954,
     "geom:longitude":3.428733,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829201,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404373583,
+        85633147,
+        1108826389,
+        101829201,
+        136253037,
         102070563
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1gqdavUDLSsprHX3QYeVVd_46.096954_3.428733@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1fc59a249b86200a71ea582fa5ea8955",
+    "wof:geomhash":"cb5e036f480ca80baa98cf3d8d36bf19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070563,
+            "empire_id":136253037,
+            "localadmin_id":404373583,
             "locality_id":101829201,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152135839
         }
     ],
     "wof:id":152135839,
-    "wof:lastmodified":1473798295,
+    "wof:lastmodified":1496780880,
     "wof:name":"Dalkia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

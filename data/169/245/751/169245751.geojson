@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.921245,48.352451,4.921245,48.352451",
     "geom:latitude":48.352451,
     "geom:longitude":4.921245,
@@ -30,24 +31,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683261,
+        102191581,
         85633147,
-        85683261
+        404427095,
+        404228109,
+        1108826391,
+        136253037,
+        102066359
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KDaXzYEcMx4F5A7qZcvS4_48.352451_4.921245@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7dc46d397b10b8aa733518d844a4d84e",
+    "wof:geomhash":"f32ec6e0e2a3a329b1afce0b625e5566",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066359,
+            "empire_id":136253037,
+            "localadmin_id":404427095,
+            "locality_id":-1,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":169245751
         }
     ],
     "wof:id":169245751,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496784665,
     "wof:name":"Tournage Et Manches D'outils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

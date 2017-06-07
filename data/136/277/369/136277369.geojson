@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.885235,44.915779,4.885235,44.915779",
     "geom:latitude":44.915779,
     "geom:longitude":4.885235,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5h1XG92KN9LLgzy2cN2YtZ_44.915779_4.885235@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"adc7a37a02d898677c901f7ec54dc868",
+    "wof:geomhash":"ff77d0f92d4bb3012c0907dd7e33d8e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":136277369
         }
     ],
     "wof:id":136277369,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496780625,
     "wof:name":"Fiduciaire De France Societe D'expertise Comptable Commissai (fidex)",
-    "wof:parent_id":101750735,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

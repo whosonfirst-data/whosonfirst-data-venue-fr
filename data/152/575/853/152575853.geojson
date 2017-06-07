@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.206902,46.39547,-0.206902,46.39547",
     "geom:latitude":46.39547,
     "geom:longitude":-0.206902,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829279,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404427167,
+        85633147,
+        1108826385,
+        101829279,
+        136253037,
         102072475
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1APq46FqFPJ3ZYmrRkzbAs_46.395470_-0.206902@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"194e9cda9ce1854e915ab6b7861701e9",
+    "wof:geomhash":"ae91a7585242a3df7d15a81dd20711df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072475,
+            "empire_id":136253037,
+            "localadmin_id":404427167,
             "locality_id":101829279,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152575853
         }
     ],
     "wof:id":152575853,
-    "wof:lastmodified":1473798489,
+    "wof:lastmodified":1496775991,
     "wof:name":"Laroche Peltier Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

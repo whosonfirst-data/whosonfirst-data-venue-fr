@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.785073,46.290592,4.785073,46.290592",
     "geom:latitude":46.290592,
     "geom:longitude":4.785073,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829227,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404228293,
+        1108826395,
+        101829227,
+        136253037,
         102071699
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0JvN0NZNDxNtAJ6amUSMlA_46.290592_4.785073@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4bfc1253d79676b8d825611113d6dd31",
+    "wof:geomhash":"ac6f8d1d86f8fa054d460c13227db5c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071699,
+            "empire_id":136253037,
             "locality_id":101829227,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152909445
         }
     ],
     "wof:id":152909445,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496788843,
     "wof:name":"Diffusion De Presse Combier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.240176,46.195606,6.240176,46.195606",
     "geom:latitude":46.195606,
     "geom:longitude":6.240176,
@@ -37,28 +38,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yhZZyTa8VyJUQj2LKy28I_46.195606_6.240176@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c8943842fcd2d7c4da6d5024ccfa7a31",
+    "wof:geomhash":"a051856eebcabb4d8d9f70e3bcbe5767",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152104643
         }
     ],
     "wof:id":152104643,
-    "wof:lastmodified":1473798243,
+    "wof:lastmodified":1496802001,
     "wof:name":"Schindler Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

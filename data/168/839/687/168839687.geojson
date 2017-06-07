@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.147713,45.918842,6.147713,45.918842",
     "geom:latitude":45.918842,
     "geom:longitude":6.147713,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748995,
-        85633147,
         85683227,
+        102191581,
+        404227747,
+        404352763,
+        85633147,
+        1108826389,
+        101748995,
+        136253037,
         102069795
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1SOGZEJhlRtmQaDjto0QMJ_45.918842_6.147713@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e91b784a43f11314b344b054ba125b48",
+    "wof:geomhash":"c7d8a17be47f1005e1a986cafdef4cd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069795,
+            "empire_id":136253037,
+            "localadmin_id":404352763,
             "locality_id":101748995,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":168839687
         }
     ],
     "wof:id":168839687,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496799891,
     "wof:name":"Bureau Alpes Contr\u00f4les S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.721577,48.66238,7.721577,48.66238",
     "geom:latitude":48.66238,
     "geom:longitude":7.721577,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751115,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404359211,
+        85633147,
+        1108826391,
+        101751115,
+        136253037,
         102065205
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_58VnEpxceTXNI27ZmASTnJ_48.662380_7.721577@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55fea9a1822ec2aba484733a818138ed",
+    "wof:geomhash":"da94de064ad4f87a7e189d3a2c8a1e37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065205,
+            "empire_id":136253037,
+            "localadmin_id":404359211,
             "locality_id":101751115,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152115875
         }
     ],
     "wof:id":152115875,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496785642,
     "wof:name":"Formac France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.579944,47.809387,3.579944,47.809387",
     "geom:latitude":47.809387,
     "geom:longitude":3.579944,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7IxHVIycrd8q0XAZHPk1lu_47.809387_3.579944@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b366590a8f2394f1058caa65ecaed9e5",
+    "wof:geomhash":"ef7dc094c1b0a24d47a041c07dcd4715",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152044653
         }
     ],
     "wof:id":152044653,
-    "wof:lastmodified":1473797936,
+    "wof:lastmodified":1496788973,
     "wof:name":"Association Interprofessionelle De Formation Et D'apprentissage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

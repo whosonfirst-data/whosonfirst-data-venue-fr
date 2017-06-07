@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.489953,45.26524,4.489953,45.26524",
     "geom:latitude":45.26524,
     "geom:longitude":4.489953,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770741,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404367379,
+        85633147,
+        1108826389,
+        101770741,
+        136253037,
         102064775
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2H4bTflwMbmZDXK6OvydVl_45.265240_4.489953@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8cd2ee62dd77a8cd916cef718c9321cf",
+    "wof:geomhash":"040f65393300c4933839fee7f2039be9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064775,
+            "empire_id":136253037,
+            "localadmin_id":404367379,
             "locality_id":101770741,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152424177
         }
     ],
     "wof:id":152424177,
-    "wof:lastmodified":1473798402,
+    "wof:lastmodified":1496780058,
     "wof:name":"E.m.t. S.a. - Emballage Moderne Transparent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

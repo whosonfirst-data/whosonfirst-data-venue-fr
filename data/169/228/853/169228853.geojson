@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.910702,45.788445,4.910702,45.788445",
     "geom:latitude":45.788445,
     "geom:longitude":4.910702,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_0pePWKkoklI4RfvzaQRFIb_45.788445_4.910702@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"428d22099709ac35b71d1f612e5704e1",
+    "wof:geomhash":"0e1faba1420179bbf8b60642dbbf1db5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169228853
         }
     ],
     "wof:id":169228853,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496799944,
     "wof:name":"Ste D'exploitation Des Ets Rupiani Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

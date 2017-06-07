@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.155155,49.013435,0.155155,49.013435",
     "geom:latitude":49.013435,
     "geom:longitude":0.155155,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760293,
-        85633147,
         85683579,
+        102191581,
+        404228031,
+        404406163,
+        85633147,
+        1108826393,
+        101760293,
+        136253037,
         102068629
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3gDX3mltpTtob5pm2D3G86_49.013435_0.155155@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d33ae47e3d629eb15c5a2a764d31938a",
+    "wof:geomhash":"211d0340c59646badbe09f26d9454360",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068629,
+            "empire_id":136253037,
+            "localadmin_id":404406163,
             "locality_id":101760293,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":169240777
         }
     ],
     "wof:id":169240777,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496803202,
     "wof:name":"Les Bois Moules Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

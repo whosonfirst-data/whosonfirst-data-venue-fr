@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.204649,49.274071,1.204649,49.274071",
     "geom:latitude":49.274071,
     "geom:longitude":1.204649,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828335,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404366919,
+        85633147,
+        1108826393,
+        101828335,
+        136253037,
         102071233
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0g5QOHFJ5EY8Fz8WfGKPYk_49.274071_1.204649@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f10ba935b68ab1610f0369d448df5cab",
+    "wof:geomhash":"a50e28959f22c8fbfdaf5282848ed632",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071233,
+            "empire_id":136253037,
+            "localadmin_id":404366919,
             "locality_id":101828335,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152129145
         }
     ],
     "wof:id":152129145,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496804837,
     "wof:name":"Intercontrole Ic Escoffier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

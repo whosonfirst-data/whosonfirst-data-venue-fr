@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875195,45.762173,4.875195,45.762173",
     "geom:latitude":45.762173,
     "geom:longitude":4.875195,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0k8sK5Y41fbgKmFMQUWSMt_45.762173_4.875195@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb175aa2ff23bb7b14c0d4d3d828dc3d",
+    "wof:geomhash":"51edc606b1276a90cb906690b5fe233f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152059897
         }
     ],
     "wof:id":152059897,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496779684,
     "wof:name":"Brunet Lion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

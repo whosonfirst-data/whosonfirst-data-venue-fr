@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.775559,43.359699,-1.775559,43.359699",
     "geom:latitude":43.359699,
     "geom:longitude":-1.775559,
@@ -29,10 +30,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753141,
-        85633147,
-        85683539,
-        102071357
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -40,20 +44,24 @@
         "sg:id":"SG_2LpvYDWgyzRD6chXAaVRLK_43.359699_-1.775559@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5273bb2383514f79a4713fe1f8c8377",
+    "wof:geomhash":"6936f16636d2180b3b2f19a289a8c1f5",
     "wof:hierarchy":[
         {
-            "country_id":85633147,
-            "county_id":102071357,
-            "locality_id":101753141,
-            "region_id":85683539,
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "neighbourhood_id":-1,
+            "region_id":85682741,
             "venue_id":136308301
         }
     ],
     "wof:id":136308301,
-    "wof:lastmodified":1473798000,
+    "wof:lastmodified":1496797680,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "wof:parent_id":-1,
+    "wof:parent_id":102545785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

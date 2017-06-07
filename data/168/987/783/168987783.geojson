@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.145629,45.675568,0.145629,45.675568",
     "geom:latitude":45.675568,
     "geom:longitude":0.145629,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829067,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404384871,
+        85633147,
+        1108826385,
+        101829067,
+        136253037,
         102070497
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4098mnZZmJMHTfMLErezpi_45.675568_0.145629@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1fb76724b5b280d791a2b7a2b9aef780",
+    "wof:geomhash":"6b41c381691dee38dc0a2f730c084eb4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070497,
+            "empire_id":136253037,
+            "localadmin_id":404384871,
             "locality_id":101829067,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":168987783
         }
     ],
     "wof:id":168987783,
-    "wof:lastmodified":1473798189,
+    "wof:lastmodified":1496776187,
     "wof:name":"Herv\u00e9 Thermique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

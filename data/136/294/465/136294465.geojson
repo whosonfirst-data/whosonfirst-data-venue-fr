@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.571255,44.35413,2.571255,44.35413",
     "geom:latitude":44.35413,
     "geom:longitude":2.571255,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831899,
-        85633147,
         85683301,
+        102191581,
+        85633147,
+        404227821,
+        1108826387,
+        101831899,
+        136253037,
         102072281
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_14iJ2SSVH8FHTgfuyC46dW_44.354130_2.571255@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d43b96bbeebc4421eb570ca83bebbd2c",
+    "wof:geomhash":"61ba1981963b8857b2de58fb7382935d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072281,
+            "empire_id":136253037,
             "locality_id":101831899,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":136294465
         }
     ],
     "wof:id":136294465,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496778038,
     "wof:name":"Direction Des Services Fiscaux Aveyron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

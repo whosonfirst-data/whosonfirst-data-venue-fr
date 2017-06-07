@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.790415,45.583897,4.790415,45.583897",
     "geom:latitude":45.583897,
     "geom:longitude":4.790415,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753209,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404376541,
+        85633147,
+        1108826389,
+        101753209,
+        136253037,
         102070889
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5PV71GoM0jaA1XMk9ACG3r_45.583897_4.790415@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"622ec686cca96649028d5330ab2b0aca",
+    "wof:geomhash":"1bf62f5cccede35baad77f4d689865c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070889,
+            "empire_id":136253037,
+            "localadmin_id":404376541,
             "locality_id":101753209,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152970289
         }
     ],
     "wof:id":152970289,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496801643,
     "wof:name":"Testud (transports) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

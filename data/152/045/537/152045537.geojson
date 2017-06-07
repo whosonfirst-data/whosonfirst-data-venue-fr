@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.813582,45.731152,4.813582,45.731152",
     "geom:latitude":45.731152,
     "geom:longitude":4.813582,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749425,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404423931,
+        85633147,
+        1108826389,
+        101749425,
+        136253037,
         102071559
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1gSHkvTH6N5iJHciykAPNe_45.731152_4.813582@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6cf4512a5ee34afb95d1fe20613854bc",
+    "wof:geomhash":"c1e5e21b472a60cdd3ab7bdb66d5be27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071559,
+            "empire_id":136253037,
+            "localadmin_id":404423931,
             "locality_id":101749425,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152045537
         }
     ],
     "wof:id":152045537,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496782754,
     "wof:name":"Ecole Bilingue Assomption Bellevue Pensionnat Bellevue Ass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838467,46.303459,4.838467,46.303459",
     "geom:latitude":46.303459,
     "geom:longitude":4.838467,
@@ -22,9 +23,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1GbqI4x8hjNpJZ28iQdche_46.303459_4.838467@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a5c5d2ce6db44cf0ac251c42d9da299",
+    "wof:geomhash":"d9bf5dd48dd22337b2a305b20a4b115f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":168903321
         }
     ],
     "wof:id":168903321,
-    "wof:lastmodified":1473798053,
+    "wof:lastmodified":1496781078,
     "wof:name":"Devillard Marbrerie D'art S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.694095,45.163811,5.694095,45.163811",
     "geom:latitude":45.163811,
     "geom:longitude":5.694095,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753197,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404392483,
+        85633147,
+        1108826389,
+        101753197,
+        136253037,
         102071705
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6Ji5083QZNqJHfllmYO7VO_45.163811_5.694095@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b6e89eaf4e29eb7fff4eb159a2cb11f",
+    "wof:geomhash":"e31cae551814fc77e54487bf601aedc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071705,
+            "empire_id":136253037,
+            "localadmin_id":404392483,
             "locality_id":101753197,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169052447
         }
     ],
     "wof:id":169052447,
-    "wof:lastmodified":1473798020,
+    "wof:lastmodified":1496783057,
     "wof:name":"Manutention Service Dauphin\u00e9 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

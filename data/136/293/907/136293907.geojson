@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.15283,46.161812,-1.15283,46.161812",
     "geom:latitude":46.161812,
     "geom:longitude":-1.15283,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_0nLQootFpbJdeo7cTqjiyP_46.161812_-1.152830@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6578a137d33036f4f6bc799e798fb63a",
+    "wof:geomhash":"2317e0352ef4769642380a364860d776",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136293907
         }
     ],
     "wof:id":136293907,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496776737,
     "wof:name":"Centre Departemental Gestion Fonction Publique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

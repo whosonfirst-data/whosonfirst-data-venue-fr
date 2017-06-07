@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.717458,48.631771,7.717458,48.631771",
     "geom:latitude":48.631771,
     "geom:longitude":7.717458,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749765,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404415901,
+        85633147,
+        1108826391,
+        101749765,
+        136253037,
         102071297
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2ybScgJZwPJrHSDz3sky6e_48.631771_7.717458@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"00b72282546583fd84118bd1387242ee",
+    "wof:geomhash":"f41285a3d2b873f95689556476541cd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071297,
+            "empire_id":136253037,
+            "localadmin_id":404415901,
             "locality_id":101749765,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152945637
         }
     ],
     "wof:id":152945637,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496784324,
     "wof:name":"Mce France Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

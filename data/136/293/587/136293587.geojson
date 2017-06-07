@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848522,45.012821,4.848522,45.012821",
     "geom:latitude":45.012821,
     "geom:longitude":4.848522,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828859,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404413739,
+        85633147,
+        1108826389,
+        101828859,
+        136253037,
         102069541
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7R2cu8KPxK3wYq2cGGbqU4_45.012821_4.848522@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c9e6f4d3f6697a9d00cce665064498df",
+    "wof:geomhash":"8b9ccefe3111924ef6d97fd9cb00ecff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069541,
+            "empire_id":136253037,
+            "localadmin_id":404413739,
             "locality_id":101828859,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":136293587
         }
     ],
     "wof:id":136293587,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496801976,
     "wof:name":"Bayer France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

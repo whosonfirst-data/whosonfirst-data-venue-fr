@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.209544,50.70303,3.209544,50.70303",
     "geom:latitude":50.70303,
     "geom:longitude":3.209544,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751565,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751565,
+        136253037,
         102072569
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_4z6uHdU3JFeFYh7hCgXQm6_50.703030_3.209544@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"75041442135d7068f98c0369195ae456",
+    "wof:geomhash":"9ffc0e322846e0b2bd67c5fdc8d181b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072569,
+            "empire_id":136253037,
             "locality_id":101751565,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152170725
         }
     ],
     "wof:id":152170725,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496797127,
     "wof:name":"Imprimerie Europeenne De Repiquage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

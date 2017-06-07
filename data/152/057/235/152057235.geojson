@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.68555,49.309292,3.68555,49.309292",
     "geom:latitude":49.309292,
     "geom:longitude":3.68555,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761303,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404378021,
+        85633147,
+        1108826391,
+        101761303,
+        136253037,
         102066931
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1mPjosaqiJ92A8t43zANCN_49.309292_3.685550@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5385e52bffd6679204d67d36bdb65091",
+    "wof:geomhash":"02cc1f40263b6e0c22711669d78a4e70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066931,
+            "empire_id":136253037,
+            "localadmin_id":404378021,
             "locality_id":101761303,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152057235
         }
     ],
     "wof:id":152057235,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496805463,
     "wof:name":"Biolabo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

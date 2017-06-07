@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.899405,45.562141,5.899405,45.562141",
     "geom:latitude":45.562141,
     "geom:longitude":5.899405,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749325,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404378087,
+        85633147,
+        1108826389,
+        101749325,
+        136253037,
         102070759
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6dnF5vH3RSYHYlTNayCZvP_45.562141_5.899405@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de0a7e4c8545d42f57d6d73c4455c340",
+    "wof:geomhash":"ed8ec788f244d897e1d1026e1398fcd9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070759,
+            "empire_id":136253037,
+            "localadmin_id":404378087,
             "locality_id":101749325,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152652899
         }
     ],
     "wof:id":152652899,
-    "wof:lastmodified":1473798487,
+    "wof:lastmodified":1496781390,
     "wof:name":"Opinel Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

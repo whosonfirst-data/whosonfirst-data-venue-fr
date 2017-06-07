@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.132083,45.761456,3.132083,45.761456",
     "geom:latitude":45.761456,
     "geom:longitude":3.132083,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0QZgqs9PSEsPja7lRMufjV_45.761456_3.132083@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b491d424ed17f06da58c6a6bf51caa0b",
+    "wof:geomhash":"ec7cc215a27d6a9b97db764985237c67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":169209961
         }
     ],
     "wof:id":169209961,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496781212,
     "wof:name":"Unilog R\u00e9gions S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

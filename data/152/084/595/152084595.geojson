@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.550285,48.721046,3.550285,48.721046",
     "geom:latitude":48.721046,
     "geom:longitude":3.550285,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762657,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404413385,
+        85633147,
+        1108826391,
+        101762657,
+        136253037,
         102066505
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0eGzcyc0tiVVkxKwLbwTOA_48.721046_3.550285@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce1511f4b7a1408caeacfcad42e8be07",
+    "wof:geomhash":"5583365356b741dab2dcee3e945928be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066505,
+            "empire_id":136253037,
+            "localadmin_id":404413385,
             "locality_id":101762657,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152084595
         }
     ],
     "wof:id":152084595,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496785251,
     "wof:name":"Dico France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

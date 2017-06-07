@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.074055,47.325729,5.074055,47.325729",
     "geom:latitude":47.325729,
     "geom:longitude":5.074055,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750903,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404410649,
+        85633147,
+        1108826395,
+        101750903,
+        136253037,
         102065897
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4v4IT3xwJrmEYR53DSny92_47.325729_5.074055@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ec00c2336db01ca92add07bc2ac6e6e",
+    "wof:geomhash":"0b848c8875dda947ea800ad95284d275",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065897,
+            "empire_id":136253037,
+            "localadmin_id":404410649,
             "locality_id":101750903,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152951165
         }
     ],
     "wof:id":152951165,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496794795,
     "wof:name":"Autoroutes Paris Rhin Rhone (ste Des)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

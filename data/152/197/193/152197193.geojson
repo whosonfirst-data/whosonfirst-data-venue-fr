@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.316595,49.041893,1.316595,49.041893",
     "geom:latitude":49.041893,
     "geom:longitude":1.316595,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879051,
-        85633147,
         85683283,
+        102191581,
+        404228055,
+        404355819,
+        85633147,
+        1108826393,
+        101879051,
+        136253037,
         102069181
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5dGjaoltqsuts7ExTwP0EQ_49.041893_1.316595@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"205c9f026ba9b6deaf2c73f35a2a48eb",
+    "wof:geomhash":"3fd4ed065efabe6ee5554a6635ec0c29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069181,
+            "empire_id":136253037,
+            "localadmin_id":404355819,
             "locality_id":101879051,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152197193
         }
     ],
     "wof:id":152197193,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496804737,
     "wof:name":"Fonderie Euralu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.279251,48.202393,3.279251,48.202393",
     "geom:latitude":48.202393,
     "geom:longitude":3.279251,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827693,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404228181,
+        1108826395,
+        101827693,
+        136253037,
         102072545
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6jk2WFvBEJki6zy7ODNDG5_48.202393_3.279251@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f90c7c998b3b1f6b83334909f9755b4d",
+    "wof:geomhash":"5a9cbbde7a41fa218d5858d5401a2168",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072545,
+            "empire_id":136253037,
             "locality_id":101827693,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152100137
         }
     ],
     "wof:id":152100137,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496788193,
     "wof:name":"Delahaye (ets)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

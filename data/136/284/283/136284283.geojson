@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.336526,46.221329,0.336526,46.221329",
     "geom:latitude":46.221329,
     "geom:longitude":0.336526,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891829,
-        85633147,
         85683185,
+        102191581,
+        404227985,
+        404418143,
+        85633147,
+        1108826385,
+        101891829,
+        136253037,
         102065137
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5yDZezjceeS0eDCZOD2v8l_46.221329_0.336526@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7fd593b72a29ca3daeb5ecf8cf1557ae",
+    "wof:geomhash":"9dc93232e927028a6b0847c610852702",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065137,
+            "empire_id":136253037,
+            "localadmin_id":404418143,
             "locality_id":101891829,
+            "macrocounty_id":404227985,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136284283
         }
     ],
     "wof:id":136284283,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496776931,
     "wof:name":"Pbl Distribution Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

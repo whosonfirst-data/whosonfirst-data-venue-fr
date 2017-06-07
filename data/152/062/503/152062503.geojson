@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.035342,47.323177,5.035342,47.323177",
     "geom:latitude":47.323177,
     "geom:longitude":5.035342,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4qdtyM82Kocuzy9hnTjG83_47.323177_5.035342@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fe1cd331ff857fe97c348b9f915dcfda",
+    "wof:geomhash":"a71a993d99379c8e981144eb5605fb48",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152062503
         }
     ],
     "wof:id":152062503,
-    "wof:lastmodified":1473798007,
+    "wof:lastmodified":1496788703,
     "wof:name":"Robert Houdart Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

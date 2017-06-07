@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.68592,45.81942,4.68592,45.81942",
     "geom:latitude":45.81942,
     "geom:longitude":4.68592,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828911,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404369369,
+        85633147,
+        1108826389,
+        101828911,
+        136253037,
         102064681
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4eFEFjkag7xC9khWRHkwzU_45.819420_4.685920@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"52bdf88d848adc3cd7e59c72cf1e4a9d",
+    "wof:geomhash":"4025c17d1fc4f1e50fbb8428e3c73fcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064681,
+            "empire_id":136253037,
+            "localadmin_id":404369369,
             "locality_id":101828911,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152053827
         }
     ],
     "wof:id":152053827,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496781682,
     "wof:name":"Ste Des Specialites Chimiques Pour L'industrie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

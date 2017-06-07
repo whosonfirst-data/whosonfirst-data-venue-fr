@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.691819,48.488453,7.691819,48.488453",
     "geom:latitude":48.488453,
     "geom:longitude":7.691819,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753417,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404421683,
+        85633147,
+        1108826391,
+        101753417,
+        136253037,
         102065801
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2nTTciAVbYdnxyf492lZp2_48.488453_7.691819@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"344a41f2cf3aa158a0dd33a0ef5fe91b",
+    "wof:geomhash":"aba65272fad0dc501ce9d2f305926259",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065801,
+            "empire_id":136253037,
+            "localadmin_id":404421683,
             "locality_id":101753417,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152082467
         }
     ],
     "wof:id":152082467,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496785511,
     "wof:name":"Ohresser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

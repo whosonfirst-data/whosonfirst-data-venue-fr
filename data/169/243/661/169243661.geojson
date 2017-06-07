@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.29542,46.5751,-0.29542,46.5751",
     "geom:latitude":46.5751,
     "geom:longitude":-0.29542,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766689,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404367213,
+        85633147,
+        1108826385,
+        101766689,
+        136253037,
         102067145
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_5cO3OA8LhYayRzhv3w9yfQ_46.575100_-0.295420@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3f9c58eb1170a2a1f7b2baeea6c405bd",
+    "wof:geomhash":"d689f4802a32de23bd201ff54de1c6bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067145,
+            "empire_id":136253037,
+            "localadmin_id":404367213,
             "locality_id":101766689,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169243661
         }
     ],
     "wof:id":169243661,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496777042,
     "wof:name":"Sarl Etablissements Grayon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

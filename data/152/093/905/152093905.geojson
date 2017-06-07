@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.083905,43.916611,2.083905,43.916611",
     "geom:latitude":43.916611,
     "geom:longitude":2.083905,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831829,
-        85633147,
         85683603,
-        102070841
+        102191581,
+        404227763,
+        404365101,
+        85633147,
+        1108826387,
+        101831829,
+        136253037,
+        102072053
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WLfgmtADynjCoyFcbQYcZ_43.916611_2.083905@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"250a564c53bc29e946c699d8422fb37c",
+    "wof:geomhash":"55ee83bf5c4108080871e682d5028c8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070841,
+            "county_id":102072053,
+            "empire_id":136253037,
+            "localadmin_id":404365101,
             "locality_id":101831829,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152093905
         }
     ],
     "wof:id":152093905,
-    "wof:lastmodified":1473798210,
+    "wof:lastmodified":1496777906,
     "wof:name":"Flavourin Societe Anonyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

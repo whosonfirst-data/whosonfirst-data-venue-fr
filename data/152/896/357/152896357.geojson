@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.989495,49.250576,3.989495,49.250576",
     "geom:latitude":49.250576,
     "geom:longitude":3.989495,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751389,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404352011,
+        85633147,
+        1108826391,
+        101751389,
+        136253037,
         102067907
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_33A7rkK7bxex4ZCZDniHyQ_49.250576_3.989495@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"edba093d54a3e276989569b2253c0c2d",
+    "wof:geomhash":"f95f39ce985b0579bd8bb394fed6c762",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067907,
+            "empire_id":136253037,
+            "localadmin_id":404352011,
             "locality_id":101751389,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152896357
         }
     ],
     "wof:id":152896357,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496785924,
     "wof:name":"E.d.g. S.a.r.l. - Entreprise Dubos Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

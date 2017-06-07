@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.092487,48.443409,0.092487,48.443409",
     "geom:latitude":48.443409,
     "geom:longitude":0.092487,
@@ -40,9 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828045,
-        85633147,
         85683527,
+        102191581,
+        404227721,
+        404393125,
+        85633147,
+        1108826393,
+        101828045,
+        136253037,
         102072417
     ],
     "wof:breaches":[],
@@ -50,18 +56,23 @@
         "sg:id":"SG_6nL3KAsLzTcNCKt6ffVfp2_48.443409_0.092487@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"597a6324ae1bdcb331f9fe2bbfcee520",
+    "wof:geomhash":"c18c5feefbcd4c524b04cdadb3e26094",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072417,
+            "empire_id":136253037,
+            "localadmin_id":404393125,
             "locality_id":101828045,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":136286285
         }
     ],
     "wof:id":136286285,
-    "wof:lastmodified":1473797900,
+    "wof:lastmodified":1496803212,
     "wof:name":"Agrial Point Vert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

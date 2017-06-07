@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.263388,49.146145,0.263388,49.146145",
     "geom:latitude":49.146145,
     "geom:longitude":0.263388,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828401,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404228031,
+        1108826393,
+        101828401,
+        136253037,
         102072503
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6t7Ui9ChUBGPQ4npZGchzu_49.146145_0.263388@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d579a7c4a2062b8134f3e73951157afd",
+    "wof:geomhash":"cb272be495aa41482f484309def7851e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072503,
+            "empire_id":136253037,
             "locality_id":101828401,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152057649
         }
     ],
     "wof:id":152057649,
-    "wof:lastmodified":1473797936,
+    "wof:lastmodified":1496786942,
     "wof:name":"Bottu Aventis Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

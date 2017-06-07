@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.688094,49.393768,4.688094,49.393768",
     "geom:latitude":49.393768,
     "geom:longitude":4.688094,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815019,
-        85633147,
         85683309,
+        102191581,
+        404228201,
+        404358105,
+        85633147,
+        1108826391,
+        101815019,
+        136253037,
         102070057
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3yqGb9cyCH5ujjcEvB16kT_49.393768_4.688094@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"50175d1f62eb7318d2cd781a76591691",
+    "wof:geomhash":"72616a41f9335cffba681b986bb650e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070057,
+            "empire_id":136253037,
+            "localadmin_id":404358105,
             "locality_id":101815019,
+            "macrocounty_id":404228201,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152113595
         }
     ],
     "wof:id":152113595,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496786388,
     "wof:name":"Apm Clermont Vouziers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

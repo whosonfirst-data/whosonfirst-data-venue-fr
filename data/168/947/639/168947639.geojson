@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.596533,49.55529,2.596533,49.55529",
     "geom:latitude":49.55529,
     "geom:longitude":2.596533,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814945,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404377671,
+        85633147,
+        1108826399,
+        101814945,
+        136253037,
         102068223
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5hoVkAUs6suhLg1drbJA3z_49.555290_2.596533@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05793c0f2a2a968f6bc5e5abb620a2c2",
+    "wof:geomhash":"68cc60c149f7e3bb58ee65b063a7b370",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068223,
+            "empire_id":136253037,
+            "localadmin_id":404377671,
             "locality_id":101814945,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":168947639
         }
     ],
     "wof:id":168947639,
-    "wof:lastmodified":1473798114,
+    "wof:lastmodified":1496792674,
     "wof:name":"Excelsior Fonderie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.828646,46.305511,4.828646,46.305511",
     "geom:latitude":46.305511,
     "geom:longitude":4.828646,
@@ -27,9 +28,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:brand_id":420574521,
@@ -38,18 +44,23 @@
         "sg:id":"SG_5kG6RYXCQS1UYeCGANCiml_46.305511_4.828646@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a41827f78c91f53e2318857737b24cab",
+    "wof:geomhash":"2c86a2d0bea0746d4f87a05d082d0f32",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136296715
         }
     ],
     "wof:id":136296715,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496788617,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

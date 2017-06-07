@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.761896,49.522892,5.761896,49.522892",
     "geom:latitude":49.522892,
     "geom:longitude":5.761896,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840221,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404227705,
+        1108826391,
+        101840221,
+        136253037,
         102067211
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7YxQtivzMHLedHOkPS1cPU_49.522892_5.761896@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"37e524b8aed95b95e19309bde8961f18",
+    "wof:geomhash":"2f649655e11143c6f4c2b6caae59d729",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067211,
+            "empire_id":136253037,
             "locality_id":101840221,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152107433
         }
     ],
     "wof:id":152107433,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496786019,
     "wof:name":"Laboratoire De Protheses Dentaires Hoefler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

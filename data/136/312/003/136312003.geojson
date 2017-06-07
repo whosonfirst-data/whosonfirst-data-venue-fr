@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.589857,43.439171,-1.589857,43.439171",
     "geom:latitude":43.439171,
     "geom:longitude":-1.589857,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831743,
-        85633147,
         85683539,
+        102191581,
+        404227727,
+        404395753,
+        85633147,
+        1108826385,
+        101831743,
+        136253037,
         102070379
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_59bt7m4vesD9eJRXi324FF_43.439171_-1.589857@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d863dc4f1dd5f970b526af8ab3c68ad",
+    "wof:geomhash":"7a6fa0fcea7fdc551c923b9a1315fa4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070379,
+            "empire_id":136253037,
+            "localadmin_id":404395753,
             "locality_id":101831743,
+            "macrocounty_id":404227727,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136312003
         }
     ],
     "wof:id":136312003,
-    "wof:lastmodified":1473797964,
+    "wof:lastmodified":1496775981,
     "wof:name":"Boulangerie Patisserie Larre Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

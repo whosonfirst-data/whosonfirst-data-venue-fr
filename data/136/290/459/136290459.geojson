@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.951102,47.139664,4.951102,47.139664",
     "geom:latitude":47.139664,
     "geom:longitude":4.951102,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767345,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404375531,
+        85633147,
+        1108826395,
+        101767345,
+        136253037,
         102068705
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6s425n5AxMNE1rCUaUdhM2_47.139664_4.951102@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"103eb961294294c4ed845f82129a7c91",
+    "wof:geomhash":"d00136d51b2fdd55e74b7d7b997de40e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068705,
+            "empire_id":136253037,
+            "localadmin_id":404375531,
             "locality_id":101767345,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136290459
         }
     ],
     "wof:id":136290459,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496788780,
     "wof:name":"Dufouleur Fr\u00e8res Comptoir Des Grands Vins S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

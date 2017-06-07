@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.91342,45.689766,5.91342,45.689766",
     "geom:latitude":45.689766,
     "geom:longitude":5.91342,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0lE7kGX1mxOiMMjDyz67Da_45.689766_5.913420@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51c1fb3bb8c716d9298c3e6639ac1e30",
+    "wof:geomhash":"49a89eba359543a524d1c0503c5a0bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152112139
         }
     ],
     "wof:id":152112139,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496779998,
     "wof:name":"Ste Du Cercle Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

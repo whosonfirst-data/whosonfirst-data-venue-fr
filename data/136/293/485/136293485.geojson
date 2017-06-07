@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.082718,47.017426,3.082718,47.017426",
     "geom:latitude":47.017426,
     "geom:longitude":3.082718,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768443,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404361305,
+        85633147,
+        1108826395,
+        101768443,
+        136253037,
         102067521
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_11k9fJsXY9nA8XRqlvmATi_47.017426_3.082718@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88b6781303dc301c4acbfdd4af5b9f97",
+    "wof:geomhash":"53e48bcf87a70078ef6ed201c6566c5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067521,
+            "empire_id":136253037,
+            "localadmin_id":404361305,
             "locality_id":101768443,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":136293485
         }
     ],
     "wof:id":136293485,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496789039,
     "wof:name":"Banque Populaire De Bourgogne Franche-comt\u00c9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

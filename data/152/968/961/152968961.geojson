@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.211197,46.971165,-0.211197,46.971165",
     "geom:latitude":46.971165,
     "geom:longitude":-0.211197,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829275,
-        85633147,
         85683163,
-        102072007
+        102191581,
+        404227759,
+        404397109,
+        85633147,
+        1108826385,
+        101829275,
+        136253037,
+        102069965
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GcyMfCy1cx48L3J2Dgn6U_46.971165_-0.211197@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09d0d5f39fb099a3c777bd2a619dc65b",
+    "wof:geomhash":"f0ddab76ffd8ca09f721fb89bce6b15f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072007,
+            "county_id":102069965,
+            "empire_id":136253037,
+            "localadmin_id":404397109,
             "locality_id":101829275,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152968961
         }
     ],
     "wof:id":152968961,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496798914,
     "wof:name":"Stcc Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

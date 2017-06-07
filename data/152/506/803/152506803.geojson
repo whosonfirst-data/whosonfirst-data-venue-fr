@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.661985,47.921665,6.661985,47.921665",
     "geom:latitude":47.921665,
     "geom:longitude":6.661985,
@@ -24,9 +25,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766139,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404366933,
+        85633147,
+        1108826391,
+        101766139,
+        136253037,
         102069309
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7EVsNl9ZDw7wHqbJIe8Zl1_47.921665_6.661985@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ba0d7c453cfa1445ea6233d1b20e8d5c",
+    "wof:geomhash":"ad5b9a7cce0d69ae5c67b48d7329aeb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069309,
+            "empire_id":136253037,
+            "localadmin_id":404366933,
             "locality_id":101766139,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152506803
         }
     ],
     "wof:id":152506803,
-    "wof:lastmodified":1473798437,
+    "wof:lastmodified":1496784983,
     "wof:name":"Graphco Publicit\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

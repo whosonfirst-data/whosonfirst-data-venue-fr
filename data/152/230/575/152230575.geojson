@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1726,50.795219,2.1726,50.795219",
     "geom:latitude":50.795219,
     "geom:longitude":2.1726,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898545,
-        85633147,
         85683255,
+        102191581,
+        404228285,
+        404397163,
+        85633147,
+        1108826399,
+        101898545,
+        136253037,
         102071167
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4pMxNf8PIF2GAmzmsHPVJH_50.795219_2.172600@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc50bea5003865d45793670b16b10c29",
+    "wof:geomhash":"eed36c11f3a675671a8f2ce6a3372aa0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071167,
+            "empire_id":136253037,
+            "localadmin_id":404397163,
             "locality_id":101898545,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152230575
         }
     ],
     "wof:id":152230575,
-    "wof:lastmodified":1473798331,
+    "wof:lastmodified":1496797409,
     "wof:name":"Distillerie Persyn Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

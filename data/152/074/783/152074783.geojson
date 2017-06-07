@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.84831,47.509396,6.84831,47.509396",
     "geom:latitude":47.509396,
     "geom:longitude":6.84831,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829343,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404402243,
+        85633147,
+        1108826395,
+        101829343,
+        136253037,
         102070399
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4YNYLU9B96fheEWocZHd8r_47.509396_6.848310@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ebfcb17bfd47c90bfbaf78d5812b4259",
+    "wof:geomhash":"5738daf23d50d25955f954415653ba50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070399,
+            "empire_id":136253037,
+            "localadmin_id":404402243,
             "locality_id":101829343,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152074783
         }
     ],
     "wof:id":152074783,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496788470,
     "wof:name":"Conti Transfo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.054485,45.336479,5.054485,45.336479",
     "geom:latitude":45.336479,
     "geom:longitude":5.054485,
@@ -24,9 +25,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770571,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404422167,
+        85633147,
+        1108826389,
+        101770571,
+        136253037,
         102064591
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1slQhp2aGR7slVJEs5pYJg_45.336479_5.054485@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"10ab687a95c5c50a78b924d0d4cb8d74",
+    "wof:geomhash":"ee8e96e0a4a3f7557a8695f94ce1b73d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064591,
+            "empire_id":136253037,
+            "localadmin_id":404422167,
             "locality_id":101770571,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":168842551
         }
     ],
     "wof:id":168842551,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496779385,
     "wof:name":"C.a.t. Et Foyer Henri Robin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

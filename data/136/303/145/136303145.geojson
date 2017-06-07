@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.179813,49.104259,6.179813,49.104259",
     "geom:latitude":49.104259,
     "geom:longitude":6.179813,
@@ -28,9 +29,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_4uA0oP0OwHz0YmSyUtcl21_49.104259_6.179813@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0381a01120796a42ed347e00e1e2e072",
+    "wof:geomhash":"0dac0cdd3b3de7c852fba73847b7f5e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136303145
         }
     ],
     "wof:id":136303145,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496785795,
     "wof:name":"Cr\u00e9dit Agricole, De Lorraine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

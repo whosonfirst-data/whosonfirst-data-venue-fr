@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.487122,43.898613,-0.487122,43.898613",
     "geom:latitude":43.898613,
     "geom:longitude":-0.487122,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1B3qUZe61ZnSuRR2ERS7Ou_43.898613_-0.487122@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1f3eb37e5b82cf97a4a594fa503fec62",
+    "wof:geomhash":"c8b3d180237ec4f323823b8f8d520b84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152066157
         }
     ],
     "wof:id":152066157,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496798177,
     "wof:name":"Colas Sud Ouest Agence France Route Tp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

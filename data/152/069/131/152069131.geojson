@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.916065,45.52824,3.916065,45.52824",
     "geom:latitude":45.52824,
     "geom:longitude":3.916065,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893603,
-        85633147,
         85683471,
+        102191581,
+        404227725,
+        404364263,
+        85633147,
+        1108826389,
+        101893603,
+        136253037,
         102070835
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1QZSqoB2R6QMWpidp2gexG_45.528240_3.916065@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"202f1bf6b29e1f65207ebc68f563035a",
+    "wof:geomhash":"c8ffe36b0c2613e8ff823dd2dc1f1891",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070835,
+            "empire_id":136253037,
+            "localadmin_id":404364263,
             "locality_id":101893603,
+            "macrocounty_id":404227725,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152069131
         }
     ],
     "wof:id":152069131,
-    "wof:lastmodified":1473798067,
+    "wof:lastmodified":1496780848,
     "wof:name":"Fromagerie De La Genette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

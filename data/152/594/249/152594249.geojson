@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.981372,49.353813,5.981372,49.353813",
     "geom:latitude":49.353813,
     "geom:longitude":5.981372,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757337,
-        85633147,
         85683271,
+        102191581,
+        404228323,
+        404349307,
+        85633147,
+        1108826391,
+        101757337,
+        136253037,
         102066401
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2hgXf4s5AGUNy5gfqzthO9_49.353813_5.981372@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d11b6398e7044249e581c632c1a2d457",
+    "wof:geomhash":"c82f15faa0b1708bb639e8302bc5416d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066401,
+            "empire_id":136253037,
+            "localadmin_id":404349307,
             "locality_id":101757337,
+            "macrocounty_id":404228323,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152594249
         }
     ],
     "wof:id":152594249,
-    "wof:lastmodified":1473798448,
+    "wof:lastmodified":1496785939,
     "wof:name":"Lorraine Electrique S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

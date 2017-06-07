@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.087365,44.102463,3.087365,44.102463",
     "geom:latitude":44.102463,
     "geom:longitude":3.087365,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831891,
-        85633147,
         85683301,
+        102191581,
+        404227609,
+        404348401,
+        85633147,
+        1108826387,
+        101831891,
+        136253037,
         102072101
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4VSGDRBskCdiUdnM4YdZo5_44.102463_3.087365@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f6e8d752b19de3d348bc290f64d115a6",
+    "wof:geomhash":"ee43134c517b126cc981cba8e94fa577",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072101,
+            "empire_id":136253037,
+            "localadmin_id":404348401,
             "locality_id":101831891,
+            "macrocounty_id":404227609,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152078351
         }
     ],
     "wof:id":152078351,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496803528,
     "wof:name":"Ineo Reseaux Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.145165,48.122581,5.145165,48.122581",
     "geom:latitude":48.122581,
     "geom:longitude":5.145165,
@@ -24,9 +25,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766225,
-        85633147,
         85683261,
+        102191581,
+        85633147,
+        404227699,
+        1108826391,
+        101766225,
+        136253037,
         102071879
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_1uai5RhFljTZ8ssbxcwQFe_48.122581_5.145165@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8ce505f4254584ce14301efd97b1ce15",
+    "wof:geomhash":"d37a3d1114074e7e5d24491b00906993",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071879,
+            "empire_id":136253037,
             "locality_id":101766225,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152291603
         }
     ],
     "wof:id":152291603,
-    "wof:lastmodified":1473798355,
+    "wof:lastmodified":1496786302,
     "wof:name":"B.g.i.e. S.a. - B\u00e9ton Granul\u00e9 Isle De France Et Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

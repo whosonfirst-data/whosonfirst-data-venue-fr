@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.265906,46.196671,6.265906,46.196671",
     "geom:latitude":46.196671,
     "geom:longitude":6.265906,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O8lbS9gEFLtd3x016rbnE_46.196671_6.265906@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"30fca00be76e030570a9a37d11b85b34",
+    "wof:geomhash":"9217b679b2e3fe6c7fccd0c7acd4457e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152080977
         }
     ],
     "wof:id":152080977,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496780136,
     "wof:name":"Midec Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

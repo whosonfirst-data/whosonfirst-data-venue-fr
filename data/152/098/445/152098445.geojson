@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.717058,43.504921,3.717058,43.504921",
     "geom:latitude":43.504921,
     "geom:longitude":3.717058,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773861,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404362207,
+        85633147,
+        1108826387,
+        101773861,
+        136253037,
         102068069
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0igppAlhL3sgDDYlRG0qjn_43.504921_3.717058@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"af908294c9ea5bae62d34b9837367dbb",
+    "wof:geomhash":"c03cbf81639098b8692fe20236b162fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068069,
+            "empire_id":136253037,
+            "localadmin_id":404362207,
             "locality_id":101773861,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152098445
         }
     ],
     "wof:id":152098445,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496778344,
     "wof:name":"Terroirs De La Voie Domitienne Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

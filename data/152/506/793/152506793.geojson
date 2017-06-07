@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.080107,49.4286,2.080107,49.4286",
     "geom:latitude":49.4286,
     "geom:longitude":2.080107,
@@ -22,9 +23,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_0HYbN1pNImLFG48qpaosd9_49.428600_2.080107@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa4b97cb3df2a329c0cfc3c3cd1ce9ef",
+    "wof:geomhash":"3eee80d597798ada92ecfe41afb165f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152506793
         }
     ],
     "wof:id":152506793,
-    "wof:lastmodified":1473798436,
+    "wof:lastmodified":1496791842,
     "wof:name":"Graph'ica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

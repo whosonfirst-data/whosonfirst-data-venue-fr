@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.586249,48.726013,4.586249,48.726013",
     "geom:latitude":48.726013,
     "geom:longitude":4.586249,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828107,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228237,
+        1108826391,
+        101828107,
+        136253037,
         102072379
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0EbTZTYM2Z7meaSLmk75Ir_48.726013_4.586249@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de5ef32975ae1803ab5cdecc26ccbeba",
+    "wof:geomhash":"47f14fe87c2ec91dd548ea6fc87b4aa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072379,
+            "empire_id":136253037,
             "locality_id":101828107,
+            "macrocounty_id":404228237,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":153026573
         }
     ],
     "wof:id":153026573,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496786522,
     "wof:name":"Societe Du Journal L'union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.28879,49.898998,2.28879,49.898998",
     "geom:latitude":49.898998,
     "geom:longitude":2.28879,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_5SfiirrarsIjIUfbSeBFmk_49.898998_2.288790@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"038fb513b702f0dd7e42f4e5fb27e480",
+    "wof:geomhash":"0dd311981e78f1b01e3796274a2990db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136275809
         }
     ],
     "wof:id":136275809,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496790483,
     "wof:name":"Caisse Primaire Assur Maladie",
-    "wof:parent_id":101749133,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

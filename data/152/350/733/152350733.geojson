@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.15757,40.89854,-74.15757,40.89854",
     "geom:latitude":40.89854,
     "geom:longitude":-74.15757,
@@ -22,11 +23,13 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85879789,
+        102191575,
+        404477819,
         85633793,
         85975481,
         102081133,
-        85879789
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,8 +39,10 @@
     "wof:geomhash":"c95cedac157cde6f8ef9333b280cc3af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081133,
+            "localadmin_id":404477819,
             "locality_id":85975481,
             "neighbourhood_id":85879789,
             "region_id":85688607,
@@ -45,7 +50,7 @@
         }
     ],
     "wof:id":152350733,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1492022059,
     "wof:name":"Cartonnage Et Imprimerie Vallon Et Mayousse S.a.",
     "wof:parent_id":85879789,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.427565,48.348835,6.427565,48.348835",
     "geom:latitude":48.348835,
     "geom:longitude":6.427565,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101884075,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404356165,
+        85633147,
+        1108826391,
+        101884075,
+        136253037,
         102065255
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6rF0w96ciEkiKQu1BdtLqP_48.348835_6.427565@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd908e1dd111dd498562147b2d1f5e60",
+    "wof:geomhash":"d8f3e89688acb85ae5eebe98139e2f76",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065255,
+            "empire_id":136253037,
+            "localadmin_id":404356165,
             "locality_id":101884075,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152474713
         }
     ],
     "wof:id":152474713,
-    "wof:lastmodified":1473798422,
+    "wof:lastmodified":1496784178,
     "wof:name":"Ferme Avicole Du Mori S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

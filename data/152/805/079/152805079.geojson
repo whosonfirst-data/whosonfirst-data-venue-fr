@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.077742,45.772289,3.077742,45.772289",
     "geom:latitude":45.772289,
     "geom:longitude":3.077742,
@@ -22,9 +23,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1bU6oVuItqUBJBhyLLze1e_45.772289_3.077742@1306269754"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfd0e18daff4fd6db706cd42056fbe99",
+    "wof:geomhash":"f947fb1bea348fa1641bd4331a66ef60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152805079
         }
     ],
     "wof:id":152805079,
-    "wof:lastmodified":1473798532,
+    "wof:lastmodified":1496782942,
     "wof:name":"S\u00e9m\u00e9rap S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

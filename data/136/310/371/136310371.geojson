@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.670297,47.059402,6.670297,47.059402",
     "geom:latitude":47.059402,
     "geom:longitude":6.670297,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766855,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404357181,
+        85633147,
+        1108826395,
+        101766855,
+        136253037,
         102067301
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3QMTqlf5UKSoi8xJ1yi3uD_47.059402_6.670297@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a542a583e0e06f619c6cea305356b7a",
+    "wof:geomhash":"f145dff75a6ea632a5b825f6c6ab7dbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404357181,
             "locality_id":101766855,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":136310371
         }
     ],
     "wof:id":136310371,
-    "wof:lastmodified":1473798003,
+    "wof:lastmodified":1496788513,
     "wof:name":"Chantier Naval Franco Suisse (cnfs)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

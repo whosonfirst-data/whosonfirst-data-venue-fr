@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.525345,47.130424,6.525345,47.130424",
     "geom:latitude":47.130424,
     "geom:longitude":6.525345,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766849,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404391095,
+        85633147,
+        1108826395,
+        101766849,
+        136253037,
         102067887
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0KiAyWKJ7bLH1NmP1odhgl_47.130424_6.525345@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33f832dc47db6cc5a82c6a843cdde501",
+    "wof:geomhash":"fed20452457ce9c302f90e0bf1536fd7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067887,
+            "empire_id":136253037,
+            "localadmin_id":404391095,
             "locality_id":101766849,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152096511
         }
     ],
     "wof:id":152096511,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1496804451,
     "wof:name":"Maison Noel Myotte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

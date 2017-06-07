@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.363685,49.5308,0.363685,49.5308",
     "geom:latitude":49.5308,
     "geom:longitude":0.363685,
@@ -24,9 +25,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815025,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404401845,
+        85633147,
+        1108826393,
+        101815025,
+        136253037,
         102071483
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7DFGyZ1CPLn8TU4w082xtz_49.530800_0.363685@1306269754"
     },
     "wof:country":"FR",
-    "wof:geomhash":"30a7b7450b3c490d25c6de0639028688",
+    "wof:geomhash":"fe7598afde25fa3dd1a2d9ad2ffeb5de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071483,
+            "empire_id":136253037,
+            "localadmin_id":404401845,
             "locality_id":101815025,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152791697
         }
     ],
     "wof:id":152791697,
-    "wof:lastmodified":1473798534,
+    "wof:lastmodified":1496787066,
     "wof:name":"Sorom\u00e9ca S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

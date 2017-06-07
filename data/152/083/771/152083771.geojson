@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.889158,44.960892,4.889158,44.960892",
     "geom:latitude":44.960892,
     "geom:longitude":4.889158,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748961,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404372845,
+        85633147,
+        1108826389,
+        101748961,
+        136253037,
         102070171
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5ebHZUqeggFLRrYNn8Q26l_44.960892_4.889158@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d46ec0919e8735db606cd87a2a1c5230",
+    "wof:geomhash":"e6b951ba16b538dcafa45de2ade9f2cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070171,
+            "empire_id":136253037,
+            "localadmin_id":404372845,
             "locality_id":101748961,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152083771
         }
     ],
     "wof:id":152083771,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496779797,
     "wof:name":"Traitement Des Eaux Drome Arde Che (teda)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

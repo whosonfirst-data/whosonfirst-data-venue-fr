@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.139625,43.314007,3.139625,43.314007",
     "geom:latitude":43.314007,
     "geom:longitude":3.139625,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773693,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404412933,
+        85633147,
+        1108826387,
+        101773693,
+        136253037,
         102070829
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0g6V13TqZm4hkZATM1SI8G_43.314007_3.139625@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d4b9026ed7e3695494593187e8e82b5d",
+    "wof:geomhash":"3a467565f145cf9964ceb6345ebff2a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070829,
+            "empire_id":136253037,
+            "localadmin_id":404412933,
             "locality_id":101773693,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136290135
         }
     ],
     "wof:id":136290135,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496799375,
     "wof:name":"Languedoc Logistique Et Transports Sarl (let)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

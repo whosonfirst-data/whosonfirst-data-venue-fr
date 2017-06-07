@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.54909,46.669209,5.54909,46.669209",
     "geom:latitude":46.669209,
     "geom:longitude":5.54909,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_7EZdM1mJi2zVYtHA6pq8yT_46.669209_5.549090@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e6b9d89de337d490c798cc9a316eccf2",
+    "wof:geomhash":"5c8f0dee1772f67169304f5eb585e4a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":136275789
         }
     ],
     "wof:id":136275789,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496788828,
     "wof:name":"Caisse Mutualite Sociale Agricole Jura",
-    "wof:parent_id":101829255,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

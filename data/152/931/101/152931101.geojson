@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.585164,47.817638,3.585164,47.817638",
     "geom:latitude":47.817638,
     "geom:longitude":3.585164,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_74QVz3TspXFJgnZeEOwURk_47.817638_3.585164@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"67ec46c4b273fc977efaf29248cd5fd3",
+    "wof:geomhash":"7b4f676bb71c67c13ced5cbdb030ad0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152931101
         }
     ],
     "wof:id":152931101,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496788474,
     "wof:name":"Reliure Industrielle (la Nouvelle) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

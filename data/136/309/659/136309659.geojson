@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.414654,50.955235,2.414654,50.955235",
     "geom:latitude":50.955235,
     "geom:longitude":2.414654,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839659,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404409593,
+        85633147,
+        1108826399,
+        101839659,
+        136253037,
         102066001
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0xWtjeUDc2qIBvC7BPPCKq_50.955235_2.414654@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dce7286400d3415c450ac14e45f72647",
+    "wof:geomhash":"bbc086cf25065d692d40af1cdfa95b5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066001,
+            "empire_id":136253037,
+            "localadmin_id":404409593,
             "locality_id":101839659,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136309659
         }
     ],
     "wof:id":136309659,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496796821,
     "wof:name":"Continental Can France Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

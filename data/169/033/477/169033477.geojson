@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.149294,45.655434,0.149294,45.655434",
     "geom:latitude":45.655434,
     "geom:longitude":0.149294,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829071,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404348375,
+        85633147,
+        1108826385,
+        101829071,
+        136253037,
         102072237
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6yXNQIQkv35o5mOWWxdsL7_45.655434_0.149294@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b939068e5c2090cc9f332a90bb682600",
+    "wof:geomhash":"b50c59d944f29796ff4d1e85c589abab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072237,
+            "empire_id":136253037,
+            "localadmin_id":404348375,
             "locality_id":101829071,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":169033477
         }
     ],
     "wof:id":169033477,
-    "wof:lastmodified":1473798002,
+    "wof:lastmodified":1496775875,
     "wof:name":"Les Explorateurs S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

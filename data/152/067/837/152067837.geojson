@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.293409,43.579926,1.293409,43.579926",
     "geom:latitude":43.579926,
     "geom:longitude":1.293409,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750675,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404351273,
+        85633147,
+        1108826387,
+        101750675,
+        136253037,
         102067693
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3vKbpzpg4aNu0Prk6OFX9q_43.579926_1.293409@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"601648bdd8cd418a9168e8528a012d2a",
+    "wof:geomhash":"1cd90d9b9332ff3983a1257d170cee13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067693,
+            "empire_id":136253037,
+            "localadmin_id":404351273,
             "locality_id":101750675,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152067837
         }
     ],
     "wof:id":152067837,
-    "wof:lastmodified":1473798086,
+    "wof:lastmodified":1496778101,
     "wof:name":"Societe De Genie Civil Et D'equipement Routier Sogecer Europrefa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83941,46.303429,4.83941,46.303429",
     "geom:latitude":46.303429,
     "geom:longitude":4.83941,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4eVjrvI8DAlRxb9QKijdro_46.303429_4.839410@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bee99643a593120288ecaa20388deb80",
+    "wof:geomhash":"5bf52142fff6643c1bb267f2d4bda952",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152076787
         }
     ],
     "wof:id":152076787,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496780581,
     "wof:name":"Artru Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

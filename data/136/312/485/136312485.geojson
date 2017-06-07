@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.073145,49.272141,4.073145,49.272141",
     "geom:latitude":49.272141,
     "geom:longitude":4.073145,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6v6wBVXBeVnOCnGaJBWOgg_49.272141_4.073145@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2031f58394ed241d7d2cbbd042a6b57e",
+    "wof:geomhash":"c86b3d4b62a8c868cbd4d5704c48322a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136312485
         }
     ],
     "wof:id":136312485,
-    "wof:lastmodified":1473798001,
+    "wof:lastmodified":1496784793,
     "wof:name":"La Boulangerie De L'europe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

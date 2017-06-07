@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.756447,46.581928,5.756447,46.581928",
     "geom:latitude":46.581928,
     "geom:longitude":5.756447,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766649,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404363587,
+        85633147,
+        1108826395,
+        101766649,
+        136253037,
         102066099
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0RwksGKJjNw8ZCymTwPVty_46.581928_5.756447@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ded6940a49b564c0e40e035262a3ff32",
+    "wof:geomhash":"b39f64713151895d9c077af67915a2fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066099,
+            "empire_id":136253037,
+            "localadmin_id":404363587,
             "locality_id":101766649,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152941117
         }
     ],
     "wof:id":152941117,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496804288,
     "wof:name":"Courbet Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

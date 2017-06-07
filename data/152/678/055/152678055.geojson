@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.934164,45.751301,4.934164,45.751301",
     "geom:latitude":45.751301,
     "geom:longitude":4.934164,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1rpAEfS3mPsJh0JeRGif9T_45.751301_4.934164@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf66f4d5a62ffd815ca44908d67ead06",
+    "wof:geomhash":"d03d5e8d9f04909ed910f0ca8a1c8703",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152678055
         }
     ],
     "wof:id":152678055,
-    "wof:lastmodified":1473798499,
+    "wof:lastmodified":1496780996,
     "wof:name":"Pothier Elagage S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

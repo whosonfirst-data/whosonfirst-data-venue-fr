@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.727698,45.987019,4.727698,45.987019",
     "geom:latitude":45.987019,
     "geom:longitude":4.727698,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4TbQJ50RNxE08xhaOM4XBV_45.987019_4.727698@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abc330dcee1a2abac112b280346b67b1",
+    "wof:geomhash":"3cecb4d09a317b6dd9157bab23432130",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152204245
         }
     ],
     "wof:id":152204245,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1496800585,
     "wof:name":"Mailland (etablissements) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

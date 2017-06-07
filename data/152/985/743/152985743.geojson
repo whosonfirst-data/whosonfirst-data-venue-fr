@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.180884,45.851212,3.180884,45.851212",
     "geom:latitude":45.851212,
     "geom:longitude":3.180884,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767881,
-        85633147,
         85683471,
+        102191581,
+        404228251,
+        404428029,
+        85633147,
+        1108826389,
+        101767881,
+        136253037,
         102067545
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3c60JkNUWBpZyZzuHgAzPJ_45.851212_3.180884@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9e4909c190f7866179a2d703c3942d3",
+    "wof:geomhash":"7da1c1b5a26a95cd340d21351fbcef7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067545,
+            "empire_id":136253037,
+            "localadmin_id":404428029,
             "locality_id":101767881,
+            "macrocounty_id":404228251,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152985743
         }
     ],
     "wof:id":152985743,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496806446,
     "wof:name":"Jacquet Auvergne Innovation Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

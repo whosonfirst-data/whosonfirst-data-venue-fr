@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.317003,48.845207,1.317003,48.845207",
     "geom:latitude":48.845207,
     "geom:longitude":1.317003,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880507,
-        85633147,
         85683283,
+        102191581,
+        404228055,
+        404392453,
+        85633147,
+        1108826393,
+        101880507,
+        136253037,
         102070173
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1bIaCKJ89v2qY1sqedQLnx_48.845207_1.317003@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"982addd3bce985a023736a6a5df5c0ec",
+    "wof:geomhash":"eb0b4abf708556b313fd771e1b45adcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070173,
+            "empire_id":136253037,
+            "localadmin_id":404392453,
             "locality_id":101880507,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152128457
         }
     ],
     "wof:id":152128457,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496804838,
     "wof:name":"Atelier Informatique Et Electronique (aie Etudes)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

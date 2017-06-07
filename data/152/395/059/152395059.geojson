@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.990734,49.260056,3.990734,49.260056",
     "geom:latitude":49.260056,
     "geom:longitude":3.990734,
@@ -23,9 +24,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751385,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404381873,
+        85633147,
+        1108826391,
+        101751385,
+        136253037,
         102071141
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_79rd4hVpxt53qmMc9wh1zk_49.260056_3.990734@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4bb0ca7160c50d8cd1033de0e7df0f18",
+    "wof:geomhash":"962107f84e44791c2c2b3b3500d29e5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071141,
+            "empire_id":136253037,
+            "localadmin_id":404381873,
             "locality_id":101751385,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152395059
         }
     ],
     "wof:id":152395059,
-    "wof:lastmodified":1473798392,
+    "wof:lastmodified":1496784427,
     "wof:name":"Daniel Val\u00e9ro Design S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.165134,48.693718,6.165134,48.693718",
     "geom:latitude":48.693718,
     "geom:longitude":6.165134,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3L0zTLdC1LiaWD1kFygr8H_48.693718_6.165134@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2983ca8a9088f8c2cb280ddd55d19813",
+    "wof:geomhash":"dd189ffc6ba613ae40fd5998b8b1c1c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152188315
         }
     ],
     "wof:id":152188315,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1496785661,
     "wof:name":"Saint Gobain Pam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

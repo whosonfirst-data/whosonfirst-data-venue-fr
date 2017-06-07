@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.743372,47.480339,6.743372,47.480339",
     "geom:latitude":47.480339,
     "geom:longitude":6.743372,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829365,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404419029,
+        85633147,
+        1108826395,
+        101829365,
+        136253037,
         102069821
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_6eB1NlmvtmPSPcIobOIE7X_47.480339_6.743372@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17c55a1ec9a46acca673f29ce3aae796",
+    "wof:geomhash":"cecb2f8bcc86a2ba05f96456cb2a293e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069821,
+            "empire_id":136253037,
+            "localadmin_id":404419029,
             "locality_id":101829365,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152951601
         }
     ],
     "wof:id":152951601,
-    "wof:lastmodified":1473798589,
+    "wof:lastmodified":1496788311,
     "wof:name":"Bassenne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

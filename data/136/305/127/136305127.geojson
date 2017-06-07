@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.052956,43.710209,-1.052956,43.710209",
     "geom:latitude":43.710209,
     "geom:longitude":-1.052956,
@@ -27,9 +28,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831883,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404352325,
+        85633147,
+        1108826385,
+        101831883,
+        136253037,
         102072111
     ],
     "wof:brand_id":420575503,
@@ -38,18 +44,23 @@
         "sg:id":"SG_7CQ9Tgxv3lo4zQHw7HNO3i_43.710209_-1.052956@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"647c71793a7b9574e37fc3c7573526c1",
+    "wof:geomhash":"e374cfe0e63c4a6e63394697d85289b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072111,
+            "empire_id":136253037,
+            "localadmin_id":404352325,
             "locality_id":101831883,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136305127
         }
     ],
     "wof:id":136305127,
-    "wof:lastmodified":1473797983,
+    "wof:lastmodified":1496775902,
     "wof:name":"Cr\u00e9dit Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

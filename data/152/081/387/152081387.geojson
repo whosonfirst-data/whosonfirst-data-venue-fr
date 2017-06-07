@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.053594,48.880554,6.053594,48.880554",
     "geom:latitude":48.880554,
     "geom:longitude":6.053594,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828211,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404401937,
+        85633147,
+        1108826391,
+        101828211,
+        136253037,
         102071143
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5K2l9IzRJrbD5XvWpIJFTD_48.880554_6.053594@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"324d9fa00772c357ad3ca6bae3b1af65",
+    "wof:geomhash":"7be0b43ca71c7472799f35f089b681f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071143,
+            "empire_id":136253037,
+            "localadmin_id":404401937,
             "locality_id":101828211,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152081387
         }
     ],
     "wof:id":152081387,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496785822,
     "wof:name":"Gaz De France Gdf Service National (gdf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

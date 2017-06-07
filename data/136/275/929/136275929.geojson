@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.833723,45.065868,4.833723,45.065868",
     "geom:latitude":45.065868,
     "geom:longitude":4.833723,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830447,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404368671,
+        85633147,
+        1108826389,
+        101830447,
+        136253037,
         102068799
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1k3Z5QtVtTpj9DpEnw0yeB_45.065868_4.833723@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"78e5bbabcbbc089b9393d06ba52cc8c3",
+    "wof:geomhash":"cf4f9a174e05c4f4b5dfe622e2cb7e36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068799,
+            "empire_id":136253037,
+            "localadmin_id":404368671,
             "locality_id":101830447,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":136275929
         }
     ],
     "wof:id":136275929,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496800645,
     "wof:name":"Caisse Regionale Credit Agricole Mutuel Sud Rhone Alpes",
-    "wof:parent_id":101830447,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

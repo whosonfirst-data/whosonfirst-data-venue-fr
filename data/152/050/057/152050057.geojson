@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.042921,43.710484,-1.042921,43.710484",
     "geom:latitude":43.710484,
     "geom:longitude":-1.042921,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831883,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404352325,
+        85633147,
+        1108826385,
+        101831883,
+        136253037,
         102072111
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7iVUxQ63xA0JPn0WSvzpDq_43.710484_-1.042921@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c4ea7b7a1da49c9074b2d12e5e51c5b2",
+    "wof:geomhash":"02e06918317c61fb2736e5897e37202d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072111,
+            "empire_id":136253037,
+            "localadmin_id":404352325,
             "locality_id":101831883,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152050057
         }
     ],
     "wof:id":152050057,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496776507,
     "wof:name":"Thermes Adour Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.523585,45.794926,3.523585,45.794926",
     "geom:latitude":45.794926,
     "geom:longitude":3.523585,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893659,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404395229,
+        85633147,
+        1108826389,
+        101893659,
+        136253037,
         102068503
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1Kfz6O0NBEZSk58iRNcZcw_45.794926_3.523585@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ef896c0c324eb8c72fd05220e064248",
+    "wof:geomhash":"e807c50060f8928fb5cbd907212a4845",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068503,
+            "empire_id":136253037,
+            "localadmin_id":404395229,
             "locality_id":101893659,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152092121
         }
     ],
     "wof:id":152092121,
-    "wof:lastmodified":1473798172,
+    "wof:lastmodified":1496806271,
     "wof:name":"Dore Outillage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

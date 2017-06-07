@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.600455,45.57695,5.600455,45.57695",
     "geom:latitude":45.57695,
     "geom:longitude":5.600455,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769189,
-        85633147,
         85683427,
+        102191581,
+        404227879,
+        404382027,
+        85633147,
+        1108826389,
+        101769189,
+        136253037,
         102068211
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0IsQQx7kK9aJEyUrJe8lnW_45.576950_5.600455@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a02f62c10fe86fee90ec9d1e3fe593f",
+    "wof:geomhash":"8e9c8ec358a54b6b6368d81e6a4ec9c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068211,
+            "empire_id":136253037,
+            "localadmin_id":404382027,
             "locality_id":101769189,
+            "macrocounty_id":404227879,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":153069573
         }
     ],
     "wof:id":153069573,
-    "wof:lastmodified":1473797984,
+    "wof:lastmodified":1496780966,
     "wof:name":"Aluminium Martigny France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

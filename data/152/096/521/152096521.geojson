@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.161051,50.722225,3.161051,50.722225",
     "geom:latitude":50.722225,
     "geom:longitude":3.161051,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7W1xQKEBD4z9Hi09ZtB9zj_50.722225_3.161051@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc08677f1306ae79d6655e5a863d4dd0",
+    "wof:geomhash":"129da86ee0535d0199736cff01feb460",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152096521
         }
     ],
     "wof:id":152096521,
-    "wof:lastmodified":1473798194,
+    "wof:lastmodified":1496797129,
     "wof:name":"Nord Viande Distribution Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

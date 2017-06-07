@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.317368,48.884861,2.317368,48.884861",
     "geom:latitude":48.884861,
     "geom:longitude":2.317368,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873991,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102069959,
-        85873991
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,19 @@
     "wof:geomhash":"d88177ab3e5f078d77fbb16ccb044085",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069959,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873991,
             "region_id":85683497,
             "venue_id":152223303
         }
     ],
     "wof:id":152223303,
-    "wof:lastmodified":1473798329,
+    "wof:lastmodified":1491911112,
     "wof:name":"Mobile Service (ms)",
     "wof:parent_id":85873991,
     "wof:placetype":"venue",

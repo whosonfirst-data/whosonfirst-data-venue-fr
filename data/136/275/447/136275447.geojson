@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.907301,49.188931,6.907301,49.188931",
     "geom:latitude":49.188931,
     "geom:longitude":6.907301,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756699,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404411173,
+        85633147,
+        1108826391,
+        101756699,
+        136253037,
         102072353
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3Ot69pL9P92hZ3kddZ9NSN_49.188931_6.907301@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4dc2c815e3cf6c8e3746b94e0cf1fdd7",
+    "wof:geomhash":"c7940ce9832768b8343717dfeaab17f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072353,
+            "empire_id":136253037,
+            "localadmin_id":404411173,
             "locality_id":101756699,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136275447
         }
     ],
     "wof:id":136275447,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496784886,
     "wof:name":"Cabinet Comptable Schuler Sa",
-    "wof:parent_id":101756699,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

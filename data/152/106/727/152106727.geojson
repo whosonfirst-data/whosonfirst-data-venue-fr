@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.099965,49.518211,0.099965,49.518211",
     "geom:latitude":49.518211,
     "geom:longitude":0.099965,
@@ -35,30 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794449,
+        102191581,
         85633147,
-        101750183,
-        102072319,
-        85794449
+        404227963,
+        1108826393,
+        101751441,
+        136253037,
+        102071715,
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TP25mlcPNDQ7jBFq4jTZs_49.518211_0.099965@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"63723303d95bc0d7b4c0870923e79550",
+    "wof:geomhash":"8d5458218903eff7b3d6da3432aed1ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072319,
-            "locality_id":101750183,
+            "county_id":102071715,
+            "empire_id":136253037,
+            "locality_id":101751441,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794449,
             "region_id":85683251,
             "venue_id":152106727
         }
     ],
     "wof:id":152106727,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496804841,
     "wof:name":"Bouette Dentaire",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",

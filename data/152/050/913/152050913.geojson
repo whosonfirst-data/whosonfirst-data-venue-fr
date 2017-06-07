@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.171085,49.021355,1.171085,49.021355",
     "geom:latitude":49.021355,
     "geom:longitude":1.171085,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751419,
-        85633147,
         85683283,
+        102191581,
+        85633147,
+        404228055,
+        1108826393,
+        101751419,
+        136253037,
         102072511
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1Gu3H3MHQMrVjFvbn1c3Ra_49.021355_1.171085@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7cb9d9012509131e3ca3ba761248c85",
+    "wof:geomhash":"ff6026751aec0264a553529807a66df0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072511,
+            "empire_id":136253037,
             "locality_id":101751419,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152050913
         }
     ],
     "wof:id":152050913,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496787700,
     "wof:name":"Etablissements Compin S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

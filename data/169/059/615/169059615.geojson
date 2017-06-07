@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.548089,44.868984,-0.548089,44.868984",
     "geom:latitude":44.868984,
     "geom:longitude":-0.548089,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UD06PxZxnTaIopmgXVAXl_44.868984_-0.548089@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"171eb26fa8a822a7b51255a7078d0700",
+    "wof:geomhash":"22d47fa736bc377dc313aa4743de5baa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169059615
         }
     ],
     "wof:id":169059615,
-    "wof:lastmodified":1473798035,
+    "wof:lastmodified":1496776223,
     "wof:name":"Mestrezat Et Domaines S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

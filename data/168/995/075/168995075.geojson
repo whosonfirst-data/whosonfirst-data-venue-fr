@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.173875,49.115162,6.173875,49.115162",
     "geom:latitude":49.115162,
     "geom:longitude":6.173875,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_57SRNhjJn2bH4DOHlmB32I_49.115162_6.173875@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"545a15f40c32c31065e0c1deafefe493",
+    "wof:geomhash":"f3a21ffe6264056f102132bea8d317a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":168995075
         }
     ],
     "wof:id":168995075,
-    "wof:lastmodified":1473798171,
+    "wof:lastmodified":1496784853,
     "wof:name":"I.p. France T\u00e9l\u00e9vision S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

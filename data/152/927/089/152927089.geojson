@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.05075,45.057606,5.05075,45.057606",
     "geom:latitude":45.057606,
     "geom:longitude":5.05075,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830433,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404351275,
+        85633147,
+        1108826389,
+        101830433,
+        136253037,
         102072191
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7KcRJSloJvlunBliXufBpg_45.057606_5.050750@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a48d2a9ea57687ac8368d7dc03ab1aa9",
+    "wof:geomhash":"5837cd9d21c6070a68c6b6838753779a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072191,
+            "empire_id":136253037,
+            "localadmin_id":404351275,
             "locality_id":101830433,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152927089
         }
     ],
     "wof:id":152927089,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496800104,
     "wof:name":"Imprimerie Mercure Srl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

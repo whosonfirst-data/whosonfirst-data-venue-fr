@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.003149,43.234917,-0.003149,43.234917",
     "geom:latitude":43.234917,
     "geom:longitude":-0.003149,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773643,
-        85633147,
         85683203,
+        102191581,
+        404228139,
+        404383385,
+        85633147,
+        1108826387,
+        101773643,
+        136253037,
         102070325
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_06wPlELwur60gP9QjvstBM_43.234917_-0.003149@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33f1b44ebd0e45803e1003c6de3add52",
+    "wof:geomhash":"cc17c28bd3baada6fdf12e3283624660",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070325,
+            "empire_id":136253037,
+            "localadmin_id":404383385,
             "locality_id":101773643,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152081573
         }
     ],
     "wof:id":152081573,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496803649,
     "wof:name":"Sateg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

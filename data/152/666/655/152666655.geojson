@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.770361,45.812347,4.770361,45.812347",
     "geom:latitude":45.812347,
     "geom:longitude":4.770361,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749427,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404354341,
+        85633147,
+        1108826389,
+        101749427,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7jNmmTEjNTb9Y0T1BnIjYs_45.812347_4.770361@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a4caf2fe962a4d0ac6becd478bff9ae4",
+    "wof:geomhash":"d481a37e0d39737d78bd35138bf68033",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404354341,
             "locality_id":101749427,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152666655
         }
     ],
     "wof:id":152666655,
-    "wof:lastmodified":1473798483,
+    "wof:lastmodified":1496780291,
     "wof:name":"Perrigot Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.297109,49.655319,3.297109,49.655319",
     "geom:latitude":49.655319,
     "geom:longitude":3.297109,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840835,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404355423,
+        85633147,
+        1108826399,
+        101840835,
+        136253037,
         102071191
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5RP6H91FRyJK9BFS8rTAMK_49.655319_3.297109@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06619e901927e5ec09a7a019026468e9",
+    "wof:geomhash":"c2d3b3e21565c3e20295753450fb1387",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071191,
+            "empire_id":136253037,
+            "localadmin_id":404355423,
             "locality_id":101840835,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136293857
         }
     ],
     "wof:id":136293857,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496795476,
     "wof:name":"Caisse Regionale Du Credit Agricole Mutuel Du Nord Est (crcam)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

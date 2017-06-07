@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.432941,50.968719,2.432941,50.968719",
     "geom:latitude":50.968719,
     "geom:longitude":2.432941,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839673,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404406299,
+        85633147,
+        1108826399,
+        101839673,
+        136253037,
         102066001
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0i34EP0LFltrqP0dw4yPoj_50.968719_2.432941@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2dbbec8bdd25d802930cc30ab88b5fef",
+    "wof:geomhash":"af1a2b546a064d936cd1c21e9f7a175a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066001,
+            "empire_id":136253037,
+            "localadmin_id":404406299,
             "locality_id":101839673,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":168988283
         }
     ],
     "wof:id":168988283,
-    "wof:lastmodified":1473798178,
+    "wof:lastmodified":1496796754,
     "wof:name":"Hilmoine Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

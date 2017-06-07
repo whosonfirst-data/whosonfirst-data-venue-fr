@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.771012,43.358467,-1.771012,43.358467",
     "geom:latitude":43.358467,
     "geom:longitude":-1.771012,
@@ -24,30 +25,37 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753141,
-        85633147,
-        85683539,
-        102071357
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cVHbEyKgBgY6f51VwnsSV_43.358467_-1.771012@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ed31def3a5289613fbd92a1d715526db",
+    "wof:geomhash":"5b3522373f5000ab95b33987f38cbbfb",
     "wof:hierarchy":[
         {
-            "country_id":85633147,
-            "county_id":102071357,
-            "locality_id":101753141,
-            "region_id":85683539,
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "neighbourhood_id":-1,
+            "region_id":85682741,
             "venue_id":152715157
         }
     ],
     "wof:id":152715157,
-    "wof:lastmodified":1473798506,
+    "wof:lastmodified":1496776283,
     "wof:name":"S.b.t.t. E.u.r.l. - Soci\u00e9t\u00e9 Basque Transport Transit",
-    "wof:parent_id":-1,
+    "wof:parent_id":102545785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.649588,44.790241,-0.649588,44.790241",
     "geom:latitude":44.790241,
     "geom:longitude":-0.649588,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_3vYuMaQPTwYAVk47WyUV57_44.790241_-0.649588@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8afaa8f0de18e49fddf5083ed23bcd20",
+    "wof:geomhash":"8048b1f687771e2164c80fc5a9b70115",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152104475
         }
     ],
     "wof:id":152104475,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496775952,
     "wof:name":"Regional Ascenseurs Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

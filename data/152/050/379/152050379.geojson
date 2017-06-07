@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.685405,49.109062,2.685405,49.109062",
     "geom:latitude":49.109062,
     "geom:longitude":2.685405,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879355,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404425765,
+        85633147,
+        1108826399,
+        101879355,
+        136253037,
         102069051
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1xRRL1jMBJKENWex4SOBCk_49.109062_2.685405@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ae9d8e84b29516ab18c2dd55d3bd231",
+    "wof:geomhash":"8bc08ec4a9eb50328a32bb5eab71dfe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069051,
+            "empire_id":136253037,
+            "localadmin_id":404425765,
             "locality_id":101879355,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152050379
         }
     ],
     "wof:id":152050379,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496791062,
     "wof:name":"Restaurant La Voliere Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

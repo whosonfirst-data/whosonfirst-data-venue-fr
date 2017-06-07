@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.874043,44.867912,1.874043,44.867912",
     "geom:latitude":44.867912,
     "geom:longitude":1.874043,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770359,
-        85633147,
         85683389,
+        102191581,
+        404227897,
+        404382415,
+        85633147,
+        1108826387,
+        101770359,
+        136253037,
         102068763
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1XtnpKvxJYKkQREw77cUYX_44.867912_1.874043@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e779d60a5bf8b2d0d4d414e0cefa07bb",
+    "wof:geomhash":"03ea18e7fe1e25ae8e789bb60887453e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068763,
+            "empire_id":136253037,
+            "localadmin_id":404382415,
             "locality_id":101770359,
+            "macrocounty_id":404227897,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":152167709
         }
     ],
     "wof:id":152167709,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496777838,
     "wof:name":"Rouchaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

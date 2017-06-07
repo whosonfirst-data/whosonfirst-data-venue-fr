@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.440628,44.446655,1.440628,44.446655",
     "geom:latitude":44.446655,
     "geom:longitude":1.440628,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830429,
-        85633147,
         85683389,
+        102191581,
+        85633147,
+        404227687,
+        1108826387,
+        101830429,
+        136253037,
         102072259
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3dwjtKqTQ0DTziTfGigwPX_44.446655_1.440628@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca0de3e5781020a20dd4a8891cd2e285",
+    "wof:geomhash":"33b58cbb5b9f7a98887a3e84fdd30da1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072259,
+            "empire_id":136253037,
             "locality_id":101830429,
+            "macrocounty_id":404227687,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":136293533
         }
     ],
     "wof:id":136293533,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496777755,
     "wof:name":"Banque Populaire P Occitane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

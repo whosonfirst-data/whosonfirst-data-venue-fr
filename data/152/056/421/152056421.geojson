@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.80118,45.7561,4.80118,45.7561",
     "geom:latitude":45.7561,
     "geom:longitude":4.80118,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4sxNvXruFNBhvgyzhfDyGF_45.756100_4.801180@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f1c8e0c41fbc0398d02ce93affd9f77",
+    "wof:geomhash":"16c52e1e92a1f34113d16bce7db8d40a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152056421
         }
     ],
     "wof:id":152056421,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496781806,
     "wof:name":"Agip Francaise Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.911866,45.685631,5.911866,45.685631",
     "geom:latitude":45.685631,
     "geom:longitude":5.911866,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7ldTa2qWSCUsmGF5BLqDJi_45.685631_5.911866@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"afa13ffb3f85666de7203a28b51085a2",
+    "wof:geomhash":"4e136f1ae220813b614fee64c94b73d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":168970283
         }
     ],
     "wof:id":168970283,
-    "wof:lastmodified":1473798176,
+    "wof:lastmodified":1496781094,
     "wof:name":"Gator Diffusion S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

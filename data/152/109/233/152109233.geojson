@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.434326,49.501259,2.434326,49.501259",
     "geom:latitude":49.501259,
     "geom:longitude":2.434326,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814931,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404390647,
+        85633147,
+        1108826399,
+        101814931,
+        136253037,
         102070281
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6ERSRyiAMsPGamCv4VijRN_49.501259_2.434326@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f263b21318c7d6b7a57e434abe7b5989",
+    "wof:geomhash":"301cb60e938da6c76b5ce49d052ae9b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070281,
+            "empire_id":136253037,
+            "localadmin_id":404390647,
             "locality_id":101814931,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152109233
         }
     ],
     "wof:id":152109233,
-    "wof:lastmodified":1473798251,
+    "wof:lastmodified":1496792679,
     "wof:name":"Etablissements Lerouge S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

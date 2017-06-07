@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.701682,43.094318,0.701682,43.094318",
     "geom:latitude":43.094318,
     "geom:longitude":0.701682,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773955,
-        85633147,
         85683397,
+        102191581,
+        404227865,
+        404414049,
+        85633147,
+        1108826387,
+        101773955,
+        136253037,
         102069659
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2WxIWktCkWejFxVsABAf8N_43.094318_0.701682@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a642d779f97e0ef2c45b92398a5ddc07",
+    "wof:geomhash":"5cfdee907148c6b796a91d644ea22290",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069659,
+            "empire_id":136253037,
+            "localadmin_id":404414049,
             "locality_id":101773955,
+            "macrocounty_id":404227865,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152102005
         }
     ],
     "wof:id":152102005,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496778543,
     "wof:name":"Beton Controle Du Comminges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

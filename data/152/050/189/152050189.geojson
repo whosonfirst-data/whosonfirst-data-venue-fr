@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.835689,50.107811,1.835689,50.107811",
     "geom:latitude":50.107811,
     "geom:longitude":1.835689,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4fYgTunVAs62C1TBsZRSFn_50.107811_1.835689@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"63879841f7e430f0a7b1aa7691ba2c21",
+    "wof:geomhash":"a7dddc6d9e06c0005dd1a82183dcbd1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152050189
         }
     ],
     "wof:id":152050189,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496790745,
     "wof:name":"Hotel De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

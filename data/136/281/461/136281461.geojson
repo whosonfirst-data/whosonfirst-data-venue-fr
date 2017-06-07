@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.232929,46.19289,6.232929,46.19289",
     "geom:latitude":46.19289,
     "geom:longitude":6.232929,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757307,
-        85633147,
         85683227,
-        102070047
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101757307,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wEkR6mChhGFdRgYHO0ilt_46.192890_6.232929@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"daca09e72df3974077d6b686b752a017",
+    "wof:geomhash":"f51c401d063b1025665a82ca21cd0723",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070047,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101757307,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":136281461
         }
     ],
     "wof:id":136281461,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496780627,
     "wof:name":"Mme Le Cauchois Veronique Graphic Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

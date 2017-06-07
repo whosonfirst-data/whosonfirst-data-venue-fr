@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.122912,49.050262,4.122912,49.050262",
     "geom:latitude":49.050262,
     "geom:longitude":4.122912,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762651,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404377215,
+        85633147,
+        1108826391,
+        101762651,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1p5LcZ7SxHLHUKoVawF3h1_49.050262_4.122912@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e82841e1c26e0c4b3f5839f5119d5b47",
+    "wof:geomhash":"121febf2fe51c490be1185ae9a34d821",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404377215,
             "locality_id":101762651,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152053439
         }
     ],
     "wof:id":152053439,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496805541,
     "wof:name":"Champagne Laurent-perrier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

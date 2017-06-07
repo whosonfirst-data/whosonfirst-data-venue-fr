@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.075283,46.034473,4.075283,46.034473",
     "geom:latitude":46.034473,
     "geom:longitude":4.075283,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3RpkLucP4XgTluOWf8q77Q_46.034473_4.075283@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5b84dc32658d4cda878c42b9b6f0c4a",
+    "wof:geomhash":"337747501779f5bc58e5e2f3202f5179",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136275105
         }
     ],
     "wof:id":136275105,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496783286,
     "wof:name":"Banque Populaire Du Massif Central (bpmc)",
-    "wof:parent_id":101828959,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

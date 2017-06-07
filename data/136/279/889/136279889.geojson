@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.592699,49.631378,-1.592699,49.631378",
     "geom:latitude":49.631378,
     "geom:longitude":-1.592699,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840311,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404354473,
+        85633147,
+        1108826393,
+        101840311,
+        136253037,
         102071603
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1qKjz2Wk5H0pisCMqAUxBn_49.631378_-1.592699@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"afed364e84897f6dfd16a4d45f98e9c3",
+    "wof:geomhash":"edfd51c0d8cf057233a88b3791476d52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071603,
+            "empire_id":136253037,
+            "localadmin_id":404354473,
             "locality_id":101840311,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136279889
         }
     ],
     "wof:id":136279889,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496787167,
     "wof:name":"Sofinor Ste Fiduciaire De Normandie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

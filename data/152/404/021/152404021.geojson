@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.416479,50.193054,3.416479,50.193054",
     "geom:latitude":50.193054,
     "geom:longitude":3.416479,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812717,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404394235,
+        85633147,
+        1108826399,
+        101812717,
+        136253037,
         102067063
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0vInMVOIIpRNd6W8TvjIAQ_50.193054_3.416479@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"28295a667072c14813e5e6683f5b6d4e",
+    "wof:geomhash":"8d1dcee69c8ced860cea9b681f0019a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067063,
+            "empire_id":136253037,
+            "localadmin_id":404394235,
             "locality_id":101812717,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152404021
         }
     ],
     "wof:id":152404021,
-    "wof:lastmodified":1473798399,
+    "wof:lastmodified":1496792602,
     "wof:name":"Descamps T.p. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

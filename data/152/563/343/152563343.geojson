@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.706117,49.199429,6.706117,49.199429",
     "geom:latitude":49.199429,
     "geom:longitude":6.706117,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828139,
-        85633147,
         85683271,
+        102191581,
+        404227711,
+        404404359,
+        85633147,
+        1108826391,
+        101828139,
+        136253037,
         102064857
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0NVa6TTmvmU2XLwwnf9Tvz_49.199429_6.706117@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3b50c0339cf11a50e90e82eb134b17e3",
+    "wof:geomhash":"54e8cca7b0dbd5e4e12ff8c47b09ee13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064857,
+            "empire_id":136253037,
+            "localadmin_id":404404359,
             "locality_id":101828139,
+            "macrocounty_id":404227711,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152563343
         }
     ],
     "wof:id":152563343,
-    "wof:lastmodified":1473798458,
+    "wof:lastmodified":1496785985,
     "wof:name":"L.c.d. Solution S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

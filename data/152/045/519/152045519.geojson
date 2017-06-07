@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.890085,48.675564,5.890085,48.675564",
     "geom:latitude":48.675564,
     "geom:longitude":5.890085,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828237,
-        85633147,
         85683343,
+        102191581,
+        404228239,
+        404420587,
+        85633147,
+        1108826391,
+        101828237,
+        136253037,
         102072561
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4rz7w0siiCfzZpiK9pJfkQ_48.675564_5.890085@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8efbd94200a1d138afd82b6af8f6c130",
+    "wof:geomhash":"9083e061eb7c4904e17c80e1fac0670e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072561,
+            "empire_id":136253037,
+            "localadmin_id":404420587,
             "locality_id":101828237,
+            "macrocounty_id":404228239,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152045519
         }
     ],
     "wof:id":152045519,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496793945,
     "wof:name":"Doctrine Chretienne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

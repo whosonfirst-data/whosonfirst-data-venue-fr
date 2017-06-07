@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.345053,48.199047,6.345053,48.199047",
     "geom:latitude":48.199047,
     "geom:longitude":6.345053,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827673,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404401615,
+        85633147,
+        1108826391,
+        101827673,
+        136253037,
         102069803
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0odB92oN96ZIdXm24i79S3_48.199047_6.345053@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1a7ebac60c04df4f8101a5abe5569b70",
+    "wof:geomhash":"db8a8cbb0c5be307a894584d522848ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069803,
+            "empire_id":136253037,
+            "localadmin_id":404401615,
             "locality_id":101827673,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152975749
         }
     ],
     "wof:id":152975749,
-    "wof:lastmodified":1473798588,
+    "wof:lastmodified":1496784517,
     "wof:name":"Transports Heilmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

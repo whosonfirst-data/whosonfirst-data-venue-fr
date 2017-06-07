@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.953991,49.050251,3.953991,49.050251",
     "geom:latitude":49.050251,
     "geom:longitude":3.953991,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828113,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828113,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_25QJHkBqttLRk2N7d7HCHX_49.050251_3.953991@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ecb66451d89b44f3e4ac83208eb11a50",
+    "wof:geomhash":"a66bf52521f5bc168b3e79d94687423f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828113,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152980475
         }
     ],
     "wof:id":152980475,
-    "wof:lastmodified":1473798593,
+    "wof:lastmodified":1496805765,
     "wof:name":"Walbaum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

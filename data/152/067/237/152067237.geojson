@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.353151,48.972698,4.353151,48.972698",
     "geom:latitude":48.972698,
     "geom:longitude":4.353151,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7iFGirrowGBA6xVgmj8hzW_48.972698_4.353151@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6eb912d8d3e370f72c139e22e357d8d5",
+    "wof:geomhash":"83db3e2367243492e59633c53831da61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152067237
         }
     ],
     "wof:id":152067237,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496783877,
     "wof:name":"Nord Est Tp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

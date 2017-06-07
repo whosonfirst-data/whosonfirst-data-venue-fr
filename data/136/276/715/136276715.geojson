@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.448238,48.172943,6.448238,48.172943",
     "geom:latitude":48.172943,
     "geom:longitude":6.448238,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827681,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404352281,
+        85633147,
+        1108826391,
+        101827681,
+        136253037,
         102072423
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_771lxeaD3D4yfqnkM5xp9v_48.172943_6.448238@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54089b6121da18370c0b23844f9fd594",
+    "wof:geomhash":"24c44c4820dfc7c8acb786a4d0d72672",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072423,
+            "empire_id":136253037,
+            "localadmin_id":404352281,
             "locality_id":101827681,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136276715
         }
     ],
     "wof:id":136276715,
-    "wof:lastmodified":1473797936,
+    "wof:lastmodified":1496793785,
     "wof:name":"Credit Commercial De France (ccf)",
-    "wof:parent_id":101827681,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

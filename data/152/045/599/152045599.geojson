@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.549607,47.22345,-1.549607,47.22345",
     "geom:latitude":47.22345,
     "geom:longitude":-1.549607,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897691,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897691
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,19 @@
     "wof:geomhash":"91edddd86fc620d10bc3e4580ec161e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897691,
             "region_id":85683233,
             "venue_id":152045599
         }
     ],
     "wof:id":152045599,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1491906473,
     "wof:name":"Ecole De Publicite Et D Arts Graphiques Pivaut",
     "wof:parent_id":85897691,
     "wof:placetype":"venue",

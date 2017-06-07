@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.236984,45.831635,1.236984,45.831635",
     "geom:latitude":45.831635,
     "geom:longitude":1.236984,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5SVvtJx7fSc5fQ1GxS40yi_45.831635_1.236984@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"486cd2174c39c4c8f284037d79cd2cf0",
+    "wof:geomhash":"875a2510cd6a5ab09b2f2223d6c503b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":169037067
         }
     ],
     "wof:id":169037067,
-    "wof:lastmodified":1473797996,
+    "wof:lastmodified":1496777477,
     "wof:name":"Limousin Entretien S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

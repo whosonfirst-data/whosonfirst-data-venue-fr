@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.215256,46.178501,6.215256,46.178501",
     "geom:latitude":46.178501,
     "geom:longitude":6.215256,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757301,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404388905,
+        85633147,
+        1108826389,
+        101757301,
+        136253037,
         102070047
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1It8LOe7VELnO20pcAAW0z_46.178501_6.215256@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fdfdcda3426871a8d127cac1fc385418",
+    "wof:geomhash":"285f341f7415a0ff667aaed9c6e4cbed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070047,
+            "empire_id":136253037,
+            "localadmin_id":404388905,
             "locality_id":101757301,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152127353
         }
     ],
     "wof:id":152127353,
-    "wof:lastmodified":1473798291,
+    "wof:lastmodified":1496800693,
     "wof:name":"Scanflow Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

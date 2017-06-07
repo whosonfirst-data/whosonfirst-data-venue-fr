@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.104184,47.306072,5.104184,47.306072",
     "geom:latitude":47.306072,
     "geom:longitude":5.104184,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753313,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404365881,
+        85633147,
+        1108826395,
+        101753313,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_29jVhog1fw3wC00F72Vu0B_47.306072_5.104184@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2bd1910bf1b1263996f3d3a2ff588f7f",
+    "wof:geomhash":"02d328aab40860170d11f811589eccb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404365881,
             "locality_id":101753313,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152910461
         }
     ],
     "wof:id":152910461,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496794840,
     "wof:name":"Editions Faton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

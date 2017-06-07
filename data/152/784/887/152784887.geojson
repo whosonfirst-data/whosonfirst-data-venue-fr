@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.597414,47.251247,-1.597414,47.251247",
     "geom:latitude":47.251247,
     "geom:longitude":-1.597414,
@@ -22,11 +23,14 @@
     "sg:province":"R\u00e9gion Pays de la Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897707,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897707
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,19 @@
     "wof:geomhash":"1e71cc5b7261e29b0427db832155b9a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897707,
             "region_id":85683233,
             "venue_id":152784887
         }
     ],
     "wof:id":152784887,
-    "wof:lastmodified":1473798525,
+    "wof:lastmodified":1491919701,
     "wof:name":"Sofrer S.a.",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",

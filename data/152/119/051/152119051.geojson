@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.389005,45.436794,4.389005,45.436794",
     "geom:latitude":45.436794,
     "geom:longitude":4.389005,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_06hEzmFFjZm3zjaM5oCNGV_45.436794_4.389005@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33b692bc2f14f6e90b0fbae467a77b9c",
+    "wof:geomhash":"db54ce6482d361c4d7ebd5b8c014787d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152119051
         }
     ],
     "wof:id":152119051,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496783354,
     "wof:name":"Maty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

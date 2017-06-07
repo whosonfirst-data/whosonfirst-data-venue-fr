@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.0833,49.470718,1.0833,49.470718",
     "geom:latitude":49.470718,
     "geom:longitude":1.0833,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750213,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404371759,
+        85633147,
+        1108826393,
+        101750213,
+        136253037,
         102071809
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_64hr2Yqg2RIR7N4f048Oyb_49.470718_1.083300@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e21c4781c3c6a243232e4cc080433d44",
+    "wof:geomhash":"13dc653e6f31432b8f9c58bc3405ab52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071809,
+            "empire_id":136253037,
+            "localadmin_id":404371759,
             "locality_id":101750213,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136276573
         }
     ],
     "wof:id":136276573,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496804857,
     "wof:name":"Conseil Revision Expertise Comptable Sa",
-    "wof:parent_id":101750213,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

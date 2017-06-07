@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.369816,46.659328,0.369816,46.659328",
     "geom:latitude":46.659328,
     "geom:longitude":0.369816,
@@ -24,9 +25,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829379,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404393087,
+        85633147,
+        1108826385,
+        101829379,
+        136253037,
         102070797
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7bFMCq72Cg4bIi59uMBnQY_46.659328_0.369816@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"479dd9c6164aed5d266bf85eea9c3dec",
+    "wof:geomhash":"a913d1c5d9b275e5947189a83f84f9ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070797,
+            "empire_id":136253037,
+            "localadmin_id":404393087,
             "locality_id":101829379,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169182385
         }
     ],
     "wof:id":169182385,
-    "wof:lastmodified":1473798223,
+    "wof:lastmodified":1496777197,
     "wof:name":"Standard D\u00e9coration S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

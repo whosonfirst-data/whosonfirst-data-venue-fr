@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.720605,45.984596,4.720605,45.984596",
     "geom:latitude":45.984596,
     "geom:longitude":4.720605,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_66w3D9jTgxIVYhf1GWmcke_45.984596_4.720605@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc1b98662851b950a226623a52777237",
+    "wof:geomhash":"c6fc7434bfc12cfe7b87527d18513cac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152107025
         }
     ],
     "wof:id":152107025,
-    "wof:lastmodified":1473798246,
+    "wof:lastmodified":1496779926,
     "wof:name":"Etablissements Alice Gilet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

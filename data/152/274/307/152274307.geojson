@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.793515,49.143681,6.793515,49.143681",
     "geom:latitude":49.143681,
     "geom:longitude":6.793515,
@@ -23,9 +24,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756695,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404356099,
+        85633147,
+        1108826391,
+        101756695,
+        136253037,
         102071145
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0gl9tmQgAJofZHv4VQRLyf_49.143681_6.793515@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4c2a9bb256c6758cfd2f6516b665c005",
+    "wof:geomhash":"7981e92e10b977b1fd03645169d16516",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404356099,
             "locality_id":101756695,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152274307
         }
     ],
     "wof:id":152274307,
-    "wof:lastmodified":1473798346,
+    "wof:lastmodified":1496785252,
     "wof:name":"Arend Entreprise S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

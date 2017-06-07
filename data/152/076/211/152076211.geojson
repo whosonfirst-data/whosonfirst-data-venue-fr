@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.86443,47.64632,6.86443,47.64632",
     "geom:latitude":47.64632,
     "geom:longitude":6.86443,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749011,
-        85633147,
         85683353,
+        102191581,
+        85633147,
+        404227783,
+        1108826395,
+        101749011,
+        136253037,
         102072425
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_05UCxNk7OUF2c5jJONHRWt_47.646320_6.864430@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3717fe6695b969aca43618055317c2dc",
+    "wof:geomhash":"bd262df0ceb068543040ddf88986672f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072425,
+            "empire_id":136253037,
             "locality_id":101749011,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":152076211
         }
     ],
     "wof:id":152076211,
-    "wof:lastmodified":1473798124,
+    "wof:lastmodified":1496788711,
     "wof:name":"Facen Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.397844,43.544331,1.397844,43.544331",
     "geom:latitude":43.544331,
     "geom:longitude":1.397844,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OjUqettjsh2b7tM9GwPGK_43.544331_1.397844@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"525ad200df4dc25736b0352c0599542f",
+    "wof:geomhash":"65b693a9a5aab725664de2c86c93759f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":152117263
         }
     ],
     "wof:id":152117263,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496803722,
     "wof:name":"Isis-mpp S.a.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

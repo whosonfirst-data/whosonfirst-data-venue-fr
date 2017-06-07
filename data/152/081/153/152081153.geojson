@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.11742,43.010433,1.11742,43.010433",
     "geom:latitude":43.010433,
     "geom:longitude":1.11742,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831577,
-        85633147,
         85683335,
+        102191581,
+        404228019,
+        404369575,
+        85633147,
+        1108826387,
+        101831577,
+        136253037,
         102067295
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1IVXEJvi8r2Pi34eL4QQ3Z_43.010433_1.117420@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"044866b17b7e9b9ea2e871f5f99cbd49",
+    "wof:geomhash":"68318bcb29a93869c697122bd258ef0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067295,
+            "empire_id":136253037,
+            "localadmin_id":404369575,
             "locality_id":101831577,
+            "macrocounty_id":404228019,
+            "macroregion_id":1108826387,
             "region_id":85683335,
             "venue_id":152081153
         }
     ],
     "wof:id":152081153,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496777625,
     "wof:name":"Lagarde Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.440415,46.483334,4.440415,46.483334",
     "geom:latitude":46.483334,
     "geom:longitude":4.440415,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892869,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404348361,
+        85633147,
+        1108826395,
+        101892869,
+        136253037,
         102071093
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1hzn0ZJhRCmiJayvVlMLEu_46.483334_4.440415@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"069a1c245fe31dbec598782a561bdd4c",
+    "wof:geomhash":"30eefa5cd3a2a93f88b336b12da5ca42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071093,
+            "empire_id":136253037,
+            "localadmin_id":404348361,
             "locality_id":101892869,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136288895
         }
     ],
     "wof:id":136288895,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496789234,
     "wof:name":"Eurl Jean Yves Bouillot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

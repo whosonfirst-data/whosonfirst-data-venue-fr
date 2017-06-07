@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.52418,44.809174,-0.52418,44.809174",
     "geom:latitude":44.809174,
     "geom:longitude":-0.52418,
@@ -29,9 +30,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749351,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404422017,
+        85633147,
+        1108826385,
+        101749351,
+        136253037,
         102071735
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_4mE2Aj9MYZR000UhWQYGAy_44.809174_-0.524180@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1874bfbe084e898bac7fbb40c2e6b4b",
+    "wof:geomhash":"1e0c0eee427e92aee348c915be2af432",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071735,
+            "empire_id":136253037,
+            "localadmin_id":404422017,
             "locality_id":101749351,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136300965
         }
     ],
     "wof:id":136300965,
-    "wof:lastmodified":1473798014,
+    "wof:lastmodified":1496775845,
     "wof:name":"Caisse D'epargne Aquitaine Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

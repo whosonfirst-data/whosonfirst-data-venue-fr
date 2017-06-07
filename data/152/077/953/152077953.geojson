@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.436847,45.486763,4.436847,45.486763",
     "geom:latitude":45.486763,
     "geom:longitude":4.436847,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750837,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404384105,
+        85633147,
+        1108826389,
+        101750837,
+        136253037,
         102069555
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3IOgEGlJ1d3ADc4YXJmoA1_45.486763_4.436847@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"555e63b28f9158d4d6a92c62745cf0ad",
+    "wof:geomhash":"16fa8755d8fc01a6a8a353e93f33b30e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069555,
+            "empire_id":136253037,
+            "localadmin_id":404384105,
             "locality_id":101750837,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152077953
         }
     ],
     "wof:id":152077953,
-    "wof:lastmodified":1473798156,
+    "wof:lastmodified":1496800064,
     "wof:name":"Ecai Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

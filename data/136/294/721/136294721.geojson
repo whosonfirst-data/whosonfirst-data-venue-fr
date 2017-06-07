@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.046209,47.326748,5.046209,47.326748",
     "geom:latitude":47.326748,
     "geom:longitude":5.046209,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:brand_id":420573787,
@@ -46,18 +51,22 @@
         "sg:id":"SG_2B4P8BWq8KxaRXjOmFm3X2_47.326748_5.046209@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcd7bf4517395398a2924eaff6584901",
+    "wof:geomhash":"62d00846a9e0b433ce86a142dafbf794",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136294721
         }
     ],
     "wof:id":136294721,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496794891,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

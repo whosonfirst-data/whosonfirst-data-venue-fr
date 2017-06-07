@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.67159,45.619499,4.67159,45.619499",
     "geom:latitude":45.619499,
     "geom:longitude":4.67159,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769505,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361563,
+        85633147,
+        1108826389,
+        101769505,
+        136253037,
         102068727
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3kgGIzWZ2hSugSC2RHaeBV_45.619499_4.671590@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ccf40cff9e77934e173804b4ad727a92",
+    "wof:geomhash":"ec08cd04abe243ec99f817f5918b46dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068727,
+            "empire_id":136253037,
+            "localadmin_id":404361563,
             "locality_id":101769505,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152127057
         }
     ],
     "wof:id":152127057,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496781548,
     "wof:name":"Laboratoires Meyssol S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

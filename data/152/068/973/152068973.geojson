@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.212416,46.641514,5.212416,46.641514",
     "geom:latitude":46.641514,
     "geom:longitude":5.212416,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829223,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404394259,
+        85633147,
+        1108826395,
+        101829223,
+        136253037,
         102068689
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_11iLc1KPjvcGh4EHvLA3G2_46.641514_5.212416@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7f72c6707bc46a3af67faac429515aff",
+    "wof:geomhash":"619f35fd067b86b297139a69a1265768",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068689,
+            "empire_id":136253037,
+            "localadmin_id":404394259,
             "locality_id":101829223,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152068973
         }
     ],
     "wof:id":152068973,
-    "wof:lastmodified":1473798098,
+    "wof:lastmodified":1496788994,
     "wof:name":"Danone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

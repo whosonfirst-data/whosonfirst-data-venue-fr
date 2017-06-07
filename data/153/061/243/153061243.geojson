@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.041351,47.356083,5.041351,47.356083",
     "geom:latitude":47.356083,
     "geom:longitude":5.041351,
@@ -24,9 +25,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_3E8viAH7O0QOtuvGzndDnx_47.356083_5.041351@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"702ee7f1b9f893c3ef73ec2937721e7a",
+    "wof:geomhash":"01bf5aeed60f083c4535f24c691073e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":153061243
         }
     ],
     "wof:id":153061243,
-    "wof:lastmodified":1473797972,
+    "wof:lastmodified":1496794946,
     "wof:name":"Agence Apave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

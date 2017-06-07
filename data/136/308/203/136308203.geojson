@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.340325,46.580662,0.340325,46.580662",
     "geom:latitude":46.580662,
     "geom:longitude":0.340325,
@@ -27,9 +28,13 @@
     "sg:province":"Outre-Mer",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:brand_id":420573849,
@@ -38,18 +43,22 @@
         "sg:id":"SG_5CBZvDa6nNyo2zGFQ3ZBfM_46.580662_0.340325@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d38f477494e2b761d40c783a94509e11",
+    "wof:geomhash":"d4fd94e20c75cf8c7c337d43e253a9aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136308203
         }
     ],
     "wof:id":136308203,
-    "wof:lastmodified":1473797997,
+    "wof:lastmodified":1496775786,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

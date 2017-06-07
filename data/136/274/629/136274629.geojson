@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.309781,49.855965,3.309781,49.855965",
     "geom:latitude":49.855965,
     "geom:longitude":3.309781,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751423,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404410819,
+        85633147,
+        1108826399,
+        101751423,
+        136253037,
         102072337
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0Kmx1Ph0tE6Gu6si4mVi3P_49.855965_3.309781@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"996fec17ef036f620918dde2d986e99b",
+    "wof:geomhash":"b30fda740f860f9aa84b2db0db536e4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072337,
+            "empire_id":136253037,
+            "localadmin_id":404410819,
             "locality_id":101751423,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136274629
         }
     ],
     "wof:id":136274629,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496790442,
     "wof:name":"Assedic De L Aisne Ass",
-    "wof:parent_id":101751423,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

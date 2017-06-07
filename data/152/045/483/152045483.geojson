@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.386805,49.654289,3.386805,49.654289",
     "geom:latitude":49.654289,
     "geom:longitude":3.386805,
@@ -32,24 +33,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683247,
+        102191581,
         85633147,
-        85683247
+        404373849,
+        404227799,
+        1108826399,
+        136253037,
+        102066839
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oypFtuG7QRUqhZhWDOSKk_49.654289_3.386805@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a23b70abf9b6e21511cf4702b20087c5",
+    "wof:geomhash":"d4c577fe2a41b020807caf58bb2efa2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066839,
+            "empire_id":136253037,
+            "localadmin_id":404373849,
+            "locality_id":-1,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152045483
         }
     ],
     "wof:id":152045483,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496790560,
     "wof:name":"Cours Prive Lacordaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

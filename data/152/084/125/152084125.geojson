@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.265458,46.200611,6.265458,46.200611",
     "geom:latitude":46.200611,
     "geom:longitude":6.265458,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o3m9CmLfcwVRjtblv6Qbr_46.200611_6.265458@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"78bac7e53df7b8c130fbd574dfaf1523",
+    "wof:geomhash":"78464182b53b8858abfaea7e436dd2ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152084125
         }
     ],
     "wof:id":152084125,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496781979,
     "wof:name":"Brossard Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

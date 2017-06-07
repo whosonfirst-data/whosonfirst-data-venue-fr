@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.922598,49.010002,3.922598,49.010002",
     "geom:latitude":49.010002,
     "geom:longitude":3.922598,
@@ -22,9 +23,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828101,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404378111,
+        85633147,
+        1108826391,
+        101828101,
+        136253037,
         102070753
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3cObfhDStdXlC4ASMydH6f_49.010002_3.922598@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f739e6a803138433dc5d837f71bd4ea9",
+    "wof:geomhash":"57f43b91c9b85daaba5c63dff0d1760f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070753,
+            "empire_id":136253037,
+            "localadmin_id":404378111,
             "locality_id":101828101,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152413421
         }
     ],
     "wof:id":152413421,
-    "wof:lastmodified":1473798401,
+    "wof:lastmodified":1496784709,
     "wof:name":"Drot P\u00e8re Et Fils S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

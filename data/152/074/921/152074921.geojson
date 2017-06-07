@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.342035,46.91053,6.342035,46.91053",
     "geom:latitude":46.91053,
     "geom:longitude":6.342035,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829325,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404374755,
+        85633147,
+        1108826395,
+        101829325,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_39iN4LPUqelwzEXE9KOHVr_46.910530_6.342035@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d095ff64fc308f6054ba861a1a3e5488",
+    "wof:geomhash":"c782448f89c1997181b9b31481700ad5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404374755,
             "locality_id":101829325,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152074921
         }
     ],
     "wof:id":152074921,
-    "wof:lastmodified":1473798148,
+    "wof:lastmodified":1496788409,
     "wof:name":"Framatome Connectors International Pontarlier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

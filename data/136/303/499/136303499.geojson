@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.297383,49.893124,2.297383,49.893124",
     "geom:latitude":49.893124,
     "geom:longitude":2.297383,
@@ -29,9 +30,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -39,18 +44,22 @@
         "sg:id":"SG_5moRHJb2oer019eK4nYs0z_49.893124_2.297383@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2943e945045c126702c9c0c1efeab1fd",
+    "wof:geomhash":"ecc992b82190cc37735b8776e6907b27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136303499
         }
     ],
     "wof:id":136303499,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496790481,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

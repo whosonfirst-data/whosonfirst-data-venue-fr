@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.635825,47.575581,5.635825,47.575581",
     "geom:latitude":47.575581,
     "geom:longitude":5.635825,
@@ -22,9 +23,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101887865,
-        85633147,
         85683559,
+        102191581,
+        404227951,
+        404419191,
+        85633147,
+        1108826395,
+        101887865,
+        136253037,
         102065329
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7gpUnP4d68ZGkpht21y9Aa_47.575581_5.635825@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c439b86a0b9aca3e49b4b5f195aa6bd",
+    "wof:geomhash":"401b54bc83850d75f98a354cb849cce5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065329,
+            "empire_id":136253037,
+            "localadmin_id":404419191,
             "locality_id":101887865,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152667893
         }
     ],
     "wof:id":152667893,
-    "wof:lastmodified":1473798491,
+    "wof:lastmodified":1496788313,
     "wof:name":"Pharmexor S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

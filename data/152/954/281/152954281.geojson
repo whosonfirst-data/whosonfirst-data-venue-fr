@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.807247,46.28928,4.807247,46.28928",
     "geom:latitude":46.28928,
     "geom:longitude":4.807247,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829227,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404228293,
+        1108826395,
+        101829227,
+        136253037,
         102071699
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6gSVXqBveFpTkehS3QZAd2_46.289280_4.807247@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ad7086110df69b7fe66d9ebe657f0bec",
+    "wof:geomhash":"681ef460ad064606eb438db493eefc16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071699,
+            "empire_id":136253037,
             "locality_id":101829227,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152954281
         }
     ],
     "wof:id":152954281,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496789305,
     "wof:name":"Couturier (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

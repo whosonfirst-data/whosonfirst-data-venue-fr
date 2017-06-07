@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.267148,50.194752,3.267148,50.194752",
     "geom:latitude":50.194752,
     "geom:longitude":3.267148,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840745,
-        85633147,
         85683445,
-        102071903
+        102191581,
+        404227927,
+        404416001,
+        85633147,
+        1108826399,
+        101840745,
+        136253037,
+        102066685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xE2ePB4kHoxG3PjvRM2Zh_50.194752_3.267148@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0e2db277983c2e9171f2201410e75bd9",
+    "wof:geomhash":"a04402f624e029bfca34f72515d013e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071903,
+            "county_id":102066685,
+            "empire_id":136253037,
+            "localadmin_id":404416001,
             "locality_id":101840745,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152085183
         }
     ],
     "wof:id":152085183,
-    "wof:lastmodified":1473798119,
+    "wof:lastmodified":1496797375,
     "wof:name":"Serge Guidez Et Fils Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

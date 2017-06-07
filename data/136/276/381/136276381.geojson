@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.171108,48.694069,6.171108,48.694069",
     "geom:latitude":48.694069,
     "geom:longitude":6.171108,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0gwtZ4wON0WfJv27AT4jNM_48.694069_6.171108@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c01fbd49ae90bb7e204f030c3132168b",
+    "wof:geomhash":"b7154d02469ce83bb73c44cdde94654d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136276381
         }
     ],
     "wof:id":136276381,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496794416,
     "wof:name":"Chevry Et Associes Sa",
-    "wof:parent_id":101750135,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

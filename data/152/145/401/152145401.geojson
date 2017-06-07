@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.402653,47.312988,5.402653,47.312988",
     "geom:latitude":47.312988,
     "geom:longitude":5.402653,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767325,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404352287,
+        85633147,
+        1108826395,
+        101767325,
+        136253037,
         102068957
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3eUkgMcJekRFZqAKkSfZw6_47.312988_5.402653@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c3fc3d51e6ee1f2dbae99000d2e52725",
+    "wof:geomhash":"4a804f8c696dfcdbcf5609cf90e93a22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068957,
+            "empire_id":136253037,
+            "localadmin_id":404352287,
             "locality_id":101767325,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152145401
         }
     ],
     "wof:id":152145401,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496794875,
     "wof:name":"Laurent Sa (ste D'exploitation Des Ets)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

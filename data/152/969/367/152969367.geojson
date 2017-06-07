@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.251584,45.390057,5.251584,45.390057",
     "geom:latitude":45.390057,
     "geom:longitude":5.251584,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769221,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404381057,
+        85633147,
+        1108826389,
+        101769221,
+        136253037,
         102065577
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6vP9n8a4Uc6pRViugwlS3a_45.390057_5.251584@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9f8dc3bced7f20658cdbe3501b3b7a3",
+    "wof:geomhash":"0224408309fff40ec5c2781265720be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065577,
+            "empire_id":136253037,
+            "localadmin_id":404381057,
             "locality_id":101769221,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152969367
         }
     ],
     "wof:id":152969367,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496799904,
     "wof:name":"Ste Des Transports Garnier Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

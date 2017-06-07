@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.09781,49.408909,1.09781,49.408909",
     "geom:latitude":49.408909,
     "geom:longitude":1.09781,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751465,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751465,
+        136253037,
         102071947
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6NfVBAMjEE0ESfs3X8iD0s_49.408909_1.097810@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e3e408870f1f0a617bdbcd2c84070f22",
+    "wof:geomhash":"76d68d35354d096c8a7a0b90610c8a84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071947,
+            "empire_id":136253037,
             "locality_id":101751465,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152077157
         }
     ],
     "wof:id":152077157,
-    "wof:lastmodified":1473798116,
+    "wof:lastmodified":1496804718,
     "wof:name":"Record Portes Automatiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

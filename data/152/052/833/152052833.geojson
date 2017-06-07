@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.384952,43.293159,-0.384952,43.293159",
     "geom:latitude":43.293159,
     "geom:longitude":-0.384952,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_1wTGvIZzKHzryyw0XfgNn5_43.293159_-0.384952@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"745182f3fa34c8e5e6635e353f44a889",
+    "wof:geomhash":"7520eb198fb4f63be6bab2a0c17e3efc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152052833
         }
     ],
     "wof:id":152052833,
-    "wof:lastmodified":1473797941,
+    "wof:lastmodified":1496798433,
     "wof:name":"Moulins Marsan Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

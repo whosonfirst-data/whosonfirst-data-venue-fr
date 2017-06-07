@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.160778,49.354858,6.160778,49.354858",
     "geom:latitude":49.354858,
     "geom:longitude":6.160778,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757353,
-        85633147,
         85683271,
+        102191581,
+        85633147,
+        404228309,
+        1108826391,
+        101757353,
+        136253037,
         102072221
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4JSZbG99ryyJ56F9NdPAxy_49.354858_6.160778@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0c1b0453942dfc3ba70dd44e4e2fd64",
+    "wof:geomhash":"852acf581b2689ebd70d7ede706f77d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072221,
+            "empire_id":136253037,
             "locality_id":101757353,
+            "macrocounty_id":404228309,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136279871
         }
     ],
     "wof:id":136279871,
-    "wof:lastmodified":1473797946,
+    "wof:lastmodified":1496785944,
     "wof:name":"Sofico France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

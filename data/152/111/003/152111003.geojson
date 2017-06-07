@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.135522,49.326195,6.135522,49.326195",
     "geom:latitude":49.326195,
     "geom:longitude":6.135522,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757323,
-        85633147,
         85683271,
+        102191581,
+        404228323,
+        404348545,
+        85633147,
+        1108826391,
+        101757323,
+        136253037,
         102071013
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4SvzmEIuAHKCe8hE2LXAPM_49.326195_6.135522@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f565eda857f1039590f33c573a67678c",
+    "wof:geomhash":"ead5186f322ac0516ef3b474f3475791",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071013,
+            "empire_id":136253037,
+            "localadmin_id":404348545,
             "locality_id":101757323,
+            "macrocounty_id":404228323,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152111003
         }
     ],
     "wof:id":152111003,
-    "wof:lastmodified":1473798243,
+    "wof:lastmodified":1496784773,
     "wof:name":"M. Silva Pierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

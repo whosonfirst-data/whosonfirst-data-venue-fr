@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.44056,44.925911,2.44056,44.925911",
     "geom:latitude":44.925911,
     "geom:longitude":2.44056,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830499,
-        85633147,
         85683517,
+        102191581,
+        85633147,
+        404227617,
+        1108826389,
+        101830499,
+        136253037,
         102072235
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7fPR1BvgS1VbR7DrLLxURT_44.925911_2.440560@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9021585682b575139638c3f8e680de16",
+    "wof:geomhash":"7f11d2e8a60c585cf905cf7d196a95ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072235,
+            "empire_id":136253037,
             "locality_id":101830499,
+            "macrocounty_id":404227617,
+            "macroregion_id":1108826389,
             "region_id":85683517,
             "venue_id":152045135
         }
     ],
     "wof:id":152045135,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496806403,
     "wof:name":"College Jules Ferry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

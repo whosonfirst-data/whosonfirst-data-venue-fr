@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.749259,46.920277,-0.749259,46.920277",
     "geom:latitude":46.920277,
     "geom:longitude":-0.749259,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765399,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404357507,
+        85633147,
+        1108826385,
+        101765399,
+        136253037,
         102065857
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_78wIQ8N28Py4MWlzgTiEE8_46.920277_-0.749259@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2141d3131af20ec2ce2096f02d1e460c",
+    "wof:geomhash":"d2c5fa18e3ffc105070f86f52f5a5526",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065857,
+            "empire_id":136253037,
+            "localadmin_id":404357507,
             "locality_id":101765399,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169003263
         }
     ],
     "wof:id":169003263,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496776066,
     "wof:name":"Institut De Soudure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

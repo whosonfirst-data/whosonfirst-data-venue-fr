@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.291389,40.821739,-74.291389,40.821739",
     "geom:latitude":40.821739,
     "geom:longitude":-74.291389,
@@ -22,9 +23,11 @@
     "sg:province":"New Jersey",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85975283,
-        85633793,
         85688607,
+        102191575,
+        404478053,
+        85633793,
+        85975283,
         102085043
     ],
     "wof:breaches":[],
@@ -35,15 +38,17 @@
     "wof:geomhash":"59854c6a000059b86c1fb2943ff0185c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085043,
+            "localadmin_id":404478053,
             "locality_id":85975283,
             "region_id":85688607,
             "venue_id":152483867
         }
     ],
     "wof:id":152483867,
-    "wof:lastmodified":1473798428,
+    "wof:lastmodified":1492016920,
     "wof:name":"Fougerole Borie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93988,45.77631,4.93988,45.77631",
     "geom:latitude":45.77631,
     "geom:longitude":4.93988,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_2DBroWhzrKVpuxF7s9KJyD_45.776310_4.939880@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b310231f966cf90b7b61b1da96ace23",
+    "wof:geomhash":"1ba8d68e3f8328fe26aae79267e6e032",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152168629
         }
     ],
     "wof:id":152168629,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496779419,
     "wof:name":"Soudage Et Technique D'equipements Industriels (stei 3 A)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

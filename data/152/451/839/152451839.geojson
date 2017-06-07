@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.620322,45.871552,3.620322,45.871552",
     "geom:latitude":45.871552,
     "geom:longitude":3.620322,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767861,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404395577,
+        85633147,
+        1108826389,
+        101767861,
+        136253037,
         102071291
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1jW3cbdSLE4Dpp6Sk62Rt3_45.871552_3.620322@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a873a3f5291a8d95efaa356c64c05429",
+    "wof:geomhash":"0626b0bd4f58fc342b8738781a88feff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071291,
+            "empire_id":136253037,
+            "localadmin_id":404395577,
             "locality_id":101767861,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152451839
         }
     ],
     "wof:id":152451839,
-    "wof:lastmodified":1473798418,
+    "wof:lastmodified":1496783450,
     "wof:name":"Etablissements Dupuy Collas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

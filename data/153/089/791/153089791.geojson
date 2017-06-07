@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.156843,45.549355,2.156843,45.549355",
     "geom:latitude":45.549355,
     "geom:longitude":2.156843,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769321,
-        85633147,
         85683209,
+        102191581,
+        404228041,
+        404350699,
+        85633147,
+        1108826385,
+        101769321,
+        136253037,
         102067493
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3gokd96Y1gvE2oLF94cLOj_45.549355_2.156843@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0644c68a76b84cb4574cde80442405cf",
+    "wof:geomhash":"3d14eab01b5f2d7bb4ee2d083943f63b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067493,
+            "empire_id":136253037,
+            "localadmin_id":404350699,
             "locality_id":101769321,
+            "macrocounty_id":404228041,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":153089791
         }
     ],
     "wof:id":153089791,
-    "wof:lastmodified":1473797996,
+    "wof:lastmodified":1496776016,
     "wof:name":"B.m.s. S.a. - Bristol Myers Squibb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

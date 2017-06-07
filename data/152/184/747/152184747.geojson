@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.416371,46.066872,6.416371,46.066872",
     "geom:latitude":46.066872,
     "geom:longitude":6.416371,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827621,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404362337,
+        85633147,
+        1108826389,
+        101827621,
+        136253037,
         102065721
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2wzPjNlki5WaQxI89n8aJv_46.066872_6.416371@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4985fcca9ac81a9d6ffcfcc6b7a6d3d1",
+    "wof:geomhash":"636008c798291e42a1b93711a695e068",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065721,
+            "empire_id":136253037,
+            "localadmin_id":404362337,
             "locality_id":101827621,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152184747
         }
     ],
     "wof:id":152184747,
-    "wof:lastmodified":1473798310,
+    "wof:lastmodified":1496779447,
     "wof:name":"Societe De Tournage Automatique Bonnevillois Stab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

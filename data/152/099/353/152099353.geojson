@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.455047,48.407906,7.455047,48.407906",
     "geom:latitude":48.407906,
     "geom:longitude":7.455047,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763779,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404365855,
+        85633147,
+        1108826391,
+        101763779,
+        136253037,
         102064425
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_2PTmSoT7itqD3ee6sulrNE_48.407906_7.455047@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15f4c3b51dee45f63a3075862a04b4c6",
+    "wof:geomhash":"e3577688927729fdf712b6d2c4d57fac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064425,
+            "empire_id":136253037,
+            "localadmin_id":404365855,
             "locality_id":101763779,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152099353
         }
     ],
     "wof:id":152099353,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496784251,
     "wof:name":"Ste D Exploitation L. Gloeckler Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

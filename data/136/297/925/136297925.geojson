@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.588232,49.205639,2.588232,49.205639",
     "geom:latitude":49.205639,
     "geom:longitude":2.588232,
@@ -29,9 +30,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:brand_id":420573859,
@@ -40,18 +46,23 @@
         "sg:id":"SG_64qBg6vZA6sX7HTMD9Xp9k_49.205639_2.588232@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4b2e5c523f837a4936de8304dd18ce5a",
+    "wof:geomhash":"159014b09dbe9b85a7f63ff9e79976df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136297925
         }
     ],
     "wof:id":136297925,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496792304,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.161545,43.525246,0.161545,43.525246",
     "geom:latitude":43.525246,
     "geom:longitude":0.161545,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772575,
-        85633147,
         85683467,
+        102191581,
+        404228069,
+        404355617,
+        85633147,
+        1108826387,
+        101772575,
+        136253037,
         102066923
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_16OAN06aDHdHV1BUVui6Kh_43.525246_0.161545@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea99a4a71b6eb51e2358b34e9f7e18ad",
+    "wof:geomhash":"1005db4c38b28c4e786ee7f306e1a178",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066923,
+            "empire_id":136253037,
+            "localadmin_id":404355617,
             "locality_id":101772575,
+            "macrocounty_id":404228069,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152044167
         }
     ],
     "wof:id":152044167,
-    "wof:lastmodified":1473797897,
+    "wof:lastmodified":1496778276,
     "wof:name":"Office Du Tourisme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

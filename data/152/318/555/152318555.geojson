@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.935101,44.953152,1.935101,44.953152",
     "geom:latitude":44.953152,
     "geom:longitude":1.935101,
@@ -23,9 +24,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894281,
-        85633147,
         85683389,
+        102191581,
+        404227897,
+        404413433,
+        85633147,
+        1108826387,
+        101894281,
+        136253037,
         102064343
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0XhA0ZALZOeMCTZZxdUeid_44.953152_1.935101@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc1d936d0a94d8f1039f33fcf8e82f5c",
+    "wof:geomhash":"4b68e74094623a165ff203884b242939",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064343,
+            "empire_id":136253037,
+            "localadmin_id":404413433,
             "locality_id":101894281,
+            "macrocounty_id":404227897,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":152318555
         }
     ],
     "wof:id":152318555,
-    "wof:lastmodified":1473798365,
+    "wof:lastmodified":1496778234,
     "wof:name":"Brown Europe S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.126649,46.346825,6.126649,46.346825",
     "geom:latitude":46.346825,
     "geom:longitude":6.126649,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766307,
-        85633147,
         85683153,
+        102191581,
+        404228005,
+        404355759,
+        85633147,
+        1108826389,
+        101766307,
+        136253037,
         102066901
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2CA1AfGqfff2j7CIFGL5El_46.346825_6.126649@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b1644dbd370e79afeea99eda80af4fa",
+    "wof:geomhash":"b00952899645bf00d83ede96a9e2ae0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066901,
+            "empire_id":136253037,
+            "localadmin_id":404355759,
             "locality_id":101766307,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152293903
         }
     ],
     "wof:id":152293903,
-    "wof:lastmodified":1473798356,
+    "wof:lastmodified":1496779509,
     "wof:name":"B.p.s. - Banque Populaire Savoisienne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

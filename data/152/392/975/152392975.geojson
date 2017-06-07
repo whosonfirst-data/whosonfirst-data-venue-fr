@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.362748,48.954647,4.362748,48.954647",
     "geom:latitude":48.954647,
     "geom:longitude":4.362748,
@@ -22,9 +23,13 @@
     "sg:province":"Outre-Mer",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_67FR9ZzbjHAKgpXrvtRs2a_48.954647_4.362748@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0def244640ffb0726cb21695e100b1ac",
+    "wof:geomhash":"9cc2f91cbb3510351be1cf86c8f4b2ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152392975
         }
     ],
     "wof:id":152392975,
-    "wof:lastmodified":1473798394,
+    "wof:lastmodified":1496786505,
     "wof:name":"D.r.i.r.e. - Direction R\u00e9gionale De L'industrie De La Recherche Et De L'environnement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

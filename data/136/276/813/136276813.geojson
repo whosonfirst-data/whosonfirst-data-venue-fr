@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.65585,46.259369,5.65585,46.259369",
     "geom:latitude":46.259369,
     "geom:longitude":5.65585,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_16nnKDXH2PkTa4MIcBoQza_46.259369_5.655850@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3561791f09a59907ba8b73ef8d850ac2",
+    "wof:geomhash":"43960b32ffe5554e88ecfc2769d24a1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136276813
         }
     ],
     "wof:id":136276813,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496800629,
     "wof:name":"Credit Lyonnais Enc Eurocheques",
-    "wof:parent_id":101829119,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

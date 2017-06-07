@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.000484,46.305592,-1.000484,46.305592",
     "geom:latitude":46.305592,
     "geom:longitude":-1.000484,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766471,
-        85633147,
         85683275,
+        102191581,
+        404228037,
+        404360825,
+        85633147,
+        1108826385,
+        101766471,
+        136253037,
         102066715
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_4jMZDqifqeI7Ms6BOUpP93_46.305592_-1.000484@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"85df22a92ff30c5131673d48e9308706",
+    "wof:geomhash":"f69415fa5b3e70694f782f398face967",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066715,
+            "empire_id":136253037,
+            "localadmin_id":404360825,
             "locality_id":101766471,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152905499
         }
     ],
     "wof:id":152905499,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496776318,
     "wof:name":"Protimer Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

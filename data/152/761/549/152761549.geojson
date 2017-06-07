@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.379102,43.638657,1.379102,43.638657",
     "geom:latitude":43.638657,
     "geom:longitude":1.379102,
@@ -22,32 +23,55 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NeuUoI8LmXi74pSo3P8gu_43.638657_1.379102@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1d2f49afae6e0f0fe7115fc00c5b31c7",
+    "wof:geomhash":"8091cff23f63f0059369bd9cd81c18f5",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":152761549
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":152761549
         }
     ],
     "wof:id":152761549,
-    "wof:lastmodified":1473798504,
+    "wof:lastmodified":1496803491,
     "wof:name":"Sier S.a. - Soci\u00e9t\u00e9 Industrielle D'etudes Et De R\u00e9alisations",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.375844,49.319424,-0.375844,49.319424",
     "geom:latitude":49.319424,
     "geom:longitude":-0.375844,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828405,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404372429,
+        85633147,
+        1108826393,
+        101828405,
+        136253037,
         102066851
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2GSUrbZi6sJXH30dKV3ijl_49.319424_-0.375844@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c81a6ce62b186c4a7016d5adbe8339f8",
+    "wof:geomhash":"144d9b1f10788695c1f3b163a359f147",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066851,
+            "empire_id":136253037,
+            "localadmin_id":404372429,
             "locality_id":101828405,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152081801
         }
     ],
     "wof:id":152081801,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496787104,
     "wof:name":"Suez Lyonnaise Des Eaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

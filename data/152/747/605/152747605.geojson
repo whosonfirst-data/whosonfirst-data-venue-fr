@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.224289,46.142429,-0.224289,46.142429",
     "geom:latitude":46.142429,
     "geom:longitude":-0.224289,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766721,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404361025,
+        85633147,
+        1108826385,
+        101766721,
+        136253037,
         102065131
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_39h8C31g5CkcBGo7V9pmOB_46.142429_-0.224289@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e866e077acd55dd1d7eb8398fb72f20",
+    "wof:geomhash":"bc60d88d4a9f9e98af7e4a51d38922ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065131,
+            "empire_id":136253037,
+            "localadmin_id":404361025,
             "locality_id":101766721,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152747605
         }
     ],
     "wof:id":152747605,
-    "wof:lastmodified":1473798512,
+    "wof:lastmodified":1496798902,
     "wof:name":"Sauquet Transports S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

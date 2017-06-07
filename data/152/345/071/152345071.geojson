@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.64108,50.514496,1.64108,50.514496",
     "geom:latitude":50.514496,
     "geom:longitude":1.64108,
@@ -22,16 +23,39 @@
     "sg:postcode":"62630",
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228249,
+        404423933,
+        85633147,
+        1108826399,
+        101840459,
+        136253037,
+        102068499
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BRN9khK7cNbJhP7Et5bMf_50.514496_1.641080@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"32fd5ad7ad9244f16f9d38d03acd2e94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9972784a5268514a3ecfa1ff37688a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068499,
+            "empire_id":136253037,
+            "localadmin_id":404423933,
+            "locality_id":101840459,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":152345071
+        }
+    ],
     "wof:id":152345071,
-    "wof:lastmodified":1473798375,
+    "wof:lastmodified":1496797414,
     "wof:name":"Calligraphia S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

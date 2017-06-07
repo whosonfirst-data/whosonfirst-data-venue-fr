@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.66988,45.238029,4.66988,45.238029",
     "geom:latitude":45.238029,
     "geom:longitude":4.66988,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830467,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404366213,
+        85633147,
+        1108826389,
+        101830467,
+        136253037,
         102072493
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0c8ImPgP6cGmDcQd5yADRt_45.238029_4.669880@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"577e52caf3ee2cdda3feae511f51ac7e",
+    "wof:geomhash":"d1cc8085f008f97280ac2a7c48e61d0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072493,
+            "empire_id":136253037,
+            "localadmin_id":404366213,
             "locality_id":101830467,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152121479
         }
     ],
     "wof:id":152121479,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1496801988,
     "wof:name":"Mavica Manufacture Vivaroise Pour L'ind Du Cuir Et De Ses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

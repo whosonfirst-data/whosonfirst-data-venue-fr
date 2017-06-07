@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.857785,43.591248,3.857785,43.591248",
     "geom:latitude":43.591248,
     "geom:longitude":3.857785,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_116BCvcg4XMVzR81MRkFZT_43.591248_3.857785@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb32c6236c5e0e454fef288cee3f7684",
+    "wof:geomhash":"5d147ee208a22060c4b31110529f29db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136291997
         }
     ],
     "wof:id":136291997,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496778347,
     "wof:name":"Marcenac Et Ducros Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

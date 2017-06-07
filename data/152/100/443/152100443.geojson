@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.639285,48.346371,6.639285,48.346371",
     "geom:latitude":48.346371,
     "geom:longitude":6.639285,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764817,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404360249,
+        85633147,
+        1108826391,
+        101764817,
+        136253037,
         102068185
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1PG2vsGqrDazGMsiOFdAPD_48.346371_6.639285@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4db73ae165dde756d46aaa1d09c1f17",
+    "wof:geomhash":"77ca4be2b59fd59c9be6d8ffbc6144bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068185,
+            "empire_id":136253037,
+            "localadmin_id":404360249,
             "locality_id":101764817,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152100443
         }
     ],
     "wof:id":152100443,
-    "wof:lastmodified":1473798241,
+    "wof:lastmodified":1496784319,
     "wof:name":"Manufacture Vosgienne De Grandes Orgues",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

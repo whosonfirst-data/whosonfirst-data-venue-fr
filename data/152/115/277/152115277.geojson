@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.879604,49.571049,3.879604,49.571049",
     "geom:latitude":49.571049,
     "geom:longitude":3.879604,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814991,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404355227,
+        85633147,
+        1108826399,
+        101814991,
+        136253037,
         102069807
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2IYd6rKKTxmXW2uvzgLmd0_49.571049_3.879604@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a837e7fb7679390086b9cb65d06a20c",
+    "wof:geomhash":"6ff0468e327784b58bee6a53e02cce8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069807,
+            "empire_id":136253037,
+            "localadmin_id":404355227,
             "locality_id":101814991,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152115277
         }
     ],
     "wof:id":152115277,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1496795306,
     "wof:name":"Valeo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

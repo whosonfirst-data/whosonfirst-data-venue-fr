@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.539641,50.107147,3.539641,50.107147",
     "geom:latitude":50.107147,
     "geom:longitude":3.539641,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812771,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404398831,
+        85633147,
+        1108826399,
+        101812771,
+        136253037,
         102067457
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0hEEVr6XpWhizzPuj4ckqw_50.107147_3.539641@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"378a88687e2649efc78e23fba6b0922c",
+    "wof:geomhash":"d13bbec0a33abb44e1364832ecb5a2c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067457,
+            "empire_id":136253037,
+            "localadmin_id":404398831,
             "locality_id":101812771,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169207459
         }
     ],
     "wof:id":169207459,
-    "wof:lastmodified":1473798228,
+    "wof:lastmodified":1496792631,
     "wof:name":"Tr\u00e9mois S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

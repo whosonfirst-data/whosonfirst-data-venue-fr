@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.706589,45.640362,3.706589,45.640362",
     "geom:latitude":45.640362,
     "geom:longitude":3.706589,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893715,
-        85633147,
         85683471,
+        102191581,
+        404227725,
+        404355811,
+        85633147,
+        1108826389,
+        101893715,
+        136253037,
         102069289
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_23BBxoKWRw9NpXHXs2IWe4_45.640362_3.706589@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"77f652ad6e8473d6f26c90eec4f92a8c",
+    "wof:geomhash":"08ea1e26dfb785467ea0ceecf8e287f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069289,
+            "empire_id":136253037,
+            "localadmin_id":404355811,
             "locality_id":101893715,
+            "macrocounty_id":404227725,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152121887
         }
     ],
     "wof:id":152121887,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1496806423,
     "wof:name":"Blix Fortress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

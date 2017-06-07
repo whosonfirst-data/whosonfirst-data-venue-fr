@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.908931,46.566097,4.908931,46.566097",
     "geom:latitude":46.566097,
     "geom:longitude":4.908931,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766595,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404422347,
+        85633147,
+        1108826395,
+        101766595,
+        136253037,
         102071543
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2MIeME5eWcDsOwzAuZ9wVB_46.566097_4.908931@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"826becef5dc44a346003559403c4d392",
+    "wof:geomhash":"e762f3b826f919ccefe1252183283961",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071543,
+            "empire_id":136253037,
+            "localadmin_id":404422347,
             "locality_id":101766595,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152048445
         }
     ],
     "wof:id":152048445,
-    "wof:lastmodified":1473797919,
+    "wof:lastmodified":1496794785,
     "wof:name":"Hotel De Greuze Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

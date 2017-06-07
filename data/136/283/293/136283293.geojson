@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.126082,48.718769,-0.126082,48.718769",
     "geom:latitude":48.718769,
     "geom:longitude":-0.126082,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762601,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404407483,
+        85633147,
+        1108826393,
+        101762601,
+        136253037,
         102066321
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_02X6L3qSAyYgPNbGjeb3ww_48.718769_-0.126082@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7ad17f116676d13b2459354ebefdd12b",
+    "wof:geomhash":"bcd95a6b5fcfa1abaf2deddb643ec707",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066321,
+            "empire_id":136253037,
+            "localadmin_id":404407483,
             "locality_id":101762601,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":136283293
         }
     ],
     "wof:id":136283293,
-    "wof:lastmodified":1473797905,
+    "wof:lastmodified":1496803200,
     "wof:name":"Normande De Recherches Animales Snra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

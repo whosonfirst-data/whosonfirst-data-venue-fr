@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.318979,45.688389,-0.318979,45.688389",
     "geom:latitude":45.688389,
     "geom:longitude":-0.318979,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829059,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404369475,
+        85633147,
+        1108826385,
+        101829059,
+        136253037,
         102072143
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_6RxYQpZjs9VWyKBBo4UYnB_45.688389_-0.318979@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c825a4757288fad1692ba03b7e6ef3e8",
+    "wof:geomhash":"e586085a9461af6587741783130cb02d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072143,
+            "empire_id":136253037,
+            "localadmin_id":404369475,
             "locality_id":101829059,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":136284479
         }
     ],
     "wof:id":136284479,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496776982,
     "wof:name":"Semac Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

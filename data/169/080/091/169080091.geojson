@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.563333,45.162315,1.563333,45.162315",
     "geom:latitude":45.162315,
     "geom:longitude":1.563333,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830661,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404383753,
+        85633147,
+        1108826385,
+        101830661,
+        136253037,
         102070365
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0QxHCgtxPq4zMEV3wTsDEM_45.162315_1.563333@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca868ace47eb976216deb2021b12546a",
+    "wof:geomhash":"d259dbf0d7c02fec19ec446dcc7dd385",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070365,
+            "empire_id":136253037,
+            "localadmin_id":404383753,
             "locality_id":101830661,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":169080091
         }
     ],
     "wof:id":169080091,
-    "wof:lastmodified":1473798049,
+    "wof:lastmodified":1496776120,
     "wof:name":"Onet Propret\u00e9 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

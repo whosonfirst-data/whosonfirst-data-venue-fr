@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.556058,44.001038,3.556058,44.001038",
     "geom:latitude":44.001038,
     "geom:longitude":3.556058,
@@ -27,8 +28,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683431,
+        102191581,
         85633147,
-        85683431
+        404363343,
+        404228065,
+        1108826387,
+        136253037,
+        102070979
     ],
     "wof:brand_id":420575503,
     "wof:breaches":[],
@@ -36,16 +43,23 @@
         "sg:id":"SG_1Jvhgn9QJHmtoIUGcUwaHy_44.001038_3.556058@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc09521ff8ba72a60e9d0ad93f72adf2",
+    "wof:geomhash":"e7efe406d00988a273d7200a4f3081e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070979,
+            "empire_id":136253037,
+            "localadmin_id":404363343,
+            "locality_id":-1,
+            "macrocounty_id":404228065,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136305209
         }
     ],
     "wof:id":136305209,
-    "wof:lastmodified":1473797985,
+    "wof:lastmodified":1496777967,
     "wof:name":"Cr\u00e9dit Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

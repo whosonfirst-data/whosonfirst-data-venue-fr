@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.686964,49.078022,6.686964,49.078022",
     "geom:latitude":49.078022,
     "geom:longitude":6.686964,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828167,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404363003,
+        85633147,
+        1108826391,
+        101828167,
+        136253037,
         102069397
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4YJ80TpYwYtVqL8ovnkz1L_49.078022_6.686964@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2cfbc8d2c8b3869ad2486e09044c540",
+    "wof:geomhash":"715f8fe616125b189db5c91344e26beb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069397,
+            "empire_id":136253037,
+            "localadmin_id":404363003,
             "locality_id":101828167,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152044817
         }
     ],
     "wof:id":152044817,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496785145,
     "wof:name":"College Alexandre Dreux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.173157,48.65963,6.173157,48.65963",
     "geom:latitude":48.65963,
     "geom:longitude":6.173157,
@@ -22,9 +23,13 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751413,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101751413,
+        136253037,
         102072081
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_4zUOpUNrs8mkgzJex4B24v_48.659630_6.173157@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20b7d0ac1ca51d34ddd22082935c8342",
+    "wof:geomhash":"59cbbc69aea9ec30bf1cb4224e2c826f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072081,
+            "empire_id":136253037,
             "locality_id":101751413,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":169050035
         }
     ],
     "wof:id":169050035,
-    "wof:lastmodified":1473798015,
+    "wof:lastmodified":1496783994,
     "wof:name":"Mairie De Vandoeuvre L\u00e8s Nancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

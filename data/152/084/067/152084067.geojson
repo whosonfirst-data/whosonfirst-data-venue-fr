@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.146967,50.721054,3.146967,50.721054",
     "geom:latitude":50.721054,
     "geom:longitude":3.146967,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_49ZhckTcaHifpjxvffxz4r_50.721054_3.146967@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cf2b5287df4da2fd9d199b72b61a8067",
+    "wof:geomhash":"b19e99c481e104d81c950484733e8653",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152084067
         }
     ],
     "wof:id":152084067,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496792043,
     "wof:name":"Union Des Locations Du Nord Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

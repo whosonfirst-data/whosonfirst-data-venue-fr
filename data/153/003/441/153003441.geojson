@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.181715,46.785873,0.181715,46.785873",
     "geom:latitude":46.785873,
     "geom:longitude":0.181715,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766963,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404349033,
+        85633147,
+        1108826385,
+        101766963,
+        136253037,
         102067149
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0bRppC8ERNr0EE60a4JGgo_46.785873_0.181715@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17bd363c3f71daa9b84cce1448c56497",
+    "wof:geomhash":"b3ceaa2b73bdd00d66063622c49bb625",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067149,
+            "empire_id":136253037,
+            "localadmin_id":404349033,
             "locality_id":101766963,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":153003441
         }
     ],
     "wof:id":153003441,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496777199,
     "wof:name":"Sateco Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

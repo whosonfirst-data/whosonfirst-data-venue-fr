@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.954124,49.724991,2.954124,49.724991",
     "geom:latitude":49.724991,
     "geom:longitude":2.954124,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902225,
-        85633147,
         85683363,
+        102191581,
+        404228165,
+        404428703,
+        85633147,
+        1108826399,
+        101902225,
+        136253037,
         102070903
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7g1DPY1QAxmzOGXk23J0ga_49.724991_2.954124@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"90763e3a6bdb29cd39a05b4318f74d9f",
+    "wof:geomhash":"93698c70d9fb158947aec6ae0ba9bf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070903,
+            "empire_id":136253037,
+            "localadmin_id":404428703,
             "locality_id":101902225,
+            "macrocounty_id":404228165,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169199899
         }
     ],
     "wof:id":169199899,
-    "wof:lastmodified":1473798228,
+    "wof:lastmodified":1496792581,
     "wof:name":"Topart Anciens Etablissements S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

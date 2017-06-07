@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.648746,46.259365,5.648746,46.259365",
     "geom:latitude":46.259365,
     "geom:longitude":5.648746,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3jHBmur9ISNupQcbcTPbtS_46.259365_5.648746@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d444785a3769199b32309cd6dfbc821f",
+    "wof:geomhash":"af55efebe404d4645e786e34e64f66ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152177071
         }
     ],
     "wof:id":152177071,
-    "wof:lastmodified":1473798315,
+    "wof:lastmodified":1496799877,
     "wof:name":"Codecor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

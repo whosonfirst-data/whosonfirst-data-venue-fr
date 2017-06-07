@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.912977,45.750965,4.912977,45.750965",
     "geom:latitude":45.750965,
     "geom:longitude":4.912977,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1TcGHOQ1WALQ0u5WKhZxo9_45.750965_4.912977@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"add32955c522a661eec875efffeed306",
+    "wof:geomhash":"131f0eef852f473eb193e20b52ff7e73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152152707
         }
     ],
     "wof:id":152152707,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496780998,
     "wof:name":"Rems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

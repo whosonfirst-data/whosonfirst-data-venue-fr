@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.737306,45.196484,5.737306,45.196484",
     "geom:latitude":45.196484,
     "geom:longitude":5.737306,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3VdFwrcRtnKsPohR68lrT9_45.196484_5.737306@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d05af62056f43fc135d6c7b98ac7d5b",
+    "wof:geomhash":"c2c8d67d748ba3d8f9c57069cd3df15a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136274627
         }
     ],
     "wof:id":136274627,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496781370,
     "wof:name":"Assedic De Grenoble",
-    "wof:parent_id":101749307,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

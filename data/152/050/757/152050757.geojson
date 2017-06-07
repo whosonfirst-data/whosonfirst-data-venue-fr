@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.40872,44.609825,4.40872,44.609825",
     "geom:latitude":44.609825,
     "geom:longitude":4.40872,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830459,
-        85633147,
         85683421,
-        102070221
+        102191581,
+        404227599,
+        404369255,
+        85633147,
+        1108826389,
+        101830459,
+        136253037,
+        102064627
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UX4W7l9albHZYg2qXJCZY_44.609825_4.408720@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e66ec9e113aca3c73fc5be800500885",
+    "wof:geomhash":"2b0baa29fa00a1a3f1ef1ad9a1b0ab69",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070221,
+            "county_id":102064627,
+            "empire_id":136253037,
+            "localadmin_id":404369255,
             "locality_id":101830459,
+            "macrocounty_id":404227599,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152050757
         }
     ],
     "wof:id":152050757,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496781891,
     "wof:name":"Etablissements Sabaton Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

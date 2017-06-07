@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.709278,49.436798,2.709278,49.436798",
     "geom:latitude":49.436798,
     "geom:longitude":2.709278,
@@ -27,9 +28,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813681,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404397083,
+        85633147,
+        1108826399,
+        101813681,
+        136253037,
         102066943
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_7GRzwA1JnhVvRX7smNIKyQ_49.436798_2.709278@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"934b9b000172f46bc1b6a7042f6fcbf3",
+    "wof:geomhash":"d52552f2e45ee2634ea421aaf160d15e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066943,
+            "empire_id":136253037,
+            "localadmin_id":404397083,
             "locality_id":101813681,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136296337
         }
     ],
     "wof:id":136296337,
-    "wof:lastmodified":1473797911,
+    "wof:lastmodified":1496792069,
     "wof:name":"Banque Chaix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.681305,45.854416,4.681305,45.854416",
     "geom:latitude":45.854416,
     "geom:longitude":4.681305,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767735,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414729,
+        85633147,
+        1108826389,
+        101767735,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3eoM8GJgru2Sc6geTdA284_45.854416_4.681305@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"79fa8012fe6043dd73cdfaf5779c2b86",
+    "wof:geomhash":"84609b0068ef77c374f75e4262079599",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404414729,
             "locality_id":101767735,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152106715
         }
     ],
     "wof:id":152106715,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496780811,
     "wof:name":"Biser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.515019,49.358261,0.515019,49.358261",
     "geom:latitude":49.358261,
     "geom:longitude":0.515019,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828373,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404348341,
+        85633147,
+        1108826393,
+        101828373,
+        136253037,
         102069339
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1xlNmNg8RpzvsEpHOsnwMk_49.358261_0.515019@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7beca0d479387b0e4662c2f1455fcb4d",
+    "wof:geomhash":"3ccd537f8cc7d915848d6e89137399d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069339,
+            "empire_id":136253037,
+            "localadmin_id":404348341,
             "locality_id":101828373,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136275411
         }
     ],
     "wof:id":136275411,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496804719,
     "wof:name":"Cabinet B Cloppet Fiduciaire De L Ouest Sa",
-    "wof:parent_id":101828373,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

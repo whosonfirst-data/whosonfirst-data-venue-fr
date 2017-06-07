@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.763895,45.821365,4.763895,45.821365",
     "geom:latitude":45.821365,
     "geom:longitude":4.763895,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749399,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415697,
+        85633147,
+        1108826389,
+        101749399,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6krvVI16kX74C0C6kH4TKE_45.821365_4.763895@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7d2a51baa04a9d7908020883ddff4c5a",
+    "wof:geomhash":"79f7fd4e9385a5cbde9ead05eab0cab5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404415697,
             "locality_id":101749399,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152049507
         }
     ],
     "wof:id":152049507,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496780206,
     "wof:name":"Novotel Lyon Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

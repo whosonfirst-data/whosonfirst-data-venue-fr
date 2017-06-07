@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.14155,45.816776,3.14155,45.816776",
     "geom:latitude":45.816776,
     "geom:longitude":3.14155,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753247,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404372261,
+        85633147,
+        1108826389,
+        101753247,
+        136253037,
         102071753
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2o6HIHvgtFZfJR0fCVfuIG_45.816776_3.141550@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0bf0141cab685e302fdf97c691f2c74",
+    "wof:geomhash":"a27583659788cd478da87e58fcbbab4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071753,
+            "empire_id":136253037,
+            "localadmin_id":404372261,
             "locality_id":101753247,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152926091
         }
     ],
     "wof:id":152926091,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496780145,
     "wof:name":"Imprimerie Decombat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

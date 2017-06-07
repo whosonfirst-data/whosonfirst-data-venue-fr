@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.42353,43.086613,-0.42353,43.086613",
     "geom:latitude":43.086613,
     "geom:longitude":-0.42353,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773885,
-        85633147,
         85683539,
+        102191581,
+        404227939,
+        404356763,
+        85633147,
+        1108826385,
+        101773885,
+        136253037,
         102064929
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4QvaaXaY6lqic2I1KFARaL_43.086613_-0.423530@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ca16ac98fc4c93ee690aef0defcb12f",
+    "wof:geomhash":"0a6c3ee35f8f1c5dea7cf5bb46c2897f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064929,
+            "empire_id":136253037,
+            "localadmin_id":404356763,
             "locality_id":101773885,
+            "macrocounty_id":404227939,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152101065
         }
     ],
     "wof:id":152101065,
-    "wof:lastmodified":1473798225,
+    "wof:lastmodified":1496776314,
     "wof:name":"Ets Public Des Stations D'altitude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

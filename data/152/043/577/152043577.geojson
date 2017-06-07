@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.327789,45.69207,-0.327789,45.69207",
     "geom:latitude":45.69207,
     "geom:longitude":-0.327789,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829059,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404369475,
+        85633147,
+        1108826385,
+        101829059,
+        136253037,
         102072143
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1ETERsYPIutfnRUPShvU5T_45.692070_-0.327789@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a05942252edcedd0806a9e200eed804e",
+    "wof:geomhash":"50d8a3521e1b4e7117e69bbef957e8aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072143,
+            "empire_id":136253037,
+            "localadmin_id":404369475,
             "locality_id":101829059,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152043577
         }
     ],
     "wof:id":152043577,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496775891,
     "wof:name":"Bureau National Interprofessionnel Du Cognac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.038185,43.458935,0.038185,43.458935",
     "geom:latitude":43.458935,
     "geom:longitude":0.038185,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773685,
-        85633147,
         85683203,
+        102191581,
+        404228139,
+        404358573,
+        85633147,
+        1108826387,
+        101773685,
+        136253037,
         102066947
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_12YEomX28HZ4gy2HrN2cAW_43.458935_0.038185@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1d7b3dc32b17ec1ddae8ca026a2996be",
+    "wof:geomhash":"949977a2a643fc11629e01f773058756",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066947,
+            "empire_id":136253037,
+            "localadmin_id":404358573,
             "locality_id":101773685,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152859225
         }
     ],
     "wof:id":152859225,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496803648,
     "wof:name":"Texera S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

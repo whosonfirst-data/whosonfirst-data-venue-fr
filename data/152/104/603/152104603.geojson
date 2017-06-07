@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.87292,50.071518,1.87292,50.071518",
     "geom:latitude":50.071518,
     "geom:longitude":1.87292,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899147,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404379127,
+        85633147,
+        1108826399,
+        101899147,
+        136253037,
         102064525
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_7brwm77ZNs4YN41Sob69wB_50.071518_1.872920@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"31c53137324444c6aae6b2f0996d59b5",
+    "wof:geomhash":"d3510a2f9f5c4bbf375bc4a49a121434",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064525,
+            "empire_id":136253037,
+            "localadmin_id":404379127,
             "locality_id":101899147,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152104603
         }
     ],
     "wof:id":152104603,
-    "wof:lastmodified":1473798241,
+    "wof:lastmodified":1496792259,
     "wof:name":"Sarl Vitaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

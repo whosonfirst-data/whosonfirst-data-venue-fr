@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.370023,49.518223,2.370023,49.518223",
     "geom:latitude":49.518223,
     "geom:longitude":2.370023,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902645,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404405081,
+        85633147,
+        1108826399,
+        101902645,
+        136253037,
         102070281
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1QWElL1mXka76nK3ZMk6VE_49.518223_2.370023@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1b71a7bd32bff70112d0ecf4cb0f485e",
+    "wof:geomhash":"6a24b0c2748e6217da8f7f0d076e9db0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070281,
+            "empire_id":136253037,
+            "localadmin_id":404405081,
             "locality_id":101902645,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136291359
         }
     ],
     "wof:id":136291359,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496792115,
     "wof:name":"Sa Vitagreen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

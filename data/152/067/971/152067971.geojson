@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.948444,45.681641,4.948444,45.681641",
     "geom:latitude":45.681641,
     "geom:longitude":4.948444,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749441,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404368503,
+        85633147,
+        1108826389,
+        101749441,
+        136253037,
         102070837
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4Et87reY7d9psri0lAdBSx_45.681641_4.948444@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b01a113e499b05d03b034a83d7937998",
+    "wof:geomhash":"ff528e28042401442c3bc25834993afa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070837,
+            "empire_id":136253037,
+            "localadmin_id":404368503,
             "locality_id":101749441,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152067971
         }
     ],
     "wof:id":152067971,
-    "wof:lastmodified":1473798090,
+    "wof:lastmodified":1496780185,
     "wof:name":"Spac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

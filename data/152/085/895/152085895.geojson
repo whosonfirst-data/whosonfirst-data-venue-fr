@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.506546,45.455173,4.506546,45.455173",
     "geom:latitude":45.455173,
     "geom:longitude":4.506546,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830787,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101830787,
+        136253037,
         102072203
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2gOqeeOrKtBq5sOCIFMQSJ_45.455173_4.506546@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a7664f7ac30a820764723a1dd2905c12",
+    "wof:geomhash":"da75e27441af97e1e34b0e23dcd168d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072203,
+            "empire_id":136253037,
             "locality_id":101830787,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152085895
         }
     ],
     "wof:id":152085895,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496800160,
     "wof:name":"Edelweiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

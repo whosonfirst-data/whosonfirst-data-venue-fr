@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.377784,48.663998,-1.377784,48.663998",
     "geom:latitude":48.663998,
     "geom:longitude":-1.377784,
@@ -29,9 +30,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101853185,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404393339,
+        85633147,
+        1108826393,
+        101853185,
+        136253037,
         102064269
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_7cn1u2lO7k3txPfR6FJZKF_48.663998_-1.377784@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17a951d9e5dbc9c7087e5a2e9b43703f",
+    "wof:geomhash":"a44f3efaaa16c15e1f6386c5a7e9b05a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064269,
+            "empire_id":136253037,
+            "localadmin_id":404393339,
             "locality_id":101853185,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152982425
         }
     ],
     "wof:id":152982425,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496787039,
     "wof:name":"Blanchet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

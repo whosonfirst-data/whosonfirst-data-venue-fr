@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.918135,49.284576,2.918135,49.284576",
     "geom:latitude":49.284576,
     "geom:longitude":2.918135,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879273,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404407631,
+        85633147,
+        1108826399,
+        101879273,
+        136253037,
         102066575
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5t6IOeoNw6M43d2gMPaZGD_49.284576_2.918135@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8137c868a7e751c3cf60624ac5c88d7e",
+    "wof:geomhash":"131736e6b1b29f504de41f3abc35be4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066575,
+            "empire_id":136253037,
+            "localadmin_id":404407631,
             "locality_id":101879273,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152742979
         }
     ],
     "wof:id":152742979,
-    "wof:lastmodified":1473798520,
+    "wof:lastmodified":1496792607,
     "wof:name":"Sainte Beuve S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

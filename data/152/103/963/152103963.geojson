@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.64848,48.591648,-0.64848,48.591648",
     "geom:latitude":48.591648,
     "geom:longitude":-0.64848,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762583,
-        85633147,
         85683527,
+        102191581,
+        404227721,
+        404363305,
+        85633147,
+        1108826393,
+        101762583,
+        136253037,
         102066047
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_3npYcBPnmFMWOmhrXPOT6W_48.591648_-0.648480@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3128e78309e42e9c7c47e01b6121e94b",
+    "wof:geomhash":"ef97de9c0e52a71004452d1334b6de54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066047,
+            "empire_id":136253037,
+            "localadmin_id":404363305,
             "locality_id":101762583,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152103963
         }
     ],
     "wof:id":152103963,
-    "wof:lastmodified":1473798245,
+    "wof:lastmodified":1496803292,
     "wof:name":"France Elevateurs Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.920294,43.926666,-0.920294,43.926666",
     "geom:latitude":43.926666,
     "geom:longitude":-0.920294,
@@ -27,9 +28,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772905,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404424147,
+        85633147,
+        1108826385,
+        101772905,
+        136253037,
         102069267
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1OMq07SsfYEFtVd84cmDIt_43.926666_-0.920294@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a80c6e24dc703b654d7077b2e459ea2d",
+    "wof:geomhash":"c7fd352663eb6365c1ddc6cc873fb3df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069267,
+            "empire_id":136253037,
+            "localadmin_id":404424147,
             "locality_id":101772905,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136302391
         }
     ],
     "wof:id":136302391,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496776052,
     "wof:name":"Cr\u00e9dit Agricole Du Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

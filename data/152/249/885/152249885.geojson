@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.83629,46.309971,4.83629,46.309971",
     "geom:latitude":46.309971,
     "geom:longitude":4.83629,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6DKBvzpEFlNYF2zL65cK2x_46.309971_4.836290@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"100b9ae469db00a76c54038dc02d2ab5",
+    "wof:geomhash":"84f8bdd075b5cdc529363b44a4e4abdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152249885
         }
     ],
     "wof:id":152249885,
-    "wof:lastmodified":1473798340,
+    "wof:lastmodified":1496788476,
     "wof:name":"Acces Informatique S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

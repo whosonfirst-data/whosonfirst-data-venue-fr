@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.176677,49.110168,6.176677,49.110168",
     "geom:latitude":49.110168,
     "geom:longitude":6.176677,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0j1WsYgEepzNaNKfuygouX_49.110168_6.176677@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"74f7c5c5e271f7bfaabaa7c9bf0f6c26",
+    "wof:geomhash":"511368c4f84a7c6998ff546c310101aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152047525
         }
     ],
     "wof:id":152047525,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496794296,
     "wof:name":"Brasserie Abc Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

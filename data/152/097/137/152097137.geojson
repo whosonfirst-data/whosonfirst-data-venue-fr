@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.402294,45.459003,4.402294,45.459003",
     "geom:latitude":45.459003,
     "geom:longitude":4.402294,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_25ACeLZ0KYLEIeIYAejP5f_45.459003_4.402294@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab18e3a627796ba000e50128eae2d616",
+    "wof:geomhash":"df5f72f093c706bc382683d919603d81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152097137
         }
     ],
     "wof:id":152097137,
-    "wof:lastmodified":1473798175,
+    "wof:lastmodified":1496800066,
     "wof:name":"Saint Romain Et Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

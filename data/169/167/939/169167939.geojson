@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.209122,50.703701,3.209122,50.703701",
     "geom:latitude":50.703701,
     "geom:longitude":3.209122,
@@ -22,9 +23,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751565,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751565,
+        136253037,
         102072569
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_3vnBgPYC8WRqoiUPI8tfzj_50.703701_3.209122@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5b46909c32189d14f82edaae022df56",
+    "wof:geomhash":"01a21cdaf4b17003ffce733b2ccc11fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072569,
+            "empire_id":136253037,
             "locality_id":101751565,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169167939
         }
     ],
     "wof:id":169167939,
-    "wof:lastmodified":1473798204,
+    "wof:lastmodified":1496797125,
     "wof:name":"Soci\u00e9t\u00e9 Industrielle De M\u00e9canique S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

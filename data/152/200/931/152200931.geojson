@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.809266,49.875488,4.809266,49.875488",
     "geom:latitude":49.875488,
     "geom:longitude":4.809266,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813737,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404395035,
+        85633147,
+        1108826391,
+        101813737,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7JG3EaoY4KvxMrvpFcU9qF_49.875488_4.809266@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c7fe7c1bd766e35101af684bf30331c3",
+    "wof:geomhash":"11c9f072bea1510d40291d27f5fbceec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404395035,
             "locality_id":101813737,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152200931
         }
     ],
     "wof:id":152200931,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496805579,
     "wof:name":"Bayonet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

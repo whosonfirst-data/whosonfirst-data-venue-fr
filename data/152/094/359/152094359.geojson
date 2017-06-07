@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.345216,46.618999,0.345216,46.618999",
     "geom:latitude":46.618999,
     "geom:longitude":0.345216,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_7bznrjJZG5RXgIsDznBGK4_46.618999_0.345216@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05f9276775976b795e51eca6e0bd928e",
+    "wof:geomhash":"ee6396a6490bfe7f444f8d470ed5ed22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152094359
         }
     ],
     "wof:id":152094359,
-    "wof:lastmodified":1473798180,
+    "wof:lastmodified":1496798526,
     "wof:name":"Saf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

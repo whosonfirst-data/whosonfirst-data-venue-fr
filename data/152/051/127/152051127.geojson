@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.420714,45.465778,4.420714,45.465778",
     "geom:latitude":45.465778,
     "geom:longitude":4.420714,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749453,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404419047,
+        85633147,
+        1108826389,
+        101749453,
+        136253037,
         102069555
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6zrhHdjUdU6fm5cqiEJCMI_45.465778_4.420714@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4e62d0159aece0a6bec36ff1d49e9cb2",
+    "wof:geomhash":"d660e846b31bd33b1d95db7fb1052c97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069555,
+            "empire_id":136253037,
+            "localadmin_id":404419047,
             "locality_id":101749453,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152051127
         }
     ],
     "wof:id":152051127,
-    "wof:lastmodified":1473797877,
+    "wof:lastmodified":1496799857,
     "wof:name":"Ducarme Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.105118,49.103085,6.105118,49.103085",
     "geom:latitude":49.103085,
     "geom:longitude":6.105118,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750109,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404420333,
+        85633147,
+        1108826391,
+        101750109,
+        136253037,
         102070811
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1ltrIhkHcJ98FH69WBF9qS_49.103085_6.105118@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce4defddf682901ca046c90c791027c4",
+    "wof:geomhash":"951a4e4f10bb5e6d5e26043bf8b3a225",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070811,
+            "empire_id":136253037,
+            "localadmin_id":404420333,
             "locality_id":101750109,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152065745
         }
     ],
     "wof:id":152065745,
-    "wof:lastmodified":1473798083,
+    "wof:lastmodified":1496785204,
     "wof:name":"Appia Metz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

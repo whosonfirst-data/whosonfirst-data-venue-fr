@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"11.58027,48.139099,11.58027,48.139099",
     "geom:latitude":48.139099,
     "geom:longitude":11.58027,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682571,
+        85905601,
+        102191581,
         85633111,
+        404227567,
         101748479,
         102063261,
-        85905601
+        85682571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +51,18 @@
     "wof:geomhash":"a6f0373b6fb0bfdf75c3ae8490dd90d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063261,
             "locality_id":101748479,
+            "macrocounty_id":404227567,
             "neighbourhood_id":85905601,
             "region_id":85682571,
             "venue_id":136314227
         }
     ],
     "wof:id":136314227,
-    "wof:lastmodified":1473797991,
+    "wof:lastmodified":1491884775,
     "wof:name":"Lefebvre Software",
     "wof:parent_id":85905601,
     "wof:placetype":"venue",

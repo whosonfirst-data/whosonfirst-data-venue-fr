@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.82935,45.225723,-0.82935,45.225723",
     "geom:latitude":45.225723,
     "geom:longitude":-0.82935,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101850311,
-        85633147,
         85683243,
+        102191581,
+        404228221,
+        404406319,
+        85633147,
+        1108826385,
+        101850311,
+        136253037,
         102070337
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4kr0JnbPBiI0yAdOXr8Q0P_45.225723_-0.829350@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"85179bd51d797cffe55dd004092449ef",
+    "wof:geomhash":"cc5d70fbb99e1b70d9cf080ddd9f12a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070337,
+            "empire_id":136253037,
+            "localadmin_id":404406319,
             "locality_id":101850311,
+            "macrocounty_id":404228221,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152097693
         }
     ],
     "wof:id":152097693,
-    "wof:lastmodified":1473798219,
+    "wof:lastmodified":1496776388,
     "wof:name":"Chateau Lagrange S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.955453,49.046795,3.955453,49.046795",
     "geom:latitude":49.046795,
     "geom:longitude":3.955453,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828113,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828113,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_270jPbRiDTW8b2o66n9qu9_49.046795_3.955453@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cebef96a2b2c88b1b20c634744c9cf9c",
+    "wof:geomhash":"453794910b8f2596ccdab87930c50b08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828113,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152157925
         }
     ],
     "wof:id":152157925,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496785835,
     "wof:name":"Societe Sparnacienne D'insts Frigorifiques Etss Cignetti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

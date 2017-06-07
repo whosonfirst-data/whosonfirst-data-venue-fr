@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.238614,49.302158,-1.238614,49.302158",
     "geom:latitude":49.302158,
     "geom:longitude":-1.238614,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828549,
-        85633147,
         85683489,
+        102191581,
+        404228235,
+        404416205,
+        85633147,
+        1108826393,
+        101828549,
+        136253037,
         102065997
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_73Dtc9iZqoScLZbAt3tvqy_49.302158_-1.238614@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1cc8494b2f22a80c585cb13050e62f83",
+    "wof:geomhash":"6f01f00fe4f3ed043995e16d9997bd41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065997,
+            "empire_id":136253037,
+            "localadmin_id":404416205,
             "locality_id":101828549,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136279203
         }
     ],
     "wof:id":136279203,
-    "wof:lastmodified":1473797900,
+    "wof:lastmodified":1496787426,
     "wof:name":"Societe Fiduciaire D'expertise Comptable De Gestion Et De Re (socogere)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

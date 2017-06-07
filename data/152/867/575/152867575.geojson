@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.049519,45.898365,3.049519,45.898365",
     "geom:latitude":45.898365,
     "geom:longitude":3.049519,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767819,
-        85633147,
         85683471,
+        102191581,
+        404228251,
+        404421119,
+        85633147,
+        1108826389,
+        101767819,
+        136253037,
         102070477
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_78J84sc1R2Vh4pbOFJA9Qg_45.898365_3.049519@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7aedf6b2b9aca4ad6fe61b1b6b61759d",
+    "wof:geomhash":"d00f6659ba56d32182a7de10cc5ffe38",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070477,
+            "empire_id":136253037,
+            "localadmin_id":404421119,
             "locality_id":101767819,
+            "macrocounty_id":404228251,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152867575
         }
     ],
     "wof:id":152867575,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496806381,
     "wof:name":"Rolfax Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

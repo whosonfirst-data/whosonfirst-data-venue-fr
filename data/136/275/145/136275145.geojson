@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.72674,43.108601,0.72674,43.108601",
     "geom:latitude":43.108601,
     "geom:longitude":0.72674,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773955,
-        85633147,
         85683397,
+        102191581,
+        404227865,
+        404414049,
+        85633147,
+        1108826387,
+        101773955,
+        136253037,
         102069659
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5cZ10fTJZ99i7kmgPpnFQS_43.108601_0.726740@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fdadc1a010d20403b8d4415ad5a9b507",
+    "wof:geomhash":"13e7967c15b9d2754fd62f5809c6ac84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069659,
+            "empire_id":136253037,
+            "localadmin_id":404414049,
             "locality_id":101773955,
+            "macrocounty_id":404227865,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":136275145
         }
     ],
     "wof:id":136275145,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496778096,
     "wof:name":"Banque Populaire Toulouse Pyrenees (bptp)",
-    "wof:parent_id":101773955,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

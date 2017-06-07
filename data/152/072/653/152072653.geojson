@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.4554,46.065681,3.4554,46.065681",
     "geom:latitude":46.065681,
     "geom:longitude":3.4554,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768375,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404403983,
+        85633147,
+        1108826389,
+        101768375,
+        136253037,
         102070563
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0YbJYkLPT4pPwHDaWG1ADh_46.065681_3.455400@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7e2a9b619f1570be165f6f9512eec12",
+    "wof:geomhash":"3db9b08707b800e8a1033049fc8ddf0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070563,
+            "empire_id":136253037,
+            "localadmin_id":404403983,
             "locality_id":101768375,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152072653
         }
     ],
     "wof:id":152072653,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496781903,
     "wof:name":"Eaux Minerales Du Bassin De Vichy Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

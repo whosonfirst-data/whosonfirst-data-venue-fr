@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.258498,45.830578,1.258498,45.830578",
     "geom:latitude":45.830578,
     "geom:longitude":1.258498,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_3L1GqCGZl4v6J3sLZRI8jl_45.830578_1.258498@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eee0e396c1e6926fab0aff100529d575",
+    "wof:geomhash":"3f1bee8ea6ba5697d2ea43b0ae306c59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152911707
         }
     ],
     "wof:id":152911707,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776680,
     "wof:name":"France Loisirs (fl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

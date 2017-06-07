@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.329954,43.989723,1.329954,43.989723",
     "geom:latitude":43.989723,
     "geom:longitude":1.329954,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772791,
-        85633147,
         85683217,
+        102191581,
+        404227977,
+        404360243,
+        85633147,
+        1108826387,
+        101772791,
+        136253037,
         102072481
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0MJxQsg6whw7UXt1ch1n2t_43.989723_1.329954@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e5248b2760a036b27485402c47cd4bf",
+    "wof:geomhash":"2fd72761a6528e4ebae17ac3fb035b66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072481,
+            "empire_id":136253037,
+            "localadmin_id":404360243,
             "locality_id":101772791,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":136275481
         }
     ],
     "wof:id":136275481,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496803466,
     "wof:name":"Cabinet Durrieu Et Cie Sa",
-    "wof:parent_id":101772791,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

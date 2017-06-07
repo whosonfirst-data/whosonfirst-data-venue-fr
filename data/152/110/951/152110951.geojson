@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.839702,45.754429,4.839702,45.754429",
     "geom:latitude":45.754429,
     "geom:longitude":4.839702,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0lBoobilpbfVWRANzpl52N_45.754429_4.839702@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4345e4e22969deb516124630670e6122",
+    "wof:geomhash":"b535152c739a80738c78e92d601d01a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152110951
         }
     ],
     "wof:id":152110951,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496780315,
     "wof:name":"Lyon Visa Service Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

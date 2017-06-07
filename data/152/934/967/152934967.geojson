@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.862916,44.932224,4.862916,44.932224",
     "geom:latitude":44.932224,
     "geom:longitude":4.862916,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752981,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404389373,
+        85633147,
+        1108826389,
+        101752981,
+        136253037,
         102067869
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_18g2UsPN2wTmNvAcoqsEgj_44.932224_4.862916@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b10cfe464347510fe427642d04139b70",
+    "wof:geomhash":"e42867f9e21cb5f29bedfe1a5bbaf40f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067869,
+            "empire_id":136253037,
+            "localadmin_id":404389373,
             "locality_id":101752981,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152934967
         }
     ],
     "wof:id":152934967,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496779486,
     "wof:name":"Adret Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

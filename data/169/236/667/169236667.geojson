@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.02667,47.260391,6.02667,47.260391",
     "geom:latitude":47.260391,
     "geom:longitude":6.02667,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_7k1N2OETEmXRSOuEcflJ2r_47.260391_6.026670@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17cfd79abaac8542c338165ba7207eb6",
+    "wof:geomhash":"c0af4eb90ace1989e3e9b4e861c6ce37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":169236667
         }
     ],
     "wof:id":169236667,
-    "wof:lastmodified":1473798270,
+    "wof:lastmodified":1496804461,
     "wof:name":"Chantier Du Gaulois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

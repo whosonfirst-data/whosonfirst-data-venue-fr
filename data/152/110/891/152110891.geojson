@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.763266,46.924896,-0.763266,46.924896",
     "geom:latitude":46.924896,
     "geom:longitude":-0.763266,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765399,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404357507,
+        85633147,
+        1108826385,
+        101765399,
+        136253037,
         102065857
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0FoYzNSnt3GEixX6KQ7kHR_46.924896_-0.763266@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"343a65be9fa3c479db940937c30b4abf",
+    "wof:geomhash":"8b2810d77bf132e2d2b282a4d766725c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065857,
+            "empire_id":136253037,
+            "localadmin_id":404357507,
             "locality_id":101765399,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152110891
         }
     ],
     "wof:id":152110891,
-    "wof:lastmodified":1473798261,
+    "wof:lastmodified":1496776940,
     "wof:name":"Les Meubles Du Vieux Moulin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

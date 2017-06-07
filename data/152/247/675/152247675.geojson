@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.315616,48.913425,2.315616,48.913425",
     "geom:latitude":48.913425,
     "geom:longitude":2.315616,
@@ -23,11 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683157,
+        85873987,
+        102191581,
         85633147,
-        101749775,
-        102071931,
-        85873987
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +41,19 @@
     "wof:geomhash":"1114bcdded85454fecbbe1047a143d5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071931,
-            "locality_id":101749775,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873987,
-            "region_id":85683157,
+            "region_id":85683497,
             "venue_id":152247675
         }
     ],
     "wof:id":152247675,
-    "wof:lastmodified":1473798338,
+    "wof:lastmodified":1491913129,
     "wof:name":"A.v.d. S.a.",
     "wof:parent_id":85873987,
     "wof:placetype":"venue",

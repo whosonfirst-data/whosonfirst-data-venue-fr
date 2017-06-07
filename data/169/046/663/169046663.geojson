@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.290065,46.664787,4.290065,46.664787",
     "geom:latitude":46.664787,
     "geom:longitude":4.290065,
@@ -24,28 +25,36 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829215,
-        85633147,
         85683543,
-        102071495
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101829215,
+        136253037,
+        102071713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hqpRcGPMJDVKavEY3HguB_46.664787_4.290065@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"303e8fbec05dc30810de1a62668a67ee",
+    "wof:geomhash":"5acf7b38a080e6891a4864bf10e90659",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071495,
+            "county_id":102071713,
+            "empire_id":136253037,
             "locality_id":101829215,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":169046663
         }
     ],
     "wof:id":169046663,
-    "wof:lastmodified":1473798023,
+    "wof:lastmodified":1496788273,
     "wof:name":"M.p.s. - Mancion Paul Soci\u00e9t\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

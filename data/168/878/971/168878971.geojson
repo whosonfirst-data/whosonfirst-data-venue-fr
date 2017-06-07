@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.956387,45.729256,4.956387,45.729256",
     "geom:latitude":45.729256,
     "geom:longitude":4.956387,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749389,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404419897,
+        85633147,
+        1108826389,
+        101749389,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7RP7GBHRomC6604BXRyc2f_45.729256_4.956387@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81bcd6f213e05a8970c27bb8e481187a",
+    "wof:geomhash":"ad264345cdda87eeba8a1b572994f92e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404419897,
             "locality_id":101749389,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":168878971
         }
     ],
     "wof:id":168878971,
-    "wof:lastmodified":1473798030,
+    "wof:lastmodified":1496779880,
     "wof:name":"Colas Rh\u00f4ne Alpes S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

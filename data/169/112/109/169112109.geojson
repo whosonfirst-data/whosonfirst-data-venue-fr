@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.448248,45.479725,4.448248,45.479725",
     "geom:latitude":45.479725,
     "geom:longitude":4.448248,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750837,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404384105,
+        85633147,
+        1108826389,
+        101750837,
+        136253037,
         102069555
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_16nUXGjVNcWnEaW6KICBqW_45.479725_4.448248@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40ee10b5b65cfd142a1fcf2cea59d454",
+    "wof:geomhash":"9c40aaf1725899cd04cc7b8d8d4711eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069555,
+            "empire_id":136253037,
+            "localadmin_id":404384105,
             "locality_id":101750837,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":169112109
         }
     ],
     "wof:id":169112109,
-    "wof:lastmodified":1473798105,
+    "wof:lastmodified":1496780649,
     "wof:name":"Rascle Et Lorenzi S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.52687,48.594109,6.52687,48.594109",
     "geom:latitude":48.594109,
     "geom:longitude":6.52687,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828203,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404369641,
+        85633147,
+        1108826391,
+        101828203,
+        136253037,
         102067633
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_005R6m3W7gQqrCGeSjG2k0_48.594109_6.526870@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d45f9cbe14928deab082f64ba2236a05",
+    "wof:geomhash":"58fe46ed1a3b6da3a04b8c0a3b527bfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067633,
+            "empire_id":136253037,
+            "localadmin_id":404369641,
             "locality_id":101828203,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152935007
         }
     ],
     "wof:id":152935007,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496784543,
     "wof:name":"Agencement Magasins Coordination (amc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

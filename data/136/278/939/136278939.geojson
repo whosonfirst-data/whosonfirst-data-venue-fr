@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.284475,49.897411,2.284475,49.897411",
     "geom:latitude":49.897411,
     "geom:longitude":2.284475,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6qwFOF8fbzJJhkVaZzxSKG_49.897411_2.284475@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"869783dc354861d9d1993028589f64c7",
+    "wof:geomhash":"ed1ce833201c2dd4b763a0799d49b34b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136278939
         }
     ],
     "wof:id":136278939,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496790483,
     "wof:name":"Service Departemental D Incendie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

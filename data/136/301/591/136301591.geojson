@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.774872,43.357834,-1.774872,43.357834",
     "geom:latitude":43.357834,
     "geom:longitude":-1.774872,
@@ -29,30 +30,37 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753141,
-        85633147,
-        85683539,
-        102071357
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nbWmPzQTiIsTxbMq2Kg7c_43.357834_-1.774872@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"933131eb6cf32b302a08bd7edb1fc26f",
+    "wof:geomhash":"20ebc9c295e6c7584381694eb684887e",
     "wof:hierarchy":[
         {
-            "country_id":85633147,
-            "county_id":102071357,
-            "locality_id":101753141,
-            "region_id":85683539,
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "neighbourhood_id":-1,
+            "region_id":85682741,
             "venue_id":136301591
         }
     ],
     "wof:id":136301591,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496797587,
     "wof:name":"Caja De Ahorros Y Monte, De Piedad De Gipuzkoa Y San Sebastian",
-    "wof:parent_id":-1,
+    "wof:parent_id":102545785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

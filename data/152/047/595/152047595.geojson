@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.105735,49.415234,2.105735,49.415234",
     "geom:latitude":49.415234,
     "geom:longitude":2.105735,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1OREDcl89HxFwnxqO1OmsR_49.415234_2.105735@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"183b98e01f712d356bea59f766c4a926",
+    "wof:geomhash":"3c00c81f37d54b02f95f3f57228265cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152047595
         }
     ],
     "wof:id":152047595,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496795494,
     "wof:name":"Buffalo Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

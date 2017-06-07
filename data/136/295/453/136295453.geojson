@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.377997,44.007702,1.377997,44.007702",
     "geom:latitude":44.007702,
     "geom:longitude":1.377997,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749289,
-        85633147,
         85683217,
+        102191581,
+        404227977,
+        404360243,
+        85633147,
+        1108826387,
+        101749289,
+        136253037,
         102072481
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3gYJLHJXh47ZyxNoVPesws_44.007702_1.377997@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de942c47e2a1b9510251ff19b7302a0e",
+    "wof:geomhash":"df0b5cb5bc6e7c71b2b4ec3aa662f720",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072481,
+            "empire_id":136253037,
+            "localadmin_id":404360243,
             "locality_id":101749289,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":136295453
         }
     ],
     "wof:id":136295453,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496777711,
     "wof:name":"Caisse De Mutualite Sociale Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.599861,48.090931,3.599861,48.090931",
     "geom:latitude":48.090931,
     "geom:longitude":3.599861,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885759,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404376235,
+        85633147,
+        1108826395,
+        101885759,
+        136253037,
         102065781
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7cE05XdI70JGO5SSECeV28_48.090931_3.599861@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc5236ede9adfddd099161da7f1da3ba",
+    "wof:geomhash":"19bec5e9edd4847eb17561818d1460cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065781,
+            "empire_id":136253037,
+            "localadmin_id":404376235,
             "locality_id":101885759,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":169240513
         }
     ],
     "wof:id":169240513,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496788237,
     "wof:name":"La Parqueterie De Bourgogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

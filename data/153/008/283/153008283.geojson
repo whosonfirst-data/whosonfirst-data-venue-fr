@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.905432,44.903938,4.905432,44.903938",
     "geom:latitude":44.903938,
     "geom:longitude":4.905432,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4amZMJnpEhlelPcvetGh33_44.903938_4.905432@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"511b4b389f499961a5880c0ce1786f9d",
+    "wof:geomhash":"dcb55b22f3fe8ad6687c95094b396061",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":153008283
         }
     ],
     "wof:id":153008283,
-    "wof:lastmodified":1473797869,
+    "wof:lastmodified":1496780616,
     "wof:name":"Landis & Gyr Communications S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

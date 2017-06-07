@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.881042,48.172089,6.881042,48.172089",
     "geom:latitude":48.172089,
     "geom:longitude":6.881042,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764823,
-        85633147,
         85683223,
+        102191581,
+        404228179,
+        404354389,
+        85633147,
+        1108826391,
+        101764823,
+        136253037,
         102065779
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_28wq9D6KTeoSz2j926iDT4_48.172089_6.881042@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c366a3d9c0028b18f9d822276a85093",
+    "wof:geomhash":"80ff4b4ed0430b5f02d0fe4078067307",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065779,
+            "empire_id":136253037,
+            "localadmin_id":404354389,
             "locality_id":101764823,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152953589
         }
     ],
     "wof:id":152953589,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496794363,
     "wof:name":"Cars Ferry Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

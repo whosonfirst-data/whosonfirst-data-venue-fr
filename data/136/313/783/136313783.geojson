@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.255158,50.753819,2.255158,50.753819",
     "geom:latitude":50.753819,
     "geom:longitude":2.255158,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3Lm1AoVpgPKtcPCRGPUaFK_50.753819_2.255158@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b580d82ce7bfd360673e04bb90093831",
+    "wof:geomhash":"f67c16a62469a25be2c78f147ffc301b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136313783
         }
     ],
     "wof:id":136313783,
-    "wof:lastmodified":1473798011,
+    "wof:lastmodified":1496792179,
     "wof:name":"Seiller Claude Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

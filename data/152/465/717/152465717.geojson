@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.26114,46.42627,0.26114,46.42627",
     "geom:latitude":46.42627,
     "geom:longitude":0.26114,
@@ -24,9 +25,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766971,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404365529,
+        85633147,
+        1108826385,
+        101766971,
+        136253037,
         102069735
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3UAi5jVublwI1B0oVCxcia_46.426270_0.261140@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20a5d498b57334294510d57893bf7ea2",
+    "wof:geomhash":"421e772a0f48e86462933cc924c5ccc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069735,
+            "empire_id":136253037,
+            "localadmin_id":404365529,
             "locality_id":101766971,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152465717
         }
     ],
     "wof:id":152465717,
-    "wof:lastmodified":1473798421,
+    "wof:lastmodified":1496775489,
     "wof:name":"Eurovia Poitou Charentes Limousin S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.616399,44.852577,-0.616399,44.852577",
     "geom:latitude":44.852577,
     "geom:longitude":-0.616399,
@@ -27,30 +28,38 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85794455,
+        102191581,
         85633147,
+        404227869,
+        1108826385,
         101748979,
+        136253037,
         102072453,
-        85794455
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_716VHSudDH96s0wxlaGLqT_44.852577_-0.616399@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b5be481cf3385e14248e27b42b9fa2d7",
+    "wof:geomhash":"ecbef6c4b5ca8ee23ff38c0c8e9508cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
             "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794455,
             "region_id":85683243,
             "venue_id":136306523
         }
     ],
     "wof:id":136306523,
-    "wof:lastmodified":1473798007,
+    "wof:lastmodified":1496798398,
     "wof:name":"Soci\u00e9t\u00e9 Bordelaise, De Cic Sa",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",

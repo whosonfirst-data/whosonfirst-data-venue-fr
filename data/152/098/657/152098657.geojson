@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.55753,48.233505,3.55753,48.233505",
     "geom:latitude":48.233505,
     "geom:longitude":3.55753,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764853,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404396173,
+        85633147,
+        1108826395,
+        101764853,
+        136253037,
         102070687
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5QgrhAkd6jDCDsklsAgQGw_48.233505_3.557530@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9e1864c864e5775cd9ecc6e09134ef3",
+    "wof:geomhash":"c05fc5a7053f9afd4f90d1ee1b12780d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070687,
+            "empire_id":136253037,
+            "localadmin_id":404396173,
             "locality_id":101764853,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152098657
         }
     ],
     "wof:id":152098657,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1496788188,
     "wof:name":"Agric Villeneuve Archev Perceneige Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

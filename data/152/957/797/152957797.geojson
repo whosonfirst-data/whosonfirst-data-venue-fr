@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.344545,50.33363,3.344545,50.33363",
     "geom:latitude":50.33363,
     "geom:longitude":3.344545,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811355,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404402335,
+        85633147,
+        1108826399,
+        101811355,
+        136253037,
         102068319
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0MUAdePUaDpHl9ZkAhawZx_50.333630_3.344545@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"537025d183f7425f86c0ccca18a30de4",
+    "wof:geomhash":"c55a638beb2db6d08f1090d50a423fc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068319,
+            "empire_id":136253037,
+            "localadmin_id":404402335,
             "locality_id":101811355,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152957797
         }
     ],
     "wof:id":152957797,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496796507,
     "wof:name":"Fleche Du Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

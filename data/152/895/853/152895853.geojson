@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.548335,45.861004,3.548335,45.861004",
     "geom:latitude":45.861004,
     "geom:longitude":3.548335,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767857,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404348921,
+        85633147,
+        1108826389,
+        101767857,
+        136253037,
         102071435
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0wmSJO61GJADzqfpfyHcGi_45.861004_3.548335@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7bace54e6559f4c5d42652c508c2e5c",
+    "wof:geomhash":"e5cb12ebd069dc85064be1996295f5e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071435,
+            "empire_id":136253037,
+            "localadmin_id":404348921,
             "locality_id":101767857,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152895853
         }
     ],
     "wof:id":152895853,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496806381,
     "wof:name":"M.c.c. Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.064172,46.038788,4.064172,46.038788",
     "geom:latitude":46.038788,
     "geom:longitude":4.064172,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4I8qjmlAIAQ1gg65Bnm56w_46.038788_4.064172@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"57b18f5ec053a4e12cc940dd5944a742",
+    "wof:geomhash":"7ca5916828a25dc6187f2b3f97b5f4d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152049009
         }
     ],
     "wof:id":152049009,
-    "wof:lastmodified":1473797865,
+    "wof:lastmodified":1496800111,
     "wof:name":"Hotel Terminus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

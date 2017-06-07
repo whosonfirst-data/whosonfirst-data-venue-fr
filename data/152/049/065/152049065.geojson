@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.482333,44.855034,0.482333,44.855034",
     "geom:latitude":44.855034,
     "geom:longitude":0.482333,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3enQE2g6QryLdrSmfCsP0g_44.855034_0.482333@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"76b2501cdbdd30e1ebd295692aa263f0",
+    "wof:geomhash":"daaf96e9a95d4fbac87c4b8cbca12bee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152049065
         }
     ],
     "wof:id":152049065,
-    "wof:lastmodified":1473797872,
+    "wof:lastmodified":1496777133,
     "wof:name":"H\u00d4tel De Bordeaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

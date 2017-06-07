@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.263478,48.718567,6.263478,48.718567",
     "geom:latitude":48.718567,
     "geom:longitude":6.263478,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753527,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404365675,
+        85633147,
+        1108826391,
+        101753527,
+        136253037,
         102071285
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0n4Y0xsNdHMXkH3oXf2gAl_48.718567_6.263478@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4be9342b0552a8845fc34682db7cc72f",
+    "wof:geomhash":"082928a11b5815639ebbcd1af54da507",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071285,
+            "empire_id":136253037,
+            "localadmin_id":404365675,
             "locality_id":101753527,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152920905
         }
     ],
     "wof:id":152920905,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496784729,
     "wof:name":"Atelier Graphique De L Est Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

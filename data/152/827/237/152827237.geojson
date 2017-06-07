@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.52149,44.876862,-0.52149,44.876862",
     "geom:latitude":44.876862,
     "geom:longitude":-0.52149,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E8klJDTXX5Bt9pQO39kHA_44.876862_-0.521490@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e5516f906b0a340b05e8709c55c80c21",
+    "wof:geomhash":"094e19720a74499f2a0a8622d034d975",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152827237
         }
     ],
     "wof:id":152827237,
-    "wof:lastmodified":1473798540,
+    "wof:lastmodified":1496776955,
     "wof:name":"Transports B\u00e9nito S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

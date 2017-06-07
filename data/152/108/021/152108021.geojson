@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.456932,46.065838,3.456932,46.065838",
     "geom:latitude":46.065838,
     "geom:longitude":3.456932,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768375,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404403983,
+        85633147,
+        1108826389,
+        101768375,
+        136253037,
         102070563
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5JzlXZnG2OLO4z45GyfhWJ_46.065838_3.456932@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03bb59e1ad3ac2420cb51852b8f4f374",
+    "wof:geomhash":"35e3efd97511702f9262e93b5a684db0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070563,
+            "empire_id":136253037,
+            "localadmin_id":404403983,
             "locality_id":101768375,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152108021
         }
     ],
     "wof:id":152108021,
-    "wof:lastmodified":1473798242,
+    "wof:lastmodified":1496779669,
     "wof:name":"Orthopedie Prothese Le Glouahec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

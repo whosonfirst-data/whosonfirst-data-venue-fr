@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.090437,46.023479,4.090437,46.023479",
     "geom:latitude":46.023479,
     "geom:longitude":4.090437,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828957,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404426389,
+        85633147,
+        1108826389,
+        101828957,
+        136253037,
         102066879
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_07KnR7J9vjNLHBjMHiBMXg_46.023479_4.090437@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8aa0fc6d47c88a2510dee26e82ed857",
+    "wof:geomhash":"b7d9221dd5f69442c4a5ba2e720d41d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066879,
+            "empire_id":136253037,
+            "localadmin_id":404426389,
             "locality_id":101828957,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168881003
         }
     ],
     "wof:id":168881003,
-    "wof:lastmodified":1473798031,
+    "wof:lastmodified":1496802765,
     "wof:name":"Compagnie Des Cotons S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

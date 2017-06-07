@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.555474,46.820518,0.555474,46.820518",
     "geom:latitude":46.820518,
     "geom:longitude":0.555474,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2kaRxBuxiKYMwz0YZjNcIX_46.820518_0.555474@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa3c34d2114c1b842385b409d040bb69",
+    "wof:geomhash":"74f76704ddcde5eda355828a108029a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152106743
         }
     ],
     "wof:id":152106743,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496777331,
     "wof:name":"Cabinet De Radiologie Des Docteurs Abbadie Michel Pallado Gilles Rabi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

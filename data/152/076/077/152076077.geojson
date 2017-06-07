@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.33843,46.91626,6.33843,46.91626",
     "geom:latitude":46.91626,
     "geom:longitude":6.33843,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829323,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404368351,
+        85633147,
+        1108826395,
+        101829323,
+        136253037,
         102068065
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2T4XtGBPPtCpwHN5TZgsIh_46.916260_6.338430@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d20247555001714fc4c1cc8a960024b3",
+    "wof:geomhash":"59bbfc47cf5ba1d09ea5d2c4bd269f30",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068065,
+            "empire_id":136253037,
+            "localadmin_id":404368351,
             "locality_id":101829323,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152076077
         }
     ],
     "wof:id":152076077,
-    "wof:lastmodified":1473798117,
+    "wof:lastmodified":1496804290,
     "wof:name":"Societe Dijonnaise De Materiel Electrique (sdme)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

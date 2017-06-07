@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.583956,50.524048,1.583956,50.524048",
     "geom:latitude":50.524048,
     "geom:longitude":1.583956,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840457,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404377323,
+        85633147,
+        1108826399,
+        101840457,
+        136253037,
         102070813
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3w92y6FdIIyD8xhGR5E0R6_50.524048_1.583956@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ddd48d34bc53848de6bb56908f718dcf",
+    "wof:geomhash":"9e3476c6340c8916b03dff8a225408ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070813,
+            "empire_id":136253037,
+            "localadmin_id":404377323,
             "locality_id":101840457,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152047333
         }
     ],
     "wof:id":152047333,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496790417,
     "wof:name":"Ste Des Casinos Du Touquet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

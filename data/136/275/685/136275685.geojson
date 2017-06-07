@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.698146,43.404648,3.698146,43.404648",
     "geom:latitude":43.404648,
     "geom:longitude":3.698146,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831695,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101831695,
+        136253037,
         102072199
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4pgMt8CxMdws0ciajfEG3c_43.404648_3.698146@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6169ab8f9fb33c5d153a559b7a6bb031",
+    "wof:geomhash":"efa2acecf91d320e82de54887e176732",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072199,
+            "empire_id":136253037,
             "locality_id":101831695,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136275685
         }
     ],
     "wof:id":136275685,
-    "wof:lastmodified":1473797932,
+    "wof:lastmodified":1496778023,
     "wof:name":"Caisse D'epargne Et De Prevoyance Du Languedoc Roussill (cep)",
-    "wof:parent_id":101831695,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

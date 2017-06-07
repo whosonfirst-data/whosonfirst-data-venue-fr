@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.165341,45.747829,3.165341,45.747829",
     "geom:latitude":45.747829,
     "geom:longitude":3.165341,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753255,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404425569,
+        85633147,
+        1108826389,
+        101753255,
+        136253037,
         102071741
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3ElDRYTOqeYTZGv1u4tCvo_45.747829_3.165341@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16e2de1f7855af149d3706a09aceaccb",
+    "wof:geomhash":"3a07783d2e35804669458f2f3acc92b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071741,
+            "empire_id":136253037,
+            "localadmin_id":404425569,
             "locality_id":101753255,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152044221
         }
     ],
     "wof:id":152044221,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496779305,
     "wof:name":"Restaurant Du Coeur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

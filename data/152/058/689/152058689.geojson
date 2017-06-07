@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.178873,45.903267,4.178873,45.903267",
     "geom:latitude":45.903267,
     "geom:longitude":4.178873,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767787,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404390245,
+        85633147,
+        1108826389,
+        101767787,
+        136253037,
         102070141
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4HNOAkOqGHwHDI4KVigP8w_45.903267_4.178873@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f717d5f6dbf302aaecb3a53f4c3f2309",
+    "wof:geomhash":"897d6d130dda6af761ca55a37297d35f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070141,
+            "empire_id":136253037,
+            "localadmin_id":404390245,
             "locality_id":101767787,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152058689
         }
     ],
     "wof:id":152058689,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496780812,
     "wof:name":"Patissier Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

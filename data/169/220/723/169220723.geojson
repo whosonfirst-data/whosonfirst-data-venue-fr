@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.332611,49.93058,3.332611,49.93058",
     "geom:latitude":49.93058,
     "geom:longitude":3.332611,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899925,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404418545,
+        85633147,
+        1108826399,
+        101899925,
+        136253037,
         102065353
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0JUGXXiV69yMgW7QB2g5L0_49.930580_3.332611@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16f6b9db7982985a918584ee0254bc70",
+    "wof:geomhash":"87b41344e0221b0755c5e2161d52d12a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065353,
+            "empire_id":136253037,
+            "localadmin_id":404418545,
             "locality_id":101899925,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169220723
         }
     ],
     "wof:id":169220723,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496790587,
     "wof:name":"Wasilewski S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

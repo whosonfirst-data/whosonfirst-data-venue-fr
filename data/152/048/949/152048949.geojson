@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.618095,46.400059,6.618095,46.400059",
     "geom:latitude":46.400059,
     "geom:longitude":6.618095,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829001,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404370211,
+        85633147,
+        1108826389,
+        101829001,
+        136253037,
         102066779
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2bxTVkH3gAwhjyrrzDqWZB_46.400059_6.618095@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ad1b03ace6bd2d668c864e3bd63a81b2",
+    "wof:geomhash":"e95ca4dcac9d7fd3de3e0596f647ab3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":404370211,
             "locality_id":101829001,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152048949
         }
     ],
     "wof:id":152048949,
-    "wof:lastmodified":1473797949,
+    "wof:lastmodified":1496781293,
     "wof:name":"Hotel Panorama",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

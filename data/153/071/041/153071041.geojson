@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.211799,50.569157,3.211799,50.569157",
     "geom:latitude":50.569157,
     "geom:longitude":3.211799,
@@ -22,28 +23,39 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85794639,
-        102070353
+        102191581,
+        85633147,
+        404421999,
+        404228283,
+        1108826399,
+        136253037,
+        102070353,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zEnCG4sANRXE4iSjGjgW3_50.569157_3.211799@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d73e07d101336449f31b4420a12c5949",
+    "wof:geomhash":"b6ab4d02c2bebbd9c18fcfacad815d53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421999,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794639,
             "region_id":85683445,
             "venue_id":153071041
         }
     ],
     "wof:id":153071041,
-    "wof:lastmodified":1473797969,
+    "wof:lastmodified":1496790973,
     "wof:name":"Anciens Etablissements Bergerot S.a.",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",

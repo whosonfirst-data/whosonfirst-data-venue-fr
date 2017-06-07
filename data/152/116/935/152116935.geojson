@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.137708,49.024208,1.137708,49.024208",
     "geom:latitude":49.024208,
     "geom:longitude":1.137708,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751419,
-        85633147,
         85683283,
+        102191581,
+        85633147,
+        404228055,
+        1108826393,
+        101751419,
+        136253037,
         102072511
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5EXjAeWwtOHRte5sCHw9lG_49.024208_1.137708@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7a5e724d644ec6d9881fdf126d080050",
+    "wof:geomhash":"640c42cfc98828c6d12c2cf121345feb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072511,
+            "empire_id":136253037,
             "locality_id":101751419,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152116935
         }
     ],
     "wof:id":152116935,
-    "wof:lastmodified":1473798277,
+    "wof:lastmodified":1496787330,
     "wof:name":"Ste Nationale De Diffusion Informatique (sndi)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

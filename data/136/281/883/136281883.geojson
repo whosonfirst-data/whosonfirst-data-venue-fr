@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.315827,46.614723,0.315827,46.614723",
     "geom:latitude":46.614723,
     "geom:longitude":0.315827,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753299,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101753299,
+        136253037,
         102068303
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_494t2qmZMYIyTJjHPKloKH_46.614723_0.315827@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01d26b7b6a5e0457926ff9f6ce81e95b",
+    "wof:geomhash":"395f7962106eea4341613136b5d24360",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068303,
+            "empire_id":136253037,
             "locality_id":101753299,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136281883
         }
     ],
     "wof:id":136281883,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496798558,
     "wof:name":"Dauphin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

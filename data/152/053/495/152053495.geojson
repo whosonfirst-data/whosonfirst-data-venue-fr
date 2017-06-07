@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.049813,49.240532,4.049813,49.240532",
     "geom:latitude":49.240532,
     "geom:longitude":4.049813,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_0BTLcz0aWlsTsadOUopVI5_49.240532_4.049813@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"98cbbfd5d6b55c61aab35a58274db738",
+    "wof:geomhash":"4efbb85bed4d06691e2e3f19420af664",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152053495
         }
     ],
     "wof:id":152053495,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496785252,
     "wof:name":"Sa Des Vignobles Henriot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

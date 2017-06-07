@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.618885,45.834423,4.618885,45.834423",
     "geom:latitude":45.834423,
     "geom:longitude":4.618885,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828923,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404404033,
+        85633147,
+        1108826389,
+        101828923,
+        136253037,
         102064681
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_38CA8856ppwW4wxPweqlAv_45.834423_4.618885@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"405c748f816e5a0b1ea20496a1007bcc",
+    "wof:geomhash":"bdb21643c3cf14bbd2895fd765cde4aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064681,
+            "empire_id":136253037,
+            "localadmin_id":404404033,
             "locality_id":101828923,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136274531
         }
     ],
     "wof:id":136274531,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496800688,
     "wof:name":"Agri Bilan Conseil",
-    "wof:parent_id":101828923,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

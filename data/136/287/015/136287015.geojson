@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.794736,49.609379,3.794736,49.609379",
     "geom:latitude":49.609379,
     "geom:longitude":3.794736,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814987,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404403577,
+        85633147,
+        1108826399,
+        101814987,
+        136253037,
         102069807
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_0chBzGJooZktezU3eAjO8D_49.609379_3.794736@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9cd5d06524aeab357fd59db65f95c152",
+    "wof:geomhash":"f7bbc8f236b2b3071f1f1f77fe932453",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069807,
+            "empire_id":136253037,
+            "localadmin_id":404403577,
             "locality_id":101814987,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136287015
         }
     ],
     "wof:id":136287015,
-    "wof:lastmodified":1473797861,
+    "wof:lastmodified":1496790562,
     "wof:name":"Sa Beaufort Exploit Forestiere Scierie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

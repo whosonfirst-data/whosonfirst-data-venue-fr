@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.508766,45.471916,4.508766,45.471916",
     "geom:latitude":45.471916,
     "geom:longitude":4.508766,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830787,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101830787,
+        136253037,
         102072203
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_0K7j7SXmqY1g0ELZuNas4K_45.471916_4.508766@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9401545301655024aafed1d7a1ef8822",
+    "wof:geomhash":"b7db034e7a9755184213f7cdb037addf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072203,
+            "empire_id":136253037,
             "locality_id":101830787,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136292201
         }
     ],
     "wof:id":136292201,
-    "wof:lastmodified":1473797900,
+    "wof:lastmodified":1496779423,
     "wof:name":"Audio Video Communications Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

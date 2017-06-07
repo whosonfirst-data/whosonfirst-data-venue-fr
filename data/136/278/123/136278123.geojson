@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.036449,47.321693,5.036449,47.321693",
     "geom:latitude":47.321693,
     "geom:longitude":5.036449,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1sCosyiw36uukyHMEZbTz4_47.321693_5.036449@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"064f8340af380e40e43f5c28272877d5",
+    "wof:geomhash":"d2eb68deacd0eda049d6882c954744ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136278123
         }
     ],
     "wof:id":136278123,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496789070,
     "wof:name":"La Mondiale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

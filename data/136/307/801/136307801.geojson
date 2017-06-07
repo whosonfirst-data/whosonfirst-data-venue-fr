@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.590263,44.826168,-0.590263,44.826168",
     "geom:latitude":44.826168,
     "geom:longitude":-0.590263,
@@ -29,11 +30,15 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897677,
+        102191581,
         85633147,
-        101750773,
-        102071707,
-        85897677
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -41,19 +46,23 @@
         "sg:id":"SG_6WxHV8fn5NkTo8djE9J7sO_44.826168_-0.590263@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a730c24997f5be4d044410f767fb35b7",
+    "wof:geomhash":"d9909bc6071d688ca41b857379e343a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071707,
-            "locality_id":101750773,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897677,
             "region_id":85683243,
             "venue_id":136307801
         }
     ],
     "wof:id":136307801,
-    "wof:lastmodified":1473798025,
+    "wof:lastmodified":1496775397,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",

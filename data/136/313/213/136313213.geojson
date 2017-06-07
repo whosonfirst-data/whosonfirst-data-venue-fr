@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.484389,48.462265,7.484389,48.462265",
     "geom:latitude":48.462265,
     "geom:longitude":7.484389,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763709,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404405303,
+        85633147,
+        1108826391,
+        101763709,
+        136253037,
         102067361
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4QDswhCi43oi6mIpMf5X02_48.462265_7.484389@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b475cf8e6ac7ba46c00f93c54c6e2763",
+    "wof:geomhash":"c7c2cb0c49159ff4049354b5548b992a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067361,
+            "empire_id":136253037,
+            "localadmin_id":404405303,
             "locality_id":101763709,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136313213
         }
     ],
     "wof:id":136313213,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496785168,
     "wof:name":"Ste Exploit Boulangerie Patisserie Regin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

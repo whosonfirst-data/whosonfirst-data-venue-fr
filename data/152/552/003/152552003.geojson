@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.18361,46.62978,5.18361,46.62978",
     "geom:latitude":46.62978,
     "geom:longitude":5.18361,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829225,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404375551,
+        85633147,
+        1108826395,
+        101829225,
+        136253037,
         102068689
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5vhuGIzPwmVLwbizyMsj4O_46.629780_5.183610@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"32ce7e8ea5ad66c6a3ceb0397f0db060",
+    "wof:geomhash":"d226616561b4ec1531461da562e8ce13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068689,
+            "empire_id":136253037,
+            "localadmin_id":404375551,
             "locality_id":101829225,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152552003
         }
     ],
     "wof:id":152552003,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1496794853,
     "wof:name":"Jean Et Jean-paul Compagnon S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

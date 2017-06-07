@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.811691,50.122005,1.811691,50.122005",
     "geom:latitude":50.122005,
     "geom:longitude":1.811691,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_21PqPId7tkIIS49tZ7o7YI_50.122005_1.811691@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3ec4ef82a819943f29e42ff3fcdbc485",
+    "wof:geomhash":"b0b18ec0b893054aa349ff05f2918739",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":168901535
         }
     ],
     "wof:id":168901535,
-    "wof:lastmodified":1473798065,
+    "wof:lastmodified":1496790094,
     "wof:name":"Denain Anzin Min\u00e9raux S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.606672,44.94392,-0.606672,44.94392",
     "geom:latitude":44.94392,
     "geom:longitude":-0.606672,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769451,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404410469,
+        85633147,
+        1108826385,
+        101769451,
+        136253037,
         102065291
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4FSG5cg6bf8vDH3JmS7egQ_44.943920_-0.606672@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"db57cf79583c3593a15e01d7c750840b",
+    "wof:geomhash":"c32bf7022a06bac426a1c6fd146fd36e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065291,
+            "empire_id":136253037,
+            "localadmin_id":404410469,
             "locality_id":101769451,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152097757
         }
     ],
     "wof:id":152097757,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496776956,
     "wof:name":"Compagnie Vins Bx Gir Dourthe- Kressmann Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.818614,49.418957,2.818614,49.418957",
     "geom:latitude":49.418957,
     "geom:longitude":2.818614,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842439,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842439,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6AYry6KswQl6501HC5naoI_49.418957_2.818614@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6661d5db3391d70c63eccd2ea312102b",
+    "wof:geomhash":"b27b8005b76b4bc0a33728e9222bd3fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842439,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152056271
         }
     ],
     "wof:id":152056271,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496790281,
     "wof:name":"Max Guerdin Et Ses Fils Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.546658,46.846298,0.546658,46.846298",
     "geom:latitude":46.846298,
     "geom:longitude":0.546658,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829369,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829369,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_0UY8USgYgZeV800pFJEIsZ_46.846298_0.546658@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e848dbbac28c2634f7f1f23f376f9667",
+    "wof:geomhash":"6fd8e931dbbd53a12215fb0914e71cac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829369,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136282795
         }
     ],
     "wof:id":136282795,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496776701,
     "wof:name":"Snecma Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

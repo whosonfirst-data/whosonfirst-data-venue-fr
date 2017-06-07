@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.395159,46.338474,-0.395159,46.338474",
     "geom:latitude":46.338474,
     "geom:longitude":-0.395159,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753291,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404376263,
+        85633147,
+        1108826385,
+        101753291,
+        136253037,
         102068045
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2kpXQpKkKSZnJhWR5foGlm_46.338474_-0.395159@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4efc3e619d7363a50c5b5a525ebd2ef1",
+    "wof:geomhash":"83d0acf1e2864fd95dcad6e71816dd42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068045,
+            "empire_id":136253037,
+            "localadmin_id":404376263,
             "locality_id":101753291,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":153027187
         }
     ],
     "wof:id":153027187,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496775569,
     "wof:name":"Stock A Z Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

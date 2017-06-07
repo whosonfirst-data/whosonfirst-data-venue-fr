@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.77833,45.774689,4.77833,45.774689",
     "geom:latitude":45.774689,
     "geom:longitude":4.77833,
@@ -27,9 +28,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_4IIkK7TLZPaK8y9CyTJFyn_45.774689_4.778330@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4abc9a1b84643907d67a1c8951845920",
+    "wof:geomhash":"b64be2a4e81cfc34dd193e084ee5a735",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136306313
         }
     ],
     "wof:id":136306313,
-    "wof:lastmodified":1473797998,
+    "wof:lastmodified":1496779712,
     "wof:name":"Sci Sainte Marie De La Guilloti\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.112547,49.443573,1.112547,49.443573",
     "geom:latitude":49.443573,
     "geom:longitude":1.112547,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_11Z0KR2QZ4dyZiH76Th3q0_49.443573_1.112547@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55414a1c674351164fe181ee1a6da54c",
+    "wof:geomhash":"7ff12af29d1301b32bbc38ba81b8f685",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152085899
         }
     ],
     "wof:id":152085899,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496787505,
     "wof:name":"Education Et Formation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

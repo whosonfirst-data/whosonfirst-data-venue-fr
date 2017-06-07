@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.150712,46.158405,-1.150712,46.158405",
     "geom:latitude":46.158405,
     "geom:longitude":-1.150712,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_0DpRaeQjOfKIugDYgXsF43_46.158405_-1.150712@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1da3a651aeb125901ed6328e52f89ae0",
+    "wof:geomhash":"995aaa229b12f78eab7943c2e65840bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136294181
         }
     ],
     "wof:id":136294181,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496775491,
     "wof:name":"Credit Immobilier De France Sud Atlantique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

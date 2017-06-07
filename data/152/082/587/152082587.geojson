@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.738955,45.988766,4.738955,45.988766",
     "geom:latitude":45.988766,
     "geom:longitude":4.738955,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_0Uz5iHP8yFJ5l8Y9XxbcDO_45.988766_4.738955@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"41b80e021a1cedfbe7ebbfd9828a266e",
+    "wof:geomhash":"a289bf30054d84ffa16712f8f386122e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152082587
         }
     ],
     "wof:id":152082587,
-    "wof:lastmodified":1473798142,
+    "wof:lastmodified":1496780411,
     "wof:name":"Spicer France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

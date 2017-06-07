@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.494934,43.888645,-0.494934,43.888645",
     "geom:latitude":43.888645,
     "geom:longitude":-0.494934,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_21Byte96fDmukVVdu32wW8_43.888645_-0.494934@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee98b552d4fbaac212ef92fbd6ce1c52",
+    "wof:geomhash":"b47cc0e3d3325ceba3bfce174b9671ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152079321
         }
     ],
     "wof:id":152079321,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496776991,
     "wof:name":"Ets Guilbaud Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

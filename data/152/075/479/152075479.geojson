@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.597484,46.34124,2.597484,46.34124",
     "geom:latitude":46.34124,
     "geom:longitude":2.597484,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829205,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227589,
+        1108826389,
+        101829205,
+        136253037,
         102072223
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_6beAlvFxotLVybYRzjjeQ2_46.341240_2.597484@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f01600f7f7c753d27bdf3ab90bf16c48",
+    "wof:geomhash":"61462020fa409d7d37886911eaa0873c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072223,
+            "empire_id":136253037,
             "locality_id":101829205,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152075479
         }
     ],
     "wof:id":152075479,
-    "wof:lastmodified":1473798136,
+    "wof:lastmodified":1496806443,
     "wof:name":"Transfo Centre S A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

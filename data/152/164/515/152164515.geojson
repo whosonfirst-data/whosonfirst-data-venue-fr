@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.28546,45.804638,1.28546,45.804638",
     "geom:latitude":45.804638,
     "geom:longitude":1.28546,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_60myOt2nrSiBjmzxESdvYO_45.804638_1.285460@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"78b72a37428c2ee5fbce4d1fba70dc65",
+    "wof:geomhash":"6cbb5b52b93f350ac21c63db4a5f3b16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152164515
         }
     ],
     "wof:id":152164515,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496777484,
     "wof:name":"Decoupe Forme Innovation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

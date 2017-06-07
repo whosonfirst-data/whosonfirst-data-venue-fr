@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.350879,49.205475,-0.350879,49.205475",
     "geom:latitude":49.205475,
     "geom:longitude":-0.350879,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750163,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404227825,
+        1108826393,
+        101750163,
+        136253037,
         102071963
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_2kPCi6BWQbd5lvADtaXIrF_49.205475_-0.350879@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d744441ea046bcf33b9138f0c61672f5",
+    "wof:geomhash":"c6b002f22551f7d84c3ba39e3934c0c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071963,
+            "empire_id":136253037,
             "locality_id":101750163,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152073331
         }
     ],
     "wof:id":152073331,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496787249,
     "wof:name":"Metro Libre Service De Gros Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

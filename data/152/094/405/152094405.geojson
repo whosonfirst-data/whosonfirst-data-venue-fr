@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.420473,50.445915,3.420473,50.445915",
     "geom:latitude":50.445915,
     "geom:longitude":3.420473,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840693,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404349341,
+        85633147,
+        1108826399,
+        101840693,
+        136253037,
         102072097
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5Dw3z6fkR8BtHmHXNgBR3b_50.445915_3.420473@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cd1fd709072eec7dc8f790900e7fcd8d",
+    "wof:geomhash":"45bfb13f29df2eff98e8035b6c4095aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072097,
+            "empire_id":136253037,
+            "localadmin_id":404349341,
             "locality_id":101840693,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152094405
         }
     ],
     "wof:id":152094405,
-    "wof:lastmodified":1473798183,
+    "wof:lastmodified":1496790416,
     "wof:name":"Sarl Mahieu Fougnies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

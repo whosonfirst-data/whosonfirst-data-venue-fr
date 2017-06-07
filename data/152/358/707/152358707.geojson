@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.966153,48.995407,3.966153,48.995407",
     "geom:latitude":48.995407,
     "geom:longitude":3.966153,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879939,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404352921,
+        85633147,
+        1108826391,
+        101879939,
+        136253037,
         102064555
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6G8cBe5GLZtZicmVaYboC8_48.995407_3.966153@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81bba94c48dad06dcd6a22278b6adbf7",
+    "wof:geomhash":"bc27b13ad7c18c15ff1bd6500b56f068",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064555,
+            "empire_id":136253037,
+            "localadmin_id":404352921,
             "locality_id":101879939,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152358707
         }
     ],
     "wof:id":152358707,
-    "wof:lastmodified":1473798384,
+    "wof:lastmodified":1496785140,
     "wof:name":"Champagne Paul Michel S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

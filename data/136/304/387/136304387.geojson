@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.560302,47.214359,-1.560302,47.214359",
     "geom:latitude":47.214359,
     "geom:longitude":-1.560302,
@@ -27,11 +28,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:brand_id":420574555,
     "wof:breaches":[],
@@ -42,16 +46,19 @@
     "wof:geomhash":"2374325bcc0b2d423652d96afde707cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":136304387
         }
     ],
     "wof:id":136304387,
-    "wof:lastmodified":1473798001,
+    "wof:lastmodified":1491937900,
     "wof:name":"Cr\u00e9dit Lyonnais",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

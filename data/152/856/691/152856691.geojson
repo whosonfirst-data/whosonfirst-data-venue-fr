@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.24138,46.753029,5.24138,46.753029",
     "geom:latitude":46.753029,
     "geom:longitude":5.24138,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766565,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404365045,
+        85633147,
+        1108826395,
+        101766565,
+        136253037,
         102071227
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6vI9Eh0LME03pe2gArPpL6_46.753029_5.241380@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1587c31d05ad45fd3eec1280fd75211",
+    "wof:geomhash":"e40a113f6255637c6c29a6074161ebd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071227,
+            "empire_id":136253037,
+            "localadmin_id":404365045,
             "locality_id":101766565,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152856691
         }
     ],
     "wof:id":152856691,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496789306,
     "wof:name":"Scierie Truchot Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

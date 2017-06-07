@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.787003,48.805435,7.787003,48.805435",
     "geom:latitude":48.805435,
     "geom:longitude":7.787003,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827857,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404348507,
+        85633147,
+        1108826391,
+        101827857,
+        136253037,
         102065935
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4i1No0pRfh2dn9cOtiKoqP_48.805435_7.787003@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96c1aaa89bb918acb30d43fde9d5bb5f",
+    "wof:geomhash":"cd46a4a177ba1533576efe7a496c725c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065935,
+            "empire_id":136253037,
+            "localadmin_id":404348507,
             "locality_id":101827857,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":169199319
         }
     ],
     "wof:id":169199319,
-    "wof:lastmodified":1473798212,
+    "wof:lastmodified":1496784130,
     "wof:name":"Tixit S.a. - Technique Nouvelle D'assemblage Et De Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.537242,50.482761,2.537242,50.482761",
     "geom:latitude":50.482761,
     "geom:longitude":2.537242,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839641,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404227933,
+        1108826399,
+        101839641,
+        136253037,
         102071905
     ],
     "wof:brand_id":420574991,
@@ -45,18 +50,22 @@
         "sg:id":"SG_0lLqKeESKBhSrqFD0xQFDG_50.482761_2.537242@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cd041ad7c1f8f72be7f1e6ca0ef7eefd",
+    "wof:geomhash":"9e5a4ca3652d208a18cdf03a2a2e7ba6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071905,
+            "empire_id":136253037,
             "locality_id":101839641,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152080287
         }
     ],
     "wof:id":152080287,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1496792113,
     "wof:name":"Electricite De France (edf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

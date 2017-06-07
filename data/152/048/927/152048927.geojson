@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.131955,43.517345,4.131955,43.517345",
     "geom:latitude":43.517345,
     "geom:longitude":4.131955,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831855,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404354559,
+        85633147,
+        1108826387,
+        101831855,
+        136253037,
         102064323
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3v5D306r63ja0tdRqw0Cz5_43.517345_4.131955@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05269e089934305b8f679a6c88997474",
+    "wof:geomhash":"62a5da409e8a60cf63539c2ce933e0bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064323,
+            "empire_id":136253037,
+            "localadmin_id":404354559,
             "locality_id":101831855,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152048927
         }
     ],
     "wof:id":152048927,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496778299,
     "wof:name":"Hotel Mercure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

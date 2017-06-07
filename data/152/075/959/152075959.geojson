@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.684655,49.534069,5.684655,49.534069",
     "geom:latitude":49.534069,
     "geom:longitude":5.684655,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813655,
-        85633147,
         85683343,
+        102191581,
+        404227705,
+        404354353,
+        85633147,
+        1108826391,
+        101813655,
+        136253037,
         102070099
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3vWXtsiMhYd7jXnoxSCj2C_49.534069_5.684655@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"552a650e2f49e78f65c44894ca34b095",
+    "wof:geomhash":"37d2aa5420214785b173e6cc66eed7ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070099,
+            "empire_id":136253037,
+            "localadmin_id":404354353,
             "locality_id":101813655,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152075959
         }
     ],
     "wof:id":152075959,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496794135,
     "wof:name":"Lenoir Elec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

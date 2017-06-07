@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.031998,38.889511,-77.031998,38.889511",
     "geom:latitude":38.889511,
     "geom:longitude":-77.031998,
@@ -24,11 +25,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724057,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869683
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,20 @@
     "wof:geomhash":"cddac401871b5a50d0c6ae7244c8afc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85869683,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724057,
             "region_id":85688741,
             "venue_id":168853631
         }
     ],
     "wof:id":168853631,
-    "wof:lastmodified":1473797979,
+    "wof:lastmodified":1490401948,
     "wof:name":"C.s.d. S.a.r.l. - Corse Sud Distillerie",
-    "wof:parent_id":85869683,
+    "wof:parent_id":1108724057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

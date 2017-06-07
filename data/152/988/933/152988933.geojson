@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.700525,43.399799,3.700525,43.399799",
     "geom:latitude":43.399799,
     "geom:longitude":3.700525,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831695,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101831695,
+        136253037,
         102072199
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_43x25mXqt75VcQlqXaKN0o_43.399799_3.700525@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a0eaaab4d837a2c1b4dc79db2d6e7a95",
+    "wof:geomhash":"3514279b653947a77f12fc7c0cf6fe46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072199,
+            "empire_id":136253037,
             "locality_id":101831695,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152988933
         }
     ],
     "wof:id":152988933,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496778333,
     "wof:name":"Service Lamanage Du Port De Sete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

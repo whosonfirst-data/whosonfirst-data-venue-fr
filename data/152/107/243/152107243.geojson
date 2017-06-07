@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.620816,48.759136,0.620816,48.759136",
     "geom:latitude":48.759136,
     "geom:longitude":0.620816,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762579,
-        85633147,
         85683527,
+        102191581,
+        85633147,
+        404228129,
+        1108826393,
+        101762579,
+        136253037,
         102072355
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1AztOrpfjlu6u0vZkzgmej_48.759136_0.620816@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"849538ff48304bd97817d4e95dfba232",
+    "wof:geomhash":"9b19062d9bfce98345e9457d256e0fd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072355,
+            "empire_id":136253037,
             "locality_id":101762579,
+            "macrocounty_id":404228129,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152107243
         }
     ],
     "wof:id":152107243,
-    "wof:lastmodified":1473798255,
+    "wof:lastmodified":1496803238,
     "wof:name":"Imv Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

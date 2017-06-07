@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.861903,43.606815,3.861903,43.606815",
     "geom:latitude":43.606815,
     "geom:longitude":3.861903,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3myWPMymFpA2CmeREsC0Ta_43.606815_3.861903@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"471249f1e3b050871ab3866c59661477",
+    "wof:geomhash":"4a98d31f9172faccd54f9719cd50ce11",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136314755
         }
     ],
     "wof:id":136314755,
-    "wof:lastmodified":1473798030,
+    "wof:lastmodified":1496778701,
     "wof:name":"Association Aux Meres De Famille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.284885,45.941505,1.284885,45.941505",
     "geom:latitude":45.941505,
     "geom:longitude":1.284885,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768227,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404364883,
+        85633147,
+        1108826385,
+        101768227,
+        136253037,
         102064579
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1clOVJbyJ9rwwLVG4QKMqs_45.941505_1.284885@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"507f8e1385b017ce379c418740228087",
+    "wof:geomhash":"789f9f2a7f4401d74673df1bbfae7022",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064579,
+            "empire_id":136253037,
+            "localadmin_id":404364883,
             "locality_id":101768227,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":153028805
         }
     ],
     "wof:id":153028805,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496776586,
     "wof:name":"Centre Express Limousin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

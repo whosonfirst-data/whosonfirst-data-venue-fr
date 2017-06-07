@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.81681,49.354988,0.81681,49.354988",
     "geom:latitude":49.354988,
     "geom:longitude":0.81681,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761625,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404355103,
+        85633147,
+        1108826393,
+        101761625,
+        136253037,
         102069823
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0qZl0y92czyehVdXnNREfO_49.354988_0.816810@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e6d9675b6f523be3e36fca2510b2af7",
+    "wof:geomhash":"5d81894c4a9164a0d64456a5214e61ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069823,
+            "empire_id":136253037,
+            "localadmin_id":404355103,
             "locality_id":101761625,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152054967
         }
     ],
     "wof:id":152054967,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496786909,
     "wof:name":"Le 8 Eme Art (sas)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

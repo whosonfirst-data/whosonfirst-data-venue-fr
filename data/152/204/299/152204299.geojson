@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.841681,49.879978,4.841681,49.879978",
     "geom:latitude":49.879978,
     "geom:longitude":4.841681,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815003,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404347821,
+        85633147,
+        1108826391,
+        101815003,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0nnG1MfgoqMUm3zjctDv9H_49.879978_4.841681@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b34018d59979805c0fc54cfc54f843ae",
+    "wof:geomhash":"dd79c13a6c6b82daa576ccdc1146d3b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404347821,
             "locality_id":101815003,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152204299
         }
     ],
     "wof:id":152204299,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496805269,
     "wof:name":"Marcel Barteaux Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

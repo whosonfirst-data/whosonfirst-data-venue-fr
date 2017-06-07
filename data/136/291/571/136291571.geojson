@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.42901,45.335396,2.42901,45.335396",
     "geom:latitude":45.335396,
     "geom:longitude":2.42901,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842841,
-        85633147,
         85683517,
+        102191581,
+        404227829,
+        404361793,
+        85633147,
+        1108826389,
+        101842841,
+        136253037,
         102067431
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_16JJ5WAwoYeAh2dF2cWtFB_45.335396_2.429010@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61ad8a8912b69934112dd373662cdccd",
+    "wof:geomhash":"f1d5ed0d9db76d6f6bfaf73b23a33386",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067431,
+            "empire_id":136253037,
+            "localadmin_id":404361793,
             "locality_id":101842841,
+            "macrocounty_id":404227829,
+            "macroregion_id":1108826389,
             "region_id":85683517,
             "venue_id":136291571
         }
     ],
     "wof:id":136291571,
-    "wof:lastmodified":1473797929,
+    "wof:lastmodified":1496779286,
     "wof:name":"Muscat Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

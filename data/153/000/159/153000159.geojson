@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.507288,48.183781,7.507288,48.183781",
     "geom:latitude":48.183781,
     "geom:longitude":7.507288,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886261,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404408291,
+        85633147,
+        1108826391,
+        101886261,
+        136253037,
         102066585
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1tAoBvfTjxzF6kvp1kXoNy_48.183781_7.507288@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6970749d616b3f31b16103df9c24796",
+    "wof:geomhash":"975f867003bd30a1283d99a2fe2a7a70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066585,
+            "empire_id":136253037,
+            "localadmin_id":404408291,
             "locality_id":101886261,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":153000159
         }
     ],
     "wof:id":153000159,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496785219,
     "wof:name":"Flecher Voyages Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

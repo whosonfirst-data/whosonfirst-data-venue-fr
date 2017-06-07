@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.386475,43.834061,4.386475,43.834061",
     "geom:latitude":43.834061,
     "geom:longitude":4.386475,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4RTPsCjPm1DE8dI2mZ5eS4_43.834061_4.386475@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b576f3ec1d528ccc34b86aa48b7ef075",
+    "wof:geomhash":"46ff814e7962766fdc83165667a986e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152049147
         }
     ],
     "wof:id":152049147,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496778674,
     "wof:name":"Inter Hotel Nimotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

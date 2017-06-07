@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.15591,45.661678,0.15591,45.661678",
     "geom:latitude":45.661678,
     "geom:longitude":0.15591,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829067,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404384871,
+        85633147,
+        1108826385,
+        101829067,
+        136253037,
         102070497
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_307hLnPPj23TYJCbMqqQGO_45.661678_0.155910@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f7c32bf7032920e194232c4dfff1054",
+    "wof:geomhash":"8973ad1f70a9298789cb7faaf613d50a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070497,
+            "empire_id":136253037,
+            "localadmin_id":404384871,
             "locality_id":101829067,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":136277233
         }
     ],
     "wof:id":136277233,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496776775,
     "wof:name":"Faux Georges Chobelet Guy Scm Expert Comptab",
-    "wof:parent_id":101829067,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

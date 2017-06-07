@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.644475,49.092899,3.644475,49.092899",
     "geom:latitude":49.092899,
     "geom:longitude":3.644475,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879909,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404410085,
+        85633147,
+        1108826391,
+        101879909,
+        136253037,
         102065927
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_72CJNO75HD0wBZW9n9YgC9_49.092899_3.644475@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e1d4fd71000b72ddd46c0e60016bbe6",
+    "wof:geomhash":"ae65a62c5808eeb6a6e330738f0b4961",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065927,
+            "empire_id":136253037,
+            "localadmin_id":404410085,
             "locality_id":101879909,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071861
         }
     ],
     "wof:id":152071861,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496786546,
     "wof:name":"Champagne H.blin Et Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

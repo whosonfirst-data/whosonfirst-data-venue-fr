@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.61107,45.85043,4.61107,45.85043",
     "geom:latitude":45.85043,
     "geom:longitude":4.61107,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828901,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404426459,
+        85633147,
+        1108826389,
+        101828901,
+        136253037,
         102064681
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_27CbTYtPBSYMGyVWsA2wZZ_45.850430_4.611070@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"368e3f06a4622893c8a6a622eea4b491",
+    "wof:geomhash":"44fd3420cfc7cd9d98b5c20c24c637a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064681,
+            "empire_id":136253037,
+            "localadmin_id":404426459,
             "locality_id":101828901,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152598379
         }
     ],
     "wof:id":152598379,
-    "wof:lastmodified":1473798475,
+    "wof:lastmodified":1496781159,
     "wof:name":"M.b.s. Pharma S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

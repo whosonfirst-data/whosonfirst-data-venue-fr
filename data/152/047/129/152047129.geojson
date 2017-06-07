@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.868211,43.610348,3.868211,43.610348",
     "geom:latitude":43.610348,
     "geom:longitude":3.868211,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_49wpdG5PEokUi9bQsCEzot_43.610348_3.868211@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1654ee5f0a9045389963d428bd49a15a",
+    "wof:geomhash":"1aa41899cffd6febd5c03e3f9a20660f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152047129
         }
     ],
     "wof:id":152047129,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496777732,
     "wof:name":"Institut Linguistique Du Perou",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

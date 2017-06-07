@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.601285,43.663429,0.601285,43.663429",
     "geom:latitude":43.663429,
     "geom:longitude":0.601285,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772589,
-        85633147,
         85683467,
+        102191581,
+        85633147,
+        404227655,
+        1108826387,
+        101772589,
+        136253037,
         102072401
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_2psEkPuIfshG7Dg0hq7K5h_43.663429_0.601285@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9070160ef8a742a748b4c4c709900526",
+    "wof:geomhash":"eadd7de8cfcbbcc81d9c8978c7a3ee14",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072401,
+            "empire_id":136253037,
             "locality_id":101772589,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":136276127
         }
     ],
     "wof:id":136276127,
-    "wof:lastmodified":1473797886,
+    "wof:lastmodified":1496803597,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Pyrenees Gascogne",
-    "wof:parent_id":101772589,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

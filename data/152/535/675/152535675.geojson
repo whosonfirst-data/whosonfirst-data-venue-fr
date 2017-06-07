@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.881378,45.04121,3.881378,45.04121",
     "geom:latitude":45.04121,
     "geom:longitude":3.881378,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830493,
-        85633147,
         85683413,
+        102191581,
+        404227891,
+        404367269,
+        85633147,
+        1108826389,
+        101830493,
+        136253037,
         102072457
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3IIPsypasSTpEloU19H4dx_45.041210_3.881378@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9eeffc92e1f0c4cbdb73a4493d90ba63",
+    "wof:geomhash":"7bcd0a76023727d5c1367dc2c41fd414",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072457,
+            "empire_id":136253037,
+            "localadmin_id":404367269,
             "locality_id":101830493,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152535675
         }
     ],
     "wof:id":152535675,
-    "wof:lastmodified":1473798482,
+    "wof:lastmodified":1496806342,
     "wof:name":"Imprimerie Anicienne S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

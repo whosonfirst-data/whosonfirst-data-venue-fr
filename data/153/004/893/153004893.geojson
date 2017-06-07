@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.441786,45.479443,4.441786,45.479443",
     "geom:latitude":45.479443,
     "geom:longitude":4.441786,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750837,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404384105,
+        85633147,
+        1108826389,
+        101750837,
+        136253037,
         102069555
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7MKmVF6J5sYT3XN9XYzrcz_45.479443_4.441786@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2fa9a7e427b54f1089d8c2db31d59ea",
+    "wof:geomhash":"4b7f48e049b55ddfc128f3c6da68e983",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069555,
+            "empire_id":136253037,
+            "localadmin_id":404384105,
             "locality_id":101750837,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":153004893
         }
     ],
     "wof:id":153004893,
-    "wof:lastmodified":1473797877,
+    "wof:lastmodified":1496800063,
     "wof:name":"Sacar Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.723839,45.183105,0.723839,45.183105",
     "geom:latitude":45.183105,
     "geom:longitude":0.723839,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5eMcGOFBzz8FPOPNC7xw6y_45.183105_0.723839@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a551928b448570339be2ea14e4702f0e",
+    "wof:geomhash":"0a22a15c067f214998795002e348862f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152048063
         }
     ],
     "wof:id":152048063,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496775905,
     "wof:name":"Gie Des Hotels Ibis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

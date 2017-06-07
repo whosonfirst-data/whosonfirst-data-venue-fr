@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.17293,46.989216,3.17293,46.989216",
     "geom:latitude":46.989216,
     "geom:longitude":3.17293,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829431,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404367031,
+        85633147,
+        1108826395,
+        101829431,
+        136253037,
         102072531
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4lkz4wTkfuAaaYBupBUy2U_46.989216_3.172930@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b33a4037b9acecfb6232359dc4921dd0",
+    "wof:geomhash":"18f49f3cee614b0467357d2e0b0777fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072531,
+            "empire_id":136253037,
+            "localadmin_id":404367031,
             "locality_id":101829431,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152131503
         }
     ],
     "wof:id":152131503,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496795084,
     "wof:name":"Alfa Laval Spiral Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

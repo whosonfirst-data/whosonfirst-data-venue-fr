@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.147198,43.926186,2.147198,43.926186",
     "geom:latitude":43.926186,
     "geom:longitude":2.147198,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831831,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404365101,
+        85633147,
+        1108826387,
+        101831831,
+        136253037,
         102072053
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5nW8eathWgrgF6iGh4Dq1Y_43.926186_2.147198@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d06eebeeb93c89ee32456ed5554a9001",
+    "wof:geomhash":"da5bf5fd454cbb3d669724a32b6275d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072053,
+            "empire_id":136253037,
+            "localadmin_id":404365101,
             "locality_id":101831831,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136274665
         }
     ],
     "wof:id":136274665,
-    "wof:lastmodified":1473797896,
+    "wof:lastmodified":1496778386,
     "wof:name":"Assurances Generales De France Vie (agf Vie) Agf Vie",
-    "wof:parent_id":101831831,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

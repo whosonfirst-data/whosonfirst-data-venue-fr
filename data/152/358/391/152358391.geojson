@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.796573,49.092361,3.796573,49.092361",
     "geom:latitude":49.092361,
     "geom:longitude":3.796573,
@@ -23,9 +24,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879855,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404372091,
+        85633147,
+        1108826391,
+        101879855,
+        136253037,
         102065581
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_79rMtlZRtFUIXYpimL6RoN_49.092361_3.796573@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c205561cf92e2e4e99a25b5c9820aa77",
+    "wof:geomhash":"1832db48e53a51d1d7319de990cf3946",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065581,
+            "empire_id":136253037,
+            "localadmin_id":404372091,
             "locality_id":101879855,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152358391
         }
     ],
     "wof:id":152358391,
-    "wof:lastmodified":1473798385,
+    "wof:lastmodified":1496785190,
     "wof:name":"Champagne J. Charpentier S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

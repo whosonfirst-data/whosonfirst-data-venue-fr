@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.172919,49.10017,6.172919,49.10017",
     "geom:latitude":49.10017,
     "geom:longitude":6.172919,
@@ -28,9 +29,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_1euXPTIaTIzByczl6APrMO_49.100170_6.172919@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0ce526a99121383b67bc18c81c629ab9",
+    "wof:geomhash":"0ec18365374ceacefeb887708ab28438",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136303717
         }
     ],
     "wof:id":136303717,
-    "wof:lastmodified":1473798028,
+    "wof:lastmodified":1496794301,
     "wof:name":"Cr\u00e9dit Indsutriel D'alsace, Et De Lorraine Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

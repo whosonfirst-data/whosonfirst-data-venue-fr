@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.637712,48.922977,6.637712,48.922977",
     "geom:latitude":48.922977,
     "geom:longitude":6.637712,
@@ -28,9 +29,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762675,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404375053,
+        85633147,
+        1108826391,
+        101762675,
+        136253037,
         102066941
     ],
     "wof:brand_id":420573859,
@@ -39,18 +45,23 @@
         "sg:id":"SG_5awGq1tJ7x920VeZgFa15c_48.922977_6.637712@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21b1cec9b306dbe375457c7875cf6906",
+    "wof:geomhash":"5307e162c9695eb91140cd69f522e292",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066941,
+            "empire_id":136253037,
+            "localadmin_id":404375053,
             "locality_id":101762675,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136298747
         }
     ],
     "wof:id":136298747,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496793797,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

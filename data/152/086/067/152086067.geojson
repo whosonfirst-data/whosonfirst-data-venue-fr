@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.052641,49.959488,4.052641,49.959488",
     "geom:latitude":49.959488,
     "geom:longitude":4.052641,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899941,
-        85633147,
         85683247,
+        102191581,
+        404228269,
+        404426859,
+        85633147,
+        1108826399,
+        101899941,
+        136253037,
         102067553
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4cN4aSjdSp3YLloMDaQkMF_49.959488_4.052641@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca30e079a2ece5dceefbac97c6994306",
+    "wof:geomhash":"2bebb60085283f0f48d53a2c1a1199f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067553,
+            "empire_id":136253037,
+            "localadmin_id":404426859,
             "locality_id":101899941,
+            "macrocounty_id":404228269,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152086067
         }
     ],
     "wof:id":152086067,
-    "wof:lastmodified":1473798121,
+    "wof:lastmodified":1496795507,
     "wof:name":"Filatures De Mondrepuis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

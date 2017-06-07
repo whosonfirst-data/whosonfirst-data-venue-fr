@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.15742,46.173851,-1.15742,46.173851",
     "geom:latitude":46.173851,
     "geom:longitude":-1.15742,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6RRpGQYJDU5hpr4OifDvA7_46.173851_-1.157420@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4825ee17591504694ced98597d2690df",
+    "wof:geomhash":"f8e01df79028105ee740ac0dc5b925e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136295259
         }
     ],
     "wof:id":136295259,
-    "wof:lastmodified":1473797908,
+    "wof:lastmodified":1496777562,
     "wof:name":"Centre Departemental Des Jeunes Agriculteurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

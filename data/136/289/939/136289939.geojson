@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.111343,49.381241,1.111343,49.381241",
     "geom:latitude":49.381241,
     "geom:longitude":1.111343,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751461,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751461,
+        136253037,
         102071971
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7QUz6dmemfijGVw1YLpaOb_49.381241_1.111343@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2f0e6cb9079a1bc167acbf605621051",
+    "wof:geomhash":"a5e937d64a12c86e48662bd2803b012f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071971,
+            "empire_id":136253037,
             "locality_id":101751461,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136289939
         }
     ],
     "wof:id":136289939,
-    "wof:lastmodified":1473797958,
+    "wof:lastmodified":1496804858,
     "wof:name":"Ziegler France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.690433,46.846115,5.690433,46.846115",
     "geom:latitude":46.846115,
     "geom:longitude":5.690433,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766647,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404347741,
+        85633147,
+        1108826395,
+        101766647,
+        136253037,
         102068591
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3phVPbgn1a9FweVKsqoKL9_46.846115_5.690433@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d8e0487b157af11e240358284041d28",
+    "wof:geomhash":"40d4fd1459ff374fe22d60c9da206f9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068591,
+            "empire_id":136253037,
+            "localadmin_id":404347741,
             "locality_id":101766647,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152164563
         }
     ],
     "wof:id":152164563,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496804677,
     "wof:name":"Diager (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

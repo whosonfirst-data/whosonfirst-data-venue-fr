@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.786175,49.093182,3.786175,49.093182",
     "geom:latitude":49.093182,
     "geom:longitude":3.786175,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879855,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404372091,
+        85633147,
+        1108826391,
+        101879855,
+        136253037,
         102065581
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2BG268XjjnVgoIXfG1frBZ_49.093182_3.786175@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56e2c5f18533b8a3c96aaa92d33908c4",
+    "wof:geomhash":"340cc15b5800b2f281bf4939462a4760",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065581,
+            "empire_id":136253037,
+            "localadmin_id":404372091,
             "locality_id":101879855,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073733
         }
     ],
     "wof:id":152073733,
-    "wof:lastmodified":1473798138,
+    "wof:lastmodified":1496785189,
     "wof:name":"Sarl Champagne Godinat Et Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

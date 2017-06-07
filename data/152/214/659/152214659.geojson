@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.316448,47.733086,7.316448,47.733086",
     "geom:latitude":47.733086,
     "geom:longitude":7.316448,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749573,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404228255,
+        1108826391,
+        101749573,
+        136253037,
         102072565
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2Rvm1YVqVClyqr9SUZatcU_47.733086_7.316448@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3cd880d64beee112dbaf1adca4a87ad8",
+    "wof:geomhash":"2a1b68eb385a209943912dfb946e19f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072565,
+            "empire_id":136253037,
             "locality_id":101749573,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152214659
         }
     ],
     "wof:id":152214659,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1496793340,
     "wof:name":"Centre Sportif Regional Alsace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

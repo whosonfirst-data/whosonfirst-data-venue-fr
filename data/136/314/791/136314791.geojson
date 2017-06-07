@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.737442,48.447815,6.737442,48.447815",
     "geom:latitude":48.447815,
     "geom:longitude":6.737442,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763969,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404348627,
+        85633147,
+        1108826391,
+        101763969,
+        136253037,
         102064747
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_11grdq49y6IzcfGhvnkSYC_48.447815_6.737442@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dfb83f63cba32b929a899cc6ac08a9a8",
+    "wof:geomhash":"d3a2599dabd837ed0e5e1f8d37790059",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064747,
+            "empire_id":136253037,
+            "localadmin_id":404348627,
             "locality_id":101763969,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136314791
         }
     ],
     "wof:id":136314791,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496794418,
     "wof:name":"Association Dames De La Charite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.040919,45.801811,-1.040919,45.801811",
     "geom:latitude":45.801811,
     "geom:longitude":-1.040919,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768311,
-        85633147,
         85683275,
+        102191581,
+        404227833,
+        404359063,
+        85633147,
+        1108826385,
+        101768311,
+        136253037,
         102066855
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4d2o8eLk5GkAsM1vYQhr0q_45.801811_-1.040919@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7626d54a0f76a9f7e2bda6dd5ba56eed",
+    "wof:geomhash":"2283a041d97ea0ab1dcbb77f0a80f889",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066855,
+            "empire_id":136253037,
+            "localadmin_id":404359063,
             "locality_id":101768311,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152127127
         }
     ],
     "wof:id":152127127,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496776282,
     "wof:name":"Les Huttes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

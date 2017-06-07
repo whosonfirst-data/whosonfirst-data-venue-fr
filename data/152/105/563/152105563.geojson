@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.44164,48.028229,5.44164,48.028229",
     "geom:latitude":48.028229,
     "geom:longitude":5.44164,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885981,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404408913,
+        85633147,
+        1108826391,
+        101885981,
+        136253037,
         102068173
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3rhBKMHiifORwum4NVn5QC_48.028229_5.441640@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bbdf545260ec5cb2a9913bea7d88fd53",
+    "wof:geomhash":"0ac46886c1f02be19df491b8e1842563",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068173,
+            "empire_id":136253037,
+            "localadmin_id":404408913,
             "locality_id":101885981,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152105563
         }
     ],
     "wof:id":152105563,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496784154,
     "wof:name":"Martin Philippe Eurl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

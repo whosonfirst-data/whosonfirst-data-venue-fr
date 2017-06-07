@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.835548,46.310303,4.835548,46.310303",
     "geom:latitude":46.310303,
     "geom:longitude":4.835548,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7X5IpXeXSj1rJOmOoPm79D_46.310303_4.835548@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"596f2dcc70670f25bac3bdae50f4cf55",
+    "wof:geomhash":"ee5a626fadc9e610326f50c9ded65ea1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152870883
         }
     ],
     "wof:id":152870883,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496788616,
     "wof:name":"Seef Emballages (seef)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.657604,46.269024,5.657604,46.269024",
     "geom:latitude":46.269024,
     "geom:longitude":5.657604,
@@ -28,9 +29,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_4d351seHCA8mG4hVoWeH7O_46.269024_5.657604@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d9f2d3ba2e2482fde9875675a00eecc6",
+    "wof:geomhash":"797f25e98aeb77705b78dc2ed40afe05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152888829
         }
     ],
     "wof:id":152888829,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496781904,
     "wof:name":"Alplast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

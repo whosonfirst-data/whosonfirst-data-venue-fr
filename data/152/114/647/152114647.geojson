@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.919292,47.396652,2.919292,47.396652",
     "geom:latitude":47.396652,
     "geom:longitude":2.919292,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765535,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404351389,
+        85633147,
+        1108826395,
+        101765535,
+        136253037,
         102072381
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6vZ6RJ4TtGnqv76j3f3rY8_47.396652_2.919292@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3c7e6ddedda41f8c83a254d325132bf5",
+    "wof:geomhash":"6eb83c785e466f00ea4c391ada4ff5fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072381,
+            "empire_id":136253037,
+            "localadmin_id":404351389,
             "locality_id":101765535,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152114647
         }
     ],
     "wof:id":152114647,
-    "wof:lastmodified":1473798276,
+    "wof:lastmodified":1496788568,
     "wof:name":"Vast Sa Autodistribution Vast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

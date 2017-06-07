@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.769889,46.905674,5.769889,46.905674",
     "geom:latitude":46.905674,
     "geom:longitude":5.769889,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766643,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404420551,
+        85633147,
+        1108826395,
+        101766643,
+        136253037,
         102064331
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6jo1TaSUc4aVI5SEel5U00_46.905674_5.769889@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"91377aa3cf98ffcb69472b83eef8623b",
+    "wof:geomhash":"eca7abc2d53c941881faee42d103949c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064331,
+            "empire_id":136253037,
+            "localadmin_id":404420551,
             "locality_id":101766643,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152072513
         }
     ],
     "wof:id":152072513,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496788585,
     "wof:name":"Domaine Jacques Tissot Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

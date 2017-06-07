@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.073094,49.09045,-1.073094,49.09045",
     "geom:latitude":49.09045,
     "geom:longitude":-1.073094,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101878181,
-        85633147,
         85683489,
+        102191581,
+        404228235,
+        404376415,
+        85633147,
+        1108826393,
+        101878181,
+        136253037,
         102070601
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0QvJdkm5n4TlW0hst7ildx_49.090450_-1.073094@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3478e8dfd5a3a253ca7ff37136011ac7",
+    "wof:geomhash":"ce2e1a74cf12397f6372e6442468a63e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070601,
+            "empire_id":136253037,
+            "localadmin_id":404376415,
             "locality_id":101878181,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136277437
         }
     ],
     "wof:id":136277437,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496803347,
     "wof:name":"Fiduciaire Juridique Et Fiscale De France Fidal (fjff) Fidal",
-    "wof:parent_id":101878181,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

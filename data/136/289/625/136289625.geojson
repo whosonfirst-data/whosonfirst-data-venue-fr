@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.209476,48.648979,6.209476,48.648979",
     "geom:latitude":48.648979,
     "geom:longitude":6.209476,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750119,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404382171,
+        85633147,
+        1108826391,
+        101750119,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2LaQf98GBKUILAwJCKU4Cw_48.648979_6.209476@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"179890d9d1619e32a936620cab9107b4",
+    "wof:geomhash":"85027fe018f7d6d925c4576f4a979d1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404382171,
             "locality_id":101750119,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136289625
         }
     ],
     "wof:id":136289625,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496784355,
     "wof:name":"Orditec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

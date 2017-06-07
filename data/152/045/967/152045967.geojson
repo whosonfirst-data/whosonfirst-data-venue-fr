@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.769866,45.751148,4.769866,45.751148",
     "geom:latitude":45.751148,
     "geom:longitude":4.769866,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750815,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404382673,
+        85633147,
+        1108826389,
+        101750815,
+        136253037,
         102071597
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3xIw6lI3GNITq8vCY0hii4_45.751148_4.769866@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1d8ce1f437ce6fee953849569bf33c9f",
+    "wof:geomhash":"fe1b8bc95c6dffef6a82b7dd44f93a7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071597,
+            "empire_id":136253037,
+            "localadmin_id":404382673,
             "locality_id":101750815,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152045967
         }
     ],
     "wof:id":152045967,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496780343,
     "wof:name":"I C L Institut Commercial Lyonnais Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

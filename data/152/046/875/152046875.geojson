@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.529872,50.723537,2.529872,50.723537",
     "geom:latitude":50.723537,
     "geom:longitude":2.529872,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811331,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101811331,
+        136253037,
         102071935
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4xrqRW8DEDR9QalChOZ44t_50.723537_2.529872@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8819597079a147823a232cc00b0cfd03",
+    "wof:geomhash":"5e2ab4cd26df5dc86cf208704bce4f3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071935,
+            "empire_id":136253037,
             "locality_id":101811331,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152046875
         }
     ],
     "wof:id":152046875,
-    "wof:lastmodified":1473797946,
+    "wof:lastmodified":1496790237,
     "wof:name":"Ogec Saint Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

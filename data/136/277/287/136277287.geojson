@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.444284,44.913403,2.444284,44.913403",
     "geom:latitude":44.913403,
     "geom:longitude":2.444284,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830499,
-        85633147,
         85683517,
+        102191581,
+        85633147,
+        404227617,
+        1108826389,
+        101830499,
+        136253037,
         102072235
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_48zM6eXRBCqAdCGKcOIGTf_44.913403_2.444284@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56389c5a35045479e0f9baa5ac56fcc9",
+    "wof:geomhash":"b77b02c422ee977265d85a1b612077cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072235,
+            "empire_id":136253037,
             "locality_id":101830499,
+            "macrocounty_id":404227617,
+            "macroregion_id":1108826389,
             "region_id":85683517,
             "venue_id":136277287
         }
     ],
     "wof:id":136277287,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496806405,
     "wof:name":"Fidal Scp",
-    "wof:parent_id":101830499,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

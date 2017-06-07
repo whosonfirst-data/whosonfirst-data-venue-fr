@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.154304,49.349453,6.154304,49.349453",
     "geom:latitude":49.349453,
     "geom:longitude":6.154304,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757353,
-        85633147,
         85683271,
+        102191581,
+        85633147,
+        404228309,
+        1108826391,
+        101757353,
+        136253037,
         102072221
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_49AGTJ2375ZB463blh1mwA_49.349453_6.154304@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f3ad79d34ac72b5bebd13254e79cd00",
+    "wof:geomhash":"8a6c176a5bcdd0df2a067cc860bc6354",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072221,
+            "empire_id":136253037,
             "locality_id":101757353,
+            "macrocounty_id":404228309,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152198063
         }
     ],
     "wof:id":152198063,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1496785764,
     "wof:name":"Jean Huart Et Cie (ste) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

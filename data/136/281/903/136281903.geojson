@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.15497,47.63549,6.15497,47.63549",
     "geom:latitude":47.63549,
     "geom:longitude":6.15497,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829471,
-        85633147,
         85683559,
+        102191581,
+        85633147,
+        404227951,
+        1108826395,
+        101829471,
+        136253037,
         102072073
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4epQKyq3ZjpYUghQa4KOei_47.635490_6.154970@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a1402fbc0eac670eab201a194080118",
+    "wof:geomhash":"e6687f7707a136084fc857cb7cc00d7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072073,
+            "empire_id":136253037,
             "locality_id":101829471,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":136281903
         }
     ],
     "wof:id":136281903,
-    "wof:lastmodified":1473797946,
+    "wof:lastmodified":1496788476,
     "wof:name":"Delta Diffusion Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

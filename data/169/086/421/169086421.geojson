@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.593548,49.204189,2.593548,49.204189",
     "geom:latitude":49.204189,
     "geom:longitude":2.593548,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ZdQZYESYedq3W2U3Jmn0N_49.204189_2.593548@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d28a5ab6e0013c36b11c5f5cd45c718",
+    "wof:geomhash":"23b1b153e082a1e1b64c61e1291b4c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169086421
         }
     ],
     "wof:id":169086421,
-    "wof:lastmodified":1473798058,
+    "wof:lastmodified":1496792048,
     "wof:name":"Panification Moderne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

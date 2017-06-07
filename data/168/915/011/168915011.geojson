@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.530396,43.529213,1.530396,43.529213",
     "geom:latitude":43.529213,
     "geom:longitude":1.530396,
@@ -23,16 +24,39 @@
     "sg:postcode":"31670",
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        404396295,
+        85633147,
+        1108826387,
+        101749245,
+        136253037,
+        102066151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C9gr3xVV0VUcQs2OyldaR_43.529213_1.530396@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcf5ed378b05baa5131ca97474a46289",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c93c02b4a9027b2118a4c161ec88902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066151,
+            "empire_id":136253037,
+            "localadmin_id":404396295,
+            "locality_id":101749245,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397,
+            "venue_id":168915011
+        }
+    ],
     "wof:id":168915011,
-    "wof:lastmodified":1473798081,
+    "wof:lastmodified":1496778771,
     "wof:name":"E.g.g. Solustion S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.060933,46.044205,4.060933,46.044205",
     "geom:latitude":46.044205,
     "geom:longitude":4.060933,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7SmjALzzdTOZFLxW1XTuC8_46.044205_4.060933@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"75a24ddc26a25a3eea6958ef1a01aab2",
+    "wof:geomhash":"80f9f3718aa4a9c5cbcb649f7642ed9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152059657
         }
     ],
     "wof:id":152059657,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496800111,
     "wof:name":"Atout Maille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

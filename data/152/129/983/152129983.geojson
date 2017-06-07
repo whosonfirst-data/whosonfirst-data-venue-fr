@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.323835,43.314365,-0.323835,43.314365",
     "geom:latitude":43.314365,
     "geom:longitude":-0.323835,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4sQQYWvDqJHOkhHDdBwjV0_43.314365_-0.323835@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c16b03d8d8b4c696a35c58029664b641",
+    "wof:geomhash":"d24ba0e0ad474201f9964bdaf854760a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152129983
         }
     ],
     "wof:id":152129983,
-    "wof:lastmodified":1473798292,
+    "wof:lastmodified":1496776884,
     "wof:name":"Spm Ste Pyreneenne De Metallurgie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.052913,47.324585,5.052913,47.324585",
     "geom:latitude":47.324585,
     "geom:longitude":5.052913,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6NeNheeF2feGuXK8qcn4HB_47.324585_5.052913@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"22e48cf7d39adba66c036e2a7d1cec09",
+    "wof:geomhash":"ca5e755643b962d01c595dd23412b98f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136276887
         }
     ],
     "wof:id":136276887,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496794889,
     "wof:name":"Ctre Gestion Agree Exploitants Agricoles",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

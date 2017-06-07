@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.224116,43.268326,3.224116,43.268326",
     "geom:latitude":43.268326,
     "geom:longitude":3.224116,
@@ -23,9 +24,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773703,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404351671,
+        85633147,
+        1108826387,
+        101773703,
+        136253037,
         102070931
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0XUfHYJ5xv9PLOrjqktpFF_43.268326_3.224116@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6327a728b965689c323b37f68a4d783d",
+    "wof:geomhash":"faae89caba90be04cf62dc5d7ac60155",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070931,
+            "empire_id":136253037,
+            "localadmin_id":404351671,
             "locality_id":101773703,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152232139
         }
     ],
     "wof:id":152232139,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496799366,
     "wof:name":"A 2 Ing\u00e9nierie S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

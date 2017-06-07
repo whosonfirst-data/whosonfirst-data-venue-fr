@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.542252,41.05164,-73.542252,41.05164",
     "geom:latitude":41.05164,
     "geom:longitude":-73.542252,
@@ -22,11 +23,13 @@
     "sg:province":"Connecticut",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85881169,
+        102191575,
+        404495855,
         85633793,
         85930787,
         102084283,
-        85881169
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,8 +39,10 @@
     "wof:geomhash":"5f00b973734454e6a7cea55486480544",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495855,
             "locality_id":85930787,
             "neighbourhood_id":85881169,
             "region_id":85688629,
@@ -45,7 +50,7 @@
         }
     ],
     "wof:id":152752919,
-    "wof:lastmodified":1473798520,
+    "wof:lastmodified":1492028851,
     "wof:name":"Secap S.a.",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

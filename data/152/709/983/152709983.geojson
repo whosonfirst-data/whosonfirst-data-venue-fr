@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.036125,50.371975,2.036125,50.371975",
     "geom:latitude":50.371975,
     "geom:longitude":2.036125,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840473,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404382247,
+        85633147,
+        1108826399,
+        101840473,
+        136253037,
         102069233
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5UrB3t4Y81HB6g0YzKLJbW_50.371975_2.036125@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a4572c8a918e6883a9631be95195d276",
+    "wof:geomhash":"5c2e48d2dba8e00847e0fcff16dd82fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069233,
+            "empire_id":136253037,
+            "localadmin_id":404382247,
             "locality_id":101840473,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152709983
         }
     ],
     "wof:id":152709983,
-    "wof:lastmodified":1473798499,
+    "wof:lastmodified":1496797230,
     "wof:name":"Ryssen Distilleries S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

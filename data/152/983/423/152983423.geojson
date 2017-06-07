@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.805887,46.181763,2.805887,46.181763",
     "geom:latitude":46.181763,
     "geom:longitude":2.805887,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766269,
-        85633147,
         85683471,
+        102191581,
+        404228251,
+        404384213,
+        85633147,
+        1108826389,
+        101766269,
+        136253037,
         102069235
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2vFa678jSa8iWf012MXADe_46.181763_2.805887@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80b669e0a283cfeaf3b5196315d48a0e",
+    "wof:geomhash":"db87502f8410f0c303b8dc975e48c0e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069235,
+            "empire_id":136253037,
+            "localadmin_id":404384213,
             "locality_id":101766269,
+            "macrocounty_id":404228251,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152983423
         }
     ],
     "wof:id":152983423,
-    "wof:lastmodified":1473798593,
+    "wof:lastmodified":1496779285,
     "wof:name":"Socamont Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

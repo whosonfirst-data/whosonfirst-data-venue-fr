@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.102444,50.706242,3.102444,50.706242",
     "geom:latitude":50.706242,
     "geom:longitude":3.102444,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753605,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404414497,
+        85633147,
+        1108826399,
+        101753605,
+        136253037,
         102071841
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7FE86w2xsEqFxmcRY44MI7_50.706242_3.102444@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b48b5c639666a102c7038245c7592369",
+    "wof:geomhash":"4bce9a97595c7ce8e231f478b6963744",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071841,
+            "empire_id":136253037,
+            "localadmin_id":404414497,
             "locality_id":101753605,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152105439
         }
     ],
     "wof:id":152105439,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496791124,
     "wof:name":"Royer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

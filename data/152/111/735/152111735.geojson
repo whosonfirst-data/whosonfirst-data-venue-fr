@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.483187,46.372089,6.483187,46.372089",
     "geom:latitude":46.372089,
     "geom:longitude":6.483187,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3RXuuPDtqCAXkLZHj3ET0d_46.372089_6.483187@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"85b9a8c5efe074249d447c08d51e8d2c",
+    "wof:geomhash":"2e2e018251e6192b3393ff6e67b868c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152111735
         }
     ],
     "wof:id":152111735,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496780630,
     "wof:name":"Sarl Deflon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

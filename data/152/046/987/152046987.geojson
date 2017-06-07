@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.375037,43.314125,-0.375037,43.314125",
     "geom:latitude":43.314125,
     "geom:longitude":-0.375037,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3jZw0oBiwuQ52pITjSpKJg_43.314125_-0.375037@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee176d3291cfbe4c845304d9b6161000",
+    "wof:geomhash":"0673f892a9918f1b1675e5940a00998b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152046987
         }
     ],
     "wof:id":152046987,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496775717,
     "wof:name":"Saint Dominique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

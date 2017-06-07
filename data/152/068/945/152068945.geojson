@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.752732,48.555107,6.752732,48.555107",
     "geom:latitude":48.555107,
     "geom:longitude":6.752732,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883833,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404364291,
+        85633147,
+        1108826391,
+        101883833,
+        136253037,
         102065313
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6PBb0pCwZETJUJodG1Qu54_48.555107_6.752732@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fef6e4b5f958ac8b7b38e922051a83b",
+    "wof:geomhash":"764b8a4e995ae165f24c38167cbc4e72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065313,
+            "empire_id":136253037,
+            "localadmin_id":404364291,
             "locality_id":101883833,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152068945
         }
     ],
     "wof:id":152068945,
-    "wof:lastmodified":1473798097,
+    "wof:lastmodified":1496793830,
     "wof:name":"Cooperative Laitiere De Blamont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

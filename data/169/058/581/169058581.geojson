@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.549796,46.134251,5.549796,46.134251",
     "geom:latitude":46.134251,
     "geom:longitude":5.549796,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768189,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404369455,
+        85633147,
+        1108826389,
+        101768189,
+        136253037,
         102068489
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3gUQYiv629nIiEy66UzGaR_46.134251_5.549796@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0537a766df1708feaffac2d3e7e00b6f",
+    "wof:geomhash":"233df47928b6d94fb7fe32405b3afd03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068489,
+            "empire_id":136253037,
+            "localadmin_id":404369455,
             "locality_id":101768189,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":169058581
         }
     ],
     "wof:id":169058581,
-    "wof:lastmodified":1473798032,
+    "wof:lastmodified":1496779744,
     "wof:name":"Menuiserie Pascal Tounier S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

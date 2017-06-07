@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.093005,47.31152,5.093005,47.31152",
     "geom:latitude":47.31152,
     "geom:longitude":5.093005,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753313,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404365881,
+        85633147,
+        1108826395,
+        101753313,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3TFj2ZjYcEKtYWyMi4JGm3_47.311520_5.093005@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1d03bc8352c25e25f0dd2a87c9a8b834",
+    "wof:geomhash":"dd47eb7d9f38b6d4f7e098b6e542e729",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404365881,
             "locality_id":101753313,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152917687
         }
     ],
     "wof:id":152917687,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496794752,
     "wof:name":"Scop Prod Anonyme Capit Var Altern Econo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

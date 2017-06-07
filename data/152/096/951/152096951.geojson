@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.915406,45.70731,5.915406,45.70731",
     "geom:latitude":45.70731,
     "geom:longitude":5.915406,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_4qFSBdj9Tt1PTDAlgPFwPy_45.707310_5.915406@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0139fb6ea33cfb4f405a7140d42b5f1a",
+    "wof:geomhash":"13981febc4009b76893e9cebc3388ee8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152096951
         }
     ],
     "wof:id":152096951,
-    "wof:lastmodified":1473798210,
+    "wof:lastmodified":1496800154,
     "wof:name":"Brasserie Des Cimes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855275,45.707005,4.855275,45.707005",
     "geom:latitude":45.707005,
     "geom:longitude":4.855275,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750797,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404381123,
+        85633147,
+        1108826389,
+        101750797,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4aA2lztqYz9Itiu8I1kWMT_45.707005_4.855275@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58999a3cc7f62ed00c75a1e08ffa69ac",
+    "wof:geomhash":"4ccb5c9aaf2bd094057ecbd350d04d2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404381123,
             "locality_id":101750797,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169115599
         }
     ],
     "wof:id":169115599,
-    "wof:lastmodified":1473798112,
+    "wof:lastmodified":1496780179,
     "wof:name":"Rhodia Chimie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

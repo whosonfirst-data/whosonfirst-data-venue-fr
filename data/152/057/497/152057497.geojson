@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.375924,51.021851,2.375924,51.021851",
     "geom:latitude":51.021851,
     "geom:longitude":2.375924,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750235,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404424343,
+        85633147,
+        1108826399,
+        101750235,
+        136253037,
         102071851
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1ajqtZvotIz5luHM0jsWpq_51.021851_2.375924@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"00662fbd9d99c5339bc8b40de0c1c9c1",
+    "wof:geomhash":"d6b27ff2f09b02df5914e27c7f466c7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071851,
+            "empire_id":136253037,
+            "localadmin_id":404424343,
             "locality_id":101750235,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152057497
         }
     ],
     "wof:id":152057497,
-    "wof:lastmodified":1473797930,
+    "wof:lastmodified":1496792647,
     "wof:name":"Alliance Sante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

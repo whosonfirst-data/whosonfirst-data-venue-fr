@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.038213,49.266827,4.038213,49.266827",
     "geom:latitude":49.266827,
     "geom:longitude":4.038213,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1TZ6jF2dlGafglquUzCE5K_49.266827_4.038213@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"97cb966502b03ee8e95ab0bf081ff5c6",
+    "wof:geomhash":"2b6cdc7030b57f43027c6f629a1e961d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152060831
         }
     ],
     "wof:id":152060831,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496785155,
     "wof:name":"Fiprotec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

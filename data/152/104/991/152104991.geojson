@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.088883,46.066422,-1.088883,46.066422",
     "geom:latitude":46.066422,
     "geom:longitude":-1.088883,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829169,
-        85633147,
         85683275,
+        102191581,
+        404228037,
+        404410441,
+        85633147,
+        1108826385,
+        101829169,
+        136253037,
         102071415
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_4nl0vtjaJ3Ko2hLeAIYvpw_46.066422_-1.088883@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6255273e32dae5f86363dca6754d8767",
+    "wof:geomhash":"6357393b446d533f0cef14059a01f7c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071415,
+            "empire_id":136253037,
+            "localadmin_id":404410441,
             "locality_id":101829169,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152104991
         }
     ],
     "wof:id":152104991,
-    "wof:lastmodified":1473798256,
+    "wof:lastmodified":1496775530,
     "wof:name":"Thyssen Krupp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

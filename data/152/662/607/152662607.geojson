@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.377767,46.574493,0.377767,46.574493",
     "geom:latitude":46.574493,
     "geom:longitude":0.377767,
@@ -23,9 +24,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -33,18 +38,22 @@
         "sg:id":"SG_4AUo1sbYyK9JBbT0xquYBi_46.574493_0.377767@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"619a32f3782f6adde11f79e9ec0c0b5f",
+    "wof:geomhash":"5946e19acaa010753e430440a98e74d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152662607
         }
     ],
     "wof:id":152662607,
-    "wof:lastmodified":1473798475,
+    "wof:lastmodified":1496777262,
     "wof:name":"Parent Ing\u00e9nierie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

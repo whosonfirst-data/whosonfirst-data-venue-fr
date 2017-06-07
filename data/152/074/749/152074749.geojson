@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.564318,48.375156,0.564318,48.375156",
     "geom:latitude":48.375156,
     "geom:longitude":0.564318,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762609,
-        85633147,
         85683527,
+        102191581,
+        404228129,
+        404356043,
+        85633147,
+        1108826393,
+        101762609,
+        136253037,
         102065377
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5W3WOMg2SePK1APG1sYKqT_48.375156_0.564318@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bb368c6489a186676de195bbe07e08ce",
+    "wof:geomhash":"66b1ba802f6dacfe36cdd4209d377084",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065377,
+            "empire_id":136253037,
+            "localadmin_id":404356043,
             "locality_id":101762609,
+            "macrocounty_id":404228129,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152074749
         }
     ],
     "wof:id":152074749,
-    "wof:lastmodified":1473798138,
+    "wof:lastmodified":1496803234,
     "wof:name":"Cig (circuits Imprimes) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

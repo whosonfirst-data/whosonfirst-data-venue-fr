@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.295984,47.745777,7.295984,47.745777",
     "geom:latitude":47.745777,
     "geom:longitude":7.295984,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749573,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404228255,
+        1108826391,
+        101749573,
+        136253037,
         102072565
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_13kfvLBfCxauAC2s3Y9YL7_47.745777_7.295984@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae9e01ff8ea041ac3f92167b90e7b22b",
+    "wof:geomhash":"089b848f7f999b11d9de2359f5a31831",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072565,
+            "empire_id":136253037,
             "locality_id":101749573,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136277833
         }
     ],
     "wof:id":136277833,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496793342,
     "wof:name":"Group Organisme Credit Mutuel (gtocm)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

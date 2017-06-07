@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.777418,45.809166,4.777418,45.809166",
     "geom:latitude":45.809166,
     "geom:longitude":4.777418,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749427,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404354341,
+        85633147,
+        1108826389,
+        101749427,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1cpCZLmN95OyqiORPs7hpj_45.809166_4.777418@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09af08a4302766feb494d79f293840d8",
+    "wof:geomhash":"69b699de959a3dcfd311c96c6378db08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404354341,
             "locality_id":101749427,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152050043
         }
     ],
     "wof:id":152050043,
-    "wof:lastmodified":1473797865,
+    "wof:lastmodified":1496780293,
     "wof:name":"Techlid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

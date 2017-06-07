@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.764042,45.804581,4.764042,45.804581",
     "geom:latitude":45.804581,
     "geom:longitude":4.764042,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749399,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415697,
+        85633147,
+        1108826389,
+        101749399,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ecFxKB41VKhceUOzYWsKr_45.804581_4.764042@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab5dc93284202d923cbc947bb89d4061",
+    "wof:geomhash":"36ddec620df1f5a7422e68f3e2aa788b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404415697,
             "locality_id":101749399,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152478283
         }
     ],
     "wof:id":152478283,
-    "wof:lastmodified":1473798426,
+    "wof:lastmodified":1496781102,
     "wof:name":"Firex Cabinet Burnichon Fournier & Assoc S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.037173,45.79274,5.037173,45.79274",
     "geom:latitude":45.79274,
     "geom:longitude":5.037173,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753229,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404416599,
+        85633147,
+        1108826389,
+        101753229,
+        136253037,
         102070729
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1SYT2oOXVYGvWOH9fW6Nm3_45.792740_5.037173@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"41bdac7aff347b1ee15bed1f0fc833ff",
+    "wof:geomhash":"c9aaf1f0f833e64503e76d4c92be675e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070729,
+            "empire_id":136253037,
+            "localadmin_id":404416599,
             "locality_id":101753229,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152183859
         }
     ],
     "wof:id":152183859,
-    "wof:lastmodified":1473798317,
+    "wof:lastmodified":1496801616,
     "wof:name":"Sarl Chavancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

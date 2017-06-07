@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887314,44.947044,4.887314,44.947044",
     "geom:latitude":44.947044,
     "geom:longitude":4.887314,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748961,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404372845,
+        85633147,
+        1108826389,
+        101748961,
+        136253037,
         102070171
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1vPxCcLctFQGtxh648w06A_44.947044_4.887314@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f17764d5bebff678095a2c18434e8ba",
+    "wof:geomhash":"da98fd9e27e5d8b51233a8cd5cffc0a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070171,
+            "empire_id":136253037,
+            "localadmin_id":404372845,
             "locality_id":101748961,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":169001399
         }
     ],
     "wof:id":169001399,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496780583,
     "wof:name":"Incodec S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

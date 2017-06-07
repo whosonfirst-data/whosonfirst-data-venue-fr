@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.036559,47.324932,5.036559,47.324932",
     "geom:latitude":47.324932,
     "geom:longitude":5.036559,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1wtG6T7EtWPq45Amxu3cZu_47.324932_5.036559@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ea6a4b6704ca9d8587381b8080f53f0",
+    "wof:geomhash":"54b08804d6ab41823fbda16c5eb03691",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136295705
         }
     ],
     "wof:id":136295705,
-    "wof:lastmodified":1473797946,
+    "wof:lastmodified":1496789069,
     "wof:name":"Mat Mut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

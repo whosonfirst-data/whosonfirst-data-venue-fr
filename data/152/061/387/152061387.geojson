@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.062181,46.043858,4.062181,46.043858",
     "geom:latitude":46.043858,
     "geom:longitude":4.062181,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6owdztmM9ACNQtJVuVVJx8_46.043858_4.062181@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bcc05f543d5a86494210ddc09e88ddbc",
+    "wof:geomhash":"b362b75bcc448205091cc3e80c44af8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152061387
         }
     ],
     "wof:id":152061387,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496783280,
     "wof:name":"Le Tricot Brode Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

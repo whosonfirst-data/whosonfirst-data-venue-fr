@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.171627,46.67342,0.171627,46.67342",
     "geom:latitude":46.67342,
     "geom:longitude":0.171627,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890329,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404416621,
+        85633147,
+        1108826385,
+        101890329,
+        136253037,
         102067931
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6B2Av9qqHwGQr0b5494wEe_46.673420_0.171627@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a8a1258c4d9a1edd9d25a911e656cb2",
+    "wof:geomhash":"f79cf5e311a405ea7c2f12a82be6d7c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067931,
+            "empire_id":136253037,
+            "localadmin_id":404416621,
             "locality_id":101890329,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152131295
         }
     ],
     "wof:id":152131295,
-    "wof:lastmodified":1473798288,
+    "wof:lastmodified":1496776065,
     "wof:name":"Ag Froid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

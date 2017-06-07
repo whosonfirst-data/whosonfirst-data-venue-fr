@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.44734,49.1022,1.44734,49.1022",
     "geom:latitude":49.1022,
     "geom:longitude":1.44734,
@@ -27,28 +28,38 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828345,
-        85633147,
         85683283,
-        102070663
+        102191581,
+        404228055,
+        404361533,
+        85633147,
+        1108826393,
+        101828345,
+        136253037,
+        102072193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VdbyYRi8QDres8coeh8Ih_49.102200_1.447340@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33a2d02ac0bd77b9c77d9d17b565b7ad",
+    "wof:geomhash":"91f1424bbb8f9b62267e60b0fb3a4aab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070663,
+            "county_id":102072193,
+            "empire_id":136253037,
+            "localadmin_id":404361533,
             "locality_id":101828345,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152889681
         }
     ],
     "wof:id":152889681,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496787693,
     "wof:name":"Condi Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

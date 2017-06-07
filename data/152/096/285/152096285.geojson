@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.23552,49.913601,2.23552,49.913601",
     "geom:latitude":49.913601,
     "geom:longitude":2.23552,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753591,
-        85633147,
         85683363,
-        102072477
+        102191581,
+        404227973,
+        404356965,
+        85633147,
+        1108826399,
+        101753591,
+        136253037,
+        102065555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rd50WeALqjL3Pi8veTRYB_49.913601_2.235520@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9606e76c8e1fec6b626a33ce5584397f",
+    "wof:geomhash":"7c1086f7dca87521109b341c32f755fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072477,
+            "county_id":102065555,
+            "empire_id":136253037,
+            "localadmin_id":404356965,
             "locality_id":101753591,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152096285
         }
     ],
     "wof:id":152096285,
-    "wof:lastmodified":1473798181,
+    "wof:lastmodified":1496791333,
     "wof:name":"Usine De Salaisons La Francaise Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

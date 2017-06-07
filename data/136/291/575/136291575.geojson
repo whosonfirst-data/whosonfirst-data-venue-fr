@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.534558,45.16066,1.534558,45.16066",
     "geom:latitude":45.16066,
     "geom:longitude":1.534558,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830659,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404350285,
+        85633147,
+        1108826385,
+        101830659,
+        136253037,
         102072241
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6eLVYXDVephUJXCvygoQkZ_45.160660_1.534558@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"46ec8e604eee73eb2e9a4d4c4a553feb",
+    "wof:geomhash":"dbcbe02c50d009550c51848de3f0b449",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072241,
+            "empire_id":136253037,
+            "localadmin_id":404350285,
             "locality_id":101830659,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":136291575
         }
     ],
     "wof:id":136291575,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496776441,
     "wof:name":"Royal Canin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

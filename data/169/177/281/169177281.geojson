@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.373241,46.689304,0.373241,46.689304",
     "geom:latitude":46.689304,
     "geom:longitude":0.373241,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829367,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404418073,
+        85633147,
+        1108826385,
+        101829367,
+        136253037,
         102068673
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5PZoEFmUtYd5jMNvqYiewJ_46.689304_0.373241@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0b30088f2d09a718c57c646e3d3ec16",
+    "wof:geomhash":"d97152893fa638f5480f2910a4cdd1dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068673,
+            "empire_id":136253037,
+            "localadmin_id":404418073,
             "locality_id":101829367,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169177281
         }
     ],
     "wof:id":169177281,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1496777044,
     "wof:name":"Somtec France S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.76396,45.75861,0.76396,45.75861",
     "geom:latitude":45.75861,
     "geom:longitude":0.76396,
@@ -32,24 +33,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683531,
+        102191581,
         85633147,
-        85683531
+        404364791,
+        404228177,
+        1108826385,
+        136253037,
+        102068479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wQ95AfAzRpikvyD8DZTyU_45.758610_0.763960@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c25230bf934ece768168fa5b8fdaa2f",
+    "wof:geomhash":"2fe0ba508ef185237d2ea946af00db9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102068479,
+            "empire_id":136253037,
+            "localadmin_id":404364791,
+            "locality_id":-1,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152045427
         }
     ],
     "wof:id":152045427,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496775642,
     "wof:name":"College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

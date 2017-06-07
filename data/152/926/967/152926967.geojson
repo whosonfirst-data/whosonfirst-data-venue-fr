@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.279937,48.085457,3.279937,48.085457",
     "geom:latitude":48.085457,
     "geom:longitude":3.279937,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763287,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404347711,
+        85633147,
+        1108826395,
+        101763287,
+        136253037,
         102070799
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3cEvzfacQPy4xcgHjmh7Mz_48.085457_3.279937@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2a81a38fee26d31e43a9ce07474cb8f",
+    "wof:geomhash":"70325e6f25551b06e41a3a0e0e81d129",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070799,
+            "empire_id":136253037,
+            "localadmin_id":404347711,
             "locality_id":101763287,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152926967
         }
     ],
     "wof:id":152926967,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496788145,
     "wof:name":"Imprimerie Leroyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

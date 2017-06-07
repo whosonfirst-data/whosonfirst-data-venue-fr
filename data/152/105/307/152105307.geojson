@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93572,45.781319,4.93572,45.781319",
     "geom:latitude":45.781319,
     "geom:longitude":4.93572,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6VHoHD30In86IRAvKls26w_45.781319_4.935720@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"19d32ce9eb3a1c0bb0a98cd030fa558e",
+    "wof:geomhash":"fab0f87dbc25682202ba552000610351",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152105307
         }
     ],
     "wof:id":152105307,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496780205,
     "wof:name":"Tracelec S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

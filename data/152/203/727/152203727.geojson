@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.854443,49.736938,4.854443,49.736938",
     "geom:latitude":49.736938,
     "geom:longitude":4.854443,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840279,
-        85633147,
         85683309,
+        102191581,
+        404228017,
+        404425081,
+        85633147,
+        1108826391,
+        101840279,
+        136253037,
         102070657
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6Npu4lU68t4wI8ISgXIQPw_49.736938_4.854443@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a26eaf826aec3e46130d965cb25caa1",
+    "wof:geomhash":"bc90415f7f8987c7e970c8826c0b2f55",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070657,
+            "empire_id":136253037,
+            "localadmin_id":404425081,
             "locality_id":101840279,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152203727
         }
     ],
     "wof:id":152203727,
-    "wof:lastmodified":1473798322,
+    "wof:lastmodified":1496805291,
     "wof:name":"Jardinier Massard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

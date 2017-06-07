@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.246452,44.912979,-0.246452,44.912979",
     "geom:latitude":44.912979,
     "geom:longitude":-0.246452,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770705,
-        85633147,
         85683243,
+        102191581,
+        404228275,
+        404349693,
+        85633147,
+        1108826385,
+        101770705,
+        136253037,
         102069917
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2KuszGYuqNRG4aqE440bCy_44.912979_-0.246452@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e3679066a474c5828217e10ee8ae96a4",
+    "wof:geomhash":"1b0f0eadd1d1f3c45cbeab8fcc35cf70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069917,
+            "empire_id":136253037,
+            "localadmin_id":404349693,
             "locality_id":101770705,
+            "macrocounty_id":404228275,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136275523
         }
     ],
     "wof:id":136275523,
-    "wof:lastmodified":1473797916,
+    "wof:lastmodified":1496776840,
     "wof:name":"Cabinet Kermel Sa",
-    "wof:parent_id":101770705,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

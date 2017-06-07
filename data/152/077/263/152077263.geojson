@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.547829,42.051609,-88.547829,42.051609",
     "geom:latitude":42.051609,
     "geom:longitude":-88.547829,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85939771,
-        85633793,
         85688697,
+        102191575,
+        404496539,
+        85633793,
+        85939771,
         102086925
     ],
     "wof:breaches":[],
@@ -45,15 +48,17 @@
     "wof:geomhash":"7d65e177073a79a09db2f140dd621ae1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086925,
+            "localadmin_id":404496539,
             "locality_id":85939771,
             "region_id":85688697,
             "venue_id":152077263
         }
     ],
     "wof:id":152077263,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1492092564,
     "wof:name":"Seicer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

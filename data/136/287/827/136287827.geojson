@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.676887,43.409821,3.676887,43.409821",
     "geom:latitude":43.409821,
     "geom:longitude":3.676887,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831695,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101831695,
+        136253037,
         102072199
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1f73ampOWBLfofaJfVburQ_43.409821_3.676887@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f6a955f4a0bff0b348674d2422431a8",
+    "wof:geomhash":"0aafe5693a1eece4fcad09b52fafa2a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072199,
+            "empire_id":136253037,
             "locality_id":101831695,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136287827
         }
     ],
     "wof:id":136287827,
-    "wof:lastmodified":1473797943,
+    "wof:lastmodified":1496799443,
     "wof:name":"Cereol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

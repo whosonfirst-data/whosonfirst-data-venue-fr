@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.69863,48.590504,7.69863,48.590504",
     "geom:latitude":48.590504,
     "geom:longitude":7.69863,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26dzGrZXSqVWfZOkW9BodL_48.590504_7.698630@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b6df0036ad2e9f521da0df081052a3bc",
+    "wof:geomhash":"553c2dc62e6ccab74be3bd27632dc590",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":169113553
         }
     ],
     "wof:id":169113553,
-    "wof:lastmodified":1473798111,
+    "wof:lastmodified":1496793312,
     "wof:name":"Reich France - Karl M.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

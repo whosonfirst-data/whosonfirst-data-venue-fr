@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.442599,46.110733,3.442599,46.110733",
     "geom:latitude":46.110733,
     "geom:longitude":3.442599,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829201,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404373583,
+        85633147,
+        1108826389,
+        101829201,
+        136253037,
         102070563
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0uOx7865P9H3zQoCDSRJNR_46.110733_3.442599@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eac01ab34c2bf5be56ddd0fe0d33a564",
+    "wof:geomhash":"e79bdd23b52c55cbe66b88b922a6356e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070563,
+            "empire_id":136253037,
+            "localadmin_id":404373583,
             "locality_id":101829201,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":169215061
         }
     ],
     "wof:id":169215061,
-    "wof:lastmodified":1473798236,
+    "wof:lastmodified":1496781129,
     "wof:name":"Vernay Vichy S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

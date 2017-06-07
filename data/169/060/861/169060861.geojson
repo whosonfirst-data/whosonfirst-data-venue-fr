@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847367,44.962833,4.847367,44.962833",
     "geom:latitude":44.962833,
     "geom:longitude":4.847367,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756681,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404395403,
+        85633147,
+        1108826389,
+        101756681,
+        136253037,
         102067869
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0y7Znu5dSovOLbQtt1BEMG_44.962833_4.847367@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c398798994f018fb2aacaffb72d4dce2",
+    "wof:geomhash":"1fecd165ad47bd866c540de87c0cc5cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067869,
+            "empire_id":136253037,
+            "localadmin_id":404395403,
             "locality_id":101756681,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":169060861
         }
     ],
     "wof:id":169060861,
-    "wof:lastmodified":1473798039,
+    "wof:lastmodified":1496801865,
     "wof:name":"Michel Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

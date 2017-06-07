@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895212,45.759018,4.895212,45.759018",
     "geom:latitude":45.759018,
     "geom:longitude":4.895212,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6ZVVn5N6Pa8VUT0w4qejqR_45.759018_4.895212@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e617fa63d103dc7e33aeb9fc4f42c8f1",
+    "wof:geomhash":"16b3e114c7490375a16311f89d669a7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136274461
         }
     ],
     "wof:id":136274461,
-    "wof:lastmodified":1473797870,
+    "wof:lastmodified":1496800037,
     "wof:name":"A2cr Sarl",
-    "wof:parent_id":101750825,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

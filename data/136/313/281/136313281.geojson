@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.866654,48.855114,-0.866654,48.855114",
     "geom:latitude":48.855114,
     "geom:longitude":-0.866654,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828441,
-        85633147,
         85683579,
+        102191581,
+        404228207,
+        404348573,
+        85633147,
+        1108826393,
+        101828441,
+        136253037,
         102070907
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4u2kJZC7AASOtUhOf0VvTa_48.855114_-0.866654@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"139c97490276fd0d6bd712469f64e403",
+    "wof:geomhash":"da08c1c9a716e9faee528ecfa1ca9006",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070907,
+            "empire_id":136253037,
+            "localadmin_id":404348573,
             "locality_id":101828441,
+            "macrocounty_id":404228207,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136313281
         }
     ],
     "wof:id":136313281,
-    "wof:lastmodified":1473797994,
+    "wof:lastmodified":1496803335,
     "wof:name":"Virpain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

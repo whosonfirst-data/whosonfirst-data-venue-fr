@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.653898,46.256992,5.653898,46.256992",
     "geom:latitude":46.256992,
     "geom:longitude":5.653898,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_5yZ8YW6vNEkW1TTRci0XDW_46.256992_5.653898@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6f926060bf8c7900c0a65b801cf446ac",
+    "wof:geomhash":"39da21c83b376868c96e065c0a152415",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152162729
         }
     ],
     "wof:id":152162729,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496800627,
     "wof:name":"Lypsis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

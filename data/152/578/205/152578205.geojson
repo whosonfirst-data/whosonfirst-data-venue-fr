@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.746935,44.837486,0.746935,44.837486",
     "geom:latitude":44.837486,
     "geom:longitude":0.746935,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770627,
-        85633147,
         85683331,
+        102191581,
+        404227635,
+        404381009,
+        85633147,
+        1108826385,
+        101770627,
+        136253037,
         102067381
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2aeYEFy8i0YT4Ep2SGnj0w_44.837486_0.746935@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54ceb02238f66a3853a545c666aaa395",
+    "wof:geomhash":"dc56bc72eeff1c9a6e37661b1e5778b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067381,
+            "empire_id":136253037,
+            "localadmin_id":404381009,
             "locality_id":101770627,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152578205
         }
     ],
     "wof:id":152578205,
-    "wof:lastmodified":1473798449,
+    "wof:lastmodified":1496777018,
     "wof:name":"Le Chaudron P\u00e9rigord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

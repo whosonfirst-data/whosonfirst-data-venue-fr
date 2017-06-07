@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.042277,44.582951,-0.042277,44.582951",
     "geom:latitude":44.582951,
     "geom:longitude":-0.042277,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771867,
-        85633147,
         85683243,
+        102191581,
+        404228071,
+        404375339,
+        85633147,
+        1108826385,
+        101771867,
+        136253037,
         102070885
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6WYTg71ysJza143w8DvPBp_44.582951_-0.042277@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b83fcb96d50e39048d1926d76c9e8d39",
+    "wof:geomhash":"fe7e164ab1c9633f1ee03cdfee38218c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070885,
+            "empire_id":136253037,
+            "localadmin_id":404375339,
             "locality_id":101771867,
+            "macrocounty_id":404228071,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152151191
         }
     ],
     "wof:id":152151191,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496777016,
     "wof:name":"Point P Materiaux - Bmso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

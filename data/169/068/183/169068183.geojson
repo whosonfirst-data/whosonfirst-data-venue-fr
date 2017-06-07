@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.336336,48.063053,5.336336,48.063053",
     "geom:latitude":48.063053,
     "geom:longitude":5.336336,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885961,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404391235,
+        85633147,
+        1108826391,
+        101885961,
+        136253037,
         102068173
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1IFgkyCrXIiFHRzz3xQw9a_48.063053_5.336336@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0aae1de64b19434be116be33a3a20e99",
+    "wof:geomhash":"782d1fa2d936b01b2d2eab887bfda8d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068173,
+            "empire_id":136253037,
+            "localadmin_id":404391235,
             "locality_id":101885961,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":169068183
         }
     ],
     "wof:id":169068183,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496786290,
     "wof:name":"M\u00e9cadis S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

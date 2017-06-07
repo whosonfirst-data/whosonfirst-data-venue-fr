@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.601881,49.204517,2.601881,49.204517",
     "geom:latitude":49.204517,
     "geom:longitude":2.601881,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6BVkjPZY2UbxdVgyq5YbSB_49.204517_2.601881@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3b2728384d2c1e15b0424bb88c614813",
+    "wof:geomhash":"c17654221e39b7415829078f31a4dc0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169099799
         }
     ],
     "wof:id":169099799,
-    "wof:lastmodified":1473798096,
+    "wof:lastmodified":1496790059,
     "wof:name":"Prat Manutention S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

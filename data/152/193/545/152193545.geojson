@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.296863,51.029995,2.296863,51.029995",
     "geom:latitude":51.029995,
     "geom:longitude":2.296863,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750239,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750239,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1tLyZgeO4pRi9Wk4UevzdF_51.029995_2.296863@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3c0d480ac697a74f80b920db8a11b7a4",
+    "wof:geomhash":"171380f9ce0924eacb5ea80ec311101d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750239,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152193545
         }
     ],
     "wof:id":152193545,
-    "wof:lastmodified":1473798317,
+    "wof:lastmodified":1496790378,
     "wof:name":"Tcme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

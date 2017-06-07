@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.824456,49.416256,2.824456,49.416256",
     "geom:latitude":49.416256,
     "geom:longitude":2.824456,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842439,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842439,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7BPKXfqQEdPmxDOP21ExTM_49.416256_2.824456@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"63317e42d66fec57aad21dcc39d95219",
+    "wof:geomhash":"a722e2874994020a04f8e122e1a51c9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842439,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152670981
         }
     ],
     "wof:id":152670981,
-    "wof:lastmodified":1473798493,
+    "wof:lastmodified":1496790179,
     "wof:name":"Pinel D\u00e9m\u00e9nagements S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.723646,46.345009,4.723646,46.345009",
     "geom:latitude":46.345009,
     "geom:longitude":4.723646,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101853771,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404357473,
+        85633147,
+        1108826395,
+        101853771,
+        136253037,
         102069241
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5T0vMHPnzKCgiuHJVFf33S_46.345009_4.723646@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ddfc0cadf993756c35998be1391ecc12",
+    "wof:geomhash":"31b3d0d71887d7753811869d2a330e4e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069241,
+            "empire_id":136253037,
+            "localadmin_id":404357473,
             "locality_id":101853771,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152089573
         }
     ],
     "wof:id":152089573,
-    "wof:lastmodified":1473798163,
+    "wof:lastmodified":1496794811,
     "wof:name":"Extratole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

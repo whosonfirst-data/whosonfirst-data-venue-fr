@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.228855,48.154587,3.228855,48.154587",
     "geom:latitude":48.154587,
     "geom:longitude":3.228855,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101884277,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404380207,
+        85633147,
+        1108826395,
+        101884277,
+        136253037,
         102069895
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1lKJGW2VGArX8mjHukqRkE_48.154587_3.228855@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9fd3549adc5d89e966735a8b93eaef07",
+    "wof:geomhash":"8079682a88ac45be15a5ed6506b1207a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069895,
+            "empire_id":136253037,
+            "localadmin_id":404380207,
             "locality_id":101884277,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152163175
         }
     ],
     "wof:id":152163175,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496789109,
     "wof:name":"Advanced Clamping System Acs (acs)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

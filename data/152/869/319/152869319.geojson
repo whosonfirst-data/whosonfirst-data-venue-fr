@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899987,45.758327,4.899987,45.758327",
     "geom:latitude":45.758327,
     "geom:longitude":4.899987,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1pmuLgzzH5D6MfJUHJ4leP_45.758327_4.899987@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da668f36477c9e64416aa2bbc21ab8ba",
+    "wof:geomhash":"edae0f8282dbaf48e1eee0a7d4d5f07c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152869319
         }
     ],
     "wof:id":152869319,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496779693,
     "wof:name":"Comptoir General D Emballage Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.291978,45.846275,1.291978,45.846275",
     "geom:latitude":45.846275,
     "geom:longitude":1.291978,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2fxyvhArC2CjxxoT54Vq0H_45.846275_1.291978@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"29a80e984ec038bc50ecba6065574a48",
+    "wof:geomhash":"54228518c664d8cdd6c50606d2a95d60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152203637
         }
     ],
     "wof:id":152203637,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496776563,
     "wof:name":"Innodec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

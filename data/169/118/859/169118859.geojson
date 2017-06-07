@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.155771,49.035637,6.155771,49.035637",
     "geom:latitude":49.035637,
     "geom:longitude":6.155771,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880173,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404411961,
+        85633147,
+        1108826391,
+        101880173,
+        136253037,
         102070345
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4T1D0g22mbqC6AS9UAVKJx_49.035637_6.155771@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c64111e85676e558238747a06786558a",
+    "wof:geomhash":"77bb96203f5e03514ef36498affe7cb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070345,
+            "empire_id":136253037,
+            "localadmin_id":404411961,
             "locality_id":101880173,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":169118859
         }
     ],
     "wof:id":169118859,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496784902,
     "wof:name":"Roger Laudien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

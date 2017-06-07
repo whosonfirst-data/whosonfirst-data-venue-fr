@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.747264,47.195663,6.747264,47.195663",
     "geom:latitude":47.195663,
     "geom:longitude":6.747264,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888825,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404410531,
+        85633147,
+        1108826395,
+        101888825,
+        136253037,
         102069005
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4kjgW5ghWp1O3zEDrqVIJr_47.195663_6.747264@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2554508b93563d49daa49a682147461",
+    "wof:geomhash":"9c036631e20bf2d2dccd6c7cf300c2f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069005,
+            "empire_id":136253037,
+            "localadmin_id":404410531,
             "locality_id":101888825,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152046267
         }
     ],
     "wof:id":152046267,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496788757,
     "wof:name":"Lycee Agricole Prive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

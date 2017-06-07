@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.153068,44.895668,-0.153068,44.895668",
     "geom:latitude":44.895668,
     "geom:longitude":-0.153068,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770643,
-        85633147,
         85683243,
+        102191581,
+        404228275,
+        404347399,
+        85633147,
+        1108826385,
+        101770643,
+        136253037,
         102069917
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0spqZ5Mt1xUg1Hly1Qpu06_44.895668_-0.153068@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cdd442d9b06c4084c18fc765519d5120",
+    "wof:geomhash":"10d66306e2219958905c996d93fe6f2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069917,
+            "empire_id":136253037,
+            "localadmin_id":404347399,
             "locality_id":101770643,
+            "macrocounty_id":404228275,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":168873491
         }
     ],
     "wof:id":168873491,
-    "wof:lastmodified":1473798023,
+    "wof:lastmodified":1496776932,
     "wof:name":"Ch\u00e2teau Villemaurine S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

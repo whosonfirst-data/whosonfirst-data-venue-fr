@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.452698,34.09539,-118.452698,34.09539",
     "geom:latitude":34.09539,
     "geom:longitude":-118.452698,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85805313",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85805313
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +51,20 @@
     "wof:geomhash":"0da744dd1393b6e058e6e75d62bbaf51",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85805313,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85805313",
             "region_id":85688637,
             "venue_id":152900251
         }
     ],
     "wof:id":152900251,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1488932362,
     "wof:name":"Stramatel (sa)",
-    "wof:parent_id":85805313,
+    "wof:parent_id":"85805313",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

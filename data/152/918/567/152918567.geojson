@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.954285,49.044147,3.954285,49.044147",
     "geom:latitude":49.044147,
     "geom:longitude":3.954285,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828113,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828113,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_6BgwkRcI2xbeXBAacjdjBk_49.044147_3.954285@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1996e05bd546313754e1c7efe9775773",
+    "wof:geomhash":"000fdff1b71407253422bfac2099ff03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828113,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152918567
         }
     ],
     "wof:id":152918567,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496805501,
     "wof:name":"Societe Du Journal L'union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

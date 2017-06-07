@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.995729,50.609726,2.995729,50.609726",
     "geom:latitude":50.609726,
     "geom:longitude":2.995729,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750261,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404370623,
+        85633147,
+        1108826399,
+        101750261,
+        136253037,
         102069595
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3IFmlMIeI8NxlGbl0ATQGN_50.609726_2.995729@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2125c3559db994dcf7e60624d4f84008",
+    "wof:geomhash":"e1d2cf6a4cfcee6f7a32a23062ef4261",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069595,
+            "empire_id":136253037,
+            "localadmin_id":404370623,
             "locality_id":101750261,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152067815
         }
     ],
     "wof:id":152067815,
-    "wof:lastmodified":1473798087,
+    "wof:lastmodified":1496796496,
     "wof:name":"Societe D'equipements Et Tuyauteries (set)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

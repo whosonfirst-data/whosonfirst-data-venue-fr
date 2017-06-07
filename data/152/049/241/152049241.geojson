@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.978991,45.450043,6.978991,45.450043",
     "geom:latitude":45.450043,
     "geom:longitude":6.978991,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769243,
-        85633147,
         85683265,
+        102191581,
+        404227745,
+        404382439,
+        85633147,
+        1108826389,
+        101769243,
+        136253037,
         102065467
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5ZWK1pUnQB66IzUjVU54BZ_45.450043_6.978991@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e81da77cd0a2962041b98aabbe7c4b0e",
+    "wof:geomhash":"ad26e17ed825ffc062aaa458272b73c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065467,
+            "empire_id":136253037,
+            "localadmin_id":404382439,
             "locality_id":101769243,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152049241
         }
     ],
     "wof:id":152049241,
-    "wof:lastmodified":1473797894,
+    "wof:lastmodified":1496781655,
     "wof:name":"Latitudes Val D'isere Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.777309,49.075436,0.777309,49.075436",
     "geom:latitude":49.075436,
     "geom:longitude":0.777309,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760199,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404362541,
+        85633147,
+        1108826393,
+        101760199,
+        136253037,
         102064899
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1e8Wrxk1i9CD1xtnc80xLa_49.075436_0.777309@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5b0e99a4968409c89d31dfa9cdb1c0a",
+    "wof:geomhash":"8e7e72d7c8c5ebe1cd9dfd123f6df988",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064899,
+            "empire_id":136253037,
+            "localadmin_id":404362541,
             "locality_id":101760199,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152078675
         }
     ],
     "wof:id":152078675,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496787311,
     "wof:name":"Schneider Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

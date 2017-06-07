@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.274283,48.197575,3.274283,48.197575",
     "geom:latitude":48.197575,
     "geom:longitude":3.274283,
@@ -24,9 +25,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827693,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404228181,
+        1108826395,
+        101827693,
+        136253037,
         102072545
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_0IWSSLNXc6gYgezEGZRGiQ_48.197575_3.274283@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c7ce64c35e782c13d3c9d6a9f4fdf1e6",
+    "wof:geomhash":"845ab3311c871ec7c3db92a72cc119e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072545,
+            "empire_id":136253037,
             "locality_id":101827693,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152743843
         }
     ],
     "wof:id":152743843,
-    "wof:lastmodified":1473798520,
+    "wof:lastmodified":1496788205,
     "wof:name":"Sam Couture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

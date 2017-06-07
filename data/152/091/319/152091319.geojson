@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.7194,45.149536,5.7194,45.149536",
     "geom:latitude":45.149536,
     "geom:longitude":5.7194,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750759,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404421311,
+        85633147,
+        1108826389,
+        101750759,
+        136253037,
         102071999
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2rQkndmqzC8hHipI3VuvNQ_45.149536_5.719400@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a0cb123667ed01147685d7f179310891",
+    "wof:geomhash":"11e636182273b72ab83ae2532689ffbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071999,
+            "empire_id":136253037,
+            "localadmin_id":404421311,
             "locality_id":101750759,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152091319
         }
     ],
     "wof:id":152091319,
-    "wof:lastmodified":1473798159,
+    "wof:lastmodified":1496783059,
     "wof:name":"Societe D'etudes Et Realisation De Tolerie Et D'electricite (serte)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

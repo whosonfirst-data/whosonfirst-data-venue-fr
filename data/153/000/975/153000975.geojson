@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.805415,48.801926,7.805415,48.801926",
     "geom:latitude":48.801926,
     "geom:longitude":7.805415,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827857,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404348507,
+        85633147,
+        1108826391,
+        101827857,
+        136253037,
         102065935
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2qY6yIc1mWFgXt5gT3nK1b_48.801926_7.805415@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07854ed361c6a4837647b9d9d1c7d421",
+    "wof:geomhash":"0cf437a1275ff3ec8b153e86a62b8d2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065935,
+            "empire_id":136253037,
+            "localadmin_id":404348507,
             "locality_id":101827857,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":153000975
         }
     ],
     "wof:id":153000975,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496785838,
     "wof:name":"S.o.b. - Klink France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

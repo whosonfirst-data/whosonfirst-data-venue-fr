@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.586125,44.725071,4.586125,44.725071",
     "geom:latitude":44.725071,
     "geom:longitude":4.586125,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830461,
-        85633147,
         85683421,
+        102191581,
+        404227811,
+        404363523,
+        85633147,
+        1108826389,
+        101830461,
+        136253037,
         102066649
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0YiFzlzYQB0eftzQf7Z0tn_44.725071_4.586125@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51d341044314ec6806db3967b673ed2e",
+    "wof:geomhash":"3dd6501b2328b0a65a346a244842de1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066649,
+            "empire_id":136253037,
+            "localadmin_id":404363523,
             "locality_id":101830461,
+            "macrocounty_id":404227811,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152189635
         }
     ],
     "wof:id":152189635,
-    "wof:lastmodified":1473798317,
+    "wof:lastmodified":1496781852,
     "wof:name":"Henry Savy Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

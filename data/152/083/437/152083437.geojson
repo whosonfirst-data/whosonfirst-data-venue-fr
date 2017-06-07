@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.11204,45.815594,3.11204,45.815594",
     "geom:latitude":45.815594,
     "geom:longitude":3.11204,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5hWq62ZqNUnvjpnz1Q6CUl_45.815594_3.112040@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6c4045a0f8be5cb2dbba63b6fba64e71",
+    "wof:geomhash":"35e956d09f0799c8361b79919f5c272f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152083437
         }
     ],
     "wof:id":152083437,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496806446,
     "wof:name":"Hordot (ste Nouvelle Des Etablissements) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

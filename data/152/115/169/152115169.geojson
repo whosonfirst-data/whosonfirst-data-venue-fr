@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.638889,49.939232,4.638889,49.939232",
     "geom:latitude":49.939232,
     "geom:longitude":4.638889,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813731,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404351585,
+        85633147,
+        1108826391,
+        101813731,
+        136253037,
         102070493
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1MfORxG1MDS493Tg10bMYN_49.939232_4.638889@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f90f3cdd478dc8e3d54d81303094fb45",
+    "wof:geomhash":"edd89ea8aba224f0ef540ca9a6caaffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070493,
+            "empire_id":136253037,
+            "localadmin_id":404351585,
             "locality_id":101813731,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152115169
         }
     ],
     "wof:id":152115169,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496783935,
     "wof:name":"Ste D'etudes Et De Construction D'outillages De Presse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

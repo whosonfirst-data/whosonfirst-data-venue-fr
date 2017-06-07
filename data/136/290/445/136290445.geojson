@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.00529,48.905605,4.00529,48.905605",
     "geom:latitude":48.905605,
     "geom:longitude":4.00529,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762647,
-        85633147,
         85683405,
+        102191581,
+        404227697,
+        404413169,
+        85633147,
+        1108826391,
+        101762647,
+        136253037,
         102069635
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7Uugh6z866ddLNyAf2LCYB_48.905605_4.005290@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7754c04a2d987a2cd76177c93682f980",
+    "wof:geomhash":"ee382c579a860abaa96f098ae9f4a533",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069635,
+            "empire_id":136253037,
+            "localadmin_id":404413169,
             "locality_id":101762647,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136290445
         }
     ],
     "wof:id":136290445,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496805553,
     "wof:name":"Distillerie De La Region De Chalons Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.224075,45.809322,1.224075,45.809322",
     "geom:latitude":45.809322,
     "geom:longitude":1.224075,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749497,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404227987,
+        1108826385,
+        101749497,
+        136253037,
         102070005
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0MQ06r2ngXF7XTOSFa5lua_45.809322_1.224075@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d3d9cf2f27bd55cc78d8799f110e5bb1",
+    "wof:geomhash":"e699fb37080ec39b26c5b3e990db0e5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070005,
+            "empire_id":136253037,
             "locality_id":101749497,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152045113
         }
     ],
     "wof:id":152045113,
-    "wof:lastmodified":1473797882,
+    "wof:lastmodified":1496775561,
     "wof:name":"College Jean Rebier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

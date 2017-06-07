@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.416765,51.035656,2.416765,51.035656",
     "geom:latitude":51.035656,
     "geom:longitude":2.416765,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751495,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404364345,
+        85633147,
+        1108826399,
+        101751495,
+        136253037,
         102069049
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0wiwz9VXaIwgy9mmMc4WpX_51.035656_2.416765@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1efa66bc40cfa8df7013d2bd740e391f",
+    "wof:geomhash":"5cfc80a656ecf5c587125de499f1a82b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069049,
+            "empire_id":136253037,
+            "localadmin_id":404364345,
             "locality_id":101751495,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136314481
         }
     ],
     "wof:id":136314481,
-    "wof:lastmodified":1473798009,
+    "wof:lastmodified":1496790387,
     "wof:name":"Agro Form Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

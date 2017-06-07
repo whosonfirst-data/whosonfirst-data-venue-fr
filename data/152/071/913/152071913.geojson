@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.402344,48.078526,4.402344,48.078526",
     "geom:latitude":48.078526,
     "geom:longitude":4.402344,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101887383,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404410771,
+        85633147,
+        1108826391,
+        101887383,
+        136253037,
         102067107
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1fV5T8uNJ4n7l2MLV5kE8L_48.078526_4.402344@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5e68d6a14d2461555a8a036b2b6fd996",
+    "wof:geomhash":"1980e5562b41f90e71eec36813ec7b10",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067107,
+            "empire_id":136253037,
+            "localadmin_id":404410771,
             "locality_id":101887383,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152071913
         }
     ],
     "wof:id":152071913,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496786309,
     "wof:name":"Champagne Pierre Gerbais Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

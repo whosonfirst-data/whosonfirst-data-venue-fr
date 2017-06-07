@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.35844,49.183105,1.35844,49.183105",
     "geom:latitude":49.183105,
     "geom:longitude":1.35844,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828357,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404361215,
+        85633147,
+        1108826393,
+        101828357,
+        136253037,
         102067755
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3ZdrVTQjjHRzDSJjISkSBS_49.183105_1.358440@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4f28d4c49e7a16ab4fe428f51fd26de2",
+    "wof:geomhash":"cde6cc2dcc22fd197b98a89f93f865b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067755,
+            "empire_id":136253037,
+            "localadmin_id":404361215,
             "locality_id":101828357,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152153215
         }
     ],
     "wof:id":152153215,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496804844,
     "wof:name":"Robert Chartier Application Rca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

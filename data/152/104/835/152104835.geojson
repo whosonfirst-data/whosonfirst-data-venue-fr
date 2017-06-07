@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.866365,45.643967,5.866365,45.643967",
     "geom:latitude":45.643967,
     "geom:longitude":5.866365,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769267,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404379001,
+        85633147,
+        1108826389,
+        101769267,
+        136253037,
         102067843
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_6SK8MI83U1WDrPmBipRJMZ_45.643967_5.866365@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"57bed06bc60a67de67078e79ad3bfeb2",
+    "wof:geomhash":"3d3ecde7b8ea9acef519dca43e105936",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067843,
+            "empire_id":136253037,
+            "localadmin_id":404379001,
             "locality_id":101769267,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152104835
         }
     ],
     "wof:id":152104835,
-    "wof:lastmodified":1473798249,
+    "wof:lastmodified":1496800608,
     "wof:name":"Sodeva",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

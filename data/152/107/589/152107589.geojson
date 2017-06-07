@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.086998,48.938133,7.086998,48.938133",
     "geom:latitude":48.938133,
     "geom:longitude":7.086998,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761043,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404386591,
+        85633147,
+        1108826391,
+        101761043,
+        136253037,
         102068131
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4MCureGQffZVTHDoeNXnsH_48.938133_7.086998@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f3b573425828cc97c342d83097126ab2",
+    "wof:geomhash":"4e734c65820034c564ef43a5a14a727f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068131,
+            "empire_id":136253037,
+            "localadmin_id":404386591,
             "locality_id":101761043,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152107589
         }
     ],
     "wof:id":152107589,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496785771,
     "wof:name":"Laboratoire Union Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

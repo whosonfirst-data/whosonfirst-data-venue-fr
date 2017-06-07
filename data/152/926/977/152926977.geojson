@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.28135,49.147289,0.28135,49.147289",
     "geom:latitude":49.147289,
     "geom:longitude":0.28135,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828401,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404228031,
+        1108826393,
+        101828401,
+        136253037,
         102072503
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_5c14Y3JeSrIxkh2cTJ7pn5_49.147289_0.281350@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"347645d29e1fc9463bba2eca062b2146",
+    "wof:geomhash":"3d81ed9afebf73c0ed2535b1c10a1e9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072503,
+            "empire_id":136253037,
             "locality_id":101828401,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152926977
         }
     ],
     "wof:id":152926977,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496787079,
     "wof:name":"Imprimerie Loiseleur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

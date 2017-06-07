@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867952,46.811909,4.867952,46.811909",
     "geom:latitude":46.811909,
     "geom:longitude":4.867952,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749513,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404373245,
+        85633147,
+        1108826395,
+        101749513,
+        136253037,
         102071657
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4T9pcvDQhl19iOEceXtiKR_46.811909_4.867952@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc7cbbea263825dd502dd698a677243f",
+    "wof:geomhash":"d570b5666f9a86c8824830684c079a31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071657,
+            "empire_id":136253037,
+            "localadmin_id":404373245,
             "locality_id":101749513,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152101605
         }
     ],
     "wof:id":152101605,
-    "wof:lastmodified":1473798234,
+    "wof:lastmodified":1496789021,
     "wof:name":"Art Sieges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

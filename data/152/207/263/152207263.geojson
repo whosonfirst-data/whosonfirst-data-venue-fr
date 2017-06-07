@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.412126,49.385529,2.412126,49.385529",
     "geom:latitude":49.385529,
     "geom:longitude":2.412126,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842411,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404373827,
+        85633147,
+        1108826399,
+        101842411,
+        136253037,
         102065713
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_74MGmgZfYoJKxQB5c38UFB_49.385529_2.412126@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dbf5b0dd3551c40409abf333a55b3b79",
+    "wof:geomhash":"82f5bc8f07d8c97d6a99ce4db9eeb6bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065713,
+            "empire_id":136253037,
+            "localadmin_id":404373827,
             "locality_id":101842411,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152207263
         }
     ],
     "wof:id":152207263,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496795903,
     "wof:name":"Soci\u00e9t\u00e9 Laiti\u00e8re De Clermont Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

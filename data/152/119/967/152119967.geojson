@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.743135,45.432766,4.743135,45.432766",
     "geom:latitude":45.432766,
     "geom:longitude":4.743135,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830795,
+        85683377,
+        102191581,
+        404228089,
+        404374115,
         85633147,
-        85683427,
+        1108826389,
+        101830795,
+        136253037,
         102066733
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5h5idpFLtUPBsX8lUR5MHy_45.432766_4.743135@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5948ee2fe26fe48d7bf3f39b36d0562",
+    "wof:geomhash":"aa67290b744e2de7aabcaa261ba09972",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066733,
+            "empire_id":136253037,
+            "localadmin_id":404374115,
             "locality_id":101830795,
-            "region_id":85683427,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
+            "region_id":85683377,
             "venue_id":152119967
         }
     ],
     "wof:id":152119967,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496781726,
     "wof:name":"Etablissements A Goutarel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

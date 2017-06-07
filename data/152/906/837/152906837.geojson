@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.340011,47.862965,5.340011,47.862965",
     "geom:latitude":47.862965,
     "geom:longitude":5.340011,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766221,
-        85633147,
         85683261,
+        102191581,
+        404227911,
+        404350465,
+        85633147,
+        1108826391,
+        101766221,
+        136253037,
         102067271
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0HkMzRtGgY9dSPRR6lLIHg_47.862965_5.340011@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd395fb5c5c61b681464e6def591dda8",
+    "wof:geomhash":"6c512c5facba5c7ca7068fd2e11a0efd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067271,
+            "empire_id":136253037,
+            "localadmin_id":404350465,
             "locality_id":101766221,
+            "macrocounty_id":404227911,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152906837
         }
     ],
     "wof:id":152906837,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496784490,
     "wof:name":"Sarl Imprimeries De Champagne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

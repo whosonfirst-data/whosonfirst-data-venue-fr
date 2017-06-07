@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.037841,47.318466,5.037841,47.318466",
     "geom:latitude":47.318466,
     "geom:longitude":5.037841,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_63VeV72BEdMswcAPINmjmh_47.318466_5.037841@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"371d07dd94df47a8827ac1d7f805a765",
+    "wof:geomhash":"cc6e1656c915130c0a904611231d96b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152049225
         }
     ],
     "wof:id":152049225,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496788683,
     "wof:name":"La Nouvelle Cbdo Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

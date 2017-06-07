@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.558632,44.861149,-0.558632,44.861149",
     "geom:latitude":44.861149,
     "geom:longitude":-0.558632,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E4YKWtLjBKg5ke24lRjTk_44.861149_-0.558632@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b29a44294c088accf03860c80ee941cd",
+    "wof:geomhash":"a0b2ae34fa1ae4e681f755bb8c5228c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152342501
         }
     ],
     "wof:id":152342501,
-    "wof:lastmodified":1473798374,
+    "wof:lastmodified":1496777136,
     "wof:name":"Cabinet R\u00e9gis Barbier S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

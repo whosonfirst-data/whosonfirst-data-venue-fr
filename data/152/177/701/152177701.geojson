@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.156883,46.575153,4.156883,46.575153",
     "geom:latitude":46.575153,
     "geom:longitude":4.156883,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891173,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404349335,
+        85633147,
+        1108826395,
+        101891173,
+        136253037,
         102070789
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2NnDUeG7ATRcKRr6fTTwf9_46.575153_4.156883@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b32aa65369c3f0a4b2a28ff5b7cff37",
+    "wof:geomhash":"43c531df329d50bd47c635c8a70628ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070789,
+            "empire_id":136253037,
+            "localadmin_id":404349335,
             "locality_id":101891173,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152177701
         }
     ],
     "wof:id":152177701,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1496789002,
     "wof:name":"Delhomme Mecanique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

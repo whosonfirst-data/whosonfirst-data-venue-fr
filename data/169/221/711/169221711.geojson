@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.992803,45.370403,5.992803,45.370403",
     "geom:latitude":45.370403,
     "geom:longitude":5.992803,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770549,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404409731,
+        85633147,
+        1108826389,
+        101770549,
+        136253037,
         102066033
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_47RnI8lWd22QHRQY6SZITp_45.370403_5.992803@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e659c223b2b5ced588c5166f3598a2de",
+    "wof:geomhash":"b6e08cdebbf5f613e59c77daf6b5fbd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066033,
+            "empire_id":136253037,
+            "localadmin_id":404409731,
             "locality_id":101770549,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169221711
         }
     ],
     "wof:id":169221711,
-    "wof:lastmodified":1473798244,
+    "wof:lastmodified":1496780440,
     "wof:name":"Wheelabrator Allevard S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

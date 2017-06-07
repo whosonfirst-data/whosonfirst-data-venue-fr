@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.87789,50.689949,2.87789,50.689949",
     "geom:latitude":50.689949,
     "geom:longitude":2.87789,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839681,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404406293,
+        85633147,
+        1108826399,
+        101839681,
+        136253037,
         102064615
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_59dRvFQw7R5Ta8Vdfl9AIQ_50.689949_2.877890@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3005d7652baf0862433b2479105068ca",
+    "wof:geomhash":"079c5db7350ad96f6ae88b6bb1a0c0cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404406293,
             "locality_id":101839681,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152089279
         }
     ],
     "wof:id":152089279,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496791122,
     "wof:name":"Etablissements Loison Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

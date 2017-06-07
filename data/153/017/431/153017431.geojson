@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.816941,46.288586,4.816941,46.288586",
     "geom:latitude":46.288586,
     "geom:longitude":4.816941,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829229,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404395621,
+        85633147,
+        1108826395,
+        101829229,
+        136253037,
         102072575
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4OzysMQ5JpmjEU9vFJ0T4H_46.288586_4.816941@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81b80a35c29ad9eaf061c482cc70f45d",
+    "wof:geomhash":"46cd17b5970f4035f805b80df9b1298b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072575,
+            "empire_id":136253037,
+            "localadmin_id":404395621,
             "locality_id":101829229,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":153017431
         }
     ],
     "wof:id":153017431,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496788836,
     "wof:name":"Vetisol Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.435077,47.13028,6.435077,47.13028",
     "geom:latitude":47.13028,
     "geom:longitude":6.435077,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890169,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404389981,
+        85633147,
+        1108826395,
+        101890169,
+        136253037,
         102069379
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1sQntFNH6pOP0TEYEeenQi_47.130280_6.435077@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cc097294094a8ca241987c5870f446f2",
+    "wof:geomhash":"b887ad58a4d539226cf829fa91ad0036",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069379,
+            "empire_id":136253037,
+            "localadmin_id":404389981,
             "locality_id":101890169,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152122987
         }
     ],
     "wof:id":152122987,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496804453,
     "wof:name":"Sis Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

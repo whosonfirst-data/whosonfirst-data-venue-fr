@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.008263,47.238087,6.008263,47.238087",
     "geom:latitude":47.238087,
     "geom:longitude":6.008263,
@@ -22,9 +23,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_5vrkUnogmqDYecKtk0GSuj_47.238087_6.008263@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5bc57c7661b73ca3a4075ff8e60de9c0",
+    "wof:geomhash":"2227852da3a273c54e9bdf926da33b52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":153088373
         }
     ],
     "wof:id":153088373,
-    "wof:lastmodified":1473797982,
+    "wof:lastmodified":1496804258,
     "wof:name":"B.e.t.i.c. S.a. - Bureau D'etudes Techniques Et D'ing\u00e9nierie De La Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

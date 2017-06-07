@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.385106,49.758953,0.385106,49.758953",
     "geom:latitude":49.758953,
     "geom:longitude":0.385106,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840335,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404353221,
+        85633147,
+        1108826393,
+        101840335,
+        136253037,
         102068233
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_7eFaLyoVrT681s7ysv2mJJ_49.758953_0.385106@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce4225a4a8e6679fbb3424a3335ab2a5",
+    "wof:geomhash":"69808b6349d26e863cc3ec51c4d7ce99",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068233,
+            "empire_id":136253037,
+            "localadmin_id":404353221,
             "locality_id":101840335,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152103397
         }
     ],
     "wof:id":152103397,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496805065,
     "wof:name":"Acf Mecanique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.034639,50.568336,3.034639,50.568336",
     "geom:latitude":50.568336,
     "geom:longitude":3.034639,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SKd8R40z0zCR7TgO9MhH0_50.568336_3.034639@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"969ea7ce966c106aff89707fad1d3aec",
+    "wof:geomhash":"0c904c0fe0f54be4384af210c9b75b45",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":152949783
         }
     ],
     "wof:id":152949783,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496797391,
     "wof:name":"Ags Nord Pas De Calais Sarl",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.259065,49.148869,0.259065,49.148869",
     "geom:latitude":49.148869,
     "geom:longitude":0.259065,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828401,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404228031,
+        1108826393,
+        101828401,
+        136253037,
         102072503
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_6zUdbilVYMRkC0d1KynIlU_49.148869_0.259065@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3f04055ea5a5a5854bdfe888ebc0837",
+    "wof:geomhash":"9843675e603bc78a9599dc364114f1d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072503,
+            "empire_id":136253037,
             "locality_id":101828401,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152055461
         }
     ],
     "wof:id":152055461,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496803326,
     "wof:name":"Sa Sodel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

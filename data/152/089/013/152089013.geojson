@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.367328,45.437958,4.367328,45.437958",
     "geom:latitude":45.437958,
     "geom:longitude":4.367328,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5QAcIZBMZgllyLe6m5D4Or_45.437958_4.367328@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e75bc4df979e3aca37f8d989ff49e38d",
+    "wof:geomhash":"1558fe7f9a83fae763a822918d8a1cce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152089013
         }
     ],
     "wof:id":152089013,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496800166,
     "wof:name":"David Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

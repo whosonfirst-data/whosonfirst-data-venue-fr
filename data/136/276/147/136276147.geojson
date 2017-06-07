@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.892008,44.860123,1.892008,44.860123",
     "geom:latitude":44.860123,
     "geom:longitude":1.892008,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770359,
-        85633147,
         85683389,
+        102191581,
+        404227897,
+        404382415,
+        85633147,
+        1108826387,
+        101770359,
+        136253037,
         102068763
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_08AuJwx6uE0Sab2GQi3hJQ_44.860123_1.892008@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9fd4e7c8cae0a8b3bc47a10ba24bea4",
+    "wof:geomhash":"0c3c98d54708e5c5285cdb989dcd3107",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068763,
+            "empire_id":136253037,
+            "localadmin_id":404382415,
             "locality_id":101770359,
+            "macrocounty_id":404227897,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":136276147
         }
     ],
     "wof:id":136276147,
-    "wof:lastmodified":1473797883,
+    "wof:lastmodified":1496778246,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Quercy Rouergue (crcam Quercy Rouergue)",
-    "wof:parent_id":101770359,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

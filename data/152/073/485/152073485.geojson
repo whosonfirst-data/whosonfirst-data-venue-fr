@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.175906,48.699989,6.175906,48.699989",
     "geom:latitude":48.699989,
     "geom:longitude":6.175906,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0SeUc60lt4VxpvzHE5gNNd_48.699989_6.175906@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a0bca5f749a1834efa696562d9c93660",
+    "wof:geomhash":"71a2bdf4015bf44333eb48c7022f95d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152073485
         }
     ],
     "wof:id":152073485,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1496793950,
     "wof:name":"Pernod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

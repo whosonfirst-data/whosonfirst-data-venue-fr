@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.302929,48.096722,7.302929,48.096722",
     "geom:latitude":48.096722,
     "geom:longitude":7.302929,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749559,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404384979,
+        85633147,
+        1108826391,
+        101749559,
+        136253037,
         102066587
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2YHSlEF9HVeDuCPyy0U6Su_48.096722_7.302929@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"32a0f716e575aa9f61ee35c874ab47bc",
+    "wof:geomhash":"d1a3d665c77f3cb653b93a8cffc84a07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066587,
+            "empire_id":136253037,
+            "localadmin_id":404384979,
             "locality_id":101749559,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152097655
         }
     ],
     "wof:id":152097655,
-    "wof:lastmodified":1473798212,
+    "wof:lastmodified":1496786299,
     "wof:name":"Cave Vinicole D Ingersheim Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

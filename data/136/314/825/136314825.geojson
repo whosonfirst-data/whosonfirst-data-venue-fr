@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.171245,50.689651,3.171245,50.689651",
     "geom:latitude":50.689651,
     "geom:longitude":3.171245,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751515,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
         102072029
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3hYXL2Yw6P8Ahcn7mA2nb8_50.689651_3.171245@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6932acacae0a7d234bcefba0c2f9c2c",
+    "wof:geomhash":"96b4b57f8764c25fd653fcb54c331eda",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
             "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136314825
         }
     ],
     "wof:id":136314825,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496796498,
     "wof:name":"Association Espoir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

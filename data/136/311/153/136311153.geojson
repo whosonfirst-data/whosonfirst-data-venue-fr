@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.383115,45.416702,4.383115,45.416702",
     "geom:latitude":45.416702,
     "geom:longitude":4.383115,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_5FHTFc0zkbFbqcBVayZRZN_45.416702_4.383115@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0093f4817632f0d4ff06617a73ca40bb",
+    "wof:geomhash":"8726702f7b995aaa23d3f67dd7ed9be2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136311153
         }
     ],
     "wof:id":136311153,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496780059,
     "wof:name":"Imprimerie P Guichard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

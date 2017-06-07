@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.448451,48.172703,6.448451,48.172703",
     "geom:latitude":48.172703,
     "geom:longitude":6.448451,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827681,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404352281,
+        85633147,
+        1108826391,
+        101827681,
+        136253037,
         102072423
     ],
     "wof:brand_id":420575501,
@@ -45,18 +51,23 @@
         "sg:id":"SG_7HD7xrXWJPW3N7M9JMpnf9_48.172703_6.448451@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd3cf385795e7202c477f587d1c01b80",
+    "wof:geomhash":"911c70c092952d7266a33f9891f7a714",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072423,
+            "empire_id":136253037,
+            "localadmin_id":404352281,
             "locality_id":101827681,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136294233
         }
     ],
     "wof:id":136294233,
-    "wof:lastmodified":1473797908,
+    "wof:lastmodified":1496785535,
     "wof:name":"Credit Lyonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

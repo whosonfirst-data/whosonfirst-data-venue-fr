@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806617,46.295174,4.806617,46.295174",
     "geom:latitude":46.295174,
     "geom:longitude":4.806617,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829227,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404228293,
+        1108826395,
+        101829227,
+        136253037,
         102071699
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6KST06e1YXSWiWBCbszmd4_46.295174_4.806617@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"387e9d5b6c4dba45280ad5ce2b7a3921",
+    "wof:geomhash":"d9ee34e220403fa3a01bc986c5cd9045",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071699,
+            "empire_id":136253037,
             "locality_id":101829227,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136311121
         }
     ],
     "wof:id":136311121,
-    "wof:lastmodified":1473797983,
+    "wof:lastmodified":1496788616,
     "wof:name":"Imprimerie Durand Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

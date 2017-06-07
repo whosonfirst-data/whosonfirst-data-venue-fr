@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.76331,45.807388,4.76331,45.807388",
     "geom:latitude":45.807388,
     "geom:longitude":4.76331,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749399,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415697,
+        85633147,
+        1108826389,
+        101749399,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_07PaN9BQHLwl953YKaxCRh_45.807388_4.763310@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01f054ea609d76f07d21a9fbf4a86ae3",
+    "wof:geomhash":"43f7bd5aa496822b0793f709db95cbdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404415697,
             "locality_id":101749399,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153009609
         }
     ],
     "wof:id":153009609,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496781101,
     "wof:name":"Centre Telephone Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

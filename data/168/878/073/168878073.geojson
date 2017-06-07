@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.544274,44.888786,-0.544274,44.888786",
     "geom:latitude":44.888786,
     "geom:longitude":-0.544274,
@@ -24,28 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MZiGZLr31Cl2LR0OpKdXX_44.888786_-0.544274@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1a8fcbb23aaf1fe43bc725b7a3ccf8c8",
+    "wof:geomhash":"ebdad880c4df83b84b87a546bfbd039b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":168878073
         }
     ],
     "wof:id":168878073,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496775491,
     "wof:name":"Cofitec S.a.",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.644014,44.785305,-0.644014,44.785305",
     "geom:latitude":44.785305,
     "geom:longitude":-0.644014,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1OWyL01QVXWfM09YJQGByY_44.785305_-0.644014@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2455088bbaed496109ecd3c64d4563e",
+    "wof:geomhash":"6d57305dc7094273f686023957b7f3d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":169023037
         }
     ],
     "wof:id":169023037,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496777126,
     "wof:name":"Laboratoires Et Services Kodak S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

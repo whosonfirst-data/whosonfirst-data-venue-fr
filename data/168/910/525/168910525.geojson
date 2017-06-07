@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.198824,49.125156,6.198824,49.125156",
     "geom:latitude":49.125156,
     "geom:longitude":6.198824,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751401,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404402683,
+        85633147,
+        1108826391,
+        101751401,
+        136253037,
         102068125
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5vtSw13GOtsCsazwCaWsc4_49.125156_6.198824@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7392afa252e501d99fce34e6738aeec8",
+    "wof:geomhash":"8b578bcf0e0600e65838554cbf3e3b20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068125,
+            "empire_id":136253037,
+            "localadmin_id":404402683,
             "locality_id":101751401,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":168910525
         }
     ],
     "wof:id":168910525,
-    "wof:lastmodified":1473798070,
+    "wof:lastmodified":1496785052,
     "wof:name":"Dumberger Electro-bobinage S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

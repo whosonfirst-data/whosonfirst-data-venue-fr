@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.622254,44.196903,0.622254,44.196903",
     "geom:latitude":44.196903,
     "geom:longitude":0.622254,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_0QdpyZO1uKwnlHNQptq5u9_44.196903_0.622254@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1121213ffa0d49f36a80346fe5b6bef5",
+    "wof:geomhash":"cad76e2817f0fbc8526893eb99db22fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152080081
         }
     ],
     "wof:id":152080081,
-    "wof:lastmodified":1473798120,
+    "wof:lastmodified":1496797610,
     "wof:name":"Ateliers De Bobinage Electrique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

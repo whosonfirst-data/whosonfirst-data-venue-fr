@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.620332,44.200695,0.620332,44.200695",
     "geom:latitude":44.200695,
     "geom:longitude":0.620332,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5IcZmiOQSDRCStsXei3F0N_44.200695_0.620332@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"57d62dff05e805aecd638a34cc18ca3b",
+    "wof:geomhash":"e30183bbfb611aa8694bf03cab531ad1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152057911
         }
     ],
     "wof:id":152057911,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496775581,
     "wof:name":"Innobac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

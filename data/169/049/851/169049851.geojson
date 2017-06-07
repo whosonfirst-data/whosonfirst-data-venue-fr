@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.175786,49.119385,6.175786,49.119385",
     "geom:latitude":49.119385,
     "geom:longitude":6.175786,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_50yXQJEPLq3eucsCh82rbY_49.119385_6.175786@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0542fcf79c52a783edd44af71103cbd0",
+    "wof:geomhash":"98602cd65c592f002ce5f165e572b95a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":169049851
         }
     ],
     "wof:id":169049851,
-    "wof:lastmodified":1473798022,
+    "wof:lastmodified":1496783900,
     "wof:name":"Mairie De Metz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

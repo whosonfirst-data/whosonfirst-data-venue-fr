@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.294711,49.884396,2.294711,49.884396",
     "geom:latitude":49.884396,
     "geom:longitude":2.294711,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4BJ6rCGMLxtRVHteWJ1fBI_49.884396_2.294711@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"865c8f9d6f8443ccac26571cb8721173",
+    "wof:geomhash":"cb3906eac4d521e3f9ee9b8012ab77cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152044579
         }
     ],
     "wof:id":152044579,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496795498,
     "wof:name":"Assoc De Gestion Saint Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

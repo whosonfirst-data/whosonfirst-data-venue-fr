@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.369699,48.877522,2.369699,48.877522",
     "geom:latitude":48.877522,
     "geom:longitude":2.369699,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873879,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068731,
-        85873879
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,19 @@
     "wof:geomhash":"88f5ad3ceeb8c140943c64dc0a227f3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068731,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873879,
             "region_id":85683497,
             "venue_id":152858369
         }
     ],
     "wof:id":152858369,
-    "wof:lastmodified":1473798547,
+    "wof:lastmodified":1491932026,
     "wof:name":"Formosaflash",
     "wof:parent_id":85873879,
     "wof:placetype":"venue",

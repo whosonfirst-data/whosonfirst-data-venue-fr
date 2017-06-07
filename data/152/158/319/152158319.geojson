@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.726041,45.171913,5.726041,45.171913",
     "geom:latitude":45.171913,
     "geom:longitude":5.726041,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4E78V1rxpyOyVfKtprB2G6_45.171913_5.726041@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f0ff07b816ddb45d0531f242eceb619",
+    "wof:geomhash":"463aac2567c3b50584c87e5e7afed487",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152158319
         }
     ],
     "wof:id":152158319,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496782079,
     "wof:name":"Sogrevent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.4987,43.893391,-0.4987,43.893391",
     "geom:latitude":43.893391,
     "geom:longitude":-0.4987,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2lM5u91vmEs3JUaRiDLu5c_43.893391_-0.498700@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"df001c113d98e2469b827a7f2999e80f",
+    "wof:geomhash":"d6f6596e1009731ad9b0f6403d0c0319",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152053205
         }
     ],
     "wof:id":152053205,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496775532,
     "wof:name":"Chambre De Commerce Des Landes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

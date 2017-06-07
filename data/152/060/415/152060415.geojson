@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.566296,45.499611,4.566296,45.499611",
     "geom:latitude":45.499611,
     "geom:longitude":4.566296,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830785,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404360255,
+        85633147,
+        1108826389,
+        101830785,
+        136253037,
         102070317
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1KzzTCcjIoVOnHNX2jq1Fh_45.499611_4.566296@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"017757ab037a96c5beb618f3a1fe6a5a",
+    "wof:geomhash":"4bdc9b0d9de6172d7391453c26da6870",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070317,
+            "empire_id":136253037,
+            "localadmin_id":404360255,
             "locality_id":101830785,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152060415
         }
     ],
     "wof:id":152060415,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496780783,
     "wof:name":"Di Bartolomeo Blanc (dbb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

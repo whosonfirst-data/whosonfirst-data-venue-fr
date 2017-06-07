@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.210334,48.321095,5.210334,48.321095",
     "geom:latitude":48.321095,
     "geom:longitude":5.210334,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101884399,
-        85633147,
         85683261,
+        102191581,
+        404228109,
+        404358563,
+        85633147,
+        1108826391,
+        101884399,
+        136253037,
         102066159
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6vxHcJhD2CkqqEH9s8UYwP_48.321095_5.210334@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bedfaa918bcb4998d85e1a468e6db63c",
+    "wof:geomhash":"552e6db92ecf4ef7b12a9c9d718334fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066159,
+            "empire_id":136253037,
+            "localadmin_id":404358563,
             "locality_id":101884399,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152045125
         }
     ],
     "wof:id":152045125,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496805485,
     "wof:name":"College Jouffroy D'abbans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

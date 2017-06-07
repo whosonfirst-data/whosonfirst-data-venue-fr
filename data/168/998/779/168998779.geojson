@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.29195,48.519314,4.29195,48.519314",
     "geom:latitude":48.519314,
     "geom:longitude":4.29195,
@@ -24,9 +25,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883113,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404422357,
+        85633147,
+        1108826391,
+        101883113,
+        136253037,
         102067683
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0ZVkveuc0PTOJ5e9VGb2YX_48.519314_4.291950@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae11cb4a188acd06e6645f7d77de545c",
+    "wof:geomhash":"4ee4443f90e8fb0259bff5a53c35d0a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067683,
+            "empire_id":136253037,
+            "localadmin_id":404422357,
             "locality_id":101883113,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":168998779
         }
     ],
     "wof:id":168998779,
-    "wof:lastmodified":1473798166,
+    "wof:lastmodified":1496783948,
     "wof:name":"Imprimerie De La Halle E.u.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

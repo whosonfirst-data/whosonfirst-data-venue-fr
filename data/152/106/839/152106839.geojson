@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.534755,46.830368,0.534755,46.830368",
     "geom:latitude":46.830368,
     "geom:longitude":0.534755,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7TaAiZenC8nHgDZBroESwb_46.830368_0.534755@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b57e44ea4e1d2aad168e9e89599cca2",
+    "wof:geomhash":"af19868ed1d94c50ee956e125ea07916",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152106839
         }
     ],
     "wof:id":152106839,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496777330,
     "wof:name":"Chatel Dent Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

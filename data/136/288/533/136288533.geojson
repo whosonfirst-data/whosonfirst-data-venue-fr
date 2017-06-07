@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.486772,46.844528,-0.486772,46.844528",
     "geom:latitude":46.844528,
     "geom:longitude":-0.486772,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766747,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404357233,
+        85633147,
+        1108826385,
+        101766747,
+        136253037,
         102064873
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_68lMzUGCRFAc6N2j4lhFpe_46.844528_-0.486772@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c60ff42839cabc8e2504cf9baf36e6c8",
+    "wof:geomhash":"0c396f28d73eca3c31b3e9603ba59903",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064873,
+            "empire_id":136253037,
+            "localadmin_id":404357233,
             "locality_id":101766747,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136288533
         }
     ],
     "wof:id":136288533,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496775914,
     "wof:name":"Cooperative Agricole La Noelle Ancenis (cana)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

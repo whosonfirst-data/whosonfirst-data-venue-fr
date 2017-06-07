@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.976496,47.855434,3.976496,47.855434",
     "geom:latitude":47.855434,
     "geom:longitude":3.976496,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766175,
-        85633147,
         85683503,
+        102191581,
+        404227993,
+        404420489,
+        85633147,
+        1108826395,
+        101766175,
+        136253037,
         102070163
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_38QrhEYrzGlJoEO3EFlEn8_47.855434_3.976496@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a02f13c537b1eec40db6e319df4cd34b",
+    "wof:geomhash":"4a6faf610d145922ca895fa6757a1928",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070163,
+            "empire_id":136253037,
+            "localadmin_id":404420489,
             "locality_id":101766175,
+            "macrocounty_id":404227993,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136275621
         }
     ],
     "wof:id":136275621,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496788791,
     "wof:name":"Caisse D Epargne Et De Prevoyance De Bourgogne",
-    "wof:parent_id":101766175,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

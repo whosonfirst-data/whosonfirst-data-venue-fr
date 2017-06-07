@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.734605,46.209057,4.734605,46.209057",
     "geom:latitude":46.209057,
     "geom:longitude":4.734605,
@@ -24,24 +25,37 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683543,
+        102191581,
         85633147,
-        85683569
+        404381233,
+        404228293,
+        1108826395,
+        136253037,
+        102065799
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TgaL0tQMkFg09fGxMpXwc_46.209057_4.734605@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"622ad9ca4bab2ccabf722949251e2fef",
+    "wof:geomhash":"fb44e560861b5f5776d91135e819d2c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "region_id":85683569,
+            "county_id":102065799,
+            "empire_id":136253037,
+            "localadmin_id":404381233,
+            "locality_id":-1,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
+            "region_id":85683543,
             "venue_id":168948649
         }
     ],
     "wof:id":168948649,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1496801712,
     "wof:name":"F.a.b. S.a. - Fonderie Aluminium Bellevilloise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

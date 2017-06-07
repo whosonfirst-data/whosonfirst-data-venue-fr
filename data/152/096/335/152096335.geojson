@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.174425,49.026913,1.174425,49.026913",
     "geom:latitude":49.026913,
     "geom:longitude":1.174425,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751419,
-        85633147,
         85683283,
+        102191581,
+        85633147,
+        404228055,
+        1108826393,
+        101751419,
+        136253037,
         102072511
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3mmIOzkNWjau3ED42sxw25_49.026913_1.174425@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58bfef4c93ffbda8e54ca50d68df42bb",
+    "wof:geomhash":"528b0781406ac1a7d77b1254e7ab555c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072511,
+            "empire_id":136253037,
             "locality_id":101751419,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152096335
         }
     ],
     "wof:id":152096335,
-    "wof:lastmodified":1473798186,
+    "wof:lastmodified":1496787144,
     "wof:name":"Au Bon Jambon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

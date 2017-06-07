@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.148537,43.92609,2.148537,43.92609",
     "geom:latitude":43.92609,
     "geom:longitude":2.148537,
@@ -28,9 +29,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831831,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404365101,
+        85633147,
+        1108826387,
+        101831831,
+        136253037,
         102072053
     ],
     "wof:brand_id":420573859,
@@ -39,18 +45,23 @@
         "sg:id":"SG_3ERMSTCwoKcvNSoZfsz3iL_43.926090_2.148537@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3563c875f93bde9998df0acb7ea10248",
+    "wof:geomhash":"952941817e0bfc79f61f1872ba348461",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072053,
+            "empire_id":136253037,
+            "localadmin_id":404365101,
             "locality_id":101831831,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136298719
         }
     ],
     "wof:id":136298719,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496803551,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.960784,45.715416,4.960784,45.715416",
     "geom:latitude":45.715416,
     "geom:longitude":4.960784,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750801,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404384273,
+        85633147,
+        1108826389,
+        101750801,
+        136253037,
         102071359
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1A1jNjRbx1I5XpXEwxg2CP_45.715416_4.960784@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"af57bb1e357fd99872625bcec72201c3",
+    "wof:geomhash":"a25009b1dc47dbdf28e92c6c8b455198",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071359,
+            "empire_id":136253037,
+            "localadmin_id":404384273,
             "locality_id":101750801,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152088815
         }
     ],
     "wof:id":152088815,
-    "wof:lastmodified":1473798211,
+    "wof:lastmodified":1496800182,
     "wof:name":"Cnt Armatures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

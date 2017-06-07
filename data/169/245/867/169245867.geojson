@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.41948,48.250435,6.41948,48.250435",
     "geom:latitude":48.250435,
     "geom:longitude":6.41948,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827679,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404416505,
+        85633147,
+        1108826391,
+        101827679,
+        136253037,
         102065255
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1PPZIQgCBIAAq8Jh9xyMbA_48.250435_6.419480@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5f8d4a70a1a98906c42af8834b8713de",
+    "wof:geomhash":"5b78d3519fb3a3742a33396f399f77c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065255,
+            "empire_id":136253037,
+            "localadmin_id":404416505,
             "locality_id":101827679,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":169245867
         }
     ],
     "wof:id":169245867,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496785281,
     "wof:name":"Transco Bois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

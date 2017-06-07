@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.221078,47.241165,5.221078,47.241165",
     "geom:latitude":47.241165,
     "geom:longitude":5.221078,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768485,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404426983,
+        85633147,
+        1108826395,
+        101768485,
+        136253037,
         102066859
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0FYG4l2qpdlwLpKI5ZR5Fu_47.241165_5.221078@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2cb18fb7e2e26e548189f7ad6096562",
+    "wof:geomhash":"e249c2c3e9cf97a3c74b5fa9e9ca770f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066859,
+            "empire_id":136253037,
+            "localadmin_id":404426983,
             "locality_id":101768485,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152075467
         }
     ],
     "wof:id":152075467,
-    "wof:lastmodified":1473798136,
+    "wof:lastmodified":1496794841,
     "wof:name":"Thomson Tubes Et Displays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

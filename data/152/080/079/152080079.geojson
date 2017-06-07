@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.84991,47.640484,6.84991,47.640484",
     "geom:latitude":47.640484,
     "geom:longitude":6.84991,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749011,
-        85633147,
         85683353,
+        102191581,
+        85633147,
+        404227783,
+        1108826395,
+        101749011,
+        136253037,
         102072425
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_7m4KYv2Fmp27Ix6lwn0feh_47.640484_6.849910@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b242d55d693d2b9b1263c49f486631b0",
+    "wof:geomhash":"06663e8b1605eb885608682a3ecca09d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072425,
+            "empire_id":136253037,
             "locality_id":101749011,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":152080079
         }
     ],
     "wof:id":152080079,
-    "wof:lastmodified":1473798119,
+    "wof:lastmodified":1496789262,
     "wof:name":"Appilcation Electronique Europeenne (a2e)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

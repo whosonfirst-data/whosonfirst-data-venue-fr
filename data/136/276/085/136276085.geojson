@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.047997,46.120991,1.047997,46.120991",
     "geom:latitude":46.120991,
     "geom:longitude":1.047997,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766329,
-        85633147,
         85683531,
+        102191581,
+        404227777,
+        404376045,
+        85633147,
+        1108826385,
+        101766329,
+        136253037,
         102064693
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2nqAXuYBsZatkDBvKh641X_46.120991_1.047997@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7fc1bfc3eae654cacfaa8d2bef503c10",
+    "wof:geomhash":"c0b20d9304c7c9b5e45f5dc7bc661bad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064693,
+            "empire_id":136253037,
+            "localadmin_id":404376045,
             "locality_id":101766329,
+            "macrocounty_id":404227777,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":136276085
         }
     ],
     "wof:id":136276085,
-    "wof:lastmodified":1473797872,
+    "wof:lastmodified":1496806034,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Du Centre Ouest (crco)",
-    "wof:parent_id":101766329,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.170041,43.720024,4.170041,43.720024",
     "geom:latitude":43.720024,
     "geom:longitude":4.170041,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774089,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404413961,
+        85633147,
+        1108826387,
+        101774089,
+        136253037,
         102071409
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0u8RQlaA7j78aiGXgnHfI1_43.720024_4.170041@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e855d08ce67a54fbc18f1b39b71be04",
+    "wof:geomhash":"145c0aa1e9a24e33c7c4e9e87fbd87cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071409,
+            "empire_id":136253037,
+            "localadmin_id":404413961,
             "locality_id":101774089,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152071689
         }
     ],
     "wof:id":152071689,
-    "wof:lastmodified":1473798115,
+    "wof:lastmodified":1496778421,
     "wof:name":"Cave Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

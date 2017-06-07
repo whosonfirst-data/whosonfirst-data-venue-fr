@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.668149,44.795116,-0.668149,44.795116",
     "geom:latitude":44.795116,
     "geom:longitude":-0.668149,
@@ -27,9 +28,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_0Jcl3YbaZqvLV4WzAauDF9_44.795116_-0.668149@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d67188b9a07ad0bd03fb1f89bd46ab32",
+    "wof:geomhash":"abc7562408a71ff185897dd5248597a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136299777
         }
     ],
     "wof:id":136299777,
-    "wof:lastmodified":1473798036,
+    "wof:lastmodified":1496775959,
     "wof:name":"Banque Populaire Du Sud-ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

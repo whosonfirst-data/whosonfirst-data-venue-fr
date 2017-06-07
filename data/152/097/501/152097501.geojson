@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876862,45.707638,4.876862,45.707638",
     "geom:latitude":45.707638,
     "geom:longitude":4.876862,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750827,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414029,
+        85633147,
+        1108826389,
+        101750827,
+        136253037,
         102072119
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0F1HnrzLpaQhysuwyzFuol_45.707638_4.876862@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0fe406f471a2170a5651e4c5e1b14b2e",
+    "wof:geomhash":"f0f0cf800a8923b9ba0d4bb7a272f728",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072119,
+            "empire_id":136253037,
+            "localadmin_id":404414029,
             "locality_id":101750827,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152097501
         }
     ],
     "wof:id":152097501,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1496782020,
     "wof:name":"Vos Logistique Lyon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

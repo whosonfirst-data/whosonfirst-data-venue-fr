@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.239589,49.417583,0.239589,49.417583",
     "geom:latitude":49.417583,
     "geom:longitude":0.239589,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814927,
-        85633147,
         85683579,
+        102191581,
+        404228031,
+        404399669,
+        85633147,
+        1108826393,
+        101814927,
+        136253037,
         102067877
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_6X4iyWUrKRQg0ShQe4X2zK_49.417583_0.239589@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb4aa8cc71f5f13506078e773ff9f531",
+    "wof:geomhash":"2c21462f68f7fb23973927a18d8eb3ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067877,
+            "empire_id":136253037,
+            "localadmin_id":404399669,
             "locality_id":101814927,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152056443
         }
     ],
     "wof:id":152056443,
-    "wof:lastmodified":1473797930,
+    "wof:lastmodified":1496787272,
     "wof:name":"Les Combustibles De Normandie (lcn)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

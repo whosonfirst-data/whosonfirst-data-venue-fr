@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.968105,47.212769,5.968105,47.212769",
     "geom:latitude":47.212769,
     "geom:longitude":5.968105,
@@ -22,9 +23,13 @@
     "sg:province":"Franche-Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_6hx7Mqv7vdqPuth8vUaVYe_47.212769_5.968105@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa55f6e538145c49f094dc7c372098f7",
+    "wof:geomhash":"aa01680e1f0e90335e1e899032dca37c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152750155
         }
     ],
     "wof:id":152750155,
-    "wof:lastmodified":1473798505,
+    "wof:lastmodified":1496788128,
     "wof:name":"Schlumberger Tests Et Transactions S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

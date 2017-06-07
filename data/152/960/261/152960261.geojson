@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.966949,48.692993,6.966949,48.692993",
     "geom:latitude":48.692993,
     "geom:longitude":6.966949,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883761,
-        85633147,
         85683271,
+        102191581,
+        404228281,
+        404415871,
+        85633147,
+        1108826391,
+        101883761,
+        136253037,
         102067359
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3kCZl0MquS8zFijwuJ2yJo_48.692993_6.966949@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7343d74d3421cb7b167a33d9ec91e2a7",
+    "wof:geomhash":"041c18cdaa31214db1ca53ba79297017",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067359,
+            "empire_id":136253037,
+            "localadmin_id":404415871,
             "locality_id":101883761,
+            "macrocounty_id":404228281,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152960261
         }
     ],
     "wof:id":152960261,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496784747,
     "wof:name":"Holtim (france)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

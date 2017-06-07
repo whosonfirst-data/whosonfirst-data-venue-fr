@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.877873,43.60791,3.877873,43.60791",
     "geom:latitude":43.60791,
     "geom:longitude":3.877873,
@@ -28,9 +29,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_40p7y8Y6B3Rtey598wizrA_43.607910_3.877873@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"10761a74f0d9104ff4352352b30f1214",
+    "wof:geomhash":"148bf2a4bed0c67144b8ec282c64c58f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136311331
         }
     ],
     "wof:id":136311331,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496799418,
     "wof:name":"Imprimerie Des Beaux-arts S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

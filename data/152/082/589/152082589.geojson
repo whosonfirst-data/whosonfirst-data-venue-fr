@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.768559,49.84985,4.768559,49.84985",
     "geom:latitude":49.84985,
     "geom:longitude":4.768559,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840269,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404348649,
+        85633147,
+        1108826391,
+        101840269,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1gPQfSQrlB7pEEuzUZoE25_49.849850_4.768559@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b20e63013428c457bdc2854a03dcbb26",
+    "wof:geomhash":"fbd7bfb81f7d45dcd9c3d2d53bc1ed57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404348649,
             "locality_id":101840269,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152082589
         }
     ],
     "wof:id":152082589,
-    "wof:lastmodified":1473798143,
+    "wof:lastmodified":1496785007,
     "wof:name":"Ste D'etudes Et De Reals D'outillages Et De Meca (seroma)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

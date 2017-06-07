@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.601259,50.696503,1.601259,50.696503",
     "geom:latitude":50.696503,
     "geom:longitude":1.601259,
@@ -22,30 +23,40 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QDZ7aleTCQwHknugkKEya_50.696503_1.601259@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0feac0fe683d31aa65a258b5e2d0ecbc",
+    "wof:geomhash":"dd26f965ebd9976a97aaa24025f12b6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":152622473
         }
     ],
     "wof:id":152622473,
-    "wof:lastmodified":1473798480,
+    "wof:lastmodified":1496790362,
     "wof:name":"Microforce S.a.r.l.",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

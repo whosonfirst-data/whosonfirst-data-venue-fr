@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.346284,48.878803,2.346284,48.878803",
     "geom:latitude":48.878803,
     "geom:longitude":2.346284,
@@ -22,11 +23,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873865,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068555,
-        85873865
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,19 @@
     "wof:geomhash":"6a72c4c373681da8e5ad8f330f0448e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068555,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873865,
             "region_id":85683497,
             "venue_id":153044779
         }
     ],
     "wof:id":153044779,
-    "wof:lastmodified":1473797975,
+    "wof:lastmodified":1491930814,
     "wof:name":"A.e.t. S.a.r.l. - Alter Ego Traduction",
     "wof:parent_id":85873865,
     "wof:placetype":"venue",

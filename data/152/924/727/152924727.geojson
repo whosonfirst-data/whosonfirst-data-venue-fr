@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.871674,45.76696,4.871674,45.76696",
     "geom:latitude":45.76696,
     "geom:longitude":4.871674,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_4ZfZFI6h0BK501nabup26N_45.766960_4.871674@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"28eac2ec96ab3fddfbf2d85898b91f79",
+    "wof:geomhash":"a29dbfe3d272f51bc9c6f36cada4f6f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152924727
         }
     ],
     "wof:id":152924727,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496783448,
     "wof:name":"Graphique Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.450859,49.18441,-0.450859,49.18441",
     "geom:latitude":49.18441,
     "geom:longitude":-0.450859,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750151,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404372195,
+        85633147,
+        1108826393,
+        101750151,
+        136253037,
         102065889
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0cYWz9aZfDNATB473AcF24_49.184410_-0.450859@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e004ced6cae7b7ffbffd3dc92f48c9c3",
+    "wof:geomhash":"233d5b96561253616206779d8578723a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065889,
+            "empire_id":136253037,
+            "localadmin_id":404372195,
             "locality_id":101750151,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136289753
         }
     ],
     "wof:id":136289753,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496787455,
     "wof:name":"Aeroport De Caen Carpiquet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

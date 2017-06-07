@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.100645,49.522018,0.100645,49.522018",
     "geom:latitude":49.522018,
     "geom:longitude":0.100645,
@@ -33,30 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794449,
+        102191581,
         85633147,
-        101750183,
-        102072319,
-        85794449
+        404227963,
+        1108826393,
+        101751441,
+        136253037,
+        102071715,
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fcEEdjMUNXmpJMARnNDyf_49.522018_0.100645@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f367da6b1b15bb8ebe14512deeeb82ae",
+    "wof:geomhash":"a4cb85afe117a5f4e18affb47b368fd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072319,
-            "locality_id":101750183,
+            "county_id":102071715,
+            "empire_id":136253037,
+            "locality_id":101751441,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794449,
             "region_id":85683251,
             "venue_id":136313247
         }
     ],
     "wof:id":136313247,
-    "wof:lastmodified":1473797986,
+    "wof:lastmodified":1496787465,
     "wof:name":"Thomelin (ets Roger)",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",

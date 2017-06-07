@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.052457,47.32412,5.052457,47.32412",
     "geom:latitude":47.32412,
     "geom:longitude":5.052457,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_2ujX7noehrp52lDvQ6oY6l_47.324120_5.052457@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"02d69e5c266be73c87c2671331d4dac1",
+    "wof:geomhash":"2e3d9948f76ff809ec88bb482110fa57",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136293645
         }
     ],
     "wof:id":136293645,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496788704,
     "wof:name":"Caisse Champagne Bourgogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

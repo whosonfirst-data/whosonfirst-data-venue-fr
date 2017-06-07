@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.526561,43.49052,1.526561,43.49052",
     "geom:latitude":43.49052,
     "geom:longitude":1.526561,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753157,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404394607,
+        85633147,
+        1108826387,
+        101753157,
+        136253037,
         102068269
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1HIQrOdhIH647LQUcJhYXM_43.490520_1.526561@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bfefe4c3867f6badac2068f8fcdb09a9",
+    "wof:geomhash":"d5562ccd4684bb373db87a8c7ffc45d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068269,
+            "empire_id":136253037,
+            "localadmin_id":404394607,
             "locality_id":101753157,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152068277
         }
     ],
     "wof:id":152068277,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1496777791,
     "wof:name":"Fabrication Materiel Piscines (fmp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

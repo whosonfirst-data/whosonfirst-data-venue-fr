@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.264944,47.670765,7.264944,47.670765",
     "geom:latitude":47.670765,
     "geom:longitude":7.264944,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765747,
-        85633147,
         85683381,
+        102191581,
+        404227733,
+        404347773,
+        85633147,
+        1108826391,
+        101765747,
+        136253037,
         102064281
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7GqfWMLAKwH8bbYICj8sAf_47.670765_7.264944@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc09ac194045da2104037a41c12a5142",
+    "wof:geomhash":"e4ea7d91a8f25d083cb166bd476c5428",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064281,
+            "empire_id":136253037,
+            "localadmin_id":404347773,
             "locality_id":101765747,
+            "macrocounty_id":404227733,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152987087
         }
     ],
     "wof:id":152987087,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496786198,
     "wof:name":"Logsys Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

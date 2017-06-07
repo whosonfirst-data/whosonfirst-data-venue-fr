@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.574336,44.347828,2.574336,44.347828",
     "geom:latitude":44.347828,
     "geom:longitude":2.574336,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831899,
-        85633147,
         85683301,
+        102191581,
+        85633147,
+        404227821,
+        1108826387,
+        101831899,
+        136253037,
         102072281
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5Fynj9IIVZg8kEOHz3Ca2u_44.347828_2.574336@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e9d638418e44a43c102de039d666089",
+    "wof:geomhash":"f80c5f0aa3098e3687df3fb934600f18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072281,
+            "empire_id":136253037,
             "locality_id":101831899,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":136295875
         }
     ],
     "wof:id":136295875,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496777947,
     "wof:name":"Udsma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

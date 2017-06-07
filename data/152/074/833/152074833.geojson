@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.511666,45.841576,3.511666,45.841576",
     "geom:latitude":45.841576,
     "geom:longitude":3.511666,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767857,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404348921,
+        85633147,
+        1108826389,
+        101767857,
+        136253037,
         102071435
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_14dnq4xFcid2lLd20AOmrC_45.841576_3.511666@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"141a991db0edc2e140e0a30bac5291da",
+    "wof:geomhash":"ec5f1e843f2917ac9df497954c286d4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071435,
+            "empire_id":136253037,
+            "localadmin_id":404348921,
             "locality_id":101767857,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152074833
         }
     ],
     "wof:id":152074833,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496806375,
     "wof:name":"Elec Industrie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

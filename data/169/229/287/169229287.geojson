@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.15851,51.01302,2.15851,51.01302",
     "geom:latitude":51.01302,
     "geom:longitude":2.15851,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839655,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404359233,
+        85633147,
+        1108826399,
+        101839655,
+        136253037,
         102069415
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_6mbwYYK2pQpkmCB7dm0yYP_51.013020_2.158510@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"108aa93eb4cf80b8d9f9b8db9a1153d4",
+    "wof:geomhash":"7a60de6b7e55c0231410a1366cf8f5b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069415,
+            "empire_id":136253037,
+            "localadmin_id":404359233,
             "locality_id":101839655,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169229287
         }
     ],
     "wof:id":169229287,
-    "wof:lastmodified":1473798260,
+    "wof:lastmodified":1496791819,
     "wof:name":"Bus Valera Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

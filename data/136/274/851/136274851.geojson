@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.216158,43.343075,3.216158,43.343075",
     "geom:latitude":43.343075,
     "geom:longitude":3.216158,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749211,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404422507,
+        85633147,
+        1108826387,
+        101749211,
+        136253037,
         102072255
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4LdXyT0tkQDOh1ie9O3voO_43.343075_3.216158@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"97939a454e78d15cbfedda291f1020c1",
+    "wof:geomhash":"5e456413b1e77741fa7227f47b37824c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072255,
+            "empire_id":136253037,
+            "localadmin_id":404422507,
             "locality_id":101749211,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136274851
         }
     ],
     "wof:id":136274851,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496778662,
     "wof:name":"Banque Courtois (banque Courtois)",
-    "wof:parent_id":101749211,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

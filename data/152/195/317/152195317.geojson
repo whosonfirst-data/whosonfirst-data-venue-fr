@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.62658,49.936039,4.62658,49.936039",
     "geom:latitude":49.936039,
     "geom:longitude":4.62658,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813731,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404351585,
+        85633147,
+        1108826391,
+        101813731,
+        136253037,
         102070493
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4npWjCOfxAQ9UQGv3LfEyT_49.936039_4.626580@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f671c45479b7785297a2b4ea924e87a0",
+    "wof:geomhash":"e72627bfe4e2d7e0029d56b10d94b504",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070493,
+            "empire_id":136253037,
+            "localadmin_id":404351585,
             "locality_id":101813731,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152195317
         }
     ],
     "wof:id":152195317,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496785966,
     "wof:name":"Beroudiaux (fonderies) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.396897,45.454365,4.396897,45.454365",
     "geom:latitude":45.454365,
     "geom:longitude":4.396897,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_25dBh49oittqGFoVtCt4FI_45.454365_4.396897@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6e75873acdc84f18781ae7994915f05",
+    "wof:geomhash":"2f40ef55e07454736a7f97f119b94258",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152112539
         }
     ],
     "wof:id":152112539,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496780481,
     "wof:name":"Ste Application Gaz Industrie Meteo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

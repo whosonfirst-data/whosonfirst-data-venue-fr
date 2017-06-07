@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.619046,43.122429,1.619046,43.122429",
     "geom:latitude":43.122429,
     "geom:longitude":1.619046,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831585,
-        85633147,
         85683335,
+        102191581,
+        85633147,
+        404227815,
+        1108826387,
+        101831585,
+        136253037,
         102072441
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_74ryXCsDCVu7odaZQicYNi_43.122429_1.619046@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6cda810dff346d4694a4c78b36a417a",
+    "wof:geomhash":"68d6db8fc3697faa95fe369536dec887",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072441,
+            "empire_id":136253037,
             "locality_id":101831585,
+            "macrocounty_id":404227815,
+            "macroregion_id":1108826387,
             "region_id":85683335,
             "venue_id":152966753
         }
     ],
     "wof:id":152966753,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496778351,
     "wof:name":"Sans Et Fils Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

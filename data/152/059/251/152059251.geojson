@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.099605,48.179585,3.099605,48.179585",
     "geom:latitude":48.179585,
     "geom:longitude":3.099605,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763277,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404368115,
+        85633147,
+        1108826395,
+        101763277,
+        136253037,
         102066377
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2nMHEsvi9frlENVreNzh5B_48.179585_3.099605@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9274151de8345117498847689c83aff4",
+    "wof:geomhash":"feb1ba02fe965fcf32038ae94491f645",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066377,
+            "empire_id":136253037,
+            "localadmin_id":404368115,
             "locality_id":101763277,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152059251
         }
     ],
     "wof:id":152059251,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496788535,
     "wof:name":"Ateliers Senonais De Confection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.372876,45.267735,6.372876,45.267735",
     "geom:latitude":45.267735,
     "geom:longitude":6.372876,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770583,
-        85633147,
         85683265,
+        102191581,
+        404228153,
+        404388667,
+        85633147,
+        1108826389,
+        101770583,
+        136253037,
         102069031
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5WwS9woszS5Rpq84oCRlFN_45.267735_6.372876@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b4043b026d015faa2c7ab95440dd264",
+    "wof:geomhash":"631ea0219f440cdf60dfeea16305d6e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069031,
+            "empire_id":136253037,
+            "localadmin_id":404388667,
             "locality_id":101770583,
+            "macrocounty_id":404228153,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152855137
         }
     ],
     "wof:id":152855137,
-    "wof:lastmodified":1473798547,
+    "wof:lastmodified":1496801921,
     "wof:name":"Yvroud Europ\u00e9enne Des Fluides",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

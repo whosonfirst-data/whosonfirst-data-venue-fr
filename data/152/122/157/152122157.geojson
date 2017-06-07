@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.374037,43.840515,4.374037,43.840515",
     "geom:latitude":43.840515,
     "geom:longitude":4.374037,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4QM1YccAAJMt9AFRXE1jS7_43.840515_4.374037@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"69771ea244aa67e55cca2edd261df1f4",
+    "wof:geomhash":"1d1ae31f64deb8a30c6632244f4fb2cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152122157
         }
     ],
     "wof:id":152122157,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496778086,
     "wof:name":"Flightman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

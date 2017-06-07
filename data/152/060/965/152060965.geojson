@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.056177,46.035908,4.056177,46.035908",
     "geom:latitude":46.035908,
     "geom:longitude":4.056177,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_76tVE9ZPfasusEgCx2KyTt_46.035908_4.056177@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3fab1ba55ee19c6efdd6643ff5075608",
+    "wof:geomhash":"d99fb0916726979c4784bf075500fc16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152060965
         }
     ],
     "wof:id":152060965,
-    "wof:lastmodified":1473797960,
+    "wof:lastmodified":1496802039,
     "wof:name":"Gilb (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

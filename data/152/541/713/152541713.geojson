@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.975787,45.729679,4.975787,45.729679",
     "geom:latitude":45.729679,
     "geom:longitude":4.975787,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749389,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404419897,
+        85633147,
+        1108826389,
+        101749389,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6c9gn9zHkQtGdjFAN6Pi20_45.729679_4.975787@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"87b61e6b4c786df85fb12ae9d61899f3",
+    "wof:geomhash":"50a569acca607b6781ebebcb1150e47f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404419897,
             "locality_id":101749389,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152541713
         }
     ],
     "wof:id":152541713,
-    "wof:lastmodified":1473798482,
+    "wof:lastmodified":1496779899,
     "wof:name":"Ing\u00e9nierie Technique S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

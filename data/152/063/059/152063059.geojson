@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.184457,48.687817,6.184457,48.687817",
     "geom:latitude":48.687817,
     "geom:longitude":6.184457,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_63ZfN78D4AnFIys1YDOOmo_48.687817_6.184457@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b911b25c09a09aba7b7617c49f10e97e",
+    "wof:geomhash":"a6d796afb56fba386ace323d1640975c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152063059
         }
     ],
     "wof:id":152063059,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1496784697,
     "wof:name":"Ste Marion Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

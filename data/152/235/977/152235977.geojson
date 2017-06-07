@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.318469,49.206264,-0.318469,49.206264",
     "geom:latitude":49.206264,
     "geom:longitude":-0.318469,
@@ -24,9 +25,13 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750163,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404227825,
+        1108826393,
+        101750163,
+        136253037,
         102071963
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_2fE23cIJOPIT9c6ytb8d9J_49.206264_-0.318469@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7632130a27b8ee59508ea6dd8cc7b5de",
+    "wof:geomhash":"1977676aab7d8c4f32377b92d4be1daf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071963,
+            "empire_id":136253037,
             "locality_id":101750163,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152235977
         }
     ],
     "wof:id":152235977,
-    "wof:lastmodified":1473798333,
+    "wof:lastmodified":1496786939,
     "wof:name":"A.c.r.o. - Association Pour Le Contr\u00f4le De La Radioactivit\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

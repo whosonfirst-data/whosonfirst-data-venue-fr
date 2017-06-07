@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.03577,47.323044,5.03577,47.323044",
     "geom:latitude":47.323044,
     "geom:longitude":5.03577,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_14c6YwLNMyXeS6vE8jASk8_47.323044_5.035770@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9aa1b0d120c007688d6ce7303852a332",
+    "wof:geomhash":"97b3dbb48278075fd7294bf06d7c8975",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152858791
         }
     ],
     "wof:id":152858791,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496794838,
     "wof:name":"Padieu Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

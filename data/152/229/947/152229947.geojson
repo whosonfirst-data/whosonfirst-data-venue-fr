@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.301032,48.86554,2.301032,48.86554",
     "geom:latitude":48.86554,
     "geom:longitude":2.301032,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873861,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068357,
-        85873861
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,19 @@
     "wof:geomhash":"a11c0caf4c75c33441a37c9b7a05d085",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873861,
             "region_id":85683497,
             "venue_id":152229947
         }
     ],
     "wof:id":152229947,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1491936414,
     "wof:name":"Ysl Sa",
     "wof:parent_id":85873861,
     "wof:placetype":"venue",

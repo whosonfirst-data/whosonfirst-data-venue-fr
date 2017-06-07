@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.843071,46.802048,4.843071,46.802048",
     "geom:latitude":46.802048,
     "geom:longitude":4.843071,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752995,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404416037,
+        85633147,
+        1108826395,
+        101752995,
+        136253037,
         102072317
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_24LV7mrkYIzYhIWb18azlm_46.802048_4.843071@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f2b0e85246b5330aef08eef2fba49be6",
+    "wof:geomhash":"b1d8981465f8df6837e31bd94fc093ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072317,
+            "empire_id":136253037,
+            "localadmin_id":404416037,
             "locality_id":101752995,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152103001
         }
     ],
     "wof:id":152103001,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496794739,
     "wof:name":"St Gobain Emballage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

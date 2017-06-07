@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.307176,46.287048,4.307176,46.287048",
     "geom:latitude":46.287048,
     "geom:longitude":4.307176,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766611,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404401549,
+        85633147,
+        1108826395,
+        101766611,
+        136253037,
         102066365
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5DpIjb53vVJBGY3pVdgos9_46.287048_4.307176@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"31e9184c0452476ab6f826eef6d40ebd",
+    "wof:geomhash":"b71de743fb8a32d21f3a43e632dc2ca4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066365,
+            "empire_id":136253037,
+            "localadmin_id":404401549,
             "locality_id":101766611,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":169039055
         }
     ],
     "wof:id":169039055,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496788301,
     "wof:name":"Logerot Diffusion S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

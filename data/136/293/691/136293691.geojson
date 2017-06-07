@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.084391,46.028942,4.084391,46.028942",
     "geom:latitude":46.028942,
     "geom:longitude":4.084391,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828957,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404426389,
+        85633147,
+        1108826389,
+        101828957,
+        136253037,
         102066879
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4tv2Jrpe5bt74QxC3yCweb_46.028942_4.084391@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd3ed152f6e5688e4f76e2a23f31e03f",
+    "wof:geomhash":"c4e82b0ed0340f9291308b64ab54c14d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066879,
+            "empire_id":136253037,
+            "localadmin_id":404426389,
             "locality_id":101828957,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136293691
         }
     ],
     "wof:id":136293691,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496780890,
     "wof:name":"Caisse D'epargne Loire Drome Ardeche Banque Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

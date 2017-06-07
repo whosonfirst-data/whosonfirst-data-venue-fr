@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.803615,50.526592,2.803615,50.526592",
     "geom:latitude":50.526592,
     "geom:longitude":2.803615,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840675,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404385619,
+        85633147,
+        1108826399,
+        101840675,
+        136253037,
         102065605
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7cz3vZ60X5m8rBltVonXFX_50.526592_2.803615@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"86e63a04455ffdb5fe59c668152375d2",
+    "wof:geomhash":"38204e9e0968c0a393eae28a57235d20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065605,
+            "empire_id":136253037,
+            "localadmin_id":404385619,
             "locality_id":101840675,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152402057
         }
     ],
     "wof:id":152402057,
-    "wof:lastmodified":1473798396,
+    "wof:lastmodified":1496790600,
     "wof:name":"Delta S\u00e9curit\u00e9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

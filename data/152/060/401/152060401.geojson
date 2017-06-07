@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.037523,47.321892,5.037523,47.321892",
     "geom:latitude":47.321892,
     "geom:longitude":5.037523,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4qOYlLCxLBftIxsKQ5j6tL_47.321892_5.037523@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"60bc654935bc17277985100cbb369aee",
+    "wof:geomhash":"d20209016ec017837e4d0ea47f13a780",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152060401
         }
     ],
     "wof:id":152060401,
-    "wof:lastmodified":1473797938,
+    "wof:lastmodified":1496789065,
     "wof:name":"Devred Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

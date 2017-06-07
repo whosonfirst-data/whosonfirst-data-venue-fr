@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.140286,48.704319,6.140286,48.704319",
     "geom:latitude":48.704319,
     "geom:longitude":6.140286,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750133,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404361371,
+        85633147,
+        1108826391,
+        101750133,
+        136253037,
         102070445
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1tE5F5Qo0rusMnW7SSfn59_48.704319_6.140286@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7447a56bbdc65f6148aab18edd8e2ab9",
+    "wof:geomhash":"6023bfc5bc590a4c09cf6f89fd7b9a79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070445,
+            "empire_id":136253037,
+            "localadmin_id":404361371,
             "locality_id":101750133,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":169026717
         }
     ],
     "wof:id":169026717,
-    "wof:lastmodified":1473797977,
+    "wof:lastmodified":1496786284,
     "wof:name":"Lascom Ing\u00e9nierie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

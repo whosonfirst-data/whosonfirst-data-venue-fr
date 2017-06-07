@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.66606,48.582813,7.66606,48.582813",
     "geom:latitude":48.582813,
     "geom:longitude":7.66606,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vGh5lZCazfhznuFawX5Yh_48.582813_7.666060@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7ab962a6ef427694e220708c9ac44aec",
+    "wof:geomhash":"c8645185c1350337a6b29cb397b74bce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":136291813
         }
     ],
     "wof:id":136291813,
-    "wof:lastmodified":1473797949,
+    "wof:lastmodified":1496786460,
     "wof:name":"Dimaco S.a.r.l.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.854194,46.401779,2.854194,46.401779",
     "geom:latitude":46.401779,
     "geom:longitude":2.854194,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766523,
-        85633147,
         85683293,
+        102191581,
+        404227589,
+        404422295,
+        85633147,
+        1108826389,
+        101766523,
+        136253037,
         102068327
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5GixaQAhc9PiwPNQJCETi6_46.401779_2.854194@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b7de3c3e73c91dc7c0aaaf782762587",
+    "wof:geomhash":"b34db3f4ab0b9ee574dc301fb3fc21a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068327,
+            "empire_id":136253037,
+            "localadmin_id":404422295,
             "locality_id":101766523,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152088389
         }
     ],
     "wof:id":152088389,
-    "wof:lastmodified":1473798196,
+    "wof:lastmodified":1496780872,
     "wof:name":"Bourbon Industrie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.609222,48.083969,4.609222,48.083969",
     "geom:latitude":48.083969,
     "geom:longitude":4.609222,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886103,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404410763,
+        85633147,
+        1108826391,
+        101886103,
+        136253037,
         102066137
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1prx50JjMU0kJBJqe3Wg02_48.083969_4.609222@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6bab4269f26781237f6bbc5c658dbbb0",
+    "wof:geomhash":"f1c749e62bfcc77c1ea31532322f4332",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066137,
+            "empire_id":136253037,
+            "localadmin_id":404410763,
             "locality_id":101886103,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152071887
         }
     ],
     "wof:id":152071887,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496784451,
     "wof:name":"Champagne Lhuillier Rene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

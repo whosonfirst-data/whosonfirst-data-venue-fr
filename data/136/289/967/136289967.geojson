@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.663768,46.270306,5.663768,46.270306",
     "geom:latitude":46.270306,
     "geom:longitude":5.663768,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6FGaKga9kLHkWbG7dRIBF2_46.270306_5.663768@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"baaf2a6c01ae188f1e840ac297144566",
+    "wof:geomhash":"f46f1f13f591c8261500fc991d4f32ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136289967
         }
     ],
     "wof:id":136289967,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496800721,
     "wof:name":"Laperriere Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.142468,47.627068,6.142468,47.627068",
     "geom:latitude":47.627068,
     "geom:longitude":6.142468,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829471,
-        85633147,
         85683559,
+        102191581,
+        85633147,
+        404227951,
+        1108826395,
+        101829471,
+        136253037,
         102072073
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_5o451Mmp7NevNqK6M6EPoz_47.627068_6.142468@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6eeacd2a530e07db7f3b3461b70fd75b",
+    "wof:geomhash":"bc8a286df6d9afef79485918012d0411",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072073,
+            "empire_id":136253037,
             "locality_id":101829471,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":136295149
         }
     ],
     "wof:id":136295149,
-    "wof:lastmodified":1473797890,
+    "wof:lastmodified":1496789235,
     "wof:name":"Transport De Fonds Valtis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

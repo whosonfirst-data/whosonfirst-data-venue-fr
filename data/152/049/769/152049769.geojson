@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.848414,45.816223,4.848414,45.816223",
     "geom:latitude":45.816223,
     "geom:longitude":4.848414,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749391,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404380343,
+        85633147,
+        1108826389,
+        101749391,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_118m0pT427NC3KqStSWHXQ_45.816223_4.848414@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e09e3830819600bdd6bbc77a681ebf72",
+    "wof:geomhash":"df2b15152fdf92e1d4389125c587ad64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404380343,
             "locality_id":101749391,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152049769
         }
     ],
     "wof:id":152049769,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496801491,
     "wof:name":"Sa Paul Bocuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.244093,48.710915,6.244093,48.710915",
     "geom:latitude":48.710915,
     "geom:longitude":6.244093,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750115,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404402493,
+        85633147,
+        1108826391,
+        101750115,
+        136253037,
         102070579
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4Gaphv4zDKpMCrFhHD5etA_48.710915_6.244093@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"318a5bb9026d2a5b3f41649b3b453073",
+    "wof:geomhash":"eb041bbbcad1f6cddf804e18927b6519",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070579,
+            "empire_id":136253037,
+            "localadmin_id":404402493,
             "locality_id":101750115,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152108501
         }
     ],
     "wof:id":152108501,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496783946,
     "wof:name":"Technologies Hospitalieres De Lorraine (thl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

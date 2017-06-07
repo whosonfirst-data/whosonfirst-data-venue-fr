@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.443995,46.088383,3.443995,46.088383",
     "geom:latitude":46.088383,
     "geom:longitude":3.443995,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829185,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404410713,
+        85633147,
+        1108826389,
+        101829185,
+        136253037,
         102066133
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_21PuhBwIa5uTEBz7WtBE72_46.088383_3.443995@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"12f1d3caf917083b076eff5261286d8b",
+    "wof:geomhash":"c1c61c96f4f244957cd041bb8a8312cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066133,
+            "empire_id":136253037,
+            "localadmin_id":404410713,
             "locality_id":101829185,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":153006361
         }
     ],
     "wof:id":153006361,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496783471,
     "wof:name":"Firelec Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.562749,47.215027,-1.562749,47.215027",
     "geom:latitude":47.215027,
     "geom:longitude":-1.562749,
@@ -27,11 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,19 @@
     "wof:geomhash":"2bc0ab68d630c91cc60ee885883f13ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":136303483
         }
     ],
     "wof:id":136303483,
-    "wof:lastmodified":1473798012,
+    "wof:lastmodified":1491937887,
     "wof:name":"Cr\u00e9dit Du Nord, Agence Particuliers Professionels",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

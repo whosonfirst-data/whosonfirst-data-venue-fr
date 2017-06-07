@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.343812,46.612114,0.343812,46.612114",
     "geom:latitude":46.612114,
     "geom:longitude":0.343812,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4tXUNQtm3DTonFA1mq5WLq_46.612114_0.343812@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b5ab855f16a306475c8366d5b92f29a",
+    "wof:geomhash":"64f8a00a6dd813127a515b48464034b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152054737
         }
     ],
     "wof:id":152054737,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496775867,
     "wof:name":"Grassin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.30206,46.075954,6.30206,46.075954",
     "geom:latitude":46.075954,
     "geom:longitude":6.30206,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827615,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404398009,
+        85633147,
+        1108826389,
+        101827615,
+        136253037,
         102067469
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2j1d269wu54zH2h40H1Re4_46.075954_6.302060@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b805eb18f4301e5ae8375364ac839d8c",
+    "wof:geomhash":"9c3a16985fe0bc065523a3d2398f1ac9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067469,
+            "empire_id":136253037,
+            "localadmin_id":404398009,
             "locality_id":101827615,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152050225
         }
     ],
     "wof:id":152050225,
-    "wof:lastmodified":1473797894,
+    "wof:lastmodified":1496779721,
     "wof:name":"Association Foire Exposition Haute Savoie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

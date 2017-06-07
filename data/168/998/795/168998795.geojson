@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.40303,49.040272,3.40303,49.040272",
     "geom:latitude":49.040272,
     "geom:longitude":3.40303,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828523,
-        85633147,
         85683247,
+        102191581,
+        404227587,
+        404384611,
+        85633147,
+        1108826399,
+        101828523,
+        136253037,
         102065611
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2l7ZJUGBYaZvk9MgR1BHms_49.040272_3.403030@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"27fdef4597fd9e62fab0a2dcc16be393",
+    "wof:geomhash":"f971d3452715e2843335fe2c1b7dfecc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065611,
+            "empire_id":136253037,
+            "localadmin_id":404384611,
             "locality_id":101828523,
+            "macrocounty_id":404227587,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":168998795
         }
     ],
     "wof:id":168998795,
-    "wof:lastmodified":1473798166,
+    "wof:lastmodified":1496791093,
     "wof:name":"Imprimerie De La Passerelle S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

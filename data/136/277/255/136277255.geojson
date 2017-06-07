@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.376496,50.062321,1.376496,50.062321",
     "geom:latitude":50.062321,
     "geom:longitude":1.376496,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840331,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404372471,
+        85633147,
+        1108826393,
+        101840331,
+        136253037,
         102067775
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0KYHq9MCISsb2YcNrm90By_50.062321_1.376496@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06eb6d2c813ed7ffba2db866a43f3c0f",
+    "wof:geomhash":"473ef2b73550af1ed1dfae00e4dfe705",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067775,
+            "empire_id":136253037,
+            "localadmin_id":404372471,
             "locality_id":101840331,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136277255
         }
     ],
     "wof:id":136277255,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496786951,
     "wof:name":"Fcn Societe Francaise De Revision",
-    "wof:parent_id":101840331,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

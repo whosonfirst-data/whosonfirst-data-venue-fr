@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.416788,49.165581,5.416788,49.165581",
     "geom:latitude":49.165581,
     "geom:longitude":5.416788,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828321,
-        85633147,
         85683297,
+        102191581,
+        85633147,
+        404228117,
+        1108826391,
+        101828321,
+        136253037,
         102071969
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_0daW1GqGFdv8MMvsFy5BKT_49.165581_5.416788@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7033c4a63b17f4c09e46be701b158cf2",
+    "wof:geomhash":"c2be59bd773dc9b1e7d3921b3a844653",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071969,
+            "empire_id":136253037,
             "locality_id":101828321,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":152076217
         }
     ],
     "wof:id":152076217,
-    "wof:lastmodified":1473798124,
+    "wof:lastmodified":1496784695,
     "wof:name":"Facen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.328829,43.751373,-1.328829,43.751373",
     "geom:latitude":43.751373,
     "geom:longitude":-1.328829,
@@ -27,9 +28,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772851,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404359157,
+        85633147,
+        1108826385,
+        101772851,
+        136253037,
         102068909
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1xnT6tYDJM2s4KBpJKWr7b_43.751373_-1.328829@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6619e4ae0f0a8a05c61966e66b26ab5",
+    "wof:geomhash":"5efd9c13676ff1cd89666ea11fd33160",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068909,
+            "empire_id":136253037,
+            "localadmin_id":404359157,
             "locality_id":101772851,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136299749
         }
     ],
     "wof:id":136299749,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496775979,
     "wof:name":"Banque Populaire Du Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

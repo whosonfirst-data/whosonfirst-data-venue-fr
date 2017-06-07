@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.031786,49.250595,4.031786,49.250595",
     "geom:latitude":49.250595,
     "geom:longitude":4.031786,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4gGNdE0Zi68zu9G8BA9TgQ_49.250595_4.031786@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"354511cd97f76e2622063fa2670a977b",
+    "wof:geomhash":"b12b165274568be7b967c022c5944a03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136288985
         }
     ],
     "wof:id":136288985,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496805539,
     "wof:name":"Grande Paroisse Sa Direction Regionale Des Ventes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

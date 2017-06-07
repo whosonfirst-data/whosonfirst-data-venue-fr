@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.29314,43.77261,1.29314,43.77261",
     "geom:latitude":43.77261,
     "geom:longitude":1.29314,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772389,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404361023,
+        85633147,
+        1108826387,
+        101772389,
+        136253037,
         102067117
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6PepfJv3SLPBNe9lO9MlLC_43.772610_1.293140@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"91e90a0ce85369f7ebf3afed08bd49fb",
+    "wof:geomhash":"b6fdaacedc5e008c2cb653a0da483020",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067117,
+            "empire_id":136253037,
+            "localadmin_id":404361023,
             "locality_id":101772389,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":136276057
         }
     ],
     "wof:id":136276057,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496777775,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De Toulouse Etagence De Grenade",
-    "wof:parent_id":101772389,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

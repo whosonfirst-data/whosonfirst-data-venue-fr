@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.636858,47.806263,3.636858,47.806263",
     "geom:latitude":47.806263,
     "geom:longitude":3.636858,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101853793,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404405741,
+        85633147,
+        1108826395,
+        101853793,
+        136253037,
         102064697
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_0vL9dBXxeVYdFps7A7CUP2_47.806263_3.636858@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e069e2c4d07d02e873261636080e8255",
+    "wof:geomhash":"965a539311bf7eecdd2924ce1f157335",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064697,
+            "empire_id":136253037,
+            "localadmin_id":404405741,
             "locality_id":101853793,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136284367
         }
     ],
     "wof:id":136284367,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496789280,
     "wof:name":"Renault Agriculture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.369595,43.958794,0.369595,43.958794",
     "geom:latitude":43.958794,
     "geom:longitude":0.369595,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772581,
-        85633147,
         85683467,
+        102191581,
+        404227867,
+        404425157,
+        85633147,
+        1108826387,
+        101772581,
+        136253037,
         102065289
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5NaGtfx6lOPBxLfxuzmMtV_43.958794_0.369595@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8422b41152c8169d8d33adf28c63e122",
+    "wof:geomhash":"e0d8d8a6bb81ad7f707b0a8dd3339d91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065289,
+            "empire_id":136253037,
+            "localadmin_id":404425157,
             "locality_id":101772581,
+            "macrocounty_id":404227867,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152934701
         }
     ],
     "wof:id":152934701,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496803801,
     "wof:name":"Ste Coop Agricole Terres De Gascogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

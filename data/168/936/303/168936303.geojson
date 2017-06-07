@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.357466,44.650421,-0.357466,44.650421",
     "geom:latitude":44.650421,
     "geom:longitude":-0.357466,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770723,
-        85633147,
         85683243,
+        102191581,
+        404228071,
+        404397401,
+        85633147,
+        1108826385,
+        101770723,
+        136253037,
         102070669
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4OA2dIY4dvzA2g0KeM1eJ3_44.650421_-0.357466@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"181269c92da1cb1bfea0daaac736094d",
+    "wof:geomhash":"11cfe7cba96c978c11390b873aca915d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070669,
+            "empire_id":136253037,
+            "localadmin_id":404397401,
             "locality_id":101770723,
+            "macrocounty_id":404228071,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":168936303
         }
     ],
     "wof:id":168936303,
-    "wof:lastmodified":1473798109,
+    "wof:lastmodified":1496776155,
     "wof:name":"Etablissements Deuninck S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

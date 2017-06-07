@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.100024,43.862263,0.100024,43.862263",
     "geom:latitude":43.862263,
     "geom:longitude":0.100024,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772573,
-        85633147,
         85683467,
+        102191581,
+        404227867,
+        404413009,
+        85633147,
+        1108826387,
+        101772573,
+        136253037,
         102065529
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6xKdckhQGks8Q42UCWjTDF_43.862263_0.100024@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4259a5f6114266cf493fdb719d792301",
+    "wof:geomhash":"3b31a363fc3dc52545f0ed4cfff99536",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065529,
+            "empire_id":136253037,
+            "localadmin_id":404413009,
             "locality_id":101772573,
+            "macrocounty_id":404227867,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":136276885
         }
     ],
     "wof:id":136276885,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496777589,
     "wof:name":"Ctre Comptabilite Gestion Agriculteurs Ass",
-    "wof:parent_id":101772573,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

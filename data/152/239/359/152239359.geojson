@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.062844,43.219505,0.062844,43.219505",
     "geom:latitude":43.219505,
     "geom:longitude":0.062844,
@@ -23,9 +24,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831665,
-        85633147,
         85683203,
+        102191581,
+        404228139,
+        404425271,
+        85633147,
+        1108826387,
+        101831665,
+        136253037,
         102070451
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4KUHVovy6i3nfqvS04Upx0_43.219505_0.062844@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07c7cdd0ba2882bbd1f884cdb02c4231",
+    "wof:geomhash":"2705e19c915beb3fcf2ec309fe17751f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070451,
+            "empire_id":136253037,
+            "localadmin_id":404425271,
             "locality_id":101831665,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152239359
         }
     ],
     "wof:id":152239359,
-    "wof:lastmodified":1473798337,
+    "wof:lastmodified":1496803433,
     "wof:name":"A.f.p.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

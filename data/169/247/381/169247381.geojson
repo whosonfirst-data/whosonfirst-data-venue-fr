@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.526447,44.880408,-0.526447,44.880408",
     "geom:latitude":44.880408,
     "geom:longitude":-0.526447,
@@ -34,28 +35,38 @@
     "sg:website":"http://www.webwag.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14oNcH5pdtiaBngNxzt53j_44.880408_-0.526447@1308163239"
     },
     "wof:country":"FR",
-    "wof:geomhash":"415b4e1b67383f80879421744aedc9b9",
+    "wof:geomhash":"3532254a0ee4d18a42360ab882503e74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169247381
         }
     ],
     "wof:id":169247381,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496775697,
     "wof:name":"Webwag",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

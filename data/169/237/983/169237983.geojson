@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.131537,43.868031,-1.131537,43.868031",
     "geom:latitude":43.868031,
     "geom:longitude":-1.131537,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772903,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404383529,
+        85633147,
+        1108826385,
+        101772903,
+        136253037,
         102064657
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0sEKY9ey9w7gQ0NpeM2PaI_43.868031_-1.131537@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9fe9e1a77802f292715d609ce0074456",
+    "wof:geomhash":"3f6d89c77d5d345d05e22a3d04c01252",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064657,
+            "empire_id":136253037,
+            "localadmin_id":404383529,
             "locality_id":101772903,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":169237983
         }
     ],
     "wof:id":169237983,
-    "wof:lastmodified":1473798277,
+    "wof:lastmodified":1496776361,
     "wof:name":"Escobois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

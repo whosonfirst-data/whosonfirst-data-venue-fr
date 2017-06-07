@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.40107,43.515072,0.40107,43.515072",
     "geom:latitude":43.515072,
     "geom:longitude":0.40107,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772587,
-        85633147,
         85683467,
+        102191581,
+        404228069,
+        404365139,
+        85633147,
+        1108826387,
+        101772587,
+        136253037,
         102067899
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1gX19yUg58ki46piTXKWzD_43.515072_0.401070@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fac811e11de86f36a0a419e81c9ef23",
+    "wof:geomhash":"60723c2b309caf4002f43765a6c5fa8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067899,
+            "empire_id":136253037,
+            "localadmin_id":404365139,
             "locality_id":101772587,
+            "macrocounty_id":404228069,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152081827
         }
     ],
     "wof:id":152081827,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496777708,
     "wof:name":"Synd Intercom Eau Potabl Reg Mir Sicom Aep Mirande",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

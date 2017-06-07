@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.212677,46.975845,-0.212677,46.975845",
     "geom:latitude":46.975845,
     "geom:longitude":-0.212677,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829265,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829265,
+        136253037,
         102072007
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6uzxY4BPlA5PP6UcIZUgXo_46.975845_-0.212677@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"379be4a9fd924342b5dd433bc0374a01",
+    "wof:geomhash":"e953c3b33323147c33335b427add32eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829265,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169084813
         }
     ],
     "wof:id":169084813,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1496775435,
     "wof:name":"P.o.e. - Porte Ouverte Emploi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

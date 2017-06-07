@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.309137,45.945873,-1.309137,45.945873",
     "geom:latitude":45.945873,
     "geom:longitude":-1.309137,
@@ -24,9 +25,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766317,
-        85633147,
         85683275,
+        102191581,
+        404227833,
+        404383011,
+        85633147,
+        1108826385,
+        101766317,
+        136253037,
         102069983
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5f3T1kvYRmqUlgs9ZRQWkx_45.945873_-1.309137@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6a9d2532b62a5d5cda9c26690d86a9d",
+    "wof:geomhash":"8128ccc58f4c6816ff7ec9f08ebe0280",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069983,
+            "empire_id":136253037,
+            "localadmin_id":404383011,
             "locality_id":101766317,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":169185817
         }
     ],
     "wof:id":169185817,
-    "wof:lastmodified":1473798222,
+    "wof:lastmodified":1496776234,
     "wof:name":"Sumaca Vm Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.068814,46.040413,4.068814,46.040413",
     "geom:latitude":46.040413,
     "geom:longitude":4.068814,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6ody1WgqTw456UdoaUO0SZ_46.040413_4.068814@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e46a098ce089d3335e15e53c1406610",
+    "wof:geomhash":"2f41d0138eb489e34eede428ec79debe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152046041
         }
     ],
     "wof:id":152046041,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496802766,
     "wof:name":"Institut Medico Professionnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.067687,45.03413,5.067687,45.03413",
     "geom:latitude":45.03413,
     "geom:longitude":5.067687,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830435,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404384089,
+        85633147,
+        1108826389,
+        101830435,
+        136253037,
         102064589
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3cgffIwxMPloivdWox8bpv_45.034130_5.067687@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"baaa885a3df1960cbe72d9e850faae50",
+    "wof:geomhash":"5be09fa53f58bd7e6ccf1ed148ae40fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064589,
+            "empire_id":136253037,
+            "localadmin_id":404384089,
             "locality_id":101830435,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":168979187
         }
     ],
     "wof:id":168979187,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496801968,
     "wof:name":"Groupe D.b.c. Dauphimaille S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

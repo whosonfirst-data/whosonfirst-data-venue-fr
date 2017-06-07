@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.91644,45.692429,5.91644,45.692429",
     "geom:latitude":45.692429,
     "geom:longitude":5.91644,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7giZvMYRIp4LX7P3ojJSG9_45.692429_5.916440@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e6bb6502cc07bba0c4ac10a8c581d0d",
+    "wof:geomhash":"7d6b94e37171b387820e66b86c3eadee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":136314869
         }
     ],
     "wof:id":136314869,
-    "wof:lastmodified":1473798035,
+    "wof:lastmodified":1496800077,
     "wof:name":"Association Les Papillons Blancs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

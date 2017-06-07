@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.972302,46.4813,3.972302,46.4813",
     "geom:latitude":46.4813,
     "geom:longitude":3.972302,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829233,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404427607,
+        85633147,
+        1108826395,
+        101829233,
+        136253037,
         102067525
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1pRNHEqtPhbpSPq95Vnab5_46.481300_3.972302@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d29ee46ef944db5b71a87dc82fa84345",
+    "wof:geomhash":"15c531e63a3b034a6183464741458d7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067525,
+            "empire_id":136253037,
+            "localadmin_id":404427607,
             "locality_id":101829233,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152050195
         }
     ],
     "wof:id":152050195,
-    "wof:lastmodified":1473797882,
+    "wof:lastmodified":1496788819,
     "wof:name":"Sarl Du Rond Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

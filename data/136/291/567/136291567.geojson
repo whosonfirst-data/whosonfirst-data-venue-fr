@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.364716,49.203388,-0.364716,49.203388",
     "geom:latitude":49.203388,
     "geom:longitude":-0.364716,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750149,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404382871,
+        85633147,
+        1108826393,
+        101750149,
+        136253037,
         102072139
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2ZuVvxioXGEGNLcXBIBR3a_49.203388_-0.364716@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e9c97fcbea93c10e87df4c10b4698fe",
+    "wof:geomhash":"eee1ccbd17c4ccde40a6201ffb6ec4a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072139,
+            "empire_id":136253037,
+            "localadmin_id":404382871,
             "locality_id":101750149,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136291567
         }
     ],
     "wof:id":136291567,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496787263,
     "wof:name":"Herve Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

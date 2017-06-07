@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.129955,45.704155,3.129955,45.704155",
     "geom:latitude":45.704155,
     "geom:longitude":3.129955,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767823,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404380393,
+        85633147,
+        1108826389,
+        101767823,
+        136253037,
         102071481
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6HlUN6pyJk2ok40XVPVPlh_45.704155_3.129955@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3352ef9ea85f05d6e2fd806593e68937",
+    "wof:geomhash":"25a6a543cccee04865372163895f4ec4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071481,
+            "empire_id":136253037,
+            "localadmin_id":404380393,
             "locality_id":101767823,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152141385
         }
     ],
     "wof:id":152141385,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496781375,
     "wof:name":"Froid Climat Auvergne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

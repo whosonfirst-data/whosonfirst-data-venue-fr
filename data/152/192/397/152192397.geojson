@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.470555,49.571781,0.470555,49.571781",
     "geom:latitude":49.571781,
     "geom:longitude":0.470555,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840339,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404382457,
+        85633147,
+        1108826393,
+        101840339,
+        136253037,
         102065331
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6cA6vSC29hgDyO7eb9Thbw_49.571781_0.470555@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5aade97a5e7f6f16051765d70ca6629f",
+    "wof:geomhash":"71f96e4001f7b02ecc7ebe106c3ae574",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065331,
+            "empire_id":136253037,
+            "localadmin_id":404382457,
             "locality_id":101840339,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152192397
         }
     ],
     "wof:id":152192397,
-    "wof:lastmodified":1473798317,
+    "wof:lastmodified":1496804879,
     "wof:name":"Pmt Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

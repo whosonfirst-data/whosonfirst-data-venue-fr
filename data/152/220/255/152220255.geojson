@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.630893,44.188564,0.630893,44.188564",
     "geom:latitude":44.188564,
     "geom:longitude":0.630893,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_22FCPi3Hzick9X1Id9ZbtW_44.188564_0.630893@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"336a71f1babc45301da8a29e12474881",
+    "wof:geomhash":"b6158b2c02e828978b5c57b8c6c4003f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152220255
         }
     ],
     "wof:id":152220255,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1496776404,
     "wof:name":"Espace Decouverte Auto Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

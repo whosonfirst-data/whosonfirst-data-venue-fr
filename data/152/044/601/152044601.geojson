@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.255932,50.754074,2.255932,50.754074",
     "geom:latitude":50.754074,
     "geom:longitude":2.255932,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6GI7g06J5kRpxyF3VoMfwl_50.754074_2.255932@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"035b9632cbd7f6f1dc2135ea45011ffe",
+    "wof:geomhash":"e7915fe6d737f14d4d83cc11fcc0a157",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152044601
         }
     ],
     "wof:id":152044601,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496790368,
     "wof:name":"Association De Folard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.023802,50.540073,3.023802,50.540073",
     "geom:latitude":50.540073,
     "geom:longitude":3.023802,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751529,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404360725,
+        85633147,
+        1108826399,
+        101751529,
+        136253037,
         102071883
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_657gdD5Fd0rxscqEit62gq_50.540073_3.023802@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2ad792cf345775001dae2e71ec0f7926",
+    "wof:geomhash":"54dfd5e20a30929fa09a2aa98c57635b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071883,
+            "empire_id":136253037,
+            "localadmin_id":404360725,
             "locality_id":101751529,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152068073
         }
     ],
     "wof:id":152068073,
-    "wof:lastmodified":1473798054,
+    "wof:lastmodified":1496792667,
     "wof:name":"Stpv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

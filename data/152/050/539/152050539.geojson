@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933005,45.738136,4.933005,45.738136",
     "geom:latitude":45.738136,
     "geom:longitude":4.933005,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749377,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101749377,
+        136253037,
         102070519
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_1OCx8pAbO6Vv11fPeqU3bl_45.738136_4.933005@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d1338d72ff8a189cf621ec6c83fcd98",
+    "wof:geomhash":"931b388de6d06a79717e80a2566a00ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070519,
+            "empire_id":136253037,
             "locality_id":101749377,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152050539
         }
     ],
     "wof:id":152050539,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496780956,
     "wof:name":"Lyon Vannes Et Raccords Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

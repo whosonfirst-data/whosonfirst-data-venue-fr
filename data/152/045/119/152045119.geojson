@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.196235,45.696896,3.196235,45.696896",
     "geom:latitude":45.696896,
     "geom:longitude":3.196235,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828989,
-        85633147,
         85683471,
-        102071481
+        102191581,
+        404227937,
+        404390873,
+        85633147,
+        1108826389,
+        101828989,
+        136253037,
+        102071519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45cbgJMb7p8ql4bGPHAPF7_45.696896_3.196235@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8db0263fffdd8d8b7734be15341eea9b",
+    "wof:geomhash":"d984e6bc7c6ab40e422a6b265b682bcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071481,
+            "county_id":102071519,
+            "empire_id":136253037,
+            "localadmin_id":404390873,
             "locality_id":101828989,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152045119
         }
     ],
     "wof:id":152045119,
-    "wof:lastmodified":1473797884,
+    "wof:lastmodified":1496806271,
     "wof:name":"College Jean Rostand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

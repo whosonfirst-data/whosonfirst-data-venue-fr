@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.909421,45.583405,5.909421,45.583405",
     "geom:latitude":45.583405,
     "geom:longitude":5.909421,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6ho5wiah8HzmjXgONwqgQW_45.583405_5.909421@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"853bc419ac223b6b276fcdbf72d9a8f8",
+    "wof:geomhash":"f22407269933838b9b92a5cf4e0d95eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152114477
         }
     ],
     "wof:id":152114477,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496780932,
     "wof:name":"Sa Carglass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

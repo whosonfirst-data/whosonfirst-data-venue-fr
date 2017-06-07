@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.414095,46.158936,3.414095,46.158936",
     "geom:latitude":46.158936,
     "geom:longitude":3.414095,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829181,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404364397,
+        85633147,
+        1108826389,
+        101829181,
+        136253037,
         102065357
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3Vm46rE1hn4445RX9yqP0y_46.158936_3.414095@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ad83d403d1e7e5bbb9b4beb3cc954704",
+    "wof:geomhash":"f301afbfff659712b0e4207f75a0d823",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065357,
+            "empire_id":136253037,
+            "localadmin_id":404364397,
             "locality_id":101829181,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":153011041
         }
     ],
     "wof:id":153011041,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496806208,
     "wof:name":"Etudes Production Et Innovations En Electronique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.001183,47.257835,6.001183,47.257835",
     "geom:latitude":47.257835,
     "geom:longitude":6.001183,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3tdCZANc3ZVrqVLcrs00DO_47.257835_6.001183@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e367f899eaf82b37e81fe65ec1f8a322",
+    "wof:geomhash":"f296b7ed062ba9e05a06c6ddca9dd5bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152066201
         }
     ],
     "wof:id":152066201,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496804510,
     "wof:name":"Compagnie Generale D'espaces Verts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

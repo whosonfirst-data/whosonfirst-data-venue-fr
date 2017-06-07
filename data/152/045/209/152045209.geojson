@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.899105,45.892799,0.899105,45.892799",
     "geom:latitude":45.892799,
     "geom:longitude":0.899105,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768243,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404228177,
+        1108826385,
+        101768243,
+        136253037,
         102072363
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1DA0mJahHWdD2kxZfQ5wpD_45.892799_0.899105@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8dbc6c8033f54b4476ad461d5ba35911",
+    "wof:geomhash":"8e7f8eb43cb283cb7bc6c8e2b7929e8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072363,
+            "empire_id":136253037,
             "locality_id":101768243,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152045209
         }
     ],
     "wof:id":152045209,
-    "wof:lastmodified":1473797894,
+    "wof:lastmodified":1496776681,
     "wof:name":"College Louise Michel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.889025,44.861118,1.889025,44.861118",
     "geom:latitude":44.861118,
     "geom:longitude":1.889025,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770359,
-        85633147,
         85683389,
+        102191581,
+        404227897,
+        404382415,
+        85633147,
+        1108826387,
+        101770359,
+        136253037,
         102068763
     ],
     "wof:brand_id":420575501,
@@ -45,18 +51,23 @@
         "sg:id":"SG_7hZMtn9XcSB5xIaTxq2xfc_44.861118_1.889025@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"623142d7a9bc45b2db26c8202135610e",
+    "wof:geomhash":"54a319d0b083316e403488ab7b237b6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068763,
+            "empire_id":136253037,
+            "localadmin_id":404382415,
             "locality_id":101770359,
+            "macrocounty_id":404227897,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":136294253
         }
     ],
     "wof:id":136294253,
-    "wof:lastmodified":1473797900,
+    "wof:lastmodified":1496778248,
     "wof:name":"Credit Lyonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.025229,48.948898,4.025229,48.948898",
     "geom:latitude":48.948898,
     "geom:longitude":4.025229,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762645,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404361695,
+        85633147,
+        1108826391,
+        101762645,
+        136253037,
         102064555
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6Y578l0RRY5Mw8hcpMxEeW_48.948898_4.025229@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4bdb7563a6142614c3f59c77e74bdac",
+    "wof:geomhash":"1abd583c4c91e6bedbee485c9e3459a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064555,
+            "empire_id":136253037,
+            "localadmin_id":404361695,
             "locality_id":101762645,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071881
         }
     ],
     "wof:id":152071881,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496786496,
     "wof:name":"Champagne Launois Pere Et Fils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

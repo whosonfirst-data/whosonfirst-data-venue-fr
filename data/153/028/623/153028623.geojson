@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.838102,45.732693,4.838102,45.732693",
     "geom:latitude":45.732693,
     "geom:longitude":4.838102,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_6G2auISIkpSZUfk6crptBR_45.732693_4.838102@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"228f48fc13f471c1fd9a2d7f5d73ac49",
+    "wof:geomhash":"89c1d3e927ddec9ec85a3d4c482f439f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153028623
         }
     ],
     "wof:id":153028623,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496779414,
     "wof:name":"Cate (comptoir D'affretements Et De Transports Europeens)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.036449,47.321693,5.036449,47.321693",
     "geom:latitude":47.321693,
     "geom:longitude":5.036449,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3VbQKE1vd8LEGEjOOTM72T_47.321693_5.036449@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"064f8340af380e40e43f5c28272877d5",
+    "wof:geomhash":"d2eb68deacd0eda049d6882c954744ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136274473
         }
     ],
     "wof:id":136274473,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496789068,
     "wof:name":"Abeille Assurances",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

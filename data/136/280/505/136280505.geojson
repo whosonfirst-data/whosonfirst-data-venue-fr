@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.713249,45.857288,4.713249,45.857288",
     "geom:latitude":45.857288,
     "geom:longitude":4.713249,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767735,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414729,
+        85633147,
+        1108826389,
+        101767735,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_113BYxkjwoBAOQGadvs4HY_45.857288_4.713249@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20dfc42e599e30d86ca43d9a5057a892",
+    "wof:geomhash":"2e07c1bbe651c822188098977df108b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404414729,
             "locality_id":101767735,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136280505
         }
     ],
     "wof:id":136280505,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496783373,
     "wof:name":"Label G2 Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

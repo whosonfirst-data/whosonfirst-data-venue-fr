@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.605893,49.218414,2.605893,49.218414",
     "geom:latitude":49.218414,
     "geom:longitude":2.605893,
@@ -24,9 +25,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1NjzflmyVEXUaA4mY6qdxn_49.218414_2.605893@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ef0106d9c8f9f9288119295a59297b31",
+    "wof:geomhash":"b64a9230d4e9fd39267aee07c94b7d20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":168835173
         }
     ],
     "wof:id":168835173,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496791065,
     "wof:name":"Bourjois S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

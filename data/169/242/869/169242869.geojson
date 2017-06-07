@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.894872,45.598843,5.894872,45.598843",
     "geom:latitude":45.598843,
     "geom:longitude":5.894872,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3cpTj1ieALiOvzsEeZRtwv_45.598843_5.894872@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"66f6accea430ebc77ba15760599e059e",
+    "wof:geomhash":"e0425548c75a062fff393d92859bf343",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":169242869
         }
     ],
     "wof:id":169242869,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496781936,
     "wof:name":"Point P Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

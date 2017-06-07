@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.027633,49.253208,4.027633,49.253208",
     "geom:latitude":49.253208,
     "geom:longitude":4.027633,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3Nw5KSeERCRBTLUuoqpEo8_49.253208_4.027633@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3c5a3f3f42eed39996b483a907deb2a0",
+    "wof:geomhash":"5c6f2e9ae5be021f633aac59166549ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152063751
         }
     ],
     "wof:id":152063751,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496785921,
     "wof:name":"La Manufacture De Retouches Rapides",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

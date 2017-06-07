@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.194514,49.040245,6.194514,49.040245",
     "geom:latitude":49.040245,
     "geom:longitude":6.194514,
@@ -23,9 +24,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761375,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404395989,
+        85633147,
+        1108826391,
+        101761375,
+        136253037,
         102070345
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_36YvxN4SpCM9SrgAeFZcGh_49.040245_6.194514@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5c60937fa8d1163b2d867b4d70785c62",
+    "wof:geomhash":"49d4608db7fa1a74d249fa86edb08398",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070345,
+            "empire_id":136253037,
+            "localadmin_id":404395989,
             "locality_id":101761375,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152288735
         }
     ],
     "wof:id":152288735,
-    "wof:lastmodified":1473798354,
+    "wof:lastmodified":1496785189,
     "wof:name":"A\u00e9roport De Metz Nancy Lorraine / Gigal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

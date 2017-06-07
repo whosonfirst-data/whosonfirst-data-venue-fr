@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.393455,49.049057,-0.393455,49.049057",
     "geom:latitude":49.049057,
     "geom:longitude":-0.393455,
@@ -36,24 +37,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683579,
+        102191581,
         85633147,
-        85683579
+        404360149,
+        404227825,
+        1108826393,
+        136253037,
+        102065515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rNduqwtWeIOeYfxYTmx60_49.049057_-0.393455@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"395eac311a7cfe9a5cf4c6a719d75d24",
+    "wof:geomhash":"764c32524abb74354a808419c1aeffe1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102065515,
+            "empire_id":136253037,
+            "localadmin_id":404360149,
+            "locality_id":-1,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152129131
         }
     ],
     "wof:id":152129131,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496787470,
     "wof:name":"Info Controle Automatisme Regulation Electricite Icare (icare)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

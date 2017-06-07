@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.950486,49.042061,3.950486,49.042061",
     "geom:latitude":49.042061,
     "geom:longitude":3.950486,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828113,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828113,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7VwuXkDIxlgZVLwf8fsAp4_49.042061_3.950486@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b6955411c27641b710ff3608352de0b4",
+    "wof:geomhash":"b061f90fcdbc0bbb5139feb6f398e4b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828113,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073655
         }
     ],
     "wof:id":152073655,
-    "wof:lastmodified":1473798137,
+    "wof:lastmodified":1496805553,
     "wof:name":"Sa Champagne Testulat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.392506,49.201942,-0.392506,49.201942",
     "geom:latitude":49.201942,
     "geom:longitude":-0.392506,
@@ -24,9 +25,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750149,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404382871,
+        85633147,
+        1108826393,
+        101750149,
+        136253037,
         102072139
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4pH5aIW2lZWEZMo2xke35g_49.201942_-0.392506@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de96d394a168e11e28d1674cbcb3342d",
+    "wof:geomhash":"bd0856dd1eba7091beff901a9785843d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072139,
+            "empire_id":136253037,
+            "localadmin_id":404382871,
             "locality_id":101750149,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":168896451
         }
     ],
     "wof:id":168896451,
-    "wof:lastmodified":1473798057,
+    "wof:lastmodified":1496787408,
     "wof:name":"Dassault Syst\u00e8mes S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.411578,48.253201,6.411578,48.253201",
     "geom:latitude":48.253201,
     "geom:longitude":6.411578,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827679,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404416505,
+        85633147,
+        1108826391,
+        101827679,
+        136253037,
         102065255
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2jdm1d4HZhH4cIBAtERLaT_48.253201_6.411578@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"793c28379eadd74c070344b810bc09ff",
+    "wof:geomhash":"33de8167c5c3055e7c00d3ca9418b57f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065255,
+            "empire_id":136253037,
+            "localadmin_id":404416505,
             "locality_id":101827679,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152095331
         }
     ],
     "wof:id":152095331,
-    "wof:lastmodified":1473798192,
+    "wof:lastmodified":1496794362,
     "wof:name":"Au Fume Vosgien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

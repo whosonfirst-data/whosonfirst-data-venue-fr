@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.381713,47.178871,5.381713,47.178871",
     "geom:latitude":47.178871,
     "geom:longitude":5.381713,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768491,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404420005,
+        85633147,
+        1108826395,
+        101768491,
+        136253037,
         102064717
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7SHch5lf0sAlRqL8PsMHJM_47.178871_5.381713@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a65c7987dc9507e2b22c1dec36ae34f0",
+    "wof:geomhash":"c155196c1b4758f5537e23307efb2028",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064717,
+            "empire_id":136253037,
+            "localadmin_id":404420005,
             "locality_id":101768491,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":153003203
         }
     ],
     "wof:id":153003203,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496794915,
     "wof:name":"Acieries Du Val De Saone Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

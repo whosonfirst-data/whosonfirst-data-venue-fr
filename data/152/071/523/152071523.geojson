@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.718175,43.397839,1.718175,43.397839",
     "geom:latitude":43.397839,
     "geom:longitude":1.718175,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774003,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404413015,
+        85633147,
+        1108826387,
+        101774003,
+        136253037,
         102070883
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7ZDm0XCU85CZgVtP6lviKm_43.397839_1.718175@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb7b76ee3e1ee57d0a99e7e03f430ae0",
+    "wof:geomhash":"3cbe4d375ba9742d0cff0e85440292ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070883,
+            "empire_id":136253037,
+            "localadmin_id":404413015,
             "locality_id":101774003,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152071523
         }
     ],
     "wof:id":152071523,
-    "wof:lastmodified":1473798107,
+    "wof:lastmodified":1496778029,
     "wof:name":"Benoit Serres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

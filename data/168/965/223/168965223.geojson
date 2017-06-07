@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.28652,45.388603,4.28652,45.388603",
     "geom:latitude":45.388603,
     "geom:longitude":4.28652,
@@ -22,9 +23,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752993,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404354045,
+        85633147,
+        1108826389,
+        101752993,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0wuv55o7wLtBICiDjIdOYN_45.388603_4.286520@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5c2a5391c5e0cf85121fafc74b400875",
+    "wof:geomhash":"c9b71c5e2c3455389da12ca93caf574e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404354045,
             "locality_id":101752993,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168965223
         }
     ],
     "wof:id":168965223,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496781399,
     "wof:name":"F\u00e9ralco Lapouyade S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

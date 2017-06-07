@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.086084,50.365444,3.086084,50.365444",
     "geom:latitude":50.365444,
     "geom:longitude":3.086084,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840557,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228125,
+        1108826399,
+        101840557,
+        136253037,
         102071911
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_06y9R0cgkVeershnERbwks_50.365444_3.086084@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0af3d718361ba2b6c739df64deb4c97a",
+    "wof:geomhash":"632d35126229a3102a81c17539889a0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071911,
+            "empire_id":136253037,
             "locality_id":101840557,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152116993
         }
     ],
     "wof:id":152116993,
-    "wof:lastmodified":1473798277,
+    "wof:lastmodified":1496790693,
     "wof:name":"Tetra Informatique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.172617,48.619553,6.172617,48.619553",
     "geom:latitude":48.619553,
     "geom:longitude":6.172617,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753525,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101753525,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6pdvK90DrQo3AGU49fRFrL_48.619553_6.172617@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5851c55e59ab1d8bd821e54816797471",
+    "wof:geomhash":"c8fa26f209413427bf0f2237199c22c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101753525,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152101445
         }
     ],
     "wof:id":152101445,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496784877,
     "wof:name":"Danfoss Bauer Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

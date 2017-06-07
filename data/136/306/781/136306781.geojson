@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.52409,48.546101,7.52409,48.546101",
     "geom:latitude":48.546101,
     "geom:longitude":7.52409,
@@ -29,8 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683221,
+        102191581,
         85633147,
-        85683221
+        404416763,
+        404228143,
+        1108826391,
+        136253037,
+        102066949
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -38,16 +45,23 @@
         "sg:id":"SG_3NQFGBmaR0nXEBrorYmjUL_48.546101_7.524090@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dbb0c737e7acfd7b376345cfc3d6403e",
+    "wof:geomhash":"2c13292336382abf5c2653564fabef9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066949,
+            "empire_id":136253037,
+            "localadmin_id":404416763,
+            "locality_id":-1,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136306781
         }
     ],
     "wof:id":136306781,
-    "wof:lastmodified":1473798021,
+    "wof:lastmodified":1496793168,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

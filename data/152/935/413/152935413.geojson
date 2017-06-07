@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.052852,50.672775,3.052852,50.672775",
     "geom:latitude":50.672775,
     "geom:longitude":3.052852,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750289,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404400549,
+        85633147,
+        1108826399,
+        101750289,
+        136253037,
         102070919
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7M4vNCJmxGgsYsgLY1fReH_50.672775_3.052852@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2708e7332a3109543ee93922f0e353d9",
+    "wof:geomhash":"b549e8e60539d619d6d5a70ef7ccaa4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070919,
+            "empire_id":136253037,
+            "localadmin_id":404400549,
             "locality_id":101750289,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152935413
         }
     ],
     "wof:id":152935413,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496790645,
     "wof:name":"Ateliers Du Nord Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

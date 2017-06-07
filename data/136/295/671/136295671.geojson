@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.086275,49.945625,3.086275,49.945625",
     "geom:latitude":49.945625,
     "geom:longitude":3.086275,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683363,
+        102191581,
         85633147,
-        85683363
+        404358151,
+        404228267,
+        1108826399,
+        136253037,
+        102070707
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NIZPYtE1PFW8CrBoiLkSD_49.945625_3.086275@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2fefda49f22d1000ccbe7ae4c47825bd",
+    "wof:geomhash":"030f986afd3d1d02c6831d8b9f52f432",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070707,
+            "empire_id":136253037,
+            "localadmin_id":404358151,
+            "locality_id":-1,
+            "macrocounty_id":404228267,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136295671
         }
     ],
     "wof:id":136295671,
-    "wof:lastmodified":1473797943,
+    "wof:lastmodified":1496795508,
     "wof:name":"La Caisse D'epargne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

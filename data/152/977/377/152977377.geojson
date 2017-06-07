@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.147794,43.954296,2.147794,43.954296",
     "geom:latitude":43.954296,
     "geom:longitude":2.147794,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831803,
-        85633147,
         85683603,
-        102072053
+        102191581,
+        404227763,
+        404365717,
+        85633147,
+        1108826387,
+        101831803,
+        136253037,
+        102071247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VlGWXJGeJ5h9hN03VhJIq_43.954296_2.147794@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5c597f2da142a25e2b2f03e794f177f6",
+    "wof:geomhash":"812cf42c43b00c54388325a64b149229",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072053,
+            "county_id":102071247,
+            "empire_id":136253037,
+            "localadmin_id":404365717,
             "locality_id":101831803,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152977377
         }
     ],
     "wof:id":152977377,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496777735,
     "wof:name":"Transports Mestre Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.704763,45.856823,4.704763,45.856823",
     "geom:latitude":45.856823,
     "geom:longitude":4.704763,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767735,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414729,
+        85633147,
+        1108826389,
+        101767735,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3l27rwTK1TmeizEhd8KWJi_45.856823_4.704763@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"78db56ad673bbc7a2da6b360fac1997d",
+    "wof:geomhash":"f37a2e915df5439a9068863f70d3877a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404414729,
             "locality_id":101767735,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152196229
         }
     ],
     "wof:id":152196229,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1496800747,
     "wof:name":"Dynacast France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

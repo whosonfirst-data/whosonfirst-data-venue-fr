@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.537125,47.915779,7.537125,47.915779",
     "geom:latitude":47.915779,
     "geom:longitude":7.537125,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764461,
-        85633147,
         85683381,
+        102191581,
+        404228145,
+        404419197,
+        85633147,
+        1108826391,
+        101764461,
+        136253037,
         102065381
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_1IE6j3QxLLeYycGgJk8DFE_47.915779_7.537125@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d20cb95cd5f5af3d62f9c951f7dda989",
+    "wof:geomhash":"f303cb28d4d0eaad448dde088f729f40",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065381,
+            "empire_id":136253037,
+            "localadmin_id":404419197,
             "locality_id":101764461,
+            "macrocounty_id":404228145,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152092375
         }
     ],
     "wof:id":152092375,
-    "wof:lastmodified":1473798196,
+    "wof:lastmodified":1496786424,
     "wof:name":"Endel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

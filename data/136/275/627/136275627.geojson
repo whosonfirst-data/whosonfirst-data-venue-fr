@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.925595,47.410332,2.925595,47.410332",
     "geom:latitude":47.410332,
     "geom:longitude":2.925595,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765535,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404351389,
+        85633147,
+        1108826395,
+        101765535,
+        136253037,
         102072381
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0XjnWDNerd9bpSpQRbhoq3_47.410332_2.925595@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea7276eb3101de6d83c6c867ba19fffa",
+    "wof:geomhash":"6e36508c3d806ce8cad24c7f292212ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072381,
+            "empire_id":136253037,
+            "localadmin_id":404351389,
             "locality_id":101765535,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":136275627
         }
     ],
     "wof:id":136275627,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496789260,
     "wof:name":"Caisse D Epargne Et De Prevoyance De Bourgognecosne Cours Sur Loire",
-    "wof:parent_id":101765535,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

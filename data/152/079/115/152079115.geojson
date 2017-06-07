@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.8376,45.738178,4.8376,45.738178",
     "geom:latitude":45.738178,
     "geom:longitude":4.8376,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5VLFsGaCbUY0zAWsL60yqv_45.738178_4.837600@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"25be4dd29b269be8efbb0137c1cd1d0a",
+    "wof:geomhash":"989af04dda1e1b1166211d332feeeb16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152079115
         }
     ],
     "wof:id":152079115,
-    "wof:lastmodified":1473798123,
+    "wof:lastmodified":1496780342,
     "wof:name":"Nexans France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

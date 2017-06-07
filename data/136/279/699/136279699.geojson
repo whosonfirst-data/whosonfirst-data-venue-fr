@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.889302,44.861301,1.889302,44.861301",
     "geom:latitude":44.861301,
     "geom:longitude":1.889302,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770359,
-        85633147,
         85683389,
+        102191581,
+        404227897,
+        404382415,
+        85633147,
+        1108826387,
+        101770359,
+        136253037,
         102068763
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5NTGMDf15GwiHJSdTkk9Ip_44.861301_1.889302@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1799ce38e1a473b0835c315d93e4f757",
+    "wof:geomhash":"66c3c8dbad68c8bfeec18b024a2ce3ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068763,
+            "empire_id":136253037,
+            "localadmin_id":404382415,
             "locality_id":101770359,
+            "macrocounty_id":404227897,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":136279699
         }
     ],
     "wof:id":136279699,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496778247,
     "wof:name":"Societe Francaise D'expertise Comptable (sofec)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

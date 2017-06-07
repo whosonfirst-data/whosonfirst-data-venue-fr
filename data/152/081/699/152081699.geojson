@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.76375,43.580399,3.76375,43.580399",
     "geom:latitude":43.580399,
     "geom:longitude":3.76375,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773753,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404366545,
+        85633147,
+        1108826387,
+        101773753,
+        136253037,
         102071531
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0TKnEGkiEqEjO0piyTTHcM_43.580399_3.763750@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"353fb675051945a0bf688b6ce3afcbba",
+    "wof:geomhash":"11b4181fe86451ba84662434a26cf082",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071531,
+            "empire_id":136253037,
+            "localadmin_id":404366545,
             "locality_id":101773753,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152081699
         }
     ],
     "wof:id":152081699,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496778332,
     "wof:name":"Societe De Distributions D Eau Intercommunales (sdei)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.716853,45.987053,4.716853,45.987053",
     "geom:latitude":45.987053,
     "geom:longitude":4.716853,
@@ -29,9 +30,13 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:brand_id":420574521,
@@ -40,18 +45,22 @@
         "sg:id":"SG_53RbHcy3HxVxtLOweJuied_45.987053_4.716853@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b61ac77f3f7d0d6a1e327532a5395bd",
+    "wof:geomhash":"b79c1221d82068ec238b17a59e3864be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136296671
         }
     ],
     "wof:id":136296671,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496779373,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

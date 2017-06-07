@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.707301,45.989063,4.707301,45.989063",
     "geom:latitude":45.989063,
     "geom:longitude":4.707301,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749369,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404403053,
+        85633147,
+        1108826389,
+        101749369,
+        136253037,
         102071653
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5mF4ejVDDfQe9CESEd46rI_45.989063_4.707301@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c49f8faaa0a24132f52e801c91a9927e",
+    "wof:geomhash":"e0f7d07946ed6d7647a39920134f1b04",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071653,
+            "empire_id":136253037,
+            "localadmin_id":404403053,
             "locality_id":101749369,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169150153
         }
     ],
     "wof:id":169150153,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496799981,
     "wof:name":"Schneiderlin S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

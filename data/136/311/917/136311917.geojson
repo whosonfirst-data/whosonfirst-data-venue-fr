@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.00968,43.193802,3.00968,43.193802",
     "geom:latitude":43.193802,
     "geom:longitude":3.00968,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773353,
-        85633147,
         85683485,
+        102191581,
+        85633147,
+        404228023,
+        1108826387,
+        101773353,
+        136253037,
         102072185
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1kOmdPWHQulPjw6cX6KKRS_43.193802_3.009680@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"319b139cf1876bfd6937cb465b046576",
+    "wof:geomhash":"046965370c95ea3707eff51f111f1c90",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072185,
+            "empire_id":136253037,
             "locality_id":101773353,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":136311917
         }
     ],
     "wof:id":136311917,
-    "wof:lastmodified":1473798027,
+    "wof:lastmodified":1496799307,
     "wof:name":"Boulangerie Du Moulin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

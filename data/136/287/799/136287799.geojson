@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.285665,49.43906,4.285665,49.43906",
     "geom:latitude":49.43906,
     "geom:longitude":4.285665,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101903279,
-        85633147,
         85683309,
+        102191581,
+        404227813,
+        404412391,
+        85633147,
+        1108826391,
+        101903279,
+        136253037,
         102066653
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_19vxKZaI9RF3PGVLjCAUwy_49.439060_4.285665@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b1ffac3f79523499ec9602c7ebda4e39",
+    "wof:geomhash":"60a8f5f8aef28baa2e07a86168a20ead",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066653,
+            "empire_id":136253037,
+            "localadmin_id":404412391,
             "locality_id":101903279,
+            "macrocounty_id":404227813,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":136287799
         }
     ],
     "wof:id":136287799,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496805595,
     "wof:name":"Boucher Marche Jerole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

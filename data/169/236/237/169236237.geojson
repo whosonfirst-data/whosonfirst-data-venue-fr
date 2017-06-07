@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.48177,46.758995,0.48177,46.758995",
     "geom:latitude":46.758995,
     "geom:longitude":0.48177,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766935,
-        85633147,
         85683185,
+        102191581,
+        404227775,
+        404358979,
+        85633147,
+        1108826385,
+        101766935,
+        136253037,
         102070117
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1cvaiLyM8vLIOBdZSPw7Ln_46.758995_0.481770@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a2eafe86001635c0f81afb3cfe16a6a",
+    "wof:geomhash":"e0d4f9d4bec0c74937d572f240348165",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070117,
+            "empire_id":136253037,
+            "localadmin_id":404358979,
             "locality_id":101766935,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169236237
         }
     ],
     "wof:id":169236237,
-    "wof:lastmodified":1473798265,
+    "wof:lastmodified":1496777329,
     "wof:name":"Bureau Central De Securite Ouest (bcso)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

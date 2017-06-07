@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.169077,46.782524,-0.169077,46.782524",
     "geom:latitude":46.782524,
     "geom:longitude":-0.169077,
@@ -27,9 +28,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888619,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404382657,
+        85633147,
+        1108826385,
+        101888619,
+        136253037,
         102068841
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_04NDzE6WA9bOjmh6x0igia_46.782524_-0.169077@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3132aed5768c87a4e2a449891462df87",
+    "wof:geomhash":"903c47b2bcc0d5057e30bf786232356e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068841,
+            "empire_id":136253037,
+            "localadmin_id":404382657,
             "locality_id":101888619,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152892443
         }
     ],
     "wof:id":152892443,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496776127,
     "wof:name":"Plasti Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

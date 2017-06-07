@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.858425,47.635151,6.858425,47.635151",
     "geom:latitude":47.635151,
     "geom:longitude":6.858425,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749011,
-        85633147,
         85683353,
+        102191581,
+        85633147,
+        404227783,
+        1108826395,
+        101749011,
+        136253037,
         102072425
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_4x6t5TTfEsQQk10oQT0Z7o_47.635151_6.858425@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"292ff3fef58d8333b895a84bd5881f00",
+    "wof:geomhash":"198602d99786fcbc881ee97ef379a85f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072425,
+            "empire_id":136253037,
             "locality_id":101749011,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":136294015
         }
     ],
     "wof:id":136294015,
-    "wof:lastmodified":1473797872,
+    "wof:lastmodified":1496804220,
     "wof:name":"Credit Agricole De Franche-comte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.721082,45.460835,-0.721082,45.460835",
     "geom:latitude":45.460835,
     "geom:longitude":-0.721082,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894109,
-        85633147,
         85683275,
+        102191581,
+        404227621,
+        404361835,
+        85633147,
+        1108826385,
+        101894109,
+        136253037,
         102069255
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_56XnqOFfIgPDmFxoKLEqTu_45.460835_-0.721082@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56b42c5417be2aaa48c6d68ad8a8029f",
+    "wof:geomhash":"92f4e037c3f3adeddfbae19322188fc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069255,
+            "empire_id":136253037,
+            "localadmin_id":404361835,
             "locality_id":101894109,
+            "macrocounty_id":404227621,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152067847
         }
     ],
     "wof:id":152067847,
-    "wof:lastmodified":1473798086,
+    "wof:lastmodified":1496776642,
     "wof:name":"Societe De Transports Et De Travaux Publics Bordet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

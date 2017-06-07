@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.079027,43.61433,1.079027,43.61433",
     "geom:latitude":43.61433,
     "geom:longitude":1.079027,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772601,
-        85633147,
         85683467,
+        102191581,
+        404227655,
+        404406015,
+        85633147,
+        1108826387,
+        101772601,
+        136253037,
         102066029
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3PqheNb1Dh6pHkGYaTuSo8_43.614330_1.079027@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0024272d028f7e2627bf7aa6f553cf6",
+    "wof:geomhash":"c0f0db85007586aff6ae32cf8e7f266a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066029,
+            "empire_id":136253037,
+            "localadmin_id":404406015,
             "locality_id":101772601,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152052873
         }
     ],
     "wof:id":152052873,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496778113,
     "wof:name":"Sa Minoterie Chabanon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

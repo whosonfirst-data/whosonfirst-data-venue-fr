@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.616189,44.193474,0.616189,44.193474",
     "geom:latitude":44.193474,
     "geom:longitude":0.616189,
@@ -24,9 +25,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_4ah08Bra6JHERAcVnFWfmI_44.193474_0.616189@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"25153429fec84511d1589de0f2f702f6",
+    "wof:geomhash":"c26f16930174282891615a391abd80c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":169000205
         }
     ],
     "wof:id":169000205,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496777419,
     "wof:name":"Imprimerie Moderne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.842615,45.468784,4.842615,45.468784",
     "geom:latitude":45.468784,
     "geom:longitude":4.842615,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101851219,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404391049,
+        85633147,
+        1108826389,
+        101851219,
+        136253037,
         102070983
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0eyFQ2K7sYDGghZwAc3Tty_45.468784_4.842615@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d76faf010d8a7d05cdcd511d4143b760",
+    "wof:geomhash":"f1a65293cf8f7eb98d2185175455bc8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070983,
+            "empire_id":136253037,
+            "localadmin_id":404391049,
             "locality_id":101851219,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152057851
         }
     ],
     "wof:id":152057851,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496800233,
     "wof:name":"French Bio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

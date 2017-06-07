@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.154985,47.620731,6.154985,47.620731",
     "geom:latitude":47.620731,
     "geom:longitude":6.154985,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829471,
-        85633147,
         85683559,
+        102191581,
+        85633147,
+        404227951,
+        1108826395,
+        101829471,
+        136253037,
         102072073
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_6Dvne6NxpdTnK2SfR1NjU6_47.620731_6.154985@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"95b8b74d793c5f3d054338be3ae9a8c9",
+    "wof:geomhash":"4b6406701e65ea09773f5e1831e455a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072073,
+            "empire_id":136253037,
             "locality_id":101829471,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152913855
         }
     ],
     "wof:id":152913855,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496788298,
     "wof:name":"La Presse De Vesoul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

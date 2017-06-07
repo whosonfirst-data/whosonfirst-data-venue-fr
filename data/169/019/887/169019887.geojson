@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.554465,43.969799,4.554465,43.969799",
     "geom:latitude":43.969799,
     "geom:longitude":4.554465,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101897351,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404411271,
+        85633147,
+        1108826387,
+        101897351,
+        136253037,
         102068391
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_788DOhmpXLMaVhHtReFCrF_43.969799_4.554465@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81b321aaf89d86e15d31d91938e808ef",
+    "wof:geomhash":"9b2b4c8b8a9455315a17410e37d5f305",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068391,
+            "empire_id":136253037,
+            "localadmin_id":404411271,
             "locality_id":101897351,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":169019887
         }
     ],
     "wof:id":169019887,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496778668,
     "wof:name":"La Compagnie Rhodanienne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

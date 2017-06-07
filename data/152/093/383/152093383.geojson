@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.354755,51.034889,2.354755,51.034889",
     "geom:latitude":51.034889,
     "geom:longitude":2.354755,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751491,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101751491,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4b5FSHswaaZHrslEtTbwyQ_51.034889_2.354755@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f012523d11e438aee70f2cca90a9ca59",
+    "wof:geomhash":"d73e394e7be87de6ada606b1229af137",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101751491,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152093383
         }
     ],
     "wof:id":152093383,
-    "wof:lastmodified":1473798182,
+    "wof:lastmodified":1496792022,
     "wof:name":"Etablissements Abeel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

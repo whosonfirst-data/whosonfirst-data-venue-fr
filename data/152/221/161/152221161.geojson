@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.54565,50.736576,2.54565,50.736576",
     "geom:latitude":50.736576,
     "geom:longitude":2.54565,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811331,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101811331,
+        136253037,
         102071935
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_2kzEDKmWA18rgXm3RosNpG_50.736576_2.545650@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d83c4179abc28c1d6f5adf8531376d12",
+    "wof:geomhash":"566f29d18ae0d4b42129a279a8a9e992",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071935,
+            "empire_id":136253037,
             "locality_id":101811331,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152221161
         }
     ],
     "wof:id":152221161,
-    "wof:lastmodified":1473798329,
+    "wof:lastmodified":1496790368,
     "wof:name":"Garage De La Lys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.499077,48.593246,7.499077,48.593246",
     "geom:latitude":48.593246,
     "geom:longitude":7.499077,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883381,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404364137,
+        85633147,
+        1108826391,
+        101883381,
+        136253037,
         102070327
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_02D3IneLy8h70BTfQ503Nl_48.593246_7.499077@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aaec7cd10dae460220f49b04ba6b0e10",
+    "wof:geomhash":"fe36915b79f668b2bb624310e801e3ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070327,
+            "empire_id":136253037,
+            "localadmin_id":404364137,
             "locality_id":101883381,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136289221
         }
     ],
     "wof:id":136289221,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496784750,
     "wof:name":"Plantagen Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

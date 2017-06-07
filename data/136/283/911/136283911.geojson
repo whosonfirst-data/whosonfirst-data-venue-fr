@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.664022,49.33614,1.664022,49.33614",
     "geom:latitude":49.33614,
     "geom:longitude":1.664022,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101877641,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404407635,
+        85633147,
+        1108826393,
+        101877641,
+        136253037,
         102066987
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_7hM7qzXfSm5Mg9A8HfUqZ9_49.336140_1.664022@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1590c111dac45416abe5b26b6acadc1",
+    "wof:geomhash":"23122ae00dc5873f6d09756252a58592",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066987,
+            "empire_id":136253037,
+            "localadmin_id":404407635,
             "locality_id":101877641,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136283911
         }
     ],
     "wof:id":136283911,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496787217,
     "wof:name":"Ets Clouet Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.724648,46.220219,4.724648,46.220219",
     "geom:latitude":46.220219,
     "geom:longitude":4.724648,
@@ -22,24 +23,37 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683569,
+        102191581,
         85633147,
-        85683543
+        404376971,
+        404227949,
+        1108826389,
+        136253037,
+        102064935
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wbf2WjH3sXP6P0jLIOV9A_46.220219_4.724648@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8ec3e5b1cdcdcf281be501095faef316",
+    "wof:geomhash":"d866f146adbf04d96ac24467dba677e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "region_id":85683543,
+            "county_id":102064935,
+            "empire_id":136253037,
+            "localadmin_id":404376971,
+            "locality_id":-1,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
+            "region_id":85683569,
             "venue_id":169026389
         }
     ],
     "wof:id":169026389,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496788305,
     "wof:name":"Lapierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

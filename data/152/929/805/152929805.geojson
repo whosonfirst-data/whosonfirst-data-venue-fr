@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.215299,50.669788,3.215299,50.669788",
     "geom:latitude":50.669788,
     "geom:longitude":3.215299,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750285,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404384009,
+        85633147,
+        1108826399,
+        101750285,
+        136253037,
         102070353
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1ul9dUdNqmihSygOVoBi23_50.669788_3.215299@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a0549c7a57a4c2cba7c12d53a398c46",
+    "wof:geomhash":"3b7aa10f096570877bc177d7c52b8df4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404384009,
             "locality_id":101750285,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152929805
         }
     ],
     "wof:id":152929805,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496796515,
     "wof:name":"Norceram",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

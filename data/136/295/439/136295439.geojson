@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.62711,44.205704,0.62711,44.205704",
     "geom:latitude":44.205704,
     "geom:longitude":0.62711,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2GIl81pKDgh7cvbIBi98rV_44.205704_0.627110@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5425ccc1b7cc6a5be338fc07d204e1b",
+    "wof:geomhash":"3128109f5a245ffce5f468ba3230c4af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136295439
         }
     ],
     "wof:id":136295439,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496776575,
     "wof:name":"Caisse Allocations Familiales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

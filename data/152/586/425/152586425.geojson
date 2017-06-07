@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.076143,49.137508,3.076143,49.137508",
     "geom:latitude":49.137508,
     "geom:longitude":3.076143,
@@ -24,9 +25,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761693,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404358629,
+        85633147,
+        1108826399,
+        101761693,
+        136253037,
         102065197
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_78PxSvfQ9EMJJFeHW07f7a_49.137508_3.076143@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8966b2b5d34680bf8b2d704f5f72501a",
+    "wof:geomhash":"208741e9037670a2bd6880a4ba8ca367",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065197,
+            "empire_id":136253037,
+            "localadmin_id":404358629,
             "locality_id":101761693,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152586425
         }
     ],
     "wof:id":152586425,
-    "wof:lastmodified":1473798455,
+    "wof:lastmodified":1496792085,
     "wof:name":"Les Moulins De L'ourcq S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

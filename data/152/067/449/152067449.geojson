@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.088772,49.422485,2.088772,49.422485",
     "geom:latitude":49.422485,
     "geom:longitude":2.088772,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_51sjhQrxMXvuTGZIjQAzTJ_49.422485_2.088772@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab58f5f1cbff0a0535396badbc281240",
+    "wof:geomhash":"cbf6608513b6ec83b768a1c2b26fa810",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152067449
         }
     ],
     "wof:id":152067449,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496795812,
     "wof:name":"Sacer Paris Nord Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

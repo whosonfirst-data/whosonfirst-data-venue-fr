@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.207603,48.614315,6.207603,48.614315",
     "geom:latitude":48.614315,
     "geom:longitude":6.207603,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750117,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101750117,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6NfrX2KeiouMivOAfpyMH9_48.614315_6.207603@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"883be67ba7330d9ac9e205d2ff9f602c",
+    "wof:geomhash":"ea17dc24d98798a5e024f6fbaa53c43e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101750117,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136289985
         }
     ],
     "wof:id":136289985,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496784882,
     "wof:name":"Transports Gondrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

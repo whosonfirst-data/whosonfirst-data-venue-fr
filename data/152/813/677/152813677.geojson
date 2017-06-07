@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.162775,49.056965,1.162775,49.056965",
     "geom:latitude":49.056965,
     "geom:longitude":1.162775,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750137,
-        85633147,
         85683283,
+        102191581,
+        404228055,
+        404423477,
+        85633147,
+        1108826393,
+        101750137,
+        136253037,
         102067303
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1Qy9slJf7e7sSjp1EU73dO_49.056965_1.162775@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3895e48a3301940e2fa7e58b9cf4e6be",
+    "wof:geomhash":"5ac95d997d0e4d0a20aef8fedf9f7ab8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067303,
+            "empire_id":136253037,
+            "localadmin_id":404423477,
             "locality_id":101750137,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152813677
         }
     ],
     "wof:id":152813677,
-    "wof:lastmodified":1473798540,
+    "wof:lastmodified":1496787372,
     "wof:name":"Technibat Cray Valley S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

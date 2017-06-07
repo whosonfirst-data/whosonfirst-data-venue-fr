@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.08515,45.778461,3.08515,45.778461",
     "geom:latitude":45.778461,
     "geom:longitude":3.08515,
@@ -24,9 +25,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2JklgOCji4umPTtIjIlT2d_45.778461_3.085150@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b028602145b2987f41e87c4e4ad224c",
+    "wof:geomhash":"c707c622e4af2f3dca1e8886a9237c03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152437357
         }
     ],
     "wof:id":152437357,
-    "wof:lastmodified":1473798405,
+    "wof:lastmodified":1496806270,
     "wof:name":"Entreprise J. J. Teissier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

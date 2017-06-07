@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.973845,50.278664,3.973845,50.278664",
     "geom:latitude":50.278664,
     "geom:longitude":3.973845,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840639,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404354321,
+        85633147,
+        1108826399,
+        101840639,
+        136253037,
         102071955
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6qAgwbrybYwLVKzLXo0Npe_50.278664_3.973845@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec1914b2c503584f60f7ea2ae4b319c2",
+    "wof:geomhash":"96d371436fc29374f9b2dbd9d076b7bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071955,
+            "empire_id":136253037,
+            "localadmin_id":404354321,
             "locality_id":101840639,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152223123
         }
     ],
     "wof:id":152223123,
-    "wof:lastmodified":1473798329,
+    "wof:lastmodified":1496791513,
     "wof:name":"Mca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

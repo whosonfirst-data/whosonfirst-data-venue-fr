@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.146552,48.696304,6.146552,48.696304",
     "geom:latitude":48.696304,
     "geom:longitude":6.146552,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6atilT2YBPXueWuTXK4Foa_48.696304_6.146552@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21338fb8a862601a492c78b8f4e2d6ce",
+    "wof:geomhash":"c4f63a8a5f8f2ccf6ca58f03885c0acc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136276899
         }
     ],
     "wof:id":136276899,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496793954,
     "wof:name":"Ctre Technique Reg Caisses Epargne Est",
-    "wof:parent_id":101750135,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

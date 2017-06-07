@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.49994,50.367992,3.49994,50.367992",
     "geom:latitude":50.367992,
     "geom:longitude":3.49994,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840601,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404384515,
+        85633147,
+        1108826399,
+        101840601,
+        136253037,
         102071847
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_52wuoKsJdX0zyLGI3ITzy7_50.367992_3.499940@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"76508e63dff4866fb01eea9462ebc5fd",
+    "wof:geomhash":"f8fe1e4fdbb9dd8c474c6e75d028782e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071847,
+            "empire_id":136253037,
+            "localadmin_id":404384515,
             "locality_id":101840601,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152111045
         }
     ],
     "wof:id":152111045,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496797264,
     "wof:name":"Marchal Confort Equipement Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

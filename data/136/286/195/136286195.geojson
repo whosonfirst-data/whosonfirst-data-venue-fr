@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.081414,46.108231,-0.081414,46.108231",
     "geom:latitude":46.108231,
     "geom:longitude":-0.081414,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766723,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404378101,
+        85633147,
+        1108826385,
+        101766723,
+        136253037,
         102066119
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_2WFvNnruUPezAaCvVPHSY3_46.108231_-0.081414@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a7c7b91a7221af0e564ee68de245dc1",
+    "wof:geomhash":"f043bf183ba3f752d2d71916f7ec6f4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066119,
+            "empire_id":136253037,
+            "localadmin_id":404378101,
             "locality_id":101766723,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136286195
         }
     ],
     "wof:id":136286195,
-    "wof:lastmodified":1473797894,
+    "wof:lastmodified":1496775802,
     "wof:name":"Cooperatve Agricole Des Plaines Du Sud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

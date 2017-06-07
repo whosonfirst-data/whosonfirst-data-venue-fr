@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.245569,49.305481,-1.245569,49.305481",
     "geom:latitude":49.305481,
     "geom:longitude":-1.245569,
@@ -24,9 +25,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828549,
-        85633147,
         85683489,
+        102191581,
+        404228235,
+        404416205,
+        85633147,
+        1108826393,
+        101828549,
+        136253037,
         102065997
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7joYO7ckt4x44P5Eq9mTYv_49.305481_-1.245569@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"caa8b73930d5ec3d8ecf3418f791d20f",
+    "wof:geomhash":"103f907ded1b18e8e563b073fd3fe930",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065997,
+            "empire_id":136253037,
+            "localadmin_id":404416205,
             "locality_id":101828549,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152209545
         }
     ],
     "wof:id":152209545,
-    "wof:lastmodified":1473798325,
+    "wof:lastmodified":1496787772,
     "wof:name":"Etablissements Maloisel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.251661,49.41296,2.251661,49.41296",
     "geom:latitude":49.41296,
     "geom:longitude":2.251661,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813677,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404365951,
+        85633147,
+        1108826399,
+        101813677,
+        136253037,
         102069283
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1r2lzDrlpcoXWUv3YSX1RC_49.412960_2.251661@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"94a98f9aa71d9b2c136cff14ec348b91",
+    "wof:geomhash":"138f0adc12aa8a7f86ec3d78b2246e58",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069283,
+            "empire_id":136253037,
+            "localadmin_id":404365951,
             "locality_id":101813677,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152870803
         }
     ],
     "wof:id":152870803,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496795712,
     "wof:name":"Sas Reims Emballages Papeterie De L'oise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

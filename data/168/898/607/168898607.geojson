@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.84028,50.228909,3.84028,50.228909",
     "geom:latitude":50.228909,
     "geom:longitude":3.84028,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840773,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404358499,
+        85633147,
+        1108826399,
+        101840773,
+        136253037,
         102066043
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5EBeNISEa7t77JfM7ZdWpw_50.228909_3.840280@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0eda10582763866271612eb45238d258",
+    "wof:geomhash":"5643e7d278516d493758d83a305960f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066043,
+            "empire_id":136253037,
+            "localadmin_id":404358499,
             "locality_id":101840773,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":168898607
         }
     ],
     "wof:id":168898607,
-    "wof:lastmodified":1473798066,
+    "wof:lastmodified":1496790607,
     "wof:name":"Degaie - Equipements Industriels Et Portuaires S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

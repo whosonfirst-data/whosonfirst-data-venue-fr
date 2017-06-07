@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.044557,48.791466,6.044557,48.791466",
     "geom:latitude":48.791466,
     "geom:longitude":6.044557,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763951,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404414207,
+        85633147,
+        1108826391,
+        101763951,
+        136253037,
         102070445
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_552dzUGVhHNHwfTqeCkxvE_48.791466_6.044557@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1db5eccdbf28f168751733a51f64b78e",
+    "wof:geomhash":"8c51c7c866acc294e8bb8386efd0d19e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070445,
+            "empire_id":136253037,
+            "localadmin_id":404414207,
             "locality_id":101763951,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136286815
         }
     ],
     "wof:id":136286815,
-    "wof:lastmodified":1473797938,
+    "wof:lastmodified":1496785205,
     "wof:name":"Poli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

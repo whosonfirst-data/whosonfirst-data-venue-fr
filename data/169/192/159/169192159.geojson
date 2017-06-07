@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.88178,45.762589,4.88178,45.762589",
     "geom:latitude":45.762589,
     "geom:longitude":4.88178,
@@ -22,9 +23,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_6hPQFwHKP9zptIualRekpv_45.762589_4.881780@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0cbadab25b45342e79e1127084bb7cc8",
+    "wof:geomhash":"24cc8ff5edafb5853f86b1269a63a7bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169192159
         }
     ],
     "wof:id":169192159,
-    "wof:lastmodified":1473798215,
+    "wof:lastmodified":1496779681,
     "wof:name":"T.s.r.a. S.a. - T\u00e9l\u00e9phone Services Rh\u00f4ne-alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

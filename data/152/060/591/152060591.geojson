@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.242461,50.190369,3.242461,50.190369",
     "geom:latitude":50.190369,
     "geom:longitude":3.242461,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840725,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404366791,
+        85633147,
+        1108826399,
+        101840725,
+        136253037,
         102071903
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_00qyFPcqqT1bMc2QDMM6QH_50.190369_3.242461@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9046b95a7312d5c289824c8aa476b80",
+    "wof:geomhash":"200ed6c2e56646a00399c31bf7a00dfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071903,
+            "empire_id":136253037,
+            "localadmin_id":404366791,
             "locality_id":101840725,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152060591
         }
     ],
     "wof:id":152060591,
-    "wof:lastmodified":1473797949,
+    "wof:lastmodified":1496790520,
     "wof:name":"Escape Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

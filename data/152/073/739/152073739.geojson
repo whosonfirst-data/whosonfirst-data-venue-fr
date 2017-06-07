@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.916185,49.09734,3.916185,49.09734",
     "geom:latitude":49.09734,
     "geom:longitude":3.916185,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879925,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404425403,
+        85633147,
+        1108826391,
+        101879925,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5bbjLXHj905p6WNatwdjeS_49.097340_3.916185@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6be76a4474d7554e5ed15d39012ce26a",
+    "wof:geomhash":"5bce77dbebe8032f704cf53497439efb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404425403,
             "locality_id":101879925,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073739
         }
     ],
     "wof:id":152073739,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496785044,
     "wof:name":"Sarl Champagne Tribaut Schloesser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

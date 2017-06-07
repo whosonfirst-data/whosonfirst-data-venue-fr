@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.016709,45.43298,6.016709,45.43298",
     "geom:latitude":45.43298,
     "geom:longitude":6.016709,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769195,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404391599,
+        85633147,
+        1108826389,
+        101769195,
+        136253037,
         102066033
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1u2U7qsDFmTPFqogMjxtaA_45.432980_6.016709@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e447a661d43d788c5777035166609c17",
+    "wof:geomhash":"10b717c471f48be2c7512795275cbe1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066033,
+            "empire_id":136253037,
+            "localadmin_id":404391599,
             "locality_id":101769195,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136295269
         }
     ],
     "wof:id":136295269,
-    "wof:lastmodified":1473797908,
+    "wof:lastmodified":1496781070,
     "wof:name":"Cfg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

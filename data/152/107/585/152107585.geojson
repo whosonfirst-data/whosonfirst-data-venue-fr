@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.585824,48.837849,-1.585824,48.837849",
     "geom:latitude":48.837849,
     "geom:longitude":-1.585824,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828533,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404397899,
+        85633147,
+        1108826393,
+        101828533,
+        136253037,
         102067003
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_58eu4FqRh5KiM090bU5Pvb_48.837849_-1.585824@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abf8a4a078e696a2ec5225330b9fa33c",
+    "wof:geomhash":"dbb2937b042013479b6fc2dbb1cc5f5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067003,
+            "empire_id":136253037,
+            "localadmin_id":404397899,
             "locality_id":101828533,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152107585
         }
     ],
     "wof:id":152107585,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1496803196,
     "wof:name":"Laboratoire Thierry Loquet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

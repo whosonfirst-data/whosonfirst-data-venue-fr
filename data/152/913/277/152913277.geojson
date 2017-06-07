@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.724046,49.483002,1.724046,49.483002",
     "geom:latitude":49.483002,
     "geom:longitude":1.724046,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840359,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404351463,
+        85633147,
+        1108826393,
+        101840359,
+        136253037,
         102068929
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1HeL8Q15vjPRqne1xmRp7g_49.483002_1.724046@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"42c8b75935d6e47a02ac1c06c5305da3",
+    "wof:geomhash":"a615dfc27ac9af31e8b3cc4f9347219b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068929,
+            "empire_id":136253037,
+            "localadmin_id":404351463,
             "locality_id":101840359,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152913277
         }
     ],
     "wof:id":152913277,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496787515,
     "wof:name":"L'eclaireur Brayon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

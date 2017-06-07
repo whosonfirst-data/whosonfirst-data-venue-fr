@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.131357,50.647236,3.131357,50.647236",
     "geom:latitude":50.647236,
     "geom:longitude":3.131357,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
+        85794547,
+        102191581,
         85633147,
-        101751547,
-        102071877,
-        85794547
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ThFwUgI6mPVe6lqaxfdhM_50.647236_3.131357@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2083342267fe0906f8bd00a748d78e66",
+    "wof:geomhash":"66cdd2844bb5ef555a4598f6b654f1b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071877,
-            "locality_id":101751547,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794547,
             "region_id":85683445,
             "venue_id":152062133
         }
     ],
     "wof:id":152062133,
-    "wof:lastmodified":1473797979,
+    "wof:lastmodified":1496790742,
     "wof:name":"Petit Faune (grain De Lune)",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",

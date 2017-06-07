@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.11762,49.087589,6.11762,49.087589",
     "geom:latitude":49.087589,
     "geom:longitude":6.11762,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750109,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404420333,
+        85633147,
+        1108826391,
+        101750109,
+        136253037,
         102070811
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_3KDMGS5iFGvSgVGviBLk7Z_49.087589_6.117620@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"554130a869bcd7fbf71cbcc0954160fd",
+    "wof:geomhash":"10b27c850d9ea4a05cb063dd4f71cdab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070811,
+            "empire_id":136253037,
+            "localadmin_id":404420333,
             "locality_id":101750109,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152923381
         }
     ],
     "wof:id":152923381,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496794111,
     "wof:name":"Est Imprimerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

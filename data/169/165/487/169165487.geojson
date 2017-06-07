@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.02508,48.315472,4.02508,48.315472",
     "geom:latitude":48.315472,
     "geom:longitude":4.02508,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749603,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404391509,
+        85633147,
+        1108826391,
+        101749603,
+        136253037,
         102072079
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0A3G89spiCS6Ihxrh4nxC4_48.315472_4.025080@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55132edf4235103e36c2857095c22068",
+    "wof:geomhash":"356b8979a658226138f450138011952b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072079,
+            "empire_id":136253037,
+            "localadmin_id":404391509,
             "locality_id":101749603,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":169165487
         }
     ],
     "wof:id":169165487,
-    "wof:lastmodified":1473798205,
+    "wof:lastmodified":1496784039,
     "wof:name":"Soci\u00e9t\u00e9 De Bonneterie De Champagne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

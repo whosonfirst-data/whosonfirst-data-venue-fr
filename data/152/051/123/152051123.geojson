@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.028692,48.731407,-0.028692,48.731407",
     "geom:latitude":48.731407,
     "geom:longitude":-0.028692,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762603,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404357711,
+        85633147,
+        1108826393,
+        101762603,
+        136253037,
         102072163
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2NynRDYwWPGPyVaBqImquF_48.731407_-0.028692@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0c798901c0232a2d2f3bed9078bd96a",
+    "wof:geomhash":"c2c48e87d38d0e6385c8f20da5101fab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072163,
+            "empire_id":136253037,
+            "localadmin_id":404357711,
             "locality_id":101762603,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152051123
         }
     ],
     "wof:id":152051123,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496787046,
     "wof:name":"Collet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.394136,43.547871,1.394136,43.547871",
     "geom:latitude":43.547871,
     "geom:longitude":1.394136,
@@ -30,28 +31,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BnFGS1iTqt2UtKU2m0mZE_43.547871_1.394136@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80a77a392677eb5978a066bf37603a14",
+    "wof:geomhash":"01f5ed1f457467b442ace5209a974e71",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":153008713
         }
     ],
     "wof:id":153008713,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496803716,
     "wof:name":"Alcatel Space Industries",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

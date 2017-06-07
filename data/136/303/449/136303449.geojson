@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.401422,44.707539,-0.401422,44.707539",
     "geom:latitude":44.707539,
     "geom:longitude":-0.401422,
@@ -29,28 +30,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770721,
-        85633147,
         85683243,
-        102067507
+        102191581,
+        404227869,
+        404396855,
+        85633147,
+        1108826385,
+        101770721,
+        136253037,
+        102068589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QlHNzSzaxQFYMEcm99d6C_44.707539_-0.401422@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"488ef5cf618f6634013de68b84d840bb",
+    "wof:geomhash":"cf0504230c5c4eb703031e85705b0f6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067507,
+            "county_id":102068589,
+            "empire_id":136253037,
+            "localadmin_id":404396855,
             "locality_id":101770721,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136303449
         }
     ],
     "wof:id":136303449,
-    "wof:lastmodified":1473798002,
+    "wof:lastmodified":1496776878,
     "wof:name":"Cr\u00e9dit Du Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

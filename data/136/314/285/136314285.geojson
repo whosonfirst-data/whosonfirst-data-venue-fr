@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.777445,45.768932,4.777445,45.768932",
     "geom:latitude":45.768932,
     "geom:longitude":4.777445,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6aIW6xUBaXoIB5I2jWa7o3_45.768932_4.777445@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5dab08b6677ce9948a05aea3488ce3d8",
+    "wof:geomhash":"4d39a0f35e4039ab56482be1ce471b23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136314285
         }
     ],
     "wof:id":136314285,
-    "wof:lastmodified":1473797994,
+    "wof:lastmodified":1496781025,
     "wof:name":"Sopra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.30608,46.553761,0.30608,46.553761",
     "geom:latitude":46.553761,
     "geom:longitude":0.30608,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_0HNIbYyUaErwMZ0NW1gX4J_46.553761_0.306080@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3ebe4fd9c1d14caef6b40bbcdaf67e89",
+    "wof:geomhash":"1c1516d04518177dd13b4a0788dd1ca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152225463
         }
     ],
     "wof:id":152225463,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496777047,
     "wof:name":"Scap Peugeot Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

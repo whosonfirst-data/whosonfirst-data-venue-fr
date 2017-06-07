@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.72664,48.626461,7.72664,48.626461",
     "geom:latitude":48.626461,
     "geom:longitude":7.72664,
@@ -38,30 +39,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794511,
+        102191581,
         85633147,
-        101753005,
-        102068507,
-        85794511
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UJxXv4LNsu5A4mE83jGG0_48.626461_7.726640@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01bdb34f39890a11fe89ba48f596e9b7",
+    "wof:geomhash":"f847d97fbcf72d7519b4dcd6d3f50b25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068507,
-            "locality_id":101753005,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794511,
             "region_id":85683221,
             "venue_id":152103615
         }
     ],
     "wof:id":152103615,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496784942,
     "wof:name":"Carl Stahl",
     "wof:parent_id":85794511,
     "wof:placetype":"venue",

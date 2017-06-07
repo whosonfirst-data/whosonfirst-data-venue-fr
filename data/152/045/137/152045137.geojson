@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.883082,45.038319,3.883082,45.038319",
     "geom:latitude":45.038319,
     "geom:longitude":3.883082,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830493,
-        85633147,
         85683413,
+        102191581,
+        404227891,
+        404367269,
+        85633147,
+        1108826389,
+        101830493,
+        136253037,
         102072457
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7itDfFDTF1OuE90TkXQeJL_45.038319_3.883082@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9153802949ba0ef9454d0d0273f5ea21",
+    "wof:geomhash":"e163b41576ba1faecda2442a99aa7e82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072457,
+            "empire_id":136253037,
+            "localadmin_id":404367269,
             "locality_id":101830493,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152045137
         }
     ],
     "wof:id":152045137,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496780230,
     "wof:name":"College Jules Valles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

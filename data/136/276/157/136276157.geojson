@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.154519,46.148331,-1.154519,46.148331",
     "geom:latitude":46.148331,
     "geom:longitude":-1.154519,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_22CgHCvcV8z6I7Rq4TEtl5_46.148331_-1.154519@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f2f7d75b869269953afe5d2e712e31e0",
+    "wof:geomhash":"d9372276a4a658172844a01a5789ee87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136276157
         }
     ],
     "wof:id":136276157,
-    "wof:lastmodified":1473797886,
+    "wof:lastmodified":1496775802,
     "wof:name":"Caisse Regionale De Credit Maritime Mutuel Du Littoral Char",
-    "wof:parent_id":101749503,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

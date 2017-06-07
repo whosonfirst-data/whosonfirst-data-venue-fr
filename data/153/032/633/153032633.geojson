@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.303257,43.328445,-0.303257,43.328445",
     "geom:latitude":43.328445,
     "geom:longitude":-0.303257,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3zNGScDnnm8fvSRceOwTl8_43.328445_-0.303257@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9346926586b92ee24493f60ee437ac58",
+    "wof:geomhash":"cf26ce7e1fe1cdc39604253f6d877a87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":153032633
         }
     ],
     "wof:id":153032633,
-    "wof:lastmodified":1473797975,
+    "wof:lastmodified":1496776709,
     "wof:name":"Transports Alloin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

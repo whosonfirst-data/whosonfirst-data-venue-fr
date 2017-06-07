@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.469055,48.49622,7.469055,48.49622",
     "geom:latitude":48.49622,
     "geom:longitude":7.469055,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763705,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404397661,
+        85633147,
+        1108826391,
+        101763705,
+        136253037,
         102067725
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7D4HEHxTZ5PJPtKmnZ6080_48.496220_7.469055@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f00f2b810fd1a8575131854b29c2aa13",
+    "wof:geomhash":"9bdad314b6be0c968187dd1539277189",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067725,
+            "empire_id":136253037,
+            "localadmin_id":404397661,
             "locality_id":101763705,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152058775
         }
     ],
     "wof:id":152058775,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496784000,
     "wof:name":"Alphan Diffusion Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

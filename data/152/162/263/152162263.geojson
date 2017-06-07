@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.172694,48.619751,-1.172694,48.619751",
     "geom:latitude":48.619751,
     "geom:longitude":-1.172694,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761717,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404350631,
+        85633147,
+        1108826393,
+        101761717,
+        136253037,
         102067583
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_0vU9JJENp8Sale5ZdCe3WK_48.619751_-1.172694@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b77f74d0d9d3a07ea874295f3b18e625",
+    "wof:geomhash":"59f998b9567329d36118f46dd2924e36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067583,
+            "empire_id":136253037,
+            "localadmin_id":404350631,
             "locality_id":101761717,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152162263
         }
     ],
     "wof:id":152162263,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496803334,
     "wof:name":"Mecanique Generale De Precision D Isigny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

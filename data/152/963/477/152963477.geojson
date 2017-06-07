@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.56583,46.827663,5.56583,46.827663",
     "geom:latitude":46.827663,
     "geom:longitude":5.56583,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889883,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404370231,
+        85633147,
+        1108826395,
+        101889883,
+        136253037,
         102069829
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7WFDsyT48DajukuPLHN3CM_46.827663_5.565830@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"02151bfb92acc9e01b2b921f8fd27b5c",
+    "wof:geomhash":"1a0b906096298c8085123f973b29ed5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069829,
+            "empire_id":136253037,
+            "localadmin_id":404370231,
             "locality_id":101889883,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152963477
         }
     ],
     "wof:id":152963477,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496804284,
     "wof:name":"Milloux (transports) Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

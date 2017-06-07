@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.843437,47.661102,6.843437,47.661102",
     "geom:latitude":47.661102,
     "geom:longitude":6.843437,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750887,
-        85633147,
         85683353,
+        102191581,
+        404227783,
+        404399091,
+        85633147,
+        1108826395,
+        101750887,
+        136253037,
         102065259
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_64LYNcs5OpvTZgNr4XsZPR_47.661102_6.843437@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ccf92bff8303d99b0df1787af774f4be",
+    "wof:geomhash":"1b317b97233dda9a40066b973562f589",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065259,
+            "empire_id":136253037,
+            "localadmin_id":404399091,
             "locality_id":101750887,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":153019319
         }
     ],
     "wof:id":153019319,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496804569,
     "wof:name":"Comptoir Des Materiaux De Franche Comte Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.066956,45.411655,-1.066956,45.411655",
     "geom:latitude":45.411655,
     "geom:longitude":-1.066956,
@@ -27,8 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683243,
+        102191581,
         85633147,
-        85683243
+        404381977,
+        404228221,
+        1108826385,
+        136253037,
+        102071429
     ],
     "wof:brand_id":420575203,
     "wof:breaches":[],
@@ -36,16 +43,23 @@
         "sg:id":"SG_0eWgHtwtTDrZpOyJXQC4i8_45.411655_-1.066956@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3b2921f33fb4537442c29023661301b",
+    "wof:geomhash":"84515fa0a4174cb5d24d221a3917cfdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071429,
+            "empire_id":136253037,
+            "localadmin_id":404381977,
+            "locality_id":-1,
+            "macrocounty_id":404228221,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136303025
         }
     ],
     "wof:id":136303025,
-    "wof:lastmodified":1473797970,
+    "wof:lastmodified":1496776428,
     "wof:name":"Cr\u00e9dit Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

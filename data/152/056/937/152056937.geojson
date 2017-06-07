@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.182395,48.719547,6.182395,48.719547",
     "geom:latitude":48.719547,
     "geom:longitude":6.182395,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750131,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404423403,
+        85633147,
+        1108826391,
+        101750131,
+        136253037,
         102071213
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_33bbTXVkDO8QaxL6QEeFx8_48.719547_6.182395@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"803d7a767e74477f5902a9345959e409",
+    "wof:geomhash":"2fc93f0acc9741b4e58522e238a29924",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071213,
+            "empire_id":136253037,
+            "localadmin_id":404423403,
             "locality_id":101750131,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152056937
         }
     ],
     "wof:id":152056937,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496793818,
     "wof:name":"Industries Chimiques Du Pays Haut (icph)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

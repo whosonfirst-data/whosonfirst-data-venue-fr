@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.950028,48.6371,4.950028,48.6371",
     "geom:latitude":48.6371,
     "geom:longitude":4.950028,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827729,
-        85633147,
         85683261,
+        102191581,
+        85633147,
+        404228109,
+        1108826391,
+        101827729,
+        136253037,
         102071893
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_08VsA9dMUfyA9wSxNIeeVb_48.637100_4.950028@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"53d4598796555444254c0d79d0bc0cf5",
+    "wof:geomhash":"61ba3cf26ea3d9de4a99ad1d27df427f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071893,
+            "empire_id":136253037,
             "locality_id":101827729,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152914405
         }
     ],
     "wof:id":152914405,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496784511,
     "wof:name":"Le Journal De La Haute Marne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.342184,48.076675,7.342184,48.076675",
     "geom:latitude":48.076675,
     "geom:longitude":7.342184,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_6mZ5N2Q53y6dPuoEEAWszI_48.076675_7.342184@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"745276db43816bc3add8510525762979",
+    "wof:geomhash":"214fff176f6f27e21c6934aca0ec334f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152081871
         }
     ],
     "wof:id":152081871,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496784234,
     "wof:name":"Colmarienne Des Eaux Seml",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

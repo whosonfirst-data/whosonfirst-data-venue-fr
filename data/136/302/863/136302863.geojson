@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.613202,44.774158,-0.613202,44.774158",
     "geom:latitude":44.774158,
     "geom:longitude":-0.613202,
@@ -27,10 +28,16 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:brand_id":420575203,
     "wof:breaches":[],
@@ -38,18 +45,24 @@
         "sg:id":"SG_57jCn5xkFF04Ggy7dSLfxm_44.774158_-0.613202@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd1c639d63a66bde775ec66ffde7114a",
+    "wof:geomhash":"39234b77d98d8fb54bc4de1496165026",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":136302863
         }
     ],
     "wof:id":136302863,
-    "wof:lastmodified":1473798035,
+    "wof:lastmodified":1496776432,
     "wof:name":"Cr\u00e9dit Agricole",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

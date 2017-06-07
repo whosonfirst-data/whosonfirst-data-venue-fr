@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.02055,50.2854,4.02055,50.2854",
     "geom:latitude":50.2854,
     "geom:longitude":4.02055,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840645,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404416313,
+        85633147,
+        1108826399,
+        101840645,
+        136253037,
         102071353
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2CyL8Zpn68O48h58OUcAjW_50.285400_4.020550@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"077d66c00df3e3b9d1528cb6e9c97863",
+    "wof:geomhash":"0f0d8094e25afbb5cf61853e90f38e81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071353,
+            "empire_id":136253037,
+            "localadmin_id":404416313,
             "locality_id":101840645,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152861257
         }
     ],
     "wof:id":152861257,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496790331,
     "wof:name":"Graham Packaging France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

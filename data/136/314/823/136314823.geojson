@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.08041,44.123787,4.08041,44.123787",
     "geom:latitude":44.123787,
     "geom:longitude":4.08041,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831863,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227651,
+        1108826387,
+        101831863,
+        136253037,
         102072253
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0dlGVRSHjWP094xQ4jT4Jx_44.123787_4.080410@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9da1cb2d7ad7d2507455e882b8cc3961",
+    "wof:geomhash":"6ca8a0dd5fd9b37f3e68c4039f20b19b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072253,
+            "empire_id":136253037,
             "locality_id":101831863,
+            "macrocounty_id":404227651,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136314823
         }
     ],
     "wof:id":136314823,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496778679,
     "wof:name":"Association Education Populaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

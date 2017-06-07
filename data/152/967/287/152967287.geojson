@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.339655,50.735458,2.339655,50.735458",
     "geom:latitude":50.735458,
     "geom:longitude":2.339655,
@@ -31,24 +32,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683255,
+        102191581,
         85633147,
-        85683445
+        404391149,
+        404228285,
+        1108826399,
+        136253037,
+        102071791
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SdQyraaCW0UKmWqxDPdaJ_50.735458_2.339655@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d63407e92db046b492e32bd266cfe1c3",
+    "wof:geomhash":"69e142592f148d473a42e2c033152080",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "region_id":85683445,
+            "county_id":102071791,
+            "empire_id":136253037,
+            "localadmin_id":404391149,
+            "locality_id":-1,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
             "venue_id":152967287
         }
     ],
     "wof:id":152967287,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496791351,
     "wof:name":"Sas Blanquart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

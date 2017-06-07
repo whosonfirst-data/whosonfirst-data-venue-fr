@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.538757,41.054932,-73.538757,41.054932",
     "geom:latitude":41.054932,
     "geom:longitude":-73.538757,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85881169,
+        102191575,
+        404495855,
         85633793,
         85930787,
         102084283,
-        85881169
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +51,10 @@
     "wof:geomhash":"21a71cb4ddd9bf1dd81aab4418d11392",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495855,
             "locality_id":85930787,
             "neighbourhood_id":85881169,
             "region_id":85688629,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":152078387,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1492064687,
     "wof:name":"Jdr Cable Systems",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

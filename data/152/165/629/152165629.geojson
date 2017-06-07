@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.546327,46.844383,0.546327,46.844383",
     "geom:latitude":46.844383,
     "geom:longitude":0.546327,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829369,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829369,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_77D8oaN4ONfseYkyiBsQqd_46.844383_0.546327@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9a0cf46e64f424247cd98a84b126165",
+    "wof:geomhash":"7dd5bc34620b4ec3c685d254a6aa0ada",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829369,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152165629
         }
     ],
     "wof:id":152165629,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496777550,
     "wof:name":"Girethane Sa Giron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

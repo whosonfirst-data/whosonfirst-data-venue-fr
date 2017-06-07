@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.366547,43.51236,2.366547,43.51236",
     "geom:latitude":43.51236,
     "geom:longitude":2.366547,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831817,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404420721,
+        85633147,
+        1108826387,
+        101831817,
+        136253037,
         102071201
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1bVywmtYSXogRQ1qpaPOfa_43.512360_2.366547@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a48505b6045c5b0b4e4014d54be3ddb5",
+    "wof:geomhash":"7168433f2b697fd844b1b49a98814c59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071201,
+            "empire_id":136253037,
+            "localadmin_id":404420721,
             "locality_id":101831817,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152159127
         }
     ],
     "wof:id":152159127,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496803460,
     "wof:name":"Ste D'etudes Et De Reals Mecas Et D'automatismes De Mazamet (sermaz)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

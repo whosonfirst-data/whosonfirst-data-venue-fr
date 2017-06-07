@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.430096,46.144108,3.430096,46.144108",
     "geom:latitude":46.144108,
     "geom:longitude":3.430096,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829199,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404384829,
+        85633147,
+        1108826389,
+        101829199,
+        136253037,
         102072181
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4qA4CBevtoOPo9ABhSQPNu_46.144108_3.430096@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fd10e9d66591e4a17c88555e2b59be2",
+    "wof:geomhash":"bf0e31faf5173906503de4262c2dbdb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072181,
+            "empire_id":136253037,
+            "localadmin_id":404384829,
             "locality_id":101829199,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152074841
         }
     ],
     "wof:id":152074841,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496781832,
     "wof:name":"Electronica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

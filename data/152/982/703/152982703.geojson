@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.216435,44.555962,2.216435,44.555962",
     "geom:latitude":44.555962,
     "geom:longitude":2.216435,
@@ -27,9 +28,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830397,
-        85633147,
         85683301,
+        102191581,
+        404228027,
+        404424025,
+        85633147,
+        1108826387,
+        101830397,
+        136253037,
         102064373
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_70VqcvBFCGBluDRWOF6tal_44.555962_2.216435@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae9ccb95a9fd6a91742a239f1625f891",
+    "wof:geomhash":"11cb998b35c4c3df3e29e28738149d34",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064373,
+            "empire_id":136253037,
+            "localadmin_id":404424025,
             "locality_id":101830397,
+            "macrocounty_id":404228027,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152982703
         }
     ],
     "wof:id":152982703,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496803542,
     "wof:name":"Composites Moules Aveyronnais Cma (cma)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

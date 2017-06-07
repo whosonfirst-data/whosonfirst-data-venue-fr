@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.777181,49.4991,2.777181,49.4991",
     "geom:latitude":49.4991,
     "geom:longitude":2.777181,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902793,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404415951,
+        85633147,
+        1108826399,
+        101902793,
+        136253037,
         102070043
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2J2d5MF9ggY5xpHgOCRWbj_49.499100_2.777181@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3649afb71fc7ca84657b1ffe6966eea0",
+    "wof:geomhash":"db3069429b78f38fe71bed4dde66d3c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070043,
+            "empire_id":136253037,
+            "localadmin_id":404415951,
             "locality_id":101902793,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152109985
         }
     ],
     "wof:id":152109985,
-    "wof:lastmodified":1473798273,
+    "wof:lastmodified":1496792076,
     "wof:name":"Boitel Et Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

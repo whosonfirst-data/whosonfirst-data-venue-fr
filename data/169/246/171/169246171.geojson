@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.522441,48.067978,6.522441,48.067978",
     "geom:latitude":48.067978,
     "geom:longitude":6.522441,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885705,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404426399,
+        85633147,
+        1108826391,
+        101885705,
+        136253037,
         102068567
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5p36yKx6HH6Imcbq5Bn0rO_48.067978_6.522441@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23cb88c0a9f33ab1e9193322eb9ddb35",
+    "wof:geomhash":"bfead799967ea0a3dc4a38e996516bfd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068567,
+            "empire_id":136253037,
+            "localadmin_id":404426399,
             "locality_id":101885705,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":169246171
         }
     ],
     "wof:id":169246171,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496786428,
     "wof:name":"Vosges Structures Bois Sa (vsb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

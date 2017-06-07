@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.339624,43.83041,4.339624,43.83041",
     "geom:latitude":43.83041,
     "geom:longitude":4.339624,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_24JtHGLqVFGMWQ1N3q7EE1_43.830410_4.339624@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b60ab47fd8701debc40613ac1e008d1",
+    "wof:geomhash":"ff449e3af43c560223836d6755e904ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136295751
         }
     ],
     "wof:id":136295751,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496777968,
     "wof:name":"Mutualite Sociale Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

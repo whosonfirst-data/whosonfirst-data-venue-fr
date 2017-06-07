@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.751985,49.852779,1.751985,49.852779",
     "geom:latitude":49.852779,
     "geom:longitude":1.751985,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900741,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404396927,
+        85633147,
+        1108826399,
+        101900741,
+        136253037,
         102070113
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_02poBGexfRsEi7aGkg3qSe_49.852779_1.751985@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e592d41e89825b85561d24393176097",
+    "wof:geomhash":"178f436789057c0f70e696751c3f60b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070113,
+            "empire_id":136253037,
+            "localadmin_id":404396927,
             "locality_id":101900741,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152823407
         }
     ],
     "wof:id":152823407,
-    "wof:lastmodified":1473798536,
+    "wof:lastmodified":1496795321,
     "wof:name":"Tourneur Francis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

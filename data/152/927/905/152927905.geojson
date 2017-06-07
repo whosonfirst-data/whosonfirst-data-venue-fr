@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.159066,50.737377,3.159066,50.737377",
     "geom:latitude":50.737377,
     "geom:longitude":3.159066,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_2dLszFxIsCtiCiQxz7QyOI_50.737377_3.159066@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd2133f4c2c5c659f4e5a6ec159b602c",
+    "wof:geomhash":"bba4c776167297e54c13ad8b06c1c918",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152927905
         }
     ],
     "wof:id":152927905,
-    "wof:lastmodified":1473798588,
+    "wof:lastmodified":1496791053,
     "wof:name":"Imprimeries Du Nord Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

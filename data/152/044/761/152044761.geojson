@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.363157,48.951191,4.363157,48.951191",
     "geom:latitude":48.951191,
     "geom:longitude":4.363157,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7MluauGLklVO4QM35mYmeJ_48.951191_4.363157@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e6c6c5793d5d3b2a94b10d79e2a56b6",
+    "wof:geomhash":"c59b85d67d3538a1f645253994c9f9af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152044761
         }
     ],
     "wof:id":152044761,
-    "wof:lastmodified":1473797943,
+    "wof:lastmodified":1496785117,
     "wof:name":"Centre National Des Arts Du Cirque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

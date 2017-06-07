@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.254415,50.749069,2.254415,50.749069",
     "geom:latitude":50.749069,
     "geom:longitude":2.254415,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3egI6UcilR6kJS6rBFogpl_50.749069_2.254415@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0a5365149bc9ab58e71ff81c41ec8dac",
+    "wof:geomhash":"f5dcd7e3ff55da4c625414ea83706fb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152111393
         }
     ],
     "wof:id":152111393,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496791132,
     "wof:name":"Nouvostyle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

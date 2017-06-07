@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.796509,49.402233,2.796509,49.402233",
     "geom:latitude":49.402233,
     "geom:longitude":2.796509,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842419,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842419,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2xqCYF9WqJ3SuLwa8Mvon6_49.402233_2.796509@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58d0a2c7c4baeb6b6bf370224632def3",
+    "wof:geomhash":"26e9e70c60d86c72273626456f83206d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842419,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":168911737
         }
     ],
     "wof:id":168911737,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496791107,
     "wof:name":"Dynal Biotech France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

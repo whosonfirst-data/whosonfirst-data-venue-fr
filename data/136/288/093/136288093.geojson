@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.350404,49.094166,-0.350404,49.094166",
     "geom:latitude":49.094166,
     "geom:longitude":-0.350404,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760261,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404381279,
+        85633147,
+        1108826393,
+        101760261,
+        136253037,
         102065269
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1L8Aws7j4GBrapBhI31cCX_49.094166_-0.350404@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a4dd54e475651cd40e46b88f68f50891",
+    "wof:geomhash":"1f62f1ba19c201d35d9a3fb9f0d60777",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065269,
+            "empire_id":136253037,
+            "localadmin_id":404381279,
             "locality_id":101760261,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136288093
         }
     ],
     "wof:id":136288093,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496787402,
     "wof:name":"La Grande Ferme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

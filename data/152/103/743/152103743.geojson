@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.839938,50.097584,1.839938,50.097584",
     "geom:latitude":50.097584,
     "geom:longitude":1.839938,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_3q1ww2bl3zfXN4kcfRt1vH_50.097584_1.839938@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b5aa74532b18947305117eb6d28c29c",
+    "wof:geomhash":"4e67a42d8264805f60d90bd21d10951e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152103743
         }
     ],
     "wof:id":152103743,
-    "wof:lastmodified":1473798242,
+    "wof:lastmodified":1496792263,
     "wof:name":"Deneux Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

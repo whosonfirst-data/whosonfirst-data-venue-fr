@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.980553,49.25848,3.980553,49.25848",
     "geom:latitude":49.25848,
     "geom:longitude":3.980553,
@@ -27,9 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751389,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404352011,
+        85633147,
+        1108826391,
+        101751389,
+        136253037,
         102067907
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_21jlAivyuoF0myR4BWADKP_49.258480_3.980553@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"056fbaa08533a19e73f0073f21c51de5",
+    "wof:geomhash":"d3867013e23466afbfbeec5bd84695eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067907,
+            "empire_id":136253037,
+            "localadmin_id":404352011,
             "locality_id":101751389,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152884571
         }
     ],
     "wof:id":152884571,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496785257,
     "wof:name":"Chaudronnerie Plastique De L'est (cpe)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

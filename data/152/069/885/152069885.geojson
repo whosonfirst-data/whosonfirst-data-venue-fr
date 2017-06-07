@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.697789,48.588322,7.697789,48.588322",
     "geom:latitude":48.588322,
     "geom:longitude":7.697789,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KcgFYid6HAZDBzxBCjawN_48.588322_7.697789@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"210dd6a3a32d9f377d5fe3c3a4d6632c",
+    "wof:geomhash":"46b0ffb376cc804ac9556156c62dc60c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":152069885
         }
     ],
     "wof:id":152069885,
-    "wof:lastmodified":1473798087,
+    "wof:lastmodified":1496784399,
     "wof:name":"Ebc Informatique Sarl",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

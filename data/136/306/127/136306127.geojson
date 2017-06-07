@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.338366,46.578892,0.338366,46.578892",
     "geom:latitude":46.578892,
     "geom:longitude":0.338366,
@@ -27,9 +28,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_2LUBeStUbxGGDwWdOsr1C7_46.578892_0.338366@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bca1d14722efd68c12c7c31708fb97a2",
+    "wof:geomhash":"027cd700ead084b2371581b489748b53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136306127
         }
     ],
     "wof:id":136306127,
-    "wof:lastmodified":1473797983,
+    "wof:lastmodified":1496775873,
     "wof:name":"Natexis Groupe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

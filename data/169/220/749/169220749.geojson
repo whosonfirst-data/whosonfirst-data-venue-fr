@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.485758,47.04829,6.485758,47.04829",
     "geom:latitude":47.04829,
     "geom:longitude":6.485758,
@@ -22,9 +23,14 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766847,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404365993,
+        85633147,
+        1108826395,
+        101766847,
+        136253037,
         102067115
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ZwJvNdPWfa7Y4ew4B0cAw_47.048290_6.485758@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8977859ceb34faa8669b1e7b5f5c39d",
+    "wof:geomhash":"fe74c97dfb95704275db748aa3e77156",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067115,
+            "empire_id":136253037,
+            "localadmin_id":404365993,
             "locality_id":101766847,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":169220749
         }
     ],
     "wof:id":169220749,
-    "wof:lastmodified":1473798247,
+    "wof:lastmodified":1496788430,
     "wof:name":"Watch Engineering France S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

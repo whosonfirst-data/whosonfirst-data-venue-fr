@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.995412,47.343735,4.995412,47.343735",
     "geom:latitude":47.343735,
     "geom:longitude":4.995412,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750905,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404389219,
+        85633147,
+        1108826395,
+        101750905,
+        136253037,
         102071261
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6zBYPEwe9GnKi6fFTaretw_47.343735_4.995412@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"661103111a8ddb43baeb10006ce3f0a5",
+    "wof:geomhash":"b9e01dfa95bafa8e687dbb364905af47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071261,
+            "empire_id":136253037,
+            "localadmin_id":404389219,
             "locality_id":101750905,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152132939
         }
     ],
     "wof:id":152132939,
-    "wof:lastmodified":1473798294,
+    "wof:lastmodified":1496788150,
     "wof:name":"Bodin (atelier Michel) Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

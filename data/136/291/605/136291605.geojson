@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.069176,48.275764,4.069176,48.275764",
     "geom:latitude":48.275764,
     "geom:longitude":4.069176,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750981,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404405659,
+        85633147,
+        1108826391,
+        101750981,
+        136253037,
         102072497
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2NTMNcHuf0NnvSMmtEL3lH_48.275764_4.069176@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5aa4c2f4131f881a1de2f2f704f26443",
+    "wof:geomhash":"906452c723e5f10ca244481ced4e2e65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072497,
+            "empire_id":136253037,
+            "localadmin_id":404405659,
             "locality_id":101750981,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":136291605
         }
     ],
     "wof:id":136291605,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496805451,
     "wof:name":"Coaxe Informatiques S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

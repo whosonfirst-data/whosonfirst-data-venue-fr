@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.083864,50.584694,3.083864,50.584694",
     "geom:latitude":50.584694,
     "geom:longitude":3.083864,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750255,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404381681,
+        85633147,
+        1108826399,
+        101750255,
+        136253037,
         102071103
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0z0PF2KGAKk2m3vlLYPZGe_50.584694_3.083864@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ca73e13197bf7a0c85ddd91c30efde3",
+    "wof:geomhash":"01434ee75406b9ba7f9bec2b492548ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071103,
+            "empire_id":136253037,
+            "localadmin_id":404381681,
             "locality_id":101750255,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152825843
         }
     ],
     "wof:id":152825843,
-    "wof:lastmodified":1473798537,
+    "wof:lastmodified":1496790120,
     "wof:name":"Transnet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

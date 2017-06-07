@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.712405,44.443439,4.712405,44.443439",
     "geom:latitude":44.443439,
     "geom:longitude":4.712405,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771723,
-        85633147,
         85683523,
+        102191581,
+        404227851,
+        404400565,
+        85633147,
+        1108826389,
+        101771723,
+        136253037,
         102067809
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2FxO1ZuNR0HthsxqcjKk1i_44.443439_4.712405@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e39b04ec3dbf2b3445b5d3d5eba2f39c",
+    "wof:geomhash":"c1bde2088abf0d4f839928bd6f8f02f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067809,
+            "empire_id":136253037,
+            "localadmin_id":404400565,
             "locality_id":101771723,
+            "macrocounty_id":404227851,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152900057
         }
     ],
     "wof:id":152900057,
-    "wof:lastmodified":1473798547,
+    "wof:lastmodified":1496780283,
     "wof:name":"Ste Francaise D'emetteurs Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

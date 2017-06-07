@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.050746,45.593117,-0.050746,45.593117",
     "geom:latitude":45.593117,
     "geom:longitude":-0.050746,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768061,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404357977,
+        85633147,
+        1108826385,
+        101768061,
+        136253037,
         102066481
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_03MmYiSFk6lSKKRJ5cFTKz_45.593117_-0.050746@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc7c07e976d7f4cdd77df2b11436c6fe",
+    "wof:geomhash":"3d385a6385c55648e78c5cc70af61093",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066481,
+            "empire_id":136253037,
+            "localadmin_id":404357977,
             "locality_id":101768061,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":136290923
         }
     ],
     "wof:id":136290923,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496777077,
     "wof:name":"Sanders Ocean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

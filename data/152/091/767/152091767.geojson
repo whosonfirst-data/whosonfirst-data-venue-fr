@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.391441,45.833038,3.391441,45.833038",
     "geom:latitude":45.833038,
     "geom:longitude":3.391441,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842923,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404383229,
+        85633147,
+        1108826389,
+        101842923,
+        136253037,
         102068503
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0Dzr1H1fz3w233yk6an0r4_45.833038_3.391441@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0e2682de0970da130896f70a43b927b9",
+    "wof:geomhash":"d3c41d2bd07d3cce2b486f9e45e4bb1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068503,
+            "empire_id":136253037,
+            "localadmin_id":404383229,
             "locality_id":101842923,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152091767
         }
     ],
     "wof:id":152091767,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496781251,
     "wof:name":"Thermi Lames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

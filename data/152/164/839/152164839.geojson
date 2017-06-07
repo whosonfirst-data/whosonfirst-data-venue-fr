@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.476489,49.274685,2.476489,49.274685",
     "geom:latitude":49.274685,
     "geom:longitude":2.476489,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828487,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404410169,
+        85633147,
+        1108826399,
+        101828487,
+        136253037,
         102066389
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_06K1dGP2QJecDKENU7SMJo_49.274685_2.476489@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3520755cad3e47636acae2ae0474de33",
+    "wof:geomhash":"5ef1398fb221fa0788d5e00f36919667",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066389,
+            "empire_id":136253037,
+            "localadmin_id":404410169,
             "locality_id":101828487,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152164839
         }
     ],
     "wof:id":152164839,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496791855,
     "wof:name":"Elyo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

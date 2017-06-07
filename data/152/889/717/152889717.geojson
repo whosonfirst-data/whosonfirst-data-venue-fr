@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.368866,50.039509,3.368866,50.039509",
     "geom:latitude":50.039509,
     "geom:longitude":3.368866,
@@ -27,9 +28,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902243,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404407641,
+        85633147,
+        1108826399,
+        101902243,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_6ESOn3rWA8uD0NMOIt8Svn_50.039509_3.368866@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14e6437fcb2ba87a1b369352dea1de4e",
+    "wof:geomhash":"51bc2d8a0b53f78e4a513c40169d3662",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404407641,
             "locality_id":101902243,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152889717
         }
     ],
     "wof:id":152889717,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496790634,
     "wof:name":"Contrecollage Du Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

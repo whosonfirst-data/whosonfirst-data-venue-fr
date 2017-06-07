@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.731658,45.181927,5.731658,45.181927",
     "geom:latitude":45.181927,
     "geom:longitude":5.731658,
@@ -29,9 +30,13 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -39,18 +44,22 @@
         "sg:id":"SG_1TFLXvVHPuajirCbFaq7Z7_45.181927_5.731658@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7afd8cba064f29029d92e65083cd3895",
+    "wof:geomhash":"27fabb5ca4bb12856bb212136cfdf270",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136297349
         }
     ],
     "wof:id":136297349,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496800619,
     "wof:name":"Banque G\u00e9n\u00e9rale, Du Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

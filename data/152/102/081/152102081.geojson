@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.878163,44.964703,4.878163,44.964703",
     "geom:latitude":44.964703,
     "geom:longitude":4.878163,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748961,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404372845,
+        85633147,
+        1108826389,
+        101748961,
+        136253037,
         102070171
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_36NUfi0wDYKtOC6wMc4dFW_44.964703_4.878163@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5fc33c2ee2fc13808e17ccfe3c9ab38",
+    "wof:geomhash":"446df5b8c4fc9d24fa74ae35d85b57e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070171,
+            "empire_id":136253037,
+            "localadmin_id":404372845,
             "locality_id":101748961,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152102081
         }
     ],
     "wof:id":152102081,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496800642,
     "wof:name":"Beton De France Rhone Alpes Alsace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.702363,48.58749,7.702363,48.58749",
     "geom:latitude":48.58749,
     "geom:longitude":7.702363,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03O9JxSU4pEsdTG3XcPQt5_48.587490_7.702363@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"567cc4e2c0938012780cb8506b65b7a8",
+    "wof:geomhash":"c6e4a6d627a5d3ac3ce36882f6005680",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":152051659
         }
     ],
     "wof:id":152051659,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496786451,
     "wof:name":"Clestra Cleanroom Sa",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

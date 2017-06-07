@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.551623,50.717754,2.551623,50.717754",
     "geom:latitude":50.717754,
     "geom:longitude":2.551623,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811331,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101811331,
+        136253037,
         102071935
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4T3ARU2pYGIKulhhUxL7K1_50.717754_2.551623@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b65ac2f22adaf6ac59d0143dbfeb9116",
+    "wof:geomhash":"cb743a746fdc7cded70117e5677d903d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071935,
+            "empire_id":136253037,
             "locality_id":101811331,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152222465
         }
     ],
     "wof:id":152222465,
-    "wof:lastmodified":1473798329,
+    "wof:lastmodified":1496791792,
     "wof:name":"La Confection Des Housses (lcdh)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

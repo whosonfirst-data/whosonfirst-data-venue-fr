@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.688725,45.228973,5.688725,45.228973",
     "geom:latitude":45.228973,
     "geom:longitude":5.688725,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750749,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404407273,
+        85633147,
+        1108826389,
+        101750749,
+        136253037,
         102071595
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2Qxh4T3cGt4eOE19HcYUYI_45.228973_5.688725@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"747fcdca2fbd8cc949081a0ff2a20fe3",
+    "wof:geomhash":"7bc7ce244008de4bf810cc0f4613cdeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071595,
+            "empire_id":136253037,
+            "localadmin_id":404407273,
             "locality_id":101750749,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152106783
         }
     ],
     "wof:id":152106783,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496779314,
     "wof:name":"Centre D Imagerie Diagnostique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

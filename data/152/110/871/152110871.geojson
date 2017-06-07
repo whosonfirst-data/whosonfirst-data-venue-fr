@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.058695,46.255932,5.058695,46.255932",
     "geom:latitude":46.255932,
     "geom:longitude":5.058695,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893925,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404375185,
+        85633147,
+        1108826389,
+        101893925,
+        136253037,
         102068187
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_70L52wVfXNC3lG5wY9dmby_46.255932_5.058695@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8be9cf6b66554f6d722e751d60783952",
+    "wof:geomhash":"02cbe8a1b29683978d0cbf3ac84d6d6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068187,
+            "empire_id":136253037,
+            "localadmin_id":404375185,
             "locality_id":101893925,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152110871
         }
     ],
     "wof:id":152110871,
-    "wof:lastmodified":1473798261,
+    "wof:lastmodified":1496780276,
     "wof:name":"Les Ebenistes Bressans Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

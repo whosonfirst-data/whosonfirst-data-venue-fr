@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.524405,48.579002,6.524405,48.579002",
     "geom:latitude":48.579002,
     "geom:longitude":6.524405,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828203,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404369641,
+        85633147,
+        1108826391,
+        101828203,
+        136253037,
         102067633
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_07r37eeLTCMYHJziOQ7x7O_48.579002_6.524405@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e3613d140befcab3d35e8eca103755a",
+    "wof:geomhash":"a7cd7f3911d012500f0fffc8b27ac855",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067633,
+            "empire_id":136253037,
+            "localadmin_id":404369641,
             "locality_id":101828203,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152069817
         }
     ],
     "wof:id":152069817,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1496793831,
     "wof:name":"Logidis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.12125,45.77145,3.12125,45.77145",
     "geom:latitude":45.77145,
     "geom:longitude":3.12125,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7kc5P0oqHQz1ytmkW1UwcL_45.771450_3.121250@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"44fadc797fac411ad4a85c2418a0b174",
+    "wof:geomhash":"842c7e4946a2997b3392b5e29d7f42ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152858551
         }
     ],
     "wof:id":152858551,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496781373,
     "wof:name":"Les Opticiens Associes Grand Optical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

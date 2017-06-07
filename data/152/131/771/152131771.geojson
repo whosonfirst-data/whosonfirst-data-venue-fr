@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.06912,45.77533,3.06912,45.77533",
     "geom:latitude":45.77533,
     "geom:longitude":3.06912,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749463,
-        85633147,
         85683471,
+        102191581,
+        85633147,
+        404227937,
+        1108826389,
+        101749463,
+        136253037,
         102071725
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_78mfRvzghrFATmIGyENfi2_45.775330_3.069120@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"34d3ef605522868c83075b259398137e",
+    "wof:geomhash":"aa1f7414fed58917615220af61a25e2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071725,
+            "empire_id":136253037,
             "locality_id":101749463,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152131771
         }
     ],
     "wof:id":152131771,
-    "wof:lastmodified":1473798292,
+    "wof:lastmodified":1496780756,
     "wof:name":"Api",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

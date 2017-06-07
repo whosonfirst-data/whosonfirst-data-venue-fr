@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.683015,45.806171,5.683015,45.806171",
     "geom:latitude":45.806171,
     "geom:longitude":5.683015,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683153,
+        102191581,
         85633147,
-        85683153
+        404389475,
+        404227585,
+        1108826389,
+        136253037,
+        102064817
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iMOd2AaDZAClO1q5qXsqM_45.806171_5.683015@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"32a46f77fcf7f8f12bff37fb3011997a",
+    "wof:geomhash":"4c4cdac84b5ba7a3e7f14754c9ae6255",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102064817,
+            "empire_id":136253037,
+            "localadmin_id":404389475,
+            "locality_id":-1,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152050447
         }
     ],
     "wof:id":152050447,
-    "wof:lastmodified":1473797916,
+    "wof:lastmodified":1496780908,
     "wof:name":"Bustours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

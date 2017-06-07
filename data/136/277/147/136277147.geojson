@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.236046,44.20356,-1.236046,44.20356",
     "geom:latitude":44.20356,
     "geom:longitude":-1.236046,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771509,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404349923,
+        85633147,
+        1108826385,
+        101771509,
+        136253037,
         102066101
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5y42lDpFT4dGtGRh6vgCOl_44.203560_-1.236046@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b5b5661c7e1926a7057aec0ce407648",
+    "wof:geomhash":"4b89c066460108d05672352ef27cb47f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066101,
+            "empire_id":136253037,
+            "localadmin_id":404349923,
             "locality_id":101771509,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136277147
         }
     ],
     "wof:id":136277147,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496775850,
     "wof:name":"Exco Fiduciaire Du Sud Ouest",
-    "wof:parent_id":101771509,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

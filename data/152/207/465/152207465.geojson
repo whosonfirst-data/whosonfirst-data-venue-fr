@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.191449,43.56863,4.191449,43.56863",
     "geom:latitude":43.56863,
     "geom:longitude":4.191449,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774093,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404365857,
+        85633147,
+        1108826387,
+        101774093,
+        136253037,
         102064323
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1al4pv9Kgdqdlx9RfWVKcl_43.568630_4.191449@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e32b7e731fae65c6b0118e8991f04973",
+    "wof:geomhash":"d62c931034e89d10953dba0faa8fbfb4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064323,
+            "empire_id":136253037,
+            "localadmin_id":404365857,
             "locality_id":101774093,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152207465
         }
     ],
     "wof:id":152207465,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496778001,
     "wof:name":"Agric Prod Asperges De Montcalm Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

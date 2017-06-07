@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.644492,44.072987,0.644492,44.072987",
     "geom:latitude":44.072987,
     "geom:longitude":0.644492,
@@ -32,24 +33,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683341,
+        102191581,
         85633147,
-        85683341
+        404366437,
+        404227689,
+        1108826385,
+        136253037,
+        102064665
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fXWK1ums8h5AmNYd6M0UZ_44.072987_0.644492@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cdbd1b311d8355c71d8556587bd0a0e5",
+    "wof:geomhash":"cb3f08e8a7a6c004feb480043ce79df6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102064665,
+            "empire_id":136253037,
+            "localadmin_id":404366437,
+            "locality_id":-1,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136309907
         }
     ],
     "wof:id":136309907,
-    "wof:lastmodified":1473798035,
+    "wof:lastmodified":1496776438,
     "wof:name":"Gardeil Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.985185,45.717667,4.985185,45.717667",
     "geom:latitude":45.717667,
     "geom:longitude":4.985185,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752989,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404418983,
+        85633147,
+        1108826389,
+        101752989,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4DvPccWF55vkOSSvDCL3EH_45.717667_4.985185@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e5fda547310d32f7c68d1ab2c2a0f138",
+    "wof:geomhash":"df77c6f821a53422bcd06a509c0b9710",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404418983,
             "locality_id":101752989,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152958135
         }
     ],
     "wof:id":152958135,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496800021,
     "wof:name":"Frans Maas Sud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

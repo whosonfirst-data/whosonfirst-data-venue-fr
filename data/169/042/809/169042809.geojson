@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823595,45.743576,4.823595,45.743576",
     "geom:latitude":45.743576,
     "geom:longitude":4.823595,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5K7wKy6bq8J4ePL6BROhUd_45.743576_4.823595@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4f89b14cd5939445429b8dddeb6b939",
+    "wof:geomhash":"b4efee1c64d26c6cfe738716147c159e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169042809
         }
     ],
     "wof:id":169042809,
-    "wof:lastmodified":1473798024,
+    "wof:lastmodified":1496779890,
     "wof:name":"M.2.m. Relocation S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.240333,46.651505,-0.240333,46.651505",
     "geom:latitude":46.651505,
     "geom:longitude":-0.240333,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829271,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404405299,
+        85633147,
+        1108826385,
+        101829271,
+        136253037,
         102068475
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1f77YafWfaSrpM98EldbNX_46.651505_-0.240333@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54e43464e7db1a03108f4038c6316e46",
+    "wof:geomhash":"89421d2a342779c94b925c16d2c5bc9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068475,
+            "empire_id":136253037,
+            "localadmin_id":404405299,
             "locality_id":101829271,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152167227
         }
     ],
     "wof:id":152167227,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1496777049,
     "wof:name":"Oxy Matic Societe Industrielle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
