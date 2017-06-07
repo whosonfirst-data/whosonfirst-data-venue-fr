@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.148727,48.669666,6.148727,48.669666",
     "geom:latitude":48.669666,
     "geom:longitude":6.148727,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751415,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404397469,
+        85633147,
+        1108826391,
+        101751415,
+        136253037,
         102070987
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5A1mnReyyePhIBpS5MdzQC_48.669666_6.148727@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"12ba3af6d7cb3e926635367e01e96276",
+    "wof:geomhash":"e55a07bdb64575534ce38efe48532bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070987,
+            "empire_id":136253037,
+            "localadmin_id":404397469,
             "locality_id":101751415,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136277423
         }
     ],
     "wof:id":136277423,
-    "wof:lastmodified":1473797916,
+    "wof:lastmodified":1496784826,
     "wof:name":"Fiduciaire Juridique Et Fiscale De Fr",
-    "wof:parent_id":101751415,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

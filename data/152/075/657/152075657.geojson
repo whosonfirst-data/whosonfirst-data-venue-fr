@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.130375,44.60799,-1.130375,44.60799",
     "geom:latitude":44.60799,
     "geom:longitude":-1.130375,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830703,
-        85633147,
         85683243,
+        102191581,
+        404228299,
+        404366083,
+        85633147,
+        1108826385,
+        101830703,
+        136253037,
         102071545
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_22TIqasXpvtA51ISW4fBFU_44.607990_-1.130375@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d55da23aef3c3ed8a6b5ac45e17bf04f",
+    "wof:geomhash":"916a0015a77e59200127722b22a6ae61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071545,
+            "empire_id":136253037,
+            "localadmin_id":404366083,
             "locality_id":101830703,
+            "macrocounty_id":404228299,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152075657
         }
     ],
     "wof:id":152075657,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496776507,
     "wof:name":"Comptoir Electrique Francais (cef)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

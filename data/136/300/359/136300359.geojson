@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.15689,45.649406,0.15689,45.649406",
     "geom:latitude":45.649406,
     "geom:longitude":0.15689,
@@ -28,9 +29,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829071,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404348375,
+        85633147,
+        1108826385,
+        101829071,
+        136253037,
         102072237
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_3HjBinP2wIl79TgLXJeGTz_45.649406_0.156890@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d00f31c35ee168c8387af4b5de095f62",
+    "wof:geomhash":"ca2d3093ffdc5f2e3834aed9bb515b85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072237,
+            "empire_id":136253037,
+            "localadmin_id":404348375,
             "locality_id":101829071,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":136300359
         }
     ],
     "wof:id":136300359,
-    "wof:lastmodified":1473797991,
+    "wof:lastmodified":1496775899,
     "wof:name":"Banque Tarneaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

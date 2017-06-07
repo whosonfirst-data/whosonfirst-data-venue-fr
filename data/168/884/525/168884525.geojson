@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.617928,45.739246,-0.617928,45.739246",
     "geom:latitude":45.739246,
     "geom:longitude":-0.617928,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829179,
-        85633147,
         85683275,
+        102191581,
+        404228209,
+        404359615,
+        85633147,
+        1108826385,
+        101829179,
+        136253037,
         102072553
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3pQu1rXH31z1KkBqqNvO2K_45.739246_-0.617928@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"985128cacac7de4571f2e9ab07e0bf73",
+    "wof:geomhash":"bf2e8ceca2b60b5d0ce65f63a5201de7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072553,
+            "empire_id":136253037,
+            "localadmin_id":404359615,
             "locality_id":101829179,
+            "macrocounty_id":404228209,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":168884525
         }
     ],
     "wof:id":168884525,
-    "wof:lastmodified":1473798049,
+    "wof:lastmodified":1496775587,
     "wof:name":"Coop Atlantique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

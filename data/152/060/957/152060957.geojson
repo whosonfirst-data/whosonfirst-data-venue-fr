@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.372341,46.665577,4.372341,46.665577",
     "geom:latitude":46.665577,
     "geom:longitude":4.372341,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829217,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101829217,
+        136253037,
         102072165
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3ZRENsngx8iHAdn6oPM0G8_46.665577_4.372341@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dacf4c1d715a0e18e3736ed28e111270",
+    "wof:geomhash":"bf136c75dbfd9bda5ca9526035c7eac0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072165,
+            "empire_id":136253037,
             "locality_id":101829217,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152060957
         }
     ],
     "wof:id":152060957,
-    "wof:lastmodified":1473797961,
+    "wof:lastmodified":1496794985,
     "wof:name":"Gerbe (ets)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

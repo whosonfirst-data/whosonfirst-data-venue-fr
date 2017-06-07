@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.527562,47.561375,7.527562,47.561375",
     "geom:latitude":47.561375,
     "geom:longitude":7.527562,
@@ -33,22 +34,26 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682361,
+        85799711,
+        102191581,
+        404571475,
         85633051,
         101914097,
         102062971,
-        85799711
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AmC1lYuf0L5HvMqa93L37_47.561375_7.527562@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54ebe3a9df4300e1e084c585badd984c",
+    "wof:geomhash":"c7f2ec1dfc22bfdfd009aa01f99effa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062971,
+            "localadmin_id":404571475,
             "locality_id":101914097,
             "neighbourhood_id":85799711,
             "region_id":85682361,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":152105279,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496784017,
     "wof:name":"Ventura & Cie Sarl",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",

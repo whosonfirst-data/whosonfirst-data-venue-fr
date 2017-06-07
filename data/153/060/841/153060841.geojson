@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.603389,49.20734,2.603389,49.20734",
     "geom:latitude":49.20734,
     "geom:longitude":2.603389,
@@ -24,9 +25,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1LfH6Hem0H8cPV8aFTAqLA_49.207340_2.603389@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"db4f110ee010da18f05f63a0f050da53",
+    "wof:geomhash":"36adc39f7ab93227eab557829283554a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153060841
         }
     ],
     "wof:id":153060841,
-    "wof:lastmodified":1473797980,
+    "wof:lastmodified":1496795674,
     "wof:name":"Aforp Vall\u00e9e De L'oise C.f.a.i.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

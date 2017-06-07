@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.693987,48.558727,7.693987,48.558727",
     "geom:latitude":48.558727,
     "geom:longitude":7.693987,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749759,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404409281,
+        85633147,
+        1108826391,
+        101749759,
+        136253037,
         102071231
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1XAFmfXTy4OgQoqum0zHtR_48.558727_7.693987@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ec4b2f983f50389d935f5fde017239f",
+    "wof:geomhash":"682d1c6146a11edff39aa8c847bc2acd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071231,
+            "empire_id":136253037,
+            "localadmin_id":404409281,
             "locality_id":101749759,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152075229
         }
     ],
     "wof:id":152075229,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1496784106,
     "wof:name":"Rutronik",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.148179,49.053776,7.148179,49.053776",
     "geom:latitude":49.053776,
     "geom:longitude":7.148179,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880159,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404404989,
+        85633147,
+        1108826391,
+        101880159,
+        136253037,
         102071585
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6ijOxZrbNMn33Q0WBRiy92_49.053776_7.148179@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dbfbdb5c5878bc91b15c247a5337f9e7",
+    "wof:geomhash":"7a5249e94afd4c6e069800fc2cb87481",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071585,
+            "empire_id":136253037,
+            "localadmin_id":404404989,
             "locality_id":101880159,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152068381
         }
     ],
     "wof:id":152068381,
-    "wof:lastmodified":1473798075,
+    "wof:lastmodified":1496793808,
     "wof:name":"Felker Fr\u00e8res Transports S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

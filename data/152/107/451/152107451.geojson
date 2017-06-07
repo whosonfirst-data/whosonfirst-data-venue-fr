@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.00183,49.583416,3.00183,49.583416",
     "geom:latitude":49.583416,
     "geom:longitude":3.00183,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814949,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404383477,
+        85633147,
+        1108826399,
+        101814949,
+        136253037,
         102069723
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4WWctEUY9mxrDMBdaYywbJ_49.583416_3.001830@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e3d0f22d32bd8102a26b6611fa0bf880",
+    "wof:geomhash":"f06fdc09f244ebd0cc887f51b750aece",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069723,
+            "empire_id":136253037,
+            "localadmin_id":404383477,
             "locality_id":101814949,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152107451
         }
     ],
     "wof:id":152107451,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496790660,
     "wof:name":"Laboratoire Dentaire De La Vallee De L'oise (vdo)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

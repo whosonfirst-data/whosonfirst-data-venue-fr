@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.908785,43.904945,1.908785,43.904945",
     "geom:latitude":43.904945,
     "geom:longitude":1.908785,
@@ -22,9 +23,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831825,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404354803,
+        85633147,
+        1108826387,
+        101831825,
+        136253037,
         102066451
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7BEximI2de6mb4H8aHIyap_43.904945_1.908785@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d94aaecf9111de0aa0d0861617466d9b",
+    "wof:geomhash":"1f0cae613bf60b0de1a6e734062f3d13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066451,
+            "empire_id":136253037,
+            "localadmin_id":404354803,
             "locality_id":101831825,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152933911
         }
     ],
     "wof:id":152933911,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496803803,
     "wof:name":"Imprimerie Rhode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

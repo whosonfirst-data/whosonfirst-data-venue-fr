@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.664335,45.196575,0.664335,45.196575",
     "geom:latitude":45.196575,
     "geom:longitude":0.664335,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830681,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404351339,
+        85633147,
+        1108826385,
+        101830681,
+        136253037,
         102071571
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7Ka6qM4hNeg7xOC5DRah3l_45.196575_0.664335@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c69f7cca7b9d31de5c5790776a1637c4",
+    "wof:geomhash":"ec11e2d6b8b346c6102c6dbb01085b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071571,
+            "empire_id":136253037,
+            "localadmin_id":404351339,
             "locality_id":101830681,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152107405
         }
     ],
     "wof:id":152107405,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496776493,
     "wof:name":"Laboratoire De Prothese Dentaire G Et S Lamstaes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

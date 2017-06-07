@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.100459,49.427982,2.100459,49.427982",
     "geom:latitude":49.427982,
     "geom:longitude":2.100459,
@@ -24,9 +25,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_2z6BSnmjbVObkrDrDEt7T8_49.427982_2.100459@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09b94030c6be600bcaa40be6b1cbc062",
+    "wof:geomhash":"ae89c44e4fc86abe8a1b907bac41c726",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169165787
         }
     ],
     "wof:id":169165787,
-    "wof:lastmodified":1473798206,
+    "wof:lastmodified":1496790033,
     "wof:name":"Soci\u00e9t\u00e9 De Transport Des Rapides De L'oise S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

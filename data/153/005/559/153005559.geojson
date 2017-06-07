@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.727851,46.008591,4.727851,46.008591",
     "geom:latitude":46.008591,
     "geom:longitude":4.727851,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748981,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404392499,
+        85633147,
+        1108826389,
+        101748981,
+        136253037,
         102071653
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0zAwXo9U13GTz8kKHUkbWN_46.008591_4.727851@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"29a77b6ed0509aba168b6fc1dd4f1045",
+    "wof:geomhash":"049f84b28d8e2c74e7ae93cb6f9fc0c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071653,
+            "empire_id":136253037,
+            "localadmin_id":404392499,
             "locality_id":101748981,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153005559
         }
     ],
     "wof:id":153005559,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496779507,
     "wof:name":"M\u00e9rard-cauillaudin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

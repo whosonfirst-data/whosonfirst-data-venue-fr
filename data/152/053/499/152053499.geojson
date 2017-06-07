@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.819399,47.063385,4.819399,47.063385",
     "geom:latitude":47.063385,
     "geom:longitude":4.819399,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767327,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404349659,
+        85633147,
+        1108826395,
+        101767327,
+        136253037,
         102065023
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_33wFJz6R0rLntxXg6BTJYf_47.063385_4.819399@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c7b9e3bac9b89f51ca3103bbc82440e",
+    "wof:geomhash":"9200d3953d205e2f0ffcd1ea97d9930f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065023,
+            "empire_id":136253037,
+            "localadmin_id":404349659,
             "locality_id":101767327,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152053499
         }
     ],
     "wof:id":152053499,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496794880,
     "wof:name":"Sa Maison Parigot Et Richard Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

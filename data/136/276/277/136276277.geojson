@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.149543,49.025215,1.149543,49.025215",
     "geom:latitude":49.025215,
     "geom:longitude":1.149543,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751419,
-        85633147,
         85683283,
+        102191581,
+        85633147,
+        404228055,
+        1108826393,
+        101751419,
+        136253037,
         102072511
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_2ydxQHqH3vNrJ4mE1FCfxF_49.025215_1.149543@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"995fc18323c5228b5799be6912fadafa",
+    "wof:geomhash":"8d009cc3e269799616712c0d18c1d779",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072511,
+            "empire_id":136253037,
             "locality_id":101751419,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136276277
         }
     ],
     "wof:id":136276277,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496787333,
     "wof:name":"Centre D Economie Rurale De L Eure Ass",
-    "wof:parent_id":101751419,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

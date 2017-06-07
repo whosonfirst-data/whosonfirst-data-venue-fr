@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.034594,47.328918,5.034594,47.328918",
     "geom:latitude":47.328918,
     "geom:longitude":5.034594,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3z8xpP2o6ixd9pKx8qcZxO_47.328918_5.034594@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2fe973bffb38550adc7c5ace6c5b25bd",
+    "wof:geomhash":"b6a493e0eedad1183a8b8cfb0431838f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136274745
         }
     ],
     "wof:id":136274745,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496788721,
     "wof:name":"Audit Bilan Conseil Sarl",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

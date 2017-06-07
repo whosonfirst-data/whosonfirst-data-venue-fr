@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.101139,50.059616,4.101139,50.059616",
     "geom:latitude":50.059616,
     "geom:longitude":4.101139,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840791,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404367571,
+        85633147,
+        1108826399,
+        101840791,
+        136253037,
         102071803
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4kJN1eIq0AE6KxKoARtt0V_50.059616_4.101139@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"389fa4a4629d0a0456caba3bdb05eddc",
+    "wof:geomhash":"f63046f2633d2f0e162d14829a71df34",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071803,
+            "empire_id":136253037,
+            "localadmin_id":404367571,
             "locality_id":101840791,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152145877
         }
     ],
     "wof:id":152145877,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496792258,
     "wof:name":"Les Ateliers Technimetal Du Nord Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

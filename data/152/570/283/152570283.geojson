@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.04995,46.397202,-0.04995,46.397202",
     "geom:latitude":46.397202,
     "geom:longitude":-0.04995,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766773,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404362657,
+        85633147,
+        1108826385,
+        101766773,
+        136253037,
         102067851
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5L2qt5RXvAp0b3X7jE6SyR_46.397202_-0.049950@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3b7e822439381d48465d5232056e0a02",
+    "wof:geomhash":"66629b71e4f18bd74e959db3ad666ac4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067851,
+            "empire_id":136253037,
+            "localadmin_id":404362657,
             "locality_id":101766773,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152570283
         }
     ],
     "wof:id":152570283,
-    "wof:lastmodified":1473798463,
+    "wof:lastmodified":1496777213,
     "wof:name":"Laboratoire Prot\u00e9co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

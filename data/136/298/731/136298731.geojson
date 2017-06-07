@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.162694,46.990402,3.162694,46.990402",
     "geom:latitude":46.990402,
     "geom:longitude":3.162694,
@@ -29,9 +30,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829431,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404367031,
+        85633147,
+        1108826395,
+        101829431,
+        136253037,
         102072531
     ],
     "wof:brand_id":420573859,
@@ -40,18 +46,23 @@
         "sg:id":"SG_0aBPzva6iGezsGSVEBNfRV_46.990402_3.162694@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5476eff715acac6bf291ba0d2fb98191",
+    "wof:geomhash":"6c1e74b2cf15407a3017b593d1fc8f1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072531,
+            "empire_id":136253037,
+            "localadmin_id":404367031,
             "locality_id":101829431,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":136298731
         }
     ],
     "wof:id":136298731,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496788708,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

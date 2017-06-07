@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.089312,49.427296,2.089312,49.427296",
     "geom:latitude":49.427296,
     "geom:longitude":2.089312,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7aGH731jSQVC4Mm1uigmFj_49.427296_2.089312@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a54729997dcd5bc833c295fda871c33",
+    "wof:geomhash":"dcd353d909397b02a93e27f8a8124d59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152043581
         }
     ],
     "wof:id":152043581,
-    "wof:lastmodified":1473797867,
+    "wof:lastmodified":1496790044,
     "wof:name":"C D P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

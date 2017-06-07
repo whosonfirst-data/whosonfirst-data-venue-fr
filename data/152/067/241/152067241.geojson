@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.103236,49.442329,2.103236,49.442329",
     "geom:latitude":49.442329,
     "geom:longitude":2.103236,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1CnRYcuVAncmumnPJV046r_49.442329_2.103236@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"996529a2aa17dbbdf778e06a2fa62026",
+    "wof:geomhash":"9a88d579cdb1002bfb5fc3e9c5c5105c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152067241
         }
     ],
     "wof:id":152067241,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496795710,
     "wof:name":"Oise Tp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

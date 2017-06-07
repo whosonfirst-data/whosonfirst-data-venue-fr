@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.347386,47.24789,5.347386,47.24789",
     "geom:latitude":47.24789,
     "geom:longitude":5.347386,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889517,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404389929,
+        85633147,
+        1108826395,
+        101889517,
+        136253037,
         102064717
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1ZysllaxZLM9Y4LLI8ID9C_47.247890_5.347386@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9abb2d03bc50b6bb080b20f97b61fd34",
+    "wof:geomhash":"c8f08a67b8b622db75f591549f943b8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064717,
+            "empire_id":136253037,
+            "localadmin_id":404389929,
             "locality_id":101889517,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136287065
         }
     ],
     "wof:id":136287065,
-    "wof:lastmodified":1473797870,
+    "wof:lastmodified":1496789229,
     "wof:name":"May Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

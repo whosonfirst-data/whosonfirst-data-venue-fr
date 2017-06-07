@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.618797,44.204922,0.618797,44.204922",
     "geom:latitude":44.204922,
     "geom:longitude":0.618797,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_0hUns1R3t1xrbUDeVnCYaX_44.204922_0.618797@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cea7dffab4ad02180f3c36a9b6b586c1",
+    "wof:geomhash":"f84bff2ce876aa22ff31c94dcd1b221b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136293523
         }
     ],
     "wof:id":136293523,
-    "wof:lastmodified":1473797922,
+    "wof:lastmodified":1496776666,
     "wof:name":"Banque Populaire Du Quercy Et De L'agenais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.61245,49.103561,0.61245,49.103561",
     "geom:latitude":49.103561,
     "geom:longitude":0.61245,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828371,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404389631,
+        85633147,
+        1108826393,
+        101828371,
+        136253037,
         102071125
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6c173ANPStKUm4HIDDmzNg_49.103561_0.612450@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4294f1bab437d98f257666e5c941ac20",
+    "wof:geomhash":"addf727da55a61032d7031193b695689",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071125,
+            "empire_id":136253037,
+            "localadmin_id":404389631,
             "locality_id":101828371,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136277309
         }
     ],
     "wof:id":136277309,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496787486,
     "wof:name":"Fiduciai Norman Expertis Comptab Conseil Sa",
-    "wof:parent_id":101828371,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

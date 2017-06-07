@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.73748,48.55513,7.73748,48.55513",
     "geom:latitude":48.55513,
     "geom:longitude":7.73748,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wVX72ZyfyVz4N5e4GWKhe_48.555130_7.737480@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc0870e5e4b3b12d81f817d6617c382c",
+    "wof:geomhash":"c883326fc8207d808d51ec762431fa75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":152194981
         }
     ],
     "wof:id":152194981,
-    "wof:lastmodified":1473798318,
+    "wof:lastmodified":1496793360,
     "wof:name":"Armastra",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.141969,50.783958,3.141969,50.783958",
     "geom:latitude":50.783958,
     "geom:longitude":3.141969,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756119,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404409371,
+        85633147,
+        1108826399,
+        101756119,
+        136253037,
         102071785
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_5S6CMW7ryEi2HCL1d5KyUO_50.783958_3.141969@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5472b0c3303ea14b60b66873cc3b81f6",
+    "wof:geomhash":"e870f12a60b89706118f8f4ecb327e1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071785,
+            "empire_id":136253037,
+            "localadmin_id":404409371,
             "locality_id":101756119,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152963455
         }
     ],
     "wof:id":152963455,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496791184,
     "wof:name":"Militzer Et Munch Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

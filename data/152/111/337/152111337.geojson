@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.393613,46.319572,3.393613,46.319572",
     "geom:latitude":46.319572,
     "geom:longitude":3.393613,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766493,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404427727,
+        85633147,
+        1108826389,
+        101766493,
+        136253037,
         102069529
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_01ZwlyRpIaGVtFEJnu3Yf5_46.319572_3.393613@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb7f5f36c25ea00758d3fddd2a2cd0f1",
+    "wof:geomhash":"3a4a4de8c73fa6c902b432213f81f445",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069529,
+            "empire_id":136253037,
+            "localadmin_id":404427727,
             "locality_id":101766493,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152111337
         }
     ],
     "wof:id":152111337,
-    "wof:lastmodified":1473798268,
+    "wof:lastmodified":1496806411,
     "wof:name":"Moreux De Varennes Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

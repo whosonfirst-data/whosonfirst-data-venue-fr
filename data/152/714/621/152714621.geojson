@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.65192,46.263153,5.65192,46.263153",
     "geom:latitude":46.263153,
     "geom:longitude":5.65192,
@@ -23,9 +24,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -33,18 +38,22 @@
         "sg:id":"SG_7UdyiJU7lbMCeFXm3ibuEK_46.263153_5.651920@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c26a67dafae653498cf85553c39e8a75",
+    "wof:geomhash":"e3eaf7ab17b76a9ac61719e604565fd1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152714621
         }
     ],
     "wof:id":152714621,
-    "wof:lastmodified":1473798515,
+    "wof:lastmodified":1496799877,
     "wof:name":"S.a.v. Oyonnaxien S.a.r.l. - Service Apr\u00e8s-vente Oyonnaxien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

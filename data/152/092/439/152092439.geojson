@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.63533,49.488708,2.63533,49.488708",
     "geom:latitude":49.488708,
     "geom:longitude":2.63533,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902755,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404393465,
+        85633147,
+        1108826399,
+        101902755,
+        136253037,
         102070281
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5QWbqjG2O3l5biNqtlQgYm_49.488708_2.635330@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b9d1ad3102d39e072595c115150e7b1",
+    "wof:geomhash":"34b8e59e0e125c1e3e13f5732a638cf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070281,
+            "empire_id":136253037,
+            "localadmin_id":404393465,
             "locality_id":101902755,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152092439
         }
     ],
     "wof:id":152092439,
-    "wof:lastmodified":1473798199,
+    "wof:lastmodified":1496790067,
     "wof:name":"Oct (oise Chaudronnerie Tuyauterie)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

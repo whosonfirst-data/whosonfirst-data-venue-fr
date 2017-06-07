@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.525727,50.039574,1.525727,50.039574",
     "geom:latitude":50.039574,
     "geom:longitude":1.525727,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813817,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404393443,
+        85633147,
+        1108826399,
+        101813817,
+        136253037,
         102068363
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_71HYaEIOeXG3Sflte1fqHG_50.039574_1.525727@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b7c72664b26fcc06e87f340ad9d22f20",
+    "wof:geomhash":"8b624cf6e28c9e50fdbdaf27d9c3f8f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068363,
+            "empire_id":136253037,
+            "localadmin_id":404393443,
             "locality_id":101813817,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":153039147
         }
     ],
     "wof:id":153039147,
-    "wof:lastmodified":1473797965,
+    "wof:lastmodified":1496795594,
     "wof:name":"A. Et G. Lenne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

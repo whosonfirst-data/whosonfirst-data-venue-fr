@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.583673,47.809746,3.583673,47.809746",
     "geom:latitude":47.809746,
     "geom:longitude":3.583673,
@@ -39,9 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -49,18 +54,22 @@
         "sg:id":"SG_1kkuJUaDI38EuYV7lBeBQx_47.809746_3.583673@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"71c4e48651a1ccf2a60797295980b4f6",
+    "wof:geomhash":"e550337efaeb73f9a43bc25286fb5484",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152056501
         }
     ],
     "wof:id":152056501,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496788604,
     "wof:name":"Schiever Deco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

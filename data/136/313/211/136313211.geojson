@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.020109,46.242748,6.020109,46.242748",
     "geom:latitude":46.242748,
     "geom:longitude":6.020109,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753275,
-        85633147,
         85683153,
+        102191581,
+        404228005,
+        404355697,
+        85633147,
+        1108826389,
+        101753275,
+        136253037,
         102066711
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1sS8sJVModG8NxvEhMTJJf_46.242748_6.020109@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"154b1b277e851e7362a57f57b9e49cca",
+    "wof:geomhash":"646f677c22d3e8d4dea2a32fbe65ab43",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066711,
+            "empire_id":136253037,
+            "localadmin_id":404355697,
             "locality_id":101753275,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136313211
         }
     ],
     "wof:id":136313211,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496800693,
     "wof:name":"Ste Expl Boulangerie Patisserie Depierre Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

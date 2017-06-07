@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.079626,45.912918,6.079626,45.912918",
     "geom:latitude":45.912918,
     "geom:longitude":6.079626,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750849,
-        85633147,
         85683227,
+        102191581,
+        404227747,
+        404379647,
+        85633147,
+        1108826389,
+        101750849,
+        136253037,
         102069643
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4cED6zpRHzCyg4mFjzMCri_45.912918_6.079626@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2bf005f75ad338b5e1216575a3c6a0bf",
+    "wof:geomhash":"49db4edfc68bc53210cf45f5c7715c8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069643,
+            "empire_id":136253037,
+            "localadmin_id":404379647,
             "locality_id":101750849,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152437493
         }
     ],
     "wof:id":152437493,
-    "wof:lastmodified":1473798408,
+    "wof:lastmodified":1496780603,
     "wof:name":"Entreprise Jean Lefebvre Alpes S.n.c",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

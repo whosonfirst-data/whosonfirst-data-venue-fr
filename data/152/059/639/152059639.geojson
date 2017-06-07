@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.182127,48.690811,6.182127,48.690811",
     "geom:latitude":48.690811,
     "geom:longitude":6.182127,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_70uygYe7vV5Arcle9Ak7PN_48.690811_6.182127@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"84ecc8be2a09678fc67fd072490dbd21",
+    "wof:geomhash":"e757784d858bb67dfe80039f8cf872e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152059639
         }
     ],
     "wof:id":152059639,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496785661,
     "wof:name":"At Sa (armand Thierry Sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

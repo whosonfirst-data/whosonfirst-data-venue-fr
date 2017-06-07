@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.403011,45.282307,-0.403011,45.282307",
     "geom:latitude":45.282307,
     "geom:longitude":-0.403011,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769599,
-        85633147,
         85683275,
+        102191581,
+        404227621,
+        404425583,
+        85633147,
+        1108826385,
+        101769599,
+        136253037,
         102067373
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6xJVkiSF5QeuQRqjOmbvrY_45.282307_-0.403011@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"24474107309ce8b8f7b607b1bd5b21a9",
+    "wof:geomhash":"765a787da2f3d2da19bc4efbcedf9d9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067373,
+            "empire_id":136253037,
+            "localadmin_id":404425583,
             "locality_id":101769599,
+            "macrocounty_id":404227621,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152166929
         }
     ],
     "wof:id":152166929,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496777088,
     "wof:name":"Morgan Thermic Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

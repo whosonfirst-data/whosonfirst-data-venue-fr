@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.335507,43.818245,4.335507,43.818245",
     "geom:latitude":43.818245,
     "geom:longitude":4.335507,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3hDezvUpXwVxVj1swFS49r_43.818245_4.335507@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc97bd2bc8b52a1a5280aea1947607b7",
+    "wof:geomhash":"4f2873e6861d13244fb2c601e15305c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136281947
         }
     ],
     "wof:id":136281947,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496778309,
     "wof:name":"Giraudy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

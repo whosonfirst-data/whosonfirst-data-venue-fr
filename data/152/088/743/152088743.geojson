@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.615139,43.4646,-0.615139,43.4646",
     "geom:latitude":43.4646,
     "geom:longitude":-0.615139,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772367,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404397857,
+        85633147,
+        1108826385,
+        101772367,
+        136253037,
         102064789
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_153uXsy7hBvr4XbwzeldAT_43.464600_-0.615139@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5fc7a45074aa9841ba5e7f7979ab8631",
+    "wof:geomhash":"6babbd049cdc4300569905aa9a220d46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064789,
+            "empire_id":136253037,
+            "localadmin_id":404397857,
             "locality_id":101772367,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152088743
         }
     ],
     "wof:id":152088743,
-    "wof:lastmodified":1473798211,
+    "wof:lastmodified":1496776614,
     "wof:name":"Citba Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

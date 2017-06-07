@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.94874,49.047428,3.94874,49.047428",
     "geom:latitude":49.047428,
     "geom:longitude":3.94874,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828113,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404358035,
+        85633147,
+        1108826391,
+        101828113,
+        136253037,
         102072157
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1H1Fsab9QShQBrjse8xU95_49.047428_3.948740@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"57ae20ee8b2e08077f8992c187d69f14",
+    "wof:geomhash":"159ef56750f314de69e7aff2ffb95903",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072157,
+            "empire_id":136253037,
+            "localadmin_id":404358035,
             "locality_id":101828113,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152044321
         }
     ],
     "wof:id":152044321,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496786538,
     "wof:name":"Syndicat General Des Vignerons De La Champagne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

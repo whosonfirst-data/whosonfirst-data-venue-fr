@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.34053,46.581985,0.34053,46.581985",
     "geom:latitude":46.581985,
     "geom:longitude":0.34053,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5cmquL7fP0Im2w9bBqb2M8_46.581985_0.340530@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2ab3bccf460158c6fc4a39115a2d428",
+    "wof:geomhash":"625784d2ed2a55cd3ccdb16a77ccc7ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152117933
         }
     ],
     "wof:id":152117933,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496775748,
     "wof:name":"Bijouterie Francois Lassorre Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.085052,45.770702,3.085052,45.770702",
     "geom:latitude":45.770702,
     "geom:longitude":3.085052,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3rF1maJd4IDEus7ONHMZ2W_45.770702_3.085052@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d5de1210fa6c86e6f34501514591942",
+    "wof:geomhash":"c3cdd659ae9fe66541706cbba11a8f67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":153063487
         }
     ],
     "wof:id":153063487,
-    "wof:lastmodified":1473797961,
+    "wof:lastmodified":1496779440,
     "wof:name":"Air France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

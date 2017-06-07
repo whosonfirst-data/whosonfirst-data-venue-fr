@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.728613,45.190845,5.728613,45.190845",
     "geom:latitude":45.190845,
     "geom:longitude":5.728613,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0gxZiLaIReocEEn0XFQEgO_45.190845_5.728613@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58b7d81b3709536f6c80b7e4a2f8f3c4",
+    "wof:geomhash":"71480805309d55b377bc6543f03d8594",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152049275
         }
     ],
     "wof:id":152049275,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496782114,
     "wof:name":"Le Grand Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

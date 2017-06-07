@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.222747,49.508877,0.222747,49.508877",
     "geom:latitude":49.508877,
     "geom:longitude":0.222747,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753025,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404396745,
+        85633147,
+        1108826393,
+        101753025,
+        136253037,
         102071797
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_4bfrX0KtTsWGZUfkBMrc2V_49.508877_0.222747@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a303060b322e881bcb90cb96164d3c18",
+    "wof:geomhash":"d5ca0bc70177b58b553a19210242276f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071797,
+            "empire_id":136253037,
+            "localadmin_id":404396745,
             "locality_id":101753025,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152092491
         }
     ],
     "wof:id":152092491,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496787294,
     "wof:name":"Sitmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.434983,49.730217,1.434983,49.730217",
     "geom:latitude":49.730217,
     "geom:longitude":1.434983,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813765,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404348527,
+        85633147,
+        1108826393,
+        101813765,
+        136253037,
         102070839
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5JcLBTuDB8DvDIAOVHA4c1_49.730217_1.434983@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"93a829fd09eb4b3356f748b432ad0d2e",
+    "wof:geomhash":"5f3d18c661cdc98437a7268c307f9d17",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070839,
+            "empire_id":136253037,
+            "localadmin_id":404348527,
             "locality_id":101813765,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152095569
         }
     ],
     "wof:id":152095569,
-    "wof:lastmodified":1473798196,
+    "wof:lastmodified":1496805065,
     "wof:name":"Delinor Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

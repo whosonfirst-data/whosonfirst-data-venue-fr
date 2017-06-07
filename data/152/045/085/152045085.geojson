@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.714262,49.115128,6.714262,49.115128",
     "geom:latitude":49.115128,
     "geom:longitude":6.714262,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828171,
-        85633147,
         85683271,
+        102191581,
+        85633147,
+        404228121,
+        1108826391,
+        101828171,
+        136253037,
         102072083
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3VOoDbsje98pgqmknc9nVR_49.115128_6.714262@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e449412efa61cd814918511e10c930f5",
+    "wof:geomhash":"13275b645ec9b4aca01a136d74a0bc64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072083,
+            "empire_id":136253037,
             "locality_id":101828171,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152045085
         }
     ],
     "wof:id":152045085,
-    "wof:lastmodified":1473797874,
+    "wof:lastmodified":1496794299,
     "wof:name":"College Jean De La Fontaine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

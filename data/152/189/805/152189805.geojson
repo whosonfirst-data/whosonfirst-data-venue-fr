@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.11414,49.390167,1.11414,49.390167",
     "geom:latitude":49.390167,
     "geom:longitude":1.11414,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751461,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751461,
+        136253037,
         102071971
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2JGKyQz9azcuYJItlldjZv_49.390167_1.114140@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"28e0ca97ad6b87290a67b5b2e465d754",
+    "wof:geomhash":"b891ce3129259673f3e2e4f93e15880f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071971,
+            "empire_id":136253037,
             "locality_id":101751461,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152189805
         }
     ],
     "wof:id":152189805,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1496787812,
     "wof:name":"Transflex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

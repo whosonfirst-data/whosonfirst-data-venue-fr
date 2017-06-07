@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.141989,45.786541,3.141989,45.786541",
     "geom:latitude":45.786541,
     "geom:longitude":3.141989,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1VwdyFEuWRo2X9KEfY696M_45.786541_3.141989@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99914f86aa12239996420144d2533df4",
+    "wof:geomhash":"c86d18966ab5761a244486dd9b0007bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152050159
         }
     ],
     "wof:id":152050159,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496780379,
     "wof:name":"Novotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

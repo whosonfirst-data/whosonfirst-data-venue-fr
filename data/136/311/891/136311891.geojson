@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.096839,49.417702,2.096839,49.417702",
     "geom:latitude":49.417702,
     "geom:longitude":2.096839,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749123,
-        85633147,
         85683289,
+        102191581,
+        85633147,
+        404227717,
+        1108826399,
+        101749123,
+        136253037,
         102072415
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7TGeD9q8fMHyoDsiPV20ZU_49.417702_2.096839@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"108e4cae0df86e39e6bb5734b5129dd0",
+    "wof:geomhash":"8b3d269ba18b812fe411f5e0ff858af8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072415,
+            "empire_id":136253037,
             "locality_id":101749123,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136311891
         }
     ],
     "wof:id":136311891,
-    "wof:lastmodified":1473798025,
+    "wof:lastmodified":1496790048,
     "wof:name":"Boulangerie Covelli Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

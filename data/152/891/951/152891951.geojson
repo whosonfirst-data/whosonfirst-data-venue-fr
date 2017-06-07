@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.236359,50.627857,3.236359,50.627857",
     "geom:latitude":50.627857,
     "geom:longitude":3.236359,
@@ -27,28 +28,39 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85794639,
-        102070353
+        102191581,
+        85633147,
+        404421999,
+        404228283,
+        1108826399,
+        136253037,
+        102070353,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eaUjs1sLN9kKnI3KBwdIZ_50.627857_3.236359@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d4b2709464a2176bf3d13ee8a0de51d",
+    "wof:geomhash":"44814ccfe9870ace27f5f5462c9aa38e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421999,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794639,
             "region_id":85683445,
             "venue_id":152891951
         }
     ],
     "wof:id":152891951,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496791007,
     "wof:name":"Musthane",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",

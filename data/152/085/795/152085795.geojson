@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.379322,50.098644,3.379322,50.098644",
     "geom:latitude":50.098644,
     "geom:longitude":3.379322,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811361,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404413765,
+        85633147,
+        1108826399,
+        101811361,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0sU3AhlRFRvk9vpXZQjhpm_50.098644_3.379322@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ded2609dc0d10fe6eaf61957dd0dc30",
+    "wof:geomhash":"c2d10a64ab4c256f43f5e1ab3c5702f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404413765,
             "locality_id":101811361,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152085795
         }
     ],
     "wof:id":152085795,
-    "wof:lastmodified":1473798148,
+    "wof:lastmodified":1496790456,
     "wof:name":"Creation Et Tricotage Du Cambresis (ctc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

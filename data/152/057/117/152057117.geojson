@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.725773,45.18853,5.725773,45.18853",
     "geom:latitude":45.18853,
     "geom:longitude":5.725773,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7ilWAqrQmQuZIbCGVxD99o_45.188530_5.725773@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3765f7355aa3546de86929adbb730326",
+    "wof:geomhash":"79606e77023bbe087caf6d63222bf95b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152057117
         }
     ],
     "wof:id":152057117,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496779619,
     "wof:name":"Stearinerie Dubois Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

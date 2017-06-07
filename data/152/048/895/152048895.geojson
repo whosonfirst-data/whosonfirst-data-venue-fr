@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.886973,43.609226,3.886973,43.609226",
     "geom:latitude":43.609226,
     "geom:longitude":3.886973,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_51aycArLcWhI7aYMhRxn4J_43.609226_3.886973@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23c0131d09446a506ac284a5c868d9d5",
+    "wof:geomhash":"4fb2d5d707f987497b681dcc9093471b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152048895
         }
     ],
     "wof:id":152048895,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496799300,
     "wof:name":"Hotel Mercure Sa.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

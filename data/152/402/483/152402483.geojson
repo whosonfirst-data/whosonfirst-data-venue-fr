@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.648383,50.398289,3.648383,50.398289",
     "geom:latitude":50.398289,
     "geom:longitude":3.648383,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840627,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404403711,
+        85633147,
+        1108826399,
+        101840627,
+        136253037,
         102071811
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2l6ywmiwmSSk7mJI5x4KYl_50.398289_3.648383@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2a183a615b7aa18e862b7c06d4b22c14",
+    "wof:geomhash":"3d6c8a40771a02c16c41ef136b6b66fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071811,
+            "empire_id":136253037,
+            "localadmin_id":404403711,
             "locality_id":101840627,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152402483
         }
     ],
     "wof:id":152402483,
-    "wof:lastmodified":1473798396,
+    "wof:lastmodified":1496790696,
     "wof:name":"Demarez S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.81546,49.146759,6.81546,49.146759",
     "geom:latitude":49.146759,
     "geom:longitude":6.81546,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101758677,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404356099,
+        85633147,
+        1108826391,
+        101758677,
+        136253037,
         102071145
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1LFFjl3q9xKQIBFJNHLf28_49.146759_6.815460@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d0593c5ef5c6db9e86c30581cb27cb8c",
+    "wof:geomhash":"57bbdf193b5afdfde5a7fa50b5d0e799",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404356099,
             "locality_id":101758677,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152046055
         }
     ],
     "wof:id":152046055,
-    "wof:lastmodified":1473797869,
+    "wof:lastmodified":1496785908,
     "wof:name":"Institut Privee St Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

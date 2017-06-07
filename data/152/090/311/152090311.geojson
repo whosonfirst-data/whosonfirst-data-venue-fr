@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.480715,46.745625,-0.480715,46.745625",
     "geom:latitude":46.745625,
     "geom:longitude":-0.480715,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766749,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404357485,
+        85633147,
+        1108826385,
+        101766749,
+        136253037,
         102067727
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0FP7CVGzvYQd06wboZKN5J_46.745625_-0.480715@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07e99ab9f498b3874bbc5c0f604eb40b",
+    "wof:geomhash":"dedac6a49dce0588594cf5c44ab9e1cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067727,
+            "empire_id":136253037,
+            "localadmin_id":404357485,
             "locality_id":101766749,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152090311
         }
     ],
     "wof:id":152090311,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1496775595,
     "wof:name":"Mimault Tolerie Industrielle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

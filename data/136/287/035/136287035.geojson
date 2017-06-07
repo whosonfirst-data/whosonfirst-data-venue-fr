@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.719815,47.519024,3.719815,47.519024",
     "geom:latitude":47.519024,
     "geom:longitude":3.719815,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888503,
-        85633147,
         85683503,
+        102191581,
+        404227993,
+        404383369,
+        85633147,
+        1108826395,
+        101888503,
+        136253037,
         102070559
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1Z5zKlUycCzkC6Y363ucyA_47.519024_3.719815@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7dfedb73876faa63160db7361f3c1b40",
+    "wof:geomhash":"b1a48feb8647b3210f30e1b0f8b4e004",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070559,
+            "empire_id":136253037,
+            "localadmin_id":404383369,
             "locality_id":101888503,
+            "macrocounty_id":404227993,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136287035
         }
     ],
     "wof:id":136287035,
-    "wof:lastmodified":1473797872,
+    "wof:lastmodified":1496788662,
     "wof:name":"Collin Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

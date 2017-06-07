@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.283661,43.663219,2.283661,43.663219",
     "geom:latitude":43.663219,
     "geom:longitude":2.283661,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772551,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404374683,
+        85633147,
+        1108826387,
+        101772551,
+        136253037,
         102069363
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5J2d5kFInF5YfUTaN0ienF_43.663219_2.283661@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bdb71a26f298fcc5ed49418b2fa1a096",
+    "wof:geomhash":"1372e9a17f6ed2adf7a2176975279740",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069363,
+            "empire_id":136253037,
+            "localadmin_id":404374683,
             "locality_id":101772551,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152062917
         }
     ],
     "wof:id":152062917,
-    "wof:lastmodified":1473798032,
+    "wof:lastmodified":1496803444,
     "wof:name":"Soci\u00c9t\u00c9 Molinier Laur Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

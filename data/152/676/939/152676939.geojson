@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.089947,48.1796,3.089947,48.1796",
     "geom:latitude":48.1796,
     "geom:longitude":3.089947,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763277,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404368115,
+        85633147,
+        1108826395,
+        101763277,
+        136253037,
         102066377
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7c05jnRhZ8tBSBCikYzkxc_48.179600_3.089947@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d39f283d0cc9e634a9744c54a1e68686",
+    "wof:geomhash":"648b8d20e40db9497fb904a54fb26beb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066377,
+            "empire_id":136253037,
+            "localadmin_id":404368115,
             "locality_id":101763277,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152676939
         }
     ],
     "wof:id":152676939,
-    "wof:lastmodified":1473798519,
+    "wof:lastmodified":1496794844,
     "wof:name":"Ponserval",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

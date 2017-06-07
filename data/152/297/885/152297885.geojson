@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.876942,43.605961,3.876942,43.605961",
     "geom:latitude":43.605961,
     "geom:longitude":3.876942,
@@ -22,9 +23,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_09ozKfT8hJ9sI1Nxq2lOnE_43.605961_3.876942@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d1878df856f026fac7746c9e3302a9bb",
+    "wof:geomhash":"7624a8951cf1db70c924f02a5f3a5503",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152297885
         }
     ],
     "wof:id":152297885,
-    "wof:lastmodified":1473798360,
+    "wof:lastmodified":1496799442,
     "wof:name":"Banque Sanpaolo S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

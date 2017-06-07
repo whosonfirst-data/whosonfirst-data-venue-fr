@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.535199,44.035145,2.535199,44.035145",
     "geom:latitude":44.035145,
     "geom:longitude":2.535199,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772939,
-        85633147,
         85683301,
+        102191581,
+        404227821,
+        404351727,
+        85633147,
+        1108826387,
+        101772939,
+        136253037,
         102068949
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0T8ZZLbeWxLsX6XIHeqZpX_44.035145_2.535199@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb950e80f053e8b0ddeb4a02038c53fa",
+    "wof:geomhash":"5c99b5b0581092ee0471872b128d5ad8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068949,
+            "empire_id":136253037,
+            "localadmin_id":404351727,
             "locality_id":101772939,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152069579
         }
     ],
     "wof:id":152069579,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496803811,
     "wof:name":"Sa Des Caves Et Des Producteurs Reunis De Roquefortsociete Des Caves Etsrequista",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

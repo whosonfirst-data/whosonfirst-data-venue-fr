@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.03683,47.26685,6.03683,47.26685",
     "geom:latitude":47.26685,
     "geom:longitude":6.03683,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_58h2MYU3qYs0LzgxZFEgTU_47.266850_6.036830@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"150cab40b02f2de146618be1ecf22592",
+    "wof:geomhash":"246b6926689e7047bfbcacca83db670c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152115883
         }
     ],
     "wof:id":152115883,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496804472,
     "wof:name":"Ier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

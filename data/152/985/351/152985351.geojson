@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.212379,48.642071,-0.212379,48.642071",
     "geom:latitude":48.642071,
     "geom:longitude":-0.212379,
@@ -29,9 +30,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879709,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404358585,
+        85633147,
+        1108826393,
+        101879709,
+        136253037,
         102066321
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_63tYaKIG8q3QKL9dxKypMc_48.642071_-0.212379@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bb88dd6895c61f9f8d8e404224d2fe1e",
+    "wof:geomhash":"57d15131cf667a253f1ac8652190a5fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066321,
+            "empire_id":136253037,
+            "localadmin_id":404358585,
             "locality_id":101879709,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152985351
         }
     ],
     "wof:id":152985351,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496787212,
     "wof:name":"Societe D'application De Caoutchouc De Normandie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

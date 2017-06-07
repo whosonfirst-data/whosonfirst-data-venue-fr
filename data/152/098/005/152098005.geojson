@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.356242,43.312359,-0.356242,43.312359",
     "geom:latitude":43.312359,
     "geom:longitude":-0.356242,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1xlAXDnUL8putCD6thVnvD_43.312359_-0.356242@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3ac9bcba9c3e3fe7dd88b52cd0a7ea6d",
+    "wof:geomhash":"4cb286da488124d73a01ec000fa25d49",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152098005
         }
     ],
     "wof:id":152098005,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496775577,
     "wof:name":"Giraud Et Hallot Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

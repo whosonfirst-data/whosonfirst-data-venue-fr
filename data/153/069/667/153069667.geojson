@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.68462,48.587963,7.68462,48.587963",
     "geom:latitude":48.587963,
     "geom:longitude":7.68462,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gNOzdzzc2CaZATeCeGwFY_48.587963_7.684620@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"24c464bf39780374ce4a029336d2bcc6",
+    "wof:geomhash":"cafac08a62714cbed15b4cec93355d24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":153069667
         }
     ],
     "wof:id":153069667,
-    "wof:lastmodified":1473797980,
+    "wof:lastmodified":1496784744,
     "wof:name":"Alusor S.a.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

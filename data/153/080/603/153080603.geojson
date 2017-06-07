@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.808136,49.401493,2.808136,49.401493",
     "geom:latitude":49.401493,
     "geom:longitude":2.808136,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842419,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842419,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_79rtOG7N02oZdx7XSGOd2Y_49.401493_2.808136@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f6920f6790212a6487d0ca37e3ab43e",
+    "wof:geomhash":"e76510b0af2944582edb7120133f588b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842419,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153080603
         }
     ],
     "wof:id":153080603,
-    "wof:lastmodified":1473797988,
+    "wof:lastmodified":1496792606,
     "wof:name":"Ateliers Du Royal Lieu S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

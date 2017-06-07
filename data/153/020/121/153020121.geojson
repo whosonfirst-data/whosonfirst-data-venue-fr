@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.026443,45.766449,5.026443,45.766449",
     "geom:latitude":45.766449,
     "geom:longitude":5.026443,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749435,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404424719,
+        85633147,
+        1108826389,
+        101749435,
+        136253037,
         102070729
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7QtGRZw2s2x9eWOoXdeove_45.766449_5.026443@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05bd7af4806b5479807e6d784e455ac3",
+    "wof:geomhash":"9e60f244842066db3154b77c706b9841",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070729,
+            "empire_id":136253037,
+            "localadmin_id":404424719,
             "locality_id":101749435,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153020121
         }
     ],
     "wof:id":153020121,
-    "wof:lastmodified":1473797870,
+    "wof:lastmodified":1496781260,
     "wof:name":"Cera Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

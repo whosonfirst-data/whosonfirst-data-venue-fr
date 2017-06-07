@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.860061,46.046185,5.860061,46.046185",
     "geom:latitude":46.046185,
     "geom:longitude":5.860061,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893805,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404403211,
+        85633147,
+        1108826389,
+        101893805,
+        136253037,
         102068839
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3uN6zPb1zOzHvG5wR3MYEG_46.046185_5.860061@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"035e56471fa0d104fc8c286de59db166",
+    "wof:geomhash":"71c522d7679c79978ba84cdc4542a87c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068839,
+            "empire_id":136253037,
+            "localadmin_id":404403211,
             "locality_id":101893805,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152695455
         }
     ],
     "wof:id":152695455,
-    "wof:lastmodified":1473798518,
+    "wof:lastmodified":1496780016,
     "wof:name":"Rannard Fr\u00e8res S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

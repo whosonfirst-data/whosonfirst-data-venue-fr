@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.644521,48.931374,7.644521,48.931374",
     "geom:latitude":48.931374,
     "geom:longitude":7.644521,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827847,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404348331,
+        85633147,
+        1108826391,
+        101827847,
+        136253037,
         102067073
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_07O8Q8hunEDsv3C9Hpp7Ag_48.931374_7.644521@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2ff090e069157dfe707ea2439d0f0d5c",
+    "wof:geomhash":"10ef5ab2206733207606936f08ae60a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067073,
+            "empire_id":136253037,
+            "localadmin_id":404348331,
             "locality_id":101827847,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152178213
         }
     ],
     "wof:id":152178213,
-    "wof:lastmodified":1473798313,
+    "wof:lastmodified":1496784567,
     "wof:name":"Ernst Decoupage Emboutissage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.472821,44.529465,3.472821,44.529465",
     "geom:latitude":44.529465,
     "geom:longitude":3.472821,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771537,
-        85633147,
         85683453,
+        102191581,
+        404227903,
+        404359403,
+        85633147,
+        1108826387,
+        101771537,
+        136253037,
         102072467
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2rQBhllnaX3ZmXhPXFXQQW_44.529465_3.472821@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b656ffdd34f94c828c338fe5de25ddec",
+    "wof:geomhash":"25f0c8a2b6312fee506eea868febd2e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072467,
+            "empire_id":136253037,
+            "localadmin_id":404359403,
             "locality_id":101771537,
+            "macrocounty_id":404227903,
+            "macroregion_id":1108826387,
             "region_id":85683453,
             "venue_id":152075643
         }
     ],
     "wof:id":152075643,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496778142,
     "wof:name":"Comptoir Electrique Du Midi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.368373,43.397064,3.368373,43.397064",
     "geom:latitude":43.397064,
     "geom:longitude":3.368373,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773721,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404398511,
+        85633147,
+        1108826387,
+        101773721,
+        136253037,
         102070505
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6SlM8oARKEcaxAPm8uvGWZ_43.397064_3.368373@1306269754"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee020b15f697fe956728877591bf255a",
+    "wof:geomhash":"1a5aabb80ec723b31b2d3aa6d1c8c330",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070505,
+            "empire_id":136253037,
+            "localadmin_id":404398511,
             "locality_id":101773721,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152799643
         }
     ],
     "wof:id":152799643,
-    "wof:lastmodified":1473798530,
+    "wof:lastmodified":1496799483,
     "wof:name":"St\u00e9ga Conseil S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

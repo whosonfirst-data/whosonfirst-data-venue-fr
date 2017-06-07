@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.164958,50.713886,3.164958,50.713886",
     "geom:latitude":50.713886,
     "geom:longitude":3.164958,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0Htk4gkF6TfBNM1fAwFFAe_50.713886_3.164958@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5cb22a2740806388dfae558accc2b436",
+    "wof:geomhash":"a263b686a85009992ec3969127833381",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152070073
         }
     ],
     "wof:id":152070073,
-    "wof:lastmodified":1473798053,
+    "wof:lastmodified":1496791047,
     "wof:name":"Bisman Direct Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

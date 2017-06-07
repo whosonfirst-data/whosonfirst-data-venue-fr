@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.531874,50.103031,1.531874,50.103031",
     "geom:latitude":50.103031,
     "geom:longitude":1.531874,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898145,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404425891,
+        85633147,
+        1108826399,
+        101898145,
+        136253037,
         102071397
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3ijPSKovU487HfANs8lYcg_50.103031_1.531874@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0469748f759fba09910b003f30a6f66d",
+    "wof:geomhash":"256c2aeafda5d71db9484abdec7374b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071397,
+            "empire_id":136253037,
+            "localadmin_id":404425891,
             "locality_id":101898145,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152165479
         }
     ],
     "wof:id":152165479,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1496795409,
     "wof:name":"Fonderie Duret Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

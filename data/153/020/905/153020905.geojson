@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.567905,50.492165,2.567905,50.492165",
     "geom:latitude":50.492165,
     "geom:longitude":2.567905,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839587,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404378155,
+        85633147,
+        1108826399,
+        101839587,
+        136253037,
         102071805
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0OjSNFZNagCSHt8cDvl5Zi_50.492165_2.567905@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"872fa4f9c2cf165e02f61ebbfa5b0d05",
+    "wof:geomhash":"d51606ca663f21999949214c44e66b4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071805,
+            "empire_id":136253037,
+            "localadmin_id":404378155,
             "locality_id":101839587,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":153020905
         }
     ],
     "wof:id":153020905,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496796855,
     "wof:name":"Base De Labuissere Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

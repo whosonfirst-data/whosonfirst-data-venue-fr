@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.166016,49.259056,2.166016,49.259056",
     "geom:latitude":49.259056,
     "geom:longitude":2.166016,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760303,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404361647,
+        85633147,
+        1108826399,
+        101760303,
+        136253037,
         102068549
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0aI8s6delX3WrSxSkoAznB_49.259056_2.166016@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d0c1b3a1c2e78b8e66a3c6424542269",
+    "wof:geomhash":"919c57f6e8b57a616a0c4331dedcfd62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068549,
+            "empire_id":136253037,
+            "localadmin_id":404361647,
             "locality_id":101760303,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136309983
         }
     ],
     "wof:id":136309983,
-    "wof:lastmodified":1473798036,
+    "wof:lastmodified":1496795337,
     "wof:name":"Briand S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

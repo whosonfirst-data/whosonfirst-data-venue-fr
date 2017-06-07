@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.49233,50.357761,2.49233,50.357761",
     "geom:latitude":50.357761,
     "geom:longitude":2.49233,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898401,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404403547,
+        85633147,
+        1108826399,
+        101898401,
+        136253037,
         102065053
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_2yWPI61AO0SOGvg5jEg65E_50.357761_2.492330@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc81e1a5a88a076f69887669f4cd31a4",
+    "wof:geomhash":"2f7dd1fb4c382a7a80b0444ea074d0fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065053,
+            "empire_id":136253037,
+            "localadmin_id":404403547,
             "locality_id":101898401,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136283429
         }
     ],
     "wof:id":136283429,
-    "wof:lastmodified":1473797919,
+    "wof:lastmodified":1496792627,
     "wof:name":"Roussel Distribution Service Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

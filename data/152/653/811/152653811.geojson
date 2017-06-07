@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.568254,44.759846,-0.568254,44.759846",
     "geom:latitude":44.759846,
     "geom:longitude":-0.568254,
@@ -24,28 +25,40 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GbRoU1RVxwoUf4FmrvE65_44.759846_-0.568254@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14e7c33a9783af75b01580069176d6c4",
+    "wof:geomhash":"d26bbe3eaa7e4cb339963d9340f42f41",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":152653811
         }
     ],
     "wof:id":152653811,
-    "wof:lastmodified":1473798492,
+    "wof:lastmodified":1496776094,
     "wof:name":"Orefi Aquitaine Outillage",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

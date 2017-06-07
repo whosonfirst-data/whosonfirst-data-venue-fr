@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.531415,43.534351,1.531415,43.534351",
     "geom:latitude":43.534351,
     "geom:longitude":1.531415,
@@ -34,16 +35,39 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        404396295,
+        85633147,
+        1108826387,
+        101749245,
+        136253037,
+        102066151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BHyySmIpSjWVqwurTEqFT_43.534351_1.531415@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a026ed16a8ea05e463a36ccd86e44c43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3002b576fbec492589760bf9ba98971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066151,
+            "empire_id":136253037,
+            "localadmin_id":404396295,
+            "locality_id":101749245,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397,
+            "venue_id":152115909
+        }
+    ],
     "wof:id":152115909,
-    "wof:lastmodified":1473798277,
+    "wof:lastmodified":1496778162,
     "wof:name":"Lexmark International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

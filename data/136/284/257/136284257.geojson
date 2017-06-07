@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.184355,48.618279,6.184355,48.618279",
     "geom:latitude":48.618279,
     "geom:longitude":6.184355,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750117,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101750117,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5T6BOfUim00kSiOehzfHZp_48.618279_6.184355@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf020bd4ed53cf4c65ca3bf2c3f9d77d",
+    "wof:geomhash":"708e76ca9dca2daf34271965d852057b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101750117,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136284257
         }
     ],
     "wof:id":136284257,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496784882,
     "wof:name":"Noremat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

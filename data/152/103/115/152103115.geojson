@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.302461,49.893009,2.302461,49.893009",
     "geom:latitude":49.893009,
     "geom:longitude":2.302461,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0uAYF8IMUkdU5FlrD0995h_49.893009_2.302461@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d5e547a7808354b90a5c5bd4849cee4",
+    "wof:geomhash":"0bfc8227821771ee16778059e3b71ffc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152103115
         }
     ],
     "wof:id":152103115,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496790476,
     "wof:name":"Vitraux D'art Atelier Claude Barre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

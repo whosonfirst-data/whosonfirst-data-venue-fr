@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.409001,45.262486,1.409001,45.262486",
     "geom:latitude":45.262486,
     "geom:longitude":1.409001,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769287,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404356307,
+        85633147,
+        1108826385,
+        101769287,
+        136253037,
         102064451
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ag7d4u7Cp7TwkPbvxmatN_45.262486_1.409001@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"29a6f7814b7a40c13cc14e39e3983027",
+    "wof:geomhash":"3dac4770e7f937990bc6807975f2be73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064451,
+            "empire_id":136253037,
+            "localadmin_id":404356307,
             "locality_id":101769287,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":153090255
         }
     ],
     "wof:id":153090255,
-    "wof:lastmodified":1473797986,
+    "wof:lastmodified":1496777353,
     "wof:name":"B.p.c. - Banque Populaire Du Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

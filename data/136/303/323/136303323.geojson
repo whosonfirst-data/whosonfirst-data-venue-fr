@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.447104,44.994236,-0.447104,44.994236",
     "geom:latitude":44.994236,
     "geom:longitude":-0.447104,
@@ -27,9 +28,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769429,
-        85633147,
         85683243,
+        102191581,
+        404227657,
+        404363157,
+        85633147,
+        1108826385,
+        101769429,
+        136253037,
         102070929
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_3FxUAfoDpdKz1snP7ZidxT_44.994236_-0.447104@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2877dad24b5125ca7f220a6967a33c2",
+    "wof:geomhash":"a27a99d9574c71d5f78122dc5aecd3f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070929,
+            "empire_id":136253037,
+            "localadmin_id":404363157,
             "locality_id":101769429,
+            "macrocounty_id":404227657,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136303323
         }
     ],
     "wof:id":136303323,
-    "wof:lastmodified":1473798000,
+    "wof:lastmodified":1496775945,
     "wof:name":"Cr\u00e9dit Commercial Du Sud-ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

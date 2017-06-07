@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.546706,44.886398,-0.546706,44.886398",
     "geom:latitude":44.886398,
     "geom:longitude":-0.546706,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PMu7nXUq3NGV7WrZ8C9wG_44.886398_-0.546706@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07f724705113e9753d706ca31432b099",
+    "wof:geomhash":"cec5e068fe88b6af2532313224d09e27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169245151
         }
     ],
     "wof:id":169245151,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496775492,
     "wof:name":"Ste Multiser Sa",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

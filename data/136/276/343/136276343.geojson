@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.325291,47.748787,7.325291,47.748787",
     "geom:latitude":47.748787,
     "geom:longitude":7.325291,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749573,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404228255,
+        1108826391,
+        101749573,
+        136253037,
         102072565
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4A1YITW6EWuQCfkcVGEhHX_47.748787_7.325291@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fdb6e4ad1edde23ee57af99766253f43",
+    "wof:geomhash":"022323cee2b7505fec4dd63ad711de9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072565,
+            "empire_id":136253037,
             "locality_id":101749573,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136276343
         }
     ],
     "wof:id":136276343,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496785406,
     "wof:name":"Cetelem",
-    "wof:parent_id":101749573,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

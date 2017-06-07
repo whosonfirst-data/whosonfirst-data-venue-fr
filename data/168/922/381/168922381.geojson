@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.665269,44.858124,-0.665269,44.858124",
     "geom:latitude":44.858124,
     "geom:longitude":-0.665269,
@@ -24,30 +25,41 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749349,
-        85633147,
+        102544671,
         85683243,
-        102065291
+        102191581,
+        404227869,
+        85633147,
+        1108826385,
+        101749363,
+        136253037,
+        102072291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eXq4q4kbS9TVAKtdox6Fy_44.858124_-0.665269@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6223048eee11ba8bf0cc1d5133b339e8",
+    "wof:geomhash":"3f4636ed5e6911857e0ce224fb049804",
     "wof:hierarchy":[
         {
+            "campus_id":102544671,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065291,
-            "locality_id":101749349,
+            "county_id":102072291,
+            "empire_id":136253037,
+            "locality_id":101749363,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
             "region_id":85683243,
             "venue_id":168922381
         }
     ],
     "wof:id":168922381,
-    "wof:lastmodified":1473798082,
+    "wof:lastmodified":1496776097,
     "wof:name":"Elkron France",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.493967,48.616875,7.493967,48.616875",
     "geom:latitude":48.616875,
     "geom:longitude":7.493967,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762277,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404364207,
+        85633147,
+        1108826391,
+        101762277,
+        136253037,
         102070327
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6gT14cX3H7A46KLGFZbNa7_48.616875_7.493967@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d547a55a63a18f29efb2d03d41000bec",
+    "wof:geomhash":"1ca0ac040c5f0fca1211037407340a92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070327,
+            "empire_id":136253037,
+            "localadmin_id":404364207,
             "locality_id":101762277,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152517937
         }
     ],
     "wof:id":152517937,
-    "wof:lastmodified":1473798441,
+    "wof:lastmodified":1496793403,
     "wof:name":"Halbwachs Levage S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.872004,48.070633,6.872004,48.070633",
     "geom:latitude":48.070633,
     "geom:longitude":6.872004,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829657,
-        85633147,
         85683223,
+        102191581,
+        404228179,
+        404427711,
+        85633147,
+        1108826391,
+        101829657,
+        136253037,
         102066953
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2LgGu5AwnqaWm79IHr0MTc_48.070633_6.872004@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"50e4dbbcf15d6e0b24bb0900e0ee4854",
+    "wof:geomhash":"02dbf57e92f83927600039ec7b0223c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066953,
+            "empire_id":136253037,
+            "localadmin_id":404427711,
             "locality_id":101829657,
+            "macrocounty_id":404228179,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136275815
         }
     ],
     "wof:id":136275815,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496786681,
     "wof:name":"Caisse Primaire Assurance Maladie Vosges",
-    "wof:parent_id":101829657,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

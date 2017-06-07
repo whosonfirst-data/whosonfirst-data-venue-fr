@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.719881,48.815479,7.719881,48.815479",
     "geom:latitude":48.815479,
     "geom:longitude":7.719881,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762291,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404400273,
+        85633147,
+        1108826391,
+        101762291,
+        136253037,
         102065935
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5AAyah9uFitrmAz5RP8cO9_48.815479_7.719881@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f197b424b2ab5ec6a4942feaebc7c128",
+    "wof:geomhash":"aa0a340c4eb5de1b14288ed1c1fe789e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065935,
+            "empire_id":136253037,
+            "localadmin_id":404400273,
             "locality_id":101762291,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152165405
         }
     ],
     "wof:id":152165405,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496793318,
     "wof:name":"Fimotec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

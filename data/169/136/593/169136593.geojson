@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.08765,49.419617,1.08765,49.419617",
     "geom:latitude":49.419617,
     "geom:longitude":1.08765,
@@ -22,9 +23,13 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751465,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751465,
+        136253037,
         102071947
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_4w86qvmhHtsuN0jayac79O_49.419617_1.087650@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bfdebbf5e757640254bec8ac9c4301e5",
+    "wof:geomhash":"198fb3a06b6f8b6a09f049df1264bfbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071947,
+            "empire_id":136253037,
             "locality_id":101751465,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":169136593
         }
     ],
     "wof:id":169136593,
-    "wof:lastmodified":1473798148,
+    "wof:lastmodified":1496804716,
     "wof:name":"S.n.a.t. S.a. - Soci\u00e9t\u00e9 Normande D'assistance Temporaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

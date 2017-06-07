@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.265308,45.875931,1.265308,45.875931",
     "geom:latitude":45.875931,
     "geom:longitude":1.265308,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_6cBIEq6RjTag30xj8c7csw_45.875931_1.265308@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81700ba4b370077bfebb250563026943",
+    "wof:geomhash":"97228e00bab553f2b5b900950952da70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152928573
         }
     ],
     "wof:id":152928573,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496775576,
     "wof:name":"La Reliure D'art Du Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

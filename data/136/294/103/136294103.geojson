@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.347462,45.889782,5.347462,45.889782",
     "geom:latitude":45.889782,
     "geom:longitude":5.347462,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768183,
-        85633147,
         85683153,
+        102191581,
+        404227585,
+        404355827,
+        85633147,
+        1108826389,
+        101768183,
+        136253037,
         102067365
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0DdUNZ5TABx9abNLlPxuaL_45.889782_5.347462@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15e568b60bb39f6c688dc65d2f850966",
+    "wof:geomhash":"570a5169f0ea3905ad07714011d1d14d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067365,
+            "empire_id":136253037,
+            "localadmin_id":404355827,
             "locality_id":101768183,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136294103
         }
     ],
     "wof:id":136294103,
-    "wof:lastmodified":1473797890,
+    "wof:lastmodified":1496780134,
     "wof:name":"Credit Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

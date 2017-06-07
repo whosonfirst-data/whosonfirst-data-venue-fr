@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.736681,49.346867,2.736681,49.346867",
     "geom:latitude":49.346867,
     "geom:longitude":2.736681,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101878007,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404388263,
+        85633147,
+        1108826399,
+        101878007,
+        136253037,
         102066943
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7aBxvD2KfSkg5ukrKIxw6p_49.346867_2.736681@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"739e25f9a353df84d3f0b6e888e290ef",
+    "wof:geomhash":"d71b927c8df81d2377188edcaea91ea0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066943,
+            "empire_id":136253037,
+            "localadmin_id":404388263,
             "locality_id":101878007,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152470127
         }
     ],
     "wof:id":152470127,
-    "wof:lastmodified":1473798422,
+    "wof:lastmodified":1496795712,
     "wof:name":"F.m. Logistic S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

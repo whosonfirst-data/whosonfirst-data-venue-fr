@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.303078,49.162838,6.303078,49.162838",
     "geom:latitude":49.162838,
     "geom:longitude":6.303078,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880039,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404373119,
+        85633147,
+        1108826391,
+        101880039,
+        136253037,
         102070603
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1z68w9Qunavs3LJ248kkaY_49.162838_6.303078@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9b07ad0cfeafb46c0452daa7fe5b0b2c",
+    "wof:geomhash":"44997c932dd7c1ae4e419a85afe3bdca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070603,
+            "empire_id":136253037,
+            "localadmin_id":404373119,
             "locality_id":101880039,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":169023189
         }
     ],
     "wof:id":169023189,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496784831,
     "wof:name":"Laboratoires Lehning S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

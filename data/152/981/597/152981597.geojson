@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.345474,48.97657,4.345474,48.97657",
     "geom:latitude":48.97657,
     "geom:longitude":4.345474,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7HFH3CRdrnmiMyxV5a0B7e_48.976570_4.345474@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1b7c21af4bc58ef97761a363bf5d706a",
+    "wof:geomhash":"3dfed6a87b29ca18be0903f31df18397",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152981597
         }
     ],
     "wof:id":152981597,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496805457,
     "wof:name":"Poreaux Et Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

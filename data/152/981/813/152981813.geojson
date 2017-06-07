@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.610318,47.062698,6.610318,47.062698",
     "geom:latitude":47.062698,
     "geom:longitude":6.610318,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766899,
-        85633147,
         85683239,
+        102191581,
+        404228051,
+        404405833,
+        85633147,
+        1108826395,
+        101766899,
+        136253037,
         102067301
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5uu1DYJp8e6RZZxiibw4Fc_47.062698_6.610318@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb64144833c8bb03d24710e74d0af41e",
+    "wof:geomhash":"4e1362219651c6816f8c3b66bfd29600",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067301,
+            "empire_id":136253037,
+            "localadmin_id":404405833,
             "locality_id":101766899,
+            "macrocounty_id":404228051,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152981813
         }
     ],
     "wof:id":152981813,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496804314,
     "wof:name":"Pagnot Et Cie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

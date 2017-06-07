@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.16118,46.801975,-0.16118,46.801975",
     "geom:latitude":46.801975,
     "geom:longitude":-0.16118,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888609,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404362249,
+        85633147,
+        1108826385,
+        101888609,
+        136253037,
         102068841
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1DlaK6vZqEpE00ZIDVZK8C_46.801975_-0.161180@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a4288b5b059d94877b2937780ea6318",
+    "wof:geomhash":"63598d9a555cfa0a08caf3fdef8e367e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068841,
+            "empire_id":136253037,
+            "localadmin_id":404362249,
             "locality_id":101888609,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152088799
         }
     ],
     "wof:id":152088799,
-    "wof:lastmodified":1473798211,
+    "wof:lastmodified":1496775858,
     "wof:name":"Cmi Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.999835,46.558571,4.999835,46.558571",
     "geom:latitude":46.558571,
     "geom:longitude":4.999835,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766603,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404393531,
+        85633147,
+        1108826395,
+        101766603,
+        136253037,
         102067347
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5ldLxUbC4mreFRl8iHSOnc_46.558571_4.999835@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab549c9a5accfae5685504eaca6f5ff0",
+    "wof:geomhash":"d006b4bfb30b64d0e109b5614a19a58a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067347,
+            "empire_id":136253037,
+            "localadmin_id":404393531,
             "locality_id":101766603,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136291565
         }
     ],
     "wof:id":136291565,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496788501,
     "wof:name":"Girard Et Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

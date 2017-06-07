@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.81387,48.584572,3.81387,48.584572",
     "geom:latitude":48.584572,
     "geom:longitude":3.81387,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101882581,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404391505,
+        85633147,
+        1108826391,
+        101882581,
+        136253037,
         102064349
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6scVvh4LNBnQllmkdrc0i0_48.584572_3.813870@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bcf36c478de43bad19f135da4ab61c01",
+    "wof:geomhash":"93f4ffccb363d2b690b566b2cd0968be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064349,
+            "empire_id":136253037,
+            "localadmin_id":404391505,
             "locality_id":101882581,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152200259
         }
     ],
     "wof:id":152200259,
-    "wof:lastmodified":1473798321,
+    "wof:lastmodified":1496805458,
     "wof:name":"Tz Decoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.909808,45.258259,5.909808,45.258259",
     "geom:latitude":45.258259,
     "geom:longitude":5.909808,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753207,
-        85633147,
         85683427,
-        102066033
+        102191581,
+        404227669,
+        404407267,
+        85633147,
+        1108826389,
+        101753207,
+        136253037,
+        102065831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SM4lTf7xwqta2GmlbRyuT_45.258259_5.909808@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ac40fa5de96c137f1aa042a95eb81e04",
+    "wof:geomhash":"af1c69d3b987c95426321c5e612d48f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102066033,
+            "county_id":102065831,
+            "empire_id":136253037,
+            "localadmin_id":404407267,
             "locality_id":101753207,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152064031
         }
     ],
     "wof:id":152064031,
-    "wof:lastmodified":1473798044,
+    "wof:lastmodified":1496781876,
     "wof:name":"Ahlstrom Dexter S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

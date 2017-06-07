@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.400409,45.447189,1.400409,45.447189",
     "geom:latitude":45.447189,
     "geom:longitude":1.400409,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769271,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404405723,
+        85633147,
+        1108826385,
+        101769271,
+        136253037,
         102066983
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1D04hCuLYKG6MkiFWdn0cM_45.447189_1.400409@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88f1488fa94b400a3cf2d25cc5c431c7",
+    "wof:geomhash":"059e3a103b2102b574783e62044c87f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066983,
+            "empire_id":136253037,
+            "localadmin_id":404405723,
             "locality_id":101769271,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152963013
         }
     ],
     "wof:id":152963013,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496775605,
     "wof:name":"Martin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

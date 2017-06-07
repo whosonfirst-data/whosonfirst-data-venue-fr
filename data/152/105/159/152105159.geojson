@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.301465,45.862267,3.301465,45.862267",
     "geom:latitude":45.862267,
     "geom:longitude":3.301465,
@@ -40,9 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893669,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404402273,
+        85633147,
+        1108826389,
+        101893669,
+        136253037,
         102068875
     ],
     "wof:breaches":[],
@@ -50,18 +56,23 @@
         "sg:id":"SG_1890vr8nRsUcmHefdpAOyw_45.862267_3.301465@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d2ba138ba6e9c03d5f92e5832ce7a28",
+    "wof:geomhash":"6ae73d8fe3a3afd1b1dda1c0a1b74232",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068875,
+            "empire_id":136253037,
+            "localadmin_id":404402273,
             "locality_id":101893669,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152105159
         }
     ],
     "wof:id":152105159,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1496806380,
     "wof:name":"Les Emballages D Auvergne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.462905,49.517879,-1.462905,49.517879",
     "geom:latitude":49.517879,
     "geom:longitude":-1.462905,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812433,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404348179,
+        85633147,
+        1108826393,
+        101812433,
+        136253037,
         102071445
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1p0z1rZXnja4swh2cdKts2_49.517879_-1.462905@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de3a96d383a302432ad7d35c0c5634c1",
+    "wof:geomhash":"99ba10902532442479d027e3803d1418",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071445,
+            "empire_id":136253037,
+            "localadmin_id":404348179,
             "locality_id":101812433,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152068931
         }
     ],
     "wof:id":152068931,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1496787463,
     "wof:name":"Cooperative Agricole Laitiere - Les Maitres Laitiers Du Cotentin (mlc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

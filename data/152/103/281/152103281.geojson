@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.718076,45.183521,0.718076,45.183521",
     "geom:latitude":45.183521,
     "geom:longitude":0.718076,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_1jnneaF9YGRpbUJt57IJ4K_45.183521_0.718076@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70e340a6a5467debd4073e2325f0f567",
+    "wof:geomhash":"ede462c3aa468a58e9960217fb4d2dec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152103281
         }
     ],
     "wof:id":152103281,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496776534,
     "wof:name":"Optique Lachal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

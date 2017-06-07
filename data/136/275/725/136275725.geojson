@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.025885,44.726826,5.025885,44.726826",
     "geom:latitude":44.726826,
     "geom:longitude":5.025885,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771767,
-        85633147,
         85683523,
+        102191581,
+        85633147,
+        404227639,
+        1108826389,
+        101771767,
+        136253037,
         102072395
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6PPdOdokw3NqGzGphyu08g_44.726826_5.025885@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62c9f729b103ac6405f8e3fcdd8c55da",
+    "wof:geomhash":"167ee072950023417ec592105a17341f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072395,
+            "empire_id":136253037,
             "locality_id":101771767,
+            "macrocounty_id":404227639,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":136275725
         }
     ],
     "wof:id":136275725,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496800645,
     "wof:name":"Caisse D'epargne Loire Drome Ardeche Banque Cooperative",
-    "wof:parent_id":101771767,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.405181,50.457504,3.405181,50.457504",
     "geom:latitude":50.457504,
     "geom:longitude":3.405181,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840691,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404349341,
+        85633147,
+        1108826399,
+        101840691,
+        136253037,
         102072097
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1TNtE918VrP9d40YFpDgcz_50.457504_3.405181@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62d2c21cce0a62e89f251cdb7bd5013c",
+    "wof:geomhash":"3bff1be1d3965d3c285ee6c6981184f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072097,
+            "empire_id":136253037,
+            "localadmin_id":404349341,
             "locality_id":101840691,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152529095
         }
     ],
     "wof:id":152529095,
-    "wof:lastmodified":1473798445,
+    "wof:lastmodified":1496790675,
     "wof:name":"I.e. Caner S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

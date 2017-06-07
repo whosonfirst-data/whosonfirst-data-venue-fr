@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.070265,47.528839,3.070265,47.528839",
     "geom:latitude":47.528839,
     "geom:longitude":3.070265,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765537,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404348815,
+        85633147,
+        1108826395,
+        101765537,
+        136253037,
         102068129
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2pluREhRXe03syxiZaew2w_47.528839_3.070265@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4dd8473b6b26d5c48815c3c40ab23e9d",
+    "wof:geomhash":"d2b90b00042e5ffc7f35ea4f4792418e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068129,
+            "empire_id":136253037,
+            "localadmin_id":404348815,
             "locality_id":101765537,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152678015
         }
     ],
     "wof:id":152678015,
-    "wof:lastmodified":1473798498,
+    "wof:lastmodified":1496788419,
     "wof:name":"Poterie Michel Mallet S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

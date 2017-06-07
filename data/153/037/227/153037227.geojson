@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.297428,46.952908,4.297428,46.952908",
     "geom:latitude":46.952908,
     "geom:longitude":4.297428,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768403,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227741,
+        1108826395,
+        101768403,
+        136253037,
         102072003
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7Tzr0JN5197tP8nsgFCft9_46.952908_4.297428@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9142ffb12d6d16e11360707f49a9e71a",
+    "wof:geomhash":"927db8514790599ccd8c60c42fa00a46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072003,
+            "empire_id":136253037,
             "locality_id":101768403,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":153037227
         }
     ],
     "wof:id":153037227,
-    "wof:lastmodified":1473797960,
+    "wof:lastmodified":1496794904,
     "wof:name":"Neyrat-autun Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

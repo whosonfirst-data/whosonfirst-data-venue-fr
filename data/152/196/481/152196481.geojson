@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.359065,48.863152,2.359065,48.863152",
     "geom:latitude":48.863152,
     "geom:longitude":2.359065,
@@ -33,12 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873801,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102067411,
-        85873803,
-        85873801
+        102068177,
+        85683497,
+        85873803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +52,32 @@
     "wof:geomhash":"29f9045a05a81575827498e01db39c1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067411,
+            "county_id":102068177,
             "locality_id":101751119,
-            "neighbourhood_id":85873803,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873801,
             "region_id":85683497,
             "venue_id":152196481
         },
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067411,
+            "county_id":102068177,
             "locality_id":101751119,
-            "neighbourhood_id":85873801,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873803,
             "region_id":85683497,
             "venue_id":152196481
         }
     ],
     "wof:id":152196481,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1491922479,
     "wof:name":"Etablissements E Budin Et Ses Fils",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

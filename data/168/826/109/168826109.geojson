@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.649581,50.751965,2.649581,50.751965",
     "geom:latitude":50.751965,
     "geom:longitude":2.649581,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898625,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404416255,
+        85633147,
+        1108826399,
+        101898625,
+        136253037,
         102065393
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4XREeldCJsx2mvQKnYm0fj_50.751965_2.649581@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"45dd8b7a2d143ff1a11627e557219c09",
+    "wof:geomhash":"3b5017984fc51c12d5778f01a81d4c1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065393,
+            "empire_id":136253037,
+            "localadmin_id":404416255,
             "locality_id":101898625,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":168826109
         }
     ],
     "wof:id":168826109,
-    "wof:lastmodified":1473797861,
+    "wof:lastmodified":1496796495,
     "wof:name":"Benault Etablissements S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

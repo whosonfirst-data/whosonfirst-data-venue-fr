@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.385198,47.983383,3.385198,47.983383",
     "geom:latitude":47.983383,
     "geom:longitude":3.385198,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766147,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404349287,
+        85633147,
+        1108826395,
+        101766147,
+        136253037,
         102067783
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0pobnys38MWN42zqB6PdXQ_47.983383_3.385198@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"34d3633815e3af58ca13a273025e9256",
+    "wof:geomhash":"165087519dd190bcf2368c6153d6b471",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067783,
+            "empire_id":136253037,
+            "localadmin_id":404349287,
             "locality_id":101766147,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152049799
         }
     ],
     "wof:id":152049799,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496788445,
     "wof:name":"Sarl A La Cote Saint Jacques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

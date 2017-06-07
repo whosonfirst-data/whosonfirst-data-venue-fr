@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.294106,48.085182,5.294106,48.085182",
     "geom:latitude":48.085182,
     "geom:longitude":5.294106,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766227,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404358497,
+        85633147,
+        1108826391,
+        101766227,
+        136253037,
         102068173
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0ryGXulx1kRBuFmjCh6LNq_48.085182_5.294106@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de9f2a01bdb5cf9e66f0d7bc42a100fe",
+    "wof:geomhash":"b164d823bf0ea0e2722f12120e7a1f43",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068173,
+            "empire_id":136253037,
+            "localadmin_id":404358497,
             "locality_id":101766227,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152860909
         }
     ],
     "wof:id":152860909,
-    "wof:lastmodified":1473798545,
+    "wof:lastmodified":1496805495,
     "wof:name":"Emballage Conditionnement Packaging (ecp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

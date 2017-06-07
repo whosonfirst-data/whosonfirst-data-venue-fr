@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.200667,50.774181,2.200667,50.774181",
     "geom:latitude":50.774181,
     "geom:longitude":2.200667,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898271,
-        85633147,
         85683255,
+        102191581,
+        404228285,
+        404379571,
+        85633147,
+        1108826399,
+        101898271,
+        136253037,
         102071167
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4GQlCEn22f4dgHakLWF7aG_50.774181_2.200667@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9cf44c0ce30b2adaca359df9d8472213",
+    "wof:geomhash":"7440b4637d824338636928619910ee4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071167,
+            "empire_id":136253037,
+            "localadmin_id":404379571,
             "locality_id":101898271,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152056261
         }
     ],
     "wof:id":152056261,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496791344,
     "wof:name":"Les Distributeurs De Combustibles Associes Dca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

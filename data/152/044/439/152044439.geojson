@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.067869,43.236794,0.067869,43.236794",
     "geom:latitude":43.236794,
     "geom:longitude":0.067869,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831671,
-        85633147,
         85683203,
+        102191581,
+        85633147,
+        404228139,
+        1108826387,
+        101831671,
+        136253037,
         102072535
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3Ovj1OtIU59pUMf9lj5gaL_43.236794_0.067869@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d17247541dee2b16a615706482b20994",
+    "wof:geomhash":"5280c621e10daa5df06f7abd9bb3cd51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072535,
+            "empire_id":136253037,
             "locality_id":101831671,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152044439
         }
     ],
     "wof:id":152044439,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496778318,
     "wof:name":"Aep Pradeau La Sede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

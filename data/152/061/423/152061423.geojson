@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.5391,50.716755,2.5391,50.716755",
     "geom:latitude":50.716755,
     "geom:longitude":2.5391,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811331,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101811331,
+        136253037,
         102071935
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1L63dkeiHy010veBrNXkl1_50.716755_2.539100@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1065306112fcae92e8ed94f9d6a25988",
+    "wof:geomhash":"218e8fc52610493b27e6480c279bcd39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071935,
+            "empire_id":136253037,
             "locality_id":101811331,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152061423
         }
     ],
     "wof:id":152061423,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496792341,
     "wof:name":"Lener Cordier Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

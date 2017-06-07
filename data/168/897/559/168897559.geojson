@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.047245,45.091034,5.047245,45.091034",
     "geom:latitude":45.091034,
     "geom:longitude":5.047245,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770381,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404363369,
+        85633147,
+        1108826389,
+        101770381,
+        136253037,
         102068265
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3jBM9m6Bi0sXB2PfnVOVcI_45.091034_5.047245@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d491cb0cd4209517783d333b9bc06d9",
+    "wof:geomhash":"5f54e2f99608f7ba7f3891988c3b3d77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068265,
+            "empire_id":136253037,
+            "localadmin_id":404363369,
             "locality_id":101770381,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":168897559
         }
     ],
     "wof:id":168897559,
-    "wof:lastmodified":1473798071,
+    "wof:lastmodified":1496779938,
     "wof:name":"De Bionne S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

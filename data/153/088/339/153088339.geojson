@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.15133,49.259434,6.15133,49.259434",
     "geom:latitude":49.259434,
     "geom:longitude":6.15133,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753515,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404409867,
+        85633147,
+        1108826391,
+        101753515,
+        136253037,
         102071221
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0RAtmKezHYjmqogCSniyGw_49.259434_6.151330@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"77a29324924496f545f86c1a5c82364e",
+    "wof:geomhash":"bb33b8dd687346a7883d1716f75c3772",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071221,
+            "empire_id":136253037,
+            "localadmin_id":404409867,
             "locality_id":101753515,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":153088339
         }
     ],
     "wof:id":153088339,
-    "wof:lastmodified":1473797981,
+    "wof:lastmodified":1496794103,
     "wof:name":"B.e.t.c. S.a.r.l. - Bureau D'etude Technique Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

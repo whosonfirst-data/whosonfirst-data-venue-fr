@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.74872,46.106319,4.74872,46.106319",
     "geom:latitude":46.106319,
     "geom:longitude":4.74872,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828929,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404394643,
+        85633147,
+        1108826389,
+        101828929,
+        136253037,
         102065119
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2XEOAUpyxnyLb2PaZhH1hi_46.106319_4.748720@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec4505d7483e79497c23ca18db32db5b",
+    "wof:geomhash":"021725b20e2840c39e3db5aa37e8b2bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065119,
+            "empire_id":136253037,
+            "localadmin_id":404394643,
             "locality_id":101828929,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136311103
         }
     ],
     "wof:id":136311103,
-    "wof:lastmodified":1473797986,
+    "wof:lastmodified":1496800120,
     "wof:name":"Imprimerie Clos Du Moulin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

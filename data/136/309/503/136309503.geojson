@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.388236,50.283459,3.388236,50.283459",
     "geom:latitude":50.283459,
     "geom:longitude":3.388236,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899777,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404371345,
+        85633147,
+        1108826399,
+        101899777,
+        136253037,
         102066395
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6yl5PtBrBqN2ETIwVc589D_50.283459_3.388236@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd0fba50b9a0e882b20ccac635532fcf",
+    "wof:geomhash":"e6ed8292afb7d42c7043594e3cbe188c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066395,
+            "empire_id":136253037,
+            "localadmin_id":404371345,
             "locality_id":101899777,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136309503
         }
     ],
     "wof:id":136309503,
-    "wof:lastmodified":1473798009,
+    "wof:lastmodified":1496791542,
     "wof:name":"Etablissement Bera Decants Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

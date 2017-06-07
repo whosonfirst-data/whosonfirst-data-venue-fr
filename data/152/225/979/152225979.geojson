@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.227721,48.770966,7.227721,48.770966",
     "geom:latitude":48.770966,
     "geom:longitude":7.227721,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762697,
-        85633147,
         85683271,
+        102191581,
+        404228281,
+        404390145,
+        85633147,
+        1108826391,
+        101762697,
+        136253037,
         102068873
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6ogiiTSLfbSdHfGrv1aANl_48.770966_7.227721@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d22c81857b86e8e4366421db9af7750",
+    "wof:geomhash":"59b47ca4e3e66a7eb2dcc9ad5ca00c29",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068873,
+            "empire_id":136253037,
+            "localadmin_id":404390145,
             "locality_id":101762697,
+            "macrocounty_id":404228281,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152225979
         }
     ],
     "wof:id":152225979,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496785086,
     "wof:name":"Societe D'exploitation De La Carrosserie Andre Freismuth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.103985,47.62056,7.103985,47.62056",
     "geom:latitude":47.62056,
     "geom:longitude":7.103985,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889601,
-        85633147,
         85683381,
+        102191581,
+        404227733,
+        404393579,
+        85633147,
+        1108826391,
+        101889601,
+        136253037,
         102065055
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0SoE8kkPiUBxxozXiNMFHm_47.620560_7.103985@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c151cfb34cff122d772f3b2bed3d416a",
+    "wof:geomhash":"74c70b7d1ca9eba3df2109f7307c42f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065055,
+            "empire_id":136253037,
+            "localadmin_id":404393579,
             "locality_id":101889601,
+            "macrocounty_id":404227733,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136313411
         }
     ],
     "wof:id":136313411,
-    "wof:lastmodified":1473797996,
+    "wof:lastmodified":1496785024,
     "wof:name":"Ste Comm Betail Elevage Viande En Alsace Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

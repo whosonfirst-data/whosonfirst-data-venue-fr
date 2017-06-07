@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930691,45.778557,4.930691,45.778557",
     "geom:latitude":45.778557,
     "geom:longitude":4.930691,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0zTmnxrzgxB7BywxjaqO61_45.778557_4.930691@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7e7401e8e9fe34091695a84c83360224",
+    "wof:geomhash":"d89b237196bd309986d030fe6355e919",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152877409
         }
     ],
     "wof:id":152877409,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496799839,
     "wof:name":"Randomized Clinical Trials S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

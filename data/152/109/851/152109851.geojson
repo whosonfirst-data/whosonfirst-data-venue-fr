@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.125345,48.319611,3.125345,48.319611",
     "geom:latitude":48.319611,
     "geom:longitude":3.125345,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763281,
-        85633147,
         85683503,
+        102191581,
+        404228181,
+        404378085,
+        85633147,
+        1108826395,
+        101763281,
+        136253037,
         102068483
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_57CEzA3a55juJgfnY1PQgL_48.319611_3.125345@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3eac3280069ad92a944f728258f93047",
+    "wof:geomhash":"8438d4f3a7cd4c632714836d84cc68df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068483,
+            "empire_id":136253037,
+            "localadmin_id":404378085,
             "locality_id":101763281,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152109851
         }
     ],
     "wof:id":152109851,
-    "wof:lastmodified":1473798271,
+    "wof:lastmodified":1496794778,
     "wof:name":"Atelier Dufreny",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

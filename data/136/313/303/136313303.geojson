@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.351116,46.574207,3.351116,46.574207",
     "geom:latitude":46.574207,
     "geom:longitude":3.351116,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829189,
-        85633147,
         85683293,
+        102191581,
+        404227801,
+        404348903,
+        85633147,
+        1108826389,
+        101829189,
+        136253037,
         102070259
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_120jrVbxXxZcFKRdNq9o5C_46.574207_3.351116@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"66d1434cdff09dd0723befbc1d4f663e",
+    "wof:geomhash":"ccc01ce3e7cdac1975c6e5f804338348",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070259,
+            "empire_id":136253037,
+            "localadmin_id":404348903,
             "locality_id":101829189,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":136313303
         }
     ],
     "wof:id":136313303,
-    "wof:lastmodified":1473797995,
+    "wof:lastmodified":1496781776,
     "wof:name":"Cba Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

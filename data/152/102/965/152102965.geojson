@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.717985,49.891594,1.717985,49.891594",
     "geom:latitude":49.891594,
     "geom:longitude":1.717985,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900531,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404372501,
+        85633147,
+        1108826399,
+        101900531,
+        136253037,
         102070113
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_74u61Imw3NFkWQLlNjrlNt_49.891594_1.717985@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"faf9d3b1261e44e86aca9ed88ec89069",
+    "wof:geomhash":"7b6c0e6f29c1948f0bee971dd5a95e74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070113,
+            "empire_id":136253037,
+            "localadmin_id":404372501,
             "locality_id":101900531,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152102965
         }
     ],
     "wof:id":152102965,
-    "wof:lastmodified":1473798257,
+    "wof:lastmodified":1496795688,
     "wof:name":"Societe De Faconnage Et Decors (sofadec)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

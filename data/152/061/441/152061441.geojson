@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.051606,46.049618,4.051606,46.049618",
     "geom:latitude":46.049618,
     "geom:longitude":4.051606,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829677,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404392917,
+        85633147,
+        1108826389,
+        101829677,
+        136253037,
         102070407
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4N01nsfrMyGjLnrNgTRPZV_46.049618_4.051606@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39c2f1b2c4ad6b55a260be851bc681fb",
+    "wof:geomhash":"6682bf0be5e8a49f59df47f391723970",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070407,
+            "empire_id":136253037,
+            "localadmin_id":404392917,
             "locality_id":101829677,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152061441
         }
     ],
     "wof:id":152061441,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496802035,
     "wof:name":"Les Ateliers Tyral Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

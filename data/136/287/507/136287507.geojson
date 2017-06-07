@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.091876,48.487972,6.091876,48.487972",
     "geom:latitude":48.487972,
     "geom:longitude":6.091876,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765085,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404410963,
+        85633147,
+        1108826391,
+        101765085,
+        136253037,
         102069717
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_601ilKg084N8t46PV4WQYe_48.487972_6.091876@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9622713a7429534695b98d8ff16f5761",
+    "wof:geomhash":"642660b31026bb881ecaa5e5fcc88017",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069717,
+            "empire_id":136253037,
+            "localadmin_id":404410963,
             "locality_id":101765085,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136287507
         }
     ],
     "wof:id":136287507,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496784515,
     "wof:name":"Lacal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

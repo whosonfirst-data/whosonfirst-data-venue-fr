@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.1345,50.513699,2.1345,50.513699",
     "geom:latitude":50.513699,
     "geom:longitude":2.1345,
@@ -28,9 +29,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812559,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404405511,
+        85633147,
+        1108826399,
+        101812559,
+        136253037,
         102068861
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_56OL12xqsIxAViZPW0t08O_50.513699_2.134500@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2e37fdbaac45aba876eacdb3ac66c517",
+    "wof:geomhash":"ea6fee123c0cb20f16955216ab04b9b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068861,
+            "empire_id":136253037,
+            "localadmin_id":404405511,
             "locality_id":101812559,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136301899
         }
     ],
     "wof:id":136301899,
-    "wof:lastmodified":1473798034,
+    "wof:lastmodified":1496791268,
     "wof:name":"Credit Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

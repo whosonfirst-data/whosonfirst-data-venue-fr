@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.420577,43.549232,1.420577,43.549232",
     "geom:latitude":43.549232,
     "geom:longitude":1.420577,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05KwhDIxaT93MqGEsC0W9z_43.549232_1.420577@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9cfd18d702b464c538d5b0de068a0f50",
+    "wof:geomhash":"7cbb744cda1372c5081606b082e56d22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":152223733
         }
     ],
     "wof:id":152223733,
-    "wof:lastmodified":1473798330,
+    "wof:lastmodified":1496777865,
     "wof:name":"Omnium De Recuperation Et De Demolition Industrielle",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

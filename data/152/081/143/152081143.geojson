@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.539134,49.285244,-0.539134,49.285244",
     "geom:latitude":49.285244,
     "geom:longitude":-0.539134,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760279,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404381397,
+        85633147,
+        1108826393,
+        101760279,
+        136253037,
         102066661
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_55JrpiFmJaxwr4ZOZ60MQM_49.285244_-0.539134@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da005982635761c850c481ec6efb7139",
+    "wof:geomhash":"d974268a1ba66cb8a9b97a8949f930e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066661,
+            "empire_id":136253037,
+            "localadmin_id":404381397,
             "locality_id":101760279,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152081143
         }
     ],
     "wof:id":152081143,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496787252,
     "wof:name":"La Pierre D'orival (aemb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

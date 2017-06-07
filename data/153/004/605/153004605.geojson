@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.366052,45.657112,6.366052,45.657112",
     "geom:latitude":45.657112,
     "geom:longitude":6.366052,
@@ -31,28 +32,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830629,
-        85633147,
         85683265,
-        102069793
+        102191581,
+        404227745,
+        404419133,
+        85633147,
+        1108826389,
+        101830629,
+        136253037,
+        102072271
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yl2MXkc81DhKjeeunuPVc_45.657112_6.366052@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"374b65ace265cc27df7c15bafbe764ec",
+    "wof:geomhash":"c559c1d44c58a5cc10c790644797a1e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069793,
+            "county_id":102072271,
+            "empire_id":136253037,
+            "localadmin_id":404419133,
             "locality_id":101830629,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":153004605
         }
     ],
     "wof:id":153004605,
-    "wof:lastmodified":1473797869,
+    "wof:lastmodified":1496781176,
     "wof:name":"Produits Metallurgiques Des Savoies Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

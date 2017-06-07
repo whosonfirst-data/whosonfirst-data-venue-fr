@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.178874,48.625187,6.178874,48.625187",
     "geom:latitude":48.625187,
     "geom:longitude":6.178874,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753525,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101753525,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1Q8mlc6qijYtY3bjeaJ80P_48.625187_6.178874@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ec541898bf784be0c65dc1266436560",
+    "wof:geomhash":"635447a6bdbeee56eb79358868ae0588",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101753525,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152114975
         }
     ],
     "wof:id":152114975,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496793802,
     "wof:name":"Iveco Selvi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

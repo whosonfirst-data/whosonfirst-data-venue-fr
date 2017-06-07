@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.844823,49.890327,4.844823,49.890327",
     "geom:latitude":49.890327,
     "geom:longitude":4.844823,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815003,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404347821,
+        85633147,
+        1108826391,
+        101815003,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5YgKotDoL4CHBBnupfyToj_49.890327_4.844823@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bfe1d65d8a10f9491c6cc22d27fe84fb",
+    "wof:geomhash":"72e50099ed081a75f31fb3758088a400",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404347821,
             "locality_id":101815003,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152201291
         }
     ],
     "wof:id":152201291,
-    "wof:lastmodified":1473798322,
+    "wof:lastmodified":1496784951,
     "wof:name":"Boulonnerie Laime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

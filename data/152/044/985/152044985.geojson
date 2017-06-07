@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.759406,45.707512,0.759406,45.707512",
     "geom:latitude":45.707512,
     "geom:longitude":0.759406,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768239,
-        85633147,
         85683531,
+        102191581,
+        404228177,
+        404405465,
+        85633147,
+        1108826385,
+        101768239,
+        136253037,
         102069407
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6qYgT5nTOxs5JabKMIvLbN_45.707512_0.759406@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9f8f10067d804bd3269f49a6c8716d5",
+    "wof:geomhash":"7577cb4893ceb8cb5c2ddccb2d3c164b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069407,
+            "empire_id":136253037,
+            "localadmin_id":404405465,
             "locality_id":101768239,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152044985
         }
     ],
     "wof:id":152044985,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496777073,
     "wof:name":"College Du Parc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

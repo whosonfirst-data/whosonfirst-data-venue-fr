@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.262797,43.699978,-0.262797,43.699978",
     "geom:latitude":43.699978,
     "geom:longitude":-0.262797,
@@ -27,9 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831889,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404383157,
+        85633147,
+        1108826385,
+        101831889,
+        136253037,
         102064333
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_7b1jwlKCWwNsiPwVWt2fGb_43.699978_-0.262797@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07904b3241f5a2861447563734b90737",
+    "wof:geomhash":"6a9adeee543f4027ad6a79df72647ad9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064333,
+            "empire_id":136253037,
+            "localadmin_id":404383157,
             "locality_id":101831889,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136299983
         }
     ],
     "wof:id":136299983,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496775919,
     "wof:name":"Banque Populaire, Du Sud-ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

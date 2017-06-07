@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.51776,49.922619,4.51776,49.922619",
     "geom:latitude":49.922619,
     "geom:longitude":4.51776,
@@ -24,9 +25,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813729,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404349927,
+        85633147,
+        1108826391,
+        101813729,
+        136253037,
         102068699
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4BxM2IDDWcUlFaDvsaJSAp_49.922619_4.517760@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6837cbb7f29061294ff438ed9bf87695",
+    "wof:geomhash":"bccd2336f4efd779b2d41b5225db191a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068699,
+            "empire_id":136253037,
+            "localadmin_id":404349927,
             "locality_id":101813729,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152481245
         }
     ],
     "wof:id":152481245,
-    "wof:lastmodified":1473798426,
+    "wof:lastmodified":1496805280,
     "wof:name":"Fonderie La Pers\u00e9v\u00e9rance S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

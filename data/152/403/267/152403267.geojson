@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.232315,45.795303,4.232315,45.795303",
     "geom:latitude":45.795303,
     "geom:longitude":4.232315,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893487,
-        85633147,
         85683377,
+        102191581,
+        404227677,
+        404388803,
+        85633147,
+        1108826389,
+        101893487,
+        136253037,
         102065433
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1DMTLjHo2ksx767sZV8hYS_45.795303_4.232315@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56c82f369609a66622b667bd16b8fb73",
+    "wof:geomhash":"cae3e6db9dda6dc6bd63e66667978294",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065433,
+            "empire_id":136253037,
+            "localadmin_id":404388803,
             "locality_id":101893487,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152403267
         }
     ],
     "wof:id":152403267,
-    "wof:lastmodified":1473798397,
+    "wof:lastmodified":1496780343,
     "wof:name":"Depalle Fr\u00e8res S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.32129,49.38195,3.32129,49.38195",
     "geom:latitude":49.38195,
     "geom:longitude":3.32129,
@@ -29,9 +30,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842473,
-        85633147,
         85683247,
+        102191581,
+        404228197,
+        404395163,
+        85633147,
+        1108826399,
+        101842473,
+        136253037,
         102072551
     ],
     "wof:brand_id":420574521,
@@ -40,18 +46,23 @@
         "sg:id":"SG_7IAwwZv0rG3xDPAycILh6s_49.381950_3.321290@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"44f3fee08b8c929441d32829be7500b8",
+    "wof:geomhash":"c15beab6b0368f84d2166f22455cdb56",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072551,
+            "empire_id":136253037,
+            "localadmin_id":404395163,
             "locality_id":101842473,
+            "macrocounty_id":404228197,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136296813
         }
     ],
     "wof:id":136296813,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496795305,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

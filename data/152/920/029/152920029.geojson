@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.182795,47.419765,6.182795,47.419765",
     "geom:latitude":47.419765,
     "geom:longitude":6.182795,
@@ -22,9 +23,14 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890603,
-        85633147,
         85683559,
+        102191581,
+        404227951,
+        404368233,
+        85633147,
+        1108826395,
+        101890603,
+        136253037,
         102067467
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5aiVAkmohbFGTWmuPwUUYT_47.419765_6.182795@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15a00b65d95d55a474ec064084b13bc1",
+    "wof:geomhash":"c3dab2512347c8d99e369e1fee3ddfd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067467,
+            "empire_id":136253037,
+            "localadmin_id":404368233,
             "locality_id":101890603,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152920029
         }
     ],
     "wof:id":152920029,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496788510,
     "wof:name":"Jacques Gindro Industrie Electronique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.979957,45.835339,4.979957,45.835339",
     "geom:latitude":45.835339,
     "geom:longitude":4.979957,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750863,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404367141,
+        85633147,
+        1108826389,
+        101750863,
+        136253037,
         102071037
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6AupFGJ9cwjhKnHdGIE1CB_45.835339_4.979957@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"68053b3c00e94e57ac47386b09689607",
+    "wof:geomhash":"80124ffa45d35ea967272e2a3087844f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071037,
+            "empire_id":136253037,
+            "localadmin_id":404367141,
             "locality_id":101750863,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152538899
         }
     ],
     "wof:id":152538899,
-    "wof:lastmodified":1473798452,
+    "wof:lastmodified":1496783364,
     "wof:name":"Imprimerie Poncet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

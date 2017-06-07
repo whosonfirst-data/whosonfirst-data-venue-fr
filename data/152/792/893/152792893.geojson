@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.139323,45.224236,4.139323,45.224236",
     "geom:latitude":45.224236,
     "geom:longitude":4.139323,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770455,
-        85633147,
         85683413,
+        102191581,
+        404228091,
+        404365349,
+        85633147,
+        1108826389,
+        101770455,
+        136253037,
         102066925
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5O8UiZHjJbWkTau0EcUY75_45.224236_4.139323@1306269754"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1b4b7a88b0d80302bd8d18b6c1ddca56",
+    "wof:geomhash":"22ad9eb4f7375532d90b95ce98e28b6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066925,
+            "empire_id":136253037,
+            "localadmin_id":404365349,
             "locality_id":101770455,
+            "macrocounty_id":404228091,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152792893
         }
     ],
     "wof:id":152792893,
-    "wof:lastmodified":1473798525,
+    "wof:lastmodified":1496779432,
     "wof:name":"Souchon D'auvergne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

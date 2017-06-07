@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.004815,47.25053,6.004815,47.25053",
     "geom:latitude":47.25053,
     "geom:longitude":6.004815,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_24aHUSn4uh0bEgp9MXjLc0_47.250530_6.004815@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4360538c75832e5eb55d78e6a155845d",
+    "wof:geomhash":"3d6767b81d8818e475f93e0c5dae0079",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152046145
         }
     ],
     "wof:id":152046145,
-    "wof:lastmodified":1473797889,
+    "wof:lastmodified":1496804313,
     "wof:name":"Institution Notre-dame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

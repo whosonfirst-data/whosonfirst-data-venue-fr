@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.418113,49.166183,-0.418113,49.166183",
     "geom:latitude":49.166183,
     "geom:longitude":-0.418113,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750145,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404374163,
+        85633147,
+        1108826393,
+        101750145,
+        136253037,
         102065675
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_6jYe0eyIqkAXG1hLgvD9T6_49.166183_-0.418113@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d4aba7dddb5df62a344f0933cb11294b",
+    "wof:geomhash":"e5e0f080b07e0c6648be3692d087758a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065675,
+            "empire_id":136253037,
+            "localadmin_id":404374163,
             "locality_id":101750145,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152076349
         }
     ],
     "wof:id":152076349,
-    "wof:lastmodified":1473798132,
+    "wof:lastmodified":1496787438,
     "wof:name":"Borelec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

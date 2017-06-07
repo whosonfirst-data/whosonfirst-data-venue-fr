@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.909094,43.752151,1.909094,43.752151",
     "geom:latitude":43.752151,
     "geom:longitude":1.909094,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772539,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404356975,
+        85633147,
+        1108826387,
+        101772539,
+        136253037,
         102066697
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1DY3nLdSb8NmKgfCU52PJR_43.752151_1.909094@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14cbb6ebd6f165cbe9ca99d81776258c",
+    "wof:geomhash":"dc10cc77d14d7694ad9b0ec714f46f4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066697,
+            "empire_id":136253037,
+            "localadmin_id":404356975,
             "locality_id":101772539,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152060713
         }
     ],
     "wof:id":152060713,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496778399,
     "wof:name":"Ets Olivier Guille Et Fils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

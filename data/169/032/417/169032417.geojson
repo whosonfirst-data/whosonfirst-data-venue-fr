@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.297143,49.923882,2.297143,49.923882",
     "geom:latitude":49.923882,
     "geom:longitude":2.297143,
@@ -24,9 +25,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_64adkvhDY4uGblHQEIVVEL_49.923882_2.297143@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fccdadbe0b87fbbd0f5c7a8d62172a92",
+    "wof:geomhash":"b8465f2d14702858a08f0bb59be1d837",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169032417
         }
     ],
     "wof:id":169032417,
-    "wof:lastmodified":1473797979,
+    "wof:lastmodified":1496791291,
     "wof:name":"Les Ateliers A.p.f.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

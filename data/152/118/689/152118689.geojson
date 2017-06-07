@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.460496,49.197792,2.460496,49.197792",
     "geom:latitude":49.197792,
     "geom:longitude":2.460496,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828497,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404412541,
+        85633147,
+        1108826399,
+        101828497,
+        136253037,
         102070703
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_66I3mEDcz9M9RBdNcTTYNn_49.197792_2.460496@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23826f457ae25a2bbb4d809caf4f1274",
+    "wof:geomhash":"1054901d132f85d8d8951187cb16bba7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070703,
+            "empire_id":136253037,
+            "localadmin_id":404412541,
             "locality_id":101828497,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152118689
         }
     ],
     "wof:id":152118689,
-    "wof:lastmodified":1473798265,
+    "wof:lastmodified":1496795868,
     "wof:name":"Prestations Metaux Precieux (pmp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

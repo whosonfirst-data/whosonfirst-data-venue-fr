@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.44246,48.386635,7.44246,48.386635",
     "geom:latitude":48.386635,
     "geom:longitude":7.44246,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763781,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404379103,
+        85633147,
+        1108826391,
+        101763781,
+        136253037,
         102064425
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6Y3037uj8PYG1xzSCPqpnX_48.386635_7.442460@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"68da99d6c397f18642f199c261e2c1da",
+    "wof:geomhash":"6fe0a45d1014410bb8cfe2b4e420e3d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064425,
+            "empire_id":136253037,
+            "localadmin_id":404379103,
             "locality_id":101763781,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152121625
         }
     ],
     "wof:id":152121625,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1496786228,
     "wof:name":"Tanneries Haas Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

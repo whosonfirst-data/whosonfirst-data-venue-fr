@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.337662,46.580757,0.337662,46.580757",
     "geom:latitude":46.580757,
     "geom:longitude":0.337662,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3KDBJtSyxzHTAusnyr7Sdj_46.580757_0.337662@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1fcae80a52b6d26a0ad93af23d20c2d0",
+    "wof:geomhash":"22e549953bc16dbb3458d57f45425ad2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136281823
         }
     ],
     "wof:id":136281823,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496777559,
     "wof:name":"Centre Presse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

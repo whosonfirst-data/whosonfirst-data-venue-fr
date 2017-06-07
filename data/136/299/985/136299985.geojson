@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.367124,43.295753,-0.367124,43.295753",
     "geom:latitude":43.295753,
     "geom:longitude":-0.367124,
@@ -27,9 +28,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_3mVRoPzBuypMP8W6GCeuwP_43.295753_-0.367124@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"646dc1fa6dd7231ae0070ec72686339b",
+    "wof:geomhash":"e0bd98edbafe960ce18684e913592f0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136299985
         }
     ],
     "wof:id":136299985,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496776410,
     "wof:name":"Banque Populaire, Du Sud-ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

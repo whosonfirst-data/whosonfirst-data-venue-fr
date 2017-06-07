@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.886203,45.042225,3.886203,45.042225",
     "geom:latitude":45.042225,
     "geom:longitude":3.886203,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830493,
-        85633147,
         85683413,
+        102191581,
+        404227891,
+        404367269,
+        85633147,
+        1108826389,
+        101830493,
+        136253037,
         102072457
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_02bh0Zb8bgxhmmbeu7FcM8_45.042225_3.886203@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f956fea57359148106218d416871568",
+    "wof:geomhash":"615ee60c2d552abbf5aed0e6232fa39f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072457,
+            "empire_id":136253037,
+            "localadmin_id":404367269,
             "locality_id":101830493,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152095517
         }
     ],
     "wof:id":152095517,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496806343,
     "wof:name":"Charcuterie Traiteur Rioufreyt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.944043,49.034904,7.944043,49.034904",
     "geom:latitude":49.034904,
     "geom:longitude":7.944043,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761061,
-        85633147,
         85683221,
+        102191581,
+        404228315,
+        404358647,
+        85633147,
+        1108826391,
+        101761061,
+        136253037,
         102070489
     ],
     "wof:brand_id":420575713,
@@ -40,18 +46,23 @@
         "sg:id":"SG_0wK1IPoNL0UgiODmOZRPi9_49.034904_7.944043@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"22ee52aa9fa92cde88a967f0a66868a1",
+    "wof:geomhash":"61569503dad10e84a555b05178237873",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070489,
+            "empire_id":136253037,
+            "localadmin_id":404358647,
             "locality_id":101761061,
+            "macrocounty_id":404228315,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136303937
         }
     ],
     "wof:id":136303937,
-    "wof:lastmodified":1473798039,
+    "wof:lastmodified":1496785147,
     "wof:name":"Cr\u00e9dit Industriel D'alsace, Et De Lorraine Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

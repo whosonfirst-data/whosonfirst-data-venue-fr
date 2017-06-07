@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.651873,44.780022,-0.651873,44.780022",
     "geom:latitude":44.780022,
     "geom:longitude":-0.651873,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0yJ0f6n1iFpbj7xWy4r2uZ_44.780022_-0.651873@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88413c0e07afee5365001010d5b42af8",
+    "wof:geomhash":"01eb6b2c2ae4bdf2f2dc1c8aacd30388",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152108601
         }
     ],
     "wof:id":152108601,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496776110,
     "wof:name":"Thales Systeme Aeroportes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

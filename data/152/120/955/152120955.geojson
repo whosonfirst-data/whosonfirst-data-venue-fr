@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.645848,46.262497,5.645848,46.262497",
     "geom:latitude":46.262497,
     "geom:longitude":5.645848,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3CUjJWowYKQdjVt1paZRpS_46.262497_5.645848@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bedb15355a98f23417622f724cb45ed8",
+    "wof:geomhash":"fb7b449b85d769afd73125b11caafea0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152120955
         }
     ],
     "wof:id":152120955,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496779624,
     "wof:name":"Etablissements Collomb Mecanique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

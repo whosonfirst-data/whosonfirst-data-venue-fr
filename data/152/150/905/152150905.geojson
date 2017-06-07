@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.421167,44.904488,4.421167,44.904488",
     "geom:latitude":44.904488,
     "geom:longitude":4.421167,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842829,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404359661,
+        85633147,
+        1108826389,
+        101842829,
+        136253037,
         102065359
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1Lv5ZuBnQZqZgwqitfQZDA_44.904488_4.421167@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81cc48cacec7e0eb7d7086315359f7c7",
+    "wof:geomhash":"5c2fe28446245fb000350f916e86d6b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065359,
+            "empire_id":136253037,
+            "localadmin_id":404359661,
             "locality_id":101842829,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152150905
         }
     ],
     "wof:id":152150905,
-    "wof:lastmodified":1473798301,
+    "wof:lastmodified":1496779843,
     "wof:name":"Perrier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

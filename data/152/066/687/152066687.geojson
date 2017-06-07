@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.792352,49.541229,5.792352,49.541229",
     "geom:latitude":49.541229,
     "geom:longitude":5.792352,
@@ -32,27 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840219,
+        85683343,
+        102191581,
+        404227705,
+        404424319,
         85633147,
-        102069785
+        1108826391,
+        101840219,
+        136253037,
+        102070099
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06eNYPSpVkZnWm3zxzjBU9_49.541229_5.792352@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8c014e97d4905c0fa39e0c1ac2a7fdbf",
+    "wof:geomhash":"245cdae88c6ecdb5442e9d23f80666c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069785,
+            "county_id":102070099,
+            "empire_id":136253037,
+            "localadmin_id":404424319,
             "locality_id":101840219,
-            "region_id":-1,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
             "venue_id":152066687
         }
     ],
     "wof:id":152066687,
-    "wof:lastmodified":1473798042,
+    "wof:lastmodified":1496793751,
     "wof:name":"Eurovia Champagne Ardenne Lorraine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

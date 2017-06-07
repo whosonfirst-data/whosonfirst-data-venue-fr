@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.16498,45.647175,0.16498,45.647175",
     "geom:latitude":45.647175,
     "geom:longitude":0.16498,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829071,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404348375,
+        85633147,
+        1108826385,
+        101829071,
+        136253037,
         102072237
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1ChYelqROaXOeAMLgdYSJT_45.647175_0.164980@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17b8d4e78c6c08628b28f0a7f13ecff9",
+    "wof:geomhash":"597b6b169e333f21ed28a71bd1acb585",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072237,
+            "empire_id":136253037,
+            "localadmin_id":404348375,
             "locality_id":101829071,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":136275793
         }
     ],
     "wof:id":136275793,
-    "wof:lastmodified":1473797940,
+    "wof:lastmodified":1496775899,
     "wof:name":"Caisse Mutualite Sociale Agricole",
-    "wof:parent_id":101829071,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

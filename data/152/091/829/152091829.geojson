@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.543284,50.938168,2.543284,50.938168",
     "geom:latitude":50.938168,
     "geom:longitude":2.543284,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811325,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404421997,
+        85633147,
+        1108826399,
+        101811325,
+        136253037,
         102070063
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4JMUn4Tahindvz0BNRMajB_50.938168_2.543284@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c602b1df3fec8bfd678c7c159c0b86eb",
+    "wof:geomhash":"d523b445a0141d7be3dbaf3cbb128bc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070063,
+            "empire_id":136253037,
+            "localadmin_id":404421997,
             "locality_id":101811325,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152091829
         }
     ],
     "wof:id":152091829,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496791376,
     "wof:name":"Tolerie Construction Industrielle (tci)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

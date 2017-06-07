@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.579475,47.807316,3.579475,47.807316",
     "geom:latitude":47.807316,
     "geom:longitude":3.579475,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_7dUTg4JFRaCT6v8FFzmPI8_47.807316_3.579475@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"770baf9df0db9b859de4d01200dc9d52",
+    "wof:geomhash":"0c785d5d2ecb89a38c2617b09b6f1c92",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152113737
         }
     ],
     "wof:id":152113737,
-    "wof:lastmodified":1473798275,
+    "wof:lastmodified":1496794893,
     "wof:name":"Bourgogne Batteries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

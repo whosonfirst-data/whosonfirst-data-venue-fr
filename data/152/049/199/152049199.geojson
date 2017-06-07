@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.727184,45.19006,5.727184,45.19006",
     "geom:latitude":45.19006,
     "geom:longitude":5.727184,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1FkBSWAFCgvaeHd20beKiN_45.190060_5.727184@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8aceed38ac173012c1c1c4e53543fbcb",
+    "wof:geomhash":"ffef6c8ba99ee1a811bf20f3969332cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152049199
         }
     ],
     "wof:id":152049199,
-    "wof:lastmodified":1473797896,
+    "wof:lastmodified":1496783064,
     "wof:name":"La Brioche Doree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

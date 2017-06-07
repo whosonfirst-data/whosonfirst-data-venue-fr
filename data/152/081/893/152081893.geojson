@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.644335,44.371864,4.644335,44.371864",
     "geom:latitude":44.371864,
     "geom:longitude":4.644335,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772985,
-        85633147,
         85683421,
+        102191581,
+        404227811,
+        404348007,
+        85633147,
+        1108826389,
+        101772985,
+        136253037,
         102064893
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0qhMXaPQE9HXgDC5jVARlz_44.371864_4.644335@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96bb471fced700351b85dc0cce9227b7",
+    "wof:geomhash":"b4427ab2e543d7a974e5aee519f1d9c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064893,
+            "empire_id":136253037,
+            "localadmin_id":404348007,
             "locality_id":101772985,
+            "macrocounty_id":404227811,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152081893
         }
     ],
     "wof:id":152081893,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496799914,
     "wof:name":"Generale Des Eaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

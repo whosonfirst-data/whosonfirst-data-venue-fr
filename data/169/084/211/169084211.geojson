@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.61484,50.772881,1.61484,50.772881",
     "geom:latitude":50.772881,
     "geom:longitude":1.61484,
@@ -22,9 +23,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839589,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228131,
+        1108826399,
+        101839589,
+        136253037,
         102071807
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_702nopZLAb2O1bqN7tlauh_50.772881_1.614840@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"110b8c0b1d03e1536830304267cedbcc",
+    "wof:geomhash":"edcf5f44c4dd449f9289ad564ffc30bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071807,
+            "empire_id":136253037,
             "locality_id":101839589,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":169084211
         }
     ],
     "wof:id":169084211,
-    "wof:lastmodified":1473798061,
+    "wof:lastmodified":1496790389,
     "wof:name":"P.i.d.m. S.a.r.l. - Peinture, Industrie, D\u00e9capage, Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

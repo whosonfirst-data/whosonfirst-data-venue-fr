@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.865845,45.945404,0.865845,45.945404",
     "geom:latitude":45.945404,
     "geom:longitude":0.865845,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892293,
-        85633147,
         85683437,
+        102191581,
+        404228035,
+        404423949,
+        85633147,
+        1108826385,
+        101892293,
+        136253037,
         102067113
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6CrbIobqhdCgdkGq9OktMT_45.945404_0.865845@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2117b61fcb8f1c8ee27e59fb3bf0c7d3",
+    "wof:geomhash":"2ddf1c7ae2e1ed28611dff5c79d59e2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067113,
+            "empire_id":136253037,
+            "localadmin_id":404423949,
             "locality_id":101892293,
+            "macrocounty_id":404228035,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152866621
         }
     ],
     "wof:id":152866621,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496798555,
     "wof:name":"Ficopa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

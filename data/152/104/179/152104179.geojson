@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.33534,46.05162,5.33534,46.05162",
     "geom:latitude":46.05162,
     "geom:longitude":5.33534,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768169,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404407361,
+        85633147,
+        1108826389,
+        101768169,
+        136253037,
         102068945
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6Olhvwgi6I3br04iKA4ctH_46.051620_5.335340@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8e2fecbdeaaf1e3fa60d49d13b1614d",
+    "wof:geomhash":"6caf50383e797bd55ffb6119f6fd08d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068945,
+            "empire_id":136253037,
+            "localadmin_id":404407361,
             "locality_id":101768169,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152104179
         }
     ],
     "wof:id":152104179,
-    "wof:lastmodified":1473798228,
+    "wof:lastmodified":1496783475,
     "wof:name":"Maintenance Etude Conditionnement Mec (mec)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

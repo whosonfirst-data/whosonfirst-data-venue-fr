@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.992135,49.219357,3.992135,49.219357",
     "geom:latitude":49.219357,
     "geom:longitude":3.992135,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753501,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101753501,
+        136253037,
         102070891
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_5JT25iaMg8WcecR0y0AxN7_49.219357_3.992135@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea290a334aa8cb3ab36b2c5dab9fdfb7",
+    "wof:geomhash":"9b5cfd21cb0483694dcdc3f4dcfb4399",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070891,
+            "empire_id":136253037,
             "locality_id":101753501,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152090023
         }
     ],
     "wof:id":152090023,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496785889,
     "wof:name":"Les Metalliers Champenois Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

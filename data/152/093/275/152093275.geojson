@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.346015,48.974564,4.346015,48.974564",
     "geom:latitude":48.974564,
     "geom:longitude":4.346015,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3XR0Do5HsRJPIIkqxjI0U6_48.974564_4.346015@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"04072e4b8400ba27829c59854bd86cae",
+    "wof:geomhash":"e6a18696722241fd0e87293732095e1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152093275
         }
     ],
     "wof:id":152093275,
-    "wof:lastmodified":1473798171,
+    "wof:lastmodified":1496785734,
     "wof:name":"Le Revetement Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

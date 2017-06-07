@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.147152,50.674473,3.147152,50.674473",
     "geom:latitude":50.674473,
     "geom:longitude":3.147152,
@@ -28,9 +29,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750249,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404407891,
+        85633147,
+        1108826399,
+        101750249,
+        136253037,
         102071681
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_4q2S8TPGg8J52YDcJGOtTW_50.674473_3.147152@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51b3824f2f2ae0eae2214ce5afd6f4e4",
+    "wof:geomhash":"3472d0c7896beb809dd2a2b9090504fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071681,
+            "empire_id":136253037,
+            "localadmin_id":404407891,
             "locality_id":101750249,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136296463
         }
     ],
     "wof:id":136296463,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496791800,
     "wof:name":"Banque Covefi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.174518,45.685001,-0.174518,45.685001",
     "geom:latitude":45.685001,
     "geom:longitude":-0.174518,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768055,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404354615,
+        85633147,
+        1108826385,
+        101768055,
+        136253037,
         102067433
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_34aZ8xENhqwWsGHU73GvXT_45.685001_-0.174518@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"19eda718dca6e85eb9f6d37b76167921",
+    "wof:geomhash":"42a09546462588909596c83d4fb56efa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067433,
+            "empire_id":136253037,
+            "localadmin_id":404354615,
             "locality_id":101768055,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":153001081
         }
     ],
     "wof:id":153001081,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496776969,
     "wof:name":"Distillerie De La Soute Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

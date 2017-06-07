@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.272833,47.885143,6.272833,47.885143",
     "geom:latitude":47.885143,
     "geom:longitude":6.272833,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765587,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404353715,
+        85633147,
+        1108826395,
+        101765587,
+        136253037,
         102068353
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_149g5ForaAQfui7WAqDN80_47.885143_6.272833@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2df99709f064531f403b0db10e5a338c",
+    "wof:geomhash":"1ebeb94fe71ebc75bfd05263d317fe6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068353,
+            "empire_id":136253037,
+            "localadmin_id":404353715,
             "locality_id":101765587,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":136284393
         }
     ],
     "wof:id":136284393,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496789266,
     "wof:name":"Robust 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

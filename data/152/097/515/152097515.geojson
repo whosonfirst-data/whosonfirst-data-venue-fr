@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869976,45.008339,4.869976,45.008339",
     "geom:latitude":45.008339,
     "geom:longitude":4.869976,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828861,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404427109,
+        85633147,
+        1108826389,
+        101828861,
+        136253037,
         102069541
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2u9bh7QdhwmkYfbE1daWz7_45.008339_4.869976@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7ce5e6174e94a5a41bcc964cee48e1c8",
+    "wof:geomhash":"f9a80b1713eb33983cbdb88fb7145074",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069541,
+            "empire_id":136253037,
+            "localadmin_id":404427109,
             "locality_id":101828861,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152097515
         }
     ],
     "wof:id":152097515,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1496780222,
     "wof:name":"Alain Graillot Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

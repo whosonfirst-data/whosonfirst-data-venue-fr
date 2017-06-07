@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.97912,47.517368,3.97912,47.517368",
     "geom:latitude":47.517368,
     "geom:longitude":3.97912,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683503,
+        102191581,
         85633147,
-        85683503
+        404378081,
+        404227993,
+        1108826395,
+        136253037,
+        102065143
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YYrjKRMeTcUVl6St89H10_47.517368_3.979120@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b7b0ed3a2c3ffdb79a6e7dc5e0471775",
+    "wof:geomhash":"3803d1afb3f5c947af317eddf0c430ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102065143,
+            "empire_id":136253037,
+            "localadmin_id":404378081,
+            "locality_id":-1,
+            "macrocounty_id":404227993,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152951135
         }
     ],
     "wof:id":152951135,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496794962,
     "wof:name":"Autoroutes De Paris Rhin Rhone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

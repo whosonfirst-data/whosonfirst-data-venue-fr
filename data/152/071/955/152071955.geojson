@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.600611,44.730312,-0.600611,44.730312",
     "geom:latitude":44.730312,
     "geom:longitude":-0.600611,
@@ -33,28 +34,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4to4ha0YJ19yPhOtqKOPNA_44.730312_-0.600611@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4e1d02e92635509f04719bb5b650cc45",
+    "wof:geomhash":"e535c96364a18e58d3036c29f195f425",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":152071955
         }
     ],
     "wof:id":152071955,
-    "wof:lastmodified":1473798127,
+    "wof:lastmodified":1496798396,
     "wof:name":"Chateau Brown",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

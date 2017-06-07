@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.099884,49.317402,-1.099884,49.317402",
     "geom:latitude":49.317402,
     "geom:longitude":-1.099884,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760245,
-        85633147,
         85683579,
+        102191581,
+        404227615,
+        404360103,
+        85633147,
+        1108826393,
+        101760245,
+        136253037,
         102067951
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1jVMOYYUkKKXtIXsWuh7qo_49.317402_-1.099884@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d0af51486f70851d8766f70a39fc795",
+    "wof:geomhash":"5082f8af4f315863bb97ccb1f6bace9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067951,
+            "empire_id":136253037,
+            "localadmin_id":404360103,
             "locality_id":101760245,
+            "macrocounty_id":404227615,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152069675
         }
     ],
     "wof:id":152069675,
-    "wof:lastmodified":1473798083,
+    "wof:lastmodified":1496787425,
     "wof:name":"Societe Fromagere D'isigny Sur Mer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.251973,43.60376,2.251973,43.60376",
     "geom:latitude":43.60376,
     "geom:longitude":2.251973,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831833,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831833,
+        136253037,
         102072325
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3G3ttPmJyORPZguNUO7WQ1_43.603760_2.251973@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0da50393e69799c0995c55dc74439c1d",
+    "wof:geomhash":"ceab7f0c478b29c5fc9b76f918dc7538",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072325,
+            "empire_id":136253037,
             "locality_id":101831833,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152059645
         }
     ],
     "wof:id":152059645,
-    "wof:lastmodified":1473797932,
+    "wof:lastmodified":1496777858,
     "wof:name":"Atelier Helene Duplessis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

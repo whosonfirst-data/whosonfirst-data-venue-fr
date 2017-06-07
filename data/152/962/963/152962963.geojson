@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.611932,46.146351,5.611932,46.146351",
     "geom:latitude":46.146351,
     "geom:longitude":5.611932,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768197,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404426451,
+        85633147,
+        1108826389,
+        101768197,
+        136253037,
         102068489
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7MOruhqyrRbpabOybt6jcu_46.146351_5.611932@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"753eb2e9d84f2bb7b4abc5043c3b5336",
+    "wof:geomhash":"570a21b55a31a3c11ec66c92ffcfac4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068489,
+            "empire_id":136253037,
+            "localadmin_id":404426451,
             "locality_id":101768197,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152962963
         }
     ],
     "wof:id":152962963,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496801603,
     "wof:name":"Marmeth Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

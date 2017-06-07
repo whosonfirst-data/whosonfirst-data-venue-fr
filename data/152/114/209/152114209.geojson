@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.424452,46.104752,3.424452,46.104752",
     "geom:latitude":46.104752,
     "geom:longitude":3.424452,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829201,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404373583,
+        85633147,
+        1108826389,
+        101829201,
+        136253037,
         102070563
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3L3ZDCNEG9aAnEwJEK4Od1_46.104752_3.424452@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8062818f014da25081cfafa540291e3f",
+    "wof:geomhash":"8ce6b7a732e5c22cee11cbf798b629a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070563,
+            "empire_id":136253037,
+            "localadmin_id":404373583,
             "locality_id":101829201,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152114209
         }
     ],
     "wof:id":152114209,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496779511,
     "wof:name":"Ligier Automobile Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

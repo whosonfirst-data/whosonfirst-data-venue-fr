@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.314434,48.995419,7.314434,48.995419",
     "geom:latitude":48.995419,
     "geom:longitude":7.314434,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761363,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404395145,
+        85633147,
+        1108826391,
+        101761363,
+        136253037,
         102069245
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5sJaNCrWpzYVyKEAMOFGp3_48.995419_7.314434@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62af835246bb0ef72c1e1f823aad3635",
+    "wof:geomhash":"4032fcd53ff12ce85e01d37e8039d8dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069245,
+            "empire_id":136253037,
+            "localadmin_id":404395145,
             "locality_id":101761363,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152385077
         }
     ],
     "wof:id":152385077,
-    "wof:lastmodified":1473798387,
+    "wof:lastmodified":1496785899,
     "wof:name":"Cristallerie Des Vosges Du Nord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

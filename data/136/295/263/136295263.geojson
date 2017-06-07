@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.641593,44.193314,0.641593,44.193314",
     "geom:latitude":44.193314,
     "geom:longitude":0.641593,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4zMhafZvBZsafqQO0QIi7K_44.193314_0.641593@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20b5c341881ffe2d5ee30848a8b41c4b",
+    "wof:geomhash":"e1305926841d476de5b2140fc7275457",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136295263
         }
     ],
     "wof:id":136295263,
-    "wof:lastmodified":1473797908,
+    "wof:lastmodified":1496775908,
     "wof:name":"Centre Gestion Economie Rurale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

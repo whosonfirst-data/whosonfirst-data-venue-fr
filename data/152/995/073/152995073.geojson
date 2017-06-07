@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.531545,43.527149,1.531545,43.527149",
     "geom:latitude":43.527149,
     "geom:longitude":1.531545,
@@ -30,16 +31,39 @@
         "iron"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        404396295,
+        85633147,
+        1108826387,
+        101749245,
+        136253037,
+        102066151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79aF4oupjr9x7nR7m6d5YH_43.527149_1.531545@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"95af39a8786395fd12f519091673e584",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bad4f43ef3ef5b4e25fa48cf2d67235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066151,
+            "empire_id":136253037,
+            "localadmin_id":404396295,
+            "locality_id":101749245,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397,
+            "venue_id":152995073
+        }
+    ],
     "wof:id":152995073,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496778360,
     "wof:name":"Bernard Pages Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.42402,50.936176,2.42402,50.936176",
     "geom:latitude":50.936176,
     "geom:longitude":2.42402,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898579,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404389887,
+        85633147,
+        1108826399,
+        101898579,
+        136253037,
         102066001
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_2ttjvDXsqQBjokpQ3WfDoo_50.936176_2.424020@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"624e0b5461d42a3b2a18d2e92219ebe3",
+    "wof:geomhash":"ca2d394c1431945415f27d69f24ce143",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066001,
+            "empire_id":136253037,
+            "localadmin_id":404389887,
             "locality_id":101898579,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136283793
         }
     ],
     "wof:id":136283793,
-    "wof:lastmodified":1473797938,
+    "wof:lastmodified":1496792150,
     "wof:name":"Duyck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.818891,50.110294,1.818891,50.110294",
     "geom:latitude":50.110294,
     "geom:longitude":1.818891,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4qvvwrNhavriVCBQ7gAd96_50.110294_1.818891@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"694d7788240ead430d2094543d8fede2",
+    "wof:geomhash":"d679537dd4d609cc2edad0d705d29231",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152088839
         }
     ],
     "wof:id":152088839,
-    "wof:lastmodified":1473798212,
+    "wof:lastmodified":1496795836,
     "wof:name":"Comap Abbeville Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

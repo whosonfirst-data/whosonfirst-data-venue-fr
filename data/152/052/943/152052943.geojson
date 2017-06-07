@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.641808,45.481144,-75.641808,45.481144",
     "geom:latitude":45.481144,
     "geom:longitude":-75.641808,
@@ -22,9 +23,11 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101738041,
+        85874487,
+        102191575,
         85633041,
-        85874487
+        101735873,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,14 +37,16 @@
     "wof:geomhash":"751513d4de925efee5e1678cf582aa09",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633041,
-            "locality_id":101738041,
+            "locality_id":101735873,
             "neighbourhood_id":85874487,
+            "region_id":85682057,
             "venue_id":152052943
         }
     ],
     "wof:id":152052943,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1491908685,
     "wof:name":"Ets Ceard Sa",
     "wof:parent_id":85874487,
     "wof:placetype":"venue",

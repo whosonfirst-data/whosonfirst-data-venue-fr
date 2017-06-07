@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.779221,45.774353,4.779221,45.774353",
     "geom:latitude":45.774353,
     "geom:longitude":4.779221,
@@ -27,9 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1A2qgmeHxHSqNgQa37NbPw_45.774353_4.779221@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d6d81734aeefdc95fd363aaf136e752",
+    "wof:geomhash":"5b00ceff49cac2218c74128eb1214949",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136300079
         }
     ],
     "wof:id":136300079,
-    "wof:lastmodified":1473797978,
+    "wof:lastmodified":1496800690,
     "wof:name":"Banque Rh\u00f4ne Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

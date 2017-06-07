@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.50799,45.465248,4.50799,45.465248",
     "geom:latitude":45.465248,
     "geom:longitude":4.50799,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830787,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101830787,
+        136253037,
         102072203
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7DAB6Y2z52mDCbgKU7eUpD_45.465248_4.507990@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"38c02f71b96f895f9564cb240a5b179d",
+    "wof:geomhash":"6a291b74baf63001c25f429abab0005a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072203,
+            "empire_id":136253037,
             "locality_id":101830787,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":153036739
         }
     ],
     "wof:id":153036739,
-    "wof:lastmodified":1473797976,
+    "wof:lastmodified":1496779863,
     "wof:name":"Roure Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

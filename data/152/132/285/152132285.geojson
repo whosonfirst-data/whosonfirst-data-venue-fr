@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.399808,49.19931,-0.399808,49.19931",
     "geom:latitude":49.19931,
     "geom:longitude":-0.399808,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750149,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404382871,
+        85633147,
+        1108826393,
+        101750149,
+        136253037,
         102072139
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_61ZsNckwTNz6pezJux83rI_49.199310_-0.399808@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c9ecdd5ad00f3343d95c17217c707445",
+    "wof:geomhash":"346da5017c168a301287c3100bfdb891",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072139,
+            "empire_id":136253037,
+            "localadmin_id":404382871,
             "locality_id":101750149,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152132285
         }
     ],
     "wof:id":152132285,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496787415,
     "wof:name":"Ateliers Mecanique Precision Normandie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

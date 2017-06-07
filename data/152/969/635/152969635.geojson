@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.324189,49.295551,4.324189,49.295551",
     "geom:latitude":49.295551,
     "geom:longitude":4.324189,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761319,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404420613,
+        85633147,
+        1108826391,
+        101761319,
+        136253037,
         102064983
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0RK5Tjgfm43MQ5IzAUbMoh_49.295551_4.324189@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58dde3ab200f423fde2dcd0dbd3b620d",
+    "wof:geomhash":"c1c52cae77b4524e6bc87b2a3ba7b086",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064983,
+            "empire_id":136253037,
+            "localadmin_id":404420613,
             "locality_id":101761319,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152969635
         }
     ],
     "wof:id":152969635,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496784164,
     "wof:name":"Ste Marnaise De Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

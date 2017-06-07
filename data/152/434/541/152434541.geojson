@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.699465,49.754829,4.699465,49.754829",
     "geom:latitude":49.754829,
     "geom:longitude":4.699465,
@@ -24,9 +25,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751429,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404385959,
+        85633147,
+        1108826391,
+        101751429,
+        136253037,
         102066979
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_05bk4LlbjNDpLKvzQSwO6B_49.754829_4.699465@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f9e12ac9a50a5b406486111e6000ffa",
+    "wof:geomhash":"4ea4e9c8b0df80c047a94a8b28b1e805",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066979,
+            "empire_id":136253037,
+            "localadmin_id":404385959,
             "locality_id":101751429,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152434541
         }
     ],
     "wof:id":152434541,
-    "wof:lastmodified":1473798409,
+    "wof:lastmodified":1496805290,
     "wof:name":"Entourage S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

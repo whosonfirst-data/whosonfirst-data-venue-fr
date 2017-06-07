@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.116309,49.420403,1.116309,49.420403",
     "geom:latitude":49.420403,
     "geom:longitude":1.116309,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753029,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404422631,
+        85633147,
+        1108826393,
+        101753029,
+        136253037,
         102065587
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0RHFPIGUNVuZY59WBhFZiQ_49.420403_1.116309@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c06e0aaca013e9922da3742d0ac54f27",
+    "wof:geomhash":"eb67e069e8b1ccc880d86a0f15500d06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065587,
+            "empire_id":136253037,
+            "localadmin_id":404422631,
             "locality_id":101753029,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152129139
         }
     ],
     "wof:id":152129139,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496787863,
     "wof:name":"Informatique Regulation Automatisme Maintenance Electro (sirame)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

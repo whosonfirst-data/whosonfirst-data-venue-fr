@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.837681,45.734982,4.837681,45.734982",
     "geom:latitude":45.734982,
     "geom:longitude":4.837681,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3PKFxYaoyo7juyCF9KDy9i_45.734982_4.837681@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5e3ac0abd8581b94665324e922f2f85f",
+    "wof:geomhash":"59f025de73f350994d5fc9f5c08704d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152061341
         }
     ],
     "wof:id":152061341,
-    "wof:lastmodified":1473797929,
+    "wof:lastmodified":1496781677,
     "wof:name":"La Vie En Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

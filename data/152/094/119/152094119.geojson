@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.63331,50.52549,1.63331,50.52549",
     "geom:latitude":50.52549,
     "geom:longitude":1.63331,
@@ -31,16 +32,39 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683255,
+        102191581,
+        404228249,
+        404423933,
+        85633147,
+        1108826399,
+        101840459,
+        136253037,
+        102068499
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XPROP40QAHV2qHNdB5j87_50.525490_1.633310@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a9721f45d0047f2cb8ee2da01c6f615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd43b0905252ecd79bd55ad6ccd2c1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068499,
+            "empire_id":136253037,
+            "localadmin_id":404423933,
+            "locality_id":101840459,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
+            "region_id":85683255,
+            "venue_id":152094119
+        }
+    ],
     "wof:id":152094119,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496797413,
     "wof:name":"Lepretre Thierry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

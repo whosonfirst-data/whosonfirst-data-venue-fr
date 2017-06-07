@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.568484,44.352722,2.568484,44.352722",
     "geom:latitude":44.352722,
     "geom:longitude":2.568484,
@@ -24,9 +25,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831899,
-        85633147,
         85683301,
+        102191581,
+        85633147,
+        404227821,
+        1108826387,
+        101831899,
+        136253037,
         102072281
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_1C9Rqa2VsokTcjejUgfBLm_44.352722_2.568484@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bed2760f5ca587eb86db1bc1d9a0cc32",
+    "wof:geomhash":"73a6dcebadea3a08aee2a3620abf4a61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072281,
+            "empire_id":136253037,
             "locality_id":101831899,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152355009
         }
     ],
     "wof:id":152355009,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1496803531,
     "wof:name":"Centre De Fiscalit\u00e9 Des Exploitations Agricoles Aveyronnaises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

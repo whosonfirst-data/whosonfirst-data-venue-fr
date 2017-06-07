@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.344548,43.309208,-0.344548,43.309208",
     "geom:latitude":43.309208,
     "geom:longitude":-0.344548,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3Sbs1j6lHMUUudJTEjByyo_43.309208_-0.344548@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"83c2f840c28b4601887642533290f468",
+    "wof:geomhash":"b5fa52402b0f8c8380aaf3e9958e5f2e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":153008673
         }
     ],
     "wof:id":153008673,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496798425,
     "wof:name":"Alcatel Reseaux D'entreprise Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

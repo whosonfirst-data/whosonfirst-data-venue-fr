@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.557552,44.830498,-0.557552,44.830498",
     "geom:latitude":44.830498,
     "geom:longitude":-0.557552,
@@ -32,30 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897675,
+        102191581,
         85633147,
-        101749339,
-        102071639,
-        85897675
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eioEBtUytL0bOlmY4IH2b_44.830498_-0.557552@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c11cfe022d7bef9e2209a9fd38939a77",
+    "wof:geomhash":"46e06585aa61eebc3a48e3289fac7969",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071639,
-            "locality_id":101749339,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897675,
             "region_id":85683243,
             "venue_id":152927407
         }
     ],
     "wof:id":152927407,
-    "wof:lastmodified":1473798580,
+    "wof:lastmodified":1496775379,
     "wof:name":"Imprimerie Papeterie Castet",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",

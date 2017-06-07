@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.22795,50.673069,3.22795,50.673069",
     "geom:latitude":50.673069,
     "geom:longitude":3.22795,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750285,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404384009,
+        85633147,
+        1108826399,
+        101750285,
+        136253037,
         102070353
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_64GbFHwY3GT3rqbGyUK4xH_50.673069_3.227950@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1905f7e4d6d5cc8a6d3c49b526c1493c",
+    "wof:geomhash":"a771b97e8f9df0c6015412b166f96b40",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404384009,
             "locality_id":101750285,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169104265
         }
     ],
     "wof:id":169104265,
-    "wof:lastmodified":1473798109,
+    "wof:lastmodified":1496790987,
     "wof:name":"Provaal S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

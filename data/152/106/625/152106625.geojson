@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.069109,48.297234,4.069109,48.297234",
     "geom:latitude":48.297234,
     "geom:longitude":4.069109,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750981,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404405659,
+        85633147,
+        1108826391,
+        101750981,
+        136253037,
         102072497
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5CjJhJyCEt2Z4fMtJVQmaA_48.297234_4.069109@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"86a1a88ada8f17bca65428b921a1d9a4",
+    "wof:geomhash":"eae4feeb7e193a8eea0b87e60af9704d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072497,
+            "empire_id":136253037,
+            "localadmin_id":404405659,
             "locality_id":101750981,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152106625
         }
     ],
     "wof:id":152106625,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496786533,
     "wof:name":"Aube Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

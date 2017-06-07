@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.067917,47.3396,5.067917,47.3396",
     "geom:latitude":47.3396,
     "geom:longitude":5.067917,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_39lxs8uyzruqi6tLrV43lb_47.339600_5.067917@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e00e4f2b742baaacbed91cef6802377",
+    "wof:geomhash":"ba295d6fd84dbe0ca33b4364b3f99281",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152146833
         }
     ],
     "wof:id":152146833,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496789518,
     "wof:name":"Maison Hoteliere Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

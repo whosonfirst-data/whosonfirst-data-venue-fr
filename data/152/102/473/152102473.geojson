@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.15373,48.107269,5.15373,48.107269",
     "geom:latitude":48.107269,
     "geom:longitude":5.15373,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766225,
-        85633147,
         85683261,
+        102191581,
+        85633147,
+        404227699,
+        1108826391,
+        101766225,
+        136253037,
         102071879
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3weQ6B9ZDMbQVH7ewBGYcE_48.107269_5.153730@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b115313ea2dc92577f6393c2b679ae0",
+    "wof:geomhash":"9859bc8911fb372752db0205599924a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071879,
+            "empire_id":136253037,
             "locality_id":101766225,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152102473
         }
     ],
     "wof:id":152102473,
-    "wof:lastmodified":1473798245,
+    "wof:lastmodified":1496785192,
     "wof:name":"Barrel Cdm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.32842,46.5784,0.32842,46.5784",
     "geom:latitude":46.5784,
     "geom:longitude":0.32842,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_1xCMiwySH18l8lbmNQkuLZ_46.578400_0.328420@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"518e76b9953f05424a1eb7adf88aeb8a",
+    "wof:geomhash":"0fd83c814e8ae4bfc2960c82d03a1563",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152044607
         }
     ],
     "wof:id":152044607,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496775868,
     "wof:name":"Association De Gestion De Lirts (agirts)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

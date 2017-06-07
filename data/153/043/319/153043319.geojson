@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.825872,46.108063,5.825872,46.108063",
     "geom:latitude":46.108063,
     "geom:longitude":5.825872,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767975,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404383667,
+        85633147,
+        1108826389,
+        101767975,
+        136253037,
         102064803
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6u2mnV8cR5klwEYoDe1AQc_46.108063_5.825872@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1402e08ee90619625f3db09f5797f77",
+    "wof:geomhash":"8a9963a465c7359fcf48c82c1369584e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064803,
+            "empire_id":136253037,
+            "localadmin_id":404383667,
             "locality_id":101767975,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":153043319
         }
     ],
     "wof:id":153043319,
-    "wof:lastmodified":1473797965,
+    "wof:lastmodified":1496780010,
     "wof:name":"A.d.c. Informatique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

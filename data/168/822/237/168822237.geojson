@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.427663,43.105732,-0.427663,43.105732",
     "geom:latitude":43.105732,
     "geom:longitude":-0.427663,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773885,
-        85633147,
         85683539,
+        102191581,
+        404227939,
+        404356763,
+        85633147,
+        1108826385,
+        101773885,
+        136253037,
         102064929
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3xhYC1rJ3cavFTxEORLaLg_43.105732_-0.427663@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6225b42c136f18ed8815a132f39ed448",
+    "wof:geomhash":"72e57f20b34b48cd15187cbadb64cd19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064929,
+            "empire_id":136253037,
+            "localadmin_id":404356763,
             "locality_id":101773885,
+            "macrocounty_id":404227939,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":168822237
         }
     ],
     "wof:id":168822237,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496775728,
     "wof:name":"Banque Populaire Du Sud-ouest S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

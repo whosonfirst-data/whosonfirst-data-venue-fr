@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.628438,50.311684,3.628438,50.311684",
     "geom:latitude":50.311684,
     "geom:longitude":3.628438,
@@ -28,9 +29,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811365,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404419727,
+        85633147,
+        1108826399,
+        101811365,
+        136253037,
         102071555
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_2d2m2IwAQksfsNXGmPcAqb_50.311684_3.628438@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"134f27dd3b27491660ed90f1fa7a6462",
+    "wof:geomhash":"dfaea0f95c2263ebb35f965a7b0f1fc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071555,
+            "empire_id":136253037,
+            "localadmin_id":404419727,
             "locality_id":101811365,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136309579
         }
     ],
     "wof:id":136309579,
-    "wof:lastmodified":1473798009,
+    "wof:lastmodified":1496792198,
     "wof:name":"Brasserie Duyck Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

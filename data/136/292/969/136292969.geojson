@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.269893,43.619629,2.269893,43.619629",
     "geom:latitude":43.619629,
     "geom:longitude":2.269893,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831833,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831833,
+        136253037,
         102072325
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_1fBGBmZHwc5P7ckNUl1GsA_43.619629_2.269893@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"11a9a7cb248f4bfd233521b9920cd21c",
+    "wof:geomhash":"e7b063e755b75e2016a76ab9ca6167dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072325,
+            "empire_id":136253037,
             "locality_id":101831833,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136292969
         }
     ],
     "wof:id":136292969,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496803445,
     "wof:name":"Office De Procedure Juridique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

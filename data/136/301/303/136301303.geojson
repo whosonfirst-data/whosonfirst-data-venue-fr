@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.030986,45.62059,-1.030986,45.62059",
     "geom:latitude":45.62059,
     "geom:longitude":-1.030986,
@@ -28,9 +29,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829171,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404227833,
+        1108826385,
+        101829171,
+        136253037,
         102072059
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_7jFwcJ6PmYf6d5lZNurXe2_45.620590_-1.030986@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"547fd8b4c11b5d44a6fcaf3a21a9d4dd",
+    "wof:geomhash":"5fabe8068dffb2760b0a92b33f2de2cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072059,
+            "empire_id":136253037,
             "locality_id":101829171,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136301303
         }
     ],
     "wof:id":136301303,
-    "wof:lastmodified":1473797998,
+    "wof:lastmodified":1496775549,
     "wof:name":"Caisse Regionale De Cr\u00e9dit, Maritime Mutuel Du Finist\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

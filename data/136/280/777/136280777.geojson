@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.106563,49.075611,6.106563,49.075611",
     "geom:latitude":49.075611,
     "geom:longitude":6.106563,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750109,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404420333,
+        85633147,
+        1108826391,
+        101750109,
+        136253037,
         102070811
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2EXAvS6dRh0IJM07ZnyGFC_49.075611_6.106563@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f479c7bb6f9870d9a3f7c89f684c2af2",
+    "wof:geomhash":"bc688f862c7c0c5b51cca9a228da05d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070811,
+            "empire_id":136253037,
+            "localadmin_id":404420333,
             "locality_id":101750109,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136280777
         }
     ],
     "wof:id":136280777,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496786350,
     "wof:name":"La Kermesse Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

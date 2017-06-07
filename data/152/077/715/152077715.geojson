@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.66958,45.197781,0.66958,45.197781",
     "geom:latitude":45.197781,
     "geom:longitude":0.66958,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830681,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404351339,
+        85633147,
+        1108826385,
+        101830681,
+        136253037,
         102071571
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5f85w6zTeYNVKOZERrVm8b_45.197781_0.669580@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7a20a2710aeef559dfc7d934dce7c786",
+    "wof:geomhash":"ecd8233596ae1465ebb847b8dd5e2003",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071571,
+            "empire_id":136253037,
+            "localadmin_id":404351339,
             "locality_id":101830681,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152077715
         }
     ],
     "wof:id":152077715,
-    "wof:lastmodified":1473798148,
+    "wof:lastmodified":1496777426,
     "wof:name":"Cef (comptoir Electrique Francais)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

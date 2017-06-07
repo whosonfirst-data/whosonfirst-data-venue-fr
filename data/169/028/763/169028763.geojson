@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.543172,49.990162,1.543172,49.990162",
     "geom:latitude":49.990162,
     "geom:longitude":1.543172,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812499,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404366809,
+        85633147,
+        1108826399,
+        101812499,
+        136253037,
         102068363
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5yh0WqM8l2lPo5oDSDQcDx_49.990162_1.543172@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"42f2fedb85b813ad4f499d20167d029c",
+    "wof:geomhash":"7ae0f5bc09fc5f2be2d5075d1b893bb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068363,
+            "empire_id":136253037,
+            "localadmin_id":404366809,
             "locality_id":101812499,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169028763
         }
     ],
     "wof:id":169028763,
-    "wof:lastmodified":1473797961,
+    "wof:lastmodified":1496790461,
     "wof:name":"Le Joint De Picardie S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

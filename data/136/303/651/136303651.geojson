@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.034167,47.323139,5.034167,47.323139",
     "geom:latitude":47.323139,
     "geom:longitude":5.034167,
@@ -27,9 +28,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_1dY2RIwbiV6AIxFokjLKnq_47.323139_5.034167@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1b740dd3e8c6240c3d7499f880a98ace",
+    "wof:geomhash":"e019f6a5020bcbf34b40ba4a0d7fb622",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136303651
         }
     ],
     "wof:id":136303651,
-    "wof:lastmodified":1473798023,
+    "wof:lastmodified":1496794888,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

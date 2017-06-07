@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.93764,46.432304,4.93764,46.432304",
     "geom:latitude":46.432304,
     "geom:longitude":4.93764,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766289,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404376289,
+        85633147,
+        1108826389,
+        101766289,
+        136253037,
         102069109
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7VyuHcTwnA7Qx44gGfjB49_46.432304_4.937640@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7de380c39e63517d44101851b77df226",
+    "wof:geomhash":"ad016a320dd5ea0759f1b5663618d9e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069109,
+            "empire_id":136253037,
+            "localadmin_id":404376289,
             "locality_id":101766289,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152554649
         }
     ],
     "wof:id":152554649,
-    "wof:lastmodified":1473798468,
+    "wof:lastmodified":1496799889,
     "wof:name":"Jousseau M\u00e9canique Productique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.47529,49.259861,2.47529,49.259861",
     "geom:latitude":49.259861,
     "geom:longitude":2.47529,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828469,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404426731,
+        85633147,
+        1108826399,
+        101828469,
+        136253037,
         102072383
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3JGcBVSTDOoa1A3NyctimE_49.259861_2.475290@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c49313713dd023b4be6f2f6ea840e8ed",
+    "wof:geomhash":"37d24d29e6a2d9c1cb6b3280dc17481f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072383,
+            "empire_id":136253037,
+            "localadmin_id":404426731,
             "locality_id":101828469,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136295765
         }
     ],
     "wof:id":136295765,
-    "wof:lastmodified":1473797949,
+    "wof:lastmodified":1496795608,
     "wof:name":"Mutuelle Generale De L'oise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

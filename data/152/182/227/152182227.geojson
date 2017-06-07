@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.09564,49.41711,1.09564,49.41711",
     "geom:latitude":49.41711,
     "geom:longitude":1.09564,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751465,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751465,
+        136253037,
         102071947
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_53j9y1wVVFvoyMHSn0GlcO_49.417110_1.095640@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e595ee963bbb612bb269b931612b5f8f",
+    "wof:geomhash":"eae34f3443b7b10ded9721e49197a773",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071947,
+            "empire_id":136253037,
             "locality_id":101751465,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152182227
         }
     ],
     "wof:id":152182227,
-    "wof:lastmodified":1473798310,
+    "wof:lastmodified":1496804830,
     "wof:name":"Normandie Gravure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

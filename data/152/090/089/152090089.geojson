@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.919962,48.034081,4.919962,48.034081",
     "geom:latitude":48.034081,
     "geom:longitude":4.919962,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766217,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404428219,
+        85633147,
+        1108826391,
+        101766217,
+        136253037,
         102065241
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_70WU9aixAePvqihzyOj6Zm_48.034081_4.919962@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"23a87e99e4820fe0a11ddb403553ef67",
+    "wof:geomhash":"593085eb4c4c936fcc56b096409372ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065241,
+            "empire_id":136253037,
+            "localadmin_id":404428219,
             "locality_id":101766217,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152090089
         }
     ],
     "wof:id":152090089,
-    "wof:lastmodified":1473798168,
+    "wof:lastmodified":1496786293,
     "wof:name":"M. Cousin Gilbert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

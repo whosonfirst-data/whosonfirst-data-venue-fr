@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.515835,49.55183,2.515835,49.55183",
     "geom:latitude":49.55183,
     "geom:longitude":2.515835,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814943,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404371393,
+        85633147,
+        1108826399,
+        101814943,
+        136253037,
         102068223
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1IwljV3i6ixmD0gkSABhxM_49.551830_2.515835@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a16b865d6f7164c2017369552bcb473d",
+    "wof:geomhash":"2960c6c5fcfd370c36ab24984415b322",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068223,
+            "empire_id":136253037,
+            "localadmin_id":404371393,
             "locality_id":101814943,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136283561
         }
     ],
     "wof:id":136283561,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496790153,
     "wof:name":"Applications Industrielles (ai)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

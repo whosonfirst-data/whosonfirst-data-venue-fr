@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.482963,44.921577,-0.482963,44.921577",
     "geom:latitude":44.921577,
     "geom:longitude":-0.482963,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748975,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404365751,
+        85633147,
+        1108826385,
+        101748975,
+        136253037,
         102067811
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0hdepnPqo7fWkIc3S25ziG_44.921577_-0.482963@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99892b6b469283ffa0f43ada8500a195",
+    "wof:geomhash":"4a48edcd74b7a9f39e8b0c7406886d7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067811,
+            "empire_id":136253037,
+            "localadmin_id":404365751,
             "locality_id":101748975,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152214473
         }
     ],
     "wof:id":152214473,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1496776962,
     "wof:name":"Pompes Funebres Privees Europeennes B Quintana Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

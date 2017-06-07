@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.92224,45.591163,5.92224,45.591163",
     "geom:latitude":45.591163,
     "geom:longitude":5.92224,
@@ -37,9 +38,13 @@
     "sg:website":"http://www.newquest.fr",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749323,
-        85633147,
         85683265,
+        102191581,
+        85633147,
+        404227959,
+        1108826389,
+        101749323,
+        136253037,
         102072471
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_078u6lkKA08qJJprWrwWIe_45.591163_5.922240@1308163238"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c5d74ccdb6396573d0f5b9d0bb4024a",
+    "wof:geomhash":"72cba6e2d5229c604647a7d6c53628bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072471,
+            "empire_id":136253037,
             "locality_id":101749323,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":169248503
         }
     ],
     "wof:id":169248503,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496779851,
     "wof:name":"NewQuest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

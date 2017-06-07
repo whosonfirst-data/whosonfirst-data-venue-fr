@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.821959,45.150249,-0.821959,45.150249",
     "geom:latitude":45.150249,
     "geom:longitude":-0.821959,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769371,
-        85633147,
         85683243,
+        102191581,
+        404228221,
+        404368795,
+        85633147,
+        1108826385,
+        101769371,
+        136253037,
         102071219
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4aAfeSLV8B4JEGv1KHRRHP_45.150249_-0.821959@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e7341b7d2dd4fe7b66c6b85bccb38675",
+    "wof:geomhash":"86016010f67f4f73dc33a70120086139",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071219,
+            "empire_id":136253037,
+            "localadmin_id":404368795,
             "locality_id":101769371,
+            "macrocounty_id":404228221,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136287101
         }
     ],
     "wof:id":136287101,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496776429,
     "wof:name":"Agri Medoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.754775,47.574718,6.754775,47.574718",
     "geom:latitude":47.574718,
     "geom:longitude":6.754775,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765599,
-        85633147,
         85683559,
+        102191581,
+        85633147,
+        404227739,
+        1108826395,
+        101765599,
+        136253037,
         102071981
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6reTtkxwMpYPn278izjAQU_47.574718_6.754775@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a97c816e71de095e146462db80bc4541",
+    "wof:geomhash":"91749c661686029456b9ae17ac42d694",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071981,
+            "empire_id":136253037,
             "locality_id":101765599,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152139187
         }
     ],
     "wof:id":152139187,
-    "wof:lastmodified":1473798294,
+    "wof:lastmodified":1496789252,
     "wof:name":"Etfa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.459057,45.635048,4.459057,45.635048",
     "geom:latitude":45.635048,
     "geom:longitude":4.459057,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769491,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404404039,
+        85633147,
+        1108826389,
+        101769491,
+        136253037,
         102069461
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1slkn1lg7Drbr81GQYc2R0_45.635048_4.459057@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f4d96bf87355369f8aa6b50cc22ef1cc",
+    "wof:geomhash":"5c0841aa5cc1b11faa58cb3d07433aea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069461,
+            "empire_id":136253037,
+            "localadmin_id":404404039,
             "locality_id":101769491,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153080837
         }
     ],
     "wof:id":153080837,
-    "wof:lastmodified":1473797990,
+    "wof:lastmodified":1496780033,
     "wof:name":"Ateliers Rhodaniens Joly S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

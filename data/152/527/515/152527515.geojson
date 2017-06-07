@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.881541,48.007622,6.881541,48.007622",
     "geom:latitude":48.007622,
     "geom:longitude":6.881541,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764843,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404359277,
+        85633147,
+        1108826391,
+        101764843,
+        136253037,
         102068935
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1pf9bULTafhN19y7O0ZsyW_48.007622_6.881541@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0fe30e64f878ee71d5f9bf9902013560",
+    "wof:geomhash":"adde0f36256e2c9dfc693736efe29fcb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068935,
+            "empire_id":136253037,
+            "localadmin_id":404359277,
             "locality_id":101764843,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152527515
         }
     ],
     "wof:id":152527515,
-    "wof:lastmodified":1473798446,
+    "wof:lastmodified":1496785567,
     "wof:name":"H\u00f4tel Les Vall\u00e9es",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

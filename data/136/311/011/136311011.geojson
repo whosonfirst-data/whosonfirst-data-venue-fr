@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.195807,48.679974,6.195807,48.679974",
     "geom:latitude":48.679974,
     "geom:longitude":6.195807,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4OnAx1u5sEU6GVkfxrzHrg_48.679974_6.195807@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"97090c051fb729743c7b074c6007ec5e",
+    "wof:geomhash":"db3b8ffe5ccea0b513581b18e65288fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":136311011
         }
     ],
     "wof:id":136311011,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496784815,
     "wof:name":"Arep Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.388887,45.43755,4.388887,45.43755",
     "geom:latitude":45.43755,
     "geom:longitude":4.388887,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1fTC0rkuvCIcp1BFH5uwXM_45.437550_4.388887@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a9bce16eff3a8bb5a2e7bc810573dc4",
+    "wof:geomhash":"e2c6b49ef5a9dcba6a2cd617ca59057e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152107395
         }
     ],
     "wof:id":152107395,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496780476,
     "wof:name":"Laboratoire De Correction Auditive De Saint Etienne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

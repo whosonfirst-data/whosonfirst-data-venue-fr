@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.93112,49.94212,2.93112,49.94212",
     "geom:latitude":49.94212,
     "geom:longitude":2.93112,
@@ -27,9 +28,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812553,
-        85633147,
         85683363,
+        102191581,
+        404228267,
+        404362145,
+        85633147,
+        1108826399,
+        101812553,
+        136253037,
         102070349
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_0J30o2vRI5ehPQyLurQ5hj_49.942120_2.931120@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ffb9aeaeae50a8df8a38e543e11198a7",
+    "wof:geomhash":"822fee6120dbc50d276866c940b92967",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070349,
+            "empire_id":136253037,
+            "localadmin_id":404362145,
             "locality_id":101812553,
+            "macrocounty_id":404228267,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152889661
         }
     ],
     "wof:id":152889661,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496791295,
     "wof:name":"Compagnie Europeenne D'accumulateurs (ceac)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

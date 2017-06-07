@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.71498,49.192921,0.71498,49.192921",
     "geom:latitude":49.192921,
     "geom:longitude":0.71498,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761621,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404348465,
+        85633147,
+        1108826393,
+        101761621,
+        136253037,
         102065903
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6M52xG4tWOKaYXyFXpjj7E_49.192921_0.714980@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5fce8f0712c87e911d7b915f6a7ae205",
+    "wof:geomhash":"3a8f1a27a554c10a28e08207c436553b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065903,
+            "empire_id":136253037,
+            "localadmin_id":404348465,
             "locality_id":101761621,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152086089
         }
     ],
     "wof:id":152086089,
-    "wof:lastmodified":1473798120,
+    "wof:lastmodified":1496786945,
     "wof:name":"Fort James",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

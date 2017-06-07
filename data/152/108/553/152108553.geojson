@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.651111,46.11953,0.651111,46.11953",
     "geom:latitude":46.11953,
     "geom:longitude":0.651111,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766957,
-        85633147,
         85683185,
+        102191581,
+        404227985,
+        404405819,
+        85633147,
+        1108826385,
+        101766957,
+        136253037,
         102064363
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_74OSyX5Qn3rHL2blimGhgU_46.119530_0.651111@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea2a85afd99b2f10f214cfddaaaab12d",
+    "wof:geomhash":"220eeef5f0e5b49d525269be7652b4da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064363,
+            "empire_id":136253037,
+            "localadmin_id":404405819,
             "locality_id":101766957,
+            "macrocounty_id":404227985,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152108553
         }
     ],
     "wof:id":152108553,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496775615,
     "wof:name":"Verrerie Du Moulin De Sazat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

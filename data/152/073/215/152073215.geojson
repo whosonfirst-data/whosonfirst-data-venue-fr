@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.93325,47.05748,3.93325,47.05748",
     "geom:latitude":47.05748,
     "geom:longitude":3.93325,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768473,
-        85633147,
         85683359,
+        102191581,
+        404227713,
+        404408335,
+        85633147,
+        1108826395,
+        101768473,
+        136253037,
         102064669
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4sry4U6YXhL08Pc2vRUP9M_47.057480_3.933250@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fdcc4fdf8d48ee22a722d1b6f0c0ebe",
+    "wof:geomhash":"0b87da6ea6f418adfc020d4970cdce6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064669,
+            "empire_id":136253037,
+            "localadmin_id":404408335,
             "locality_id":101768473,
+            "macrocounty_id":404227713,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152073215
         }
     ],
     "wof:id":152073215,
-    "wof:lastmodified":1473798123,
+    "wof:lastmodified":1496789032,
     "wof:name":"Lyonnaise Des Eaux France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

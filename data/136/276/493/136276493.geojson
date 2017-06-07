@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.559858,44.857754,-0.559858,44.857754",
     "geom:latitude":44.857754,
     "geom:longitude":-0.559858,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qH3xRFZgMH5UBNeoSbKnW_44.857754_-0.559858@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"690a0d2ffbd43449d5a393f474a553e3",
+    "wof:geomhash":"64cf07b72a64581818188066ccb8c309",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":136276493
         }
     ],
     "wof:id":136276493,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496777138,
     "wof:name":"Compagnie Expertise Comptable Du Sud Ouest Imm Concorde",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

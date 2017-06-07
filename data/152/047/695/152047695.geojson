@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.34886,45.475716,4.34886,45.475716",
     "geom:latitude":45.475716,
     "geom:longitude":4.34886,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750843,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101750843,
+        136253037,
         102068273
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_317tpcL1ZVPZAAcw5RiATo_45.475716_4.348860@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"caa78bb930e7f49ac57b727ee43d0fc7",
+    "wof:geomhash":"e9ed88e9e6215b9bd945ddf1164e92bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068273,
+            "empire_id":136253037,
             "locality_id":101750843,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152047695
         }
     ],
     "wof:id":152047695,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496800068,
     "wof:name":"Cafeteria Casino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

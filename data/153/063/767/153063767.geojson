@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.757786,48.604,7.757786,48.604",
     "geom:latitude":48.604,
     "geom:longitude":7.757786,
@@ -24,11 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85897717,
+        102191581,
         85633147,
+        404228317,
+        404227419,
         101751113,
         102072577,
-        85897717
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,19 @@
     "wof:geomhash":"7bb5b08388dcf1507a2399a4aa5fb177",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072577,
             "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":404227419,
             "neighbourhood_id":85897717,
             "region_id":85683221,
             "venue_id":153063767
         }
     ],
     "wof:id":153063767,
-    "wof:lastmodified":1473797961,
+    "wof:lastmodified":1491907202,
     "wof:name":"Air Products S.a.",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",

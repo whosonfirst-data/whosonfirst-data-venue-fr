@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.381374,45.440094,4.381374,45.440094",
     "geom:latitude":45.440094,
     "geom:longitude":4.381374,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2KWykZriQD2jkTdSpFGwcb_45.440094_4.381374@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8e989d07ad9090f4fc3e8f7b74db79ae",
+    "wof:geomhash":"705e5a1dc7d726afa7da19dcf3bf92bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152449925
         }
     ],
     "wof:id":152449925,
-    "wof:lastmodified":1473798418,
+    "wof:lastmodified":1496779621,
     "wof:name":"Etablissements Calvet Et Fils S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

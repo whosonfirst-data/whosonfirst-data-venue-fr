@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.912184,50.772247,1.912184,50.772247",
     "geom:latitude":50.772247,
     "geom:longitude":1.912184,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899159,
-        85633147,
         85683255,
+        102191581,
+        404228305,
+        404385599,
+        85633147,
+        1108826399,
+        101899159,
+        136253037,
         102069059
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2qPu4QTBlW2Fr29SjG7w6m_50.772247_1.912184@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cf8281eecb99392f0c633ff9531a8655",
+    "wof:geomhash":"3e48a6c5500a4fad46f6a545a1c1922c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069059,
+            "empire_id":136253037,
+            "localadmin_id":404385599,
             "locality_id":101899159,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152066585
         }
     ],
     "wof:id":152066585,
-    "wof:lastmodified":1473798042,
+    "wof:lastmodified":1496790390,
     "wof:name":"Etienne Wacheux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

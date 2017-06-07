@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.861192,45.7696,4.861192,45.7696",
     "geom:latitude":45.7696,
     "geom:longitude":4.861192,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7A4Vv4z8aVjhXj9NDWU4Qp_45.769600_4.861192@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f95de4ff8d101312c9c98a0ede692e0f",
+    "wof:geomhash":"e884e1b32df18351ea1bc8bd60741a28",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136277017
         }
     ],
     "wof:id":136277017,
-    "wof:lastmodified":1473797859,
+    "wof:lastmodified":1496781023,
     "wof:name":"Dtz Jean Thouard Sa",
-    "wof:parent_id":101749431,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

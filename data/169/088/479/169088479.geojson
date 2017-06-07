@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.939017,45.756165,4.939017,45.756165",
     "geom:latitude":45.756165,
     "geom:longitude":4.939017,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_05T5s0IJ7vZV38CiCfOFe9_45.756165_4.939017@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3fce2e4c8b8e793b30c785f76621a3d4",
+    "wof:geomhash":"2105a9a26ac859e99b399eac850da73d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169088479
         }
     ],
     "wof:id":169088479,
-    "wof:lastmodified":1473798075,
+    "wof:lastmodified":1496780547,
     "wof:name":"Pasqual M\u00e9canique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

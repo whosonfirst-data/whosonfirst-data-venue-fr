@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.058244,43.217609,0.058244,43.217609",
     "geom:latitude":43.217609,
     "geom:longitude":0.058244,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831665,
-        85633147,
         85683203,
+        102191581,
+        404228139,
+        404425271,
+        85633147,
+        1108826387,
+        101831665,
+        136253037,
         102070451
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1OTO2scKAs0IyE66Kf7KKz_43.217609_0.058244@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"302f5987e231422cd000761079e2d928",
+    "wof:geomhash":"2c67622848009b9566c0ae3e4b6cbbd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070451,
+            "empire_id":136253037,
+            "localadmin_id":404425271,
             "locality_id":101831665,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152081759
         }
     ],
     "wof:id":152081759,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496803656,
     "wof:name":"Societe Nationale Des Gaz Du Sud Ouest (gso)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.739324,45.188847,5.739324,45.188847",
     "geom:latitude":45.188847,
     "geom:longitude":5.739324,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3R3e0u9yvaAl07Y3QoanVS_45.188847_5.739324@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"001bd8376647593d79685932c3881d5e",
+    "wof:geomhash":"d3db23b54880624184ec6d69b75214fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152116193
         }
     ],
     "wof:id":152116193,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496801980,
     "wof:name":"Cap Gemini",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

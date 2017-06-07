@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.634644,50.725868,1.634644,50.725868",
     "geom:latitude":50.725868,
     "geom:longitude":1.634644,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839597,
-        85633147,
         85683255,
+        102191581,
+        404228131,
+        404360067,
+        85633147,
+        1108826399,
+        101839597,
+        136253037,
         102066945
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7CSnb6ttz2gCPk79eDaE0J_50.725868_1.634644@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ed923c3f3f5d623d90dc8cd242acaee3",
+    "wof:geomhash":"6e255c03ba3e7a4f335dcfb550bb982b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066945,
+            "empire_id":136253037,
+            "localadmin_id":404360067,
             "locality_id":101839597,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152341023
         }
     ],
     "wof:id":152341023,
-    "wof:lastmodified":1473798374,
+    "wof:lastmodified":1496792672,
     "wof:name":"C.v.p. Alimentation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

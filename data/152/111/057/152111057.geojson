@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.560205,47.074032,4.560205,47.074032",
     "geom:latitude":47.074032,
     "geom:longitude":4.560205,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890663,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404348053,
+        85633147,
+        1108826395,
+        101890663,
+        136253037,
         102064453
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4tIa07mQIK596js0HPle09_47.074032_4.560205@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fa3edc203275a52784bfbb97172609dc",
+    "wof:geomhash":"dfba23be2d6ccd880bb5618ea5febbde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064453,
+            "empire_id":136253037,
+            "localadmin_id":404348053,
             "locality_id":101890663,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152111057
         }
     ],
     "wof:id":152111057,
-    "wof:lastmodified":1473798249,
+    "wof:lastmodified":1496788779,
     "wof:name":"Marqueterie Gauthey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.005716,47.273849,5.005716,47.273849",
     "geom:latitude":47.273849,
     "geom:longitude":5.005716,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749555,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404417105,
+        85633147,
+        1108826395,
+        101749555,
+        136253037,
         102070853
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7mtipdsPBkbZJ2UtOsU2My_47.273849_5.005716@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8028322d14372f54ef20607972953b2f",
+    "wof:geomhash":"f64db314a15fb9e54d1ffa14c3b01b04",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070853,
+            "empire_id":136253037,
+            "localadmin_id":404417105,
             "locality_id":101749555,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152114909
         }
     ],
     "wof:id":152114909,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496789303,
     "wof:name":"General Trailers France (gt)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

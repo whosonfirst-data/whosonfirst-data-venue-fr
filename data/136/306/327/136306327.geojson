@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.07434,48.297871,4.07434,48.297871",
     "geom:latitude":48.297871,
     "geom:longitude":4.07434,
@@ -27,9 +28,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750981,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404405659,
+        85633147,
+        1108826391,
+        101750981,
+        136253037,
         102072497
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_77mwnE7kdFKV4jp9xV7lmv_48.297871_4.074340@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1ecd39a5ffe25b00c4e8d6b9d0d366c",
+    "wof:geomhash":"bff8597b74362a1f1d88e5f5807f5bc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072497,
+            "empire_id":136253037,
+            "localadmin_id":404405659,
             "locality_id":101750981,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":136306327
         }
     ],
     "wof:id":136306327,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496805452,
     "wof:name":"Sedis 1",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

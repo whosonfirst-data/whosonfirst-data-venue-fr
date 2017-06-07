@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.744275,46.287575,2.744275,46.287575",
     "geom:latitude":46.287575,
     "geom:longitude":2.744275,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766491,
-        85633147,
         85683293,
+        102191581,
+        404227589,
+        404368217,
+        85633147,
+        1108826389,
+        101766491,
+        136253037,
         102065007
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0USs44bt4sJQXyq0HTaDw6_46.287575_2.744275@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e6da54f206e8a871d832472622772907",
+    "wof:geomhash":"9f642616288f98a0ffbd8aab610affbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065007,
+            "empire_id":136253037,
+            "localadmin_id":404368217,
             "locality_id":101766491,
+            "macrocounty_id":404227589,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152178197
         }
     ],
     "wof:id":152178197,
-    "wof:lastmodified":1473798310,
+    "wof:lastmodified":1496780278,
     "wof:name":"Erasteel Commentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823182,45.760441,4.823182,45.760441",
     "geom:latitude":45.760441,
     "geom:longitude":4.823182,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0oKnSPdDCYvm8fR8GbG87s_45.760441_4.823182@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"92e1ee99b3154ccf3ba6d7d9613619bd",
+    "wof:geomhash":"bf7eda24c014f863af17be83ef36e52c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152045877
         }
     ],
     "wof:id":152045877,
-    "wof:lastmodified":1473797957,
+    "wof:lastmodified":1496781508,
     "wof:name":"Fondation Ecam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

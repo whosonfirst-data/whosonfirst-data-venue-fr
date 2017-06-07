@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.05092,50.623238,3.05092,50.623238",
     "geom:latitude":50.623238,
     "geom:longitude":3.05092,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7llIVtlwHhixnbCVqTacxe_50.623238_3.050920@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea6373cc6f737f4f667271e9ca657d0e",
+    "wof:geomhash":"a248f27de2017a5ec799d11fe10b367c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":168899083
         }
     ],
     "wof:id":168899083,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1496791314,
     "wof:name":"Delahay S.a.r.l.",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

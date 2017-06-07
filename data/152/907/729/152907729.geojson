@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.069667,49.233292,4.069667,49.233292",
     "geom:latitude":49.233292,
     "geom:longitude":4.069667,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_4oFezTtwIcslLTN3NvZgE0_49.233292_4.069667@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7c2c3f874f635b740d95297b23222a8d",
+    "wof:geomhash":"ca1aadfddde8687197de26138dfb0132",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152907729
         }
     ],
     "wof:id":152907729,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496805538,
     "wof:name":"Age Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

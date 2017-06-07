@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.00626,48.750072,0.00626,48.750072",
     "geom:latitude":48.750072,
     "geom:longitude":0.00626,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762603,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404357711,
+        85633147,
+        1108826393,
+        101762603,
+        136253037,
         102072163
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3EXCV2Jdn66Pd9pQ3dXjAX_48.750072_0.006260@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"db6c3c1d56db38d4555ab9cd2a86eb17",
+    "wof:geomhash":"3dde553115c6aa4aac0a1d7bd15498e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072163,
+            "empire_id":136253037,
+            "localadmin_id":404357711,
             "locality_id":101762603,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152195155
         }
     ],
     "wof:id":152195155,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496787046,
     "wof:name":"Ateliers Normands De Precision Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

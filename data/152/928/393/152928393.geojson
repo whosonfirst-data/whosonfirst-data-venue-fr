@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.590918,44.83139,-0.590918,44.83139",
     "geom:latitude":44.83139,
     "geom:longitude":-0.590918,
@@ -32,30 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897679,
+        102191581,
         85633147,
-        101750765,
-        102072149,
-        85897679
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z5RNhGNzJgQoqTW9k0uX1_44.831390_-0.590918@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abb2c5378ff39f7c47ce3e0976d11709",
+    "wof:geomhash":"5c8196332594396f6df96882b3aca25e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072149,
-            "locality_id":101750765,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897679,
             "region_id":85683243,
             "venue_id":152928393
         }
     ],
     "wof:id":152928393,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496777136,
     "wof:name":"Kossmann Laboratoire",
     "wof:parent_id":85897679,
     "wof:placetype":"venue",

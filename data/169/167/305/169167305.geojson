@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.551226,46.678551,5.551226,46.678551",
     "geom:latitude":46.678551,
     "geom:longitude":5.551226,
@@ -22,9 +23,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_1gr00JAmIXJv4oO19hso5g_46.678551_5.551226@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"983fa3fabd27c3aab3d24f508cf02509",
+    "wof:geomhash":"bf5a50ee70fd2355d24dc022476d648e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":169167305
         }
     ],
     "wof:id":169167305,
-    "wof:lastmodified":1473798202,
+    "wof:lastmodified":1496788398,
     "wof:name":"Soci\u00e9t\u00e9 Franc-comtoise D'expertise Comptable S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

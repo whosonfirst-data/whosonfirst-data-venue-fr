@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.522451,50.355381,3.522451,50.355381",
     "geom:latitude":50.355381,
     "geom:longitude":3.522451,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840599,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840599,
+        136253037,
         102072385
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4sUwIF1G7DjKjEUkMOpMKN_50.355381_3.522451@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1a1418bd79b7aa2ee788516429afa073",
+    "wof:geomhash":"b025e42e30158dbae3396ffc13558f09",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840599,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136276931
         }
     ],
     "wof:id":136276931,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496792638,
     "wof:name":"Delcourt R Cliquet A Et Bauduin A",
-    "wof:parent_id":101840599,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

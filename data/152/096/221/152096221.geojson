@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.874331,45.392853,3.874331,45.392853",
     "geom:latitude":45.392853,
     "geom:longitude":3.874331,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895271,
-        85633147,
         85683471,
+        102191581,
+        404227725,
+        404382605,
+        85633147,
+        1108826389,
+        101895271,
+        136253037,
         102071557
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1J4M7lFQ2teLGqYsibCd1o_45.392853_3.874331@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70df72347577069b78dcbdd79b1c1395",
+    "wof:geomhash":"429050d67d3e6e22ff35f84331ddc65c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071557,
+            "empire_id":136253037,
+            "localadmin_id":404382605,
             "locality_id":101895271,
+            "macrocounty_id":404227725,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152096221
         }
     ],
     "wof:id":152096221,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496806399,
     "wof:name":"Ste D Exploitation Des Ets Paul Morel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

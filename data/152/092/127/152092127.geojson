@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.350519,48.090469,7.350519,48.090469",
     "geom:latitude":48.090469,
     "geom:longitude":7.350519,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_0dntjck2R5kDIaXPBMMCW4_48.090469_7.350519@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b71d796b8c38459a9692a5e2aeb1e52",
+    "wof:geomhash":"303b7b8f621e8bf81ec1783ca33c94de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152092127
         }
     ],
     "wof:id":152092127,
-    "wof:lastmodified":1473798179,
+    "wof:lastmodified":1496793429,
     "wof:name":"Electricite Meyer Daniel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

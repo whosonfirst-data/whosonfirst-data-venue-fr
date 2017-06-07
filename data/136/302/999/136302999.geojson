@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.26688,47.357655,5.26688,47.357655",
     "geom:latitude":47.357655,
     "geom:longitude":5.26688,
@@ -29,9 +30,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765693,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404357893,
+        85633147,
+        1108826395,
+        101765693,
+        136253037,
         102068007
     ],
     "wof:brand_id":420575203,
@@ -40,18 +46,23 @@
         "sg:id":"SG_5eyxiqw7Yl2Cl6a92eaJXa_47.357655_5.266880@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfddb68e38428cf8e11a927da7c6ab64",
+    "wof:geomhash":"a5eed00dc1c5f94a4c6e4578b48f3772",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068007,
+            "empire_id":136253037,
+            "localadmin_id":404357893,
             "locality_id":101765693,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136302999
         }
     ],
     "wof:id":136302999,
-    "wof:lastmodified":1473798039,
+    "wof:lastmodified":1496788831,
     "wof:name":"Cr\u00e9dit Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

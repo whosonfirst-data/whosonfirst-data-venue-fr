@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.655456,46.860958,-0.655456,46.860958",
     "geom:latitude":46.860958,
     "geom:longitude":-0.655456,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888639,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404420003,
+        85633147,
+        1108826385,
+        101888639,
+        136253037,
         102065473
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0xA6yhrsCcjIBJvvX3ubR0_46.860958_-0.655456@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"68b72170a516eddcc629674daa6db503",
+    "wof:geomhash":"a28f95cc6c2bbe59a6af7a5dd343d885",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065473,
+            "empire_id":136253037,
+            "localadmin_id":404420003,
             "locality_id":101888639,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169060925
         }
     ],
     "wof:id":169060925,
-    "wof:lastmodified":1473798039,
+    "wof:lastmodified":1496775510,
     "wof:name":"Micheletti Modelage S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

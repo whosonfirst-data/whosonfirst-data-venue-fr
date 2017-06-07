@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.405165,46.312134,3.405165,46.312134",
     "geom:latitude":46.312134,
     "geom:longitude":3.405165,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766493,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404427727,
+        85633147,
+        1108826389,
+        101766493,
+        136253037,
         102069529
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_72nKXB6MXfKJd45U2T53T4_46.312134_3.405165@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70b9f519173580743ea037e909ad1146",
+    "wof:geomhash":"1d730b2d015ee196a3d18648d34122aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069529,
+            "empire_id":136253037,
+            "localadmin_id":404427727,
             "locality_id":101766493,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152961607
         }
     ],
     "wof:id":152961607,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496806390,
     "wof:name":"Lassalle Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

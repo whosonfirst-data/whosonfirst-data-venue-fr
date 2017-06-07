@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.038692,47.322308,5.038692,47.322308",
     "geom:latitude":47.322308,
     "geom:longitude":5.038692,
@@ -27,9 +28,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_7FNRmJwXWoG8Y1WKtAJW6N_47.322308_5.038692@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"67d34d9b9b4f4a9748edf4a6cb6f4a69",
+    "wof:geomhash":"e9df61c8566371b7dfc12dd7b5be235d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136305903
         }
     ],
     "wof:id":136305903,
-    "wof:lastmodified":1473798036,
+    "wof:lastmodified":1496794889,
     "wof:name":"Lyonnaise De Banque Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

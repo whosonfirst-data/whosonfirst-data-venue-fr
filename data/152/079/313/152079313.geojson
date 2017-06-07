@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.728769,48.001778,3.728769,48.001778",
     "geom:latitude":48.001778,
     "geom:longitude":3.728769,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766167,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404360981,
+        85633147,
+        1108826395,
+        101766167,
+        136253037,
         102068939
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1Cx3s1bl4r8mEO6ux1Wcz5_48.001778_3.728769@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf82afd428c2b7ebeb02237dc360a32c",
+    "wof:geomhash":"66ebbcde855265417cfbc280b12041db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068939,
+            "empire_id":136253037,
+            "localadmin_id":404360981,
             "locality_id":101766167,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152079313
         }
     ],
     "wof:id":152079313,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496789189,
     "wof:name":"Dubost Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

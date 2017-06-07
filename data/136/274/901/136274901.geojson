@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.791526,48.815277,7.791526,48.815277",
     "geom:latitude":48.815277,
     "geom:longitude":7.791526,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827857,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404348507,
+        85633147,
+        1108826391,
+        101827857,
+        136253037,
         102065935
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5R4LvJPzRUUY5RmPBcQqLs_48.815277_7.791526@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f08e56989a059ab04ecabffb12766cc9",
+    "wof:geomhash":"c6f3b766f80383fa8ba6b59da3aa2a2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065935,
+            "empire_id":136253037,
+            "localadmin_id":404348507,
             "locality_id":101827857,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136274901
         }
     ],
     "wof:id":136274901,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496784806,
     "wof:name":"Banque De L'economie Du Commerce Et De La Monetique",
-    "wof:parent_id":101827857,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

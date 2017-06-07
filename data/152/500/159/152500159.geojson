@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.463261,46.713284,4.463261,46.713284",
     "geom:latitude":46.713284,
     "geom:longitude":4.463261,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101853775,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404351259,
+        85633147,
+        1108826395,
+        101853775,
+        136253037,
         102070289
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1GT5epXcwBayPozDcra7cj_46.713284_4.463261@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cad7eeb81381be2c492c5754408fbbab",
+    "wof:geomhash":"eb4dba973f5d0f6a508dcb8a890281e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070289,
+            "empire_id":136253037,
+            "localadmin_id":404351259,
             "locality_id":101853775,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152500159
         }
     ],
     "wof:id":152500159,
-    "wof:lastmodified":1473798431,
+    "wof:lastmodified":1496794812,
     "wof:name":"Genevois P\u00e8re Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

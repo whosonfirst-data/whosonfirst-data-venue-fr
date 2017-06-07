@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.485949,44.855816,0.485949,44.855816",
     "geom:latitude":44.855816,
     "geom:longitude":0.485949,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1grbBU7qrUs6vF5Tx50IUh_44.855816_0.485949@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f9d82fc4e9c6f3c516cd84f58a8cace3",
+    "wof:geomhash":"123cf855644f1266b78275522b746710",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152857729
         }
     ],
     "wof:id":152857729,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496775545,
     "wof:name":"Import Produits Aliment Collectivites Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

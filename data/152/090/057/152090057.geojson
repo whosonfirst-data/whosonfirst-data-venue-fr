@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.79039,42.725208,-87.79039,42.725208",
     "geom:latitude":42.725208,
     "geom:longitude":-87.79039,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
+        85827169,
+        102191575,
+        404494985,
         85633793,
-        101732315,
+        101732325,
         102081763,
-        85827169
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +53,18 @@
     "wof:geomhash":"f50133766eb5d71caa8ad47811efaa4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081763,
-            "locality_id":101732315,
+            "localadmin_id":404494985,
+            "locality_id":101732325,
             "neighbourhood_id":85827169,
             "region_id":85688517,
             "venue_id":152090057
         }
     ],
     "wof:id":152090057,
-    "wof:lastmodified":1473798166,
+    "wof:lastmodified":1492088080,
     "wof:name":"Locau Sa",
     "wof:parent_id":85827169,
     "wof:placetype":"venue",

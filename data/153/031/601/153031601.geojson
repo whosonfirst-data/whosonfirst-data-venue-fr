@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.623195,49.300941,1.623195,49.300941",
     "geom:latitude":49.300941,
     "geom:longitude":1.623195,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760187,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404377027,
+        85633147,
+        1108826393,
+        101760187,
+        136253037,
         102066987
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_7kH5t27M19TbGpTxwqqpli_49.300941_1.623195@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b23b09a7f04a45e3adc1cfc6aea039c1",
+    "wof:geomhash":"095d66028d6431eeacd4069178754412",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066987,
+            "empire_id":136253037,
+            "localadmin_id":404377027,
             "locality_id":101760187,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":153031601
         }
     ],
     "wof:id":153031601,
-    "wof:lastmodified":1473797976,
+    "wof:lastmodified":1496787015,
     "wof:name":"Soci\u00e9t\u00e9 Nouvelle Fortin S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.535818,46.822338,0.535818,46.822338",
     "geom:latitude":46.822338,
     "geom:longitude":0.535818,
@@ -22,9 +23,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_0ILp3dMScLoRygQBxitrBL_46.822338_0.535818@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"628295b062321dc25271543279e32d70",
+    "wof:geomhash":"406bf73a7a1a08c61da717173b748798",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169130031
         }
     ],
     "wof:id":169130031,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1496776215,
     "wof:name":"S.e.r.i. S.a. - Soci\u00e9t\u00e9 D'etudes Et De R\u00e9alisations Industrielles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

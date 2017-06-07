@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.036477,47.322536,5.036477,47.322536",
     "geom:latitude":47.322536,
     "geom:longitude":5.036477,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2U3VCMXeyKRRCx3HYek7te_47.322536_5.036477@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b65da166d265445fd47c19a23f95b36a",
+    "wof:geomhash":"bc7dca58eec636ae97eae413530209b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152057937
         }
     ],
     "wof:id":152057937,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496794840,
     "wof:name":"Jean Fran\u00c7ois Paget Eurl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

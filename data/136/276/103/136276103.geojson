@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.899335,43.569469,3.899335,43.569469",
     "geom:latitude":43.569469,
     "geom:longitude":3.899335,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757253,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404398013,
+        85633147,
+        1108826387,
+        101757253,
+        136253037,
         102071489
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3ERMQ4ILKesHm4F4xDndqZ_43.569469_3.899335@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5e05a4ef94ff2f23c361eb835f9bcc4d",
+    "wof:geomhash":"b25263e6fef03d0a7aad90ab22badda4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071489,
+            "empire_id":136253037,
+            "localadmin_id":404398013,
             "locality_id":101757253,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136276103
         }
     ],
     "wof:id":136276103,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496777967,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Du Midicredit Agricole Du Midi",
-    "wof:parent_id":101757253,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

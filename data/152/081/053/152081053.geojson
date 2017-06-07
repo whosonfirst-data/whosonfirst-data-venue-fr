@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.74396,49.81377,4.74396,49.81377",
     "geom:latitude":49.81377,
     "geom:longitude":4.74396,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840271,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404395037,
+        85633147,
+        1108826391,
+        101840271,
+        136253037,
         102070361
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1OkOUVM09gQzDrDMl5bQ1G_49.813770_4.743960@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58f13e1ed08169a68f60b5d309b27f07",
+    "wof:geomhash":"bac63af0994d84333d7140645e96e689",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070361,
+            "empire_id":136253037,
+            "localadmin_id":404395037,
             "locality_id":101840271,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152081053
         }
     ],
     "wof:id":152081053,
-    "wof:lastmodified":1473798120,
+    "wof:lastmodified":1496785997,
     "wof:name":"Thom\u00e9 Genot Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.403178,43.552177,1.403178,43.552177",
     "geom:latitude":43.552177,
     "geom:longitude":1.403178,
@@ -22,28 +23,38 @@
     "sg:province":"Midi-Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FhsVPVoOAz6Vko5wPKeN7_43.552177_1.403178@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a9a8059fc5b5483397e5218c7e86018",
+    "wof:geomhash":"e9b353a589412f1636c864b985cccd31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":152463245
         }
     ],
     "wof:id":152463245,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1496777845,
     "wof:name":"Euromaster France S.n.c.",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

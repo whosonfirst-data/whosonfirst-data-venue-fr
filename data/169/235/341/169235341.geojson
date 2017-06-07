@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.204104,45.772774,3.204104,45.772774",
     "geom:latitude":45.772774,
     "geom:longitude":3.204104,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753249,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404425303,
+        85633147,
+        1108826389,
+        101753249,
+        136253037,
         102069845
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2Bn5SI9TIgqX8tXWyePj9D_45.772774_3.204104@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d14911940e7669a3f57d79c271a1bdc",
+    "wof:geomhash":"b99a90a80b32072c665a53e3a1aaea54",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069845,
+            "empire_id":136253037,
+            "localadmin_id":404425303,
             "locality_id":101753249,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":169235341
         }
     ],
     "wof:id":169235341,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496781205,
     "wof:name":"Atelier Des Domes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

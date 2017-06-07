@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.92336,44.923592,4.92336,44.923592",
     "geom:latitude":44.923592,
     "geom:longitude":4.92336,
@@ -28,9 +29,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_76n2eCjhnGwy8MyWcDuI51_44.923592_4.923360@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"169ca51ccb45fd6fd38b5f439f041d62",
+    "wof:geomhash":"3581df92002a85bf0b144cd62811ff15",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":153002989
         }
     ],
     "wof:id":153002989,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496801968,
     "wof:name":"Sa Roll Adriatic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

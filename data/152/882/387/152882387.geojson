@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.402127,49.528587,0.402127,49.528587",
     "geom:latitude":49.528587,
     "geom:longitude":0.402127,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815031,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404371047,
+        85633147,
+        1108826393,
+        101815031,
+        136253037,
         102071483
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6JRiSVjUKNQDN94nq0wSEF_49.528587_0.402127@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d9c2f8afc9673e3d9de0ff7af43dd9b1",
+    "wof:geomhash":"409413142c61230a4439113a95246599",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071483,
+            "empire_id":136253037,
+            "localadmin_id":404371047,
             "locality_id":101815031,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152882387
         }
     ],
     "wof:id":152882387,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496787753,
     "wof:name":"Crozet Plastiques S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

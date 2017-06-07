@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.158825,43.154587,3.158825,43.154587",
     "geom:latitude":43.154587,
     "geom:longitude":3.158825,
@@ -34,26 +35,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683485,
+        102191581,
         85633147,
-        85683485
+        404228023,
+        1108826387,
+        136253037,
+        102072185
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RtWiYn3v6rtGXX2uUTa9Y_43.154587_3.158825@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3eae9cdadb5767abfe55892f8c9525f9",
+    "wof:geomhash":"4eeb1fb91c7aff76d0fb65de81d4fd35",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102072185,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":136275389
         }
     ],
     "wof:id":136275389,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496777668,
     "wof:name":"Bureau Veritas Registre International De Classificationbureau Veritas",
-    "wof:parent_id":85683485,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

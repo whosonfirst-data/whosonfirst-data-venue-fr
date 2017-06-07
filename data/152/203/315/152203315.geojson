@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.07394,48.640656,0.07394,48.640656",
     "geom:latitude":48.640656,
     "geom:longitude":0.07394,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761241,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404389991,
+        85633147,
+        1108826393,
+        101761241,
+        136253037,
         102068773
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6ZH7Hkgo2oGdL86BFiMi3Q_48.640656_0.073940@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c03a8e92b4e83c2a103fdcf353d5188b",
+    "wof:geomhash":"181a63729bb21e9b135ed90985929bfa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068773,
+            "empire_id":136253037,
+            "localadmin_id":404389991,
             "locality_id":101761241,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152203315
         }
     ],
     "wof:id":152203315,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496786953,
     "wof:name":"Gatien Technique Assemblage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

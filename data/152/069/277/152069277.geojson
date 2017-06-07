@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.112233,46.360657,-0.112233,46.360657",
     "geom:latitude":46.360657,
     "geom:longitude":-0.112233,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766767,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404355703,
+        85633147,
+        1108826385,
+        101766767,
+        136253037,
         102067851
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5UT4himFvnBDcw5dfOrCgr_46.360657_-0.112233@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2e1c8fa87ddce08d127fd5a7af555177",
+    "wof:geomhash":"fc6ff915e84c712d553339ad66fc2598",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067851,
+            "empire_id":136253037,
+            "localadmin_id":404355703,
             "locality_id":101766767,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152069277
         }
     ],
     "wof:id":152069277,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496775489,
     "wof:name":"Glac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

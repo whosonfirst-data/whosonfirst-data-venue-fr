@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.897923,48.846443,-0.897923,48.846443",
     "geom:latitude":48.846443,
     "geom:longitude":-0.897923,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828437,
-        85633147,
         85683579,
+        102191581,
+        404228207,
+        404358451,
+        85633147,
+        1108826393,
+        101828437,
+        136253037,
         102070907
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3VUmbXJqywGT3k26QPwfeP_48.846443_-0.897923@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cd322dce1b72235a0a37b48eba100fdc",
+    "wof:geomhash":"168515c442150aa32577915a38c2ae73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070907,
+            "empire_id":136253037,
+            "localadmin_id":404358451,
             "locality_id":101828437,
+            "macrocounty_id":404228207,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136287609
         }
     ],
     "wof:id":136287609,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496803335,
     "wof:name":"Agrial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

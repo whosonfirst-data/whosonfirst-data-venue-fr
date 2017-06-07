@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.664554,44.876759,-0.664554,44.876759",
     "geom:latitude":44.876759,
     "geom:longitude":-0.664554,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749349,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404396121,
+        85633147,
+        1108826385,
+        101749349,
+        136253037,
         102065291
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5QE7rZirgX3B6u37P5ShnU_44.876759_-0.664554@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5309a8ab8285e59c37214fed39f1c503",
+    "wof:geomhash":"26b9723af2dc2635ef78f60e57fd955d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065291,
+            "empire_id":136253037,
+            "localadmin_id":404396121,
             "locality_id":101749349,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152068087
         }
     ],
     "wof:id":152068087,
-    "wof:lastmodified":1473798063,
+    "wof:lastmodified":1496777320,
     "wof:name":"Sud Ouest Pavage (sop)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

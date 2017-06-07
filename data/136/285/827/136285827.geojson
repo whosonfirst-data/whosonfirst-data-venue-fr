@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.183579,43.923489,2.183579,43.923489",
     "geom:latitude":43.923489,
     "geom:longitude":2.183579,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831803,
-        85633147,
         85683603,
-        102072053
+        102191581,
+        404227763,
+        404365717,
+        85633147,
+        1108826387,
+        101831803,
+        136253037,
+        102071247
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nobQCTyPGAO5jPEkFAvhC_43.923489_2.183579@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3fa5fe195cd608d0aa6e0c1fe5fa75f8",
+    "wof:geomhash":"6511007d79814ce85306960320deff7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072053,
+            "county_id":102071247,
+            "empire_id":136253037,
+            "localadmin_id":404365717,
             "locality_id":101831803,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136285827
         }
     ],
     "wof:id":136285827,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496778655,
     "wof:name":"Salaisons Du Pays Doc Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

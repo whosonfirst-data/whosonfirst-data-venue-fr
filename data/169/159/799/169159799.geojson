@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.062801,49.450291,1.062801,49.450291",
     "geom:latitude":49.450291,
     "geom:longitude":1.062801,
@@ -22,30 +23,40 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794441,
+        102191581,
+        404228157,
+        404404067,
         85633147,
+        1108826393,
         101750191,
+        136253037,
         102071809,
-        85794441
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nGkNvNMeXuY9EVOLeZifp_49.450291_1.062801@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"048ce775635c5b8c274e068eb7774e20",
+    "wof:geomhash":"b6188d8335ea8b6bb39c6dea171e9609",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071809,
+            "empire_id":136253037,
+            "localadmin_id":404404067,
             "locality_id":101750191,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794441,
             "region_id":85683251,
             "venue_id":169159799
         }
     ],
     "wof:id":169159799,
-    "wof:lastmodified":1473798194,
+    "wof:lastmodified":1496787267,
     "wof:name":"Sinett S.a.",
     "wof:parent_id":85794441,
     "wof:placetype":"venue",

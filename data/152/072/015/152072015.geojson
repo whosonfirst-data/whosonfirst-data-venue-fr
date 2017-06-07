@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.056928,44.860409,-0.056928,44.860409",
     "geom:latitude":44.860409,
     "geom:longitude":-0.056928,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770651,
-        85633147,
         85683243,
+        102191581,
+        404228275,
+        404380451,
+        85633147,
+        1108826385,
+        101770651,
+        136253037,
         102068317
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6sWZydnbM0E9ABzhJJtOEe_44.860409_-0.056928@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"77c2a9a8ccd55e66ed97447d5648ae2c",
+    "wof:geomhash":"6fe82d5d8fda31e7b6a76cd38878525e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068317,
+            "empire_id":136253037,
+            "localadmin_id":404380451,
             "locality_id":101770651,
+            "macrocounty_id":404228275,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152072015
         }
     ],
     "wof:id":152072015,
-    "wof:lastmodified":1473798084,
+    "wof:lastmodified":1496776833,
     "wof:name":"Chateau Du Moulin Rouge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

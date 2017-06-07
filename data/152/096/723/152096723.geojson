@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.566299,44.830704,-0.566299,44.830704",
     "geom:latitude":44.830704,
     "geom:longitude":-0.566299,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897677,
+        102191581,
         85633147,
-        101750773,
-        102071707,
-        85897677
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h8ede0EHkVCnFZxrSJ3hG_44.830704_-0.566299@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f0b30665760bea3430309cc962cb3543",
+    "wof:geomhash":"3be9175f8a02b81afe9fdacc5c023656",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071707,
-            "locality_id":101750773,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897677,
             "region_id":85683243,
             "venue_id":152096723
         }
     ],
     "wof:id":152096723,
-    "wof:lastmodified":1473798199,
+    "wof:lastmodified":1496777448,
     "wof:name":"Labeyrie",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",

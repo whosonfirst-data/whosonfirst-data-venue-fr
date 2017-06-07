@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.532709,47.219746,-1.532709,47.219746",
     "geom:latitude":47.219746,
     "geom:longitude":-1.532709,
@@ -24,11 +25,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897697,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897697
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,19 @@
     "wof:geomhash":"9c378b252d7f3458acf53a399ec5971f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897697,
             "region_id":85683233,
             "venue_id":152463989
         }
     ],
     "wof:id":152463989,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1491925231,
     "wof:name":"Europcar S.a.",
     "wof:parent_id":85897697,
     "wof:placetype":"venue",

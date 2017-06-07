@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.842275,49.587402,2.842275,49.587402",
     "geom:latitude":49.587402,
     "geom:longitude":2.842275,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814947,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404347721,
+        85633147,
+        1108826399,
+        101814947,
+        136253037,
         102067915
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5vz8mYbCJrQ4vSyeaA7ySF_49.587402_2.842275@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c4063f72e2c51aea820e7e7e3c55b20",
+    "wof:geomhash":"4c003c5a8a7390f128d3b90d7b1a9f36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067915,
+            "empire_id":136253037,
+            "localadmin_id":404347721,
             "locality_id":101814947,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152092369
         }
     ],
     "wof:id":152092369,
-    "wof:lastmodified":1473798196,
+    "wof:lastmodified":1496795310,
     "wof:name":"Ctmc Picardie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

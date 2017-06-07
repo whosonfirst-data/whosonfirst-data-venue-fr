@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.648847,45.442635,6.648847,45.442635",
     "geom:latitude":45.442635,
     "geom:longitude":6.648847,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769259,
-        85633147,
         85683265,
+        102191581,
+        404227745,
+        404414681,
+        85633147,
+        1108826389,
+        101769259,
+        136253037,
         102065651
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2puj44jG2yvAZ3eqVxRj5r_45.442635_6.648847@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aad6253fef128257a04d2b07abde4552",
+    "wof:geomhash":"7f613d96c48ab4a75a4e8c12b1af1fa2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065651,
+            "empire_id":136253037,
+            "localadmin_id":404414681,
             "locality_id":101769259,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":136278739
         }
     ],
     "wof:id":136278739,
-    "wof:lastmodified":1473797943,
+    "wof:lastmodified":1496780453,
     "wof:name":"Savoie Revision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

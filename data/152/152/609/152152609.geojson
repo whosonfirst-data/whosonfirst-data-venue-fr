@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.245052,45.644135,3.245052,45.644135",
     "geom:latitude":45.644135,
     "geom:longitude":3.245052,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767889,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404390873,
+        85633147,
+        1108826389,
+        101767889,
+        136253037,
         102071519
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2tLYoj4hkKseGNDoRiHlC0_45.644135_3.245052@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"50357f5302f8043ee84e5a3e482d8a9d",
+    "wof:geomhash":"da63bcf9b0d4144bbfa439e529137db6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071519,
+            "empire_id":136253037,
+            "localadmin_id":404390873,
             "locality_id":101767889,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152152609
         }
     ],
     "wof:id":152152609,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496781378,
     "wof:name":"Refracentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

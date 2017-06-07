@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.684678,48.587345,7.684678,48.587345",
     "geom:latitude":48.587345,
     "geom:longitude":7.684678,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TH0W5OQXUBQC2Wu3vzAJj_48.587345_7.684678@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"50cf7db1f99b79de051394ee5b5eaf68",
+    "wof:geomhash":"0faa37d86e512e609ed822ff0e3ce8d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":152351209
         }
     ],
     "wof:id":152351209,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1496784402,
     "wof:name":"Casal Sport S.a.r.l.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

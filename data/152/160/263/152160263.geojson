@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.368299,43.641682,1.368299,43.641682",
     "geom:latitude":43.641682,
     "geom:longitude":1.368299,
@@ -33,32 +34,55 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r7TTIc4Bnc8MFpN8W1A0l_43.641682_1.368299@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1ab20178d21f96f215cb81714b5716e9",
+    "wof:geomhash":"35109a59f5a94ebf8d0d8dcfad82066e",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":152160263
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":152160263
         }
     ],
     "wof:id":152160263,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496777663,
     "wof:name":"Technofan",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.553007,46.6768,5.553007,46.6768",
     "geom:latitude":46.6768,
     "geom:longitude":5.553007,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6CR46vNM5f3SHlvozOP9Iz_46.676800_5.553007@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fa30ccae189b995f9019b297b478b452",
+    "wof:geomhash":"909157d5ac1ebceff6cb6e88051b35aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":136295727
         }
     ],
     "wof:id":136295727,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496804233,
     "wof:name":"Mutualite Du Jura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

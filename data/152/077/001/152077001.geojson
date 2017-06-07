@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.722932,50.504906,2.722932,50.504906",
     "geom:latitude":50.504906,
     "geom:longitude":2.722932,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840487,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404377723,
+        85633147,
+        1108826399,
+        101840487,
+        136253037,
         102067459
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7MZv7HbUJYFLABgsG3Z2Uc_50.504906_2.722932@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f031be9e93c6ac008e7a34d4eb64b316",
+    "wof:geomhash":"05867ba02e5198f41d45205a798aa003",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067459,
+            "empire_id":136253037,
+            "localadmin_id":404377723,
             "locality_id":101840487,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152077001
         }
     ],
     "wof:id":152077001,
-    "wof:lastmodified":1473798110,
+    "wof:lastmodified":1496790410,
     "wof:name":"Import Elec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

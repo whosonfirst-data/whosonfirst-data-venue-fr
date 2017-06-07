@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.301341,49.898308,2.301341,49.898308",
     "geom:latitude":49.898308,
     "geom:longitude":2.301341,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_6ugHpXFQacXhUJ0sVeSCPu_49.898308_2.301341@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e2152500a18417628a7ab43e4d83f61",
+    "wof:geomhash":"eb6b4248dbcb65bcbe4dc0f608dcf489",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152106249
         }
     ],
     "wof:id":152106249,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1496795819,
     "wof:name":"Materiel Scientifique Moderne (msm)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

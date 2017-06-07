@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.800871,49.415936,2.800871,49.415936",
     "geom:latitude":49.415936,
     "geom:longitude":2.800871,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842419,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842419,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_5gCZIjNuPyfCiBhkc0OBtM_49.415936_2.800871@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d3507f9683ca6b42c012b93e9d3c5e2b",
+    "wof:geomhash":"5ab383434cf23b5fffb19dfc485e149a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842419,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152105213
         }
     ],
     "wof:id":152105213,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1496795713,
     "wof:name":"Robbe S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

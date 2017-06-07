@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.438614,43.494274,3.438614,43.494274",
     "geom:latitude":43.494274,
     "geom:longitude":3.438614,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896727,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404361049,
+        85633147,
+        1108826387,
+        101896727,
+        136253037,
         102068161
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5JeWH86Q7U6tChDz1dcPDY_43.494274_3.438614@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8a8016e7a1c80041a4ed667ce4510a9",
+    "wof:geomhash":"dd837797ed1a69d91dec967d9392008f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068161,
+            "empire_id":136253037,
+            "localadmin_id":404361049,
             "locality_id":101896727,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152068139
         }
     ],
     "wof:id":152068139,
-    "wof:lastmodified":1473798068,
+    "wof:lastmodified":1496777831,
     "wof:name":"Tpso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

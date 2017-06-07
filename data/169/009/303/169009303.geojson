@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.172807,49.223309,1.172807,49.223309",
     "geom:latitude":49.223309,
     "geom:longitude":1.172807,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828377,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404359165,
+        85633147,
+        1108826393,
+        101828377,
+        136253037,
         102072247
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5x1At3PZGRaNpzlNqX3nvd_49.223309_1.172807@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"409cde0c9efd11785f5f76a0c31f12f4",
+    "wof:geomhash":"2e1f1a1992a7fc8914707110766cce40",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072247,
+            "empire_id":136253037,
+            "localadmin_id":404359165,
             "locality_id":101828377,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":169009303
         }
     ],
     "wof:id":169009303,
-    "wof:lastmodified":1473797869,
+    "wof:lastmodified":1496787303,
     "wof:name":"Jauneau Disconor S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.273039,45.5257,4.273039,45.5257",
     "geom:latitude":45.5257,
     "geom:longitude":4.273039,
@@ -22,28 +23,38 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830773,
-        85633147,
         85683377,
-        102069939
+        102191581,
+        404227677,
+        404379613,
+        85633147,
+        1108826389,
+        101830773,
+        136253037,
+        102068539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ADGZF54ADY34JYCKp9K3c_45.525700_4.273039@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"13a08c7f16fa71fd4f8c0a17cb154aa1",
+    "wof:geomhash":"962ca1b6e64e6e8ea650aa7d2c466b4f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069939,
+            "county_id":102068539,
+            "empire_id":136253037,
+            "localadmin_id":404379613,
             "locality_id":101830773,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168886139
         }
     ],
     "wof:id":168886139,
-    "wof:lastmodified":1473798047,
+    "wof:lastmodified":1496779482,
     "wof:name":"Corderie Cante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

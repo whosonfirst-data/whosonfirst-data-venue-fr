@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.364332,43.523544,1.364332,43.523544",
     "geom:latitude":43.523544,
     "geom:longitude":1.364332,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750695,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404394611,
+        85633147,
+        1108826387,
+        101750695,
+        136253037,
         102071661
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2TaBjeLYPhhFhVNmSdDjDv_43.523544_1.364332@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"df3325847b3e68eb9985160ea2a10411",
+    "wof:geomhash":"ee7145c8540a73f4b50ae283621f278b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071661,
+            "empire_id":136253037,
+            "localadmin_id":404394611,
             "locality_id":101750695,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152074169
         }
     ],
     "wof:id":152074169,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496803721,
     "wof:name":"Tropico",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

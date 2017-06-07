@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.27007,45.862888,1.27007,45.862888",
     "geom:latitude":45.862888,
     "geom:longitude":1.27007,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_51ZqWTmEHXCazS9DLhoHd1_45.862888_1.270070@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f5b4ca11470f095ef38d76316014e272",
+    "wof:geomhash":"2dc0fd39b99d31c035779e96ea630cf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152157373
         }
     ],
     "wof:id":152157373,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496776005,
     "wof:name":"Societe De Distribution De Chaleur De Limoges (sdcl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

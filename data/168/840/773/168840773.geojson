@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.732277,48.450386,6.732277,48.450386",
     "geom:latitude":48.450386,
     "geom:longitude":6.732277,
@@ -24,9 +25,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763969,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404348627,
+        85633147,
+        1108826391,
+        101763969,
+        136253037,
         102064747
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6bVfXUt00l77HmgwydMbv0_48.450386_6.732277@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09486491a565c73e805a9b1e3c69a92e",
+    "wof:geomhash":"3154ae43bc636a9b32b9e4c85f271120",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064747,
+            "empire_id":136253037,
+            "localadmin_id":404348627,
             "locality_id":101763969,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":168840773
         }
     ],
     "wof:id":168840773,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496784091,
     "wof:name":"B\u00e2timent 2000 S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

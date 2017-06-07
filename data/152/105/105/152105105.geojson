@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.117388,45.779789,3.117388,45.779789",
     "geom:latitude":45.779789,
     "geom:longitude":3.117388,
@@ -41,9 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -51,18 +57,23 @@
         "sg:id":"SG_0YEteqKVU7zx7jFk8RM1x9_45.779789_3.117388@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"651b1f4c4f1c24fc5eddfc76d0e48a58",
+    "wof:geomhash":"89dd8513484d1c5e5a50abbba761ca0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152105105
         }
     ],
     "wof:id":152105105,
-    "wof:lastmodified":1473798222,
+    "wof:lastmodified":1496806150,
     "wof:name":"Jp Leclerc Et Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

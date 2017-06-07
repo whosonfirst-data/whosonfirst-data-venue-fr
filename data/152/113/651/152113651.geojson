@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.614546,47.251526,-1.614546,47.251526",
     "geom:latitude":47.251526,
     "geom:longitude":-1.614546,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897707,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897707
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,19 @@
     "wof:geomhash":"2316fc206184f1f08c302b7f28307f6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897707,
             "region_id":85683233,
             "venue_id":152113651
         }
     ],
     "wof:id":152113651,
-    "wof:lastmodified":1473798273,
+    "wof:lastmodified":1491919696,
     "wof:name":"Auto Pieces Nantais",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",

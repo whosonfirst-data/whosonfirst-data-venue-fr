@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.705505,45.184967,5.705505,45.184967",
     "geom:latitude":45.184967,
     "geom:longitude":5.705505,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6maq2mTSND09QX57AnRHYw_45.184967_5.705505@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f818bc27ff56df782f581c5aa11dde5",
+    "wof:geomhash":"3bba75d34cd5ea2166ae9b79fa597578",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152050375
         }
     ],
     "wof:id":152050375,
-    "wof:lastmodified":1473797911,
+    "wof:lastmodified":1496801986,
     "wof:name":"Publi Expo Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

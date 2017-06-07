@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.21937,46.199448,5.21937,46.199448",
     "geom:latitude":46.199448,
     "geom:longitude":5.21937,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829109,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404413457,
+        85633147,
+        1108826389,
+        101829109,
+        136253037,
         102072433
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6HrQofp0QQFU3YjgBWulcC_46.199448_5.219370@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5c3187f697c023b234b7f9fb2ac1300",
+    "wof:geomhash":"c08c7db05420611d72b77456e75903e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
             "locality_id":101829109,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136280245
         }
     ],
     "wof:id":136280245,
-    "wof:lastmodified":1473797904,
+    "wof:lastmodified":1496779724,
     "wof:name":"Vernus Desbonne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

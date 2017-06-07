@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.697965,48.359444,7.697965,48.359444",
     "geom:latitude":48.359444,
     "geom:longitude":7.697965,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765057,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404376873,
+        85633147,
+        1108826391,
+        101765057,
+        136253037,
         102065609
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7Z8TgFJkMB1sL9zim9krbC_48.359444_7.697965@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"684ae0c79891e206290287c5280d652d",
+    "wof:geomhash":"cb862e90a932f41f066f9cb3b27d2a3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065609,
+            "empire_id":136253037,
+            "localadmin_id":404376873,
             "locality_id":101765057,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136292361
         }
     ],
     "wof:id":136292361,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496784407,
     "wof:name":"Emtec Consumer Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

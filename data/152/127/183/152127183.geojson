@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.455975,47.653198,7.455975,47.653198",
     "geom:latitude":47.653198,
     "geom:longitude":7.455975,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765759,
-        85633147,
         85683381,
+        102191581,
+        404228255,
+        404391777,
+        85633147,
+        1108826391,
+        101765759,
+        136253037,
         102066775
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4WsSlZSGc1DLdxeMXXAkkq_47.653198_7.455975@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfd24e85d921d3e24a834404708c9df4",
+    "wof:geomhash":"a5a5267b8687764cde7c3db0d9522397",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066775,
+            "empire_id":136253037,
+            "localadmin_id":404391777,
             "locality_id":101765759,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152127183
         }
     ],
     "wof:id":152127183,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496786650,
     "wof:name":"Mobil Elasto France Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

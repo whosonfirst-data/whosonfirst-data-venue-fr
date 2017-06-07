@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.498927,43.660213,1.498927,43.660213",
     "geom:latitude":43.660213,
     "geom:longitude":1.498927,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750687,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404364099,
+        85633147,
+        1108826387,
+        101750687,
+        136253037,
         102071573
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3nBrKjGlsKjD29tVUHA8Zh_43.660213_1.498927@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e5fba1a88229851dd216e5ad9d30b00d",
+    "wof:geomhash":"ee0c3c41d1795be99fe0d3ed0f24db6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071573,
+            "empire_id":136253037,
+            "localadmin_id":404364099,
             "locality_id":101750687,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152083285
         }
     ],
     "wof:id":152083285,
-    "wof:lastmodified":1473798136,
+    "wof:lastmodified":1496803662,
     "wof:name":"Disa Cattinair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

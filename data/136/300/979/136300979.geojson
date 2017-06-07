@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.046133,47.347176,5.046133,47.347176",
     "geom:latitude":47.347176,
     "geom:longitude":5.046133,
@@ -27,9 +28,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_3G6B7E55FOH5Bcsq37aCke_47.347176_5.046133@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"edcd3b68fdf9b38b1a5b29c41582c776",
+    "wof:geomhash":"0807cd21cbdcba8d0ed1bd6aede95c84",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136300979
         }
     ],
     "wof:id":136300979,
-    "wof:lastmodified":1473798015,
+    "wof:lastmodified":1496788709,
     "wof:name":"Caisse D'epargne De Bourgogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

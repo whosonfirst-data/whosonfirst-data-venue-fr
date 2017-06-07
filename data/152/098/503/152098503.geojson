@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.862298,47.773968,3.862298,47.773968",
     "geom:latitude":47.773968,
     "geom:longitude":3.862298,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101887095,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404386247,
+        85633147,
+        1108826395,
+        101887095,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_635ybBF9Hax0W2UR89rZeN_47.773968_3.862298@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"385431d8bd975c9eeafae439e90a9773",
+    "wof:geomhash":"66ec8da02d60aa8e1d4124fada0ba7c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404386247,
             "locality_id":101887095,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152098503
         }
     ],
     "wof:id":152098503,
-    "wof:lastmodified":1473798204,
+    "wof:lastmodified":1496788244,
     "wof:name":"Vilain Fr\u00e8res Domaine De Guette-soleil Scea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.120868,45.512615,-1.120868,45.512615",
     "geom:latitude":45.512615,
     "geom:longitude":-1.120868,
@@ -29,9 +30,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767669,
-        85633147,
         85683243,
+        102191581,
+        404228221,
+        404358159,
+        85633147,
+        1108826385,
+        101767669,
+        136253037,
         102071429
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_0FyGcO0RislNRtHAtY0Tk7_45.512615_-1.120868@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2a7d91c5186939181d5313b0b65116a5",
+    "wof:geomhash":"332f141da95bd23bc6da830eb020c995",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071429,
+            "empire_id":136253037,
+            "localadmin_id":404358159,
             "locality_id":101767669,
+            "macrocounty_id":404228221,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136302071
         }
     ],
     "wof:id":136302071,
-    "wof:lastmodified":1473797973,
+    "wof:lastmodified":1496775902,
     "wof:name":"Cr\u00e9dit Agricole De La Gironde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

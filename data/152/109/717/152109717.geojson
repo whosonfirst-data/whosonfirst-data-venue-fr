@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.406502,43.332458,-1.406502,43.332458",
     "geom:latitude":43.332458,
     "geom:longitude":-1.406502,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772335,
-        85633147,
         85683539,
+        102191581,
+        404227727,
+        404355331,
+        85633147,
+        1108826385,
+        101772335,
+        136253037,
         102066051
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0VWHX8lK6EzznESbkIAqUL_43.332458_-1.406502@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f65372d3d08f242973ccfe7e240b0803",
+    "wof:geomhash":"261346648d8f666eda031031cf24f302",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066051,
+            "empire_id":136253037,
+            "localadmin_id":404355331,
             "locality_id":101772335,
+            "macrocounty_id":404227727,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152109717
         }
     ],
     "wof:id":152109717,
-    "wof:lastmodified":1473798268,
+    "wof:lastmodified":1496776581,
     "wof:name":"Alki Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

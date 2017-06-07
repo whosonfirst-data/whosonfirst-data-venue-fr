@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.181845,48.612869,6.181845,48.612869",
     "geom:latitude":48.612869,
     "geom:longitude":6.181845,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750117,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101750117,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_40PJ1987sPVXygGuCrO0sB_48.612869_6.181845@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b601349976ffe1386bdd6600799ddcf",
+    "wof:geomhash":"263501918dbe3913fa44dfc84182ea0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101750117,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152051665
         }
     ],
     "wof:id":152051665,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496785273,
     "wof:name":"Panel System S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

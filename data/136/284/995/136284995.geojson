@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.12531,47.035515,6.12531,47.035515",
     "geom:latitude":47.035515,
     "geom:longitude":6.12531,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890135,
-        85633147,
         85683239,
+        102191581,
+        404227637,
+        404367315,
+        85633147,
+        1108826395,
+        101890135,
+        136253037,
         102064253
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0d2jj7V3o5306NS3h9CREY_47.035515_6.125310@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"710e573f0cbbd70b1070e9ca8d49870c",
+    "wof:geomhash":"d89557b13747f2e4db04a3013139a2bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064253,
+            "empire_id":136253037,
+            "localadmin_id":404367315,
             "locality_id":101890135,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":136284995
         }
     ],
     "wof:id":136284995,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496788562,
     "wof:name":"Production Des Elevages Bourgon (peb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

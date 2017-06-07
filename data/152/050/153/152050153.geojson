@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.420577,46.121033,3.420577,46.121033",
     "geom:latitude":46.121033,
     "geom:longitude":3.420577,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829199,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404384829,
+        85633147,
+        1108826389,
+        101829199,
+        136253037,
         102072181
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_7aYTzGLVy0mSN0LLtCAc6i_46.121033_3.420577@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62ea6bd9cbe2ce798ccb536e0b500feb",
+    "wof:geomhash":"130efd2c2de12e13fd89a7360886fb4a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072181,
+            "empire_id":136253037,
+            "localadmin_id":404384829,
             "locality_id":101829199,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152050153
         }
     ],
     "wof:id":152050153,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496779378,
     "wof:name":"Maison Des Universitaires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

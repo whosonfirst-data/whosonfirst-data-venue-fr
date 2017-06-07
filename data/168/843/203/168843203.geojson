@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.922079,45.428307,0.922079,45.428307",
     "geom:latitude":45.428307,
     "geom:longitude":0.922079,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769357,
-        85633147,
         85683331,
+        102191581,
+        404227847,
+        404390717,
+        85633147,
+        1108826385,
+        101769357,
+        136253037,
         102071123
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1ABrG7MEMCowahOv4uaPHM_45.428307_0.922079@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c9d85e978134fec459f38bcd01ad2af",
+    "wof:geomhash":"18cfdb2046dd94e093b3583e10f0009a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071123,
+            "empire_id":136253037,
+            "localadmin_id":404390717,
             "locality_id":101769357,
+            "macrocounty_id":404227847,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":168843203
         }
     ],
     "wof:id":168843203,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496776128,
     "wof:name":"C.c.a. S.a.r.l. - Comptoir Commercial Alimentaire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

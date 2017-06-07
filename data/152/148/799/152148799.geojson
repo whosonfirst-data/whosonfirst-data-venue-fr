@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.905018,45.704739,5.905018,45.704739",
     "geom:latitude":45.704739,
     "geom:longitude":5.905018,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_72LZZ5af8UfGX4vfRardeA_45.704739_5.905018@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8108f0a6f5a37dcf0199b2a3ec11c16b",
+    "wof:geomhash":"0ee8e8db246d5e8f43ff081f3f3e144d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152148799
         }
     ],
     "wof:id":152148799,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496799855,
     "wof:name":"Mercier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

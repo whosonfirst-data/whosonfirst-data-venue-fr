@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.340199,47.748638,7.340199,47.748638",
     "geom:latitude":47.748638,
     "geom:longitude":7.340199,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749573,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404228255,
+        1108826391,
+        101749573,
+        136253037,
         102072565
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6uHjrD1o1mFdxGOOOClRAM_47.748638_7.340199@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea1df0c51229995937f9e8db5fab32a9",
+    "wof:geomhash":"b4369a47205c894b93ec115cf9ccf47f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072565,
+            "empire_id":136253037,
             "locality_id":101749573,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152052047
         }
     ],
     "wof:id":152052047,
-    "wof:lastmodified":1473797868,
+    "wof:lastmodified":1496784265,
     "wof:name":"Euromaison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

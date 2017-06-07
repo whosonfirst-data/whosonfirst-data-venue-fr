@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.958822,49.617851,2.958822,49.617851",
     "geom:latitude":49.617851,
     "geom:longitude":2.958822,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901155,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404365181,
+        85633147,
+        1108826399,
+        101901155,
+        136253037,
         102067715
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5Tie82gOuEYvKJjzxXUrj9_49.617851_2.958822@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"271aad02d9e5ed95899e3047c391c05d",
+    "wof:geomhash":"80964d8fa1e8e40363f151e24419075e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067715,
+            "empire_id":136253037,
+            "localadmin_id":404365181,
             "locality_id":101901155,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169243705
         }
     ],
     "wof:id":169243705,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496790552,
     "wof:name":"Sarl La Scierie De Sermaize",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

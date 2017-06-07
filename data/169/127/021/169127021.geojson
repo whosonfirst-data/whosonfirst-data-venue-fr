@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.82208,43.631809,3.82208,43.631809",
     "geom:latitude":43.631809,
     "geom:longitude":3.82208,
@@ -22,9 +23,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_4ePWOYMawXjnluesbJzdIV_43.631809_3.822080@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bbc9c78f65a09caad19ccf2cf28ced1a",
+    "wof:geomhash":"e1d43c8fb11d8942d0ba082e9acb04ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":169127021
         }
     ],
     "wof:id":169127021,
-    "wof:lastmodified":1473798106,
+    "wof:lastmodified":1496777823,
     "wof:name":"S.d.b S.a. - Soci\u00e9t\u00e9 De Distribution Barjacoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

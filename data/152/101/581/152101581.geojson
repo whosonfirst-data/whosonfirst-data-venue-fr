@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.730434,46.005383,4.730434,46.005383",
     "geom:latitude":46.005383,
     "geom:longitude":4.730434,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748981,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404392499,
+        85633147,
+        1108826389,
+        101748981,
+        136253037,
         102071653
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2HgFlmtwfb5jAWiSB1TPko_46.005383_4.730434@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0282c231e7587bc6a57ee872aa2abeb5",
+    "wof:geomhash":"2cf988e865364696b2587779704cf474",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071653,
+            "empire_id":136253037,
+            "localadmin_id":404392499,
             "locality_id":101748981,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152101581
         }
     ],
     "wof:id":152101581,
-    "wof:lastmodified":1473798234,
+    "wof:lastmodified":1496781793,
     "wof:name":"M.c. - Mathias Cadeaux S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

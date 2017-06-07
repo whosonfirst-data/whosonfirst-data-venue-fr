@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.270684,45.393093,4.270684,45.393093",
     "geom:latitude":45.393093,
     "geom:longitude":4.270684,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750839,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404391513,
+        85633147,
+        1108826389,
+        101750839,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4J7QsQpDIThSFz8JZRf2Ga_45.393093_4.270684@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c658afa55845954dbba057486297cb76",
+    "wof:geomhash":"f2672e01f65e63a0ef995dd1307d008c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404391513,
             "locality_id":101750839,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168957893
         }
     ],
     "wof:id":168957893,
-    "wof:lastmodified":1473798158,
+    "wof:lastmodified":1496779908,
     "wof:name":"Fonderie De La P\u00e9rivaure S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

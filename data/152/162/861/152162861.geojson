@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.14886,50.352917,3.14886,50.352917",
     "geom:latitude":50.352917,
     "geom:longitude":3.14886,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840721,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404428715,
+        85633147,
+        1108826399,
+        101840721,
+        136253037,
         102068833
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_3AAcoybMHx9wIr0aC52CIT_50.352917_3.148860@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"476cb1455212bbed5ded242076a6a037",
+    "wof:geomhash":"946214910c9ca1c7d5a6320b8da30340",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068833,
+            "empire_id":136253037,
+            "localadmin_id":404428715,
             "locality_id":101840721,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152162861
         }
     ],
     "wof:id":152162861,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496792197,
     "wof:name":"Motif Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

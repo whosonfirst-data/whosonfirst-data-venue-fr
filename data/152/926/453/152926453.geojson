@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.055835,49.113899,-1.055835,49.113899",
     "geom:latitude":49.113899,
     "geom:longitude":-1.055835,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828551,
-        85633147,
         85683489,
+        102191581,
+        85633147,
+        404228235,
+        1108826393,
+        101828551,
+        136253037,
         102072025
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1nnyEd6WM8zks7TOl4kkao_49.113899_-1.055835@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6ab4f0c64b286642c182c98c0216589d",
+    "wof:geomhash":"9d87da07b9bd5a73c9c421024a1c199e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072025,
+            "empire_id":136253037,
             "locality_id":101828551,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152926453
         }
     ],
     "wof:id":152926453,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496803327,
     "wof:name":"Imprimerie Garlan Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

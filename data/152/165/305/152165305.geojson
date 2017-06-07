@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.434739,45.435474,4.434739,45.435474",
     "geom:latitude":45.435474,
     "geom:longitude":4.434739,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1O00sWqQAYLixBs5FaWOuT_45.435474_4.434739@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e8fcd1553781cd202d33c09ea0a6b7c",
+    "wof:geomhash":"16e28b63e0e68df68573f682c6baa2a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152165305
         }
     ],
     "wof:id":152165305,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496781043,
     "wof:name":"Eurothal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

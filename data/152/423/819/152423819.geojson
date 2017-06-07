@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.300267,47.643871,4.300267,47.643871",
     "geom:latitude":47.643871,
     "geom:longitude":4.300267,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886609,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404389933,
+        85633147,
+        1108826395,
+        101886609,
+        136253037,
         102068259
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_238N5pd9R41K0TpaPZMYSG_47.643871_4.300267@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"db4926b2e8a4eafda9e05119871b4394",
+    "wof:geomhash":"ee8fdcf30dd839c205179b927bd1dbf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068259,
+            "empire_id":136253037,
+            "localadmin_id":404389933,
             "locality_id":101886609,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152423819
         }
     ],
     "wof:id":152423819,
-    "wof:lastmodified":1473798406,
+    "wof:lastmodified":1496788442,
     "wof:name":"E.m.i. Bourgogne S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

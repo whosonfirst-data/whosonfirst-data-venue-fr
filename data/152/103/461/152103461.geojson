@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.418458,49.215977,2.418458,49.215977",
     "geom:latitude":49.215977,
     "geom:longitude":2.418458,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828479,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404405079,
+        85633147,
+        1108826399,
+        101828479,
+        136253037,
         102071003
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_0zmo6wE1VznWb9S5NU564Y_49.215977_2.418458@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"64b3ea96f522d92b236b9ea5e3646bbd",
+    "wof:geomhash":"4e64cf83fd613bbd2ab73bb0ac6a1ecd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071003,
+            "empire_id":136253037,
+            "localadmin_id":404405079,
             "locality_id":101828479,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152103461
         }
     ],
     "wof:id":152103461,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496795868,
     "wof:name":"Aprolis Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

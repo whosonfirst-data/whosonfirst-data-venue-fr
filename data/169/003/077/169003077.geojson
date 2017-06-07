@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.158195,50.679596,3.158195,50.679596",
     "geom:latitude":50.679596,
     "geom:longitude":3.158195,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750249,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404407891,
+        85633147,
+        1108826399,
+        101750249,
+        136253037,
         102071681
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7PE6oYOv9X7TyPvLp69yzj_50.679596_3.158195@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b77885910583c5a17a30c3a0b7d96416",
+    "wof:geomhash":"cedb51bf4de29c68f90a5c9ed645d78b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071681,
+            "empire_id":136253037,
+            "localadmin_id":404407891,
             "locality_id":101750249,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169003077
         }
     ],
     "wof:id":169003077,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496791358,
     "wof:name":"Insep Consulting S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

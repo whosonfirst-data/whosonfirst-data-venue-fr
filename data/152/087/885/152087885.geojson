@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.435638,45.946213,5.435638,45.946213",
     "geom:latitude":45.946213,
     "geom:longitude":5.435638,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768185,
-        85633147,
         85683153,
+        102191581,
+        404227585,
+        404422307,
+        85633147,
+        1108826389,
+        101768185,
+        136253037,
         102069427
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1abx91SqZMJeXpC6NoA6tg_45.946213_5.435638@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c41c8f211e48da220ba6e6c64631063",
+    "wof:geomhash":"1c8d929fc6f5cb9294a7b2a660c03e93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069427,
+            "empire_id":136253037,
+            "localadmin_id":404422307,
             "locality_id":101768185,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152087885
         }
     ],
     "wof:id":152087885,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496780828,
     "wof:name":"Bcm Metallerie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

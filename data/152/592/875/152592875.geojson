@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.765263,45.186157,5.765263,45.186157",
     "geom:latitude":45.186157,
     "geom:longitude":5.765263,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750743,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404417279,
+        85633147,
+        1108826389,
+        101750743,
+        136253037,
         102072109
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0WXOluh8hTuG4HJAdGfSzw_45.186157_5.765263@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8073586ed97f59c9a61a7fe9ec6b1c1",
+    "wof:geomhash":"db08e5f51b8e427a14dd93a814404e5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072109,
+            "empire_id":136253037,
+            "localadmin_id":404417279,
             "locality_id":101750743,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152592875
         }
     ],
     "wof:id":152592875,
-    "wof:lastmodified":1473798490,
+    "wof:lastmodified":1496782034,
     "wof:name":"Logomotive S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

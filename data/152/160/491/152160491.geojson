@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.280346,45.392467,4.280346,45.392467",
     "geom:latitude":45.392467,
     "geom:longitude":4.280346,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752993,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404354045,
+        85633147,
+        1108826389,
+        101752993,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6PriYhZVrbASF2mA31PPN9_45.392467_4.280346@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"98fc8bb5b9c4e5acc7479b4ded109a2d",
+    "wof:geomhash":"78717a03ecbaf9eeb89a2908625bf6cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404354045,
             "locality_id":101752993,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152160491
         }
     ],
     "wof:id":152160491,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496780244,
     "wof:name":"Thermo Steph Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

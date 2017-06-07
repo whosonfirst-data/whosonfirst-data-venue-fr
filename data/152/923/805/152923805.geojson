@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.269728,48.203911,3.269728,48.203911",
     "geom:latitude":48.203911,
     "geom:longitude":3.269728,
@@ -32,28 +33,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827691,
-        85633147,
         85683503,
-        102069895
+        102191581,
+        85633147,
+        404228181,
+        1108826395,
+        101827691,
+        136253037,
+        102072545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y4NGmJ9WPGQoQnC3vLAUY_48.203911_3.269728@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e42abbe4f83a7e7e6313ba859f66f1c6",
+    "wof:geomhash":"f3da7ec26b1d2226d43060488447d986",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069895,
+            "county_id":102072545,
+            "empire_id":136253037,
             "locality_id":101827691,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152923805
         }
     ],
     "wof:id":152923805,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496794894,
     "wof:name":"Evermail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

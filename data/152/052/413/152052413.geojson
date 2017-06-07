@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.595585,49.205208,2.595585,49.205208",
     "geom:latitude":49.205208,
     "geom:longitude":2.595585,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_05bKGgQI9IgmJxz1cDIAH6_49.205208_2.595585@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1ef56f6443c2f54c10074585ff9a9965",
+    "wof:geomhash":"def5806c426d634784778e7b2c47819e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152052413
         }
     ],
     "wof:id":152052413,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496791894,
     "wof:name":"Cooperative Agricole Valfrance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

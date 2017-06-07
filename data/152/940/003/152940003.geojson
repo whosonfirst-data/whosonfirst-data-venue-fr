@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.576335,49.068192,0.576335,49.068192",
     "geom:latitude":49.068192,
     "geom:longitude":0.576335,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828369,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404359755,
+        85633147,
+        1108826393,
+        101828369,
+        136253037,
         102072063
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_2KeCYCzjIF2SJXMaaXEhR2_49.068192_0.576335@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"89ae3946837594741ccf3c67d4d8b474",
+    "wof:geomhash":"4a302c86d5f9ca9aec57c08c7afda80d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072063,
+            "empire_id":136253037,
+            "localadmin_id":404359755,
             "locality_id":101828369,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152940003
         }
     ],
     "wof:id":152940003,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496804834,
     "wof:name":"Speed Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

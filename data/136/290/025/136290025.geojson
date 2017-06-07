@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.37901,43.630699,1.37901,43.630699",
     "geom:latitude":43.630699,
     "geom:longitude":1.37901,
@@ -34,32 +35,55 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a8y1kJd8V2O8KN261jgr1_43.630699_1.379010@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"953b24fdbb3b3d0c863b4f58cb168d61",
+    "wof:geomhash":"1209e01c6973df4fdc30e2f3e396c6f7",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":136290025
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":136290025
         }
     ],
     "wof:id":136290025,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496778294,
     "wof:name":"Bax Global Sa",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

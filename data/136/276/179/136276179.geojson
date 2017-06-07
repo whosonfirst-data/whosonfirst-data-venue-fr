@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.327594,49.38139,3.327594,49.38139",
     "geom:latitude":49.38139,
     "geom:longitude":3.327594,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842473,
-        85633147,
         85683247,
+        102191581,
+        404228197,
+        404395163,
+        85633147,
+        1108826399,
+        101842473,
+        136253037,
         102072551
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7Gs6zYBWxWsndWa3KaG0Ur_49.381390_3.327594@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"58bfdd4f32a1c99ea453368c43cbe216",
+    "wof:geomhash":"01dc0e765407cc1f72dfc79ef2884940",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072551,
+            "empire_id":136253037,
+            "localadmin_id":404395163,
             "locality_id":101842473,
+            "macrocounty_id":404228197,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136276179
         }
     ],
     "wof:id":136276179,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496790265,
     "wof:name":"Caisse Regionale Du Credit Agricole Mutuel Du Nord Est (crcam) Soissons Cathedrale",
-    "wof:parent_id":101842473,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

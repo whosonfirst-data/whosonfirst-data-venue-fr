@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.79795,49.53281,3.79795,49.53281",
     "geom:latitude":49.53281,
     "geom:longitude":3.79795,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902909,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404373193,
+        85633147,
+        1108826399,
+        101902909,
+        136253037,
         102069807
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_3XLLvduxp18MhzRNWds4dL_49.532810_3.797950@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"49e22e4e4d2bb5362d01aaa32e35e25f",
+    "wof:geomhash":"821f7a484570d2049ab0fd3dbcdefb8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069807,
+            "empire_id":136253037,
+            "localadmin_id":404373193,
             "locality_id":101902909,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152104115
         }
     ],
     "wof:id":152104115,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1496791269,
     "wof:name":"Lavisse Assistance Manutention (lam)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

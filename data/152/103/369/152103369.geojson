@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.450435,48.539268,7.450435,48.539268",
     "geom:latitude":48.539268,
     "geom:longitude":7.450435,
@@ -40,9 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827841,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404369663,
+        85633147,
+        1108826391,
+        101827841,
+        136253037,
         102066949
     ],
     "wof:breaches":[],
@@ -50,18 +56,23 @@
         "sg:id":"SG_6FoUdvwRNFEm7DyWjgvdB2_48.539268_7.450435@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b07676f1ed9f2ea9c7acd772f722a3ce",
+    "wof:geomhash":"713fe771f0eb0d30c280aa024315962d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066949,
+            "empire_id":136253037,
+            "localadmin_id":404369663,
             "locality_id":101827841,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152103369
         }
     ],
     "wof:id":152103369,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496784550,
     "wof:name":"Friederich (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

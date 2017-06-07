@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.906808,46.750435,5.906808,46.750435",
     "geom:latitude":46.750435,
     "geom:longitude":5.906808,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766653,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404376325,
+        85633147,
+        1108826395,
+        101766653,
+        136253037,
         102065297
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0sMWt34BvpB1kvKDe9vdd6_46.750435_5.906808@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d6b1a2e164a0a01f2867da9518431de",
+    "wof:geomhash":"07314691efd166490c86cfe7e8091c07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065297,
+            "empire_id":136253037,
+            "localadmin_id":404376325,
             "locality_id":101766653,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152075751
         }
     ],
     "wof:id":152075751,
-    "wof:lastmodified":1473798142,
+    "wof:lastmodified":1496788809,
     "wof:name":"Electricite Multiservices (ems)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

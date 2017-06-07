@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.301853,46.554192,0.301853,46.554192",
     "geom:latitude":46.554192,
     "geom:longitude":0.301853,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_6ArFlFUuH5qyL303PvGm1t_46.554192_0.301853@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"75ff3e94f3bc960b8e77702afd917e8a",
+    "wof:geomhash":"3721d9f9955c0f779fc36c546e39c8ca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152075635
         }
     ],
     "wof:id":152075635,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496775783,
     "wof:name":"Comptoir Du Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

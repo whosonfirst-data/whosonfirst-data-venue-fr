@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.927302,44.065243,3.927302,44.065243",
     "geom:latitude":44.065243,
     "geom:longitude":3.927302,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683431,
+        102191581,
         85633147,
-        85683431
+        404366735,
+        404228065,
+        1108826387,
+        136253037,
+        102066729
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TkgydeZPkNc0f2g0KtIQF_44.065243_3.927302@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5faefb42c07edf19bb193320c916022d",
+    "wof:geomhash":"a2deb4c3ae07ddce11ce669794329c42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102066729,
+            "empire_id":136253037,
+            "localadmin_id":404366735,
+            "locality_id":-1,
+            "macrocounty_id":404228065,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152082811
         }
     ],
     "wof:id":152082811,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496778125,
     "wof:name":"Epuration Pompage Urbain Et Rural (epur)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

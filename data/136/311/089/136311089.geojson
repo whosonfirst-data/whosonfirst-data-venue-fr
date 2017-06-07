@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.433746,49.251663,2.433746,49.251663",
     "geom:latitude":49.251663,
     "geom:longitude":2.433746,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828495,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404416805,
+        85633147,
+        1108826399,
+        101828495,
+        136253037,
         102071003
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_09hSbIhMyKbY2vu1Gtqxtd_49.251663_2.433746@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"495d65d49e694dc212c8e1cbb25489d8",
+    "wof:geomhash":"02a05d5aa42b4f3deaca70a48ebc18a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071003,
+            "empire_id":136253037,
+            "localadmin_id":404416805,
             "locality_id":101828495,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136311089
         }
     ],
     "wof:id":136311089,
-    "wof:lastmodified":1473797984,
+    "wof:lastmodified":1496790153,
     "wof:name":"Heidelberg Web Systems S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

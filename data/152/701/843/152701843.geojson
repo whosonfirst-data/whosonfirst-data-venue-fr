@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.241167,46.194069,6.241167,46.194069",
     "geom:latitude":46.194069,
     "geom:longitude":6.241167,
@@ -22,28 +23,38 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757307,
-        85633147,
         85683227,
-        102070047
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101757307,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CZlK9v1ur9NTWyGyJxVrW_46.194069_6.241167@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c52c213ddbfda2990d7917ae782168ec",
+    "wof:geomhash":"c9c3b016eb655659dc8203e812d59aca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070047,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101757307,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152701843
         }
     ],
     "wof:id":152701843,
-    "wof:lastmodified":1473798493,
+    "wof:lastmodified":1496783117,
     "wof:name":"Richardson S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

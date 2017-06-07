@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.197355,45.768345,3.197355,45.768345",
     "geom:latitude":45.768345,
     "geom:longitude":3.197355,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753249,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404425303,
+        85633147,
+        1108826389,
+        101753249,
+        136253037,
         102069845
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_42aYdFE7XT44k85vdq7by4_45.768345_3.197355@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1af39fdf7f08bf540dff312fafb042f4",
+    "wof:geomhash":"b06a353b5c5e52837a0298f4406d46d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069845,
+            "empire_id":136253037,
+            "localadmin_id":404425303,
             "locality_id":101753249,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152648711
         }
     ],
     "wof:id":152648711,
-    "wof:lastmodified":1473798485,
+    "wof:lastmodified":1496806270,
     "wof:name":"O.n.f. - Office National Des For\u00eats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

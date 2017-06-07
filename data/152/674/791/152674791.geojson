@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.316147,45.686398,-0.316147,45.686398",
     "geom:latitude":45.686398,
     "geom:longitude":-0.316147,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829049,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404355023,
+        85633147,
+        1108826385,
+        101829049,
+        136253037,
         102070265
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1sWwUh8Eu7PVDC2nFPTwY8_45.686398_-0.316147@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"137bf3db116b9598deeac99586ee534e",
+    "wof:geomhash":"3d722ffc3263c3e206bca2f73f05d17f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070265,
+            "empire_id":136253037,
+            "localadmin_id":404355023,
             "locality_id":101829049,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152674791
         }
     ],
     "wof:id":152674791,
-    "wof:lastmodified":1473798515,
+    "wof:lastmodified":1496798578,
     "wof:name":"Point P. Cognac S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

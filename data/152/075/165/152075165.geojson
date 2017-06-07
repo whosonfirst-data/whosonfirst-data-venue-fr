@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.677394,45.199764,0.677394,45.199764",
     "geom:latitude":45.199764,
     "geom:longitude":0.677394,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830681,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404351339,
+        85633147,
+        1108826385,
+        101830681,
+        136253037,
         102071571
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1ZxfnOkgNAen7OvZKAVbmY_45.199764_0.677394@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"87f3f652d51a48a06d8d72510c79cc63",
+    "wof:geomhash":"8bc035634afdfd818088a10a6b6d2b72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071571,
+            "empire_id":136253037,
+            "localadmin_id":404351339,
             "locality_id":101830681,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152075165
         }
     ],
     "wof:id":152075165,
-    "wof:lastmodified":1473798126,
+    "wof:lastmodified":1496798372,
     "wof:name":"Production Logistique Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.481716,49.839836,3.481716,49.839836",
     "geom:latitude":49.839836,
     "geom:longitude":3.481716,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812403,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404412961,
+        85633147,
+        1108826399,
+        101812403,
+        136253037,
         102069001
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ENngnuSbYyIovzfJcc3WX_49.839836_3.481716@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"13b9c34f49aa75510905bea670a705e1",
+    "wof:geomhash":"87e01a7d91f7444d6acec7d8ccd7bf46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069001,
+            "empire_id":136253037,
+            "localadmin_id":404412961,
             "locality_id":101812403,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169210135
         }
     ],
     "wof:id":169210135,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496790427,
     "wof:name":"Union Sda - Union Et Distileries Agricoles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

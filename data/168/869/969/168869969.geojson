@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.608058,46.399105,6.608058,46.399105",
     "geom:latitude":46.399105,
     "geom:longitude":6.608058,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829001,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404370211,
+        85633147,
+        1108826389,
+        101829001,
+        136253037,
         102066779
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3JqtO7tkVJqNlxdDxMW7yv_46.399105_6.608058@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f66053729a69d87d7f3689a8a873ff79",
+    "wof:geomhash":"2fa80e3763dc35196c32f0d6426d41cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":404370211,
             "locality_id":101829001,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":168869969
         }
     ],
     "wof:id":168869969,
-    "wof:lastmodified":1473798015,
+    "wof:lastmodified":1496801911,
     "wof:name":"Chauffage Et Sanitaire S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

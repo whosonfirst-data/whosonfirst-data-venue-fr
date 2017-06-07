@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.748512,43.488819,2.748512,43.488819",
     "geom:latitude":43.488819,
     "geom:longitude":2.748512,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773785,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404349141,
+        85633147,
+        1108826387,
+        101773785,
+        136253037,
         102070229
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6bZtHu0UUi2iaCETSotUNg_43.488819_2.748512@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1be2cf09dd1318c6f2992e9b8cc1d629",
+    "wof:geomhash":"68cd741e32d9353fc9ea2d7949bc5a3e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070229,
+            "empire_id":136253037,
+            "localadmin_id":404349141,
             "locality_id":101773785,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":136291119
         }
     ],
     "wof:id":136291119,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496799430,
     "wof:name":"Domaine De Portes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

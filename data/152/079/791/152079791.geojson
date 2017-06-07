@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.770533,45.594982,5.770533,45.594982",
     "geom:latitude":45.594982,
     "geom:longitude":5.770533,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769261,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404354797,
+        85633147,
+        1108826389,
+        101769261,
+        136253037,
         102068785
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5nsfFLayWsnTPRlsRVgL0R_45.594982_5.770533@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7ee3f1a24c08a98bf3d62bce0a7bec23",
+    "wof:geomhash":"0c452bdb02e06bacb5f5b786fca39517",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068785,
+            "empire_id":136253037,
+            "localadmin_id":404354797,
             "locality_id":101769261,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152079791
         }
     ],
     "wof:id":152079791,
-    "wof:lastmodified":1473798143,
+    "wof:lastmodified":1496779722,
     "wof:name":"Lampador (sdl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

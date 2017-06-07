@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.354463,48.077782,7.354463,48.077782",
     "geom:latitude":48.077782,
     "geom:longitude":7.354463,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_6ocGwqLV9VJZRJfFGMxehf_48.077782_7.354463@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09d021b205153cd87a89ddb57ca8e723",
+    "wof:geomhash":"04a20407d6ca0c5fe28390f723d42ab8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152867359
         }
     ],
     "wof:id":152867359,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496784524,
     "wof:name":"Papeteries De France (pf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

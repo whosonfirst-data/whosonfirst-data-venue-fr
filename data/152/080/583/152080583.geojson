@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.157591,44.051727,2.157591,44.051727",
     "geom:latitude":44.051727,
     "geom:longitude":2.157591,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831837,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227763,
+        1108826387,
+        101831837,
+        136253037,
         102072125
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5SHPh2gRgtQk2fIQWgsDLx_44.051727_2.157591@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a21698fa60b65b68806c41b6a69e9646",
+    "wof:geomhash":"3a113bc469affa661b42365096373025",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072125,
+            "empire_id":136253037,
             "locality_id":101831837,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152080583
         }
     ],
     "wof:id":152080583,
-    "wof:lastmodified":1473798139,
+    "wof:lastmodified":1496803550,
     "wof:name":"Electrification Rurale Du Carmausin (serc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

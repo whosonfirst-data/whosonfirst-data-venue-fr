@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.733115,48.582386,7.733115,48.582386",
     "geom:latitude":48.582386,
     "geom:longitude":7.733115,
@@ -24,30 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q7nc8GCMvkhx5ppwFPBoS_48.582386_7.733115@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc96d1a0d13464de2f2dd895cd91c1a3",
+    "wof:geomhash":"c879f46412a9a4764a2d9765534204a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":169003793
         }
     ],
     "wof:id":169003793,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496785277,
     "wof:name":"Inter Service S.a.",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

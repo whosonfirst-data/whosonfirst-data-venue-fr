@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.246695,45.544281,3.246695,45.544281",
     "geom:latitude":45.544281,
     "geom:longitude":3.246695,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769581,
-        85633147,
         85683471,
+        102191581,
+        404228135,
+        404406425,
+        85633147,
+        1108826389,
+        101769581,
+        136253037,
         102067919
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7e0Hlx6CB1VFm3DvWQW2Kb_45.544281_3.246695@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b252b7082c8813cb79bf83eec3058a9",
+    "wof:geomhash":"85a7a2c06280f03977f0e164ddb5fcdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067919,
+            "empire_id":136253037,
+            "localadmin_id":404406425,
             "locality_id":101769581,
+            "macrocounty_id":404228135,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152125663
         }
     ],
     "wof:id":152125663,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496806261,
     "wof:name":"Multi Log Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

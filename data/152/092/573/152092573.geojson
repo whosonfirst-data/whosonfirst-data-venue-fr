@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.400408,45.414848,4.400408,45.414848",
     "geom:latitude":45.414848,
     "geom:longitude":4.400408,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_23g1MZKz7gq2K4PSBbzxOk_45.414848_4.400408@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"04fb8f3261e93c83677dd0866eb06aca",
+    "wof:geomhash":"25d4753999ac28b74dd9a3f2016705eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152092573
         }
     ],
     "wof:id":152092573,
-    "wof:lastmodified":1473798206,
+    "wof:lastmodified":1496800660,
     "wof:name":"Creacentre Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

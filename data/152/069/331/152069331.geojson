@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.96656,44.499111,0.96656,44.499111",
     "geom:latitude":44.499111,
     "geom:longitude":0.96656,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830403,
-        85633147,
         85683341,
+        102191581,
+        404228101,
+        404364307,
+        85633147,
+        1108826385,
+        101830403,
+        136253037,
         102066737
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_223MYQ7c8vmU5TJO1PyAXj_44.499111_0.966560@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1bdb92ba6fea58cc868f151a67282f01",
+    "wof:geomhash":"d2316b66f5b7ad2677bba4d1b33ac0d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066737,
+            "empire_id":136253037,
+            "localadmin_id":404364307,
             "locality_id":101830403,
+            "macrocounty_id":404228101,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152069331
         }
     ],
     "wof:id":152069331,
-    "wof:lastmodified":1473798077,
+    "wof:lastmodified":1496776487,
     "wof:name":"La Fromagerie De La Lemance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.067238,49.413269,1.067238,49.413269",
     "geom:latitude":49.413269,
     "geom:longitude":1.067238,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750205,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101750205,
+        136253037,
         102071819
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6NbWmr7LcqNs30hCqSs2He_49.413269_1.067238@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5dda4add0e9f844a7c5f1441037c873c",
+    "wof:geomhash":"0388b3041279419ec39298be60343a81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071819,
+            "empire_id":136253037,
             "locality_id":101750205,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152086783
         }
     ],
     "wof:id":152086783,
-    "wof:lastmodified":1473798147,
+    "wof:lastmodified":1496804855,
     "wof:name":"Societe Dumont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

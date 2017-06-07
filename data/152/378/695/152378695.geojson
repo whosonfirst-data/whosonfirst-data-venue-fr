@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.77891,50.290989,2.77891,50.290989",
     "geom:latitude":50.290989,
     "geom:longitude":2.77891,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840533,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404350809,
+        85633147,
+        1108826399,
+        101840533,
+        136253037,
         102072045
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6uF33DNnKcmDEfvcyF0xcP_50.290989_2.778910@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fd801a5be5ae34b19c58137cc2dd332",
+    "wof:geomhash":"16bb24c1fc9ed812fe4ac6073caee649",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072045,
+            "empire_id":136253037,
+            "localadmin_id":404350809,
             "locality_id":101840533,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152378695
         }
     ],
     "wof:id":152378695,
-    "wof:lastmodified":1473798389,
+    "wof:lastmodified":1496790625,
     "wof:name":"Constructions M\u00e9caniques De Vimy S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

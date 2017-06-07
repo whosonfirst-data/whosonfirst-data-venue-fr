@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.756898,45.79866,4.756898,45.79866",
     "geom:latitude":45.79866,
     "geom:longitude":4.756898,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749399,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415697,
+        85633147,
+        1108826389,
+        101749399,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0CjwwQj0tb1qJEfWfAxf3m_45.798660_4.756898@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"24437f2475ececddf680d444bf7ec74b",
+    "wof:geomhash":"328f50e77693004f4cc41a99e92d13c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404415697,
             "locality_id":101749399,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152201127
         }
     ],
     "wof:id":152201127,
-    "wof:lastmodified":1473798322,
+    "wof:lastmodified":1496780210,
     "wof:name":"Black Et Decker France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

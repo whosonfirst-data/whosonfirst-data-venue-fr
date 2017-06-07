@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.739884,50.31374,2.739884,50.31374",
     "geom:latitude":50.31374,
     "geom:longitude":2.739884,
@@ -27,28 +28,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840537,
-        85633147,
         85683255,
-        102071843
+        102191581,
+        404227723,
+        404350809,
+        85633147,
+        1108826399,
+        101840537,
+        136253037,
+        102072045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IdDEwpbUFplvN3d96S8xH_50.313740_2.739884@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d42b0b15cd2bb042569b012028089123",
+    "wof:geomhash":"a156a069ac4602a017e94dc419c3045e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071843,
+            "county_id":102072045,
+            "empire_id":136253037,
+            "localadmin_id":404350809,
             "locality_id":101840537,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":153034465
         }
     ],
     "wof:id":153034465,
-    "wof:lastmodified":1473797974,
+    "wof:lastmodified":1496790489,
     "wof:name":"Arras Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.483612,40.71666,-73.483612,40.71666",
     "geom:latitude":40.71666,
     "geom:longitude":-73.483612,
@@ -24,9 +25,11 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85979193,
-        85633793,
         85688543,
+        102191575,
+        404521475,
+        85633793,
+        85979193,
         102082371
     ],
     "wof:breaches":[],
@@ -37,15 +40,17 @@
     "wof:geomhash":"2ed16d064a28dee2565e10aada9a00a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979193,
             "region_id":85688543,
             "venue_id":152302443
         }
     ],
     "wof:id":152302443,
-    "wof:lastmodified":1473798357,
+    "wof:lastmodified":1492064685,
     "wof:name":"Bellion Simpson S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

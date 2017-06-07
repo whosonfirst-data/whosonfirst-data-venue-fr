@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.323393,45.404869,3.323393,45.404869",
     "geom:latitude":45.404869,
     "geom:longitude":3.323393,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830477,
-        85633147,
         85683413,
+        102191581,
+        404227679,
+        404417909,
+        85633147,
+        1108826389,
+        101830477,
+        136253037,
         102064483
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6PufNGhPwLUJpCh8QwllwQ_45.404869_3.323393@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d09a0b11f1e13adc8b15bbb27a6c89eb",
+    "wof:geomhash":"0c45eefbbf17f4a692dc7c697ee58960",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064483,
+            "empire_id":136253037,
+            "localadmin_id":404417909,
             "locality_id":101830477,
+            "macrocounty_id":404227679,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152122339
         }
     ],
     "wof:id":152122339,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496781409,
     "wof:name":"Lebre Ets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

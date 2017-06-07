@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.98555,42.727612,2.98555,42.727612",
     "geom:latitude":42.727612,
     "geom:longitude":2.98555,
@@ -24,9 +25,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101775143,
-        85633147,
         85683169,
+        102191581,
+        404227943,
+        404383017,
+        85633147,
+        1108826387,
+        101775143,
+        136253037,
         102069997
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0OvuagdQgutzLc3TqIxuJd_42.727612_2.985550@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf8dd0dba55d9560f74cacdf4c1cf158",
+    "wof:geomhash":"ee5004e151a70f493c833da2718fa57e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069997,
+            "empire_id":136253037,
+            "localadmin_id":404383017,
             "locality_id":101775143,
+            "macrocounty_id":404227943,
+            "macroregion_id":1108826387,
             "region_id":85683169,
             "venue_id":152725539
         }
     ],
     "wof:id":152725539,
-    "wof:lastmodified":1473798512,
+    "wof:lastmodified":1496778500,
     "wof:name":"S.i.d.e.m. S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.303452,46.629353,-0.303452,46.629353",
     "geom:latitude":46.629353,
     "geom:longitude":-0.303452,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766763,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404420937,
+        85633147,
+        1108826385,
+        101766763,
+        136253037,
         102068475
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6gVUuzevfiqsnBaTnWIfNs_46.629353_-0.303452@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2a7ffbcb99bd07c7ac2f4af7d03c8f89",
+    "wof:geomhash":"2f730153fb8c21b0a0a02054b9e7443f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068475,
+            "empire_id":136253037,
+            "localadmin_id":404420937,
             "locality_id":101766763,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152115211
         }
     ],
     "wof:id":152115211,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496775862,
     "wof:name":"Strate Forme (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

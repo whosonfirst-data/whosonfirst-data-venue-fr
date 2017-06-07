@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.043099,47.682564,6.043099,47.682564",
     "geom:latitude":47.682564,
     "geom:longitude":6.043099,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767265,
-        85633147,
         85683559,
+        102191581,
+        404227951,
+        404365645,
+        85633147,
+        1108826395,
+        101767265,
+        136253037,
         102068039
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0PKGzM9hPekbKeam1dSZVe_47.682564_6.043099@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ea985ae7b23d73bfe67d30816b68389",
+    "wof:geomhash":"580dfa8cc717cd0a833b4729a8ca2025",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068039,
+            "empire_id":136253037,
+            "localadmin_id":404365645,
             "locality_id":101767265,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152196965
         }
     ],
     "wof:id":152196965,
-    "wof:lastmodified":1473798319,
+    "wof:lastmodified":1496804433,
     "wof:name":"Fonderie D Ornement (fodor)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

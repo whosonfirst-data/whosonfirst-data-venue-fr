@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.789254,48.681751,-0.789254,48.681751",
     "geom:latitude":48.681751,
     "geom:longitude":-0.789254,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880605,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404382363,
+        85633147,
+        1108826393,
+        101880605,
+        136253037,
         102064495
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2vDGsNQYrqUJkHMipctdEH_48.681751_-0.789254@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6a8dbbc7502de3e2b76b50969ff509e",
+    "wof:geomhash":"66fa3ecca68683aed5a5d47a24b13777",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064495,
+            "empire_id":136253037,
+            "localadmin_id":404382363,
             "locality_id":101880605,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152075321
         }
     ],
     "wof:id":152075321,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496803330,
     "wof:name":"Seprolec France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

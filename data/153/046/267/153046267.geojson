@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.062498,49.216438,4.062498,49.216438",
     "geom:latitude":49.216438,
     "geom:longitude":4.062498,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750091,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404403915,
+        85633147,
+        1108826391,
+        101750091,
+        136253037,
         102071085
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1s2PoSdfjl4dZ1YoODGJkb_49.216438_4.062498@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"371bcc8a106d91ed3835d568a4cb887d",
+    "wof:geomhash":"7d36b31b28b624e897d4424c886b778a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071085,
+            "empire_id":136253037,
+            "localadmin_id":404403915,
             "locality_id":101750091,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":153046267
         }
     ],
     "wof:id":153046267,
-    "wof:lastmodified":1473797964,
+    "wof:lastmodified":1496785630,
     "wof:name":"A.g. Electricit\u00e9 S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

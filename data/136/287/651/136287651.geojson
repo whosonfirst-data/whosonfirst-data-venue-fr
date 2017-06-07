@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.314279,45.149357,5.314279,45.149357",
     "geom:latitude":45.149357,
     "geom:longitude":5.314279,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830611,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404361707,
+        85633147,
+        1108826389,
+        101830611,
+        136253037,
         102069779
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6xgzXTfOu7voYU2inzf3G4_45.149357_5.314279@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3080be032ac3e7ec39d608723287b83c",
+    "wof:geomhash":"1372359479a18a4964f838ff8fb5613c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069779,
+            "empire_id":136253037,
+            "localadmin_id":404361707,
             "locality_id":101830611,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136287651
         }
     ],
     "wof:id":136287651,
-    "wof:lastmodified":1473797930,
+    "wof:lastmodified":1496779792,
     "wof:name":"La Dauphinoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

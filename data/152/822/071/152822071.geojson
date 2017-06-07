@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.428982,45.670635,-0.428982,45.670635",
     "geom:latitude":45.670635,
     "geom:longitude":-0.428982,
@@ -22,9 +23,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892759,
-        85633147,
         85683275,
+        102191581,
+        404228209,
+        404381211,
+        85633147,
+        1108826385,
+        101892759,
+        136253037,
         102068117
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0qw4okPrGu6wQ2p82qTlyu_45.670635_-0.428982@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03e7c7f757a50a0ca76683d61f475bf0",
+    "wof:geomhash":"8399e85ed5bfafdbd3114169ee01ead8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068117,
+            "empire_id":136253037,
+            "localadmin_id":404381211,
             "locality_id":101892759,
+            "macrocounty_id":404228209,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152822071
         }
     ],
     "wof:id":152822071,
-    "wof:lastmodified":1473798533,
+    "wof:lastmodified":1496775896,
     "wof:name":"Tonnellerie Garnier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

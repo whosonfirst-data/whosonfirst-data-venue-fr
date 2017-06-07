@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.20999,43.946201,2.20999,43.946201",
     "geom:latitude":43.946201,
     "geom:longitude":2.20999,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831809,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404356249,
+        85633147,
+        1108826387,
+        101831809,
+        136253037,
         102070635
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_2ts1thH59SZQNoxFWNNtoZ_43.946201_2.209990@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f1fd0fce73231aa72c26a6358fadac9",
+    "wof:geomhash":"d7a3344cb7001dbe2c5aba20961c6cdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070635,
+            "empire_id":136253037,
+            "localadmin_id":404356249,
             "locality_id":101831809,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136284023
         }
     ],
     "wof:id":136284023,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496803552,
     "wof:name":"Forges Du Saut Du Tarn Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

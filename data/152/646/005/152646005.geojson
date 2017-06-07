@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.337271,50.442986,3.337271,50.442986",
     "geom:latitude":50.442986,
     "geom:longitude":3.337271,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899553,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404396735,
+        85633147,
+        1108826399,
+        101899553,
+        136253037,
         102071717
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0YFsU1lwntVFv7OIxPeuBP_50.442986_3.337271@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c16df981b9f56290cbcb5fa7e8a6c69",
+    "wof:geomhash":"cbba2632e93a204635f8758dea238749",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071717,
+            "empire_id":136253037,
+            "localadmin_id":404396735,
             "locality_id":101899553,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152646005
         }
     ],
     "wof:id":152646005,
-    "wof:lastmodified":1473798457,
+    "wof:lastmodified":1496790571,
     "wof:name":"Novacom S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

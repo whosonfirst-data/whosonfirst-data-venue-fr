@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.528434,48.90456,6.528434,48.90456",
     "geom:latitude":48.90456,
     "geom:longitude":6.528434,
@@ -29,8 +30,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683271,
+        102191581,
         85633147,
-        85683271
+        404381371,
+        404227923,
+        1108826391,
+        136253037,
+        102065543
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -38,16 +45,23 @@
         "sg:id":"SG_6M4fWEtEamZaAfXHYdlR87_48.904560_6.528434@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"47bc2ee2b143f6e3c31869fc36dbe959",
+    "wof:geomhash":"4b6b2525aa17b110feffd9dfef710dd8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102065543,
+            "empire_id":136253037,
+            "localadmin_id":404381371,
+            "locality_id":-1,
+            "macrocounty_id":404227923,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136306733
         }
     ],
     "wof:id":136306733,
-    "wof:lastmodified":1473798019,
+    "wof:lastmodified":1496793798,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

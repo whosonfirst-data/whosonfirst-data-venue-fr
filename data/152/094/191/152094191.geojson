@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.955185,43.317493,1.955185,43.317493",
     "geom:latitude":43.317493,
     "geom:longitude":1.955185,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773373,
-        85633147,
         85683485,
+        102191581,
+        404227607,
+        404359721,
+        85633147,
+        1108826387,
+        101773373,
+        136253037,
         102072389
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1rSYyZsgfskFVuWYxbm24D_43.317493_1.955185@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"352db7f3e9ccbf66cfb2181f82250557",
+    "wof:geomhash":"b99776a6f55d4d11d84ac462a1bdd273",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072389,
+            "empire_id":136253037,
+            "localadmin_id":404359721,
             "locality_id":101773373,
+            "macrocounty_id":404227607,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":152094191
         }
     ],
     "wof:id":152094191,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496777909,
     "wof:name":"Maison Escourrou",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.34356,43.729111,4.34356,43.729111",
     "geom:latitude":43.729111,
     "geom:longitude":4.34356,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774081,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404365801,
+        85633147,
+        1108826387,
+        101774081,
+        136253037,
         102069341
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_55gmRqABhGtNWfViOIx1HF_43.729111_4.343560@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8c7a8e8242ae3a1766fa734f2b078a78",
+    "wof:geomhash":"fbbea182bcd75ec5fff9762056f7404b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069341,
+            "empire_id":136253037,
+            "localadmin_id":404365801,
             "locality_id":101774081,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152074069
         }
     ],
     "wof:id":152074069,
-    "wof:lastmodified":1473798118,
+    "wof:lastmodified":1496777963,
     "wof:name":"Ste Cooperative Agricole Costieres Et Soleil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.013125,49.283134,1.013125,49.283134",
     "geom:latitude":49.283134,
     "geom:longitude":1.013125,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753585,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404369035,
+        85633147,
+        1108826393,
+        101753585,
+        136253037,
         102067529
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6rTYNpBjJaNE97rMG1wSpx_49.283134_1.013125@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e89be02315c1e19ecd7c016a706a7508",
+    "wof:geomhash":"1fee47f9cc8629fd5f08749f2b6a29f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067529,
+            "empire_id":136253037,
+            "localadmin_id":404369035,
             "locality_id":101753585,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152535597
         }
     ],
     "wof:id":152535597,
-    "wof:lastmodified":1473798469,
+    "wof:lastmodified":1496787250,
     "wof:name":"Imprimerie Alain S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

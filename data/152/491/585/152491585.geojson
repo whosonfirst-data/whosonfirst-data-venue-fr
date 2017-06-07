@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.805153,40.701599,-73.805153,40.701599",
     "geom:latitude":40.701599,
     "geom:longitude":-73.805153,
@@ -24,11 +25,13 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827297,
+        102191575,
         85633793,
         85977539,
+        421205767,
         102082377,
-        85827297
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,6 +41,8 @@
     "wof:geomhash":"100db9ae4db51e928a022c08706aaa7c",
     "wof:hierarchy":[
         {
+            "borough_id":421205767,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082377,
             "locality_id":85977539,
@@ -47,7 +52,7 @@
         }
     ],
     "wof:id":152491585,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1491266131,
     "wof:name":"G.c.o. - Groupe Coop\u00e9rative Occitan",
     "wof:parent_id":85827297,
     "wof:placetype":"venue",

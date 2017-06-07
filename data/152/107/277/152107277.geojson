@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.304815,46.601269,0.304815,46.601269",
     "geom:latitude":46.601269,
     "geom:longitude":0.304815,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4G70zU7rVvUwDM0HQoxleW_46.601269_0.304815@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cc24a7cf551c69acc80b0e02aed8eb23",
+    "wof:geomhash":"1e39fe8b65f03d3cb9a2292ad6e37dad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152107277
         }
     ],
     "wof:id":152107277,
-    "wof:lastmodified":1473798252,
+    "wof:lastmodified":1496775444,
     "wof:name":"Jacques Raynal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

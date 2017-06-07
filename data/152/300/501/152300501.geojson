@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.91081,45.705959,5.91081,45.705959",
     "geom:latitude":45.705959,
     "geom:longitude":5.91081,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_3mHazDhd0aPev8rW5RsxYl_45.705959_5.910810@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7aacf90e8f36762111fc66048b27a776",
+    "wof:geomhash":"cd677a7396c96321b83201d7a139488f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152300501
         }
     ],
     "wof:id":152300501,
-    "wof:lastmodified":1473798358,
+    "wof:lastmodified":1496781183,
     "wof:name":"Bauer Compresseurs S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

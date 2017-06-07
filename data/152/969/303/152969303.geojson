@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.016197,49.348763,1.016197,49.348763",
     "geom:latitude":49.348763,
     "geom:longitude":1.016197,
@@ -31,24 +32,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683251,
+        102191581,
         85633147,
-        85683251
+        404415935,
+        404228157,
+        1108826393,
+        136253037,
+        102069201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J22OO6tyLHMQpjyabBSTY_49.348763_1.016197@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6155722916191b777d3983ad6ac3796",
+    "wof:geomhash":"33ba69d03184be2cd0a4f63eb73c2bc7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102069201,
+            "empire_id":136253037,
+            "localadmin_id":404415935,
+            "locality_id":-1,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152969303
         }
     ],
     "wof:id":152969303,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496804718,
     "wof:name":"Ste Des Autoroutes Paris Normandie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

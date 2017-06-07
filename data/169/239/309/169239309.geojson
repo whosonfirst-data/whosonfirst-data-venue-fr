@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.010815,45.542805,1.010815,45.542805",
     "geom:latitude":45.542805,
     "geom:longitude":1.010815,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893267,
-        85633147,
         85683331,
+        102191581,
+        404227847,
+        404364355,
+        85633147,
+        1108826385,
+        101893267,
+        136253037,
         102067037
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0StaQ5gQ00fxdDib2EvBtk_45.542805_1.010815@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"098d828645f0123caac1da2376411030",
+    "wof:geomhash":"dcaffa9437988db236b76e0bb5949be6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067037,
+            "empire_id":136253037,
+            "localadmin_id":404364355,
             "locality_id":101893267,
+            "macrocounty_id":404227847,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":169239309
         }
     ],
     "wof:id":169239309,
-    "wof:lastmodified":1473798278,
+    "wof:lastmodified":1496777534,
     "wof:name":"Eurovernis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

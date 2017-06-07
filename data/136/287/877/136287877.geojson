@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.510995,44.289665,0.510995,44.289665",
     "geom:latitude":44.289665,
     "geom:longitude":0.510995,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896091,
-        85633147,
         85683341,
+        102191581,
+        404227689,
+        404390485,
+        85633147,
+        1108826385,
+        101896091,
+        136253037,
         102069453
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6Q4oIaHg0gYKjIAszbiK36_44.289665_0.510995@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"102d2daf411cfea602dc5168a5cebc68",
+    "wof:geomhash":"9c875fdf7ed552c89edd91fbb8350f42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069453,
+            "empire_id":136253037,
+            "localadmin_id":404390485,
             "locality_id":101896091,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136287877
         }
     ],
     "wof:id":136287877,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496776489,
     "wof:name":"Coop Prayssica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

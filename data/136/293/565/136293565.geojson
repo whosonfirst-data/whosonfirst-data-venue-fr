@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.066809,45.09296,6.066809,45.09296",
     "geom:latitude":45.09296,
     "geom:longitude":6.066809,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842845,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404389579,
+        85633147,
+        1108826389,
+        101842845,
+        136253037,
         102064655
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6W5tpY8cZqaAlOqjapDvOi_45.092960_6.066809@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9f73e5da2dfe148889c65828869be0a",
+    "wof:geomhash":"cfc2ff19841d49c7a0641c53d5be9c5d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064655,
+            "empire_id":136253037,
+            "localadmin_id":404389579,
             "locality_id":101842845,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136293565
         }
     ],
     "wof:id":136293565,
-    "wof:lastmodified":1473797919,
+    "wof:lastmodified":1496782250,
     "wof:name":"Banque Rhone Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

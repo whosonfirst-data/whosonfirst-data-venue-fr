@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.214954,46.979309,-0.214954,46.979309",
     "geom:latitude":46.979309,
     "geom:longitude":-0.214954,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829265,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829265,
+        136253037,
         102072007
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_2jdWyDGjNo0Z2TZo8tXQt1_46.979309_-0.214954@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d46a85b3707b6b8af045e24da6d8e6a7",
+    "wof:geomhash":"1b2c9649b72c59d3253c986e27e198a4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829265,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169237739
         }
     ],
     "wof:id":169237739,
-    "wof:lastmodified":1473798275,
+    "wof:lastmodified":1496776513,
     "wof:name":"Emballages Doc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

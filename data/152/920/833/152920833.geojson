@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.865319,45.74836,4.865319,45.74836",
     "geom:latitude":45.74836,
     "geom:longitude":4.865319,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7h7ezF4zhknjYPYeWE7P0r_45.748360_4.865319@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2edbab9dc616a6b67805ce8616f54541",
+    "wof:geomhash":"5a1563552f17819fad7961c816796653",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152920833
         }
     ],
     "wof:id":152920833,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496801581,
     "wof:name":"Artscan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

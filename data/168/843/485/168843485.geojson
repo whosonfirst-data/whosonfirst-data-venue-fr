@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.081267,44.124786,4.081267,44.124786",
     "geom:latitude":44.124786,
     "geom:longitude":4.081267,
@@ -22,9 +23,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831863,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227651,
+        1108826387,
+        101831863,
+        136253037,
         102072253
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_26JEC3VRUJAqPbpOsqoDKB_44.124786_4.081267@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d46cbf5f2ae69aa95810d60b1b7822fa",
+    "wof:geomhash":"9c30b9fbe98018eb6c892fff4a962f9b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072253,
+            "empire_id":136253037,
             "locality_id":101831863,
+            "macrocounty_id":404227651,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":168843485
         }
     ],
     "wof:id":168843485,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496777725,
     "wof:name":"C.c.i. D'al\u00e8s - Chambre De Commerce Et D'industrie D'al\u00e8s",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

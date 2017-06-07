@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.613555,44.195004,0.613555,44.195004",
     "geom:latitude":44.195004,
     "geom:longitude":0.613555,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1OiDQu7pvgdfOJFMgGiCBq_44.195004_0.613555@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9563439d8dabb024fabf129c96b108a",
+    "wof:geomhash":"320dca3d5c252d9e3cb091f7e43e637d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152107625
         }
     ],
     "wof:id":152107625,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1496776482,
     "wof:name":"Laboratoires Vergnolles Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

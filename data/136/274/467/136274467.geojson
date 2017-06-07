@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.900946,45.888931,0.900946,45.888931",
     "geom:latitude":45.888931,
     "geom:longitude":0.900946,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768243,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404228177,
+        1108826385,
+        101768243,
+        136253037,
         102072363
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4pAEm4DNoXVC8TIW5vYtoa_45.888931_0.900946@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21f9336a74a174a9a5f8bada912854ee",
+    "wof:geomhash":"d07f151ad5489ad34a58a50ccc1d29d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072363,
+            "empire_id":136253037,
             "locality_id":101768243,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":136274467
         }
     ],
     "wof:id":136274467,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496775838,
     "wof:name":"Aaaa Sarl",
-    "wof:parent_id":101768243,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

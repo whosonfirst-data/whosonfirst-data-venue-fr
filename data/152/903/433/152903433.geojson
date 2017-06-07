@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.864176,44.928726,4.864176,44.928726",
     "geom:latitude":44.928726,
     "geom:longitude":4.864176,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752981,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404389373,
+        85633147,
+        1108826389,
+        101752981,
+        136253037,
         102067869
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_48mPcKuxS6kJVQ1hAzijkQ_44.928726_4.864176@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e7a2859ad383ded64bd6315c29d12bde",
+    "wof:geomhash":"1b2b3e15da455b8631cc3215e47bb3c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067869,
+            "empire_id":136253037,
+            "localadmin_id":404389373,
             "locality_id":101752981,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152903433
         }
     ],
     "wof:id":152903433,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496802062,
     "wof:name":"Precision Mecanique Duc S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

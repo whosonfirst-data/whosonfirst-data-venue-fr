@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.294328,46.153069,0.294328,46.153069",
     "geom:latitude":46.153069,
     "geom:longitude":0.294328,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829373,
-        85633147,
         85683185,
+        102191581,
+        404227985,
+        404374571,
+        85633147,
+        1108826385,
+        101829373,
+        136253037,
         102065137
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_43ezxhGFvyXxVK2NAt6imn_46.153069_0.294328@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e5872805c9e5849a1a17e3f4cbd2255c",
+    "wof:geomhash":"cf66b1bb3ad95459b18c9bf2995e559d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065137,
+            "empire_id":136253037,
+            "localadmin_id":404374571,
             "locality_id":101829373,
+            "macrocounty_id":404227985,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152081201
         }
     ],
     "wof:id":152081201,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496776065,
     "wof:name":"Alimentation En Eau Potable Si",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

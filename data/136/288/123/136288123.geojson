@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.66725,45.20475,0.66725,45.20475",
     "geom:latitude":45.20475,
     "geom:longitude":0.66725,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830681,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404351339,
+        85633147,
+        1108826385,
+        101830681,
+        136253037,
         102071571
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0sssNyiJLv8EaZhKtZEXHv_45.204750_0.667250@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb0c392a40e4c3a202e4b8304cd78eb6",
+    "wof:geomhash":"275460075fbb47ff31af8b5e3265b27a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071571,
+            "empire_id":136253037,
+            "localadmin_id":404351339,
             "locality_id":101830681,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":136288123
         }
     ],
     "wof:id":136288123,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496775907,
     "wof:name":"Les Champignonnieres De Chancelade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

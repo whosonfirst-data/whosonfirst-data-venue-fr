@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.189577,46.124714,3.189577,46.124714",
     "geom:latitude":46.124714,
     "geom:longitude":3.189577,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892809,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404370163,
+        85633147,
+        1108826389,
+        101892809,
+        136253037,
         102066333
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_0kbvsOnYGbB6ydyynxXDzn_46.124714_3.189577@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55394637064a869d2b7638c3e3c87488",
+    "wof:geomhash":"2751f9ed48ca0946ac92e464fb797d33",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066333,
+            "empire_id":136253037,
+            "localadmin_id":404370163,
             "locality_id":101892809,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152104181
         }
     ],
     "wof:id":152104181,
-    "wof:lastmodified":1473798223,
+    "wof:lastmodified":1496779746,
     "wof:name":"Maison Habrial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

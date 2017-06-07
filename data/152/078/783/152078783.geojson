@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.70261,49.128632,6.70261,49.128632",
     "geom:latitude":49.128632,
     "geom:longitude":6.70261,
@@ -34,28 +35,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753509,
-        85633147,
         85683271,
-        102071535
+        102191581,
+        85633147,
+        404228121,
+        1108826391,
+        101753509,
+        136253037,
+        102072083
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fg5kxqLBaTQxQbQZXFepm_49.128632_6.702610@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b59ed61ae9314aae39055fd6c3398a85",
+    "wof:geomhash":"348c948c1d75ebfbc4bf80ba82daaa60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071535,
+            "county_id":102072083,
+            "empire_id":136253037,
             "locality_id":101753509,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152078783
         }
     ],
     "wof:id":152078783,
-    "wof:lastmodified":1473798152,
+    "wof:lastmodified":1496785202,
     "wof:name":"Societe D'electricite Et De Thermique Du Nord Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

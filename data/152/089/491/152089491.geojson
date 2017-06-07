@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.057247,46.049335,4.057247,46.049335",
     "geom:latitude":46.049335,
     "geom:longitude":4.057247,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_4wc79PskRS8Og22dHc6XaO_46.049335_4.057247@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"25ce8e0a99c098ba102a9437bb533bf2",
+    "wof:geomhash":"c21b42ab68ee4d007760cf446fda71ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152089491
         }
     ],
     "wof:id":152089491,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496802766,
     "wof:name":"Ets Pillet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

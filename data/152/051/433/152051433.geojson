@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.825132,49.284649,1.825132,49.284649",
     "geom:latitude":49.284649,
     "geom:longitude":1.825132,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760341,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404373167,
+        85633147,
+        1108826399,
+        101760341,
+        136253037,
         102065451
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2Ng8wMgUJyxAq6mE6bZ3ya_49.284649_1.825132@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"89ea677abec8371484d2fd99b9d2aeaf",
+    "wof:geomhash":"dcd1ee05d4567377430bfb93eac37550",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065451,
+            "empire_id":136253037,
+            "localadmin_id":404373167,
             "locality_id":101760341,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152051433
         }
     ],
     "wof:id":152051433,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496790043,
     "wof:name":"Seremat Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

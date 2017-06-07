@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.172114,50.692192,3.172114,50.692192",
     "geom:latitude":50.692192,
     "geom:longitude":3.172114,
@@ -28,9 +29,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751515,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
         102072029
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_50h5e7gdunQP0ziVnkMK04_50.692192_3.172114@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d5ffa6521c78a0da8bd2467282a81faa",
+    "wof:geomhash":"76d6993b3b83ca1af9217a9d0d23ff66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
             "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136303435
         }
     ],
     "wof:id":136303435,
-    "wof:lastmodified":1473798008,
+    "wof:lastmodified":1496791797,
     "wof:name":"Cr\u00e9dit Du Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

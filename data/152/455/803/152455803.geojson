@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.428906,49.51215,2.428906,49.51215",
     "geom:latitude":49.51215,
     "geom:longitude":2.428906,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814931,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404390647,
+        85633147,
+        1108826399,
+        101814931,
+        136253037,
         102070281
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1Jymwjt8xQkGg91xHIXFvO_49.512150_2.428906@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c6995d94321b6aa8dd6d08f37fa1124",
+    "wof:geomhash":"60a60bd9d827424dbd8fe987993546e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070281,
+            "empire_id":136253037,
+            "localadmin_id":404390647,
             "locality_id":101814931,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152455803
         }
     ],
     "wof:id":152455803,
-    "wof:lastmodified":1473798416,
+    "wof:lastmodified":1496791862,
     "wof:name":"Etablissements Mansard S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

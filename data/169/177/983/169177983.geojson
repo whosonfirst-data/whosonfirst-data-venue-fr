@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.101395,50.66769,3.101395,50.66769",
     "geom:latitude":50.66769,
     "geom:longitude":3.101395,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750287,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404361485,
+        85633147,
+        1108826399,
+        101750287,
+        136253037,
         102071841
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2hciZGbF1l3r5YVe8wd6rG_50.667690_3.101395@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a60f2212fce7e81b95f07e5f3752f7a2",
+    "wof:geomhash":"91d5b8dcfbda64d0869869ea7dcf178b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071841,
+            "empire_id":136253037,
+            "localadmin_id":404361485,
             "locality_id":101750287,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169177983
         }
     ],
     "wof:id":169177983,
-    "wof:lastmodified":1473798212,
+    "wof:lastmodified":1496796799,
     "wof:name":"Sopanord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.544481,46.84549,0.544481,46.84549",
     "geom:latitude":46.84549,
     "geom:longitude":0.544481,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829369,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829369,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6GKrH3pfobQFEKpwY9QUmu_46.845490_0.544481@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1d7699787033e34dbe3cc8a573c29bd1",
+    "wof:geomhash":"08897203faa789866da723ec78a4ec61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829369,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152056747
         }
     ],
     "wof:id":152056747,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496775439,
     "wof:name":"Alu Durmax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

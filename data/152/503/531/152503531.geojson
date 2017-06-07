@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.191195,45.863476,6.191195,45.863476",
     "geom:latitude":45.863476,
     "geom:longitude":6.191195,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829045,
-        85633147,
         85683227,
+        102191581,
+        404227747,
+        404418963,
+        85633147,
+        1108826389,
+        101829045,
+        136253037,
         102069795
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6ahC0EcvNu9QwyQMeuIv8l_45.863476_6.191195@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14a4070709754a23e4d27462d425eeb6",
+    "wof:geomhash":"db80c4563b8dab3aa66f13b2a1b36d88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069795,
+            "empire_id":136253037,
+            "localadmin_id":404418963,
             "locality_id":101829045,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152503531
         }
     ],
     "wof:id":152503531,
-    "wof:lastmodified":1473798437,
+    "wof:lastmodified":1496780806,
     "wof:name":"Giraudon Travaux Publics S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

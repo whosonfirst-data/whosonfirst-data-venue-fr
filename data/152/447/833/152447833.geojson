@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.12575,43.61412,-1.12575,43.61412",
     "geom:latitude":43.61412,
     "geom:longitude":-1.12575,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895657,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404358963,
+        85633147,
+        1108826385,
+        101895657,
+        136253037,
         102067195
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2cKaM1L4QkT6V6SbB21JQr_43.614120_-1.125750@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"59e430635dee031fd8d328c638a11e82",
+    "wof:geomhash":"bda00e9e01222deb4d06a5338254e5d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067195,
+            "empire_id":136253037,
+            "localadmin_id":404358963,
             "locality_id":101895657,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152447833
         }
     ],
     "wof:id":152447833,
-    "wof:lastmodified":1473798413,
+    "wof:lastmodified":1496776524,
     "wof:name":"Etablissement S\u00e9osse S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

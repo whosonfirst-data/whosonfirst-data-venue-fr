@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.53461,47.971336,3.53461,47.971336",
     "geom:latitude":47.971336,
     "geom:longitude":3.53461,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827703,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404411363,
+        85633147,
+        1108826395,
+        101827703,
+        136253037,
         102070949
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_38b3qj8dEoN7MDvmY783d0_47.971336_3.534610@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1282e530655c81386af95f8110dd65c2",
+    "wof:geomhash":"1a3c1e4019697a7a2fe0a394b1c3deee",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070949,
+            "empire_id":136253037,
+            "localadmin_id":404411363,
             "locality_id":101827703,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152088245
         }
     ],
     "wof:id":152088245,
-    "wof:lastmodified":1473798190,
+    "wof:lastmodified":1496788210,
     "wof:name":"Atm Soudure Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

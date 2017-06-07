@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.553692,46.673943,5.553692,46.673943",
     "geom:latitude":46.673943,
     "geom:longitude":5.553692,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_0kR4TYxrXlPE0XpPfB9ECh_46.673943_5.553692@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aea603397f7baf7821fa91747b876b49",
+    "wof:geomhash":"7158577fbce0422ff6df51c6e24b698a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152919219
         }
     ],
     "wof:id":152919219,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496804430,
     "wof:name":"Ste De Presse Et D'edition Du Jura Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

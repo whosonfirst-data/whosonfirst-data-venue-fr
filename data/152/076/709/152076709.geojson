@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.642038,44.783749,-0.642038,44.783749",
     "geom:latitude":44.783749,
     "geom:longitude":-0.642038,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0RjrC7hv6KX4RRSV74ZuaD_44.783749_-0.642038@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"040c5514a2918537750b528d2dd5cfc4",
+    "wof:geomhash":"ee67f4dee94a128783313fb6a2d9a371",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152076709
         }
     ],
     "wof:id":152076709,
-    "wof:lastmodified":1473798145,
+    "wof:lastmodified":1496776397,
     "wof:name":"Aero Cablage Electronique (ace)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

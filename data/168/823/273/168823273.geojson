@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.375261,43.63913,1.375261,43.63913",
     "geom:latitude":43.63913,
     "geom:longitude":1.375261,
@@ -22,32 +23,55 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q9Y8mlLVTOeDX2XwkW9LQ_43.639130_1.375261@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99ecd7157fc1ae52445243ac605b6ab2",
+    "wof:geomhash":"3831360d9300d0316f7ee4cf09f5d6b2",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":168823273
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":168823273
         }
     ],
     "wof:id":168823273,
-    "wof:lastmodified":1473797874,
+    "wof:lastmodified":1496803740,
     "wof:name":"Barry Controls A\u00e9rospace S.n.c.",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

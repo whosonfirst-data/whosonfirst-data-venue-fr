@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.078824,44.099445,3.078824,44.099445",
     "geom:latitude":44.099445,
     "geom:longitude":3.078824,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831891,
-        85633147,
         85683301,
+        102191581,
+        404227609,
+        404348401,
+        85633147,
+        1108826387,
+        101831891,
+        136253037,
         102072101
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3NWPb2GRgoGKWkTmYo37EM_44.099445_3.078824@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c014b61936ba81cbc2f5f8cc38b1e227",
+    "wof:geomhash":"c1f5ddc953d342dfe78edde655199ff7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072101,
+            "empire_id":136253037,
+            "localadmin_id":404348401,
             "locality_id":101831891,
+            "macrocounty_id":404227609,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":136279793
         }
     ],
     "wof:id":136279793,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496803529,
     "wof:name":"Societe Marseillaise De Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.142768,43.936237,2.142768,43.936237",
     "geom:latitude":43.936237,
     "geom:longitude":2.142768,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831831,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404365101,
+        85633147,
+        1108826387,
+        101831831,
+        136253037,
         102072053
     ],
     "wof:brand_id":420574991,
@@ -45,18 +51,23 @@
         "sg:id":"SG_4i3Vhd0gJCCh3y9ZJi2ggB_43.936237_2.142768@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3efd24c4afcad968758ffd9976f22db",
+    "wof:geomhash":"e9894d8533b754a5e63f84fffc508a3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072053,
+            "empire_id":136253037,
+            "localadmin_id":404365101,
             "locality_id":101831831,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152080365
         }
     ],
     "wof:id":152080365,
-    "wof:lastmodified":1473798135,
+    "wof:lastmodified":1496803549,
     "wof:name":"Electricite De France (edf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

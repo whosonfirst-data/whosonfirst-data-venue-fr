@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.803125,48.667809,7.803125,48.667809",
     "geom:latitude":48.667809,
     "geom:longitude":7.803125,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762239,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404385109,
+        85633147,
+        1108826391,
+        101762239,
+        136253037,
         102065205
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2nEPsDsE6R8G5Xgq2s656h_48.667809_7.803125@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40c2795614331d67afc8d6c3685cf48a",
+    "wof:geomhash":"37e196dbc281828ce9dc78968c53d393",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065205,
+            "empire_id":136253037,
+            "localadmin_id":404385109,
             "locality_id":101762239,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136277121
         }
     ],
     "wof:id":136277121,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496784685,
     "wof:name":"Euro Tvs Sa",
-    "wof:parent_id":101762239,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

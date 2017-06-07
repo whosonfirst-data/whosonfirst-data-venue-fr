@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.601761,49.20694,2.601761,49.20694",
     "geom:latitude":49.20694,
     "geom:longitude":2.601761,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5rKKv2X1JAuKwXags3eKFa_49.206940_2.601761@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56893472351b3a14aa6fc5283b4134a2",
+    "wof:geomhash":"845ee9bba01d539374d3310d0a7ad389",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152055015
         }
     ],
     "wof:id":152055015,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496790063,
     "wof:name":"Loctite France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

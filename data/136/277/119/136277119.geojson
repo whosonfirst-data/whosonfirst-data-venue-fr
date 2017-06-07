@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.07558,49.217209,4.07558,49.217209",
     "geom:latitude":49.217209,
     "geom:longitude":4.07558,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753503,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404397157,
+        85633147,
+        1108826391,
+        101753503,
+        136253037,
         102071085
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6x6B7vTxgTbZkvpg0lI5Ep_49.217209_4.075580@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"894342afc7372d8019a593cd800768ac",
+    "wof:geomhash":"c9fddb03b5e0717bab80626bb0b88d8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071085,
+            "empire_id":136253037,
+            "localadmin_id":404397157,
             "locality_id":101753503,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136277119
         }
     ],
     "wof:id":136277119,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496805561,
     "wof:name":"Eurisk",
-    "wof:parent_id":101753503,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.75389,50.41172,2.75389,50.41172",
     "geom:latitude":50.41172,
     "geom:longitude":2.75389,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840443,
-        85633147,
         85683255,
-        102071937
+        102191581,
+        404228311,
+        404402663,
+        85633147,
+        1108826399,
+        101840443,
+        136253037,
+        102071771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44MCO1Z0145fh66UOXFlWb_50.411720_2.753890@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8096ab102bec4dcd7cefd7b19b85671",
+    "wof:geomhash":"24a89484ee3b8f342963ade051c48b70",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071937,
+            "county_id":102071771,
+            "empire_id":136253037,
+            "localadmin_id":404402663,
             "locality_id":101840443,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152592743
         }
     ],
     "wof:id":152592743,
-    "wof:lastmodified":1473798482,
+    "wof:lastmodified":1496790700,
     "wof:name":"Logitec S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

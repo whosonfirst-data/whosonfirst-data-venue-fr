@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.038692,50.11644,3.038692,50.11644",
     "geom:latitude":50.11644,
     "geom:longitude":3.038692,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812611,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404412643,
+        85633147,
+        1108826399,
+        101812611,
+        136253037,
         102066259
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7N83wLQOEFppKKfneEODjG_50.116440_3.038692@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"18d27777d91d499ce4a1e9c5aed9de9c",
+    "wof:geomhash":"90351a5440e4e80418ccf554b1c214fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066259,
+            "empire_id":136253037,
+            "localadmin_id":404412643,
             "locality_id":101812611,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152068431
         }
     ],
     "wof:id":152068431,
-    "wof:lastmodified":1473798075,
+    "wof:lastmodified":1496790518,
     "wof:name":"Bennes Delmotte Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

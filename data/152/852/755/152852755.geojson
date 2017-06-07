@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.234455,50.618107,3.234455,50.618107",
     "geom:latitude":50.618107,
     "geom:longitude":3.234455,
@@ -22,28 +23,39 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85794639,
-        102070353
+        102191581,
+        85633147,
+        404421999,
+        404228283,
+        1108826399,
+        136253037,
+        102070353,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sr5nvuIATItAdnRz7tfHM_50.618107_3.234455@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"000ee4c488fd77e9d29007e2ee09dfd9",
+    "wof:geomhash":"4f2470ecd1793b93cbd00715ff1e1553",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070353,
+            "empire_id":136253037,
+            "localadmin_id":404421999,
+            "locality_id":-1,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794639,
             "region_id":85683445,
             "venue_id":152852755
         }
     ],
     "wof:id":152852755,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496790982,
     "wof:name":"Willecomme Fr\u00e9d\u00e9ric",
     "wof:parent_id":85794639,
     "wof:placetype":"venue",

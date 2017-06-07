@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.890466,45.273548,5.890466,45.273548",
     "geom:latitude":45.273548,
     "geom:longitude":5.890466,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830577,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404371443,
+        85633147,
+        1108826389,
+        101830577,
+        136253037,
         102070371
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_291HYzQHQJ1CQ83RFb6koi_45.273548_5.890466@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"104791710b876f31e47139f1297ca111",
+    "wof:geomhash":"f7d47353e37217d3b73386848936bf24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070371,
+            "empire_id":136253037,
+            "localadmin_id":404371443,
             "locality_id":101830577,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152420647
         }
     ],
     "wof:id":152420647,
-    "wof:lastmodified":1473798407,
+    "wof:lastmodified":1496779594,
     "wof:name":"E.c.t.r.a. S.a. - Emballage Conditionnement Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

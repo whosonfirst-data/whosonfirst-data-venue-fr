@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.229064,46.22403,5.229064,46.22403",
     "geom:latitude":46.22403,
     "geom:longitude":5.229064,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829109,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404413457,
+        85633147,
+        1108826389,
+        101829109,
+        136253037,
         102072433
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_208uYK0KMnZNyIAZgFMIvr_46.224030_5.229064@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6e396d06809c9d10bed0accf79de32b6",
+    "wof:geomhash":"05cf3d535f2e619eda46aa9a2b8bca88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
             "locality_id":101829109,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152052463
         }
     ],
     "wof:id":152052463,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496779732,
     "wof:name":"Sercomex Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.596882,49.204205,2.596882,49.204205",
     "geom:latitude":49.204205,
     "geom:longitude":2.596882,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760379,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404349015,
+        85633147,
+        1108826399,
+        101760379,
+        136253037,
         102070475
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1boengf4pOQQl0UHJsKIYw_49.204205_2.596882@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"90dec95c935c21abdb8e49630f69d09e",
+    "wof:geomhash":"5261a2767c8daf9c540e76cef08e75c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070475,
+            "empire_id":136253037,
+            "localadmin_id":404349015,
             "locality_id":101760379,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136277165
         }
     ],
     "wof:id":136277165,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496792654,
     "wof:name":"Excom",
-    "wof:parent_id":101760379,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

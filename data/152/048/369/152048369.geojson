@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.081815,49.365379,0.081815,49.365379",
     "geom:latitude":49.365379,
     "geom:longitude":0.081815,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828429,
-        85633147,
         85683579,
+        102191581,
+        404228031,
+        404362781,
+        85633147,
+        1108826393,
+        101828429,
+        136253037,
         102070567
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_39VA5EnE6xKpU4FS6PAA8J_49.365379_0.081815@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7994de65ac766f1f6905bbf45870cf53",
+    "wof:geomhash":"fdd94ccf8af25f08cfb80f088203f5bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070567,
+            "empire_id":136253037,
+            "localadmin_id":404362781,
             "locality_id":101828429,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152048369
         }
     ],
     "wof:id":152048369,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496786907,
     "wof:name":"Hotel Central Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

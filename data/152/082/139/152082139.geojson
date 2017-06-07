@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.024827,47.298569,5.024827,47.298569",
     "geom:latitude":47.298569,
     "geom:longitude":5.024827,
@@ -42,9 +43,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749543,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404381687,
+        85633147,
+        1108826395,
+        101749543,
+        136253037,
         102072147
     ],
     "wof:breaches":[],
@@ -52,18 +58,23 @@
         "sg:id":"SG_0Uiartw4HpZRSAB9EIZMu9_47.298569_5.024827@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"335e926151f6b5ab0c9a4ead8e3d0c23",
+    "wof:geomhash":"a3c19bb7f3bacb3a6923209fba99530b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072147,
+            "empire_id":136253037,
+            "localadmin_id":404381687,
             "locality_id":101749543,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152082139
         }
     ],
     "wof:id":152082139,
-    "wof:lastmodified":1473798120,
+    "wof:lastmodified":1496794947,
     "wof:name":"Trumel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

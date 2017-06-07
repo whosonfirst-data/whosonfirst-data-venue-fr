@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.755281,45.572651,3.755281,45.572651",
     "geom:latitude":45.572651,
     "geom:longitude":3.755281,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683471,
+        102191581,
         85633147,
-        85683471
+        404354315,
+        404227725,
+        1108826389,
+        136253037,
+        102064511
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EUOBfKfJLkv2D6LBZZ1pY_45.572651_3.755281@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88c60f66db16283ea7799f3390b624ec",
+    "wof:geomhash":"3dcccc678e6271937f5edce03ed82e24",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102064511,
+            "empire_id":136253037,
+            "localadmin_id":404354315,
+            "locality_id":-1,
+            "macrocounty_id":404227725,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152065865
         }
     ],
     "wof:id":152065865,
-    "wof:lastmodified":1473798093,
+    "wof:lastmodified":1496780162,
     "wof:name":"Batiments Travaux Publics Du Livradois (btpl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

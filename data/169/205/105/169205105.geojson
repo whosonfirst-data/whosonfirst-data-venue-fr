@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.950171,45.577736,5.950171,45.577736",
     "geom:latitude":45.577736,
     "geom:longitude":5.950171,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750761,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404409001,
+        85633147,
+        1108826389,
+        101750761,
+        136253037,
         102070417
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7auySb0MMZH02ZUDqmQy74_45.577736_5.950171@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f2f50e43a239d4d4c8a5c4476c8029b9",
+    "wof:geomhash":"21cbe304fed88a4373f215327e78f98c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070417,
+            "empire_id":136253037,
+            "localadmin_id":404409001,
             "locality_id":101750761,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":169205105
         }
     ],
     "wof:id":169205105,
-    "wof:lastmodified":1473798213,
+    "wof:lastmodified":1496782063,
     "wof:name":"Transports Ortolland S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

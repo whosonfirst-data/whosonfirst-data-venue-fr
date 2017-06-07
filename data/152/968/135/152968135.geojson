@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.330569,49.147896,1.330569,49.147896",
     "geom:latitude":49.147896,
     "geom:longitude":1.330569,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101843283,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404399245,
+        85633147,
+        1108826393,
+        101843283,
+        136253037,
         102071175
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_02lMAfIZaEecu23iGR8CwF_49.147896_1.330569@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"750166a19718354fe0cefbcc61375047",
+    "wof:geomhash":"c85dd2355f1d7f342ff135d1c3228702",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071175,
+            "empire_id":136253037,
+            "localadmin_id":404399245,
             "locality_id":101843283,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152968135
         }
     ],
     "wof:id":152968135,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496787339,
     "wof:name":"Societe Des Autoroutes Paris Normandie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

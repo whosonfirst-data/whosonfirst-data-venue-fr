@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.360173,46.673782,4.360173,46.673782",
     "geom:latitude":46.673782,
     "geom:longitude":4.360173,
@@ -24,9 +25,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829217,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101829217,
+        136253037,
         102072165
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_1AFpysgW2VeUyh6EdKVP4n_46.673782_4.360173@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ebbf0e9554156638a1fa45d754b28b5a",
+    "wof:geomhash":"a1e9dcd18bc4005414c4d6814053fa8c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072165,
+            "empire_id":136253037,
             "locality_id":101829217,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":168983939
         }
     ],
     "wof:id":168983939,
-    "wof:lastmodified":1473798194,
+    "wof:lastmodified":1496794666,
     "wof:name":"H.b.c.m. Unit\u00e9 D'exploitation De Blanzy - Houill\u00e8res Bassin Centre Midi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

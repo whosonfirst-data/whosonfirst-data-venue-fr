@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.224485,49.485153,0.224485,49.485153",
     "geom:latitude":49.485153,
     "geom:longitude":0.224485,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753027,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404396745,
+        85633147,
+        1108826393,
+        101753027,
+        136253037,
         102071797
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7ZlHbz4sbp4L8WWXW4QNcP_49.485153_0.224485@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2938713ce5cb450ac1caf8b6b0a0e1e",
+    "wof:geomhash":"fd4ca3a7f33c76ab69e433685280ca83",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071797,
+            "empire_id":136253037,
+            "localadmin_id":404396745,
             "locality_id":101753027,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":153024653
         }
     ],
     "wof:id":153024653,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496787362,
     "wof:name":"Lbc Sogestran Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.712456,49.823299,2.712456,49.823299",
     "geom:latitude":49.823299,
     "geom:longitude":2.712456,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812551,
-        85633147,
         85683363,
+        102191581,
+        404228165,
+        404392951,
+        85633147,
+        1108826399,
+        101812551,
+        136253037,
         102070795
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5F64IFIBfnWaUjRqZUJLUT_49.823299_2.712456@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a7807ae446d91cca9568b796567c6368",
+    "wof:geomhash":"6abbbe39dc3742098789403790417452",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070795,
+            "empire_id":136253037,
+            "localadmin_id":404392951,
             "locality_id":101812551,
+            "macrocounty_id":404228165,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152082969
         }
     ],
     "wof:id":152082969,
-    "wof:lastmodified":1473798152,
+    "wof:lastmodified":1496790062,
     "wof:name":"Saur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.281437,46.204109,6.281437,46.204109",
     "geom:latitude":46.204109,
     "geom:longitude":6.281437,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753263,
-        85633147,
         85683227,
-        102065179
+        102191581,
+        404228155,
+        404368729,
+        85633147,
+        1108826389,
+        101753263,
+        136253037,
+        102072085
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LfvlqaApmYFMb2d7NpvkU_46.204109_6.281437@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f97129793b9cbf219a69b9822aa0c069",
+    "wof:geomhash":"e5c32903ecc23f8b9d01d34d8ca1687f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102065179,
+            "county_id":102072085,
+            "empire_id":136253037,
+            "localadmin_id":404368729,
             "locality_id":101753263,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152111193
         }
     ],
     "wof:id":152111193,
-    "wof:lastmodified":1473798261,
+    "wof:lastmodified":1496780087,
     "wof:name":"Meubles Fly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

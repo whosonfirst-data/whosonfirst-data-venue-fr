@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.899263,44.936653,4.899263,44.936653",
     "geom:latitude":44.936653,
     "geom:longitude":4.899263,
@@ -22,9 +23,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1UT7TtCZYLHJSRKesIy04k_44.936653_4.899263@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5792a92d3ccc2cb1c7bc08dbaa73edd",
+    "wof:geomhash":"c31cbaf156732485379758934e135e72",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152480585
         }
     ],
     "wof:id":152480585,
-    "wof:lastmodified":1473798425,
+    "wof:lastmodified":1496800097,
     "wof:name":"Foire Exposition De Valence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

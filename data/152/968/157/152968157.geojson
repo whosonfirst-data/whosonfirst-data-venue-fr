@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.134683,47.302303,5.134683,47.302303",
     "geom:latitude":47.302303,
     "geom:longitude":5.134683,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753311,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404410507,
+        85633147,
+        1108826395,
+        101753311,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7mq7sTKwLAWqunV1yNKt59_47.302303_5.134683@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d4df3e8f237196a6b744d220cf8c59b0",
+    "wof:geomhash":"cdc33b00bc654128f50933378a4f6119",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404410507,
             "locality_id":101753311,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152968157
         }
     ],
     "wof:id":152968157,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496788322,
     "wof:name":"Societe Des Autoroutes Paris Rhin Rhone Centre D'entretien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

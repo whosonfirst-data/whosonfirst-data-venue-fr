@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.385279,44.533298,-0.385279,44.533298",
     "geom:latitude":44.533298,
     "geom:longitude":-0.385279,
@@ -24,24 +25,37 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683243,
+        102191581,
         85633147,
-        85683243
+        404382667,
+        404228071,
+        1108826385,
+        136253037,
+        102070669
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TfRWqTKvqM8fv5jmEu7j6_44.533298_-0.385279@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"de1b7a99cedbf79cdbd1cc939e722808",
+    "wof:geomhash":"3a52eaede2e0f9b30ed59d4c5354e0e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070669,
+            "empire_id":136253037,
+            "localadmin_id":404382667,
+            "locality_id":-1,
+            "macrocounty_id":404228071,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152365111
         }
     ],
     "wof:id":152365111,
-    "wof:lastmodified":1473798386,
+    "wof:lastmodified":1496798353,
     "wof:name":"Ch\u00e2teau Moulins \u00e0 Vent S.c.i.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

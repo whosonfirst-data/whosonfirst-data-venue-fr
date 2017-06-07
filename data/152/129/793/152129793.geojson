@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.878414,45.046703,3.878414,45.046703",
     "geom:latitude":45.046703,
     "geom:longitude":3.878414,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830479,
-        85633147,
         85683413,
+        102191581,
+        404227891,
+        404380225,
+        85633147,
+        1108826389,
+        101830479,
+        136253037,
         102067819
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1wqKizUe3ZwVJB5GQUVNeP_45.046703_3.878414@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8613fa1786b6b44c12f97b85774daef0",
+    "wof:geomhash":"5ccb7970abcfa830157fda6d6ab8504f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067819,
+            "empire_id":136253037,
+            "localadmin_id":404380225,
             "locality_id":101830479,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152129793
         }
     ],
     "wof:id":152129793,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496779606,
     "wof:name":"Velay Precision ( Jourdain P) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

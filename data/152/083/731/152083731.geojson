@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.438825,49.3363,2.438825,49.3363",
     "geom:latitude":49.3363,
     "geom:longitude":2.438825,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828485,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404371781,
+        85633147,
+        1108826399,
+        101828485,
+        136253037,
         102068031
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3sFO4Z3nylRpUFy5p5rhIt_49.336300_2.438825@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"929f14b84f36e87935a391208b82c437",
+    "wof:geomhash":"bb5f06dc42deb372a245a671181e1f68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068031,
+            "empire_id":136253037,
+            "localadmin_id":404371781,
             "locality_id":101828485,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152083731
         }
     ],
     "wof:id":152083731,
-    "wof:lastmodified":1473798150,
+    "wof:lastmodified":1496790145,
     "wof:name":"Sp Defense Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

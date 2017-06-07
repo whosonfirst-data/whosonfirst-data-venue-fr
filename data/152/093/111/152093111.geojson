@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.16133,49.26907,2.16133,49.26907",
     "geom:latitude":49.26907,
     "geom:longitude":2.16133,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760303,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404361647,
+        85633147,
+        1108826399,
+        101760303,
+        136253037,
         102068549
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5IO9VdUcp0423gJWNGo5wA_49.269070_2.161330@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40867c48c74b6b8c22fabd5985886b1c",
+    "wof:geomhash":"e665ce38c1fd53f695fb8380678987eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068549,
+            "empire_id":136253037,
+            "localadmin_id":404361647,
             "locality_id":101760303,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152093111
         }
     ],
     "wof:id":152093111,
-    "wof:lastmodified":1473798166,
+    "wof:lastmodified":1496795840,
     "wof:name":"Verrerie Souffl\u00e9e M\u00e9canique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

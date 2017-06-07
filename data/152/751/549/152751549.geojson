@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.961409,48.979614,6.961409,48.979614",
     "geom:latitude":48.979614,
     "geom:longitude":6.961409,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101881355,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404357281,
+        85633147,
+        1108826391,
+        101881355,
+        136253037,
         102069597
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3R6zTdPV7xYnmZwfHoxcMO_48.979614_6.961409@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"094fc1e2709ccac8b3af7e5e52f2fbce",
+    "wof:geomhash":"0ebd14030b26193cb7b9873f3f909a19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069597,
+            "empire_id":136253037,
+            "localadmin_id":404357281,
             "locality_id":101881355,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152751549
         }
     ],
     "wof:id":152751549,
-    "wof:lastmodified":1473798514,
+    "wof:lastmodified":1496785768,
     "wof:name":"Scierie Parqueterie Lorraine S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

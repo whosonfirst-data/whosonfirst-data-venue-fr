@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.155735,49.303364,1.155735,49.303364",
     "geom:latitude":49.303364,
     "geom:longitude":1.155735,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753537,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404384587,
+        85633147,
+        1108826393,
+        101753537,
+        136253037,
         102069445
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2uZzg3l9cCHJ6m36DuY20w_49.303364_1.155735@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5e008773ea7f0ffe15fe535d0027efdd",
+    "wof:geomhash":"31ad80aa9541d859aa1e7848652e8313",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069445,
+            "empire_id":136253037,
+            "localadmin_id":404384587,
             "locality_id":101753537,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152076885
         }
     ],
     "wof:id":152076885,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496804880,
     "wof:name":"Comptoir Elbeuvien D'electricite Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

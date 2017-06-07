@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.832943,45.755058,4.832943,45.755058",
     "geom:latitude":45.755058,
     "geom:longitude":4.832943,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1SDIjYcaxkAresqj9NXhrm_45.755058_4.832943@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d9dc996ba52071d1637b3ea1659dcc3d",
+    "wof:geomhash":"5b64f880536ce049e37ac3b3d6f5044c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136280159
         }
     ],
     "wof:id":136280159,
-    "wof:lastmodified":1473797889,
+    "wof:lastmodified":1496780359,
     "wof:name":"Tresorerie Generale Du Rhone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

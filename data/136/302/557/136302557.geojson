@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.589676,43.568096,1.589676,43.568096",
     "geom:latitude":43.568096,
     "geom:longitude":1.589676,
@@ -27,8 +28,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683397,
+        102191581,
         85633147,
-        85683397
+        404399917,
+        404228067,
+        1108826387,
+        136253037,
+        102067503
     ],
     "wof:brand_id":420575123,
     "wof:breaches":[],
@@ -36,16 +43,23 @@
         "sg:id":"SG_4AMu7kr7WWJMINg63Ww45D_43.568096_1.589676@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8622fe625406f38d8b8c40bd3b865ba",
+    "wof:geomhash":"d04ae3f00130b21d36da47892b395c78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102067503,
+            "empire_id":136253037,
+            "localadmin_id":404399917,
+            "locality_id":-1,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":136302557
         }
     ],
     "wof:id":136302557,
-    "wof:lastmodified":1473798008,
+    "wof:lastmodified":1496778362,
     "wof:name":"Cr\u00e9dit Agricole Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

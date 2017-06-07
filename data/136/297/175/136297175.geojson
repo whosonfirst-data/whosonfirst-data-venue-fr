@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.575216,44.843838,-0.575216,44.843838",
     "geom:latitude":44.843838,
     "geom:longitude":-0.575216,
@@ -29,30 +30,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897685,
+        102191581,
         85633147,
+        404227869,
+        1108826385,
         101748979,
+        136253037,
         102072453,
-        85897685
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BJQYmFAcUtjRodCl9ydVM_44.843838_-0.575216@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f189338eb33d7a6f0ae2c6c9ebf4baee",
+    "wof:geomhash":"37c5b7d9d518a5ddfd25c4894ff33b03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
             "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897685,
             "region_id":85683243,
             "venue_id":136297175
         }
     ],
     "wof:id":136297175,
-    "wof:lastmodified":1473797896,
+    "wof:lastmodified":1496797600,
     "wof:name":"Banque Francaise Du Commerce, Ext\u00e9rieur (bfce)",
     "wof:parent_id":85897685,
     "wof:placetype":"venue",

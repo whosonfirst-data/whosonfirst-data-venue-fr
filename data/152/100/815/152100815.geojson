@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.307185,43.295017,-0.307185,43.295017",
     "geom:latitude":43.295017,
     "geom:longitude":-0.307185,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749213,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404419611,
+        85633147,
+        1108826385,
+        101749213,
+        136253037,
         102070045
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2JM7RkFgif2lNkzvaaOLZd_43.295017_-0.307185@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a203db2f9a4293f97fd8d9230fdf0a75",
+    "wof:geomhash":"9da1e875f7634cf4dea21a3f0e43c1e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070045,
+            "empire_id":136253037,
+            "localadmin_id":404419611,
             "locality_id":101749213,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152100815
         }
     ],
     "wof:id":152100815,
-    "wof:lastmodified":1473798246,
+    "wof:lastmodified":1496776248,
     "wof:name":"Manufactures D'articles De Peche Des Pyrenees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.051115,49.266285,4.051115,49.266285",
     "geom:latitude":49.266285,
     "geom:longitude":4.051115,
@@ -22,9 +23,13 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_4mbK9MMtWQIbfUscNMbSFd_49.266285_4.051115@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ec97aa6c6c48e838ae809e888f86a5b",
+    "wof:geomhash":"88801f0ece42ef0c3faa95324198b2c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":169167387
         }
     ],
     "wof:id":169167387,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496783916,
     "wof:name":"Soci\u00e9t\u00e9 Fran\u00e7aise Des P\u00e2tes Barry S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

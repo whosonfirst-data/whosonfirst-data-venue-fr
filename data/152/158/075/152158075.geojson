@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.289373,48.780125,0.289373,48.780125",
     "geom:latitude":48.780125,
     "geom:longitude":0.289373,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879735,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404361935,
+        85633147,
+        1108826393,
+        101879735,
+        136253037,
         102067277
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1kW2rheZ5MS223V16fSUzJ_48.780125_0.289373@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c09fd7d791b53fbcbc977b9f602ac669",
+    "wof:geomhash":"7a50dd07db500a3012a3852a01850354",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067277,
+            "empire_id":136253037,
+            "localadmin_id":404361935,
             "locality_id":101879735,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152158075
         }
     ],
     "wof:id":152158075,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496803003,
     "wof:name":"Socopa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

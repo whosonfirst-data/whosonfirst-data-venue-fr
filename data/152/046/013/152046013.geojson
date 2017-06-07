@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.22135,50.530811,3.22135,50.530811",
     "geom:latitude":50.530811,
     "geom:longitude":3.22135,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811417,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404387773,
+        85633147,
+        1108826399,
+        101811417,
+        136253037,
         102068135
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7A2hzXPBj1QDUVp20CHLGI_50.530811_3.221350@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c755bfae93a223c4e1b3a54fe26f04c5",
+    "wof:geomhash":"ded61b0fd5d26b4041328ed92548d6b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068135,
+            "empire_id":136253037,
+            "localadmin_id":404387773,
             "locality_id":101811417,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152046013
         }
     ],
     "wof:id":152046013,
-    "wof:lastmodified":1473797861,
+    "wof:lastmodified":1496791072,
     "wof:name":"Institut De Genech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

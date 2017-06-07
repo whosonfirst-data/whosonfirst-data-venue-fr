@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.155845,50.685326,3.155845,50.685326",
     "geom:latitude":50.685326,
     "geom:longitude":3.155845,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750249,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404407891,
+        85633147,
+        1108826399,
+        101750249,
+        136253037,
         102071681
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0VImDyO1F2ybbwTfccduOQ_50.685326_3.155845@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c23561d398b0c1482f3d53b01a19cc61",
+    "wof:geomhash":"b4c9c5f09c67f59cb1ecab151cd26b69",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071681,
+            "empire_id":136253037,
+            "localadmin_id":404407891,
             "locality_id":101750249,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152087951
         }
     ],
     "wof:id":152087951,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496791027,
     "wof:name":"Stael",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

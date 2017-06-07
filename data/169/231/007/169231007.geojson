@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.389008,45.397697,1.389008,45.397697",
     "geom:latitude":45.397697,
     "geom:longitude":1.389008,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769285,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404413001,
+        85633147,
+        1108826385,
+        101769285,
+        136253037,
         102066983
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_3GjyDh727dE1MjV5BucqE0_45.397697_1.389008@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"883ab525d8985d7540ec75e25c280393",
+    "wof:geomhash":"df05efa55c436bc6dc304cde61ad6d07",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066983,
+            "empire_id":136253037,
+            "localadmin_id":404413001,
             "locality_id":101769285,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":169231007
         }
     ],
     "wof:id":169231007,
-    "wof:lastmodified":1473798252,
+    "wof:lastmodified":1496777294,
     "wof:name":"Barbe Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

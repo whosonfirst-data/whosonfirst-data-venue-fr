@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.174541,45.887314,2.174541,45.887314",
     "geom:latitude":45.887314,
     "geom:longitude":2.174541,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768307,
-        85633147,
         85683179,
+        102191581,
+        404227633,
+        404350445,
+        85633147,
+        1108826385,
+        101768307,
+        136253037,
         102067185
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_19m8HjTH6sggCNe7etvSKa_45.887314_2.174541@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c34a29467c1ea67bb5b52fc75dd23bea",
+    "wof:geomhash":"c29659be4d15ea49c0541658dab53a3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067185,
+            "empire_id":136253037,
+            "localadmin_id":404350445,
             "locality_id":101768307,
+            "macrocounty_id":404227633,
+            "macroregion_id":1108826385,
             "region_id":85683179,
             "venue_id":152046311
         }
     ],
     "wof:id":152046311,
-    "wof:lastmodified":1473797906,
+    "wof:lastmodified":1496777266,
     "wof:name":"Lycee Des Metiers Du Batiment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

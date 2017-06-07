@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.507056,49.309052,2.507056,49.309052",
     "geom:latitude":49.309052,
     "geom:longitude":2.507056,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760519,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404381429,
+        85633147,
+        1108826399,
+        101760519,
+        136253037,
         102068031
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5HNyRi750zzVD6n3xRpUsA_49.309052_2.507056@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aef7a67287e7d57d5db5bf2a3b62a0a7",
+    "wof:geomhash":"0f9a8d09576bd6d805df2c146e93a5d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068031,
+            "empire_id":136253037,
+            "localadmin_id":404381429,
             "locality_id":101760519,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152066959
         }
     ],
     "wof:id":152066959,
-    "wof:lastmodified":1473798043,
+    "wof:lastmodified":1496790143,
     "wof:name":"Guillou Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

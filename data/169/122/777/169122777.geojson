@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.935757,45.757214,4.935757,45.757214",
     "geom:latitude":45.757214,
     "geom:longitude":4.935757,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_26xW17GKDYmaZNwSGIqQ1N_45.757214_4.935757@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9b342528d8ccdcc937a095505ee6414d",
+    "wof:geomhash":"fa8073a53ab63b0aed258f88b3a21da7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169122777
         }
     ],
     "wof:id":169122777,
-    "wof:lastmodified":1473798123,
+    "wof:lastmodified":1496781112,
     "wof:name":"R\u00e9vol Et Sonier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

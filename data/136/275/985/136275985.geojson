@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.577313,47.794846,3.577313,47.794846",
     "geom:latitude":47.794846,
     "geom:longitude":3.577313,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3tIPeNIHs4spncUOcmmUb8_47.794846_3.577313@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"787bce209317120945234b608f684c73",
+    "wof:geomhash":"d971d8d2530cd7398c57c471a426dfc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136275985
         }
     ],
     "wof:id":136275985,
-    "wof:lastmodified":1473797948,
+    "wof:lastmodified":1496794895,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De L'yonne (ca) Credit Agricole",
-    "wof:parent_id":101829667,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

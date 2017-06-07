@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.051737,45.500626,6.051737,45.500626",
     "geom:latitude":45.500626,
     "geom:longitude":6.051737,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769245,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387101,
+        85633147,
+        1108826389,
+        101769245,
+        136253037,
         102067647
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_774aBR6ZWueC9SVDy3cqxz_45.500626_6.051737@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"191a1d36ddea02d5d965c4633c55d735",
+    "wof:geomhash":"84b7dd1c6289db9607656a039fb372e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067647,
+            "empire_id":136253037,
+            "localadmin_id":404387101,
             "locality_id":101769245,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152163651
         }
     ],
     "wof:id":152163651,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496781069,
     "wof:name":"Atelier Alpes Techniques Equipements Aciers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.094271,49.474937,1.094271,49.474937",
     "geom:latitude":49.474937,
     "geom:longitude":1.094271,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750213,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404371759,
+        85633147,
+        1108826393,
+        101750213,
+        136253037,
         102071809
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_32r3z6xvtuAVpJfbUUWpQV_49.474937_1.094271@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7038313121d5117cf778af60696b7b4c",
+    "wof:geomhash":"f652295505bade15cf80d20452e6ea11",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071809,
+            "empire_id":136253037,
+            "localadmin_id":404371759,
             "locality_id":101750213,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136275387
         }
     ],
     "wof:id":136275387,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496804869,
     "wof:name":"Bureau Normand D Expertise Comptable Sa",
-    "wof:parent_id":101750213,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

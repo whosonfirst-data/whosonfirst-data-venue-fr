@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.140544,50.627258,3.140544,50.627258",
     "geom:latitude":50.627258,
     "geom:longitude":3.140544,
@@ -36,30 +37,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
+        85794547,
+        102191581,
         85633147,
-        101751547,
-        102071877,
-        85794547
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CK08Wz5dymPgmcrz1G4V7_50.627258_3.140544@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f95a381f2ab4ae7a60831633979dc0d0",
+    "wof:geomhash":"3ed79280e316e1649239bbb42970dc93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071877,
-            "locality_id":101751547,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794547,
             "region_id":85683445,
             "venue_id":152106265
         }
     ],
     "wof:id":152106265,
-    "wof:lastmodified":1473798230,
+    "wof:lastmodified":1496791316,
     "wof:name":"Sas Jobin Yvon",
     "wof:parent_id":85794547,
     "wof:placetype":"venue",

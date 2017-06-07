@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.901811,45.692963,4.901811,45.692963",
     "geom:latitude":45.692963,
     "geom:longitude":4.901811,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750827,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414029,
+        85633147,
+        1108826389,
+        101750827,
+        136253037,
         102072119
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6t7oZrHYedYFbVrzRUyB4x_45.692963_4.901811@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f79b6d2db6cda8d970a0e2f7977ba56b",
+    "wof:geomhash":"e222aec3658b9e82387ce66559e46b12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072119,
+            "empire_id":136253037,
+            "localadmin_id":404414029,
             "locality_id":101750827,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153036577
         }
     ],
     "wof:id":153036577,
-    "wof:lastmodified":1473797978,
+    "wof:lastmodified":1496781214,
     "wof:name":"Pouchard Tubes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.437166,44.923927,2.437166,44.923927",
     "geom:latitude":44.923927,
     "geom:longitude":2.437166,
@@ -39,9 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830499,
-        85633147,
         85683517,
+        102191581,
+        85633147,
+        404227617,
+        1108826389,
+        101830499,
+        136253037,
         102072235
     ],
     "wof:breaches":[],
@@ -49,18 +54,22 @@
         "sg:id":"SG_5sWETf64XUbx8AWXNY3s8K_44.923927_2.437166@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e675a4a9cc1389d1358ef0cdda2a109",
+    "wof:geomhash":"367877a0ab6c893fd7eb3bc6670cea13",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072235,
+            "empire_id":136253037,
             "locality_id":101830499,
+            "macrocounty_id":404227617,
+            "macroregion_id":1108826389,
             "region_id":85683517,
             "venue_id":152056463
         }
     ],
     "wof:id":152056463,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496779599,
     "wof:name":"Domoservices Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

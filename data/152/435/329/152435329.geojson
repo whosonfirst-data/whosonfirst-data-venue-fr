@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.86946,48.589443,4.86946,48.589443",
     "geom:latitude":48.589443,
     "geom:longitude":4.86946,
@@ -23,9 +24,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763325,
-        85633147,
         85683261,
+        102191581,
+        404228109,
+        404362747,
+        85633147,
+        1108826391,
+        101763325,
+        136253037,
         102070037
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2bnFQUp3QBpOAZm10LSTBn_48.589443_4.869460@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3175baf6d33ab1f5c716d474ae7f7e45",
+    "wof:geomhash":"45c8b0778c4c43ac95ec1f9c5ab97dce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070037,
+            "empire_id":136253037,
+            "localadmin_id":404362747,
             "locality_id":101763325,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152435329
         }
     ],
     "wof:id":152435329,
-    "wof:lastmodified":1473798405,
+    "wof:lastmodified":1496785150,
     "wof:name":"Entreprise Boulogne S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

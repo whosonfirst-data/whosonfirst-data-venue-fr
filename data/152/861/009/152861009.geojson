@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.340859,46.937962,5.340859,46.937962",
     "geom:latitude":46.937962,
     "geom:longitude":5.340859,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889875,
-        85633147,
         85683173,
+        102191581,
+        404227671,
+        404357641,
+        85633147,
+        1108826395,
+        101889875,
+        136253037,
         102065833
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1XHWKGmx1tfswgLgkoVWmu_46.937962_5.340859@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"329bffd709af4fa74b34b7f0342f941a",
+    "wof:geomhash":"7c86b17053728596a98df80940551a5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065833,
+            "empire_id":136253037,
+            "localadmin_id":404357641,
             "locality_id":101889875,
+            "macrocounty_id":404227671,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152861009
         }
     ],
     "wof:id":152861009,
-    "wof:lastmodified":1473798543,
+    "wof:lastmodified":1496788601,
     "wof:name":"Etablissements Ponsot Plastique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

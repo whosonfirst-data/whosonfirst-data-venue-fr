@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.564829,46.872902,0.564829,46.872902",
     "geom:latitude":46.872902,
     "geom:longitude":0.564829,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766993,
-        85633147,
         85683185,
+        102191581,
+        404227775,
+        404375797,
+        85633147,
+        1108826385,
+        101766993,
+        136253037,
         102065483
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_56ePIQF76mqrDl8zlPj1v9_46.872902_0.564829@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb8c6cbe197ec7b2a531ebaa8de1b0ce",
+    "wof:geomhash":"845f8fbd667de37c752e5cefa7f0f9c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065483,
+            "empire_id":136253037,
+            "localadmin_id":404375797,
             "locality_id":101766993,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152354665
         }
     ],
     "wof:id":152354665,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1496776983,
     "wof:name":"Central De Composte Du Chatelleraudais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

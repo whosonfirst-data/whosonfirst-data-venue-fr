@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.919765,45.659649,5.919765,45.659649",
     "geom:latitude":45.659649,
     "geom:longitude":5.919765,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830619,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404369603,
+        85633147,
+        1108826389,
+        101830619,
+        136253037,
         102070549
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4yesDLVUoLxEZPMG3rOuRT_45.659649_5.919765@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ef3217cbaa1be8a9e6a7fc0e452a03a",
+    "wof:geomhash":"c2ed8a08398ce060a705cc3ddcccd7dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070549,
+            "empire_id":136253037,
+            "localadmin_id":404369603,
             "locality_id":101830619,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152748185
         }
     ],
     "wof:id":152748185,
-    "wof:lastmodified":1473798497,
+    "wof:lastmodified":1496800612,
     "wof:name":"Savoie Imprim S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

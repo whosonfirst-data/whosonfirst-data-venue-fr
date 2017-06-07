@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.499005,47.998482,5.499005,47.998482",
     "geom:latitude":47.998482,
     "geom:longitude":5.499005,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101843107,
-        85633147,
         85683261,
+        102191581,
+        404227911,
+        404358869,
+        85633147,
+        1108826391,
+        101843107,
+        136253037,
         102067829
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7fwXaaYf46HNfklVIIhlch_47.998482_5.499005@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"daba3a0cb65068fd58c70a825cc55b20",
+    "wof:geomhash":"c93cb23070135615c020b91344298ef0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067829,
+            "empire_id":136253037,
+            "localadmin_id":404358869,
             "locality_id":101843107,
+            "macrocounty_id":404227911,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152069007
         }
     ],
     "wof:id":152069007,
-    "wof:lastmodified":1473798055,
+    "wof:lastmodified":1496785566,
     "wof:name":"Entremont Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

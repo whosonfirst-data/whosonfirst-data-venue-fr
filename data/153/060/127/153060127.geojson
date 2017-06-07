@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.029297,48.588776,6.029297,48.588776",
     "geom:latitude":48.588776,
     "geom:longitude":6.029297,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883903,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404407399,
+        85633147,
+        1108826391,
+        101883903,
+        136253037,
         102069717
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7B3pJ9v77QOrdo5jBI1yvO_48.588776_6.029297@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e3c44d063d44a21200f57e77bacdc3d5",
+    "wof:geomhash":"c2f5af22c138b7467fd4c3beb840d1ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069717,
+            "empire_id":136253037,
+            "localadmin_id":404407399,
             "locality_id":101883903,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":153060127
         }
     ],
     "wof:id":153060127,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496784539,
     "wof:name":"Ad\u00e9cef Technology S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

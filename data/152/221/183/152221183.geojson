@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.083776,46.04438,4.083776,46.04438",
     "geom:latitude":46.04438,
     "geom:longitude":4.083776,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3eDfuu36cJpGvDtLLHhzVn_46.044380_4.083776@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9b792aa10d72a4062846914ae672e3e",
+    "wof:geomhash":"57d2eaaad367ac258c863e39f32732ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152221183
         }
     ],
     "wof:id":152221183,
-    "wof:lastmodified":1473798328,
+    "wof:lastmodified":1496779623,
     "wof:name":"Garage De La Poste Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.075913,43.230572,0.075913,43.230572",
     "geom:latitude":43.230572,
     "geom:longitude":0.075913,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831671,
-        85633147,
         85683203,
+        102191581,
+        85633147,
+        404228139,
+        1108826387,
+        101831671,
+        136253037,
         102072535
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_2F3vofLqIlGXgy912wwxZI_43.230572_0.075913@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a48f16339541a7e4491a01bacb79ac4b",
+    "wof:geomhash":"1f6aeb28187f033733cac97e2e1de278",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072535,
+            "empire_id":136253037,
             "locality_id":101831671,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":136275657
         }
     ],
     "wof:id":136275657,
-    "wof:lastmodified":1473797931,
+    "wof:lastmodified":1496777851,
     "wof:name":"Caisse D'epargne Et De Prevoyance De Midi Pyrenees",
-    "wof:parent_id":101831671,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

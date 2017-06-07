@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.921074,45.659042,5.921074,45.659042",
     "geom:latitude":45.659042,
     "geom:longitude":5.921074,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830619,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404369603,
+        85633147,
+        1108826389,
+        101830619,
+        136253037,
         102070549
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3xXx07FRxi7gAPKPUuYdJC_45.659042_5.921074@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2aa486c8eaea5b60f2db72acf9659c8a",
+    "wof:geomhash":"db2250621b401db3179c17e7e2d3eb52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070549,
+            "empire_id":136253037,
+            "localadmin_id":404369603,
             "locality_id":101830619,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":169062157
         }
     ],
     "wof:id":169062157,
-    "wof:lastmodified":1473798041,
+    "wof:lastmodified":1496781176,
     "wof:name":"Millet Paysage Environnement S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

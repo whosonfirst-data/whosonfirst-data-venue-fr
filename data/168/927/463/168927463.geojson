@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.614727,43.388012,-0.614727,43.388012",
     "geom:latitude":43.388012,
     "geom:longitude":-0.614727,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773929,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404404689,
+        85633147,
+        1108826385,
+        101773929,
+        136253037,
         102067139
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3KwNL7golNeJJvnuv6Rdhl_43.388012_-0.614727@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f39b6aff35cdfa9a7a51a569811dbc0",
+    "wof:geomhash":"1f20fecc1dbcb1a49e9526f4f896c95a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067139,
+            "empire_id":136253037,
+            "localadmin_id":404404689,
             "locality_id":101773929,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":168927463
         }
     ],
     "wof:id":168927463,
-    "wof:lastmodified":1473798092,
+    "wof:lastmodified":1496777412,
     "wof:name":"Entreprise Philippe Lassarat S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

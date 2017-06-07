@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.651593,49.080383,-0.651593,49.080383",
     "geom:latitude":49.080383,
     "geom:longitude":-0.651593,
@@ -24,9 +25,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760275,
-        85633147,
         85683579,
+        102191581,
+        404227825,
+        404415287,
+        85633147,
+        1108826393,
+        101760275,
+        136253037,
         102070739
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6t4X0l3W56p4wnGn68JA8a_49.080383_-0.651593@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6106949ae765d462281b67892fad0a46",
+    "wof:geomhash":"10b1cfa233c8ff0a9269e8ff037c7eae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070739,
+            "empire_id":136253037,
+            "localadmin_id":404415287,
             "locality_id":101760275,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152212847
         }
     ],
     "wof:id":152212847,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1496787310,
     "wof:name":"Sarl Marbrerie Lemerre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

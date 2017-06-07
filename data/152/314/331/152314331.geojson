@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.275425,48.214035,3.275425,48.214035",
     "geom:latitude":48.214035,
     "geom:longitude":3.275425,
@@ -24,28 +25,36 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827691,
-        85633147,
         85683503,
-        102069895
+        102191581,
+        85633147,
+        404228181,
+        1108826395,
+        101827691,
+        136253037,
+        102072545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yYB2279VSUzeFWoBzxY0E_48.214035_3.275425@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f80ed70fe45fa0254f554a15b6fd5272",
+    "wof:geomhash":"01cb640646dda3cb55a60610e6ea03a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069895,
+            "county_id":102072545,
+            "empire_id":136253037,
             "locality_id":101827691,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152314331
         }
     ],
     "wof:id":152314331,
-    "wof:lastmodified":1473798363,
+    "wof:lastmodified":1496789200,
     "wof:name":"Bourgogne T\u00e9l\u00e9com Services S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

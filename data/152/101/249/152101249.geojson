@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.853864,45.749329,4.853864,45.749329",
     "geom:latitude":45.749329,
     "geom:longitude":4.853864,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4vvg03g4g1vh0VRQGuPrcj_45.749329_4.853864@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e5f86d1570bf930b73bd40b44d2ec8f7",
+    "wof:geomhash":"fb2b42012598d3b9ab710be30d8111c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152101249
         }
     ],
     "wof:id":152101249,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1496780338,
     "wof:name":"Ste Lyonnaise De Sports Et Loisirs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

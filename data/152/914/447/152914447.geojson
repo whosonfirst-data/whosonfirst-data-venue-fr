@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.924479,47.410275,2.924479,47.410275",
     "geom:latitude":47.410275,
     "geom:longitude":2.924479,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765535,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404351389,
+        85633147,
+        1108826395,
+        101765535,
+        136253037,
         102072381
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4zwAbiUSuX8bVOaNQjNOoe_47.410275_2.924479@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9dfda24da04146dd80b9e2a43b718e88",
+    "wof:geomhash":"95abf8aa5de4754f4006dca4834937da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072381,
+            "empire_id":136253037,
+            "localadmin_id":404351389,
             "locality_id":101765535,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152914447
         }
     ],
     "wof:id":152914447,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496789260,
     "wof:name":"Le Journal Du Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

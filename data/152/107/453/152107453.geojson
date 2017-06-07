@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.274262,49.858025,3.274262,49.858025",
     "geom:latitude":49.858025,
     "geom:longitude":3.274262,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751423,
-        85633147,
         85683247,
+        102191581,
+        404228009,
+        404410819,
+        85633147,
+        1108826399,
+        101751423,
+        136253037,
         102072337
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4uDcRCguqQaRbd9P7t15fl_49.858025_3.274262@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"afb63cb02720e655ec56a2e7a12ec325",
+    "wof:geomhash":"6ea1bdfacdecc5aa42f98a2363192a7b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072337,
+            "empire_id":136253037,
+            "localadmin_id":404410819,
             "locality_id":101751423,
+            "macrocounty_id":404228009,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152107453
         }
     ],
     "wof:id":152107453,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496790430,
     "wof:name":"Laboratoire Dentaire Gerard Bellavoine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

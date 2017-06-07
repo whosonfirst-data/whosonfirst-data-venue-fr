@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.220514,49.202404,2.220514,49.202404",
     "geom:latitude":49.202404,
     "geom:longitude":2.220514,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760357,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404368771,
+        85633147,
+        1108826399,
+        101760357,
+        136253037,
         102068549
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3UpYPeYxZgIdLBm4tMaegZ_49.202404_2.220514@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"47d7aaf4d1e85e062218fb5f045a7ac3",
+    "wof:geomhash":"bef4cff445e93d8136a7a03e2d9846da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068549,
+            "empire_id":136253037,
+            "localadmin_id":404368771,
             "locality_id":101760357,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136291801
         }
     ],
     "wof:id":136291801,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496795824,
     "wof:name":"Soci\u00e9t\u00e9 Pat Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

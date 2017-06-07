@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.785927,43.599144,1.785927,43.599144",
     "geom:latitude":43.599144,
     "geom:longitude":1.785927,
@@ -32,24 +33,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683603,
+        102191581,
         85633147,
-        85683603
+        404378233,
+        404227975,
+        1108826387,
+        136253037,
+        102067473
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T9pD2qH4ipeZviTQDIcAa_43.599144_1.785927@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"53dc21fe8e4881c1991ea194cbe59868",
+    "wof:geomhash":"40fbd96762fc187d0dd903f61a0c8f71",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102067473,
+            "empire_id":136253037,
+            "localadmin_id":404378233,
+            "locality_id":-1,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152101991
         }
     ],
     "wof:id":152101991,
-    "wof:lastmodified":1473798244,
+    "wof:lastmodified":1496803676,
     "wof:name":"Beton Chantiers Toulouse (bct)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

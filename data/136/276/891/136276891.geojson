@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.908491,45.892521,0.908491,45.892521",
     "geom:latitude":45.892521,
     "geom:longitude":0.908491,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768243,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404228177,
+        1108826385,
+        101768243,
+        136253037,
         102072363
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0WVqQKWyrHXgl5qNuhwqsx_45.892521_0.908491@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"153d061dcea865b730345400356f8415",
+    "wof:geomhash":"0a0a29355ed6cad1f2769b1543701f1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072363,
+            "empire_id":136253037,
             "locality_id":101768243,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":136276891
         }
     ],
     "wof:id":136276891,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496776414,
     "wof:name":"Ctre Informat Gestion Expert Comptable Sa",
-    "wof:parent_id":101768243,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.887853,45.525013,4.887853,45.525013",
     "geom:latitude":45.525013,
     "geom:longitude":4.887853,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830601,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404353875,
+        85633147,
+        1108826389,
+        101830601,
+        136253037,
         102072517
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_72c3dawclum6XfotjOzrPv_45.525013_4.887853@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bcece8cf8a637ac01e7f3ef97fb39e79",
+    "wof:geomhash":"fd3585c68c50a8c74e72a4732a1110a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072517,
+            "empire_id":136253037,
+            "localadmin_id":404353875,
             "locality_id":101830601,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169007215
         }
     ],
     "wof:id":169007215,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496780151,
     "wof:name":"J.m.a. - Jean Marius Alliod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

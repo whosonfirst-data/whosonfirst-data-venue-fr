@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.417916,46.12447,3.417916,46.12447",
     "geom:latitude":46.12447,
     "geom:longitude":3.417916,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829199,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404384829,
+        85633147,
+        1108826389,
+        101829199,
+        136253037,
         102072181
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3Ua18o9hbSsANxL3WCxArx_46.124470_3.417916@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1bd7183b1e53653ec57201a2f0dfd0a1",
+    "wof:geomhash":"857db747fffab9417aa81d5225f68b9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072181,
+            "empire_id":136253037,
+            "localadmin_id":404384829,
             "locality_id":101829199,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152101203
         }
     ],
     "wof:id":152101203,
-    "wof:lastmodified":1473798223,
+    "wof:lastmodified":1496780895,
     "wof:name":"Societe Des Courses De Vichy Ass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

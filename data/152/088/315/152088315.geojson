@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.566932,44.855244,0.566932,44.855244",
     "geom:latitude":44.855244,
     "geom:longitude":0.566932,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830679,
-        85633147,
         85683331,
+        102191581,
+        404227635,
+        404379559,
+        85633147,
+        1108826385,
+        101830679,
+        136253037,
         102071471
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0aQrKwgHskjoAs8fMwSDvW_44.855244_0.566932@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96f39213c2ff0a0d4f167dfaf4526d37",
+    "wof:geomhash":"6d6b3faf20d6850db8dd4f8ec379f899",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071471,
+            "empire_id":136253037,
+            "localadmin_id":404379559,
             "locality_id":101830679,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152088315
         }
     ],
     "wof:id":152088315,
-    "wof:lastmodified":1473798193,
+    "wof:lastmodified":1496777021,
     "wof:name":"Bernard Dumas Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

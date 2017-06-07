@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.065172,45.826527,5.065172,45.826527",
     "geom:latitude":45.826527,
     "geom:longitude":5.065172,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768131,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404402287,
+        85633147,
+        1108826389,
+        101768131,
+        136253037,
         102067991
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_72he7pGMAf6u1Ef0YEsWGy_45.826527_5.065172@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"770939817cb3878d0869331a7cb0c00b",
+    "wof:geomhash":"09761801830910146025282083d1bd22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067991,
+            "empire_id":136253037,
+            "localadmin_id":404402287,
             "locality_id":101768131,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152083385
         }
     ],
     "wof:id":152083385,
-    "wof:lastmodified":1473798139,
+    "wof:lastmodified":1496779463,
     "wof:name":"Gallin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

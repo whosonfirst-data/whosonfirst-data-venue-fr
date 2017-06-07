@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.072765,43.232899,0.072765,43.232899",
     "geom:latitude":43.232899,
     "geom:longitude":0.072765,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831671,
-        85633147,
         85683203,
+        102191581,
+        85633147,
+        404228139,
+        1108826387,
+        101831671,
+        136253037,
         102072535
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3XA6tsyaExHmVwdNGHrDbg_43.232899_0.072765@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1c3e92cab9064005fd41ab3e60d86f2",
+    "wof:geomhash":"104ca8297957099cdeb5fad717c7341d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072535,
+            "empire_id":136253037,
             "locality_id":101831671,
+            "macrocounty_id":404228139,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":152096359
         }
     ],
     "wof:id":152096359,
-    "wof:lastmodified":1473798189,
+    "wof:lastmodified":1496778109,
     "wof:name":"Charcuterie Liesta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

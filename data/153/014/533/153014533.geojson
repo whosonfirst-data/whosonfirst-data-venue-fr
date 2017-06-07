@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.841088,43.597179,3.841088,43.597179",
     "geom:latitude":43.597179,
     "geom:longitude":3.841088,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_2o737hITF1mpbcTLtyWugz_43.597179_3.841088@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"994ae0a1aa5dfd8688baeea5faf66f2a",
+    "wof:geomhash":"b15e0101ea6779cf544d7a1f092ed659",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":153014533
         }
     ],
     "wof:id":153014533,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496777703,
     "wof:name":"Spie Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.885032,49.229927,2.885032,49.229927",
     "geom:latitude":49.229927,
     "geom:longitude":2.885032,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761689,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404376905,
+        85633147,
+        1108826399,
+        101761689,
+        136253037,
         102066575
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2dBaPFTQVsiXBlHNeeneiH_49.229927_2.885032@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fe8f5ac3d7c5056add494d0e5e72bbf7",
+    "wof:geomhash":"35e0db8507c2850ec958befb7a238347",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066575,
+            "empire_id":136253037,
+            "localadmin_id":404376905,
             "locality_id":101761689,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152088931
         }
     ],
     "wof:id":152088931,
-    "wof:lastmodified":1473798213,
+    "wof:lastmodified":1496790289,
     "wof:name":"Coronet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

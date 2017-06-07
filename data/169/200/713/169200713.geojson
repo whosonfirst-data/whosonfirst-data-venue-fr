@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902198,46.568256,4.902198,46.568256",
     "geom:latitude":46.568256,
     "geom:longitude":4.902198,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766595,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404422347,
+        85633147,
+        1108826395,
+        101766595,
+        136253037,
         102071543
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1JrHWuGcYb6XYeL8heEGti_46.568256_4.902198@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a696b179c61c25b7f04fbf4036978523",
+    "wof:geomhash":"74b9c48d6adae151373312b8c07d7c6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071543,
+            "empire_id":136253037,
+            "localadmin_id":404422347,
             "locality_id":101766595,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":169200713
         }
     ],
     "wof:id":169200713,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1496794976,
     "wof:name":"Tournus Equipement S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

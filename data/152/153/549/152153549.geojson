@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.047962,49.864025,1.047962,49.864025",
     "geom:latitude":49.864025,
     "geom:longitude":1.047962,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812465,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404427121,
+        85633147,
+        1108826393,
+        101812465,
+        136253037,
         102070941
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0INYHDa121ql4CPzAJGLHn_49.864025_1.047962@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c81c5fa19eb91b3a0879452cf520eeec",
+    "wof:geomhash":"30c3c3fdede102821be43ce3fdde6dbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070941,
+            "empire_id":136253037,
+            "localadmin_id":404427121,
             "locality_id":101812465,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152153549
         }
     ],
     "wof:id":152153549,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496787298,
     "wof:name":"Rousseau Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

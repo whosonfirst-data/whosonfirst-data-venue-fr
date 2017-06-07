@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.595439,48.838165,-1.595439,48.838165",
     "geom:latitude":48.838165,
     "geom:longitude":-1.595439,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828533,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404397899,
+        85633147,
+        1108826393,
+        101828533,
+        136253037,
         102067003
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6dPCS8hxZWTU9CdMmsv1vZ_48.838165_-1.595439@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"498ce30a6737f521068930168a3557ec",
+    "wof:geomhash":"87e9cc54ef164b5980681861b1c03bef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067003,
+            "empire_id":136253037,
+            "localadmin_id":404397899,
             "locality_id":101828533,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136275631
         }
     ],
     "wof:id":136275631,
-    "wof:lastmodified":1473797928,
+    "wof:lastmodified":1496803197,
     "wof:name":"Caisse D'epargne Et De Prevoya Nce De Basse Normandie",
-    "wof:parent_id":101828533,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

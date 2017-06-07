@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.696742,48.561161,7.696742,48.561161",
     "geom:latitude":48.561161,
     "geom:longitude":7.696742,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749759,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404409281,
+        85633147,
+        1108826391,
+        101749759,
+        136253037,
         102071231
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2CYyjXctzDyXmFzlOwzStc_48.561161_7.696742@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0670d24adea28718d8eeb03f293ace7",
+    "wof:geomhash":"1f6b242f7cd468ae4d754047390a66c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071231,
+            "empire_id":136253037,
+            "localadmin_id":404409281,
             "locality_id":101749759,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":169137309
         }
     ],
     "wof:id":169137309,
-    "wof:lastmodified":1473798159,
+    "wof:lastmodified":1496793358,
     "wof:name":"S.n.i. S.a. - Services Nettoyage Industriel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

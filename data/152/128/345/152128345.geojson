@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.016385,49.212692,4.016385,49.212692",
     "geom:latitude":49.212692,
     "geom:longitude":4.016385,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_0InoQdZzA0J4CSdrXIvHF8_49.212692_4.016385@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3852ce36d6c56c6a844db48cb7a9c483",
+    "wof:geomhash":"a4ed01aaae88379f79c1bd4b5dce1fda",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152128345
         }
     ],
     "wof:id":152128345,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496785097,
     "wof:name":"Actaris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

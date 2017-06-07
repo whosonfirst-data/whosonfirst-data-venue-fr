@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.78027,45.775398,4.78027,45.775398",
     "geom:latitude":45.775398,
     "geom:longitude":4.78027,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_56l7PNFalOeL5Gqy6LgDqs_45.775398_4.780270@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"13c79b228279f6bc606ee557b9bb3528",
+    "wof:geomhash":"8e8570e56a0bc02b06452d81c16acaa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152751921
         }
     ],
     "wof:id":152751921,
-    "wof:lastmodified":1473798519,
+    "wof:lastmodified":1496781014,
     "wof:name":"Scp Auberger Et Favre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

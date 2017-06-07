@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.237516,50.333073,3.237516,50.333073",
     "geom:latitude":50.333073,
     "geom:longitude":3.237516,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840723,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404391487,
+        85633147,
+        1108826399,
+        101840723,
+        136253037,
         102068833
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0ecW0W2F4gSlmBFLuQv0CC_50.333073_3.237516@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ef138e7dde6b4fc6fee638b06c32272d",
+    "wof:geomhash":"d29c92e2e72298dff83bdb3b264b3602",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068833,
+            "empire_id":136253037,
+            "localadmin_id":404391487,
             "locality_id":101840723,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152271701
         }
     ],
     "wof:id":152271701,
-    "wof:lastmodified":1473798348,
+    "wof:lastmodified":1496792709,
     "wof:name":"Applimat Composites S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

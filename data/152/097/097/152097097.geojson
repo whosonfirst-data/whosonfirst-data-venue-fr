@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.791661,45.605236,4.791661,45.605236",
     "geom:latitude":45.605236,
     "geom:longitude":4.791661,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749417,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404374773,
+        85633147,
+        1108826389,
+        101749417,
+        136253037,
         102065649
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1QjHscjqMxFBsbxipCU1jE_45.605236_4.791661@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9bf7f95e98da3b757540675b7f344cde",
+    "wof:geomhash":"af3a3192f0eec59cf5c57260e17f9150",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065649,
+            "empire_id":136253037,
+            "localadmin_id":404374773,
             "locality_id":101749417,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152097097
         }
     ],
     "wof:id":152097097,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496779762,
     "wof:name":"Gecoma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.94618,49.020336,3.94618,49.020336",
     "geom:latitude":49.020336,
     "geom:longitude":3.94618,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828101,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404378111,
+        85633147,
+        1108826391,
+        101828101,
+        136253037,
         102070753
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4uzJmYrPFfdkhxE3GwEhnD_49.020336_3.946180@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9785937275285f1663535b6f234eec96",
+    "wof:geomhash":"28b55770e69e01468d7d5956b839c583",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070753,
+            "empire_id":136253037,
+            "localadmin_id":404378111,
             "locality_id":101828101,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152097141
         }
     ],
     "wof:id":152097141,
-    "wof:lastmodified":1473798177,
+    "wof:lastmodified":1496805309,
     "wof:name":"Tdd Grilliat Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

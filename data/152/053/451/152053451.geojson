@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.154643,49.272293,4.154643,49.272293",
     "geom:latitude":49.272293,
     "geom:longitude":4.154643,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101878621,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404387871,
+        85633147,
+        1108826391,
+        101878621,
+        136253037,
         102064983
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_7Vp2xlgFoZH2XSEOFUn21N_49.272293_4.154643@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2a5548bd9d87e2992ef03debacab2ad8",
+    "wof:geomhash":"ba0092b7b6ce94d10b53a79e1e11fccc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064983,
+            "empire_id":136253037,
+            "localadmin_id":404387871,
             "locality_id":101878621,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152053451
         }
     ],
     "wof:id":152053451,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496784851,
     "wof:name":"Champagne Picard Jacques Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

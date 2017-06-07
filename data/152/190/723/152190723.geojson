@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.734166,48.548901,7.734166,48.548901",
     "geom:latitude":48.548901,
     "geom:longitude":7.734166,
@@ -35,30 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tHCT5Jgh744yrTdVAOPeZ_48.548901_7.734166@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5878574b55ff3e921b0a27ed64fb26d",
+    "wof:geomhash":"1f8a729205a7fec4c74221e7a69a8c36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":152190723
         }
     ],
     "wof:id":152190723,
-    "wof:lastmodified":1473798314,
+    "wof:lastmodified":1496784718,
     "wof:name":"Corderie Weiss Sa",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

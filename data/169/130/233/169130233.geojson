@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.553158,47.212505,-1.553158,47.212505",
     "geom:latitude":47.212505,
     "geom:longitude":-1.553158,
@@ -24,11 +25,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,16 +42,19 @@
     "wof:geomhash":"f765f1fd67c130f47951b9349210804a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":169130233
         }
     ],
     "wof:id":169130233,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1491937888,
     "wof:name":"S.e.r.t.",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

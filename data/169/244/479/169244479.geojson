@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.867615,45.342579,0.867615,45.342579",
     "geom:latitude":45.342579,
     "geom:longitude":0.867615,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893253,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404356495,
+        85633147,
+        1108826385,
+        101893253,
+        136253037,
         102070771
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3RZo523sZvcWtuNgSp1BxP_45.342579_0.867615@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8e60ff4cc7cb74743bf5a976d625720e",
+    "wof:geomhash":"d90df3e0fc6e9d6f57296a4f926b779f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070771,
+            "empire_id":136253037,
+            "localadmin_id":404356495,
             "locality_id":101893253,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":169244479
         }
     ],
     "wof:id":169244479,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496777065,
     "wof:name":"Societe Des Scieries De Corgnac Sur L'isle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

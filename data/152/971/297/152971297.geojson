@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.566917,44.361832,2.566917,44.361832",
     "geom:latitude":44.361832,
     "geom:longitude":2.566917,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831899,
-        85633147,
         85683301,
+        102191581,
+        85633147,
+        404227821,
+        1108826387,
+        101831899,
+        136253037,
         102072281
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3MVNZqar0SvTTP7qp2oWfl_44.361832_2.566917@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5a3fae6f59ff489eb889bda01202c48d",
+    "wof:geomhash":"a912858dcba40506b3a2b3ebac14c548",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072281,
+            "empire_id":136253037,
             "locality_id":101831899,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152971297
         }
     ],
     "wof:id":152971297,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496803786,
     "wof:name":"Transcarel (sa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

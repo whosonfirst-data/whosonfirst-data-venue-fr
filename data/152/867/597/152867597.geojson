@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.07052,50.666855,3.07052,50.666855",
     "geom:latitude":50.666855,
     "geom:longitude":3.07052,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750287,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404361485,
+        85633147,
+        1108826399,
+        101750287,
+        136253037,
         102071841
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4WmLhjiEzd5qKanBXmcXDC_50.666855_3.070520@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cade7b7c07dfb63158e5f99a40e532b4",
+    "wof:geomhash":"2429df7b66833195847f9802031ba419",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071841,
+            "empire_id":136253037,
+            "localadmin_id":404361485,
             "locality_id":101750287,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152867597
         }
     ],
     "wof:id":152867597,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496792665,
     "wof:name":"Rubaco France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.173074,49.486366,4.173074,49.486366",
     "geom:latitude":49.486366,
     "geom:longitude":4.173074,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101903257,
-        85633147,
         85683309,
+        102191581,
+        404227813,
+        404408495,
+        85633147,
+        1108826391,
+        101903257,
+        136253037,
         102064307
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6uvOx6svRSI92eu0CXGem0_49.486366_4.173074@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c68fe9eee6f97fc12d144f4b20833b2",
+    "wof:geomhash":"cec2a4c6fdc9b301f1283d2e2dc3522d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064307,
+            "empire_id":136253037,
+            "localadmin_id":404408495,
             "locality_id":101903257,
+            "macrocounty_id":404227813,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":136287291
         }
     ],
     "wof:id":136287291,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496786388,
     "wof:name":"Exploitation Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

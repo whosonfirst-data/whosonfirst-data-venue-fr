@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.169593,50.675915,3.169593,50.675915",
     "geom:latitude":50.675915,
     "geom:longitude":3.169593,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751515,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
         102072029
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4pS9ritHUilF6O6Ea0A1xS_50.675915_3.169593@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01fa4c64a52b207fd0616c4f8c859ce8",
+    "wof:geomhash":"dad4b1edbb16cfd9aea4bbf99593dcc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
             "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136275765
         }
     ],
     "wof:id":136275765,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496791372,
     "wof:name":"Caisse Epargne Prevoyance De Flandre",
-    "wof:parent_id":101751515,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

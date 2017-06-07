@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.627972,49.569153,3.627972,49.569153",
     "geom:latitude":49.569153,
     "geom:longitude":3.627972,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813717,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404408227,
+        85633147,
+        1108826399,
+        101813717,
+        136253037,
         102072135
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3vQgwhZSqPaqQ7RqRVe3Nw_49.569153_3.627972@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14d1e85464dcce318ddaea2f19840d3f",
+    "wof:geomhash":"61e5415e50b5d006ddc6a4151e02fc27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072135,
+            "empire_id":136253037,
+            "localadmin_id":404408227,
             "locality_id":101813717,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136286495
         }
     ],
     "wof:id":136286495,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496790683,
     "wof:name":"Editions Techniques Agricoles De L Aisne (setaa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

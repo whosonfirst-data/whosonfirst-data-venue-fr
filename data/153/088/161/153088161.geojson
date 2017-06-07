@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.531395,50.351418,3.531395,50.351418",
     "geom:latitude":50.351418,
     "geom:longitude":3.531395,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840599,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840599,
+        136253037,
         102072385
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7YjaMC95ZlnqsRLgAMZIiK_50.351418_3.531395@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca622e23c1c871e11eedde3392bb547e",
+    "wof:geomhash":"2f1076f3a59041fa771863f017e124e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840599,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":153088161
         }
     ],
     "wof:id":153088161,
-    "wof:lastmodified":1473797975,
+    "wof:lastmodified":1496792191,
     "wof:name":"B.e.m. Laboratoire S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

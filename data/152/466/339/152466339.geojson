@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.568682,50.626686,2.568682,50.626686",
     "geom:latitude":50.626686,
     "geom:longitude":2.568682,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812575,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404366095,
+        85633147,
+        1108826399,
+        101812575,
+        136253037,
         102070285
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1FW1SKP0V8SDK3ZUFgZu4z_50.626686_2.568682@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2c4f2db23d677357409bd607850320e",
+    "wof:geomhash":"3a02dacf16434f526f39b7bec6e000bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070285,
+            "empire_id":136253037,
+            "localadmin_id":404366095,
             "locality_id":101812575,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152466339
         }
     ],
     "wof:id":152466339,
-    "wof:lastmodified":1473798416,
+    "wof:lastmodified":1496792646,
     "wof:name":"Evrard P\u00e8re Et Fils S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

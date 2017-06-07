@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.149596,47.290691,5.149596,47.290691",
     "geom:latitude":47.290691,
     "geom:longitude":5.149596,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753311,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404410507,
+        85633147,
+        1108826395,
+        101753311,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2HmAkRQskPt4jtCk4IdiT5_47.290691_5.149596@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8740d7af10efe3ea431db925b37d86bb",
+    "wof:geomhash":"5b35633e1d96c7aa03c0ef49f74239a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404410507,
             "locality_id":101753311,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152089269
         }
     ],
     "wof:id":152089269,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496794838,
     "wof:name":"Etablissements Laveaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

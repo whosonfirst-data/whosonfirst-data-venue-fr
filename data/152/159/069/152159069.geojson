@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.621105,44.186035,0.621105,44.186035",
     "geom:latitude":44.186035,
     "geom:longitude":0.621105,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5c7ZSxxdokzt2tjMcEXIYT_44.186035_0.621105@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01db2a874723661cdd872f3d96b94abb",
+    "wof:geomhash":"682934cd0648b030be7a50c0ca5a8545",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152159069
         }
     ],
     "wof:id":152159069,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496776151,
     "wof:name":"Ste D Appareillage Et De Service Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

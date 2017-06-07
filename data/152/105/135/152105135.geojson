@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.856965,50.474216,1.856965,50.474216",
     "geom:latitude":50.474216,
     "geom:longitude":1.856965,
@@ -40,9 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898151,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404348081,
+        85633147,
+        1108826399,
+        101898151,
+        136253037,
         102067745
     ],
     "wof:breaches":[],
@@ -50,18 +56,23 @@
         "sg:id":"SG_75GgXqxPOHVxbVvCT3EhHn_50.474216_1.856965@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1439ce7612ef94c38b22eab2621d43f3",
+    "wof:geomhash":"452365ceef368128c86f98bd3b8dcf75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067745,
+            "empire_id":136253037,
+            "localadmin_id":404348081,
             "locality_id":101898151,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152105135
         }
     ],
     "wof:id":152105135,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1496792170,
     "wof:name":"Scierie Lafonte Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

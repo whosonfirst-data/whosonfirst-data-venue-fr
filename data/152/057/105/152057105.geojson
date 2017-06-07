@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.121851,50.282166,3.121851,50.282166",
     "geom:latitude":50.282166,
     "geom:longitude":3.121851,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812695,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404374009,
+        85633147,
+        1108826399,
+        101812695,
+        136253037,
         102064393
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_28avZ54VLjbxj5S7WZXdlA_50.282166_3.121851@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a262ed934ac254fdf184f7c1037a35e",
+    "wof:geomhash":"b7c913d5906035a44a89cf93411064c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064393,
+            "empire_id":136253037,
+            "localadmin_id":404374009,
             "locality_id":101812695,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152057105
         }
     ],
     "wof:id":152057105,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496797233,
     "wof:name":"Ste De Fournitures Chimiques Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.150412,43.064095,0.150412,43.064095",
     "geom:latitude":43.064095,
     "geom:longitude":0.150412,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831669,
-        85633147,
         85683203,
+        102191581,
+        404227941,
+        404353807,
+        85633147,
+        1108826387,
+        101831669,
+        136253037,
         102064931
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0gHupZjA5ZyJTeDTn8ZBac_43.064095_0.150412@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"13471ff6b40838dbd067e48f91a519d3",
+    "wof:geomhash":"62fb83e9c566dc73cb39efd0d9576612",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064931,
+            "empire_id":136253037,
+            "localadmin_id":404353807,
             "locality_id":101831669,
+            "macrocounty_id":404227941,
+            "macroregion_id":1108826387,
             "region_id":85683203,
             "venue_id":136276123
         }
     ],
     "wof:id":136276123,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496777648,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Pyrenees Gascogn (crcam Pyrenees Gascogne)",
-    "wof:parent_id":101831669,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.005775,49.307095,1.005775,49.307095",
     "geom:latitude":49.307095,
     "geom:longitude":1.005775,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756707,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404412613,
+        85633147,
+        1108826393,
+        101756707,
+        136253037,
         102067529
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2HuYs1r1UpsYgYDoGJAAKC_49.307095_1.005775@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6543f9a7a3db69ea9f3ac71eda8af6b6",
+    "wof:geomhash":"9561fa405196588f748a3f827c74f1dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067529,
+            "empire_id":136253037,
+            "localadmin_id":404412613,
             "locality_id":101756707,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152057559
         }
     ],
     "wof:id":152057559,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496787144,
     "wof:name":"Aventis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

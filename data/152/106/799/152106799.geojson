@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.089915,49.423111,1.089915,49.423111",
     "geom:latitude":49.423111,
     "geom:longitude":1.089915,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751465,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751465,
+        136253037,
         102071947
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1lcUHtp440d9gvWjrAYutj_49.423111_1.089915@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21ba3bae9ee325e6229d60e390d636d4",
+    "wof:geomhash":"2dddc9a55660efb87664710f493144bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071947,
+            "empire_id":136253037,
             "locality_id":101751465,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152106799
         }
     ],
     "wof:id":152106799,
-    "wof:lastmodified":1473798234,
+    "wof:lastmodified":1496787347,
     "wof:name":"Centre Orthopedique Rouennais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

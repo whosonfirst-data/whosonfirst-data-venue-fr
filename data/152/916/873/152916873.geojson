@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.22215,46.203209,5.22215,46.203209",
     "geom:latitude":46.203209,
     "geom:longitude":5.22215,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829109,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404413457,
+        85633147,
+        1108826389,
+        101829109,
+        136253037,
         102072433
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0tsgT1PzekNAt4UZbzH5SC_46.203209_5.222150@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e00468c8a24c116f2a7d95632e88a973",
+    "wof:geomhash":"4809ea3fbe2b6cc52da76e59887e27f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
             "locality_id":101829109,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152916873
         }
     ],
     "wof:id":152916873,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496780101,
     "wof:name":"Publiprint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

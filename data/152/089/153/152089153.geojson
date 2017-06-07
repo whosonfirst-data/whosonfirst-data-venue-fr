@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.026377,49.289612,1.026377,49.289612",
     "geom:latitude":49.289612,
     "geom:longitude":1.026377,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756711,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404389819,
+        85633147,
+        1108826393,
+        101756711,
+        136253037,
         102071783
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_7TBpGjt0vSuwP0qMBEglip_49.289612_1.026377@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b5362987283c1b727dc44dd92273a163",
+    "wof:geomhash":"a08efdfecefa8788c2a5b0063c81e43b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071783,
+            "empire_id":136253037,
+            "localadmin_id":404389819,
             "locality_id":101756711,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152089153
         }
     ],
     "wof:id":152089153,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496786907,
     "wof:name":"Energizer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

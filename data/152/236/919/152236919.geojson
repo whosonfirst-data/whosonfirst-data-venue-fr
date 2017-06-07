@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.161116,47.639606,6.161116,47.639606",
     "geom:latitude":47.639606,
     "geom:longitude":6.161116,
@@ -24,9 +25,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829471,
-        85633147,
         85683559,
+        102191581,
+        85633147,
+        404227951,
+        1108826395,
+        101829471,
+        136253037,
         102072073
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_0gC8MPcvCLv6JkG523DMEm_47.639606_6.161116@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c7972b5410b47b6dd37cdc15663dcabd",
+    "wof:geomhash":"e35fdc0674441d4004e5a4a8cf77c06d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072073,
+            "empire_id":136253037,
             "locality_id":101829471,
+            "macrocounty_id":404227951,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152236919
         }
     ],
     "wof:id":152236919,
-    "wof:lastmodified":1473798331,
+    "wof:lastmodified":1496788467,
     "wof:name":"A.d.f. S.a.r.l. - Atelier Dalvard Fr\u00e8res",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

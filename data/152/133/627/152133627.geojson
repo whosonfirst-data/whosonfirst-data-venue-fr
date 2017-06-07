@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.707275,45.857552,4.707275,45.857552",
     "geom:latitude":45.857552,
     "geom:longitude":4.707275,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767735,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414729,
+        85633147,
+        1108826389,
+        101767735,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4IliR1CXijaVCa7YZc1WjR_45.857552_4.707275@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9c0efe9e4e7f4e8b2e4496b9b9a408d",
+    "wof:geomhash":"e65a514c6c7f631e5535bb79795d0fad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404414729,
             "locality_id":101767735,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152133627
         }
     ],
     "wof:id":152133627,
-    "wof:lastmodified":1473798296,
+    "wof:lastmodified":1496780044,
     "wof:name":"Cfi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

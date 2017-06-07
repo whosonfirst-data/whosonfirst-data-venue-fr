@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.234319,49.085644,6.234319,49.085644",
     "geom:latitude":49.085644,
     "geom:longitude":6.234319,
@@ -24,9 +25,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1dhKMXEHHBn3ZiE3YqAmNI_49.085644_6.234319@1306269773"
     },
     "wof:country":"FR",
-    "wof:geomhash":"894ac838e6fce81205eea0c986ee0df1",
+    "wof:geomhash":"e7e254df8e35fdb3454432bf1fcaad39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":168957577
         }
     ],
     "wof:id":168957577,
-    "wof:lastmodified":1473798157,
+    "wof:lastmodified":1496785041,
     "wof:name":"Foire Internationale De Metz S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

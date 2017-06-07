@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.561126,44.827305,-0.561126,44.827305",
     "geom:latitude":44.827305,
     "geom:longitude":-0.561126,
@@ -33,30 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897675,
+        102191581,
         85633147,
-        101749339,
-        102071639,
-        85897675
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mXQfU98jFGF1FpzOA7MrV_44.827305_-0.561126@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09c7a4669aa45272342195ea33bf8167",
+    "wof:geomhash":"4066e8187360f18ed6689151b12efc0a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071639,
-            "locality_id":101749339,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897675,
             "region_id":85683243,
             "venue_id":152073379
         }
     ],
     "wof:id":152073379,
-    "wof:lastmodified":1473798131,
+    "wof:lastmodified":1496775378,
     "wof:name":"Montagne Et Compagnie",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",

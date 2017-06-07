@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.360796,43.839195,4.360796,43.839195",
     "geom:latitude":43.839195,
     "geom:longitude":4.360796,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1v5EuFBnZ2UJFqXNQQjbgi_43.839195_4.360796@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e29994dccba7c6c79670206799794ae",
+    "wof:geomhash":"f82db5611ce531f0e2756ce586a8233d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152061603
         }
     ],
     "wof:id":152061603,
-    "wof:lastmodified":1473797946,
+    "wof:lastmodified":1496777804,
     "wof:name":"Mango France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

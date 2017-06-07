@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.76906,49.515015,5.76906,49.515015",
     "geom:latitude":49.515015,
     "geom:longitude":5.76906,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840221,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404227705,
+        1108826391,
+        101840221,
+        136253037,
         102067211
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_1IvBGP1FlqSfaNwD6ConXI_49.515015_5.769060@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d835ca564b09691289e8025d82275a2",
+    "wof:geomhash":"dc3c42f6113fd89b118e24df7c725678",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067211,
+            "empire_id":136253037,
             "locality_id":101840221,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152914669
         }
     ],
     "wof:id":152914669,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496786386,
     "wof:name":"Le Republicain Lorrain (rl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.924141,45.751385,4.924141,45.751385",
     "geom:latitude":45.751385,
     "geom:longitude":4.924141,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_05ewEOBMD8nkjvSq7DRnMF_45.751385_4.924141@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80b2bbcbe7733c058207368c1d918544",
+    "wof:geomhash":"0ad1d36e0b7a7c96680b537e83b253a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152097019
         }
     ],
     "wof:id":152097019,
-    "wof:lastmodified":1473798167,
+    "wof:lastmodified":1496781277,
     "wof:name":"Dune Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

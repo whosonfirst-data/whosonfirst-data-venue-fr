@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.020946,46.526966,6.020946,46.526966",
     "geom:latitude":46.526966,
     "geom:longitude":6.020946,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829261,
-        85633147,
         85683173,
+        102191581,
+        404228085,
+        404369267,
+        85633147,
+        1108826395,
+        101829261,
+        136253037,
         102067905
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_620ygds69qVtrxSc8HTvF2_46.526966_6.020946@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cf288727a1afe984e067f83a5d3c35cf",
+    "wof:geomhash":"61ae634a19901b11a12d52aee33d3f80",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067905,
+            "empire_id":136253037,
+            "localadmin_id":404369267,
             "locality_id":101829261,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152945439
         }
     ],
     "wof:id":152945439,
-    "wof:lastmodified":1473798579,
+    "wof:lastmodified":1496804513,
     "wof:name":"Sipal Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

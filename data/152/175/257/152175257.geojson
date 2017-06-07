@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.336425,49.446476,6.336425,49.446476",
     "geom:latitude":49.446476,
     "geom:longitude":6.336425,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683271,
+        102191581,
         85633147,
-        85683271
+        404407777,
+        404228309,
+        1108826391,
+        136253037,
+        102070077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B8DT7uDDA0SB96UGZ7oxh_49.446476_6.336425@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a4d17c2c5420483a9fcfdcbea4381392",
+    "wof:geomhash":"b257bb88f21ed6552c93d0f38bff408c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070077,
+            "empire_id":136253037,
+            "localadmin_id":404407777,
+            "locality_id":-1,
+            "macrocounty_id":404228309,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152175257
         }
     ],
     "wof:id":152175257,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1496794399,
     "wof:name":"Arcelor Tube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

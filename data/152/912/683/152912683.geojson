@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.496264,45.872879,4.496264,45.872879",
     "geom:latitude":45.872879,
     "geom:longitude":4.496264,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828921,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404368779,
+        85633147,
+        1108826389,
+        101828921,
+        136253037,
         102069669
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4I8PQgUvKXqX7c1QIhUdJ6_45.872879_4.496264@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a6365478e881dc8e6e3ba9bd51ba446e",
+    "wof:geomhash":"6d4508147894b3babaa3105aed6a604d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069669,
+            "empire_id":136253037,
+            "localadmin_id":404368779,
             "locality_id":101828921,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152912683
         }
     ],
     "wof:id":152912683,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496783367,
     "wof:name":"Imprimerie Rechagnieux Offset Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

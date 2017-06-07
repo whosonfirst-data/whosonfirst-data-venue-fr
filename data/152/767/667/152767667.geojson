@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.33922,51.042213,2.33922,51.042213",
     "geom:latitude":51.042213,
     "geom:longitude":2.33922,
@@ -24,9 +25,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750237,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_559gZuEquSmTpBK7Kpjg0F_51.042213_2.339220@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06413a4e12f2c0a3285c50eab963633d",
+    "wof:geomhash":"9b1a54d8ad79289c52f35c6c5311820b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152767667
         }
     ],
     "wof:id":152767667,
-    "wof:lastmodified":1473798520,
+    "wof:lastmodified":1496791381,
     "wof:name":"Socano S.a. -(soci\u00e9t\u00e9 De Car\u00e9nage Du Nord)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

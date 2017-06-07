@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.20829,48.843044,7.20829,48.843044",
     "geom:latitude":48.843044,
     "geom:longitude":7.20829,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101882087,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404411803,
+        85633147,
+        1108826391,
+        101882087,
+        136253037,
         102065395
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4HmCO7fgdPw8HSmR8lrZma_48.843044_7.208290@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd23374dfe5ae4ed74e9345b2c32a156",
+    "wof:geomhash":"b1c8a6e65c71144d02a1967f968fb27a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065395,
+            "empire_id":136253037,
+            "localadmin_id":404411803,
             "locality_id":101882087,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152099615
         }
     ],
     "wof:id":152099615,
-    "wof:lastmodified":1473798234,
+    "wof:lastmodified":1496785263,
     "wof:name":"Ste Exploit Ets Ch Teutsch Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

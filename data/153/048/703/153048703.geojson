@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.050192,48.99305,1.050192,48.99305",
     "geom:latitude":48.99305,
     "geom:longitude":1.050192,
@@ -22,28 +23,38 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760167,
-        85633147,
         85683283,
-        102070877
+        102191581,
+        404228055,
+        404379221,
+        85633147,
+        1108826393,
+        101760167,
+        136253037,
+        102066353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30zln6mI2YP2wr44Cx3XMZ_48.993050_1.050192@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f9cda158e05ff2ceefe43f2f2103f8ea",
+    "wof:geomhash":"4da5b353542c72bbec5097ddcf334e6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070877,
+            "county_id":102066353,
+            "empire_id":136253037,
+            "localadmin_id":404379221,
             "locality_id":101760167,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":153048703
         }
     ],
     "wof:id":153048703,
-    "wof:lastmodified":1473797970,
+    "wof:lastmodified":1496804735,
     "wof:name":"A.m.g.f. E.u.r.l. - Annie Martin Gestion Fichier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

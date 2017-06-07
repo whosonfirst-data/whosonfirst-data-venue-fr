@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.213658,48.845379,-1.213658,48.845379",
     "geom:latitude":48.845379,
     "geom:longitude":-1.213658,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760409,
-        85633147,
         85683489,
+        102191581,
+        404228235,
+        404350827,
+        85633147,
+        1108826393,
+        101760409,
+        136253037,
         102071503
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_22H1GxI8Ab7E2LRYbi7Fvn_48.845379_-1.213658@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b1eea20e86bfb20ab33b7d3f381cddc4",
+    "wof:geomhash":"e5d8a5f05d3d2b450e69e54e90ebbd60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071503,
+            "empire_id":136253037,
+            "localadmin_id":404350827,
             "locality_id":101760409,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152090187
         }
     ],
     "wof:id":152090187,
-    "wof:lastmodified":1473798185,
+    "wof:lastmodified":1496787154,
     "wof:name":"Mauviel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

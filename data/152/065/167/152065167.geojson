@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.933644,48.701416,5.933644,48.701416",
     "geom:latitude":48.701416,
     "geom:longitude":5.933644,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683343,
+        102191581,
         85633147,
-        85683343
+        404420587,
+        404228239,
+        1108826391,
+        136253037,
+        102072561
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51NKuDlfJm5z4GzbrQRhlp_48.701416_5.933644@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bde445651cc634405c8068efd50e7a25",
+    "wof:geomhash":"4fadfb797498f217fa5e1cae5aa20435",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102072561,
+            "empire_id":136253037,
+            "localadmin_id":404420587,
+            "locality_id":-1,
+            "macrocounty_id":404228239,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152065167
         }
     ],
     "wof:id":152065167,
-    "wof:lastmodified":1473798057,
+    "wof:lastmodified":1496785089,
     "wof:name":"Europe Routage Groupe Bl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

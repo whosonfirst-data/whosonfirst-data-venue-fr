@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.66086,46.319469,5.66086,46.319469",
     "geom:latitude":46.319469,
     "geom:longitude":5.66086,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766305,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404418949,
+        85633147,
+        1108826389,
+        101766305,
+        136253037,
         102068675
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5YvMNOQSN93iLiwe1zImO6_46.319469_5.660860@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2016e50d89cabfa82111f9b39d721ec2",
+    "wof:geomhash":"f1820715b6e05b7caa952f35a570bc82",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068675,
+            "empire_id":136253037,
+            "localadmin_id":404418949,
             "locality_id":101766305,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152444557
         }
     ],
     "wof:id":152444557,
-    "wof:lastmodified":1473798410,
+    "wof:lastmodified":1496800627,
     "wof:name":"Etablissement Andr\u00e9 Bondet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

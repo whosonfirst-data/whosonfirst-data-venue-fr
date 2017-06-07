@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.522232,41.073818,-73.522232,41.073818",
     "geom:latitude":41.073818,
     "geom:longitude":-73.522232,
@@ -22,11 +23,13 @@
     "sg:province":"Connecticut",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85821787,
+        102191575,
+        404495943,
         85633793,
         85930989,
         102084283,
-        85821787
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,8 +39,10 @@
     "wof:geomhash":"f519354c5f5737e1562d73f6c68daa49",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495943,
             "locality_id":85930989,
             "neighbourhood_id":85821787,
             "region_id":85688629,
@@ -45,7 +50,7 @@
         }
     ],
     "wof:id":153001309,
-    "wof:lastmodified":1473797861,
+    "wof:lastmodified":1492024538,
     "wof:name":"Scanmad Sarl",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",

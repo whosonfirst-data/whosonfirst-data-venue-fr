@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.458615,49.749603,0.458615,49.749603",
     "geom:latitude":49.749603,
     "geom:longitude":0.458615,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900165,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404384563,
+        85633147,
+        1108826393,
+        101900165,
+        136253037,
         102071659
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4SSTTEuU91zo5aEzorjjMQ_49.749603_0.458615@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eda19d69bc17bf8f73355b4665edb20e",
+    "wof:geomhash":"79460d13587c4e1006c7b6c28965f54b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071659,
+            "empire_id":136253037,
+            "localadmin_id":404384563,
             "locality_id":101900165,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":169185035
         }
     ],
     "wof:id":169185035,
-    "wof:lastmodified":1473798208,
+    "wof:lastmodified":1496787221,
     "wof:name":"Sucrerie Agricole De Colleville S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

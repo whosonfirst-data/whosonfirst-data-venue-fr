@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.405296,43.85688,4.405296,43.85688",
     "geom:latitude":43.85688,
     "geom:longitude":4.405296,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3etKi4xhrC8Fknq3BUVdW1_43.856880_4.405296@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"995e3eba49039deb80bba29a55764ea0",
+    "wof:geomhash":"a171e8f866ac4e08979ac5deed56ea98",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152066717
         }
     ],
     "wof:id":152066717,
-    "wof:lastmodified":1473798042,
+    "wof:lastmodified":1496778139,
     "wof:name":"Eurovia Mediterranee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

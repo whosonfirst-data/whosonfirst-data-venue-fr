@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.56068,48.47628,7.56068,48.47628",
     "geom:latitude":48.47628,
     "geom:longitude":7.56068,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763719,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404384433,
+        85633147,
+        1108826391,
+        101763719,
+        136253037,
         102067361
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7b40sf9569KvIY2JxXXI09_48.476280_7.560680@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"604da8282a952610e2200401bf789572",
+    "wof:geomhash":"a62c3ab0a27aa4088a293324afc5bced",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067361,
+            "empire_id":136253037,
+            "localadmin_id":404384433,
             "locality_id":101763719,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":169245223
         }
     ],
     "wof:id":169245223,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496783996,
     "wof:name":"Structures Et Panneaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

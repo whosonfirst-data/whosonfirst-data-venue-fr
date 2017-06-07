@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.727626,45.17889,0.727626,45.17889",
     "geom:latitude":45.17889,
     "geom:longitude":0.727626,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_6NaHjvfXDcWJhFmxMWGmbe_45.178890_0.727626@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b381d7042725d342fa286b87637bd2ee",
+    "wof:geomhash":"977ea08c5c4e31792678d2c87e60a40f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":136312601
         }
     ],
     "wof:id":136312601,
-    "wof:lastmodified":1473798009,
+    "wof:lastmodified":1496798379,
     "wof:name":"Le Fournil De Perigueux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

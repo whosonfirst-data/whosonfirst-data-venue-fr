@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.079305,50.013966,2.079305,50.013966",
     "geom:latitude":50.013966,
     "geom:longitude":2.079305,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813843,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404348513,
+        85633147,
+        1108826399,
+        101813843,
+        136253037,
         102070423
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0y2h9wRxBGaQfWB6iS80pA_50.013966_2.079305@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7669e87ab93df722e68de0f4a786bb4d",
+    "wof:geomhash":"69aa9591cbbed157244dc41d231fa2e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070423,
+            "empire_id":136253037,
+            "localadmin_id":404348513,
             "locality_id":101813843,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":168828637
         }
     ],
     "wof:id":168828637,
-    "wof:lastmodified":1473797877,
+    "wof:lastmodified":1496791289,
     "wof:name":"Beugnet Somme S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

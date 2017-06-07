@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.605296,50.724026,1.605296,50.724026",
     "geom:latitude":50.724026,
     "geom:longitude":1.605296,
@@ -32,30 +33,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wQtyCQObKkHF87D7PzeN5_50.724026_1.605296@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f6a5cab1d8f40638323f9145e941c2ce",
+    "wof:geomhash":"03d2bde5b495b5a2825676d17409eaac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":152069539
         }
     ],
     "wof:id":152069539,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496791127,
     "wof:name":"Philippe Olivier Sa",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

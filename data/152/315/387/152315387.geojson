@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.577089,46.172302,5.577089,46.172302",
     "geom:latitude":46.172302,
     "geom:longitude":5.577089,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842955,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404418255,
+        85633147,
+        1108826389,
+        101842955,
+        136253037,
         102068489
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0RT1ku1Kycp69jH1IjOXSU_46.172302_5.577089@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f2fbc408eff7a7edc7f31a329e3bdd24",
+    "wof:geomhash":"1b568e6411664b54a5f04a6655693118",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068489,
+            "empire_id":136253037,
+            "localadmin_id":404418255,
             "locality_id":101842955,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152315387
         }
     ],
     "wof:id":152315387,
-    "wof:lastmodified":1473798363,
+    "wof:lastmodified":1496780466,
     "wof:name":"Bra Lyonnaise De Banque",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

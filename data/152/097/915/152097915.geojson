@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.205809,44.991814,-0.205809,44.991814",
     "geom:latitude":44.991814,
     "geom:longitude":-0.205809,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769439,
-        85633147,
         85683243,
+        102191581,
+        404228275,
+        404367837,
+        85633147,
+        1108826385,
+        101769439,
+        136253037,
         102069239
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0WuAOYvmCZzUZ4vIDgO5dD_44.991814_-0.205809@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e4d1612daff95f80f75c5407cd5a0a1",
+    "wof:geomhash":"9c84780d4356c9ded1cefa7abb1e3f22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069239,
+            "empire_id":136253037,
+            "localadmin_id":404367837,
             "locality_id":101769439,
+            "macrocounty_id":404228275,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152097915
         }
     ],
     "wof:id":152097915,
-    "wof:lastmodified":1473798227,
+    "wof:lastmodified":1496776331,
     "wof:name":"Entreprise Bertin Et Fils Scea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

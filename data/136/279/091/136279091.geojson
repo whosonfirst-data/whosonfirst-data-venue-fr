@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933651,45.691738,4.933651,45.691738",
     "geom:latitude":45.691738,
     "geom:longitude":4.933651,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750801,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404384273,
+        85633147,
+        1108826389,
+        101750801,
+        136253037,
         102071359
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5k0uyW6RfvEStFdlbdO8bO_45.691738_4.933651@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d5854be7969b5cff0046b507ebeb6cf7",
+    "wof:geomhash":"ea5f9be20ab07ca7ef6b6ca0e7a162ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071359,
+            "empire_id":136253037,
+            "localadmin_id":404384273,
             "locality_id":101750801,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136279091
         }
     ],
     "wof:id":136279091,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496779302,
     "wof:name":"Societe D'expertise Comptable M Michaud Sarl Secmi Sarl (secmi)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

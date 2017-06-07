@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.25515,44.51535,3.25515,44.51535",
     "geom:latitude":44.51535,
     "geom:longitude":3.25515,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895819,
-        85633147,
         85683453,
+        102191581,
+        404227903,
+        404383595,
+        85633147,
+        1108826387,
+        101895819,
+        136253037,
         102068599
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0Ig7rR72xQnw0SnfpQcIwm_44.515350_3.255150@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3b42ada2533a922144df4f9c182e46c9",
+    "wof:geomhash":"4d8e0f1de815a81aa5e2e1124c13dd64",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068599,
+            "empire_id":136253037,
+            "localadmin_id":404383595,
             "locality_id":101895819,
+            "macrocounty_id":404227903,
+            "macroregion_id":1108826387,
             "region_id":85683453,
             "venue_id":152163399
         }
     ],
     "wof:id":152163399,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496799374,
     "wof:name":"Alzur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

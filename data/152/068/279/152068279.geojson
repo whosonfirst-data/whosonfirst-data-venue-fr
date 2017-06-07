@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.893835,45.770473,4.893835,45.770473",
     "geom:latitude":45.770473,
     "geom:longitude":4.893835,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0vjsurd3GXNHqjsu2bfWcf_45.770473_4.893835@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"44a55446fa4c59fb9025cf41dc671e6d",
+    "wof:geomhash":"f226810df72f8bf244f6215e0bfd24c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152068279
         }
     ],
     "wof:id":152068279,
-    "wof:lastmodified":1473798074,
+    "wof:lastmodified":1496799845,
     "wof:name":"Ges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.876956,45.762833,4.876956,45.762833",
     "geom:latitude":45.762833,
     "geom:longitude":4.876956,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_3UnFZbIwscu9z41fBzPIuN_45.762833_4.876956@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"015109935f7f992c24adfaa8ca72964b",
+    "wof:geomhash":"6000c4efeea1e247a76f57ed0d1fc354",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152131065
         }
     ],
     "wof:id":152131065,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496780856,
     "wof:name":"Abrium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

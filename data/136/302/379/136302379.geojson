@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.11747,40.66872,-74.11747,40.66872",
     "geom:latitude":40.66872,
     "geom:longitude":-74.11747,
@@ -27,9 +28,11 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85975307,
-        85633793,
         85688607,
+        102191575,
+        404478127,
+        85633793,
+        85975307,
         102080719
     ],
     "wof:breaches":[],
@@ -40,15 +43,17 @@
     "wof:geomhash":"a8be50fe1723c35e1ab177e030919c31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080719,
+            "localadmin_id":404478127,
             "locality_id":85975307,
             "region_id":85688607,
             "venue_id":136302379
         }
     ],
     "wof:id":136302379,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1492023338,
     "wof:name":"Cr\u00e9dit Agricole Du Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

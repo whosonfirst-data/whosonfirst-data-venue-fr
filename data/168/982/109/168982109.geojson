@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.236376,46.646107,-0.236376,46.646107",
     "geom:latitude":46.646107,
     "geom:longitude":-0.236376,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829271,
-        85633147,
         85683163,
+        102191581,
+        404228163,
+        404405299,
+        85633147,
+        1108826385,
+        101829271,
+        136253037,
         102068475
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_3hmdWFqlCfkwlyV37TTmbx_46.646107_-0.236376@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36e5c645b329ffd73a8972a632dfb511",
+    "wof:geomhash":"5c079c4dd8ab77725ffe291d4801dd2f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068475,
+            "empire_id":136253037,
+            "localadmin_id":404405299,
             "locality_id":101829271,
+            "macrocounty_id":404228163,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":168982109
         }
     ],
     "wof:id":168982109,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496777201,
     "wof:name":"Guyonnaud & Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.191655,48.615311,6.191655,48.615311",
     "geom:latitude":48.615311,
     "geom:longitude":6.191655,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750117,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404405009,
+        85633147,
+        1108826391,
+        101750117,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1w73i1hVgtxqeTRnXo2h9R_48.615311_6.191655@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73fd881c293bc20b68b05dd650c37c04",
+    "wof:geomhash":"11cc8f0bab9c18d3afc2c29c46f1d523",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404405009,
             "locality_id":101750117,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152057567
         }
     ],
     "wof:id":152057567,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496785733,
     "wof:name":"B Braun Medical Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

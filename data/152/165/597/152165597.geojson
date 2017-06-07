@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.358359,48.589485,-0.358359,48.589485",
     "geom:latitude":48.589485,
     "geom:longitude":-0.358359,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762599,
-        85633147,
         85683527,
+        102191581,
+        404227721,
+        404349953,
+        85633147,
+        1108826393,
+        101762599,
+        136253037,
         102066815
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_2DsgaT5ZRS4ZmhqaEsgqsN_48.589485_-0.358359@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"08e9c56c09301197cfe5fa4fbae1b642",
+    "wof:geomhash":"cfd0a9e56c0922934953f4a8dab18619",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066815,
+            "empire_id":136253037,
+            "localadmin_id":404349953,
             "locality_id":101762599,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":152165597
         }
     ],
     "wof:id":152165597,
-    "wof:lastmodified":1473798309,
+    "wof:lastmodified":1496786954,
     "wof:name":"France Moule Et Outillage Fmo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

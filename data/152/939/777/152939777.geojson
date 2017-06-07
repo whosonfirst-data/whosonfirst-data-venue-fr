@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.687538,49.345192,2.687538,49.345192",
     "geom:latitude":49.345192,
     "geom:longitude":2.687538,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760319,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404420199,
+        85633147,
+        1108826399,
+        101760319,
+        136253037,
         102066943
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_6PuZQ6w7eSm5dNgG9IjlTg_49.345192_2.687538@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d824b3b60deaf2f722f49bf76e27c054",
+    "wof:geomhash":"42d8296e3adff4fedcc106e65c2d6b7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066943,
+            "empire_id":136253037,
+            "localadmin_id":404420199,
             "locality_id":101760319,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152939777
         }
     ],
     "wof:id":152939777,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496792064,
     "wof:name":"Societe Generale De Mecanique Appliquee (sgma)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

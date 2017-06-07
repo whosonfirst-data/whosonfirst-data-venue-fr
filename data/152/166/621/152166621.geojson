@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.381475,48.754082,7.381475,48.754082",
     "geom:latitude":48.754082,
     "geom:longitude":7.381475,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827831,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404382531,
+        85633147,
+        1108826391,
+        101827831,
+        136253037,
         102068313
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_6OtYIzhgwxs0UYHcOCJrWM_48.754082_7.381475@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae38177954ed2da6731b2cb655a6f41c",
+    "wof:geomhash":"248001616f9a34d779b9d31edcbe1091",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068313,
+            "empire_id":136253037,
+            "localadmin_id":404382531,
             "locality_id":101827831,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152166621
         }
     ],
     "wof:id":152166621,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496793314,
     "wof:name":"Meca-forge De L'est (mfe)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

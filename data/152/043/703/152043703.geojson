@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.366152,43.299625,-0.366152,43.299625",
     "geom:latitude":43.299625,
     "geom:longitude":-0.366152,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_5BrfqSm7qXdZOVwi2VZ38P_43.299625_-0.366152@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4485225fb5dc4609de85bb03e950394d",
+    "wof:geomhash":"c605c9e7e0b3880fb649558884ebb3bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152043703
         }
     ],
     "wof:id":152043703,
-    "wof:lastmodified":1473797883,
+    "wof:lastmodified":1496798437,
     "wof:name":"Chambre De Metiers Des Pyrenees Atlantiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

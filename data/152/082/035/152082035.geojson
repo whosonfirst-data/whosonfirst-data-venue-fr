@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.416738,43.665039,1.416738,43.665039",
     "geom:latitude":43.665039,
     "geom:longitude":1.416738,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748945,
-        85633147,
         85683397,
+        102191581,
+        404228067,
+        404408081,
+        85633147,
+        1108826387,
+        101748945,
+        136253037,
         102071527
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0WpTb70358ua5xXUloNGB8_43.665039_1.416738@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5198dd59ce2477373132e02516342db8",
+    "wof:geomhash":"96c2c712a953f2942ae5f0c99812c490",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071527,
+            "empire_id":136253037,
+            "localadmin_id":404408081,
             "locality_id":101748945,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152082035
         }
     ],
     "wof:id":152082035,
-    "wof:lastmodified":1473798118,
+    "wof:lastmodified":1496777788,
     "wof:name":"Centre De Diffusion De Materiel Et D'equipement S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

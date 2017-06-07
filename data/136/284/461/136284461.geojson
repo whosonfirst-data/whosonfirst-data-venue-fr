@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.48706,48.984459,4.48706,48.984459",
     "geom:latitude":48.984459,
     "geom:longitude":4.48706,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761327,
-        85633147,
         85683405,
+        102191581,
+        404227697,
+        404363955,
+        85633147,
+        1108826391,
+        101761327,
+        136253037,
         102067207
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1NWYZgV3vN1Zq5J3U5MoiD_48.984459_4.487060@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d88862e5bf88b9326f29832fdef9f948",
+    "wof:geomhash":"265af2fb2f09436208c4e8b1739d340c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067207,
+            "empire_id":136253037,
+            "localadmin_id":404363955,
             "locality_id":101761327,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136284461
         }
     ],
     "wof:id":136284461,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496805519,
     "wof:name":"Sarl Hydro Pulve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

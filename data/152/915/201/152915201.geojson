@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.855977,46.781693,4.855977,46.781693",
     "geom:latitude":46.781693,
     "geom:longitude":4.855977,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752995,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404416037,
+        85633147,
+        1108826395,
+        101752995,
+        136253037,
         102072317
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7ESqguaxcxNPhDk1nl5DQn_46.781693_4.855977@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07968d4a2c7a2930e09050ce3ac8fb44",
+    "wof:geomhash":"880ad0ca9dcdfcc7eced3cf250e85188",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072317,
+            "empire_id":136253037,
+            "localadmin_id":404416037,
             "locality_id":101752995,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152915201
         }
     ],
     "wof:id":152915201,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496789026,
     "wof:name":"Les Journaux De Saone Et Loire (jsl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

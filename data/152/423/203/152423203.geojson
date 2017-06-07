@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.00266,49.278843,4.00266,49.278843",
     "geom:latitude":49.278843,
     "geom:longitude":4.00266,
@@ -23,9 +24,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751385,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404381873,
+        85633147,
+        1108826391,
+        101751385,
+        136253037,
         102071141
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0OUo5BJLUyHG8blmi0sXXh_49.278843_4.002660@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f21667db04d979e06cacfabe1285eeff",
+    "wof:geomhash":"b95a9a70a1f26955d0bb8c96aa1e112f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071141,
+            "empire_id":136253037,
+            "localadmin_id":404381873,
             "locality_id":101751385,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152423203
         }
     ],
     "wof:id":152423203,
-    "wof:lastmodified":1473798406,
+    "wof:lastmodified":1496786491,
     "wof:name":"E.j.l. Champagne Ardennes S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.531745,46.824051,0.531745,46.824051",
     "geom:latitude":46.824051,
     "geom:longitude":0.531745,
@@ -23,9 +24,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -33,18 +38,22 @@
         "sg:id":"SG_57FdLj2110G2b7AudObfCz_46.824051_0.531745@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d187f54a03be43b47ba11d1a8f70d6d",
+    "wof:geomhash":"81f863dd487dfd80999ef27d1acc8fb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":169133047
         }
     ],
     "wof:id":169133047,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496776538,
     "wof:name":"S.i.m. S.a. - Soci\u00e9t\u00e9 Industrielle De M\u00e9canique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

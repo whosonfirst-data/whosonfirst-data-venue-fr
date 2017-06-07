@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.270855,47.655704,7.270855,47.655704",
     "geom:latitude":47.655704,
     "geom:longitude":7.270855,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888205,
-        85633147,
         85683381,
+        102191581,
+        404227733,
+        404378281,
+        85633147,
+        1108826391,
+        101888205,
+        136253037,
         102064281
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_16jVJdVq8LQe0FytyN6dCe_47.655704_7.270855@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1fc605642721350405fe9165fdbf0481",
+    "wof:geomhash":"231fc39ef76a75f3edc8fc15deadfefc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064281,
+            "empire_id":136253037,
+            "localadmin_id":404378281,
             "locality_id":101888205,
+            "macrocounty_id":404227733,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152089705
         }
     ],
     "wof:id":152089705,
-    "wof:lastmodified":1473798164,
+    "wof:lastmodified":1496793379,
     "wof:name":"Fpa Fonderie De Precision Alsace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

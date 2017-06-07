@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.52968,43.528912,1.52968,43.528912",
     "geom:latitude":43.528912,
     "geom:longitude":1.52968,
@@ -30,16 +31,39 @@
         "fair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        404396295,
+        85633147,
+        1108826387,
+        101749245,
+        136253037,
+        102066151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KA4Ve3106L2ZeYh5q6CUi_43.528912_1.529680@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c29ba5a5f74abe5f798b1a2b28688a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21ce3e0a21aa1cf05f519edfdb159e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066151,
+            "empire_id":136253037,
+            "localadmin_id":404396295,
+            "locality_id":101749245,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397,
+            "venue_id":152050245
+        }
+    ],
     "wof:id":152050245,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496803721,
     "wof:name":"Centre De Congres Et De Rencontres Professionnelles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

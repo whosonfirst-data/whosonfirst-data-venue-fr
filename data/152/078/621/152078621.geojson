@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.524717,50.351067,3.524717,50.351067",
     "geom:latitude":50.351067,
     "geom:longitude":3.524717,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840599,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840599,
+        136253037,
         102072385
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1cLqS5GpOnHypEdYSR6oIn_50.351067_3.524717@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec1a747e24abbbe48ec5161d79331d46",
+    "wof:geomhash":"0439749a44dd0fc55b403bc634c3de65",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840599,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152078621
         }
     ],
     "wof:id":152078621,
-    "wof:lastmodified":1473798142,
+    "wof:lastmodified":1496797089,
     "wof:name":"Santerne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

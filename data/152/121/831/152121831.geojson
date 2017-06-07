@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.351966,46.010471,3.351966,46.010471",
     "geom:latitude":46.010471,
     "geom:longitude":3.351966,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767849,
-        85633147,
         85683471,
+        102191581,
+        404228251,
+        404396887,
+        85633147,
+        1108826389,
+        101767849,
+        136253037,
         102070209
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7HYi1xTDGTtTCcVn25zAFb_46.010471_3.351966@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dce4e6175813b88523c8e131c9155e18",
+    "wof:geomhash":"ccfcde98f3280d08136a7c1b5a48b772",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070209,
+            "empire_id":136253037,
+            "localadmin_id":404396887,
             "locality_id":101767849,
+            "macrocounty_id":404228251,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152121831
         }
     ],
     "wof:id":152121831,
-    "wof:lastmodified":1473798286,
+    "wof:lastmodified":1496781908,
     "wof:name":"Auvergne Sellerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

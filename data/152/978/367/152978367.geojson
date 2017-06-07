@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"13.433735,52.608227,13.433735,52.608227",
     "geom:latitude":52.608227,
     "geom:longitude":13.433735,
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748799,
+        420784251,
+        102191581,
         85633111,
-        85682499,
-        102063945
+        101748799,
+        1108815549,
+        102063945,
+        85682499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,20 @@
     "wof:geomhash":"0290e218dd5a777a24384769f9b07310",
     "wof:hierarchy":[
         {
+            "borough_id":1108815549,
+            "continent_id":102191581,
             "country_id":85633111,
             "county_id":102063945,
             "locality_id":101748799,
+            "neighbourhood_id":420784251,
             "region_id":85682499,
             "venue_id":152978367
         }
     ],
     "wof:id":152978367,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1489090937,
     "wof:name":"Transports Rapides Joyau",
-    "wof:parent_id":-1,
+    "wof:parent_id":420784251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

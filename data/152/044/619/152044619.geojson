@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.030335,49.256264,4.030335,49.256264",
     "geom:latitude":49.256264,
     "geom:longitude":4.030335,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_5NrEx6iCth7VYDzrNwh4Wr_49.256264_4.030335@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"93dadc266063676968c6204f991b0bc9",
+    "wof:geomhash":"ae31e8967f338c6825157b3bbbd3b4d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152044619
         }
     ],
     "wof:id":152044619,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496785928,
     "wof:name":"Association Education Populaire Notre Dame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

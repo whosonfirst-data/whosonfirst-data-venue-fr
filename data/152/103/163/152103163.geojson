@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6106,48.093899,6.6106,48.093899",
     "geom:latitude":48.093899,
     "geom:longitude":6.6106,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764833,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404403665,
+        85633147,
+        1108826391,
+        101764833,
+        136253037,
         102068567
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5DzKzrNEPXWV6r8eJNTBJx_48.093899_6.610600@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b815bc6deb3207c7813d9d9df4f5c440",
+    "wof:geomhash":"6985761f9ad87ac9f33ce9594584934b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068567,
+            "empire_id":136253037,
+            "localadmin_id":404403665,
             "locality_id":101764833,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152103163
         }
     ],
     "wof:id":152103163,
-    "wof:lastmodified":1473798232,
+    "wof:lastmodified":1496786309,
     "wof:name":"Cipa Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

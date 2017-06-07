@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.056948,50.668102,3.056948,50.668102",
     "geom:latitude":50.668102,
     "geom:longitude":3.056948,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751519,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404357629,
+        85633147,
+        1108826399,
+        101751519,
+        136253037,
         102070919
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_07STXdkMm5x6SISXqhMqTO_50.668102_3.056948@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d3300319e970d1ff38f6ec97812a709",
+    "wof:geomhash":"39840d43f60c74799e578cb7dc19506f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070919,
+            "empire_id":136253037,
+            "localadmin_id":404357629,
             "locality_id":101751519,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152056961
         }
     ],
     "wof:id":152056961,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496796515,
     "wof:name":"Lambert Riviere Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

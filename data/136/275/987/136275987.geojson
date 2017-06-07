@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.800131,47.815437,3.800131,47.815437",
     "geom:latitude":47.815437,
     "geom:longitude":3.800131,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766171,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404356717,
+        85633147,
+        1108826395,
+        101766171,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5LQvOWw3p0v9ju5zaNgtXn_47.815437_3.800131@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"786a2663a732a6490c0201b25e9d3290",
+    "wof:geomhash":"751c270214344a605c44aede68be3fbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404356717,
             "locality_id":101766171,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":136275987
         }
     ],
     "wof:id":136275987,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496788305,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De L'yonne (ca) Credit Agricole",
-    "wof:parent_id":101766171,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

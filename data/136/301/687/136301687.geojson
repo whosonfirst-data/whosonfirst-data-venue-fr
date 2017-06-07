@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.378728,43.300121,-0.378728,43.300121",
     "geom:latitude":43.300121,
     "geom:longitude":-0.378728,
@@ -27,9 +28,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_5yI1sAB0MR9fspgrBS89S8_43.300121_-0.378728@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d20e9fc7092020c285d8548b606f430",
+    "wof:geomhash":"ade0aef854341781f14ce368812f15fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136301687
         }
     ],
     "wof:id":136301687,
-    "wof:lastmodified":1473798015,
+    "wof:lastmodified":1496776547,
     "wof:name":"Cetelem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

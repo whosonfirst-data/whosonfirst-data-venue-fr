@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.613976,43.111973,1.613976,43.111973",
     "geom:latitude":43.111973,
     "geom:longitude":1.613976,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831585,
-        85633147,
         85683335,
+        102191581,
+        85633147,
+        404227815,
+        1108826387,
+        101831585,
+        136253037,
         102072441
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5ny0qNPlKTONJvDM2Ut29R_43.111973_1.613976@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1157822db7bf89d28723e1f8e696d942",
+    "wof:geomhash":"211148e5a283dc918c0b955f2d5eb93b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072441,
+            "empire_id":136253037,
             "locality_id":101831585,
+            "macrocounty_id":404227815,
+            "macroregion_id":1108826387,
             "region_id":85683335,
             "venue_id":152081393
         }
     ],
     "wof:id":152081393,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496778013,
     "wof:name":"Gaz De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

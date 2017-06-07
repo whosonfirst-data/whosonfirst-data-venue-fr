@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.776811,49.389362,2.776811,49.389362",
     "geom:latitude":49.389362,
     "geom:longitude":2.776811,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842415,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842415,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4XyMK0uBBpmC2MB2P0tvjt_49.389362_2.776811@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"51f6326ca2754c865e98a4e4c2783a07",
+    "wof:geomhash":"ef6a83892d820f5849b09b024d3f9857",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842415,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153079861
         }
     ],
     "wof:id":153079861,
-    "wof:lastmodified":1473797985,
+    "wof:lastmodified":1496790274,
     "wof:name":"Atelier Gombeaud S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.363852,44.017357,1.363852,44.017357",
     "geom:latitude":44.017357,
     "geom:longitude":1.363852,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749289,
-        85633147,
         85683217,
+        102191581,
+        404227977,
+        404360243,
+        85633147,
+        1108826387,
+        101749289,
+        136253037,
         102072481
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0H5eGHRxdbSJVFPcPXNETG_44.017357_1.363852@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"07270db1819dc463f1e9d289a199c508",
+    "wof:geomhash":"e642b0df0efee79502ac37b5670a995b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072481,
+            "empire_id":136253037,
+            "localadmin_id":404360243,
             "locality_id":101749289,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":136275827
         }
     ],
     "wof:id":136275827,
-    "wof:lastmodified":1473797936,
+    "wof:lastmodified":1496778002,
     "wof:name":"Caisse Primaire Assurance Maladie",
-    "wof:parent_id":101749289,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.753362,49.610783,0.753362,49.610783",
     "geom:latitude":49.610783,
     "geom:longitude":0.753362,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840343,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404400383,
+        85633147,
+        1108826393,
+        101840343,
+        136253037,
         102071695
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5YcS18Z6xSuJR7ZUIbuuuA_49.610783_0.753362@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"02a62d022b106575fa75e7813f3ac83e",
+    "wof:geomhash":"e5de4d1f925e03974967016f54341210",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071695,
+            "empire_id":136253037,
+            "localadmin_id":404400383,
             "locality_id":101840343,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152992331
         }
     ],
     "wof:id":152992331,
-    "wof:lastmodified":1473798596,
+    "wof:lastmodified":1496804830,
     "wof:name":"Laporte Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

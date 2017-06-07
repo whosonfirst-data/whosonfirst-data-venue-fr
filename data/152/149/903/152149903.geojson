@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.822666,48.655472,4.822666,48.655472",
     "geom:latitude":48.655472,
     "geom:longitude":4.822666,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101881771,
-        85633147,
         85683261,
+        102191581,
+        404228109,
+        404386215,
+        85633147,
+        1108826391,
+        101881771,
+        136253037,
         102070037
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4wV36Lh5c5QlDbW8h6eNRt_48.655472_4.822666@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb1bd47c0dcb2b1b61917eaa963d1b82",
+    "wof:geomhash":"5abbba40b3e6fc4e5203606cc39ff374",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070037,
+            "empire_id":136253037,
+            "localadmin_id":404386215,
             "locality_id":101881771,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152149903
         }
     ],
     "wof:id":152149903,
-    "wof:lastmodified":1473798299,
+    "wof:lastmodified":1496783866,
     "wof:name":"Noisette Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

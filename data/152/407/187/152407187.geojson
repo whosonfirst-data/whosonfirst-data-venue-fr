@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.043339,47.320473,5.043339,47.320473",
     "geom:latitude":47.320473,
     "geom:longitude":5.043339,
@@ -24,9 +25,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_7g7APMFj6e6TuD2tV1JNTY_47.320473_5.043339@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4e0a7e5d3b1ae0a065b624f12d3484e2",
+    "wof:geomhash":"1c87e61b15b254fae7c8027e7119ba7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152407187
         }
     ],
     "wof:id":152407187,
-    "wof:lastmodified":1473798399,
+    "wof:lastmodified":1496794842,
     "wof:name":"Dijon Promotion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

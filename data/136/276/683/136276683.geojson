@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.857726,47.63702,6.857726,47.63702",
     "geom:latitude":47.63702,
     "geom:longitude":6.857726,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749011,
-        85633147,
         85683353,
+        102191581,
+        85633147,
+        404227783,
+        1108826395,
+        101749011,
+        136253037,
         102072425
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_6Mpz0j89Ibqe34poRF7kUl_47.637020_6.857726@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a9c61e4cc27366dec174f153ea711f3",
+    "wof:geomhash":"aa10c75946674eb3cf9ce1608789d25a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072425,
+            "empire_id":136253037,
             "locality_id":101749011,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":136276683
         }
     ],
     "wof:id":136276683,
-    "wof:lastmodified":1473797934,
+    "wof:lastmodified":1496789211,
     "wof:name":"Credit Agricole Mutuel De France Comte",
-    "wof:parent_id":101749011,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

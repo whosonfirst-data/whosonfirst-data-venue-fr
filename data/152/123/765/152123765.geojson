@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.91322,48.030258,4.91322,48.030258",
     "geom:latitude":48.030258,
     "geom:longitude":4.91322,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766217,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404428219,
+        85633147,
+        1108826391,
+        101766217,
+        136253037,
         102065241
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_53qLgNVVNTwCnqpBoV8rsi_48.030258_4.913220@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6714ef11e0b3e896d4e05fba4a99e3fc",
+    "wof:geomhash":"d643c2657486205ca6cff8e8e8bfdf7c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065241,
+            "empire_id":136253037,
+            "localadmin_id":404428219,
             "locality_id":101766217,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152123765
         }
     ],
     "wof:id":152123765,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496784216,
     "wof:name":"Le Chameau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

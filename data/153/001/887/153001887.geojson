@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.197331,45.691231,3.197331,45.691231",
     "geom:latitude":45.691231,
     "geom:longitude":3.197331,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828989,
-        85633147,
         85683471,
-        102071481
+        102191581,
+        404227937,
+        404390873,
+        85633147,
+        1108826389,
+        101828989,
+        136253037,
+        102071519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sydobFvzTzGMT59VDxsON_45.691231_3.197331@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f846d7e9c2f8d1d03c5dfd332c927c14",
+    "wof:geomhash":"3c37cc1121414811ee25d549b2f53266",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071481,
+            "county_id":102071519,
+            "empire_id":136253037,
+            "localadmin_id":404390873,
             "locality_id":101828989,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":153001887
         }
     ],
     "wof:id":153001887,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496806269,
     "wof:name":"Ste Nouvelle Sea S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

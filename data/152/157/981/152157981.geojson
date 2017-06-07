@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.020969,49.574524,3.020969,49.574524",
     "geom:latitude":49.574524,
     "geom:longitude":3.020969,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814949,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404383477,
+        85633147,
+        1108826399,
+        101814949,
+        136253037,
         102069723
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6G1klrDWrA18qMnWpMsmA8_49.574524_3.020969@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2ec5038c23aeab9f7f116ecde7db451",
+    "wof:geomhash":"9bc2afa1880f545bfd1e1dd356d4b611",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069723,
+            "empire_id":136253037,
+            "localadmin_id":404383477,
             "locality_id":101814949,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152157981
         }
     ],
     "wof:id":152157981,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496790735,
     "wof:name":"Societe Verriere Encapsulation Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

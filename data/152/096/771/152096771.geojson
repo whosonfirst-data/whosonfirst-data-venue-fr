@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.375546,49.762321,0.375546,49.762321",
     "geom:latitude":49.762321,
     "geom:longitude":0.375546,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840335,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404353221,
+        85633147,
+        1108826393,
+        101840335,
+        136253037,
         102068233
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7IPpobrmkFFOkY0RIpuwNR_49.762321_0.375546@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c933d9a6f1f1ab2f59e213c9129bbc83",
+    "wof:geomhash":"e5265ff4c74468e896c249f383b546d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068233,
+            "empire_id":136253037,
+            "localadmin_id":404353221,
             "locality_id":101840335,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152096771
         }
     ],
     "wof:id":152096771,
-    "wof:lastmodified":1473798199,
+    "wof:lastmodified":1496787216,
     "wof:name":"Rouen Maree Prestations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.866125,43.965725,3.866125,43.965725",
     "geom:latitude":43.965725,
     "geom:longitude":3.866125,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772727,
-        85633147,
         85683431,
+        102191581,
+        404228065,
+        404351475,
+        85633147,
+        1108826387,
+        101772727,
+        136253037,
         102069545
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1kJYAI9KphRvHBl99gZLI0_43.965725_3.866125@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d788b0a1aceb9b411a08d8a29ecf0ad2",
+    "wof:geomhash":"3aed5cfed7a6af2a2f0b7c3e1dbaf0f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069545,
+            "empire_id":136253037,
+            "localadmin_id":404351475,
             "locality_id":101772727,
+            "macrocounty_id":404228065,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152096171
         }
     ],
     "wof:id":152096171,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496778126,
     "wof:name":"Societe Cigaloise De Cheville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

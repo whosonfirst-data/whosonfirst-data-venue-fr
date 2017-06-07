@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.394866,43.551701,1.394866,43.551701",
     "geom:latitude":43.551701,
     "geom:longitude":1.394866,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xb4H7K7rm1KZfcCn12wtG_43.551701_1.394866@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a4703a3de996c795d97ac81ef992ac0",
+    "wof:geomhash":"782c024c07a5070bfdfa045b63a8d21e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":152128139
         }
     ],
     "wof:id":152128139,
-    "wof:lastmodified":1473798288,
+    "wof:lastmodified":1496778290,
     "wof:name":"Textiles Techniques Du Midi Sarl",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

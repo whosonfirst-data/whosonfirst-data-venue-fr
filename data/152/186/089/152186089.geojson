@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.202041,48.254662,7.202041,48.254662",
     "geom:latitude":48.254662,
     "geom:longitude":7.202041,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763209,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404383875,
+        85633147,
+        1108826391,
+        101763209,
+        136253037,
         102068697
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_7B9g70HABjDpIQgdRMPzot_48.254662_7.202041@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1d9519598f92fa943d7379c168474ca",
+    "wof:geomhash":"282ff9c7d463173ef24d3626b3cce8d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068697,
+            "empire_id":136253037,
+            "localadmin_id":404383875,
             "locality_id":101763209,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152186089
         }
     ],
     "wof:id":152186089,
-    "wof:lastmodified":1473798311,
+    "wof:lastmodified":1496785506,
     "wof:name":"Laserjet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

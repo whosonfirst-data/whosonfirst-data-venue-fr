@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.94632,49.082619,3.94632,49.082619",
     "geom:latitude":49.082619,
     "geom:longitude":3.94632,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879895,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404403107,
+        85633147,
+        1108826391,
+        101879895,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0jMJcb9LF2Rp5phIestXPS_49.082619_3.946320@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"00005c4447b20747f99f760b233cab1e",
+    "wof:geomhash":"9c6251e6fe8f44dcec7d6eeb6385c8fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404403107,
             "locality_id":101879895,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073737
         }
     ],
     "wof:id":152073737,
-    "wof:lastmodified":1473798139,
+    "wof:lastmodified":1496785121,
     "wof:name":"Sarl Champagne Locret Lachaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.833808,50.137909,4.833808,50.137909",
     "geom:latitude":50.137909,
     "geom:longitude":4.833808,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840275,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404359541,
+        85633147,
+        1108826391,
+        101840275,
+        136253037,
         102066215
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2YVhSfZXgFnSE7L5Q9dBGu_50.137909_4.833808@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"22cca771dd55c3fa4e549cf3916d5753",
+    "wof:geomhash":"1b725d235e82519dcb2cdf6c7952650c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066215,
+            "empire_id":136253037,
+            "localadmin_id":404359541,
             "locality_id":101840275,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152067833
         }
     ],
     "wof:id":152067833,
-    "wof:lastmodified":1473798087,
+    "wof:lastmodified":1496805280,
     "wof:name":"Societe D'exploitation Spanevello Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

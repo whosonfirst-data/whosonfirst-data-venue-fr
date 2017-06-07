@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.593278,50.723076,1.593278,50.723076",
     "geom:latitude":50.723076,
     "geom:longitude":1.593278,
@@ -35,30 +36,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GfqsBQZRxJ1hZmG2mlWYV_50.723076_1.593278@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a0c1db26f51d441438192d97ca698ee7",
+    "wof:geomhash":"64d416de97a9daac226d046747288581",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":136291405
         }
     ],
     "wof:id":136291405,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496791798,
     "wof:name":"Seapack",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

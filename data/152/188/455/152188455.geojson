@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.379742,47.801182,6.379742,47.801182",
     "geom:latitude":47.801182,
     "geom:longitude":6.379742,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829477,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404403551,
+        85633147,
+        1108826395,
+        101829477,
+        136253037,
         102070103
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1rTmGi62vcMa040zOo57a5_47.801182_6.379742@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d51dc0939b98cc8d0d4d4bf927f1eb71",
+    "wof:geomhash":"61deebc23261ce0e7a8e85d67320b51b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070103,
+            "empire_id":136253037,
+            "localadmin_id":404403551,
             "locality_id":101829477,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152188455
         }
     ],
     "wof:id":152188455,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1496804380,
     "wof:name":"Sasu Fonderie De Saint Sauveur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

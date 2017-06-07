@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.52216,43.885799,-0.52216,43.885799",
     "geom:latitude":43.885799,
     "geom:longitude":-0.52216,
@@ -22,9 +23,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831887,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404380875,
+        85633147,
+        1108826385,
+        101831887,
+        136253037,
         102069831
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2437Ge9w8GOrZR84FUZTXr_43.885799_-0.522160@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f98c2a6406c69b200ca2ba6aadbdddf7",
+    "wof:geomhash":"b5bef00b9d8355edd76e90196f50bb3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069831,
+            "empire_id":136253037,
+            "localadmin_id":404380875,
             "locality_id":101831887,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152458427
         }
     ],
     "wof:id":152458427,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1496776394,
     "wof:name":"Etablissements Sarra Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

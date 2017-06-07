@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.200738,45.779541,1.200738,45.779541",
     "geom:latitude":45.779541,
     "geom:longitude":1.200738,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842959,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404372939,
+        85633147,
+        1108826385,
+        101842959,
+        136253037,
         102064367
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2oUYigSFL9UepIekfb1EDm_45.779541_1.200738@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8cda5849fa65caa90edb0e2c53f0c377",
+    "wof:geomhash":"e9d827eef22960f45a661be7d5231986",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064367,
+            "empire_id":136253037,
+            "localadmin_id":404372939,
             "locality_id":101842959,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152661981
         }
     ],
     "wof:id":152661981,
-    "wof:lastmodified":1473798491,
+    "wof:lastmodified":1496776210,
     "wof:name":"Papeteries Cartonneries Lacaux Fr\u00e8res S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

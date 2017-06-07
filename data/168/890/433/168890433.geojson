@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.176466,49.234447,1.176466,49.234447",
     "geom:latitude":49.234447,
     "geom:longitude":1.176466,
@@ -24,9 +25,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828341,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404366919,
+        85633147,
+        1108826393,
+        101828341,
+        136253037,
         102071233
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_01fSCjWBTC5Xb1nnBt8uyp_49.234447_1.176466@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ac913a5cb1ff056df47008d00551eba0",
+    "wof:geomhash":"2d04bdc909c3944fee658019e1b2c7d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071233,
+            "empire_id":136253037,
+            "localadmin_id":404366919,
             "locality_id":101828341,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":168890433
         }
     ],
     "wof:id":168890433,
-    "wof:lastmodified":1473798049,
+    "wof:lastmodified":1496787301,
     "wof:name":"Cuir Du Vaudreuil S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

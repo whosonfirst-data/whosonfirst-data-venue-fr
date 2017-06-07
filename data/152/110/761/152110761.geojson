@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.840055,45.85471,4.840055,45.85471",
     "geom:latitude":45.85471,
     "geom:longitude":4.840055,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749407,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404403055,
+        85633147,
+        1108826389,
+        101749407,
+        136253037,
         102068923
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5IMDji8t2uxBCrWKIvS9De_45.854710_4.840055@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3e403f5ff684d5bea23017fea32bc186",
+    "wof:geomhash":"9be393818f8a7bed92f488c908c6d244",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068923,
+            "empire_id":136253037,
+            "localadmin_id":404403055,
             "locality_id":101749407,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152110761
         }
     ],
     "wof:id":152110761,
-    "wof:lastmodified":1473798261,
+    "wof:lastmodified":1496780610,
     "wof:name":"La Forge Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

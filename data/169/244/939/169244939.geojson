@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.144402,45.53627,2.144402,45.53627",
     "geom:latitude":45.53627,
     "geom:longitude":2.144402,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769321,
-        85633147,
         85683209,
+        102191581,
+        404228041,
+        404350699,
+        85633147,
+        1108826385,
+        101769321,
+        136253037,
         102067493
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_3Fcj7NN2HobH33tjCTN8oK_45.536270_2.144402@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc20b7e0fbe994d92841f80f3ff7ec86",
+    "wof:geomhash":"0ab75e42544fd5aa95bf2493fad098af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067493,
+            "empire_id":136253037,
+            "localadmin_id":404350699,
             "locality_id":101769321,
+            "macrocounty_id":404228041,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":169244939
         }
     ],
     "wof:id":169244939,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496777221,
     "wof:name":"Ste Cuisines Et Bains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

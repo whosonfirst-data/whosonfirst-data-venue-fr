@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.34968,50.848381,4.34968,50.848381",
     "geom:latitude":50.848381,
     "geom:longitude":4.34968,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681713,
+        85801789,
+        102191581,
         85632997,
+        404227355,
         101751573,
         102049957,
-        85801789
+        85681713
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +55,18 @@
     "wof:geomhash":"edb613341a0d6e1582f500490077a6eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049957,
             "locality_id":101751573,
+            "macroregion_id":404227355,
             "neighbourhood_id":85801789,
             "region_id":85681713,
             "venue_id":152104013
         }
     ],
     "wof:id":152104013,
-    "wof:lastmodified":1473798222,
+    "wof:lastmodified":1491898305,
     "wof:name":"Halbwachs Levage Industrie Sarl",
     "wof:parent_id":85801789,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.308675,46.565807,3.308675,46.565807",
     "geom:latitude":46.565807,
     "geom:longitude":3.308675,
@@ -27,9 +28,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829187,
-        85633147,
         85683293,
+        102191581,
+        404227801,
+        404392241,
+        85633147,
+        1108826389,
+        101829187,
+        136253037,
         102068737
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_75HjBKU39mInvRwZW7gNGK_46.565807_3.308675@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"142cf6c9000f306e4d8058de7741fe19",
+    "wof:geomhash":"6a02b16d1d7ee1e935116ba8f7a11a0b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068737,
+            "empire_id":136253037,
+            "localadmin_id":404392241,
             "locality_id":101829187,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":136301595
         }
     ],
     "wof:id":136301595,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496780257,
     "wof:name":"Caja De Ahorros, Del Mediterraneo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

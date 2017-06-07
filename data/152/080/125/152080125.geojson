@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.761714,46.79789,4.761714,46.79789",
     "geom:latitude":46.79789,
     "geom:longitude":4.761714,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766539,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404421801,
+        85633147,
+        1108826395,
+        101766539,
+        136253037,
         102067841
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6toKlnQR4Q4IW2gMpFX1R8_46.797890_4.761714@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cb41b8d7a7dff4dc1a13ff933ab5fbd6",
+    "wof:geomhash":"e0ca2446bc4041adcb841c67238b9047",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067841,
+            "empire_id":136253037,
+            "localadmin_id":404421801,
             "locality_id":101766539,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152080125
         }
     ],
     "wof:id":152080125,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1496789026,
     "wof:name":"Ste D'etudes Electriques Et Realisations S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

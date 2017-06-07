@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.253931,43.327507,3.253931,43.327507",
     "geom:latitude":43.327507,
     "geom:longitude":3.253931,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749211,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404422507,
+        85633147,
+        1108826387,
+        101749211,
+        136253037,
         102072255
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1OV7zwHFv0lUVfvWdHqSNp_43.327507_3.253931@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"17e786037187cf89e19e9bb1f08e805e",
+    "wof:geomhash":"78cf9ec3d2b91e9897ed499463357b11",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072255,
+            "empire_id":136253037,
+            "localadmin_id":404422507,
             "locality_id":101749211,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152142055
         }
     ],
     "wof:id":152142055,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496799151,
     "wof:name":"Generale Frigorifique (gff)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

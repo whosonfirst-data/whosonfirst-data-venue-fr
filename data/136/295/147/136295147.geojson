@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.377572,45.443089,4.377572,45.443089",
     "geom:latitude":45.443089,
     "geom:longitude":4.377572,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3OwI6vUgNOIXU4aHzCM6T3_45.443089_4.377572@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"52b80da77170bcfa54e11a84b03b225f",
+    "wof:geomhash":"a4f9cefcdef6f82638270f35430455fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136295147
         }
     ],
     "wof:id":136295147,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496800665,
     "wof:name":"Ste Ligerienne Transport De Valeurs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

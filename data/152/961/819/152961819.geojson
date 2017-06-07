@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.742365,45.865833,4.742365,45.865833",
     "geom:latitude":45.865833,
     "geom:longitude":4.742365,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828931,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404414035,
+        85633147,
+        1108826389,
+        101828931,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4M0kZTXaz1JGe20bO3vlaP_45.865833_4.742365@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"48dca4b80dae475e43e8987073cb97e2",
+    "wof:geomhash":"c57afad76f15db3eee590550aefa228a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404414035,
             "locality_id":101828931,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152961819
         }
     ],
     "wof:id":152961819,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496802041,
     "wof:name":"Le Roy Logistique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

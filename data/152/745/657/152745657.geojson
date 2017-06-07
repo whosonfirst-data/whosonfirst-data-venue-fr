@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.042057,49.022999,-0.042057,49.022999",
     "geom:latitude":49.022999,
     "geom:longitude":-0.042057,
@@ -24,9 +25,14 @@
     "sg:province":"Basse Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760289,
-        85633147,
         85683579,
+        102191581,
+        404228031,
+        404392587,
+        85633147,
+        1108826393,
+        101760289,
+        136253037,
         102069695
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7JvAE9hKpl6OyW5y6MLXuq_49.022999_-0.042057@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1f72fc257a40acec52fffa2e3124b4c0",
+    "wof:geomhash":"60cbc6e0655b34e08654edf61e61f054",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069695,
+            "empire_id":136253037,
+            "localadmin_id":404392587,
             "locality_id":101760289,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152745657
         }
     ],
     "wof:id":152745657,
-    "wof:lastmodified":1473798516,
+    "wof:lastmodified":1496787332,
     "wof:name":"Sapec S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

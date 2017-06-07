@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.111774,49.398106,1.111774,49.398106",
     "geom:latitude":49.398106,
     "geom:longitude":1.111774,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751461,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751461,
+        136253037,
         102071971
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_380n14q3SxWiH3n3EMuuXo_49.398106_1.111774@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5709e0ae7c8f693bf5730fdc80f4f30b",
+    "wof:geomhash":"42155744484a2d8cedc1a5c485846986",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071971,
+            "empire_id":136253037,
             "locality_id":101751461,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152866705
         }
     ],
     "wof:id":152866705,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496804830,
     "wof:name":"Georgia Pacific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

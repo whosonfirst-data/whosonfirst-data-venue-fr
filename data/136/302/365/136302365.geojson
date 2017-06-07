@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.849345,45.666546,4.849345,45.666546",
     "geom:latitude":45.666546,
     "geom:longitude":4.849345,
@@ -27,9 +28,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_2MeUdxPWd5ynuxe34Inqsf_45.666546_4.849345@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce3e522d4d7e8b638bc1459a81c88d51",
+    "wof:geomhash":"c5bdd551e7cc6f1713a73412ba0158e7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136302365
         }
     ],
     "wof:id":136302365,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496781290,
     "wof:name":"Cr\u00e9dit Agricole Du Sud Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

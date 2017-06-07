@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.270651,50.195202,3.270651,50.195202",
     "geom:latitude":50.195202,
     "geom:longitude":3.270651,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840745,
-        85633147,
         85683445,
-        102071903
+        102191581,
+        404227927,
+        404416001,
+        85633147,
+        1108826399,
+        101840745,
+        136253037,
+        102066685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WgOf0I9oiBLjVZdmCFTrP_50.195202_3.270651@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c6aca6a75dd200b86ff2d1a84771bf7",
+    "wof:geomhash":"9dc55af85f844bf348c9814d63aab169",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071903,
+            "county_id":102066685,
+            "empire_id":136253037,
+            "localadmin_id":404416001,
             "locality_id":101840745,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152065895
         }
     ],
     "wof:id":152065895,
-    "wof:lastmodified":1473798092,
+    "wof:lastmodified":1496790658,
     "wof:name":"Beugnet Hainaut Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

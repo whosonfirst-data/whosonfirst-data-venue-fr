@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.172856,43.716206,4.172856,43.716206",
     "geom:latitude":43.716206,
     "geom:longitude":4.172856,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774089,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404413961,
+        85633147,
+        1108826387,
+        101774089,
+        136253037,
         102071409
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5otXAQw0QFSMCpHDBMoiUw_43.716206_4.172856@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a848e6344de4c81f735de758f6b7f93a",
+    "wof:geomhash":"8c02af8d13c22bd770fc6885700856e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071409,
+            "empire_id":136253037,
+            "localadmin_id":404413961,
             "locality_id":101774089,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152874057
         }
     ],
     "wof:id":152874057,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496777986,
     "wof:name":"Smurfit Socar Socar Sud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

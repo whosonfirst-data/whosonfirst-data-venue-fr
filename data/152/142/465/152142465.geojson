@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.495748,48.466869,7.495748,48.466869",
     "geom:latitude":48.466869,
     "geom:longitude":7.495748,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763709,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404405303,
+        85633147,
+        1108826391,
+        101763709,
+        136253037,
         102067361
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1xp0asvPI8oqA3xLo0bgLL_48.466869_7.495748@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8eeec77c869ca605787bad2595f2b172",
+    "wof:geomhash":"38bd88b07d58ddbd677f07b66c12766f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067361,
+            "empire_id":136253037,
+            "localadmin_id":404405303,
             "locality_id":101763709,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152142465
         }
     ],
     "wof:id":152142465,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496784879,
     "wof:name":"Gripple Europe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.365364,45.469875,4.365364,45.469875",
     "geom:latitude":45.469875,
     "geom:longitude":4.365364,
@@ -22,9 +23,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750843,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404228089,
+        1108826389,
+        101750843,
+        136253037,
         102068273
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_3BlSZLftmhn2ixrhy1RglQ_45.469875_4.365364@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"823acbe8942ccc86323e0d0b51c0365c",
+    "wof:geomhash":"1f7aae9539987ee98ad6b553588de3c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068273,
+            "empire_id":136253037,
             "locality_id":101750843,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":169127933
         }
     ],
     "wof:id":169127933,
-    "wof:lastmodified":1473798120,
+    "wof:lastmodified":1496780474,
     "wof:name":"S.e.c.a. S.a. - Soci\u00e9t\u00e9 D'expertise Comptable Audit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

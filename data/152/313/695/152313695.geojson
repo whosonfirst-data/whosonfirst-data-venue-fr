@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.280957,50.357906,3.280957,50.357906",
     "geom:latitude":50.357906,
     "geom:longitude":3.280957,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840737,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404393041,
+        85633147,
+        1108826399,
+        101840737,
+        136253037,
         102071215
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4r91vZ2NFiNvw79A0V79qP_50.357906_3.280957@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8197170ae52f4ba922aa9785b7d9a10",
+    "wof:geomhash":"01eebd4c2a5eed5ca5ca3c47ab2dcaf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071215,
+            "empire_id":136253037,
+            "localadmin_id":404393041,
             "locality_id":101840737,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152313695
         }
     ],
     "wof:id":152313695,
-    "wof:lastmodified":1473798365,
+    "wof:lastmodified":1496790490,
     "wof:name":"Boumanne S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.70496,45.186481,5.70496,45.186481",
     "geom:latitude":45.186481,
     "geom:longitude":5.70496,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_4JBRHbpgcCZT9k2s21RawY_45.186481_5.704960@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c9264c4a65dc345dd527787dbaa25da",
+    "wof:geomhash":"eb98d0f80e2fcb36fa2b889bbba28d61",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152075649
         }
     ],
     "wof:id":152075649,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496779594,
     "wof:name":"Comptoir Electrique Francais (cef)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

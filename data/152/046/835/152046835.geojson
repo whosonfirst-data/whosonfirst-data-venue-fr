@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.652468,45.748909,-0.652468,45.748909",
     "geom:latitude":45.748909,
     "geom:longitude":-0.652468,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829179,
-        85633147,
         85683275,
+        102191581,
+        404228209,
+        404359615,
+        85633147,
+        1108826385,
+        101829179,
+        136253037,
         102072553
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5nxOZhBFi5ARopGLqJV0ZJ_45.748909_-0.652468@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f807977f467d9037a53c92aefec21ba1",
+    "wof:geomhash":"4f5b589d9ec829c6a953a516d2e38187",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072553,
+            "empire_id":136253037,
+            "localadmin_id":404359615,
             "locality_id":101829179,
+            "macrocounty_id":404228209,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152046835
         }
     ],
     "wof:id":152046835,
-    "wof:lastmodified":1473797941,
+    "wof:lastmodified":1496775417,
     "wof:name":"Ogec Nd De Recouvrance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

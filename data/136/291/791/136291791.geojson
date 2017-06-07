@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.368061,43.298515,-0.368061,43.298515",
     "geom:latitude":43.298515,
     "geom:longitude":-0.368061,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_2Qd8KTg364aogaXomfmDS0_43.298515_-0.368061@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"734be4d7d76d3a46ea178821416ba352",
+    "wof:geomhash":"b4f73f6cf547a324b45bb736d8f81559",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136291791
         }
     ],
     "wof:id":136291791,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496776713,
     "wof:name":"Well Com Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

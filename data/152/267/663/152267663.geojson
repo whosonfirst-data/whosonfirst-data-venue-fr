@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.130976,50.072136,2.130976,50.072136",
     "geom:latitude":50.072136,
     "geom:longitude":2.130976,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813839,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404390289,
+        85633147,
+        1108826399,
+        101813839,
+        136253037,
         102068047
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_08zELB7EtQ7wY6jcOLUM3S_50.072136_2.130976@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"11255a9c89b633a61072180dcbb8a2bf",
+    "wof:geomhash":"a6f6f69831fdd1db2054b8bfe7d97ba4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068047,
+            "empire_id":136253037,
+            "localadmin_id":404390289,
             "locality_id":101813839,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152267663
         }
     ],
     "wof:id":152267663,
-    "wof:lastmodified":1473798341,
+    "wof:lastmodified":1496790459,
     "wof:name":"Amip S.a. - Les Viandes Henri Petit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

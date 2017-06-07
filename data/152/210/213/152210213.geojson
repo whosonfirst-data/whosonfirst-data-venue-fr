@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.200491,48.701218,6.200491,48.701218",
     "geom:latitude":48.701218,
     "geom:longitude":6.200491,
@@ -23,9 +24,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751409,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404419595,
+        85633147,
+        1108826391,
+        101751409,
+        136253037,
         102070579
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2i5vh2lx86jOvLNGdC3SSx_48.701218_6.200491@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8b7a8b77f34fe52b5d6650a56355c776",
+    "wof:geomhash":"41e2116442bcb49039e6d5d16d83e892",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070579,
+            "empire_id":136253037,
+            "localadmin_id":404419595,
             "locality_id":101751409,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152210213
         }
     ],
     "wof:id":152210213,
-    "wof:lastmodified":1473798325,
+    "wof:lastmodified":1496784176,
     "wof:name":"France Cartes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

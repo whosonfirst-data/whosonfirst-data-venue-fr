@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.571837,44.983212,4.571837,44.983212",
     "geom:latitude":44.983212,
     "geom:longitude":4.571837,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771785,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404405251,
+        85633147,
+        1108826389,
+        101771785,
+        136253037,
         102066135
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5cWbAAHNvKaoBD84Mvb9iy_44.983212_4.571837@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d1a23cd33ebb0e5a83504d2fcf86e41",
+    "wof:geomhash":"43a7fe797d32397bbe910a19d55a70c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066135,
+            "empire_id":136253037,
+            "localadmin_id":404405251,
             "locality_id":101771785,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":136277607
         }
     ],
     "wof:id":136277607,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496801976,
     "wof:name":"Fiduval Drome Ardeche Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.446871,48.193584,6.446871,48.193584",
     "geom:latitude":48.193584,
     "geom:longitude":6.446871,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827685,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404360513,
+        85633147,
+        1108826391,
+        101827685,
+        136253037,
         102069803
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0HlbMqgmhN7HHohGs76V6z_48.193584_6.446871@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"752892aa78290abfcdbabdbe1e3c13fa",
+    "wof:geomhash":"58d87a43f6d7e5880f50e2c2a154cc6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069803,
+            "empire_id":136253037,
+            "localadmin_id":404360513,
             "locality_id":101827685,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136277061
         }
     ],
     "wof:id":136277061,
-    "wof:lastmodified":1473797870,
+    "wof:lastmodified":1496784935,
     "wof:name":"Enerys Enerys Gec",
-    "wof:parent_id":101827685,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

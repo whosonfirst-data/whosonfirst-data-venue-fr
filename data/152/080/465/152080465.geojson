@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.31271,45.547752,2.31271,45.547752",
     "geom:latitude":45.547752,
     "geom:longitude":2.31271,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769609,
-        85633147,
         85683209,
+        102191581,
+        85633147,
+        404228041,
+        1108826385,
+        101769609,
+        136253037,
         102072187
     ],
     "wof:brand_id":420574991,
@@ -45,18 +50,22 @@
         "sg:id":"SG_7FtdWIlKjPtGCSgmGrQFpo_45.547752_2.312710@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b6277cf25707f7565a2d03d880ad666d",
+    "wof:geomhash":"530919bfb7566048669c5dddd1e8e728",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072187,
+            "empire_id":136253037,
             "locality_id":101769609,
+            "macrocounty_id":404228041,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152080465
         }
     ],
     "wof:id":152080465,
-    "wof:lastmodified":1473798133,
+    "wof:lastmodified":1496776022,
     "wof:name":"Electricite De France (edf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

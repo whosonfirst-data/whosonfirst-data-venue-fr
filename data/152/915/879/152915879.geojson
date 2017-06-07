@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.164836,44.499146,0.164836,44.499146",
     "geom:latitude":44.499146,
     "geom:longitude":0.164836,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830407,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227901,
+        1108826385,
+        101830407,
+        136253037,
         102072307
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6D4abW6HdjGCpLBHYSf4mw_44.499146_0.164836@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f3adb63ca93f3e88922645bfa6bdb04d",
+    "wof:geomhash":"55996312fa0894e2a04bd81fc39c1046",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072307,
+            "empire_id":136253037,
             "locality_id":101830407,
+            "macrocounty_id":404227901,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152915879
         }
     ],
     "wof:id":152915879,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496798418,
     "wof:name":"Midi Presse Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

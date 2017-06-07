@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.369875,46.656403,0.369875,46.656403",
     "geom:latitude":46.656403,
     "geom:longitude":0.369875,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829379,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404393087,
+        85633147,
+        1108826385,
+        101829379,
+        136253037,
         102070797
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1U9QgVvGPldrjOOTwEXXmk_46.656403_0.369875@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a5aabe764c0867de665726e415387f05",
+    "wof:geomhash":"d7754eca6d1ebf42c25ec64fd6f89d81",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070797,
+            "empire_id":136253037,
+            "localadmin_id":404393087,
             "locality_id":101829379,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152179165
         }
     ],
     "wof:id":152179165,
-    "wof:lastmodified":1473798311,
+    "wof:lastmodified":1496775446,
     "wof:name":"Eurodecoupe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

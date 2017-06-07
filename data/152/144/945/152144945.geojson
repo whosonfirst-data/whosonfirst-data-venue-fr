@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.233145,46.200142,5.233145,46.200142",
     "geom:latitude":46.200142,
     "geom:longitude":5.233145,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829109,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404413457,
+        85633147,
+        1108826389,
+        101829109,
+        136253037,
         102072433
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7AC5SH3lL2IUydZrRDJBjl_46.200142_5.233145@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"db6800731bb6f8da9ca3b6112f9f688c",
+    "wof:geomhash":"63cc90461972bd748742f7f31c3c274b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
             "locality_id":101829109,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152144945
         }
     ],
     "wof:id":152144945,
-    "wof:lastmodified":1473798302,
+    "wof:lastmodified":1496799907,
     "wof:name":"La Table Ronde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.584191,50.523872,1.584191,50.523872",
     "geom:latitude":50.523872,
     "geom:longitude":1.584191,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840457,
-        85633147,
         85683255,
+        102191581,
+        404228249,
+        404377323,
+        85633147,
+        1108826399,
+        101840457,
+        136253037,
         102070813
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5WfsU8LulRGM84polIF92z_50.523872_1.584191@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56d7b1ba3cd736bc700b521d2b1a638d",
+    "wof:geomhash":"021667f2c824a40b08a41049af9cb6e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070813,
+            "empire_id":136253037,
+            "localadmin_id":404377323,
             "locality_id":101840457,
+            "macrocounty_id":404228249,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152081299
         }
     ],
     "wof:id":152081299,
-    "wof:lastmodified":1473798132,
+    "wof:lastmodified":1496796875,
     "wof:name":"Compagnie Generale Des Eaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

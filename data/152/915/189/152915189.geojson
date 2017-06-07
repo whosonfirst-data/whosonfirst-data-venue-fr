@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.226603,46.630165,5.226603,46.630165",
     "geom:latitude":46.630165,
     "geom:longitude":5.226603,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829223,
-        85633147,
         85683543,
+        102191581,
+        404228257,
+        404394259,
+        85633147,
+        1108826395,
+        101829223,
+        136253037,
         102068689
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5DqhGVevWWQMceN4vVWPap_46.630165_5.226603@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"91247afe55ad984e3412213072390463",
+    "wof:geomhash":"15e31c7900ca70b22eb66582ecd558fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068689,
+            "empire_id":136253037,
+            "localadmin_id":404394259,
             "locality_id":101829223,
+            "macrocounty_id":404228257,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152915189
         }
     ],
     "wof:id":152915189,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496788998,
     "wof:name":"Les Journaux De Saone Et Loire (jsl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

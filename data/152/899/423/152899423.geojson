@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.811292,48.665417,7.811292,48.665417",
     "geom:latitude":48.665417,
     "geom:longitude":7.811292,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762239,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404385109,
+        85633147,
+        1108826391,
+        101762239,
+        136253037,
         102065205
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2qlwn91tRTo0XnUgMCtAC0_48.665417_7.811292@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d379a3f109bd39783a0ff1ea51619c39",
+    "wof:geomhash":"d5b0c2c0469a251d5a506576eeebce44",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065205,
+            "empire_id":136253037,
+            "localadmin_id":404385109,
             "locality_id":101762239,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152899423
         }
     ],
     "wof:id":152899423,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496793392,
     "wof:name":"Pesage Mesure Et Automatisme Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

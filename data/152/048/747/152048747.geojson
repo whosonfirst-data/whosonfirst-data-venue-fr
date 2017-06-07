@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.262406,50.751621,2.262406,50.751621",
     "geom:latitude":50.751621,
     "geom:longitude":2.262406,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839561,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228285,
+        1108826399,
+        101839561,
+        136253037,
         102072571
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1zzEnYQHTpLKqUu5884g7N_50.751621_2.262406@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d56bcd946ea8f75e2bb36ba9ba5b19c8",
+    "wof:geomhash":"928137275a5ebd9777294be781d3563d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072571,
+            "empire_id":136253037,
             "locality_id":101839561,
+            "macrocounty_id":404228285,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152048747
         }
     ],
     "wof:id":152048747,
-    "wof:lastmodified":1473797936,
+    "wof:lastmodified":1496797130,
     "wof:name":"Hotel Le Bretagne Eurl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

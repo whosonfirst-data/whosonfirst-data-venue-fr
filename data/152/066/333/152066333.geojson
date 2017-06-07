@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.16153,32.715721,-117.16153,32.715721",
     "geom:latitude":32.715721,
     "geom:longitude":-117.16153,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871217,
+        102191575,
+        1108801231,
         85633793,
         85922227,
         102083569,
-        85887269
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,20 @@
     "wof:geomhash":"72a2e0cfb50dea2f26466bff11b48a6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887269,
+            "macrohood_id":1108801231,
+            "neighbourhood_id":85871217,
             "region_id":85688637,
             "venue_id":152066333
         }
     ],
     "wof:id":152066333,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1491863613,
     "wof:name":"Effisol Ts",
-    "wof:parent_id":85887269,
+    "wof:parent_id":85871217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

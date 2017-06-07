@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.163373,45.833942,6.163373,45.833942",
     "geom:latitude":45.833942,
     "geom:longitude":6.163373,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768005,
-        85633147,
         85683227,
+        102191581,
+        404227747,
+        404376593,
+        85633147,
+        1108826389,
+        101768005,
+        136253037,
         102070245
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5PnOzK64UugPG0DSwJuB7C_45.833942_6.163373@1306269784"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a1ef0406d5bb2818c499072f4371dc1",
+    "wof:geomhash":"152e16d6f3a6dc3fd13a73dbf99068af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070245,
+            "empire_id":136253037,
+            "localadmin_id":404376593,
             "locality_id":101768005,
+            "macrocounty_id":404227747,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":169221021
         }
     ],
     "wof:id":169221021,
-    "wof:lastmodified":1473798238,
+    "wof:lastmodified":1496799892,
     "wof:name":"Weber Assemblages Automatiques S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

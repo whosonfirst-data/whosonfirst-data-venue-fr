@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.92906,49.052624,6.92906,49.052624",
     "geom:latitude":49.052624,
     "geom:longitude":6.92906,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761393,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404355241,
+        85633147,
+        1108826391,
+        101761393,
+        136253037,
         102069597
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_01xX4p4nyAAHYF1uzxRMeo_49.052624_6.929060@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce2dcc37280ced74820dc6d8bcd0bbb0",
+    "wof:geomhash":"f270ce78d0c6c24a87dea587b8e5a84e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069597,
+            "empire_id":136253037,
+            "localadmin_id":404355241,
             "locality_id":101761393,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152045081
         }
     ],
     "wof:id":152045081,
-    "wof:lastmodified":1473797874,
+    "wof:lastmodified":1496794413,
     "wof:name":"College Jean Baptiste Eble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

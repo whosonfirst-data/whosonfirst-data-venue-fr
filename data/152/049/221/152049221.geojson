@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.121058,45.004669,6.121058,45.004669",
     "geom:latitude":45.004669,
     "geom:longitude":6.121058,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896361,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404352579,
+        85633147,
+        1108826389,
+        101896361,
+        136253037,
         102064655
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4XuwqHKx2I1LL88qw2xqLv_45.004669_6.121058@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"685d1db71e92c099efb37e02c68f7b13",
+    "wof:geomhash":"195d10bc6d909c78cb155dfb11e7522b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064655,
+            "empire_id":136253037,
+            "localadmin_id":404352579,
             "locality_id":101896361,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152049221
         }
     ],
     "wof:id":152049221,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496801819,
     "wof:name":"La Mariande Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

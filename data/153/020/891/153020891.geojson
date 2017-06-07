@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.356355,49.170414,1.356355,49.170414",
     "geom:latitude":49.170414,
     "geom:longitude":1.356355,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828357,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404361215,
+        85633147,
+        1108826393,
+        101828357,
+        136253037,
         102067755
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_13s4yEwda2dI8TPMIxqTor_49.170414_1.356355@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"853c61e7f1cf288bed6025ba950d6b57",
+    "wof:geomhash":"ec6e671fe88148db7f95669b1e28b83f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067755,
+            "empire_id":136253037,
+            "localadmin_id":404361215,
             "locality_id":101828357,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":153020891
         }
     ],
     "wof:id":153020891,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496787447,
     "wof:name":"Base De Gaillon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

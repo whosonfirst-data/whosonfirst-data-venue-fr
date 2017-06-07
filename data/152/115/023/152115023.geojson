@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.461805,43.908058,-0.461805,43.908058",
     "geom:latitude":43.908058,
     "geom:longitude":-0.461805,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_03zKnMYI2ZyeSE3kAed8CN_43.908058_-0.461805@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d8fb5cc459371b3fd12a0d81eca5f6d6",
+    "wof:geomhash":"31ea1af9a3c2a23eb611ae0af71a16b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152115023
         }
     ],
     "wof:id":152115023,
-    "wof:lastmodified":1473798252,
+    "wof:lastmodified":1496776226,
     "wof:name":"Marrel Sud Ouest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.211053,48.651051,6.211053,48.651051",
     "geom:latitude":48.651051,
     "geom:longitude":6.211053,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750119,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404382171,
+        85633147,
+        1108826391,
+        101750119,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_04ACiUUuJjqrcdkOhzbGhc_48.651051_6.211053@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a5be28c4e5a87c2fc8ff7219ea8f29f",
+    "wof:geomhash":"8e25eec770369a1afb6d01994b1ddb2d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404382171,
             "locality_id":101750119,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152090071
         }
     ],
     "wof:id":152090071,
-    "wof:lastmodified":1473798167,
+    "wof:lastmodified":1496786457,
     "wof:name":"Lorraine Robinetterie Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

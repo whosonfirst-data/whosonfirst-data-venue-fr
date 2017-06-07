@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.592338,44.777157,-0.592338,44.777157",
     "geom:latitude":44.777157,
     "geom:longitude":-0.592338,
@@ -24,28 +25,40 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fdP326coD45u0abIYLQc9_44.777157_-0.592338@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7137ad337ba4a31d0adcbdbe8988db81",
+    "wof:geomhash":"b424d6dc923d1cef1bd4a0b855111de0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":169050775
         }
     ],
     "wof:id":169050775,
-    "wof:lastmodified":1473798026,
+    "wof:lastmodified":1496776042,
     "wof:name":"Makita France S.a.",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

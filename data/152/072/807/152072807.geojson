@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.54344,46.387409,6.54344,46.387409",
     "geom:latitude":46.387409,
     "geom:longitude":6.54344,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829037,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404372999,
+        85633147,
+        1108826389,
+        101829037,
+        136253037,
         102066779
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2xY3FVimDzAK7Bt0b117yE_46.387409_6.543440@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8f191308fdd2038d065d3a05ff3f57c",
+    "wof:geomhash":"24740e1dddf60eaa3e35bd83637ad979",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066779,
+            "empire_id":136253037,
+            "localadmin_id":404372999,
             "locality_id":101829037,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152072807
         }
     ],
     "wof:id":152072807,
-    "wof:lastmodified":1473798104,
+    "wof:lastmodified":1496799900,
     "wof:name":"Evian Eaux Minerales Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

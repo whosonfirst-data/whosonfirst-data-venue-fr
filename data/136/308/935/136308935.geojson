@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.552887,47.218182,-1.552887,47.218182",
     "geom:latitude":47.218182,
     "geom:longitude":-1.552887,
@@ -29,11 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,19 @@
     "wof:geomhash":"24088759184fde2b0c03851e7b024771",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":136308935
         }
     ],
     "wof:id":136308935,
-    "wof:lastmodified":1473798036,
+    "wof:lastmodified":1491937910,
     "wof:name":"Sovac",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

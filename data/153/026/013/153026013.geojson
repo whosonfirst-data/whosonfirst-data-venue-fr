@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.592817,43.647858,0.592817,43.647858",
     "geom:latitude":43.647858,
     "geom:longitude":0.592817,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772589,
-        85633147,
         85683467,
+        102191581,
+        85633147,
+        404227655,
+        1108826387,
+        101772589,
+        136253037,
         102072401
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3UyIYSE5B5mEfQnF3X0gaC_43.647858_0.592817@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d650bd44cb748f807474e0e86d5e59e0",
+    "wof:geomhash":"7ea89e3d8fa3f95179f5f2f1073eccdb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072401,
+            "empire_id":136253037,
             "locality_id":101772589,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":153026013
         }
     ],
     "wof:id":153026013,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496777588,
     "wof:name":"Sa De Presse Et D'edition Du Sud Ouest (sapeso)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

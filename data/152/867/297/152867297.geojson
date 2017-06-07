@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.082209,46.042389,4.082209,46.042389",
     "geom:latitude":46.042389,
     "geom:longitude":4.082209,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0Kmuq8GRwAr0O42D9Ykids_46.042389_4.082209@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"be465000c29f9666cdafbc24a3d2aeb6",
+    "wof:geomhash":"43bf7141015a61cb3b03bf90e04ef90a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152867297
         }
     ],
     "wof:id":152867297,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496783277,
     "wof:name":"P N R France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

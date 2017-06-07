@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.44201,47.550243,6.44201,47.550243",
     "geom:latitude":47.550243,
     "geom:longitude":6.44201,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767269,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404364305,
+        85633147,
+        1108826395,
+        101767269,
+        136253037,
         102069295
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3ZxUaHI2AfnjMblaJL3B05_47.550243_6.442010@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e6d64ca0695bd58094e92dbe01e25e44",
+    "wof:geomhash":"32f61013d6e46ed41f61cd9b13ab098f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069295,
+            "empire_id":136253037,
+            "localadmin_id":404364305,
             "locality_id":101767269,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":136286463
         }
     ],
     "wof:id":136286463,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496788475,
     "wof:name":"Cooperative Agricole Interval",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.193968,47.087738,3.193968,47.087738",
     "geom:latitude":47.087738,
     "geom:longitude":3.193968,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768451,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404406309,
+        85633147,
+        1108826395,
+        101768451,
+        136253037,
         102069193
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0W7hlUQvmjKOtrhCEFAdmS_47.087738_3.193968@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e2fe09c2904c8fbc246a32b484c5d1f2",
+    "wof:geomhash":"db5a39bb8e88229680d0ab0cd8894f38",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069193,
+            "empire_id":136253037,
+            "localadmin_id":404406309,
             "locality_id":101768451,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152090963
         }
     ],
     "wof:id":152090963,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496788182,
     "wof:name":"Sarl France Modelage Mecanique Guerignois (fmmf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

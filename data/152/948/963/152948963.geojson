@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.882101,45.602276,5.882101,45.602276",
     "geom:latitude":45.602276,
     "geom:longitude":5.882101,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749331,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404407379,
+        85633147,
+        1108826389,
+        101749331,
+        136253037,
         102067843
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7Lw48nPKuOuhXLmnFbFqcC_45.602276_5.882101@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4a647870ec2d8c159a541fd3d3217459",
+    "wof:geomhash":"1b3d09671684db79125a516674d0a602",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067843,
+            "empire_id":136253037,
+            "localadmin_id":404407379,
             "locality_id":101749331,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152948963
         }
     ],
     "wof:id":152948963,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496780937,
     "wof:name":"Rivoire Transports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

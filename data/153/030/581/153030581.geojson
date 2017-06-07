@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.599271,50.72768,1.599271,50.72768",
     "geom:latitude":50.72768,
     "geom:longitude":1.599271,
@@ -30,30 +31,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DU8gZKUue9wzNYn5LOxqy_50.727680_1.599271@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"def56cac7be0e93b82d2930733ac2d04",
+    "wof:geomhash":"4c848bfd99e424c135a20505a39ec287",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":153030581
         }
     ],
     "wof:id":153030581,
-    "wof:lastmodified":1473797980,
+    "wof:lastmodified":1496790296,
     "wof:name":"Les Abeilles Boulogne Remorquage Et Sauvetage Maritime Sarl",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

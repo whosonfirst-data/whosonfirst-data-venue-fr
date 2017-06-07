@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.615993,44.852276,-0.615993,44.852276",
     "geom:latitude":44.852276,
     "geom:longitude":-0.615993,
@@ -27,11 +28,15 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85794455,
+        102191581,
         85633147,
+        404227869,
+        1108826385,
         101748979,
+        136253037,
         102072453,
-        85794455
+        85683243
     ],
     "wof:brand_id":420575203,
     "wof:breaches":[],
@@ -39,19 +44,23 @@
         "sg:id":"SG_12XOzY1yX2vNPanEZ36JcW_44.852276_-0.615993@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"411ec55ff5203bb05db754d3973061a6",
+    "wof:geomhash":"da79559c7e36a0fe729ce1ca51476a91",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
             "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794455,
             "region_id":85683243,
             "venue_id":136302861
         }
     ],
     "wof:id":136302861,
-    "wof:lastmodified":1473798034,
+    "wof:lastmodified":1496798398,
     "wof:name":"Cr\u00e9dit Agricole",
     "wof:parent_id":85794455,
     "wof:placetype":"venue",

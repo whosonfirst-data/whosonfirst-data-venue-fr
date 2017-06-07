@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.596442,45.404297,5.596442,45.404297",
     "geom:latitude":45.404297,
     "geom:longitude":5.596442,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894657,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404362335,
+        85633147,
+        1108826389,
+        101894657,
+        136253037,
         102071351
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4nFwf30lts1VhAfSFGNm2U_45.404297_5.596442@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c8243863cd6e2116af64fffec5852560",
+    "wof:geomhash":"67bc32682e87a0e3ac83e9ab17b5db5c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071351,
+            "empire_id":136253037,
+            "localadmin_id":404362335,
             "locality_id":101894657,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152135257
         }
     ],
     "wof:id":152135257,
-    "wof:lastmodified":1473798294,
+    "wof:lastmodified":1496781720,
     "wof:name":"Court Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

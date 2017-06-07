@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.148686,47.043987,6.148686,47.043987",
     "geom:latitude":47.043987,
     "geom:longitude":6.148686,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890163,
-        85633147,
         85683239,
+        102191581,
+        404227637,
+        404387065,
+        85633147,
+        1108826395,
+        101890163,
+        136253037,
         102067567
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0YDhfQsSlmvkiOgvWAyNRQ_47.043987_6.148686@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0308997df1e45881b7afc11d68846e3",
+    "wof:geomhash":"18ac35eb51f17b0dd164cd57aa75b208",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067567,
+            "empire_id":136253037,
+            "localadmin_id":404387065,
             "locality_id":101890163,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152069609
         }
     ],
     "wof:id":152069609,
-    "wof:lastmodified":1473798081,
+    "wof:lastmodified":1496788248,
     "wof:name":"Sarl Fromagerie Monnin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

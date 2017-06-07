@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.068526,50.662121,3.068526,50.662121",
     "geom:latitude":50.662121,
     "geom:longitude":3.068526,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750267,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750267,
+        136253037,
         102070709
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3Sl2AClfA6SsYoktqXrd2M_50.662121_3.068526@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16ddf93844267744ebfe07d2ae4af4b0",
+    "wof:geomhash":"000f6934f7851b1929b96bdaf3e54319",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070709,
+            "empire_id":136253037,
             "locality_id":101750267,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152111067
         }
     ],
     "wof:id":152111067,
-    "wof:lastmodified":1473798251,
+    "wof:lastmodified":1496791146,
     "wof:name":"Mateco Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

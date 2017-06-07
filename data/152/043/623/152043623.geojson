@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.553751,46.82832,0.553751,46.82832",
     "geom:latitude":46.82832,
     "geom:longitude":0.553751,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829385,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404227775,
+        1108826385,
+        101829385,
+        136253037,
         102072129
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4oSC7en1zaeGET2zi7XigP_46.828320_0.553751@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99af0d35abfb7c22c5dac0d06527235f",
+    "wof:geomhash":"b6b7c6d984fbd689118d5c7c29e8bbfb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072129,
+            "empire_id":136253037,
             "locality_id":101829385,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152043623
         }
     ],
     "wof:id":152043623,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496798821,
     "wof:name":"Centre D'aide Par Le Travail Rene Jaud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

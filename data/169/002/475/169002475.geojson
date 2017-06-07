@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.232065,46.588303,4.232065,46.588303",
     "geom:latitude":46.588303,
     "geom:longitude":4.232065,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768399,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404420981,
+        85633147,
+        1108826395,
+        101768399,
+        136253037,
         102071495
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1JqSWf1AXEA33sp8VGee6x_46.588303_4.232065@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96f9892c44e9cff58be94c9a1d405e86",
+    "wof:geomhash":"6d9f5336ee1bbb16de8e7711a7ba7abe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071495,
+            "empire_id":136253037,
+            "localadmin_id":404420981,
             "locality_id":101768399,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":169002475
         }
     ],
     "wof:id":169002475,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496789000,
     "wof:name":"Ingesco S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

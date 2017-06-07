@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.115345,45.095943,5.115345,45.095943",
     "geom:latitude":45.095943,
     "geom:longitude":5.115345,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896175,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404421275,
+        85633147,
+        1108826389,
+        101896175,
+        136253037,
         102070569
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2UO4U9T66TiZdG11NqKVFN_45.095943_5.115345@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0de3330cf2ae8d81963b55d92a48bdb3",
+    "wof:geomhash":"6acae1263e91f0aded80bc34e6ca465e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070569,
+            "empire_id":136253037,
+            "localadmin_id":404421275,
             "locality_id":101896175,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152354965
         }
     ],
     "wof:id":152354965,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1496779315,
     "wof:name":"Centre D'aide Par Le Travail Jawet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

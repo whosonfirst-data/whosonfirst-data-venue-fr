@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.777966,49.409657,2.777966,49.409657",
     "geom:latitude":49.409657,
     "geom:longitude":2.777966,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842415,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842415,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_57kdrzwWWYUbCPZTna2koe_49.409657_2.777966@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4728352e273996cd79671ba445ffaf9",
+    "wof:geomhash":"495f2e745583afba4b408cdd6d3f8700",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842415,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153011337
         }
     ],
     "wof:id":153011337,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496790170,
     "wof:name":"France Telecom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

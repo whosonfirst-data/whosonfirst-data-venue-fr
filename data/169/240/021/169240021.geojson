@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.748888,47.998913,3.748888,47.998913",
     "geom:latitude":47.998913,
     "geom:longitude":3.748888,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766167,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404360981,
+        85633147,
+        1108826395,
+        101766167,
+        136253037,
         102068939
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_00GLyHknbTC577T0BpdcFd_47.998913_3.748888@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e164f8ffbf3f1775a20aed067176ef9d",
+    "wof:geomhash":"f13fb6d59eea9eb28b065843d6664fde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068939,
+            "empire_id":136253037,
+            "localadmin_id":404360981,
             "locality_id":101766167,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":169240021
         }
     ],
     "wof:id":169240021,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496794664,
     "wof:name":"Hennon Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

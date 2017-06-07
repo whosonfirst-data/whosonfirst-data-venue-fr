@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.166953,46.158737,4.166953,46.158737",
     "geom:latitude":46.158737,
     "geom:longitude":4.166953,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767747,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404371535,
+        85633147,
+        1108826389,
+        101767747,
+        136253037,
         102065097
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_5phLxazj0MK0FyMADcsvNI_46.158737_4.166953@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"30482b83a9205267f60dea2ddd2101b9",
+    "wof:geomhash":"287d1f1ff9d7be6cf970d717bbe7d002",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065097,
+            "empire_id":136253037,
+            "localadmin_id":404371535,
             "locality_id":101767747,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":169175429
         }
     ],
     "wof:id":169175429,
-    "wof:lastmodified":1473798207,
+    "wof:lastmodified":1496780364,
     "wof:name":"Soieries Roussillon S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.823716,45.780277,4.823716,45.780277",
     "geom:latitude":45.780277,
     "geom:longitude":4.823716,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_30fpbkrC334RSuBgWBKo8B_45.780277_4.823716@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"df794813afd023c90e8402ab0fb0d333",
+    "wof:geomhash":"a6c86abc0cf2a42270049c1f05a478e6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169107457
         }
     ],
     "wof:id":169107457,
-    "wof:lastmodified":1473798109,
+    "wof:lastmodified":1496780530,
     "wof:name":"P\u00e9rignan Et Gavet S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.464469,46.357834,6.464469,46.357834",
     "geom:latitude":46.357834,
     "geom:longitude":6.464469,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_00jYk0mUoID47rpB5pmcvn_46.357834_6.464469@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"629775f32ad433922c5d11951b82ffc1",
+    "wof:geomhash":"2c8d0e6db63f833819a7b68dd2485d1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152074085
         }
     ],
     "wof:id":152074085,
-    "wof:lastmodified":1473798118,
+    "wof:lastmodified":1496782072,
     "wof:name":"Ste Eaux Minerales Thonon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

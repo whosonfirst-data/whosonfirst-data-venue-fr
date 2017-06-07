@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.213998,46.980373,-0.213998,46.980373",
     "geom:latitude":46.980373,
     "geom:longitude":-0.213998,
@@ -28,9 +29,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829265,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829265,
+        136253037,
         102072007
     ],
     "wof:brand_id":420575503,
@@ -39,18 +45,23 @@
         "sg:id":"SG_6RRHKK6CjUFRydCf82UxVP_46.980373_-0.213998@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"458e825edc2658c99e62ddb17d409af7",
+    "wof:geomhash":"da677d22ed4b9bfdb272745c579bba0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829265,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136305241
         }
     ],
     "wof:id":136305241,
-    "wof:lastmodified":1473797989,
+    "wof:lastmodified":1496776581,
     "wof:name":"Cr\u00e9dit Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

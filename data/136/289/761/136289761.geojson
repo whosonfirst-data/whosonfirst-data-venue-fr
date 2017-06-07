@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.997818,46.044407,3.997818,46.044407",
     "geom:latitude":46.044407,
     "geom:longitude":3.997818,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828939,
-        85633147,
         85683377,
+        102191581,
+        404227889,
+        404423157,
+        85633147,
+        1108826389,
+        101828939,
+        136253037,
         102070407
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6iQ91cE8YHlkn7QMYNlQxg_46.044407_3.997818@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5b1370277fe9a366ff09247708cfe96a",
+    "wof:geomhash":"57c031351d42d01254726a0f72f34ece",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070407,
+            "empire_id":136253037,
+            "localadmin_id":404423157,
             "locality_id":101828939,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136289761
         }
     ],
     "wof:id":136289761,
-    "wof:lastmodified":1473797947,
+    "wof:lastmodified":1496780892,
     "wof:name":"Aeroport De Roanne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.322815,49.320976,2.322815,49.320976",
     "geom:latitude":49.320976,
     "geom:longitude":2.322815,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828445,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404411413,
+        85633147,
+        1108826399,
+        101828445,
+        136253037,
         102068771
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_2np1FlHed6a38W08C1Hqs5_49.320976_2.322815@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0e301d4a51ebd594ba03c585cd4cb0e1",
+    "wof:geomhash":"e0413bb3b6d23c938b4d2a90e739093e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068771,
+            "empire_id":136253037,
+            "localadmin_id":404411413,
             "locality_id":101828445,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152076283
         }
     ],
     "wof:id":152076283,
-    "wof:lastmodified":1473798130,
+    "wof:lastmodified":1496795302,
     "wof:name":"Ste Electronique Industrielle De Controles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

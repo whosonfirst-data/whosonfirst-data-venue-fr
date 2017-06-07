@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.324177,47.797115,6.324177,47.797115",
     "geom:latitude":47.797115,
     "geom:longitude":6.324177,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829461,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404374775,
+        85633147,
+        1108826395,
+        101829461,
+        136253037,
         102066819
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_63LzP3fzDpdP59NE0xOB0k_47.797115_6.324177@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"85f6afa613c437cc1ea50b69045c31f2",
+    "wof:geomhash":"04780d9fd20c7b3c237df9ec8400c24a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066819,
+            "empire_id":136253037,
+            "localadmin_id":404374775,
             "locality_id":101829461,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":152095317
         }
     ],
     "wof:id":152095317,
-    "wof:lastmodified":1473798191,
+    "wof:lastmodified":1496804444,
     "wof:name":"Andre Bazin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

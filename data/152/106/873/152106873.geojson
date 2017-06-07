@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.661758,43.384781,-1.661758,43.384781",
     "geom:latitude":43.384781,
     "geom:longitude":-1.661758,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831739,
-        85633147,
         85683539,
+        102191581,
+        404227727,
+        404424671,
+        85633147,
+        1108826385,
+        101831739,
+        136253037,
         102071357
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2CALbmWDDSRAj758pdbuGB_43.384781_-1.661758@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcc3772e9798d5e081faa0e19d010e92",
+    "wof:geomhash":"6a20836b24c0f62c2dcaaae93c36fabd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071357,
+            "empire_id":136253037,
+            "localadmin_id":404424671,
             "locality_id":101831739,
+            "macrocounty_id":404227727,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152106873
         }
     ],
     "wof:id":152106873,
-    "wof:lastmodified":1473798234,
+    "wof:lastmodified":1496775713,
     "wof:name":"Cote Basque Radiologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

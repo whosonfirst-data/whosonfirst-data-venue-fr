@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.738624,47.214664,5.738624,47.214664",
     "geom:latitude":47.214664,
     "geom:longitude":5.738624,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888781,
-        85633147,
         85683239,
+        102191581,
+        404227637,
+        404389435,
+        85633147,
+        1108826395,
+        101888781,
+        136253037,
         102064459
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3k6MmIWypuLcECeIk6WXW4_47.214664_5.738624@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa15ce1c261dee16507581a4f980f8a6",
+    "wof:geomhash":"f965da678453b530a757fcad57e7497d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064459,
+            "empire_id":136253037,
+            "localadmin_id":404389435,
             "locality_id":101888781,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152058417
         }
     ],
     "wof:id":152058417,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496804498,
     "wof:name":"Sarstedt Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

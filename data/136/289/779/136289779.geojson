@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.198255,49.390095,1.198255,49.390095",
     "geom:latitude":49.390095,
     "geom:longitude":1.198255,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827407,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404348291,
+        85633147,
+        1108826393,
+        101827407,
+        136253037,
         102065587
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0xCP7vxMWfRdxuSkX0c0Ay_49.390095_1.198255@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33a31d380c2c835c3666982827412fe1",
+    "wof:geomhash":"42f3167f6e6d5c05c5e750fcde3be0e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065587,
+            "empire_id":136253037,
+            "localadmin_id":404348291,
             "locality_id":101827407,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136289779
         }
     ],
     "wof:id":136289779,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496786974,
     "wof:name":"Aeroport Rouen Vallee De Seine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

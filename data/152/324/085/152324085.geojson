@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.47372,46.81023,4.47372,46.81023",
     "geom:latitude":46.81023,
     "geom:longitude":4.47372,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829239,
-        85633147,
         85683543,
+        102191581,
+        404227741,
+        404375487,
+        85633147,
+        1108826395,
+        101829239,
+        136253037,
         102072049
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_17t0S6Xnme1UucsFP5JUMU_46.810230_4.473720@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d03caef77bcc395881f78994caa113d8",
+    "wof:geomhash":"e7e4b5b4f6ce4528def6997d88f7266c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072049,
+            "empire_id":136253037,
+            "localadmin_id":404375487,
             "locality_id":101829239,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152324085
         }
     ],
     "wof:id":152324085,
-    "wof:lastmodified":1473798367,
+    "wof:lastmodified":1496788594,
     "wof:name":"C.a.t. Du Breuil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

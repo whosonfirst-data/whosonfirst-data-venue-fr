@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.291037,43.299057,-0.291037,43.299057",
     "geom:latitude":43.299057,
     "geom:longitude":-0.291037,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749213,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404419611,
+        85633147,
+        1108826385,
+        101749213,
+        136253037,
         102070045
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7FUWif0RJXWgIxCuxqg18I_43.299057_-0.291037@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da127f0fad3313440fd8254d85d4794e",
+    "wof:geomhash":"e52df9da8cf9ea8bfc3d322272126f1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070045,
+            "empire_id":136253037,
+            "localadmin_id":404419611,
             "locality_id":101749213,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152058145
         }
     ],
     "wof:id":152058145,
-    "wof:lastmodified":1473797901,
+    "wof:lastmodified":1496798429,
     "wof:name":"Laboratoires Pierre Fabre Api",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

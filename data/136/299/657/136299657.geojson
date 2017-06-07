@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.000404,45.73167,5.000404,45.73167",
     "geom:latitude":45.73167,
     "geom:longitude":5.000404,
@@ -27,9 +28,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752989,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404418983,
+        85633147,
+        1108826389,
+        101752989,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_1odq45oPBqiakNHER4SPXL_45.731670_5.000404@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fc0ac0083a0410b8b5c22de61a33d51",
+    "wof:geomhash":"06068b1f093d7717bef951243a36d8f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404418983,
             "locality_id":101752989,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136299657
         }
     ],
     "wof:id":136299657,
-    "wof:lastmodified":1473798028,
+    "wof:lastmodified":1496801630,
     "wof:name":"Banque Populaire De Lyon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

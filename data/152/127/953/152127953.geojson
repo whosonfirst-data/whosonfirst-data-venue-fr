@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.779831,45.744137,4.779831,45.744137",
     "geom:latitude":45.744137,
     "geom:longitude":4.779831,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750807,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415715,
+        85633147,
+        1108826389,
+        101750807,
+        136253037,
         102071559
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2tg5dK9QIfZ4IfJwtesuCD_45.744137_4.779831@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d637356bb7ef2cd0cdf818e1c720534f",
+    "wof:geomhash":"6487c40f828b78b7d1fd77f036f2decd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071559,
+            "empire_id":136253037,
+            "localadmin_id":404415715,
             "locality_id":101750807,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152127953
         }
     ],
     "wof:id":152127953,
-    "wof:lastmodified":1473798294,
+    "wof:lastmodified":1496780320,
     "wof:name":"Centre Gestion Manutention E.u.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

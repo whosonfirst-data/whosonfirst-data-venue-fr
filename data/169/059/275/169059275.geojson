@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.15487,48.402145,5.15487,48.402145",
     "geom:latitude":48.402145,
     "geom:longitude":5.15487,
@@ -24,9 +25,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101884427,
-        85633147,
         85683261,
+        102191581,
+        404228109,
+        404408001,
+        85633147,
+        1108826391,
+        101884427,
+        136253037,
         102066743
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5PVKEMBdu5PcJE4yfAEr4A_48.402145_5.154870@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"18452b3caeb695303d1cad292df06351",
+    "wof:geomhash":"322e2ccfd73a5e9ebd44e3b8ee58e090",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066743,
+            "empire_id":136253037,
+            "localadmin_id":404408001,
             "locality_id":101884427,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":169059275
         }
     ],
     "wof:id":169059275,
-    "wof:lastmodified":1473798029,
+    "wof:lastmodified":1496784679,
     "wof:name":"Merli Mat\u00e9riaux S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

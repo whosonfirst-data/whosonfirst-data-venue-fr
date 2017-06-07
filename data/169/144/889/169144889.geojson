@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.15413,44.339901,4.15413,44.339901",
     "geom:latitude":44.339901,
     "geom:longitude":4.15413,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896259,
-        85633147,
         85683421,
+        102191581,
+        404227599,
+        404348997,
+        85633147,
+        1108826389,
+        101896259,
+        136253037,
         102069249
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4iHRANXFr0GlAld9tVEOIg_44.339901_4.154130@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0021e14075988b0ef2881d4a2fdfd437",
+    "wof:geomhash":"19bf478020db32c06b98f9481b3aa8d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069249,
+            "empire_id":136253037,
+            "localadmin_id":404348997,
             "locality_id":101896259,
+            "macrocounty_id":404227599,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":169144889
         }
     ],
     "wof:id":169144889,
-    "wof:lastmodified":1473798179,
+    "wof:lastmodified":1496779908,
     "wof:name":"Saint Paulienne De Gestion S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

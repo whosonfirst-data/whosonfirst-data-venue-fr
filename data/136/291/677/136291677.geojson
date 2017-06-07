@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.711681,48.513153,7.711681,48.513153",
     "geom:latitude":48.513153,
     "geom:longitude":7.711681,
@@ -36,30 +37,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794611,
+        102191581,
         85633147,
-        101749755,
-        102071231,
-        85794611
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uvaGM9OwF4U7ANxu1KlNK_48.513153_7.711681@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae646565b9e17628ac59a81e811dcb59",
+    "wof:geomhash":"1daa79007726848d97d56bf79bfc2bb6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101749755,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794611,
             "region_id":85683221,
             "venue_id":136291677
         }
     ],
     "wof:id":136291677,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496785245,
     "wof:name":"Formtech Sarl",
     "wof:parent_id":85794611,
     "wof:placetype":"venue",

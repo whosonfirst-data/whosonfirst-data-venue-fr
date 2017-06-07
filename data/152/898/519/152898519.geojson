@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.30966,49.874519,2.30966,49.874519",
     "geom:latitude":49.874519,
     "geom:longitude":2.30966,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_7TloYhZRtjZ1Nno44Wuabh_49.874519_2.309660@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5d49e91f8553fe80efe87e217c0fe555",
+    "wof:geomhash":"421dfc11c7e6699852f611d6fcdf899b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152898519
         }
     ],
     "wof:id":152898519,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496795418,
     "wof:name":"Fichet Securite Electronique (fse)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

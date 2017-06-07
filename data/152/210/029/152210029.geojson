@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.056121,43.609272,0.056121,43.609272",
     "geom:latitude":43.609272,
     "geom:longitude":0.056121,
@@ -23,9 +24,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772571,
-        85633147,
         85683467,
+        102191581,
+        404228069,
+        404363373,
+        85633147,
+        1108826387,
+        101772571,
+        136253037,
         102068639
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2FJgecJjTkWv53ddFo6ZDJ_43.609272_0.056121@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1e8d3ab4adc113ea17184f0ebe2b9a2",
+    "wof:geomhash":"27cfbb36df6964ee6bb68feb6bd71a20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068639,
+            "empire_id":136253037,
+            "localadmin_id":404363373,
             "locality_id":101772571,
+            "macrocounty_id":404228069,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152210029
         }
     ],
     "wof:id":152210029,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496803712,
     "wof:name":"Facture Instrumentale Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

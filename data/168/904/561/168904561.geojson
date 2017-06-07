@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.069116,47.340511,5.069116,47.340511",
     "geom:latitude":47.340511,
     "geom:longitude":5.069116,
@@ -24,9 +25,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_01oTG9oDpSlrTdzpPRgwh6_47.340511_5.069116@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"deab9a455959046e81415ee8a4512ffc",
+    "wof:geomhash":"1c416fea9d16e13281ac7def7a8acc8b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":168904561
         }
     ],
     "wof:id":168904561,
-    "wof:lastmodified":1473798060,
+    "wof:lastmodified":1496788346,
     "wof:name":"Dijon Carton S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

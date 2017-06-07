@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.01062,50.761585,3.01062,50.761585",
     "geom:latitude":50.761585,
     "geom:longitude":3.01062,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839661,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404402821,
+        85633147,
+        1108826399,
+        101839661,
+        136253037,
         102071617
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1vVwEKuWutMpUVRisOBCS7_50.761585_3.010620@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"722bc46191d37c80d501b95c18efd2da",
+    "wof:geomhash":"b2dabd7ed94f8bcf24854eb52d88f9b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071617,
+            "empire_id":136253037,
+            "localadmin_id":404402821,
             "locality_id":101839661,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136283515
         }
     ],
     "wof:id":136283515,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496796226,
     "wof:name":"Agricom Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

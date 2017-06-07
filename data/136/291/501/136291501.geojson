@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.308726,47.38792,4.308726,47.38792",
     "geom:latitude":47.38792,
     "geom:longitude":4.308726,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888029,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404358711,
+        85633147,
+        1108826395,
+        101888029,
+        136253037,
         102069377
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_31Yyc6Ewo7kqV6mPM2TB8g_47.387920_4.308726@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"53bce52022de8423db30a122fef3f30b",
+    "wof:geomhash":"a01f39d4417bf6c66033a2e9940830df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069377,
+            "empire_id":136253037,
+            "localadmin_id":404358711,
             "locality_id":101888029,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136291501
         }
     ],
     "wof:id":136291501,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496789069,
     "wof:name":"Symbiopole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

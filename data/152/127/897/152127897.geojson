@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.941062,43.58424,3.941062,43.58424",
     "geom:latitude":43.58424,
     "geom:longitude":3.941062,
@@ -33,26 +34,42 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544757,
+        85683419,
+        102191581,
+        404228073,
+        404410881,
         85633147,
-        85683419
+        1108826387,
+        136253037,
+        102071489
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sHfrtKl8LK7NHMebO60JN_43.584240_3.941062@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9804ed1bbbd425bb620a2d1295041639",
+    "wof:geomhash":"927d24a3807fb7fd9f575aa1fbe213fa",
     "wof:hierarchy":[
         {
+            "campus_id":102544757,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071489,
+            "empire_id":136253037,
+            "localadmin_id":404410881,
+            "locality_id":-1,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":-1,
             "region_id":85683419,
             "venue_id":152127897
         }
     ],
     "wof:id":152127897,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496799442,
     "wof:name":"B.d.h. Sarl",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

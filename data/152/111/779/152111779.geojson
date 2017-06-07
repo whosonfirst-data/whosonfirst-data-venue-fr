@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.240893,45.827751,1.240893,45.827751",
     "geom:latitude":45.827751,
     "geom:longitude":1.240893,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1jxSUcT0bz47IQToenBZ2U_45.827751_1.240893@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4600b2d63a35ad4856fb9673ea3f6632",
+    "wof:geomhash":"a515a14b6a1ca4e438335ea1b4c4f6b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152111779
         }
     ],
     "wof:id":152111779,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496775941,
     "wof:name":"Sarl Maison Sazerat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.676925,46.282558,5.676925,46.282558",
     "geom:latitude":46.282558,
     "geom:longitude":5.676925,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829089,
-        85633147,
         85683153,
+        102191581,
+        404228195,
+        404378283,
+        85633147,
+        1108826389,
+        101829089,
+        136253037,
         102068675
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3BVHRhcDGUQcMehgQThlTP_46.282558_5.676925@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"92a9b2dc08f9872e7aa8ccfeee1aad24",
+    "wof:geomhash":"043d2042cd61822269d9bca2e019cab4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068675,
+            "empire_id":136253037,
+            "localadmin_id":404378283,
             "locality_id":101829089,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":153004957
         }
     ],
     "wof:id":153004957,
-    "wof:lastmodified":1473797880,
+    "wof:lastmodified":1496801493,
     "wof:name":"Lunettes Juillard Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

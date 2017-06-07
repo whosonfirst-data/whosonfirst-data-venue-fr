@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.87244,49.493397,5.87244,49.493397",
     "geom:latitude":49.493397,
     "geom:longitude":5.87244,
@@ -30,8 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813659,
+        85683343,
+        102191581,
+        404227705,
+        404360507,
         85633147,
+        1108826391,
+        101813659,
+        136253037,
         102069785
     ],
     "wof:breaches":[],
@@ -39,18 +46,23 @@
         "sg:id":"SG_5fysNETWGLITwSIEltmpWl_49.493397_5.872440@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f4ab19da727d5d7772e68aa33db14abc",
+    "wof:geomhash":"82f660dcfb541de3cf4da7a45d7672ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069785,
+            "empire_id":136253037,
+            "localadmin_id":404360507,
             "locality_id":101813659,
-            "region_id":-1,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
+            "region_id":85683343,
             "venue_id":169240913
         }
     ],
     "wof:id":169240913,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496783870,
     "wof:name":"Libert Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.015554,49.370338,1.015554,49.370338",
     "geom:latitude":49.370338,
     "geom:longitude":1.015554,
@@ -24,9 +25,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750197,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404415935,
+        85633147,
+        1108826393,
+        101750197,
+        136253037,
         102069201
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7cBm9gzMW9TgkjI8QbqAEQ_49.370338_1.015554@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"203d5546306db8c6d1d8d670011be45b",
+    "wof:geomhash":"2f1e46f50dc804040d460158f8bc123c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069201,
+            "empire_id":136253037,
+            "localadmin_id":404415935,
             "locality_id":101750197,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":168887735
         }
     ],
     "wof:id":168887735,
-    "wof:lastmodified":1473798059,
+    "wof:lastmodified":1496787287,
     "wof:name":"Couronnaise De Raffinage S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

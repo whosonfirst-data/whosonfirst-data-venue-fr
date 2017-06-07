@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.152459,48.758224,6.152459,48.758224",
     "geom:latitude":48.758224,
     "geom:longitude":6.152459,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101757379,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404373765,
+        85633147,
+        1108826391,
+        101757379,
+        136253037,
         102071213
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5m5KxB1sgsF3wKbv8QrFME_48.758224_6.152459@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"41c4bceac29c46d5356ed3e0b2fdbcc0",
+    "wof:geomhash":"4c02ed020ba790f8199dcfab828a2b18",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071213,
+            "empire_id":136253037,
+            "localadmin_id":404373765,
             "locality_id":101757379,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152083401
         }
     ],
     "wof:id":152083401,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496786023,
     "wof:name":"General Incendie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.356271,43.82373,4.356271,43.82373",
     "geom:latitude":43.82373,
     "geom:longitude":4.356271,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1pT8OGeSd9O3L6cgWV0KUD_43.823730_4.356271@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6fad1adfb3f341ca58312c53e9264115",
+    "wof:geomhash":"35c8d0cbfee1ab3b8ad10320071dccda",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152157705
         }
     ],
     "wof:id":152157705,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496778742,
     "wof:name":"Societe Meridionale De Mecanique Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

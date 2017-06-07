@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.951627,48.643559,4.951627,48.643559",
     "geom:latitude":48.643559,
     "geom:longitude":4.951627,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827729,
-        85633147,
         85683261,
+        102191581,
+        85633147,
+        404228109,
+        1108826391,
+        101827729,
+        136253037,
         102071893
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1MaATAOUphU2r98F4vqItd_48.643559_4.951627@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a14b182b21e66d60c34abd6ad1e117f8",
+    "wof:geomhash":"bf910974611317543c8691e406df59ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071893,
+            "empire_id":136253037,
             "locality_id":101827729,
+            "macrocounty_id":404228109,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152194597
         }
     ],
     "wof:id":152194597,
-    "wof:lastmodified":1473798318,
+    "wof:lastmodified":1496805512,
     "wof:name":"Acieries Hachette Et Driout (ahd)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

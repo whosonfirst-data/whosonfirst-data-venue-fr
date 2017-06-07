@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.999692,47.342308,4.999692,47.342308",
     "geom:latitude":47.342308,
     "geom:longitude":4.999692,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750905,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404389219,
+        85633147,
+        1108826395,
+        101750905,
+        136253037,
         102071261
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_7BBZKECcUnwpn2AsxUEIRP_47.342308_4.999692@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6c7f25d6c65c48a85630d4f78a5947d3",
+    "wof:geomhash":"25f06b589315c762bcebeb1a0ceeb6e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071261,
+            "empire_id":136253037,
+            "localadmin_id":404389219,
             "locality_id":101750905,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136277201
         }
     ],
     "wof:id":136277201,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496788354,
     "wof:name":"Expertise Et Technique Comptables (etc)",
-    "wof:parent_id":101750905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

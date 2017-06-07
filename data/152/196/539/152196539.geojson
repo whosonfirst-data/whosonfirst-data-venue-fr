@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.559789,46.055656,6.559789,46.055656",
     "geom:latitude":46.055656,
     "geom:longitude":6.559789,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829017,
-        85633147,
         85683227,
-        102070157
+        102191581,
+        404227961,
+        404392625,
+        85633147,
+        1108826389,
+        101829017,
+        136253037,
+        102066117
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rBJV562tooctxkK7pXBza_46.055656_6.559789@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8c0659e00ef002aef0a9c7e3fa900264",
+    "wof:geomhash":"a10e608a6a2f48e8e485f924c4dfd12d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070157,
+            "county_id":102066117,
+            "empire_id":136253037,
+            "localadmin_id":404392625,
             "locality_id":101829017,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152196539
         }
     ],
     "wof:id":152196539,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496782093,
     "wof:name":"Etablissements Rouxel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

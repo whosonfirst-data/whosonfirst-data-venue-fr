@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.669246,46.896633,4.669246,46.896633",
     "geom:latitude":46.896633,
     "geom:longitude":4.669246,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889761,
-        85633147,
         85683543,
+        102191581,
+        404227741,
+        404385699,
+        85633147,
+        1108826395,
+        101889761,
+        136253037,
         102066635
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7BTb2eJoCiwGL9DuqMFsXJ_46.896633_4.669246@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bf8292f335cf6b76c89d7ec5472e4432",
+    "wof:geomhash":"2c9bf52008f8394f72e4626598b2350f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066635,
+            "empire_id":136253037,
+            "localadmin_id":404385699,
             "locality_id":101889761,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152364219
         }
     ],
     "wof:id":152364219,
-    "wof:lastmodified":1473798386,
+    "wof:lastmodified":1496788600,
     "wof:name":"Ch\u00e2teau De Mercey S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

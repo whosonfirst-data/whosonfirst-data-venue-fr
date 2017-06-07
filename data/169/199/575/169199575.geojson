@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.277644,49.904552,2.277644,49.904552",
     "geom:latitude":49.904552,
     "geom:longitude":2.277644,
@@ -22,9 +23,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_5jBB8jyVSnaGup6GAT747p_49.904552_2.277644@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aafe9ad87e1b3a4dadd02de919575556",
+    "wof:geomhash":"b042e75f1488008aa64d3a15a62479be",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169199575
         }
     ],
     "wof:id":169199575,
-    "wof:lastmodified":1473798215,
+    "wof:lastmodified":1496790030,
     "wof:name":"Tollens S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

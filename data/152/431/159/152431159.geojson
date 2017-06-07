@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.839342,49.713696,3.839342,49.713696",
     "geom:latitude":49.713696,
     "geom:longitude":3.839342,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901441,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404357515,
+        85633147,
+        1108826399,
+        101901441,
+        136253037,
         102067789
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2bC8cy23MZDJNhPUoHLwPu_49.713696_3.839342@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a56431eaadf5e79d0fba19444f2b5a0b",
+    "wof:geomhash":"3869aae5805834dbc1821e7e9f31bf7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067789,
+            "empire_id":136253037,
+            "localadmin_id":404357515,
             "locality_id":101901441,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152431159
         }
     ],
     "wof:id":152431159,
-    "wof:lastmodified":1473798407,
+    "wof:lastmodified":1496790677,
     "wof:name":"Elevage 2000 S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

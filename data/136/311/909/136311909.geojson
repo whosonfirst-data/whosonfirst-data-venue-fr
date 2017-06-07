@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.125242,49.455441,1.125242,49.455441",
     "geom:latitude":49.455441,
     "geom:longitude":1.125242,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4pxMeanblGUo4vfNnR4Hnx_49.455441_1.125242@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c8f5906ad2f34cb551b375983bd4d4e6",
+    "wof:geomhash":"950ba702c36efc934840bf413f686087",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136311909
         }
     ],
     "wof:id":136311909,
-    "wof:lastmodified":1473798027,
+    "wof:lastmodified":1496787838,
     "wof:name":"Boulangerie Des Sapins Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

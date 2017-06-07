@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.399634,43.551464,1.399634,43.551464",
     "geom:latitude":43.551464,
     "geom:longitude":1.399634,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2402yHX1NXLrQJ9IXTpBiV_43.551464_1.399634@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"14d41795758ba1ec965cd26c7d6251fd",
+    "wof:geomhash":"7b4ac6c26b959b926af2ef9277cc83c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":136282703
         }
     ],
     "wof:id":136282703,
-    "wof:lastmodified":1473797941,
+    "wof:lastmodified":1496778171,
     "wof:name":"Mecamesures Technologies Sarl",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.338043,46.580708,0.338043,46.580708",
     "geom:latitude":46.580708,
     "geom:longitude":0.338043,
@@ -27,9 +28,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_5hkRq2BVkpZ1fIvJUNUsED_46.580708_0.338043@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0909908bef4a11dbdd2a1924751a101c",
+    "wof:geomhash":"50e8d86b15b022a536ea4fa04de8b3ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":136301047
         }
     ],
     "wof:id":136301047,
-    "wof:lastmodified":1473797975,
+    "wof:lastmodified":1496798856,
     "wof:name":"Caisse D'epargne Ecureuil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

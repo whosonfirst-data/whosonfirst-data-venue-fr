@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.868966,45.764999,4.868966,45.764999",
     "geom:latitude":45.764999,
     "geom:longitude":4.868966,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_14zJlshSfYHa96dat9DqAI_45.764999_4.868966@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"faa348ac0a5a8b219e581d5738b6f179",
+    "wof:geomhash":"420ec63ad63cd2906d4e2170ea5ae148",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152128227
         }
     ],
     "wof:id":152128227,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496780396,
     "wof:name":"Dorel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

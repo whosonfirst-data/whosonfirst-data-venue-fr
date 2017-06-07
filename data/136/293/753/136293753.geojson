@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.656508,46.25761,5.656508,46.25761",
     "geom:latitude":46.25761,
     "geom:longitude":5.656508,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2SUUgGQB8wyRuLZKBxkic1_46.257610_5.656508@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36ac8e1fcc6e8a0b2835118e8138a74b",
+    "wof:geomhash":"9263c9d822bf70dd1569f2a1bb37ab9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136293753
         }
     ],
     "wof:id":136293753,
-    "wof:lastmodified":1473797932,
+    "wof:lastmodified":1496800629,
     "wof:name":"Caisse Regionale Credit Agricole Mutuel Centre Est (crcamce) Bureau 0410",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

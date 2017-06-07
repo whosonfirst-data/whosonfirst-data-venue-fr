@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.865862,50.944763,1.865862,50.944763",
     "geom:latitude":50.944763,
     "geom:longitude":1.865862,
@@ -22,30 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85794581,
+        102191581,
         85633147,
+        404228305,
+        1108826399,
         101750223,
+        136253037,
         102072387,
-        85794581
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OWgrfjtlmcsG8jpcf3rhg_50.944763_1.865862@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0ee95ab84842f368cd424aba2b713728",
+    "wof:geomhash":"df2ee7dbce4fd5fa053511a3dc11db34",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072387,
+            "empire_id":136253037,
             "locality_id":101750223,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85794581,
             "region_id":85683255,
             "venue_id":169083847
         }
     ],
     "wof:id":169083847,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1496796565,
     "wof:name":"P.d.g. S.a. - Peinture Distribution G\u00e9n\u00e9rale",
     "wof:parent_id":85794581,
     "wof:placetype":"venue",

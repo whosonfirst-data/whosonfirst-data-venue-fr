@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.833401,50.426857,2.833401,50.426857",
     "geom:latitude":50.426857,
     "geom:longitude":2.833401,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840497,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840497,
+        136253037,
         102072031
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3CjFb4mM6iu9hYl0PFKjt5_50.426857_2.833401@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cabeb3244a97dd7590f664c062d96d88",
+    "wof:geomhash":"f7eadd4521c726222633601425b6a10e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072031,
+            "empire_id":136253037,
             "locality_id":101840497,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136275467
         }
     ],
     "wof:id":136275467,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496790193,
     "wof:name":"Cabinet Delattre Sa",
-    "wof:parent_id":101840497,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

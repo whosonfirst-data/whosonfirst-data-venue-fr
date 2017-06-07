@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.81868,43.63332,3.81868,43.63332",
     "geom:latitude":43.63332,
     "geom:longitude":3.81868,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3nAD4Jc8O7dLpBYrskZBaY_43.633320_3.818680@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2636536961d39e9fa72bac2a7d860130",
+    "wof:geomhash":"dd18ca29cfc529314a6ce9eb4dfaa89f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152107539
         }
     ],
     "wof:id":152107539,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496778412,
     "wof:name":"Laboratoire Mahoux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

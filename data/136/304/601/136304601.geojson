@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.776181,45.774044,4.776181,45.774044",
     "geom:latitude":45.774044,
     "geom:longitude":4.776181,
@@ -27,9 +28,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750829,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404361717,
+        85633147,
+        1108826389,
+        101750829,
+        136253037,
         102071629
     ],
     "wof:brand_id":420574555,
@@ -38,18 +44,23 @@
         "sg:id":"SG_7F1kfhBcLVsivvHkG7we5U_45.774044_4.776181@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8813637b3af116a30399530abcf49ed",
+    "wof:geomhash":"80f8e3e7a7c51a8037f11e0b73c462f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071629,
+            "empire_id":136253037,
+            "localadmin_id":404361717,
             "locality_id":101750829,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136304601
         }
     ],
     "wof:id":136304601,
-    "wof:lastmodified":1473798012,
+    "wof:lastmodified":1496781291,
     "wof:name":"Cr\u00e9dit Lyonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

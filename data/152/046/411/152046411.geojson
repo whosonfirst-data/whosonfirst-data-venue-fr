@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.120156,44.033676,1.120156,44.033676",
     "geom:latitude":44.033676,
     "geom:longitude":1.120156,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772803,
-        85633147,
         85683217,
+        102191581,
+        85633147,
+        404227765,
+        1108826387,
+        101772803,
+        136253037,
         102072127
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_3cZIcY3ylxmHO3YIOqHlkc_44.033676_1.120156@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f86552a79a9ea47f12c799149edf1538",
+    "wof:geomhash":"a30b968def6cb0fcee91d30e1377bc6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072127,
+            "empire_id":136253037,
             "locality_id":101772803,
+            "macrocounty_id":404227765,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":152046411
         }
     ],
     "wof:id":152046411,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496803570,
     "wof:name":"Lycee Polyv Regional Jean De Prades",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

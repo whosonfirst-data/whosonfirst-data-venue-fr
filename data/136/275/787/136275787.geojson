@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.36712,43.30011,-0.36712,43.30011",
     "geom:latitude":43.30011,
     "geom:longitude":-0.36712,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3dd6GlFJggE9buP0t4WrM7_43.300110_-0.367120@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5f9201ee2bd16ac519c7ac3b2643e04",
+    "wof:geomhash":"b75961a2fc0e0d35ff62a196642a36c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136275787
         }
     ],
     "wof:id":136275787,
-    "wof:lastmodified":1473797939,
+    "wof:lastmodified":1496798255,
     "wof:name":"Caisse Mutualite Sociale Agricole Des Pyrenees-atlantique",
-    "wof:parent_id":101750669,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

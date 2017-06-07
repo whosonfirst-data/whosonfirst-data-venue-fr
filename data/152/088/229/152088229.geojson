@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.573143,47.829365,3.573143,47.829365",
     "geom:latitude":47.829365,
     "geom:longitude":3.573143,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829669,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829669,
+        136253037,
         102072009
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_3XbMHOoV32NgQREYnSSviX_47.829365_3.573143@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3bb9aaf2042dafdb31187a951c7c8da4",
+    "wof:geomhash":"005828e058f46e65feae0cba351f1030",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072009,
+            "empire_id":136253037,
             "locality_id":101829669,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152088229
         }
     ],
     "wof:id":152088229,
-    "wof:lastmodified":1473798183,
+    "wof:lastmodified":1496788472,
     "wof:name":"Ateliers Herold Et Cie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

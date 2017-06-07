@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.422106,46.123791,3.422106,46.123791",
     "geom:latitude":46.123791,
     "geom:longitude":3.422106,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829199,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404384829,
+        85633147,
+        1108826389,
+        101829199,
+        136253037,
         102072181
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3SoHZRoZ8C3Qa5lb5jJq8e_46.123791_3.422106@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a3c702bb2723340730d21a0f5f949f9",
+    "wof:geomhash":"cf1b13e9c6a33b017c799e30f1183c8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072181,
+            "empire_id":136253037,
+            "localadmin_id":404384829,
             "locality_id":101829199,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152459143
         }
     ],
     "wof:id":152459143,
-    "wof:lastmodified":1473798413,
+    "wof:lastmodified":1496779511,
     "wof:name":"Etablissements Valencia S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

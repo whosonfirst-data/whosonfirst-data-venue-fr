@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.44641,45.584721,6.44641,45.584721",
     "geom:latitude":45.584721,
     "geom:longitude":6.44641,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893193,
-        85633147,
         85683265,
+        102191581,
+        404227745,
+        404347735,
+        85633147,
+        1108826389,
+        101893193,
+        136253037,
         102069793
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_33FB5EJcoOMZhLBkuSrZ53_45.584721_6.446410@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"54ba495916403919d77719ab2743aa39",
+    "wof:geomhash":"765bbfab08ba431a536f0a5075e5e3b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069793,
+            "empire_id":136253037,
+            "localadmin_id":404347735,
             "locality_id":101893193,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":169151127
         }
     ],
     "wof:id":169151127,
-    "wof:lastmodified":1473798170,
+    "wof:lastmodified":1496780940,
     "wof:name":"Scieries R\u00e9unies De Savoie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

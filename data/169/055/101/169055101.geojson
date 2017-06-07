@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.214447,49.612049,3.214447,49.612049",
     "geom:latitude":49.612049,
     "geom:longitude":3.214447,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840241,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404358343,
+        85633147,
+        1108826399,
+        101840241,
+        136253037,
         102065879
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2OCmfYPXFsPQ9okHD1TL24_49.612049_3.214447@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1d04be90ad2c7467207bbfb0b8b3a29",
+    "wof:geomhash":"a302fb1355f886db41851b90f71ca2a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065879,
+            "empire_id":136253037,
+            "localadmin_id":404358343,
             "locality_id":101840241,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169055101
         }
     ],
     "wof:id":169055101,
-    "wof:lastmodified":1473798029,
+    "wof:lastmodified":1496792582,
     "wof:name":"Mar\u00e9challe Pesage S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

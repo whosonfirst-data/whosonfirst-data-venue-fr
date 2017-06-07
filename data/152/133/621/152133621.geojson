@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.835545,49.727501,4.835545,49.727501",
     "geom:latitude":49.727501,
     "geom:longitude":4.835545,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840281,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404376945,
+        85633147,
+        1108826391,
+        101840281,
+        136253037,
         102070715
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3FYirFOmMwpSjKSa6q5yug_49.727501_4.835545@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dfa2aae90f6bdc3c9b131425548094e4",
+    "wof:geomhash":"d79fcb58d5af0adc2d6d269606b57dd6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070715,
+            "empire_id":136253037,
+            "localadmin_id":404376945,
             "locality_id":101840281,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152133621
         }
     ],
     "wof:id":152133621,
-    "wof:lastmodified":1473798296,
+    "wof:lastmodified":1496784415,
     "wof:name":"Ceva Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

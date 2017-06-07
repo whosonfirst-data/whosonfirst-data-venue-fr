@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.101233,50.397339,3.101233,50.397339",
     "geom:latitude":50.397339,
     "geom:longitude":3.101233,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840657,
-        85633147,
         85683445,
-        102068465
+        102191581,
+        85633147,
+        404228125,
+        1108826399,
+        101840657,
+        136253037,
+        102071911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SKmo6grHYgzVCQMCr6b2p_50.397339_3.101233@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"034fa5d7a6eb2a5a69b37e28731bc06b",
+    "wof:geomhash":"6a4cbb33932c0295fef8eb1742f54095",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068465,
+            "county_id":102071911,
+            "empire_id":136253037,
             "locality_id":101840657,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136276599
         }
     ],
     "wof:id":136276599,
-    "wof:lastmodified":1473797926,
+    "wof:lastmodified":1496791541,
     "wof:name":"Courtray Consulting Centre Tertia",
-    "wof:parent_id":101840657,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

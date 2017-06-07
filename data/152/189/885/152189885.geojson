@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.490608,45.363323,5.490608,45.363323",
     "geom:latitude":45.363323,
     "geom:longitude":5.490608,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830561,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404392315,
+        85633147,
+        1108826389,
+        101830561,
+        136253037,
         102068535
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_7cdZuG7d0ffXtf71bhQZb8_45.363323_5.490608@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"37be33ef251704d35e607f50aa71d86c",
+    "wof:geomhash":"69342c5068200f8a3b4dc6ba087428b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068535,
+            "empire_id":136253037,
+            "localadmin_id":404392315,
             "locality_id":101830561,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152189885
         }
     ],
     "wof:id":152189885,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1496779764,
     "wof:name":"Acieries Et Laminoirs De Rives (alr)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

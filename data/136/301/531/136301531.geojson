@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830795,45.035164,4.830795,45.035164",
     "geom:latitude":45.035164,
     "geom:longitude":4.830795,
@@ -27,9 +28,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770401,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404399063,
+        85633147,
+        1108826389,
+        101770401,
+        136253037,
         102068799
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_06XhScLqIMfkHDTZuse6fX_45.035164_4.830795@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"48c468c4fc21476915ab73774cc9671e",
+    "wof:geomhash":"e14137ae86618fb32e2d8529800b0713",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068799,
+            "empire_id":136253037,
+            "localadmin_id":404399063,
             "locality_id":101770401,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":136301531
         }
     ],
     "wof:id":136301531,
-    "wof:lastmodified":1473798008,
+    "wof:lastmodified":1496800644,
     "wof:name":"Caisse R\u00e9gionale, Cr\u00e9dit Agricole Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

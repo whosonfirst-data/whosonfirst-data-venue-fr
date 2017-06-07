@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.392737,47.982449,3.392737,47.982449",
     "geom:latitude":47.982449,
     "geom:longitude":3.392737,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766147,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404349287,
+        85633147,
+        1108826395,
+        101766147,
+        136253037,
         102067783
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4mPMUf41qmBGUGc2PXKc00_47.982449_3.392737@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fb47633bffdd8b6f08294ac95bb2cdf5",
+    "wof:geomhash":"7d411328ec051035b2efcaa538171fbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067783,
+            "empire_id":136253037,
+            "localadmin_id":404349287,
             "locality_id":101766147,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":153011965
         }
     ],
     "wof:id":153011965,
-    "wof:lastmodified":1473797887,
+    "wof:lastmodified":1496789188,
     "wof:name":"La Telephonie Bourguignonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

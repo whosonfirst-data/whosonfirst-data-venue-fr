@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.902029,45.781891,4.902029,45.781891",
     "geom:latitude":45.781891,
     "geom:longitude":4.902029,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_1u9j9ClWGyV71V3VNXwT4J_45.781891_4.902029@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20b293fd53dcacb53ddcdc570984cf45",
+    "wof:geomhash":"c412904cb60fd1810110901c67189db3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152998611
         }
     ],
     "wof:id":152998611,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496781914,
     "wof:name":"Lethenet Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

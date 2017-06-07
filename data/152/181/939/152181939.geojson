@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.654752,43.770588,1.654752,43.770588",
     "geom:latitude":43.770588,
     "geom:longitude":1.654752,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683603,
+        102191581,
         85633147,
-        85683397
+        404405843,
+        404227975,
+        1108826387,
+        136253037,
+        102067473
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jdAB1ktUtFGN9Glbh6BSN_43.770588_1.654752@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"421f1a22861d63b488da0e92edacbdda",
+    "wof:geomhash":"65d18ab93f8f13008ce2c063e1253cc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "region_id":85683397,
+            "county_id":102067473,
+            "empire_id":136253037,
+            "localadmin_id":404405843,
+            "locality_id":-1,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
+            "region_id":85683603,
             "venue_id":152181939
         }
     ],
     "wof:id":152181939,
-    "wof:lastmodified":1473798311,
+    "wof:lastmodified":1496803677,
     "wof:name":"Midi Ancrages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

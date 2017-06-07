@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.552541,47.281288,-1.552541,47.281288",
     "geom:latitude":47.281288,
     "geom:longitude":-1.552541,
@@ -23,11 +24,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897707,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897707
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,16 +41,19 @@
     "wof:geomhash":"e15eb062c4a9b6ceabb3fc747f0fa9f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897707,
             "region_id":85683233,
             "venue_id":152366687
         }
     ],
     "wof:id":152366687,
-    "wof:lastmodified":1473798383,
+    "wof:lastmodified":1491919698,
     "wof:name":"Cin\u00e9 Service S.a.",
     "wof:parent_id":85897707,
     "wof:placetype":"venue",

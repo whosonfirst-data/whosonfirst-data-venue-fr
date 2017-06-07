@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.398006,47.883934,6.398006,47.883934",
     "geom:latitude":47.883934,
     "geom:longitude":6.398006,
@@ -22,9 +23,14 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764391,
-        85633147,
         85683559,
+        102191581,
+        404227739,
+        404357465,
+        85633147,
+        1108826395,
+        101764391,
+        136253037,
         102068353
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0No5n72CNxiZhgsxa6kvwj_47.883934_6.398006@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fc1069fd305ac3d369a2fc6a79ebe1dc",
+    "wof:geomhash":"7ae065dc0c2d44afda5bb6250ef6679c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068353,
+            "empire_id":136253037,
+            "localadmin_id":404357465,
             "locality_id":101764391,
+            "macrocounty_id":404227739,
+            "macroregion_id":1108826395,
             "region_id":85683559,
             "venue_id":153080389
         }
     ],
     "wof:id":153080389,
-    "wof:lastmodified":1473797983,
+    "wof:lastmodified":1496804505,
     "wof:name":"Ateliers D'impressions Pierre Buriot S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

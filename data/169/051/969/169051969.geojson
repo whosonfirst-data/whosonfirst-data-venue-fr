@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.43577,48.212399,6.43577,48.212399",
     "geom:latitude":48.212399,
     "geom:longitude":6.43577,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827685,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404360513,
+        85633147,
+        1108826391,
+        101827685,
+        136253037,
         102069803
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7IfOIVuQGVRTyjbWzMZmdC_48.212399_6.435770@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e335d07eca234350fc9567e06b29e510",
+    "wof:geomhash":"33557527eb3e82144a8f527d95412739",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069803,
+            "empire_id":136253037,
+            "localadmin_id":404360513,
             "locality_id":101827685,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":169051969
         }
     ],
     "wof:id":169051969,
-    "wof:lastmodified":1473798033,
+    "wof:lastmodified":1496783853,
     "wof:name":"Manufacture Fran\u00e7aise Des Pneumatiques Michelin S.c.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

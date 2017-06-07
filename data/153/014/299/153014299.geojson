@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.350493,43.546131,1.350493,43.546131",
     "geom:latitude":43.546131,
     "geom:longitude":1.350493,
@@ -30,28 +31,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GJMTg9UIrXJL5BQuQNJHy_43.546131_1.350493@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a991bda5902e4ac20295d1606af79ae3",
+    "wof:geomhash":"9154c07aff8fb89bf41ce4b75f6ca6dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":153014299
         }
     ],
     "wof:id":153014299,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496778403,
     "wof:name":"Societe Exploitation H2p Communication",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

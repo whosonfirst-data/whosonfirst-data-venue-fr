@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.292271,48.08424,5.292271,48.08424",
     "geom:latitude":48.08424,
     "geom:longitude":5.292271,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766227,
-        85633147,
         85683261,
+        102191581,
+        404227699,
+        404358497,
+        85633147,
+        1108826391,
+        101766227,
+        136253037,
         102068173
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_25i3N9vKs2YPvk6ojVwTP8_48.084240_5.292271@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0811e7a399cb0946fb0319b080dc125b",
+    "wof:geomhash":"011e71b94cb1a64beb3691261d4fb602",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068173,
+            "empire_id":136253037,
+            "localadmin_id":404358497,
             "locality_id":101766227,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152091627
         }
     ],
     "wof:id":152091627,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496786307,
     "wof:name":"Ste Nouvelle Victoria Nogent Sa (snvn)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

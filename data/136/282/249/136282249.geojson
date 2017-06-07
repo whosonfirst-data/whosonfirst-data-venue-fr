@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.312964,47.786972,7.312964,47.786972",
     "geom:latitude":47.786972,
     "geom:longitude":7.312964,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749569,
-        85633147,
         85683381,
+        102191581,
+        404228255,
+        404377431,
+        85633147,
+        1108826391,
+        101749569,
+        136253037,
         102069417
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1O8TjlbbUTJdRAuEtSvHC0_47.786972_7.312964@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d8f83c540976f959d7f088a2db1c02db",
+    "wof:geomhash":"193c9fec89196162df51baf26154a732",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069417,
+            "empire_id":136253037,
+            "localadmin_id":404377431,
             "locality_id":101749569,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136282249
         }
     ],
     "wof:id":136282249,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496793350,
     "wof:name":"Dauphin Affichage Clear Channel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

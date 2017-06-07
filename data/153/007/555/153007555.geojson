@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.970925,47.113365,4.970925,47.113365",
     "geom:latitude":47.113365,
     "geom:longitude":4.970925,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890695,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404376379,
+        85633147,
+        1108826395,
+        101890695,
+        136253037,
         102068705
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3cNzJpbD3nQFuL1ni8yAZU_47.113365_4.970925@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0339f3172399791af20f5ee4b196cf79",
+    "wof:geomhash":"f6c3c17bfcb67aad8f64a3a0fbf97b87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068705,
+            "empire_id":136253037,
+            "localadmin_id":404376379,
             "locality_id":101890695,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":153007555
         }
     ],
     "wof:id":153007555,
-    "wof:lastmodified":1473797882,
+    "wof:lastmodified":1496788431,
     "wof:name":"Ets Ferrand Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

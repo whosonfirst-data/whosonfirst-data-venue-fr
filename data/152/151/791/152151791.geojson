@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.437558,51.05172,2.437558,51.05172",
     "geom:latitude":51.05172,
     "geom:longitude":2.437558,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750243,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404418799,
+        85633147,
+        1108826399,
+        101750243,
+        136253037,
         102069049
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4LKkPBQGHWOgTpTk4LE60a_51.051720_2.437558@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1fbf81bd3ffc4e05655e2aa05475b91",
+    "wof:geomhash":"b75454cb1c5653461828aa663e779f25",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069049,
+            "empire_id":136253037,
+            "localadmin_id":404418799,
             "locality_id":101750243,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152151791
         }
     ],
     "wof:id":152151791,
-    "wof:lastmodified":1473798301,
+    "wof:lastmodified":1496796820,
     "wof:name":"Prestation Hydraulique Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

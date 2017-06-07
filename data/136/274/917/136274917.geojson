@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.912728,45.691135,5.912728,45.691135",
     "geom:latitude":45.691135,
     "geom:longitude":5.912728,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830621,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387377,
+        85633147,
+        1108826389,
+        101830621,
+        136253037,
         102072167
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_2ZuJCFxX23XIeIxAWYTJov_45.691135_5.912728@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"840267f3a0d4c7a1acd05d3bb64e607b",
+    "wof:geomhash":"e3a71bb7f5a08c3a59064b7425b60ccd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072167,
+            "empire_id":136253037,
+            "localadmin_id":404387377,
             "locality_id":101830621,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":136274917
         }
     ],
     "wof:id":136274917,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496800037,
     "wof:name":"Banque De Savoie",
-    "wof:parent_id":101830621,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

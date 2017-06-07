@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.714038,45.985123,4.714038,45.985123",
     "geom:latitude":45.985123,
     "geom:longitude":4.714038,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750777,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227949,
+        1108826389,
+        101750777,
+        136253037,
         102070151
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_2iZOi1kiu7XHVtSWw9fJTr_45.985123_4.714038@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"695cc325e2997be3690b81c9c2bb934e",
+    "wof:geomhash":"ad5ec4acebbc390a5c0c2ef46bbd3c00",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070151,
+            "empire_id":136253037,
             "locality_id":101750777,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152078795
         }
     ],
     "wof:id":152078795,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496783283,
     "wof:name":"Societe De Cablage Beaujolaise (scb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

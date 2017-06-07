@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.490335,47.635071,7.490335,47.635071",
     "geom:latitude":47.635071,
     "geom:longitude":7.490335,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765757,
-        85633147,
         85683381,
+        102191581,
+        404228255,
+        404393329,
+        85633147,
+        1108826391,
+        101765757,
+        136253037,
         102066775
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3RPcgJhPZ59a6gdWZZw9ci_47.635071_7.490335@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb056e6f6e36f2da89e4744c600e3100",
+    "wof:geomhash":"877203dd0887efa92d49a31864d9ea3d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066775,
+            "empire_id":136253037,
+            "localadmin_id":404393329,
             "locality_id":101765757,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":169240395
         }
     ],
     "wof:id":169240395,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496784491,
     "wof:name":"Kirchhoffer Bois Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

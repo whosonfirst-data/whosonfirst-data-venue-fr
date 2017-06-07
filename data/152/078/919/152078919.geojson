@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.735849,46.103062,4.735849,46.103062",
     "geom:latitude":46.103062,
     "geom:longitude":4.735849,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828929,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404394643,
+        85633147,
+        1108826389,
+        101828929,
+        136253037,
         102065119
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5yUVMqeZjIX9WW0DU14tzY_46.103062_4.735849@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81772e53044520868ba31df677b407b7",
+    "wof:geomhash":"b41616d62e4952d75db1128df16cb672",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065119,
+            "empire_id":136253037,
+            "localadmin_id":404394643,
             "locality_id":101828929,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152078919
         }
     ],
     "wof:id":152078919,
-    "wof:lastmodified":1473798154,
+    "wof:lastmodified":1496779624,
     "wof:name":"Ste Electrique Du Rhone Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

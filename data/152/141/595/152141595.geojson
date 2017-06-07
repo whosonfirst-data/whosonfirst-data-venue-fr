@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.095186,49.429501,1.095186,49.429501",
     "geom:latitude":49.429501,
     "geom:longitude":1.095186,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5hgXuDU1nSfBO8wsD3vCGf_49.429501_1.095186@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"62c5b1cebe35f563eaddc46472cb9a99",
+    "wof:geomhash":"9e14a93676cf844c5416c80133b52381",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152141595
         }
     ],
     "wof:id":152141595,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496786879,
     "wof:name":"Froid Service (sarl)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

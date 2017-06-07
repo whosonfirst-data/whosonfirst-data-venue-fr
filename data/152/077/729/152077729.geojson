@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.222603,49.155914,0.222603,49.155914",
     "geom:latitude":49.155914,
     "geom:longitude":0.222603,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828435,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404228031,
+        1108826393,
+        101828435,
+        136253037,
         102072503
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_5S3JIdmpV1VFNn9NLw4B6V_49.155914_0.222603@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f858e5f160b070d590f4bccaef210826",
+    "wof:geomhash":"6db0b2b634ad385d48340ca88fefa16c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072503,
+            "empire_id":136253037,
             "locality_id":101828435,
+            "macrocounty_id":404228031,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152077729
         }
     ],
     "wof:id":152077729,
-    "wof:lastmodified":1473798145,
+    "wof:lastmodified":1496787282,
     "wof:name":"Cegelec Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

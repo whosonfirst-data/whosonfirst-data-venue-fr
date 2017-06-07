@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.25675,45.527962,4.25675,45.527962",
     "geom:latitude":45.527962,
     "geom:longitude":4.25675,
@@ -34,30 +35,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830773,
-        85633147,
         85683377,
-        102069939
+        102191581,
+        404227677,
+        404379613,
+        85633147,
+        1108826389,
+        101830773,
+        136253037,
+        102068539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UvoTsxbmmSrmWcKs2feC5_45.527962_4.256750@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"57396d82d7bda8e8a7dde146e3b5a3a1",
+    "wof:geomhash":"88ddb4111971ada6d6ca3d544c977e2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069939,
+            "county_id":102068539,
+            "empire_id":136253037,
+            "localadmin_id":404379613,
             "locality_id":101830773,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136275245
         }
     ],
     "wof:id":136275245,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496779481,
     "wof:name":"Beal Gibert Scm",
-    "wof:parent_id":101830773,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

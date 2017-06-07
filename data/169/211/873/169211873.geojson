@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.957505,49.594761,2.957505,49.594761",
     "geom:latitude":49.594761,
     "geom:longitude":2.957505,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901317,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404408479,
+        85633147,
+        1108826399,
+        101901317,
+        136253037,
         102069723
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0ZojACKr4C3frnWgnDduHc_49.594761_2.957505@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1592790c74596780dba8cf75fac84e3",
+    "wof:geomhash":"192ca5fd7c58043223020fea18180ae1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069723,
+            "empire_id":136253037,
+            "localadmin_id":404408479,
             "locality_id":101901317,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169211873
         }
     ],
     "wof:id":169211873,
-    "wof:lastmodified":1473798242,
+    "wof:lastmodified":1496792222,
     "wof:name":"Vadez Bernard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

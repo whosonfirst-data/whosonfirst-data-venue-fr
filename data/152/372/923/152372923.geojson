@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.356385,48.095055,7.356385,48.095055",
     "geom:latitude":48.095055,
     "geom:longitude":7.356385,
@@ -24,9 +25,13 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_0DgD00oG7MCZ41cUU2YOSz_48.095055_7.356385@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0a6a68d61c8f285ca71d7b9cad2c6c4b",
+    "wof:geomhash":"9e0f2de72c843f59053935a0146e3d4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152372923
         }
     ],
     "wof:id":152372923,
-    "wof:lastmodified":1473798382,
+    "wof:lastmodified":1496793375,
     "wof:name":"Colmar Expo S.a. - Parc Des Expositions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

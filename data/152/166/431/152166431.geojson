@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.925472,50.529484,2.925472,50.529484",
     "geom:latitude":50.529484,
     "geom:longitude":2.925472,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812639,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404408535,
+        85633147,
+        1108826399,
+        101812639,
+        136253037,
         102071733
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5sNT3XBSMmHOEbR134Bh9g_50.529484_2.925472@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b71987c13c130debd4c4366f1bc51275",
+    "wof:geomhash":"4c875be4a80b74e4b1383d0849b21ea4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071733,
+            "empire_id":136253037,
+            "localadmin_id":404408535,
             "locality_id":101812639,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152166431
         }
     ],
     "wof:id":152166431,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496790602,
     "wof:name":"Loriaux Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

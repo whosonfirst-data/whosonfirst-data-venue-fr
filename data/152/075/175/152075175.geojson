@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.87927,43.608528,3.87927,43.608528",
     "geom:latitude":43.608528,
     "geom:longitude":3.87927,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_3ZJluNqdCgNoxoS3tYsvK9_43.608528_3.879270@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d74431b09b19ef07ce28c7b74ffbca0c",
+    "wof:geomhash":"f07395b3558fd879bdd321d8c6573d08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152075175
         }
     ],
     "wof:id":152075175,
-    "wof:lastmodified":1473798127,
+    "wof:lastmodified":1496777985,
     "wof:name":"Qualiflow Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

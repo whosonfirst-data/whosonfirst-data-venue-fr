@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.875647,45.762398,4.875647,45.762398",
     "geom:latitude":45.762398,
     "geom:longitude":4.875647,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5JjdHN63FA1ps779oAFcTe_45.762398_4.875647@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"69f2211650a4b52fea5ecd459b7828c2",
+    "wof:geomhash":"80f1329495c32d6e901d3a47431af923",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152118835
         }
     ],
     "wof:id":152118835,
-    "wof:lastmodified":1473798267,
+    "wof:lastmodified":1496779791,
     "wof:name":"Sn Or Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

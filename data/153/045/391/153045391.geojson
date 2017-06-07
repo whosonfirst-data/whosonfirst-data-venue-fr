@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.265622,45.822132,1.265622,45.822132",
     "geom:latitude":45.822132,
     "geom:longitude":1.265622,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5phgZQBNKTPaWnHqETQ2gn_45.822132_1.265622@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0b75cf6b63711b5eeaab65cd64b93d25",
+    "wof:geomhash":"e6c90d25e95dc7087cce96138ab6ab20",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":153045391
         }
     ],
     "wof:id":153045391,
-    "wof:lastmodified":1473797962,
+    "wof:lastmodified":1496777480,
     "wof:name":"A.f.p.a. - Association Nationale Formation Professionnelle A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

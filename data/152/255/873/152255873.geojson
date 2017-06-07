@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.073125,45.772968,3.073125,45.772968",
     "geom:latitude":45.772968,
     "geom:longitude":3.073125,
@@ -24,9 +25,13 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749463,
-        85633147,
         85683471,
+        102191581,
+        85633147,
+        404227937,
+        1108826389,
+        101749463,
+        136253037,
         102071725
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_1qxLCElbR2NF4MBEsStMfk_45.772968_3.073125@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ae4f9d62b6b4e5d30e6acd446136c805",
+    "wof:geomhash":"e97e5c3ac6e62f9222b99c14662c18a0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071725,
+            "empire_id":136253037,
             "locality_id":101749463,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152255873
         }
     ],
     "wof:id":152255873,
-    "wof:lastmodified":1473798341,
+    "wof:lastmodified":1496780760,
     "wof:name":"Agence Informatique Tribout S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.234747,50.177227,3.234747,50.177227",
     "geom:latitude":50.177227,
     "geom:longitude":3.234747,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840725,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404366791,
+        85633147,
+        1108826399,
+        101840725,
+        136253037,
         102071903
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_48f6HxdMjPlLonlYWMJ0bJ_50.177227_3.234747@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6a7acc31927bbe818d577c70858cf0f5",
+    "wof:geomhash":"11d8d9a3962e8e7a4435e65240f1b18f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071903,
+            "empire_id":136253037,
+            "localadmin_id":404366791,
             "locality_id":101840725,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152909017
         }
     ],
     "wof:id":152909017,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496790088,
     "wof:name":"Comareg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

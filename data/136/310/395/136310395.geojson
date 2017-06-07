@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.195422,45.884438,-1.195422,45.884438",
     "geom:latitude":45.884438,
     "geom:longitude":-1.195422,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766325,
-        85633147,
         85683275,
+        102191581,
+        404227833,
+        404360377,
+        85633147,
+        1108826385,
+        101766325,
+        136253037,
         102065273
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_39sDYmhOnRHFnksVzz4z7H_45.884438_-1.195422@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a3597971c0e51b634f764138e307fdbc",
+    "wof:geomhash":"995d1eb6e7a07430a7c2ec1ec486b0f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065273,
+            "empire_id":136253037,
+            "localadmin_id":404360377,
             "locality_id":101766325,
+            "macrocounty_id":404227833,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":136310395
         }
     ],
     "wof:id":136310395,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496776709,
     "wof:name":"Chantiers Nautiques Du Port",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

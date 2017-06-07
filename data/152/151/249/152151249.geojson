@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.451852,49.553249,0.451852,49.553249",
     "geom:latitude":49.553249,
     "geom:longitude":0.451852,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101846629,
-        85633147,
         85683251,
+        102191581,
+        404227963,
+        404367485,
+        85633147,
+        1108826393,
+        101846629,
+        136253037,
         102065331
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3nMbhTIHcZrN8StP0ptnk4_49.553249_0.451852@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b76393914e75edf773f5ef2c04a85a42",
+    "wof:geomhash":"3e6927b91322ee37b7e9ff4f3e211592",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065331,
+            "empire_id":136253037,
+            "localadmin_id":404367485,
             "locality_id":101846629,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152151249
         }
     ],
     "wof:id":152151249,
-    "wof:lastmodified":1473798300,
+    "wof:lastmodified":1496787529,
     "wof:name":"Point P Sonen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

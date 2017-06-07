@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.745142,48.58297,7.745142,48.58297",
     "geom:latitude":48.58297,
     "geom:longitude":7.745142,
@@ -29,11 +30,15 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:brand_id":420574183,
     "wof:breaches":[],
@@ -41,19 +46,23 @@
         "sg:id":"SG_2zwsEIAWgFUmVx8ip1vcmJ_48.582970_7.745142@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5c9f883668c6c2aea6f2ae12072125d5",
+    "wof:geomhash":"c1ebfd7ee73170e5c66a450e97d16be7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":136300603
         }
     ],
     "wof:id":136300603,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496793409,
     "wof:name":"Barclays Bank Plc",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

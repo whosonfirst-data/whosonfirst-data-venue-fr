@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.063476,45.647156,0.063476,45.647156",
     "geom:latitude":45.647156,
     "geom:longitude":0.063476,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101893913,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404407787,
+        85633147,
+        1108826385,
+        101893913,
+        136253037,
         102067179
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6VICHqDTbqMyH6TVYeHJ0R_45.647156_0.063476@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6f84735d31ed02765de35f39c7153eb0",
+    "wof:geomhash":"5ddf777f8d3abd92d45d865b09a7f0e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067179,
+            "empire_id":136253037,
+            "localadmin_id":404407787,
             "locality_id":101893913,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":153001247
         }
     ],
     "wof:id":153001247,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496775878,
     "wof:name":"Sca Pineau Roussille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.184906,48.643375,6.184906,48.643375",
     "geom:latitude":48.643375,
     "geom:longitude":6.184906,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750123,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404356579,
+        85633147,
+        1108826391,
+        101750123,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_15FSK8BTHaVecvWYczPPnk_48.643375_6.184906@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c5c590d224ee389423434283c6665f9",
+    "wof:geomhash":"29fde3c17722c2dd9a97937b6bf4c3f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404356579,
             "locality_id":101750123,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152466331
         }
     ],
     "wof:id":152466331,
-    "wof:lastmodified":1473798416,
+    "wof:lastmodified":1496784003,
     "wof:name":"Evrard Dpe S.a. - Distribution Promotionnelle De L'est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

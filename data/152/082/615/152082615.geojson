@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.276557,48.215988,3.276557,48.215988",
     "geom:latitude":48.215988,
     "geom:longitude":3.276557,
@@ -36,28 +37,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827691,
-        85633147,
         85683503,
-        102069895
+        102191581,
+        85633147,
+        404228181,
+        1108826395,
+        101827691,
+        136253037,
+        102072545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hFaY5o6VBNxNbBO6yHUBD_48.215988_3.276557@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"38b0bf0d089ef334305775d601f12819",
+    "wof:geomhash":"cb99231ef1fc709afa501dde600774e5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069895,
+            "county_id":102072545,
+            "empire_id":136253037,
             "locality_id":101827691,
+            "macrocounty_id":404228181,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152082615
         }
     ],
     "wof:id":152082615,
-    "wof:lastmodified":1473798143,
+    "wof:lastmodified":1496788297,
     "wof:name":"Valeo Vision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

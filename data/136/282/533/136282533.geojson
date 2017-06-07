@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.040294,50.568256,3.040294,50.568256",
     "geom:latitude":50.568256,
     "geom:longitude":3.040294,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751529,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404360725,
+        85633147,
+        1108826399,
+        101751529,
+        136253037,
         102071883
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3O19VtQsgMYj4QXp4F0Ppw_50.568256_3.040294@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"48068358be141b230b350e493d1f3677",
+    "wof:geomhash":"ce97b7165688dd5dc18d992cf466bf3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071883,
+            "empire_id":136253037,
+            "localadmin_id":404360725,
             "locality_id":101751529,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136282533
         }
     ],
     "wof:id":136282533,
-    "wof:lastmodified":1473797930,
+    "wof:lastmodified":1496790606,
     "wof:name":"Dassault Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

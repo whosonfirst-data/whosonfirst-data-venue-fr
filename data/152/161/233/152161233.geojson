@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.425294,49.061413,-1.425294,49.061413",
     "geom:latitude":49.061413,
     "geom:longitude":-1.425294,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760431,
-        85633147,
         85683489,
+        102191581,
+        404228105,
+        404365211,
+        85633147,
+        1108826393,
+        101760431,
+        136253037,
         102066551
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4yrYuM2A3O4PQteSxFyYSU_49.061413_-1.425294@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c978cb95d8986f537971f13d1cb8946d",
+    "wof:geomhash":"0b26e6bb792eb57504c2e87f0146c2c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066551,
+            "empire_id":136253037,
+            "localadmin_id":404365211,
             "locality_id":101760431,
+            "macrocounty_id":404228105,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152161233
         }
     ],
     "wof:id":152161233,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496786995,
     "wof:name":"Unither Normandy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

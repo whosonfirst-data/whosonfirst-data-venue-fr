@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.229794,43.170109,-0.229794,43.170109",
     "geom:latitude":43.170109,
     "geom:longitude":-0.229794,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831737,
-        85633147,
         85683539,
+        102191581,
+        404228137,
+        404358225,
+        85633147,
+        1108826385,
+        101831737,
+        136253037,
         102069025
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2vufK8mR23Qqyc32KFX7vz_43.170109_-0.229794@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f0d067c42177bb65e65f42d8de14313",
+    "wof:geomhash":"71e25bf169f8b622d8fd7c9bbe8f13e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069025,
+            "empire_id":136253037,
+            "localadmin_id":404358225,
             "locality_id":101831737,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":153059779
         }
     ],
     "wof:id":153059779,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496776545,
     "wof:name":"Adour Montagne S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

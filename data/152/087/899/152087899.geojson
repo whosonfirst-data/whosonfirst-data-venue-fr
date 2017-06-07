@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.827238,49.821938,4.827238,49.821938",
     "geom:latitude":49.821938,
     "geom:longitude":4.827238,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815005,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404360503,
+        85633147,
+        1108826391,
+        101815005,
+        136253037,
         102070361
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_45ebQHq1KiNECKyHNFBRVc_49.821938_4.827238@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e7043c3482ed4f8c33ef42584c09fb97",
+    "wof:geomhash":"4f1af1de51547a48af81b75ad997dac4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070361,
+            "empire_id":136253037,
+            "localadmin_id":404360503,
             "locality_id":101815005,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152087899
         }
     ],
     "wof:id":152087899,
-    "wof:lastmodified":1473798153,
+    "wof:lastmodified":1496785099,
     "wof:name":"Etablissements Gaston Roze Et Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.153743,46.987164,3.153743,46.987164",
     "geom:latitude":46.987164,
     "geom:longitude":3.153743,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829431,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404367031,
+        85633147,
+        1108826395,
+        101829431,
+        136253037,
         102072531
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3poqJljDFcjtERRH4sBOZU_46.987164_3.153743@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81004c82ef2935364a55e53db260250b",
+    "wof:geomhash":"5f77a4c16a87308128de3de654eb178a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072531,
+            "empire_id":136253037,
+            "localadmin_id":404367031,
             "locality_id":101829431,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152052357
         }
     ],
     "wof:id":152052357,
-    "wof:lastmodified":1473797911,
+    "wof:lastmodified":1496789035,
     "wof:name":"Sarl Montagnon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

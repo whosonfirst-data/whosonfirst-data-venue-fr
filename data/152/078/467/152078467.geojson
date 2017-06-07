@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941857,45.759895,4.941857,45.759895",
     "geom:latitude":45.759895,
     "geom:longitude":4.941857,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0OLUaHmaWxcyEwVkxFZH2r_45.759895_4.941857@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"63f56e5ed1fa2c5876bc4673096d1c5c",
+    "wof:geomhash":"e9393341f07e5164ead49fc7fb93f713",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152078467
         }
     ],
     "wof:id":152078467,
-    "wof:lastmodified":1473798137,
+    "wof:lastmodified":1496780863,
     "wof:name":"Lyonnaise De Cablage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

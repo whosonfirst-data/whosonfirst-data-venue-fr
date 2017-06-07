@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.619565,44.164616,4.619565,44.164616",
     "geom:latitude":44.164616,
     "geom:longitude":4.619565,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772703,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404405779,
+        85633147,
+        1108826387,
+        101772703,
+        136253037,
         102065527
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0KssI6TkDm0OGRCqlfMNVV_44.164616_4.619565@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1d660a76e9b6114d8804c18b6c7e83f",
+    "wof:geomhash":"5b67ccb8150349d3c0ec15bc934cb71f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065527,
+            "empire_id":136253037,
+            "localadmin_id":404405779,
             "locality_id":101772703,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152918669
         }
     ],
     "wof:id":152918669,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496778463,
     "wof:name":"Societe Du Journal Midi Libre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

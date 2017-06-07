@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.546185,44.781242,-0.546185,44.781242",
     "geom:latitude":44.781242,
     "geom:longitude":-0.546185,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750775,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404358827,
+        85633147,
+        1108826385,
+        101750775,
+        136253037,
         102071721
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3kcZOWwTWPfjsoXbEfduM4_44.781242_-0.546185@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9a475edf728e391b28643f701888ff86",
+    "wof:geomhash":"b8ed29ffe504e3641ed71c75c8ccdcb5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071721,
+            "empire_id":136253037,
+            "localadmin_id":404358827,
             "locality_id":101750775,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152857033
         }
     ],
     "wof:id":152857033,
-    "wof:lastmodified":1473798546,
+    "wof:lastmodified":1496798363,
     "wof:name":"Ste De Realisation Industrielle Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

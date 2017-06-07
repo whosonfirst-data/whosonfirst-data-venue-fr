@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.831494,45.959949,5.831494,45.959949",
     "geom:latitude":45.959949,
     "geom:longitude":5.831494,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767979,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404388713,
+        85633147,
+        1108826389,
+        101767979,
+        136253037,
         102068839
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5UbU7l6bWxYtgdOsANRPjX_45.959949_5.831494@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16b4e0b92e2d004c9d07a4f2d5d35264",
+    "wof:geomhash":"0fc7f9e9287a3ac4a11e7d6d3864fc1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068839,
+            "empire_id":136253037,
+            "localadmin_id":404388713,
             "locality_id":101767979,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152070985
         }
     ],
     "wof:id":152070985,
-    "wof:lastmodified":1473798085,
+    "wof:lastmodified":1496780828,
     "wof:name":"Editions Du Champ Vallon Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

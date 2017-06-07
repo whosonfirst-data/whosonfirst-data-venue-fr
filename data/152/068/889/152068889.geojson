@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.472578,48.177036,6.472578,48.177036",
     "geom:latitude":48.177036,
     "geom:longitude":6.472578,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827687,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404352281,
+        85633147,
+        1108826391,
+        101827687,
+        136253037,
         102072423
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5d6iotAbPWpDWM3oBP4fdM_48.177036_6.472578@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e1123ddd76cbdee0dcfcbf05878e5f41",
+    "wof:geomhash":"83c5c09b36cf8ed7a878f7ea733f2e74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072423,
+            "empire_id":136253037,
+            "localadmin_id":404352281,
             "locality_id":101827687,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":152068889
         }
     ],
     "wof:id":152068889,
-    "wof:lastmodified":1473798094,
+    "wof:lastmodified":1496785227,
     "wof:name":"Centre De Secours Principal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

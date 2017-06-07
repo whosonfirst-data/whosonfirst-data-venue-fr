@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.382747,49.157333,5.382747,49.157333",
     "geom:latitude":49.157333,
     "geom:longitude":5.382747,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828321,
-        85633147,
         85683297,
+        102191581,
+        85633147,
+        404228117,
+        1108826391,
+        101828321,
+        136253037,
         102071969
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1WpVQoTdoZpVO0uuNVLYJt_49.157333_5.382747@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f4aa1f7c2a5152865c9dc8b7c727291",
+    "wof:geomhash":"789df64eabff4df64a3f69e0b5b08768",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071969,
+            "empire_id":136253037,
             "locality_id":101828321,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":152066273
         }
     ],
     "wof:id":152066273,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496785906,
     "wof:name":"Demathieu Et Bard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

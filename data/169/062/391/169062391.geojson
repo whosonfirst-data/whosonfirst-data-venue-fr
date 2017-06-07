@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.206764,49.968681,2.206764,49.968681",
     "geom:latitude":49.968681,
     "geom:longitude":2.206764,
@@ -24,9 +25,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900773,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404402807,
+        85633147,
+        1108826399,
+        101900773,
+        136253037,
         102071131
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_2kqJW00NZ92drPpxYFe1uB_49.968681_2.206764@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0271a0ecf60b921a2c6a38eafeeb1bb9",
+    "wof:geomhash":"21a1a399ceb8babbde6585d2ad9d96e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071131,
+            "empire_id":136253037,
+            "localadmin_id":404402807,
             "locality_id":101900773,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169062391
         }
     ],
     "wof:id":169062391,
-    "wof:lastmodified":1473798050,
+    "wof:lastmodified":1496791294,
     "wof:name":"Minervit S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

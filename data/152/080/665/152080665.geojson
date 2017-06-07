@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.830464,46.795643,4.830464,46.795643",
     "geom:latitude":46.795643,
     "geom:longitude":4.830464,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749511,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101749511,
+        136253037,
         102071729
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_1wtMJ1eNpcCRcKdWoErvVU_46.795643_4.830464@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2475783c64b3c944e0064bcffc63e25",
+    "wof:geomhash":"2f2537e6da8f2b665fb83c52d6c56fe3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071729,
+            "empire_id":136253037,
             "locality_id":101749511,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152080665
         }
     ],
     "wof:id":152080665,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496789025,
     "wof:name":"Societe Industrielle Bourguignonne D'electricite (sibelec)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

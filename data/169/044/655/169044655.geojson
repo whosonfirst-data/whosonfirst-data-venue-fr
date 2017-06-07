@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.25454,50.474918,3.25454,50.474918",
     "geom:latitude":50.474918,
     "geom:longitude":3.25454,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812665,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404410511,
+        85633147,
+        1108826399,
+        101812665,
+        136253037,
         102071465
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3Ik0bm2JWoNjghDuaQHdiL_50.474918_3.254540@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c499ba997e1fb04eb405e1de540e1140",
+    "wof:geomhash":"23f7ffe1d5685a70cd9166ab732b6fd5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071465,
+            "empire_id":136253037,
+            "localadmin_id":404410511,
             "locality_id":101812665,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169044655
         }
     ],
     "wof:id":169044655,
-    "wof:lastmodified":1473798026,
+    "wof:lastmodified":1496792227,
     "wof:name":"M.f.g. Nord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

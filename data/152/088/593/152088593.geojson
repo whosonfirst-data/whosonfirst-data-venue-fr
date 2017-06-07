@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.063027,47.3452,5.063027,47.3452",
     "geom:latitude":47.3452,
     "geom:longitude":5.063027,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_3shL999cxpUQIiM58IE9JH_47.345200_5.063027@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abbecaa7ff00453d1ead2a0f5dd483f8",
+    "wof:geomhash":"494052647c23fad6e4f481540da67499",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152088593
         }
     ],
     "wof:id":152088593,
-    "wof:lastmodified":1473798209,
+    "wof:lastmodified":1496789183,
     "wof:name":"Cev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

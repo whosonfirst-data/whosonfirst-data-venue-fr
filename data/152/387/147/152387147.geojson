@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.404276,45.448055,4.404276,45.448055",
     "geom:latitude":45.448055,
     "geom:longitude":4.404276,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_70PUBQHc7z1D1OW2ykskMR_45.448055_4.404276@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"32fdfcc0ff241ed3699e52d7eec57e98",
+    "wof:geomhash":"6827e7c191d98be78456efdc1b47e260",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152387147
         }
     ],
     "wof:id":152387147,
-    "wof:lastmodified":1473798387,
+    "wof:lastmodified":1496779801,
     "wof:name":"Cuenod Thermotechnique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

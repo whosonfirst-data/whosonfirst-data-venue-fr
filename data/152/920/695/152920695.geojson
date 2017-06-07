@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.413847,44.463718,1.413847,44.463718",
     "geom:latitude":44.463718,
     "geom:longitude":1.413847,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828857,
-        85633147,
         85683389,
+        102191581,
+        404227687,
+        404360187,
+        85633147,
+        1108826387,
+        101828857,
+        136253037,
         102069941
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0a6VlUSuKJLipyaz6wrYUZ_44.463718_1.413847@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"372edd7f36097872bd7527bffb478297",
+    "wof:geomhash":"4ca6735502518b5fc01cc61164e09065",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069941,
+            "empire_id":136253037,
+            "localadmin_id":404360187,
             "locality_id":101828857,
+            "macrocounty_id":404227687,
+            "macroregion_id":1108826387,
             "region_id":85683389,
             "venue_id":152920695
         }
     ],
     "wof:id":152920695,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496803789,
     "wof:name":"Applications Graphiques Aux Traitements Electroniques (agate Photogravure)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

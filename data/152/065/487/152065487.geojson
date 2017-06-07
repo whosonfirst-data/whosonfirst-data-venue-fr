@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.128477,45.784061,3.128477,45.784061",
     "geom:latitude":45.784061,
     "geom:longitude":3.128477,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0PTcmRjtDwmDY46KDDaS7B_45.784061_3.128477@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"048106f9f964406d5d2e394b721fcd94",
+    "wof:geomhash":"2c7620e26b4e0eb8630562b1778ac05d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152065487
         }
     ],
     "wof:id":152065487,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1496781197,
     "wof:name":"Auvergne Routage Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

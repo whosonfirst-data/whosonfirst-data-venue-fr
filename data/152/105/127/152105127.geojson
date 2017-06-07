@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.847487,46.813587,4.847487,46.813587",
     "geom:latitude":46.813587,
     "geom:longitude":4.847487,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752995,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404416037,
+        85633147,
+        1108826395,
+        101752995,
+        136253037,
         102072317
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_1AmEeCRZIVxD6he0bE78Yu_46.813587_4.847487@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5f623b6f6ff6b6b8646e84d3ad5a8331",
+    "wof:geomhash":"d1db1f2b915b3fea9f4855e783501c94",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072317,
+            "empire_id":136253037,
+            "localadmin_id":404416037,
             "locality_id":101752995,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152105127
         }
     ],
     "wof:id":152105127,
-    "wof:lastmodified":1473798226,
+    "wof:lastmodified":1496789020,
     "wof:name":"Cayon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

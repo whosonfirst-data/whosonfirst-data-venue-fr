@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.158689,49.418468,2.158689,49.418468",
     "geom:latitude":49.418468,
     "geom:longitude":2.158689,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101902721,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404381039,
+        85633147,
+        1108826399,
+        101902721,
+        136253037,
         102069283
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_78uSCLwnT7GRtzPTwEbRtm_49.418468_2.158689@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"11a3b747fd72532271043a0b29becea0",
+    "wof:geomhash":"765a08000786f1e6b689122c1a9dacab",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069283,
+            "empire_id":136253037,
+            "localadmin_id":404381039,
             "locality_id":101902721,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152090705
         }
     ],
     "wof:id":152090705,
-    "wof:lastmodified":1473798205,
+    "wof:lastmodified":1496792084,
     "wof:name":"Ressorts De L'oise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

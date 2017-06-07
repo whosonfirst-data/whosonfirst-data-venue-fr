@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.405964,45.262169,3.405964,45.262169",
     "geom:latitude":45.262169,
     "geom:longitude":3.405964,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769071,
-        85633147,
         85683413,
+        102191581,
+        404227679,
+        404428107,
+        85633147,
+        1108826389,
+        101769071,
+        136253037,
         102070373
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4nhVJOIATGbkEQzXGbQkIi_45.262169_3.405964@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"afbf0cc9cde0134775813d6265eb183e",
+    "wof:geomhash":"dd6249b44f99c4cea842b803bb3df9b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070373,
+            "empire_id":136253037,
+            "localadmin_id":404428107,
             "locality_id":101769071,
+            "macrocounty_id":404227679,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152095667
         }
     ],
     "wof:id":152095667,
-    "wof:lastmodified":1473798206,
+    "wof:lastmodified":1496783264,
     "wof:name":"Ets Philis Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.326145,45.434196,4.326145,45.434196",
     "geom:latitude":45.434196,
     "geom:longitude":4.326145,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830777,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404385517,
+        85633147,
+        1108826389,
+        101830777,
+        136253037,
         102068447
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_51QvkeV0P9RzGJl92FQBkk_45.434196_4.326145@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c2655a4e9a613975d006b61535e85182",
+    "wof:geomhash":"84e9ffe4c81cb1fcf3e80d69a1ce5ecd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068447,
+            "empire_id":136253037,
+            "localadmin_id":404385517,
             "locality_id":101830777,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152451723
         }
     ],
     "wof:id":152451723,
-    "wof:lastmodified":1473798419,
+    "wof:lastmodified":1496781037,
     "wof:name":"Etablissements Ducat S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

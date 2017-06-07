@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.354586,48.681515,-1.354586,48.681515",
     "geom:latitude":48.681515,
     "geom:longitude":-1.354586,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761719,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404399337,
+        85633147,
+        1108826393,
+        101761719,
+        136253037,
         102064269
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5mnXDh1SzBz4YVohpBpBPF_48.681515_-1.354586@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5c27bcb83e62d2fe438832a6535bdf6c",
+    "wof:geomhash":"26ad0702e942cbc8246fe2dbe6d096f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064269,
+            "empire_id":136253037,
+            "localadmin_id":404399337,
             "locality_id":101761719,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":153012081
         }
     ],
     "wof:id":153012081,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496787019,
     "wof:name":"La Telephonie Centrale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

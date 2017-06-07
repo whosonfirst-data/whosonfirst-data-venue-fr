@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.914605,48.042542,3.914605,48.042542",
     "geom:latitude":48.042542,
     "geom:longitude":3.914605,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766235,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404362563,
+        85633147,
+        1108826391,
+        101766235,
+        136253037,
         102065959
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2b40pMCaeWTMXDNzEMmzZk_48.042542_3.914605@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1f0a66d1d5f477128c4a9a3f0202df2",
+    "wof:geomhash":"3bf1349e5ab18ca12ce4362d086c0c77",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065959,
+            "empire_id":136253037,
+            "localadmin_id":404362563,
             "locality_id":101766235,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152155543
         }
     ],
     "wof:id":152155543,
-    "wof:lastmodified":1473798302,
+    "wof:lastmodified":1496805508,
     "wof:name":"Scierie Collignon Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

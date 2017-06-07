@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.879409,44.903221,4.879409,44.903221",
     "geom:latitude":44.903221,
     "geom:longitude":4.879409,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750735,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404401431,
+        85633147,
+        1108826389,
+        101750735,
+        136253037,
         102072343
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4ZWG5XF8XIwzTibULIbvXv_44.903221_4.879409@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c3bb4175d97f652b06a7c2a6ca73332e",
+    "wof:geomhash":"d84b5165b5469fa1d3d693bdc7f9e104",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072343,
+            "empire_id":136253037,
+            "localadmin_id":404401431,
             "locality_id":101750735,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152095031
         }
     ],
     "wof:id":152095031,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496780621,
     "wof:name":"Les Vergers Boiron Production",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

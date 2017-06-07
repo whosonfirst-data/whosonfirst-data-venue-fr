@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.405095,51.035637,2.405095,51.035637",
     "geom:latitude":51.035637,
     "geom:longitude":2.405095,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750237,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_7aEuPRsCOYcfYH1ZFmqiDp_51.035637_2.405095@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce03952fcc70c02fd07b0450931a166f",
+    "wof:geomhash":"a8760d8f280b67bd4a94834409030e88",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152868109
         }
     ],
     "wof:id":152868109,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496796122,
     "wof:name":"Demey Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

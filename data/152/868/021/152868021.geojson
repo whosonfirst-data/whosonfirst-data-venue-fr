@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344291,48.977482,4.344291,48.977482",
     "geom:latitude":48.977482,
     "geom:longitude":4.344291,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828123,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828123,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6WSp6FVSdy9cxni2uQGl6i_48.977482_4.344291@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f1b4a4e114cbec850ddbe43382b812c2",
+    "wof:geomhash":"c81c1599861d64d8e7cb57e262707175",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828123,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152868021
         }
     ],
     "wof:id":152868021,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496786503,
     "wof:name":"Upl Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

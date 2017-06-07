@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.628455,44.199295,0.628455,44.199295",
     "geom:latitude":44.199295,
     "geom:longitude":0.628455,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_5x9EjklYzhtAafYvBjuMc4_44.199295_0.628455@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"049628fc13728199ac11305f2053d231",
+    "wof:geomhash":"b0213ad1505ddf97b9abf38f744a3c73",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136277351
         }
     ],
     "wof:id":136277351,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496798419,
     "wof:name":"Fiduciaire De France Societe D'expertise Comptable Commissai (fidex)",
-    "wof:parent_id":101831905,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

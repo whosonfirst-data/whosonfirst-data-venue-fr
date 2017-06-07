@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.8099,50.199615,3.8099,50.199615",
     "geom:latitude":50.199615,
     "geom:longitude":3.8099,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840629,
-        85633147,
         85683445,
+        102191581,
+        404227715,
+        404384061,
+        85633147,
+        1108826399,
+        101840629,
+        136253037,
         102066043
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1DKXHBg90dfQ5Q2dvQv9k8_50.199615_3.809900@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"36357c8ba7ff64857f64ce5ef480196c",
+    "wof:geomhash":"037761fa9e517b1575cf88d34f64390e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066043,
+            "empire_id":136253037,
+            "localadmin_id":404384061,
             "locality_id":101840629,
+            "macrocounty_id":404227715,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152163255
         }
     ],
     "wof:id":152163255,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496792270,
     "wof:name":"Akers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

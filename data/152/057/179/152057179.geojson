@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.767057,45.442368,4.767057,45.442368",
     "geom:latitude":45.442368,
     "geom:longitude":4.767057,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830587,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404395397,
+        85633147,
+        1108826389,
+        101830587,
+        136253037,
         102068821
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2IB8kxBlXMacCA34Dek6Lo_45.442368_4.767057@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d52330e0cee6e0c253a937faf5a83e4",
+    "wof:geomhash":"c97d46913244b782f982b57c457eb19f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068821,
+            "empire_id":136253037,
+            "localadmin_id":404395397,
             "locality_id":101830587,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152057179
         }
     ],
     "wof:id":152057179,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496782944,
     "wof:name":"Stahl Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

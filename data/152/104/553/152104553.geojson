@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.313955,51.027454,2.313955,51.027454",
     "geom:latitude":51.027454,
     "geom:longitude":2.313955,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750239,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750239,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_74j9ibC7O6Lh6lu4ktwFDH_51.027454_2.313955@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33ae00ae20d5441a48204d8b7f934188",
+    "wof:geomhash":"3ff29a6f3b9550b1039c419beb7abc93",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750239,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152104553
         }
     ],
     "wof:id":152104553,
-    "wof:lastmodified":1473798240,
+    "wof:lastmodified":1496796972,
     "wof:name":"Salmat Nord",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

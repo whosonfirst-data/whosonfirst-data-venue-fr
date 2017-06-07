@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.800264,45.790649,4.800264,45.790649",
     "geom:latitude":45.790649,
     "geom:longitude":4.800264,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4XHhCF3dg4AFQXbJNLJlsF_45.790649_4.800264@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"79b030b4097a10081bede92e9b6686c9",
+    "wof:geomhash":"8d2983aa39fcee3ec3534f0822241532",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152056279
         }
     ],
     "wof:id":152056279,
-    "wof:lastmodified":1473797912,
+    "wof:lastmodified":1496800674,
     "wof:name":"Omnium Thermique Des Grands En Sembles Omnitherm Omnitherm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

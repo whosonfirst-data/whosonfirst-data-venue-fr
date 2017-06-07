@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.259561,45.827602,1.259561,45.827602",
     "geom:latitude":45.827602,
     "geom:longitude":1.259561,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_6f4UG1mddjPEKMdZraysKX_45.827602_1.259561@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99dc5ba16f9d1bdca60e8c8710604fb0",
+    "wof:geomhash":"668e95a4281626202e81ba5b550a592d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152949417
         }
     ],
     "wof:id":152949417,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496775935,
     "wof:name":"A Tessiot Demenagements Limoges Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

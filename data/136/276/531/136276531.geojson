@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.32353,46.568455,3.32353,46.568455",
     "geom:latitude":46.568455,
     "geom:longitude":3.32353,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829207,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227801,
+        1108826389,
+        101829207,
+        136253037,
         102072435
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0efBszDFw1fDRVgiKxBHF3_46.568455_3.323530@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8ef34db1911632fe3a532d672e4595dc",
+    "wof:geomhash":"39db3fcd45af5f78748378769aebf871",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072435,
+            "empire_id":136253037,
             "locality_id":101829207,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":136276531
         }
     ],
     "wof:id":136276531,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496806412,
     "wof:name":"Comptafrance",
-    "wof:parent_id":101829207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.500503,43.887779,-0.500503,43.887779",
     "geom:latitude":43.887779,
     "geom:longitude":-0.500503,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1YFtzdXv8AhLnqFoi7rDvr_43.887779_-0.500503@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8db71a3dbaab40f9b9e4e89b35c43642",
+    "wof:geomhash":"5f710a9d8899e24a74ec928d91829cd3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136278971
         }
     ],
     "wof:id":136278971,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496775845,
     "wof:name":"So Mo G E C Societe Montoise Gestion Expertise Comptable Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

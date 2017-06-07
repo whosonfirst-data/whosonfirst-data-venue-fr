@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.519665,47.526581,7.519665,47.526581",
     "geom:latitude":47.526581,
     "geom:longitude":7.519665,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101888285,
-        85633147,
         85683381,
+        102191581,
+        404228255,
+        404426315,
+        85633147,
+        1108826391,
+        101888285,
+        136253037,
         102066391
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5a6yGJXBbPGCmmREmI9EuV_47.526581_7.519665@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2c0176a8754bfa4e1fd8de8ff29640cc",
+    "wof:geomhash":"bcd5cd8d429ef2e12abc187188de96c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066391,
+            "empire_id":136253037,
+            "localadmin_id":404426315,
             "locality_id":101888285,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152154779
         }
     ],
     "wof:id":152154779,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496784944,
     "wof:name":"Sarl Etude Moule Injection (emi)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.730388,46.00565,4.730388,46.00565",
     "geom:latitude":46.00565,
     "geom:longitude":4.730388,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748981,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404392499,
+        85633147,
+        1108826389,
+        101748981,
+        136253037,
         102071653
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4aC3Wez6JFbrIVaLseU4gk_46.005650_4.730388@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e277d35ac46c3f39dcc2f08e16d6ee12",
+    "wof:geomhash":"ccf34fcc80e7883e787d50e1dd4c2e74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071653,
+            "empire_id":136253037,
+            "localadmin_id":404392499,
             "locality_id":101748981,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152101509
         }
     ],
     "wof:id":152101509,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496781793,
     "wof:name":"Genelec Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

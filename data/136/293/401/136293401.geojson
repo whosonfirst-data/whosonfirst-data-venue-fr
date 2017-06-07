@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.640265,50.529274,2.640265,50.529274",
     "geom:latitude":50.529274,
     "geom:longitude":2.640265,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840477,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404227933,
+        1108826399,
+        101840477,
+        136253037,
         102071941
     ],
     "wof:brand_id":420574521,
@@ -45,18 +50,22 @@
         "sg:id":"SG_5rHu37vYRpx8Mvn4KVytUS_50.529274_2.640265@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"28b113d81e7887b748ba4e7bf1afc637",
+    "wof:geomhash":"12067c1b49e441fe90340494bf225082",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071941,
+            "empire_id":136253037,
             "locality_id":101840477,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136293401
         }
     ],
     "wof:id":136293401,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496790606,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

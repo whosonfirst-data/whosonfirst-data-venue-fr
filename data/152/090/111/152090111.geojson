@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.026865,50.54681,3.026865,50.54681",
     "geom:latitude":50.54681,
     "geom:longitude":3.026865,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751529,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404360725,
+        85633147,
+        1108826399,
+        101751529,
+        136253037,
         102071883
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_7Bv0DYcufaExcsPPCKavfs_50.546810_3.026865@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"660f88d0ef932f2c7355b7c67d489f21",
+    "wof:geomhash":"ae8b8fe814cd9915c04a07bcb3dc65d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071883,
+            "empire_id":136253037,
+            "localadmin_id":404360725,
             "locality_id":101751529,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152090111
         }
     ],
     "wof:id":152090111,
-    "wof:lastmodified":1473798171,
+    "wof:lastmodified":1496790127,
     "wof:name":"Made In V",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

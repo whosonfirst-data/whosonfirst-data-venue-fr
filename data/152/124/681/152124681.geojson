@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.03039,50.435719,3.03039,50.435719",
     "geom:latitude":50.435719,
     "geom:longitude":3.03039,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811227,
-        85633147,
         85683255,
+        102191581,
+        404228311,
+        404385205,
+        85633147,
+        1108826399,
+        101811227,
+        136253037,
         102071719
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4hDv3ZxFQ8HPSpvgMDPvhG_50.435719_3.030390@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03cba40792eb9a170c074f66f3d8e7ff",
+    "wof:geomhash":"e5463d3fa100d170925c5758eaab31d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071719,
+            "empire_id":136253037,
+            "localadmin_id":404385205,
             "locality_id":101811227,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152124681
         }
     ],
     "wof:id":152124681,
-    "wof:lastmodified":1473798291,
+    "wof:lastmodified":1496791531,
     "wof:name":"Etablissements Duquesne Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

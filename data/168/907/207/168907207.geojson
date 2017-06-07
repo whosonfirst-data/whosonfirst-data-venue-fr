@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.696892,44.01228,4.696892,44.01228",
     "geom:latitude":44.01228,
     "geom:longitude":4.696892,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772677,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404414453,
+        85633147,
+        1108826387,
+        101772677,
+        136253037,
         102068587
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_11pzOvwrrNRQxVGDffr4az_44.012280_4.696892@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ef4e5d47b1dfcc2f02be80fb90fe0ac",
+    "wof:geomhash":"c449d25b9a71869fbec0b9dc1ee36b46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068587,
+            "empire_id":136253037,
+            "localadmin_id":404414453,
             "locality_id":101772677,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":168907207
         }
     ],
     "wof:id":168907207,
-    "wof:lastmodified":1473798058,
+    "wof:lastmodified":1496799143,
     "wof:name":"Domaine De La Genesti\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

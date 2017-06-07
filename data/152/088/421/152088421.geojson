@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.462545,46.748241,4.462545,46.748241",
     "geom:latitude":46.748241,
     "geom:longitude":4.462545,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766557,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404380757,
+        85633147,
+        1108826395,
+        101766557,
+        136253037,
         102070289
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_00i8N9mGuvristLz7omB5K_46.748241_4.462545@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5727e49ef984bb4e739545b0be910f61",
+    "wof:geomhash":"a406eedad23237bb66341dff10e4d488",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070289,
+            "empire_id":136253037,
+            "localadmin_id":404380757,
             "locality_id":101766557,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152088421
         }
     ],
     "wof:id":152088421,
-    "wof:lastmodified":1473798197,
+    "wof:lastmodified":1496794737,
     "wof:name":"Brochot Industrie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

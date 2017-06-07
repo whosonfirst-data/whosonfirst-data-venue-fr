@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.048605,50.584705,3.048605,50.584705",
     "geom:latitude":50.584705,
     "geom:longitude":3.048605,
@@ -23,28 +24,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tdwol7h5qaHdsZSMsHqWM_50.584705_3.048605@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1c84d0bff1b1b12c6d0ecc5924f75879",
+    "wof:geomhash":"b603c0ce6abb3620764f2e3bd35075c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":152065525
         }
     ],
     "wof:id":152065525,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1496790605,
     "wof:name":"Plastem S.a.",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

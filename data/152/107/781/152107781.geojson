@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.649462,46.256905,5.649462,46.256905",
     "geom:latitude":46.256905,
     "geom:longitude":5.649462,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3ta40L2k6tnB2pBeWPvqFO_46.256905_5.649462@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"157dae2426b60f36216cf9005f16ff51",
+    "wof:geomhash":"9b366a3a22f57c1d199b87f302cf52d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152107781
         }
     ],
     "wof:id":152107781,
-    "wof:lastmodified":1473798273,
+    "wof:lastmodified":1496781087,
     "wof:name":"M. Martinez Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

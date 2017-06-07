@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.008834,47.273197,5.008834,47.273197",
     "geom:latitude":47.273197,
     "geom:longitude":5.008834,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750901,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404398949,
+        85633147,
+        1108826395,
+        101750901,
+        136253037,
         102070853
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6aBU1l7APheGVF4YZw56nW_47.273197_5.008834@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3cdea63b046bb3875c1b6793ebaf713a",
+    "wof:geomhash":"027db66786b3548136d8276ee1fce791",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070853,
+            "empire_id":136253037,
+            "localadmin_id":404398949,
             "locality_id":101750901,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152131341
         }
     ],
     "wof:id":152131341,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496788487,
     "wof:name":"Air Froid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

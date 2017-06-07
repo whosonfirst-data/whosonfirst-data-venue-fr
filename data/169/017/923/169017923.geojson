@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.856056,45.677654,4.856056,45.677654",
     "geom:latitude":45.677654,
     "geom:longitude":4.856056,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749405,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404353095,
+        85633147,
+        1108826389,
+        101749405,
+        136253037,
         102071515
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1NSkrgmMJgCYaxPLaIf5ce_45.677654_4.856056@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b22f6628a0227bf89e6215ffec2818af",
+    "wof:geomhash":"c1b8601fb5da6f72626a42480a1ffd8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071515,
+            "empire_id":136253037,
+            "localadmin_id":404353095,
             "locality_id":101749405,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":169017923
         }
     ],
     "wof:id":169017923,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496781531,
     "wof:name":"L.d.g. S.a. - Lyon Distribution Gaz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

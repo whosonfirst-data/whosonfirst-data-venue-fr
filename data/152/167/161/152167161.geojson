@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.857643,47.595928,6.857643,47.595928",
     "geom:latitude":47.595928,
     "geom:longitude":6.857643,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753301,
-        85633147,
         85683353,
+        102191581,
+        404227783,
+        404379235,
+        85633147,
+        1108826395,
+        101753301,
+        136253037,
         102066281
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4B9sTx4ETUe6JajLFNmtul_47.595928_6.857643@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f56045ba30d88abd5a9940842c619c26",
+    "wof:geomhash":"4ca807edfa3a0a672a151fa10bf89df1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066281,
+            "empire_id":136253037,
+            "localadmin_id":404379235,
             "locality_id":101753301,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":152167161
         }
     ],
     "wof:id":152167161,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496788441,
     "wof:name":"Outil Coupant Numerique Eurl (ocn)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

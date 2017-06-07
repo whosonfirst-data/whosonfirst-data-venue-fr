@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.037754,46.117142,6.037754,46.117142",
     "geom:latitude":46.117142,
     "geom:longitude":6.037754,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767991,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404404813,
+        85633147,
+        1108826389,
+        101767991,
+        136253037,
         102068295
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3X95TWdKMd9UlVPO5hABjm_46.117142_6.037754@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d315567733f3a6b1c10c99c96530dbec",
+    "wof:geomhash":"cd54e6e9286eb917b6c64d0d884be613",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068295,
+            "empire_id":136253037,
+            "localadmin_id":404404813,
             "locality_id":101767991,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152083715
         }
     ],
     "wof:id":152083715,
-    "wof:lastmodified":1473798150,
+    "wof:lastmodified":1496780512,
     "wof:name":"Societe Electro Mecanique Du Genevois Sarl (semg)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.112486,49.472729,1.112486,49.472729",
     "geom:latitude":49.472729,
     "geom:longitude":1.112486,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749127,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404379847,
+        85633147,
+        1108826393,
+        101749127,
+        136253037,
         102071767
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1rrFd7EAOUBbKlpOHYEryF_49.472729_1.112486@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6cabfc36f71c8e6c1ca9a15aa47d93c7",
+    "wof:geomhash":"7b22feb1e14a32dd61f982159aefae8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071767,
+            "empire_id":136253037,
+            "localadmin_id":404379847,
             "locality_id":101749127,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136274619
         }
     ],
     "wof:id":136274619,
-    "wof:lastmodified":1473797892,
+    "wof:lastmodified":1496787421,
     "wof:name":"Ass Fiscalite & Gestion Agricol Du Cerhn",
-    "wof:parent_id":101749127,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

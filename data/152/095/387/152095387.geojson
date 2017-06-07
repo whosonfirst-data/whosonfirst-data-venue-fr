@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.526663,47.562584,7.526663,47.562584",
     "geom:latitude":47.562584,
     "geom:longitude":7.526663,
@@ -35,22 +36,26 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85682361,
+        85799711,
+        102191581,
+        404571475,
         85633051,
         101914097,
         102062971,
-        85799711
+        85682361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22pnypy40DP73bCpULvkwQ_47.562584_7.526663@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"faa261e3dabdc8bf396ed70e063473ed",
+    "wof:geomhash":"74c04948527655938bd73cad0878b917",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633051,
             "county_id":102062971,
+            "localadmin_id":404571475,
             "locality_id":101914097,
             "neighbourhood_id":85799711,
             "region_id":85682361,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":152095387,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1496793334,
     "wof:name":"Boucheries-charcuteries Eckert Sa",
     "wof:parent_id":85799711,
     "wof:placetype":"venue",

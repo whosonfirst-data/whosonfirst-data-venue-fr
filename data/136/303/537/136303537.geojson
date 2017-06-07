@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.460165,46.322845,-0.460165,46.322845",
     "geom:latitude":46.322845,
     "geom:longitude":-0.460165,
@@ -28,9 +29,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749515,
-        85633147,
         85683163,
+        102191581,
+        85633147,
+        404227969,
+        1108826385,
+        101749515,
+        136253037,
         102072323
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_4icw3cvdi1LgAW17YCm1Bf_46.322845_-0.460165@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d6b67b1e2b65181ac3820484168f327b",
+    "wof:geomhash":"e5ea8844d6159741b631780887915c14",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072323,
+            "empire_id":136253037,
             "locality_id":101749515,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136303537
         }
     ],
     "wof:id":136303537,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496775596,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

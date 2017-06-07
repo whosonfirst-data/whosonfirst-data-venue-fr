@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.53881,45.757759,3.53881,45.757759",
     "geom:latitude":45.757759,
     "geom:longitude":3.53881,
@@ -24,9 +25,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767859,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404351941,
+        85633147,
+        1108826389,
+        101767859,
+        136253037,
         102067163
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7FZEGFcvaCtJtYLx66p5JW_45.757759_3.538810@1306269753"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d42f977a7a2bd9542bd6e001b1c828e0",
+    "wof:geomhash":"078eb3eb0c7598102096b4d2b8e2d720",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067163,
+            "empire_id":136253037,
+            "localadmin_id":404351941,
             "locality_id":101767859,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152746611
         }
     ],
     "wof:id":152746611,
-    "wof:lastmodified":1473798518,
+    "wof:lastmodified":1496782664,
     "wof:name":"Sarry Sabatier S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

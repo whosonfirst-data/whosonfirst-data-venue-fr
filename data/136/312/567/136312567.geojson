@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.870136,46.171402,1.870136,46.171402",
     "geom:latitude":46.171402,
     "geom:longitude":1.870136,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766355,
-        85633147,
         85683179,
+        102191581,
+        404227843,
+        404349645,
+        85633147,
+        1108826385,
+        101766355,
+        136253037,
         102072289
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0Vu1xIEtmMBfL4wQlsCzGs_46.171402_1.870136@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"515b20f8fdd159fb2f46289953e249e5",
+    "wof:geomhash":"8d79ac9e4deb9d2afdcf16093e29c4a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072289,
+            "empire_id":136253037,
+            "localadmin_id":404349645,
             "locality_id":101766355,
+            "macrocounty_id":404227843,
+            "macroregion_id":1108826385,
             "region_id":85683179,
             "venue_id":136312567
         }
     ],
     "wof:id":136312567,
-    "wof:lastmodified":1473798007,
+    "wof:lastmodified":1496776013,
     "wof:name":"Le Creusois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

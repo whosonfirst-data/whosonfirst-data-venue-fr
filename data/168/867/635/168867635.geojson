@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.005419,49.055115,4.005419,49.055115",
     "geom:latitude":49.055115,
     "geom:longitude":4.005419,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762643,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404409659,
+        85633147,
+        1108826391,
+        101762643,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1tq3ckAIsBw3wHEZOZngOG_49.055115_4.005419@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"598bcb8760430dca102516c7b5a5eda8",
+    "wof:geomhash":"5fc28b662533dd87253b611ad7669d5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404409659,
             "locality_id":101762643,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":168867635
         }
     ],
     "wof:id":168867635,
-    "wof:lastmodified":1473798016,
+    "wof:lastmodified":1496785028,
     "wof:name":"Champagne Ivernel S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

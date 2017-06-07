@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.376925,47.193722,5.376925,47.193722",
     "geom:latitude":47.193722,
     "geom:longitude":5.376925,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768491,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404420005,
+        85633147,
+        1108826395,
+        101768491,
+        136253037,
         102064717
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3mx44qGRM9RwK5QTE3PQ9B_47.193722_5.376925@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6b3b1e09473963c22f7092dba6a0e94",
+    "wof:geomhash":"35c5f41819f7c38cf4953b8fc6aeb472",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064717,
+            "empire_id":136253037,
+            "localadmin_id":404420005,
             "locality_id":101768491,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152089829
         }
     ],
     "wof:id":152089829,
-    "wof:lastmodified":1473798172,
+    "wof:lastmodified":1496788486,
     "wof:name":"Groupes Tosic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.280111,45.531845,4.280111,45.531845",
     "geom:latitude":45.531845,
     "geom:longitude":4.280111,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830773,
-        85633147,
         85683377,
-        102069939
+        102191581,
+        404227677,
+        404379613,
+        85633147,
+        1108826389,
+        101830773,
+        136253037,
+        102068539
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09nBPLFcfzjPgJtvYQTQ3d_45.531845_4.280111@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f875eae55d1a6d43069d4d68fa0f295b",
+    "wof:geomhash":"ed06c81df53df23cd7c7973c65f4f310",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069939,
+            "county_id":102068539,
+            "empire_id":136253037,
+            "localadmin_id":404379613,
             "locality_id":101830773,
+            "macrocounty_id":404227677,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152049523
         }
     ],
     "wof:id":152049523,
-    "wof:lastmodified":1473797923,
+    "wof:lastmodified":1496780503,
     "wof:name":"Novotel Saint Etienne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.75801,45.759922,4.75801,45.759922",
     "geom:latitude":45.759922,
     "geom:longitude":4.75801,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750815,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404382673,
+        85633147,
+        1108826389,
+        101750815,
+        136253037,
         102071597
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0HNvQv84BliDSxLqdZ2AN1_45.759922_4.758010@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d1a5ba1534daf95c91a12173251b5dfa",
+    "wof:geomhash":"f5e242971fc6395f986106bcf6b8c3ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071597,
+            "empire_id":136253037,
+            "localadmin_id":404382673,
             "locality_id":101750815,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152046083
         }
     ],
     "wof:id":152046083,
-    "wof:lastmodified":1473797873,
+    "wof:lastmodified":1496800750,
     "wof:name":"Institut St Joseph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

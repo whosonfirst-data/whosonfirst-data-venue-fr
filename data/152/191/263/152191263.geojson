@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.292501,45.397198,4.292501,45.397198",
     "geom:latitude":45.397198,
     "geom:longitude":4.292501,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752993,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404354045,
+        85633147,
+        1108826389,
+        101752993,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1AisQPkWK8k8wrf4lUq4QL_45.397198_4.292501@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88b451d0028bfd8e9aefe52282c7e382",
+    "wof:geomhash":"1b5e38f04d9ff091a3918fb9d5bd2418",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404354045,
             "locality_id":101752993,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152191263
         }
     ],
     "wof:id":152191263,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1496780242,
     "wof:name":"Ets Girard Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

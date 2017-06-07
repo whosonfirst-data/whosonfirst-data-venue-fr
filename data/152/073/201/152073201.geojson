@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.364955,48.111217,7.364955,48.111217",
     "geom:latitude":48.111217,
     "geom:longitude":7.364955,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7e9WmIiXRSSEPVZPvcsuY4_48.111217_7.364955@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"224c1a4e7944a9066451dacf85c0c6fa",
+    "wof:geomhash":"2b1965809bee9b708d3d850acce1ee51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152073201
         }
     ],
     "wof:id":152073201,
-    "wof:lastmodified":1473798124,
+    "wof:lastmodified":1496793500,
     "wof:name":"Lyonnaise Des Eaux France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

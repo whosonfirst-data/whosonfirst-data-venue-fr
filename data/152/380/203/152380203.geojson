@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.825442,47.211407,6.825442,47.211407",
     "geom:latitude":47.211407,
     "geom:longitude":6.825442,
@@ -23,9 +24,14 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766875,
-        85633147,
         85683239,
+        102191581,
+        404227849,
+        404355099,
+        85633147,
+        1108826395,
+        101766875,
+        136253037,
         102066485
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0uoHSkLm7bPdjReJKLoaQi_47.211407_6.825442@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fcc54a3723fe29d9af61b096d5327ae8",
+    "wof:geomhash":"381ea1bfaed99a6555a75203006e04cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066485,
+            "empire_id":136253037,
+            "localadmin_id":404355099,
             "locality_id":101766875,
+            "macrocounty_id":404227849,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152380203
         }
     ],
     "wof:id":152380203,
-    "wof:lastmodified":1473798387,
+    "wof:lastmodified":1496788602,
     "wof:name":"Coop\u00e9rative De Fromagerie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

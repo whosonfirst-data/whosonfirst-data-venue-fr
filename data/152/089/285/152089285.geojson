@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.553836,45.860416,3.553836,45.860416",
     "geom:latitude":45.860416,
     "geom:longitude":3.553836,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767857,
-        85633147,
         85683471,
+        102191581,
+        404228287,
+        404348921,
+        85633147,
+        1108826389,
+        101767857,
+        136253037,
         102071435
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_5zZHsNpXtosiGI1RNKDhmE_45.860416_3.553836@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"81c0be3bca5e6736dbe757d0dd8faba1",
+    "wof:geomhash":"6c694171969b2094a795ccc0f89cba62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071435,
+            "empire_id":136253037,
+            "localadmin_id":404348921,
             "locality_id":101767857,
+            "macrocounty_id":404228287,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152089285
         }
     ],
     "wof:id":152089285,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496806476,
     "wof:name":"Etablissements Massoptier Fils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

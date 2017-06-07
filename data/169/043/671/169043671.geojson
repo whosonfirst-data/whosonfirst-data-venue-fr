@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.265577,49.516048,3.265577,49.516048",
     "geom:latitude":49.516048,
     "geom:longitude":3.265577,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899799,
-        85633147,
         85683247,
+        102191581,
+        404227799,
+        404400315,
+        85633147,
+        1108826399,
+        101899799,
+        136253037,
         102066287
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6LyXerI4D2nAQROCgtggKx_49.516048_3.265577@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b055b0eb8f599a0a9064d6fd0d130f29",
+    "wof:geomhash":"56a72a6eabe1eb5b8bdb92e8bb5ebf75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066287,
+            "empire_id":136253037,
+            "localadmin_id":404400315,
             "locality_id":101899799,
+            "macrocounty_id":404227799,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":169043671
         }
     ],
     "wof:id":169043671,
-    "wof:lastmodified":1473798024,
+    "wof:lastmodified":1496790166,
     "wof:name":"M.c.d. - Manufacture De Caoutchouc Duverger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

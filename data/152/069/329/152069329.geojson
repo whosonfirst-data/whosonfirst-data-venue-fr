@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.855977,43.965416,3.855977,43.965416",
     "geom:latitude":43.965416,
     "geom:longitude":3.855977,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772727,
-        85633147,
         85683431,
+        102191581,
+        404228065,
+        404351475,
+        85633147,
+        1108826387,
+        101772727,
+        136253037,
         102069545
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3Pqt2hvNSfu5hZdXPKIWq3_43.965416_3.855977@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c12aaef4acf10b08c1eeaf9b95e29eda",
+    "wof:geomhash":"959d77350225595db22b800f30c0bd08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069545,
+            "empire_id":136253037,
+            "localadmin_id":404351475,
             "locality_id":101772727,
+            "macrocounty_id":404228065,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152069329
         }
     ],
     "wof:id":152069329,
-    "wof:lastmodified":1473798077,
+    "wof:lastmodified":1496799121,
     "wof:name":"La Fromagerie Cigaloise Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

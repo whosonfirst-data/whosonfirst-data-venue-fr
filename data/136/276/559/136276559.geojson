@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.156862,49.115627,6.156862,49.115627",
     "geom:latitude":49.115627,
     "geom:longitude":6.156862,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750099,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404396597,
+        85633147,
+        1108826391,
+        101750099,
+        136253037,
         102070811
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_0i0sqgyQZl9J3vfh39d711_49.115627_6.156862@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6839987d421250be220ee48861d0117b",
+    "wof:geomhash":"0ec71ac4c1f9fb194d6750ce07e88d06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070811,
+            "empire_id":136253037,
+            "localadmin_id":404396597,
             "locality_id":101750099,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136276559
         }
     ],
     "wof:id":136276559,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496794301,
     "wof:name":"Comptalor Societe Anonyme",
-    "wof:parent_id":101750099,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

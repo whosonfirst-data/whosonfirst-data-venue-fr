@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.11521,45.688854,0.11521,45.688854",
     "geom:latitude":45.688854,
     "geom:longitude":0.11521,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829065,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404397637,
+        85633147,
+        1108826385,
+        101829065,
+        136253037,
         102070497
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0yj5fp2oP59pSiPGALTGxw_45.688854_0.115210@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c663e9b1b89d9916e8ede724a27640cd",
+    "wof:geomhash":"267f532567c495e8a92dc197502ac1ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070497,
+            "empire_id":136253037,
+            "localadmin_id":404397637,
             "locality_id":101829065,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152054063
         }
     ],
     "wof:id":152054063,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496775887,
     "wof:name":"Air Liquide Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

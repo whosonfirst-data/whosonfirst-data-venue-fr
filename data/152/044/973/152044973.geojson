@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.380922,45.291664,3.380922,45.291664",
     "geom:latitude":45.291664,
     "geom:longitude":3.380922,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769069,
-        85633147,
         85683413,
+        102191581,
+        85633147,
+        404227679,
+        1108826389,
+        101769069,
+        136253037,
         102072113
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_62PzZ9qhI6XidDSm8aW11N_45.291664_3.380922@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4dfc0a6166f5c2b628b5a7defa12497d",
+    "wof:geomhash":"c51d13b9f8cc6e3a8a7f3d5da60ad903",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072113,
+            "empire_id":136253037,
             "locality_id":101769069,
+            "macrocounty_id":404227679,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152044973
         }
     ],
     "wof:id":152044973,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496806253,
     "wof:name":"College Departemental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

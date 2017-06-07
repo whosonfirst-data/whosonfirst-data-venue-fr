@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.92963,49.011154,7.92963,49.011154",
     "geom:latitude":49.011154,
     "geom:longitude":7.92963,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101882003,
-        85633147,
         85683221,
+        102191581,
+        404228315,
+        404396621,
+        85633147,
+        1108826391,
+        101882003,
+        136253037,
         102070489
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6sDvoRMWH980bYZOnXU1jG_49.011154_7.929630@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d045a523b965727431dc170625061ba",
+    "wof:geomhash":"32b5d493676c4da60fa5059144aafc31",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070489,
+            "empire_id":136253037,
+            "localadmin_id":404396621,
             "locality_id":101882003,
+            "macrocounty_id":404228315,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":153020587
         }
     ],
     "wof:id":153020587,
-    "wof:lastmodified":1473797877,
+    "wof:lastmodified":1496785983,
     "wof:name":"Alsace Service Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

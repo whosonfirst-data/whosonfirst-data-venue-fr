@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.721579,45.763485,4.721579,45.763485",
     "geom:latitude":45.763485,
     "geom:longitude":4.721579,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752991,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404354203,
+        85633147,
+        1108826389,
+        101752991,
+        136253037,
         102069953
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1pkMXmPJiwvuJRnbqQKGDP_45.763485_4.721579@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2fbfdadc829a6d664dd86bd025b08f6",
+    "wof:geomhash":"b3901e113b6e927d8fe1e3438a83ad1f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069953,
+            "empire_id":136253037,
+            "localadmin_id":404354203,
             "locality_id":101752991,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152729367
         }
     ],
     "wof:id":152729367,
-    "wof:lastmodified":1473798509,
+    "wof:lastmodified":1496781503,
     "wof:name":"S.m.e.f. Azur S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

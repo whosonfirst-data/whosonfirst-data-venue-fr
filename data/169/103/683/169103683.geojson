@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.54901,50.077816,1.54901,50.077816",
     "geom:latitude":50.077816,
     "geom:longitude":1.54901,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840383,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404408721,
+        85633147,
+        1108826399,
+        101840383,
+        136253037,
         102071397
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0FkMx3wBRUKeKb0sU69nnt_50.077816_1.549010@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"40b6ff1f9f70f8af40bfbd70efd7e8c1",
+    "wof:geomhash":"2261e32024f4a1247e4a5c059ce8c92f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071397,
+            "empire_id":136253037,
+            "localadmin_id":404408721,
             "locality_id":101840383,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169103683
         }
     ],
     "wof:id":169103683,
-    "wof:lastmodified":1473798106,
+    "wof:lastmodified":1496790453,
     "wof:name":"Prospective Et Outillage S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

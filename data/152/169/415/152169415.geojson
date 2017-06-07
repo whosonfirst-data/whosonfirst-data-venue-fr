@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.482631,43.891308,-0.482631,43.891308",
     "geom:latitude":43.891308,
     "geom:longitude":-0.482631,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831885,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404366395,
+        85633147,
+        1108826385,
+        101831885,
+        136253037,
         102072297
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0p4Y4iozT4nB4Jbw2B5vYn_43.891308_-0.482631@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"743ccfc61b9ae4062e8527bcc4236cc2",
+    "wof:geomhash":"03137b2aee6078baf2fb62a312209fe2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072297,
+            "empire_id":136253037,
+            "localadmin_id":404366395,
             "locality_id":101831885,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152169415
         }
     ],
     "wof:id":152169415,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496777362,
     "wof:name":"Philippon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

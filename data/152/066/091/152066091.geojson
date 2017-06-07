@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.67936,48.862591,7.67936,48.862591",
     "geom:latitude":48.862591,
     "geom:longitude":7.67936,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762221,
-        85633147,
         85683221,
+        102191581,
+        404227945,
+        404368021,
+        85633147,
+        1108826391,
+        101762221,
+        136253037,
         102067073
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4BdPeACO16IaRS7DAm9rkE_48.862591_7.679360@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6f2c2c60cc6e4143fb0557328f73668",
+    "wof:geomhash":"02de4176316aad730cc6773d465852b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067073,
+            "empire_id":136253037,
+            "localadmin_id":404368021,
             "locality_id":101762221,
+            "macrocounty_id":404227945,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152066091
         }
     ],
     "wof:id":152066091,
-    "wof:lastmodified":1473798039,
+    "wof:lastmodified":1496793171,
     "wof:name":"Colas Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

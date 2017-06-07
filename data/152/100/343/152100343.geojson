@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.336705,48.881226,2.336705,48.881226",
     "geom:latitude":48.881226,
     "geom:longitude":2.336705,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873863,
+        102191581,
         85633147,
+        404227749,
+        404227465,
         101751119,
-        102068555,
-        85873863
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,19 @@
     "wof:geomhash":"ed1c31aa38ac6b9490e983f03f1467c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068555,
+            "county_id":102068177,
             "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873863,
             "region_id":85683497,
             "venue_id":152100343
         }
     ],
     "wof:id":152100343,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1491911007,
     "wof:name":"La Baguetterie Sa",
     "wof:parent_id":85873863,
     "wof:placetype":"venue",

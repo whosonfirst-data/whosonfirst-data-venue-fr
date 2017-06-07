@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.140635,46.142563,6.140635,46.142563",
     "geom:latitude":46.142563,
     "geom:longitude":6.140635,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829039,
-        85633147,
         85683227,
+        102191581,
+        404228155,
+        404399977,
+        85633147,
+        1108826389,
+        101829039,
+        136253037,
         102068295
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0cKRp6f7b1jW9BvsqiF1Fn_46.142563_6.140635@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3815d50ea5180b9d8cb93cad63220e85",
+    "wof:geomhash":"0bc5d82f4af088f37b0c56be692db434",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068295,
+            "empire_id":136253037,
+            "localadmin_id":404399977,
             "locality_id":101829039,
+            "macrocounty_id":404228155,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":152203807
         }
     ],
     "wof:id":152203807,
-    "wof:lastmodified":1473798322,
+    "wof:lastmodified":1496781396,
     "wof:name":"La Boite A Outils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

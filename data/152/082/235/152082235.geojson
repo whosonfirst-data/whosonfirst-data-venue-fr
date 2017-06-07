@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.800905,48.71265,7.800905,48.71265",
     "geom:latitude":48.71265,
     "geom:longitude":7.800905,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762241,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404354319,
+        85633147,
+        1108826391,
+        101762241,
+        136253037,
         102065205
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6xC6hWFJQExb1CnuVIekBr_48.712650_7.800905@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"da1bdfc6be5ab7ef42c95157dbfe3328",
+    "wof:geomhash":"359ad294b0f9a88e9fab859cca997a42",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065205,
+            "empire_id":136253037,
+            "localadmin_id":404354319,
             "locality_id":101762241,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152082235
         }
     ],
     "wof:id":152082235,
-    "wof:lastmodified":1473798125,
+    "wof:lastmodified":1496785819,
     "wof:name":"Cardan Service Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

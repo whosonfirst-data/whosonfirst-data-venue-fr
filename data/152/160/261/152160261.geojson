@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.296364,47.734806,3.296364,47.734806",
     "geom:latitude":47.734806,
     "geom:longitude":3.296364,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766145,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404350817,
+        85633147,
+        1108826395,
+        101766145,
+        136253037,
         102070255
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1xcDeT3h0wjyd6v8rgNpb0_47.734806_3.296364@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1efb34b18a5b8c79b5c4bf3893428d3b",
+    "wof:geomhash":"42b7133104010117d0c3524ef805ab22",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070255,
+            "empire_id":136253037,
+            "localadmin_id":404350817,
             "locality_id":101766145,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152160261
         }
     ],
     "wof:id":152160261,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496789276,
     "wof:name":"Technitrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

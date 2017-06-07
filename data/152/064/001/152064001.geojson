@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.213656,43.590904,2.213656,43.590904",
     "geom:latitude":43.590904,
     "geom:longitude":2.213656,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831813,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831813,
+        136253037,
         102072325
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_5FUMD54pwjwoOvSzmP4dVI_43.590904_2.213656@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88242306736fce5c272d47b0a83bd0f7",
+    "wof:geomhash":"73641399ba5a34f90c69a0643c457c2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072325,
+            "empire_id":136253037,
             "locality_id":101831813,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152064001
         }
     ],
     "wof:id":152064001,
-    "wof:lastmodified":1473798044,
+    "wof:lastmodified":1496803674,
     "wof:name":"De Cathalo Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

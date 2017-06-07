@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.864082,48.853477,-0.864082,48.853477",
     "geom:latitude":48.853477,
     "geom:longitude":-0.864082,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828441,
-        85633147,
         85683579,
+        102191581,
+        404228207,
+        404348573,
+        85633147,
+        1108826393,
+        101828441,
+        136253037,
         102070907
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2lTqZt0q67pMCG7XSfRKsf_48.853477_-0.864082@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a51abd1e27ecc64f9f922967b035e8c7",
+    "wof:geomhash":"6376bd85a30608c604fa111e66d0efe4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070907,
+            "empire_id":136253037,
+            "localadmin_id":404348573,
             "locality_id":101828441,
+            "macrocounty_id":404228207,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":152069325
         }
     ],
     "wof:id":152069325,
-    "wof:lastmodified":1473798077,
+    "wof:lastmodified":1496786922,
     "wof:name":"La Compagnie Des Fromages Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

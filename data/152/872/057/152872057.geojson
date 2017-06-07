@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.242901,46.666042,0.242901,46.666042",
     "geom:latitude":46.666042,
     "geom:longitude":0.242901,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766967,
-        85633147,
         85683185,
+        102191581,
+        404228175,
+        404380777,
+        85633147,
+        1108826385,
+        101766967,
+        136253037,
         102067931
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_37gncKRx6TJNrXufQCjo5A_46.666042_0.242901@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f9c9d7fdb39123d1ebfbff4c1e84861b",
+    "wof:geomhash":"44f9f4b92ab716ea4a9cc8d160602099",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067931,
+            "empire_id":136253037,
+            "localadmin_id":404380777,
             "locality_id":101766967,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152872057
         }
     ],
     "wof:id":152872057,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496777204,
     "wof:name":"Tailleur Dubot Emballage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

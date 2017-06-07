@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.881701,50.686623,2.881701,50.686623",
     "geom:latitude":50.686623,
     "geom:longitude":2.881701,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839681,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404406293,
+        85633147,
+        1108826399,
+        101839681,
+        136253037,
         102064615
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_6HWgdJHKEZpL0nt3y46VKY_50.686623_2.881701@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0e31f97bfb80eb3ae804e9bda73ccb69",
+    "wof:geomhash":"a280977ec0b52a930833e35176791477",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404406293,
             "locality_id":101839681,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152089815
         }
     ],
     "wof:id":152089815,
-    "wof:lastmodified":1473798168,
+    "wof:lastmodified":1496791786,
     "wof:name":"Griss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

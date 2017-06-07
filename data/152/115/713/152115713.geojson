@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.34169,46.58057,0.34169,46.58057",
     "geom:latitude":46.58057,
     "geom:longitude":0.34169,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_69XpaKY9GPx0xcQRK2bfGg_46.580570_0.341690@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f5b255c80a397df4637b14f0daa49ce3",
+    "wof:geomhash":"00699f2d63be39f2be185da7b56833ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152115713
         }
     ],
     "wof:id":152115713,
-    "wof:lastmodified":1473798275,
+    "wof:lastmodified":1496798916,
     "wof:name":"Retif",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

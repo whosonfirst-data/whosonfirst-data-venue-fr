@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.47177,49.810936,2.47177,49.810936",
     "geom:latitude":49.810936,
     "geom:longitude":2.47177,
@@ -23,9 +24,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900969,
-        85633147,
         85683363,
+        102191581,
+        404228165,
+        404413675,
+        85633147,
+        1108826399,
+        101900969,
+        136253037,
         102069571
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0hWOd3K7XkFazEZpTVzA9o_49.810936_2.471770@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2aa726ca1efcb2e40093d72d284623a1",
+    "wof:geomhash":"cb7e5ae2ca48d1ff1d2edc92bd836dc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069571,
+            "empire_id":136253037,
+            "localadmin_id":404413675,
             "locality_id":101900969,
+            "macrocounty_id":404228165,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152346131
         }
     ],
     "wof:id":152346131,
-    "wof:lastmodified":1473798377,
+    "wof:lastmodified":1496792693,
     "wof:name":"Canards Du Val De Luce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

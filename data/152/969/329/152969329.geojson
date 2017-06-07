@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.504582,47.13002,5.504582,47.13002",
     "geom:latitude":47.13002,
     "geom:longitude":5.504582,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891379,
-        85633147,
         85683173,
+        102191581,
+        404227671,
+        404372755,
+        85633147,
+        1108826395,
+        101891379,
+        136253037,
         102068717
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_60A2rCtFpqjGoC1piYVlcS_47.130020_5.504582@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"04b4b2db1ff3c9f2e18887dc24237649",
+    "wof:geomhash":"36aa378e3120b4ed88a7eae7e13e5164",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068717,
+            "empire_id":136253037,
+            "localadmin_id":404372755,
             "locality_id":101891379,
+            "macrocounty_id":404227671,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152969329
         }
     ],
     "wof:id":152969329,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496788433,
     "wof:name":"Ste Des Autoroutes Paris Rhin-rhone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.591369,44.824131,-0.591369,44.824131",
     "geom:latitude":44.824131,
     "geom:longitude":-0.591369,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897677,
+        102191581,
         85633147,
-        101750773,
-        102071707,
-        85897677
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KeGIbseeSpZpsU7hyKFpr_44.824131_-0.591369@1306269699"
     },
     "wof:country":"FR",
-    "wof:geomhash":"653befffdfcb60bf0d8d46a20d968aea",
+    "wof:geomhash":"a955911cb12d2ef4ef90a44e95aa152a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071707,
-            "locality_id":101750773,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897677,
             "region_id":85683243,
             "venue_id":136278533
         }
     ],
     "wof:id":136278533,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496776880,
     "wof:name":"Pavillon De La Mutualite",
     "wof:parent_id":85897677,
     "wof:placetype":"venue",

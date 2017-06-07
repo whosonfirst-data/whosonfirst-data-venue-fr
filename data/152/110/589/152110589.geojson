@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.363492,45.691261,1.363492,45.691261",
     "geom:latitude":45.691261,
     "geom:longitude":1.363492,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768285,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404353847,
+        85633147,
+        1108826385,
+        101768285,
+        136253037,
         102068243
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5eKUSOyA6zDfZFpvVt8Uow_45.691261_1.363492@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6ff6e89d6d1c99106d31970b1061ec9",
+    "wof:geomhash":"bb6d36b4a545c185c48e89575962e0b1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068243,
+            "empire_id":136253037,
+            "localadmin_id":404353847,
             "locality_id":101768285,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152110589
         }
     ],
     "wof:id":152110589,
-    "wof:lastmodified":1473798254,
+    "wof:lastmodified":1496775605,
     "wof:name":"Guy Degrennes Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

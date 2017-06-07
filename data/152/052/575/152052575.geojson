@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.655353,50.24345,2.655353,50.24345",
     "geom:latitude":50.24345,
     "geom:longitude":2.655353,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899417,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404416081,
+        85633147,
+        1108826399,
+        101899417,
+        136253037,
         102066049
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0e6tbBx8UY4Mq8c0VB2pJ7_50.243450_2.655353@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a9e58fc9b3af2554a2acb6143ff5752",
+    "wof:geomhash":"5573a3047c9bac5e4697d1acfe1fd1c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066049,
+            "empire_id":136253037,
+            "localadmin_id":404416081,
             "locality_id":101899417,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152052575
         }
     ],
     "wof:id":152052575,
-    "wof:lastmodified":1473797929,
+    "wof:lastmodified":1496792059,
     "wof:name":"Comptoir Europeen De Dist En Elements Nutritifs Agricoles (cedena)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

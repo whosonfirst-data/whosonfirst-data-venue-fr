@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.067676,49.230083,4.067676,49.230083",
     "geom:latitude":49.230083,
     "geom:longitude":4.067676,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751377,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101751377,
+        136253037,
         102072525
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_58Z8cPniQzCCRYMpTbKcwW_49.230083_4.067676@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abc541238261fcb43eea5fcc974a2549",
+    "wof:geomhash":"2b0bb524f33dbb00c1acc2cb772e1eca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072525,
+            "empire_id":136253037,
             "locality_id":101751377,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152977903
         }
     ],
     "wof:id":152977903,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496805539,
     "wof:name":"Transports Perrin Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

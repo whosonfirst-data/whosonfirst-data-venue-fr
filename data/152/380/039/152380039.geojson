@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.428385,48.321033,7.428385,48.321033",
     "geom:latitude":48.321033,
     "geom:longitude":7.428385,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763731,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404375861,
+        85633147,
+        1108826391,
+        101763731,
+        136253037,
         102064425
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5SRuna2TGfRzHJ2gx8LHiG_48.321033_7.428385@1306269741"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ca4db11212199dc5d262e71caa3cbeb",
+    "wof:geomhash":"8ab09af1110b053c8d82a6fde040a434",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064425,
+            "empire_id":136253037,
+            "localadmin_id":404375861,
             "locality_id":101763731,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152380039
         }
     ],
     "wof:id":152380039,
-    "wof:lastmodified":1473798386,
+    "wof:lastmodified":1496784213,
     "wof:name":"Coop\u00e9rative Agricole S.c.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

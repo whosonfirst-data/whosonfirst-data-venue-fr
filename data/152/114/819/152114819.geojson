@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.563847,44.157024,0.563847,44.157024",
     "geom:latitude":44.157024,
     "geom:longitude":0.563847,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101851203,
-        85633147,
         85683341,
+        102191581,
+        404227689,
+        404371891,
+        85633147,
+        1108826385,
+        101851203,
+        136253037,
         102066999
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2KgPgVMSlrYbOlc8JS8SR0_44.157024_0.563847@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"63689e4445053c3a743b16170e84dbe7",
+    "wof:geomhash":"340d72e57a43d139bbe160fe8d439570",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066999,
+            "empire_id":136253037,
+            "localadmin_id":404371891,
             "locality_id":101851203,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152114819
         }
     ],
     "wof:id":152114819,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496775524,
     "wof:name":"Equipements Frigorifiques Routiers (efr)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

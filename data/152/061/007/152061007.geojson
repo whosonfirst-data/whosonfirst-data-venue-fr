@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.059083,46.033703,4.059083,46.033703",
     "geom:latitude":46.033703,
     "geom:longitude":4.059083,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0f9hYAZfvlD4WElcM2i15b_46.033703_4.059083@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3a5b5a4ed978ed94451fd20e7ade1b19",
+    "wof:geomhash":"519085fb6c3c745cecd72824682da9cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152061007
         }
     ],
     "wof:id":152061007,
-    "wof:lastmodified":1473797863,
+    "wof:lastmodified":1496783280,
     "wof:name":"Griffon Freres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

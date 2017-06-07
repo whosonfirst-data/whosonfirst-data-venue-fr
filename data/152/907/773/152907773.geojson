@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.271123,45.807552,1.271123,45.807552",
     "geom:latitude":45.807552,
     "geom:longitude":1.271123,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749501,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404422277,
+        85633147,
+        1108826385,
+        101749501,
+        136253037,
         102072489
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_1wnbjDfql5UcDXl3wsYgXe_45.807552_1.271123@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d46b0f2bce53c47d61b4713e83ee31f3",
+    "wof:geomhash":"823ac0357d8eed2e85cc3e57f6ec44b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072489,
+            "empire_id":136253037,
+            "localadmin_id":404422277,
             "locality_id":101749501,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152907773
         }
     ],
     "wof:id":152907773,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496775939,
     "wof:name":"Agendas Bontemps Limoges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.220417,49.879074,1.220417,49.879074",
     "geom:latitude":49.879074,
     "geom:longitude":1.220417,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812469,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404358837,
+        85633147,
+        1108826393,
+        101812469,
+        136253037,
         102067593
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2aXLegiLm7Vus4W8VcEQ6T_49.879074_1.220417@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"05e8bd206a1ce1beae4002718dd82957",
+    "wof:geomhash":"5a46e695afe405c7196e2de9b3d45638",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067593,
+            "empire_id":136253037,
+            "localadmin_id":404358837,
             "locality_id":101812469,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152686957
         }
     ],
     "wof:id":152686957,
-    "wof:lastmodified":1473798517,
+    "wof:lastmodified":1496804750,
     "wof:name":"Punch M\u00e9canique S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

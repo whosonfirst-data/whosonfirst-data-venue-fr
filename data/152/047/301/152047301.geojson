@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.182623,48.689545,6.182623,48.689545",
     "geom:latitude":48.689545,
     "geom:longitude":6.182623,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750135,
-        85633147,
         85683343,
+        102191581,
+        85633147,
+        404228113,
+        1108826391,
+        101750135,
+        136253037,
         102072351
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_6Pum3yveLEPgK8lpRxiyQz_48.689545_6.182623@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3fd0157963b5c64bed558bbcf5bf9e7e",
+    "wof:geomhash":"8d33b236124a7f4d7e2dcfedfa7826b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072351,
+            "empire_id":136253037,
             "locality_id":101750135,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152047301
         }
     ],
     "wof:id":152047301,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496784812,
     "wof:name":"Les Brasseurs Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

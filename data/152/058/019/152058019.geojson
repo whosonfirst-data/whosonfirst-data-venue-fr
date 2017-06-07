@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.757397,45.261032,1.757397,45.261032",
     "geom:latitude":45.261032,
     "geom:longitude":1.757397,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830665,
-        85633147,
         85683209,
+        102191581,
+        404227837,
+        404357639,
+        85633147,
+        1108826385,
+        101830665,
+        136253037,
         102072443
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1nMPzfzTQQhnd46DE7QGqM_45.261032_1.757397@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88cf51d9aec71dda3d6cea4da76f228e",
+    "wof:geomhash":"6a14012ab8ea78d6580674241e0c357e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072443,
+            "empire_id":136253037,
+            "localadmin_id":404357639,
             "locality_id":101830665,
+            "macrocounty_id":404227837,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152058019
         }
     ],
     "wof:id":152058019,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496776181,
     "wof:name":"Laboratoire Laporte Molas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

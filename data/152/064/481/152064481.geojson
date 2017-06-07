@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.055453,48.90242,6.055453,48.90242",
     "geom:latitude":48.90242,
     "geom:longitude":6.055453,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828227,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404398655,
+        85633147,
+        1108826391,
+        101828227,
+        136253037,
         102068831
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_46HJYWryA8erAm1TXRRUJi_48.902420_6.055453@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d466a8c64344c778e17524d1948daa99",
+    "wof:geomhash":"cb9808bd404d7883422d7376e16317dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068831,
+            "empire_id":136253037,
+            "localadmin_id":404398655,
             "locality_id":101828227,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152064481
         }
     ],
     "wof:id":152064481,
-    "wof:lastmodified":1473798079,
+    "wof:lastmodified":1496785815,
     "wof:name":"L'est Republicain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

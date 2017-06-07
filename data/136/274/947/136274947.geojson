@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.360709,43.301842,-0.360709,43.301842",
     "geom:latitude":43.301842,
     "geom:longitude":-0.360709,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_1bgeRDPomQPaH6pvk3cqkw_43.301842_-0.360709@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c942e3f8cbc97d5755004e2562bdec9b",
+    "wof:geomhash":"9f3ce6b81e66dcf91ff1ebf1e21f6b03",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":136274947
         }
     ],
     "wof:id":136274947,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496776443,
     "wof:name":"Banque Francaise Du Credit Cooperatif (credit Cooperatif Ou Bfcc)",
-    "wof:parent_id":101750669,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

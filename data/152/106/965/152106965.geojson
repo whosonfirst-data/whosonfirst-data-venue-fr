@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.7277,48.65728,7.7277,48.65728",
     "geom:latitude":48.65728,
     "geom:longitude":7.7277,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751115,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404359211,
+        85633147,
+        1108826391,
+        101751115,
+        136253037,
         102065205
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_507ykGuHYX5ZWkKHKi3ZGf_48.657280_7.727700@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39cff95aef94b381afc9a5eb79d09d05",
+    "wof:geomhash":"df6f42eee93eff68046aec9d66ae5422",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065205,
+            "empire_id":136253037,
+            "localadmin_id":404359211,
             "locality_id":101751115,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152106965
         }
     ],
     "wof:id":152106965,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496784138,
     "wof:name":"Dries Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

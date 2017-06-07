@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.150745,44.049397,2.150745,44.049397",
     "geom:latitude":44.049397,
     "geom:longitude":2.150745,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831837,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227763,
+        1108826387,
+        101831837,
+        136253037,
         102072125
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0HzRbWlJ9KS1n0xuYZpblK_44.049397_2.150745@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ed0da1baae1c33e047b3090b89c04080",
+    "wof:geomhash":"05bebbafeca84a0cef48f312c00f9554",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072125,
+            "empire_id":136253037,
             "locality_id":101831837,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136314489
         }
     ],
     "wof:id":136314489,
-    "wof:lastmodified":1473798010,
+    "wof:lastmodified":1496777912,
     "wof:name":"Aide Aux Meres De Famille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

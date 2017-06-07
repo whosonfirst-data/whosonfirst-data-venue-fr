@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.985742,48.03331,5.985742,48.03331",
     "geom:latitude":48.03331,
     "geom:longitude":5.985742,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101885649,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404393219,
+        85633147,
+        1108826391,
+        101885649,
+        136253037,
         102067419
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0u514dfRrZEFAsHpAiDani_48.033310_5.985742@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8789da7ec1be2f6ad8875b824bcef0b",
+    "wof:geomhash":"197a164c4057f4e6987c9e3707c849a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067419,
+            "empire_id":136253037,
+            "localadmin_id":404393219,
             "locality_id":101885649,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":169245521
         }
     ],
     "wof:id":169245521,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496784171,
     "wof:name":"Tonnellerie De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

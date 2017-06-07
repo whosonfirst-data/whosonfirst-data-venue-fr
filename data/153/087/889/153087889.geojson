@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.045084,47.258949,6.045084,47.258949",
     "geom:latitude":47.258949,
     "geom:longitude":6.045084,
@@ -22,9 +23,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749003,
-        85633147,
         85683239,
+        102191581,
+        85633147,
+        404227637,
+        1108826395,
+        101749003,
+        136253037,
         102072391
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_3KZQPNvIHwaWFxcEPwsGRl_47.258949_6.045084@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c2a77259380981f33499fa9907c9813f",
+    "wof:geomhash":"80b9059b93ade0a76dfb1af613583f90",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072391,
+            "empire_id":136253037,
             "locality_id":101749003,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":153087889
         }
     ],
     "wof:id":153087889,
-    "wof:lastmodified":1473797987,
+    "wof:lastmodified":1496788383,
     "wof:name":"B.d.p.m.e. - Banque De D\u00e9veloppement Des P.m.e. S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

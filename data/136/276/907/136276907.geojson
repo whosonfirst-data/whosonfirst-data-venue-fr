@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.044817,47.355171,5.044817,47.355171",
     "geom:latitude":47.355171,
     "geom:longitude":5.044817,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_5BC6h5VyEAkAtFtzXMb9iT_47.355171_5.044817@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c5bc18ba5b230a9b4e67c2a6a41255e2",
+    "wof:geomhash":"36d968d33e516d9b4a68d59dbf1a0f3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136276907
         }
     ],
     "wof:id":136276907,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496794889,
     "wof:name":"Daniel Battistini Sa",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

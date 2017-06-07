@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.210524,47.00412,-0.210524,47.00412",
     "geom:latitude":47.00412,
     "geom:longitude":-0.210524,
@@ -38,28 +39,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829273,
-        85633147,
         85683163,
-        102070111
+        102191581,
+        404227759,
+        404426623,
+        85633147,
+        1108826385,
+        101829273,
+        136253037,
+        102072007
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pYbZcd0hBggYVYYXSlaYT_47.004120_-0.210524@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dd6a8f206bba582bdc2f9120ad0c64dd",
+    "wof:geomhash":"72c6d03e37b317cc6be61e6d54b3bb05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070111,
+            "county_id":102072007,
+            "empire_id":136253037,
+            "localadmin_id":404426623,
             "locality_id":101829273,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152087773
         }
     ],
     "wof:id":152087773,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496775537,
     "wof:name":"Sarl Atelier Mecanique Outillage Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

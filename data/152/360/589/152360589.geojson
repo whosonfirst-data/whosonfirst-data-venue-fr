@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.681791,48.602425,7.681791,48.602425",
     "geom:latitude":48.602425,
     "geom:longitude":7.681791,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cyKPXBeZLpXnXgk2Elmoz_48.602425_7.681791@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5904c8f1b60a2595cf64880e4cfc1700",
+    "wof:geomhash":"84d31c5b42b47c17eaeff358a206abff",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":152360589
         }
     ],
     "wof:id":152360589,
-    "wof:lastmodified":1473798381,
+    "wof:lastmodified":1496784542,
     "wof:name":"Charte Conseils S.a.r.l.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.734236,46.189201,4.734236,46.189201",
     "geom:latitude":46.189201,
     "geom:longitude":4.734236,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768419,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404381233,
+        85633147,
+        1108826395,
+        101768419,
+        136253037,
         102065799
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4DdV7hIumVtir2k1ye7kkT_46.189201_4.734236@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8cbbb72474f2bdfbef6e7b89bf96a7dc",
+    "wof:geomhash":"d5d17195df057e42f669b9c3c41e35fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065799,
+            "empire_id":136253037,
+            "localadmin_id":404381233,
             "locality_id":101768419,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152847059
         }
     ],
     "wof:id":152847059,
-    "wof:lastmodified":1473798547,
+    "wof:lastmodified":1496788799,
     "wof:name":"Vins Bertrand Pommier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

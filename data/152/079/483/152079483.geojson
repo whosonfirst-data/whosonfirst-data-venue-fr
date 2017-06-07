@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.48478,50.34993,3.48478,50.34993",
     "geom:latitude":50.34993,
     "geom:longitude":3.48478,
@@ -37,28 +38,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840765,
-        85633147,
         85683445,
-        102071821
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840765,
+        136253037,
+        102072385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VeWm5NrTxzVC7BNPu1DgV_50.349930_3.484780@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2c702cd7f4f5fcee751729b54043c3c",
+    "wof:geomhash":"b9f00f52c207f785b7a32ab241c041c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071821,
+            "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840765,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152079483
         }
     ],
     "wof:id":152079483,
-    "wof:lastmodified":1473798134,
+    "wof:lastmodified":1496790499,
     "wof:name":"Ameublement La Sentinelle Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

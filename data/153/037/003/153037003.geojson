@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.09548,45.782249,3.09548,45.782249",
     "geom:latitude":45.782249,
     "geom:longitude":3.09548,
@@ -22,9 +23,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0XjGZ7F0I04c65LBDFw2BQ_45.782249_3.095480@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8297f14fb1019a44faa38d15b09b16e5",
+    "wof:geomhash":"1a10d4a6e8c1c15126631620156bfd5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":153037003
         }
     ],
     "wof:id":153037003,
-    "wof:lastmodified":1473797964,
+    "wof:lastmodified":1496779770,
     "wof:name":"Cie Gle Des Ets Michelin Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

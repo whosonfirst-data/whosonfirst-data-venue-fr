@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.333607,43.475788,1.333607,43.475788",
     "geom:latitude":43.475788,
     "geom:longitude":1.333607,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831763,
-        85633147,
         85683397,
-        102071625
+        102191581,
+        404227653,
+        404356925,
+        85633147,
+        1108826387,
+        101831763,
+        136253037,
+        102068533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7adQDd4K0f7J76mDfxlWH5_43.475788_1.333607@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4e1862583e236ac12f6017830db150c2",
+    "wof:geomhash":"503d4bddedec1e78097d9ba53b3afc62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102068533,
+            "empire_id":136253037,
+            "localadmin_id":404356925,
             "locality_id":101831763,
+            "macrocounty_id":404227653,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152079861
         }
     ],
     "wof:id":152079861,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496778407,
     "wof:name":"Moulages Plastiques Du Midi Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

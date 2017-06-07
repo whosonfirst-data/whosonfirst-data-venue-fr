@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.675875,45.246651,4.675875,45.246651",
     "geom:latitude":45.246651,
     "geom:longitude":4.675875,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830467,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404366213,
+        85633147,
+        1108826389,
+        101830467,
+        136253037,
         102072493
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5gmvUhGRtr9mrd3lmPtCLM_45.246651_4.675875@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3bd5b8f4ef172e3a833e68559f87c540",
+    "wof:geomhash":"35592b27d972b0332b0afc19573b17d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072493,
+            "empire_id":136253037,
+            "localadmin_id":404366213,
             "locality_id":101830467,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152081773
         }
     ],
     "wof:id":152081773,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496801849,
     "wof:name":"Ste D'amenagement Urbain Et Rural (saur)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

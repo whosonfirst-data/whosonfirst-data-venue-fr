@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.096089,45.782055,3.096089,45.782055",
     "geom:latitude":45.782055,
     "geom:longitude":3.096089,
@@ -29,9 +30,14 @@
     "sg:province":"Auvergne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_1yFSsdD6E7G57JKhVNVgDH_45.782055_3.096089@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33a6c287cde7e7a6c0d2f269e460666f",
+    "wof:geomhash":"d7a02f58ceb3ff4ae2680eb856c1c290",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":136299979
         }
     ],
     "wof:id":136299979,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496780385,
     "wof:name":"Banque Populaire, Du Massif Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

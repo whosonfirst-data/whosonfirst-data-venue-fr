@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.455878,49.173302,2.455878,49.173302",
     "geom:latitude":49.173302,
     "geom:longitude":2.455878,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828497,
-        85633147,
         85683289,
+        102191581,
+        404228247,
+        404412541,
+        85633147,
+        1108826399,
+        101828497,
+        136253037,
         102070703
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5UYUqSWAh0bKk8EYjF9lk3_49.173302_2.455878@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"987374c17457e8a267203e17e4d31b5a",
+    "wof:geomhash":"f21dad053b747b094043c3ed127f407e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070703,
+            "empire_id":136253037,
+            "localadmin_id":404412541,
             "locality_id":101828497,
+            "macrocounty_id":404228247,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169126169
         }
     ],
     "wof:id":169126169,
-    "wof:lastmodified":1473798108,
+    "wof:lastmodified":1496791064,
     "wof:name":"S.c.e. Jardins S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

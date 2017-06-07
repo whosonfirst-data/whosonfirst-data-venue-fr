@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.917695,47.085255,4.917695,47.085255",
     "geom:latitude":47.085255,
     "geom:longitude":4.917695,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890703,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404383953,
+        85633147,
+        1108826395,
+        101890703,
+        136253037,
         102068705
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_6WgBIDcdTvrs3AIVrrp2zx_47.085255_4.917695@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ad24c8b618347b942f1dfffd863d0ca3",
+    "wof:geomhash":"9d28199b8fa465f09305e2023c9730ad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068705,
+            "empire_id":136253037,
+            "localadmin_id":404383953,
             "locality_id":101890703,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136274515
         }
     ],
     "wof:id":136274515,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496788779,
     "wof:name":"Agemo Conseil",
-    "wof:parent_id":101890703,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.710275,48.530052,7.710275,48.530052",
     "geom:latitude":48.530052,
     "geom:longitude":7.710275,
@@ -34,30 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CO1KKMhFXobQyxvBgIj8Q_48.530052_7.710275@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e89078e5aa53a8c5cdd9a9aa02a7a94",
+    "wof:geomhash":"474ee541bc017c3f19799f622030e0cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":153002819
         }
     ],
     "wof:id":153002819,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496784713,
     "wof:name":"Flender - Graffenstaden Sa",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

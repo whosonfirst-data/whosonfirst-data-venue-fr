@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.21204,49.25016,6.21204,49.25016",
     "geom:latitude":49.25016,
     "geom:longitude":6.21204,
@@ -22,28 +23,38 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101874669,
-        85633147,
         85683271,
-        102070603
+        102191581,
+        404228309,
+        404401201,
+        85633147,
+        1108826391,
+        101874669,
+        136253037,
+        102068321
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wQ3rzq5K45cgxSB9ARn2b_49.250160_6.212040@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d6657ecf9ae0a6a5c9caf9ecc82279b",
+    "wof:geomhash":"9d6caa387f041afbf8773b5e4ce1d01b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070603,
+            "county_id":102068321,
+            "empire_id":136253037,
+            "localadmin_id":404401201,
             "locality_id":101874669,
+            "macrocounty_id":404228309,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152621895
         }
     ],
     "wof:id":152621895,
-    "wof:lastmodified":1473798481,
+    "wof:lastmodified":1496785958,
     "wof:name":"Michel Imprimerie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

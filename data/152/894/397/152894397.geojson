@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.20678,45.774937,5.20678,45.774937",
     "geom:latitude":45.774937,
     "geom:longitude":5.20678,
@@ -28,9 +29,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101913313,
-        85633147,
         85683153,
+        102191581,
+        404227585,
+        404403987,
+        85633147,
+        1108826389,
+        101913313,
+        136253037,
         102067365
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_5afYR0dHeoF55zNxu6GPzE_45.774937_5.206780@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"76b99f267a831a4e2eab6a96a618a7aa",
+    "wof:geomhash":"72425da0dbed4dc63115e8d7ac9b49ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067365,
+            "empire_id":136253037,
+            "localadmin_id":404403987,
             "locality_id":101913313,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152894397
         }
     ],
     "wof:id":152894397,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496780125,
     "wof:name":"Ste D'extrusion Et Plastique Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

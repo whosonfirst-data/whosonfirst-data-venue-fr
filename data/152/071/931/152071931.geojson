@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.044215,49.164017,4.044215,49.164017",
     "geom:latitude":49.164017,
     "geom:longitude":4.044215,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101759863,
-        85633147,
         85683405,
+        102191581,
+        404228107,
+        404372815,
+        85633147,
+        1108826391,
+        101759863,
+        136253037,
         102069875
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5WcHqnne5zitOQyPkRsCMW_49.164017_4.044215@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a43910f9703b61829c2f173dfc1653d8",
+    "wof:geomhash":"82df2510b1a245ea6a30af43bce5d4fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069875,
+            "empire_id":136253037,
+            "localadmin_id":404372815,
             "locality_id":101759863,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071931
         }
     ],
     "wof:id":152071931,
-    "wof:lastmodified":1473798128,
+    "wof:lastmodified":1496786496,
     "wof:name":"Champagne Vilmart Et Compagnie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.453325,50.035526,1.453325,50.035526",
     "geom:latitude":50.035526,
     "geom:longitude":1.453325,
@@ -36,24 +37,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683251,
+        102191581,
         85633147,
-        85683251
+        404348043,
+        404227751,
+        1108826393,
+        136253037,
+        102067775
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5raQXhNtPeehz5vEhO0JY5_50.035526_1.453325@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"727a53a73e8c0b2b6be570202f5b581e",
+    "wof:geomhash":"e98f21e40a36316c6a2cee49e6c7aa97",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102067775,
+            "empire_id":136253037,
+            "localadmin_id":404348043,
+            "locality_id":-1,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136286105
         }
     ],
     "wof:id":136286105,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496786934,
     "wof:name":"Sarl La Ferme De Beaumont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

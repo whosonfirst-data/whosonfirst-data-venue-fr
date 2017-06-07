@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.735523,49.527401,5.735523,49.527401",
     "geom:latitude":49.527401,
     "geom:longitude":5.735523,
@@ -22,9 +23,14 @@
     "sg:province":"Lorraine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840213,
-        85633147,
         85683343,
+        102191581,
+        404227705,
+        404390317,
+        85633147,
+        1108826391,
+        101840213,
+        136253037,
         102070099
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6s22IiJtK8Fz1JZKdPo4tt_49.527401_5.735523@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"74cfd00f66e21d03cd0b7af435f4acf3",
+    "wof:geomhash":"206d5ab214db6fd8a7203cb21a8aef67",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070099,
+            "empire_id":136253037,
+            "localadmin_id":404390317,
             "locality_id":101840213,
+            "macrocounty_id":404227705,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":168928645
         }
     ],
     "wof:id":168928645,
-    "wof:lastmodified":1473798096,
+    "wof:lastmodified":1496785057,
     "wof:name":"Environnement 2000 E.u.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.082242,49.926361,1.082242,49.926361",
     "geom:latitude":49.926361,
     "geom:longitude":1.082242,
@@ -27,9 +28,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813749,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404425829,
+        85633147,
+        1108826393,
+        101813749,
+        136253037,
         102072005
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_2hskzmEakrMGMHvETfE0AK_49.926361_1.082242@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d838da78657b607737269d0cc59fe18e",
+    "wof:geomhash":"f2120f0d458b50e84fbca538ed265228",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072005,
+            "empire_id":136253037,
+            "localadmin_id":404425829,
             "locality_id":101813749,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136301323
         }
     ],
     "wof:id":136301323,
-    "wof:lastmodified":1473797998,
+    "wof:lastmodified":1496787121,
     "wof:name":"Caisse Regionale De Cr\u00e9dit, Maritime Mutuel Du Finist\u00e8re",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

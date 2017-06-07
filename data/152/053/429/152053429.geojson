@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.652785,48.170086,4.652785,48.170086",
     "geom:latitude":48.170086,
     "geom:longitude":4.652785,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101886105,
-        85633147,
         85683193,
+        102191581,
+        404227605,
+        404411631,
+        85633147,
+        1108826391,
+        101886105,
+        136253037,
         102064631
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3Rk8o20XZGKP1M7DC2rVi6_48.170086_4.652785@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7fb255d390798e01c54b6ea6a53eb7a",
+    "wof:geomhash":"5dede023ccdc418da226898708aad5b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064631,
+            "empire_id":136253037,
+            "localadmin_id":404411631,
             "locality_id":101886105,
+            "macrocounty_id":404227605,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152053429
         }
     ],
     "wof:id":152053429,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496784068,
     "wof:name":"Champagne Drappier S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

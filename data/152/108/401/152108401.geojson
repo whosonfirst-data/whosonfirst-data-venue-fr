@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.374624,43.501381,2.374624,43.501381",
     "geom:latitude":43.501381,
     "geom:longitude":2.374624,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831817,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404420721,
+        85633147,
+        1108826387,
+        101831817,
+        136253037,
         102071201
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1JWz1QoPoYghDgChj3T022_43.501381_2.374624@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e23e416cf716a430f0bddbc0f14eb46e",
+    "wof:geomhash":"2e83a577535829f9187959fe886069ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071201,
+            "empire_id":136253037,
+            "localadmin_id":404420721,
             "locality_id":101831817,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152108401
         }
     ],
     "wof:id":152108401,
-    "wof:lastmodified":1473798259,
+    "wof:lastmodified":1496803578,
     "wof:name":"Societe Francaise D'instruments De Chirurgie Sofic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

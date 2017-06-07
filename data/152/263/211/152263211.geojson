@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.419136,43.856777,4.419136,43.856777",
     "geom:latitude":43.856777,
     "geom:longitude":4.419136,
@@ -23,9 +24,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753191,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404416195,
+        85633147,
+        1108826387,
+        101753191,
+        136253037,
         102067253
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4JIuM2pldTyGYF3iAs74Za_43.856777_4.419136@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f8fe1b2e26446191dcf34eee8b74c97",
+    "wof:geomhash":"76b4e96cd2cae7666558711a8d55c4bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067253,
+            "empire_id":136253037,
+            "localadmin_id":404416195,
             "locality_id":101753191,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152263211
         }
     ],
     "wof:id":152263211,
-    "wof:lastmodified":1473798341,
+    "wof:lastmodified":1496778304,
     "wof:name":"Allier Et Compagnie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

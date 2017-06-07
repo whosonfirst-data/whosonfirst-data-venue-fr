@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.234715,46.88979,-0.234715,46.88979",
     "geom:latitude":46.88979,
     "geom:longitude":-0.234715,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765405,
-        85633147,
         85683163,
+        102191581,
+        404227759,
+        404423993,
+        85633147,
+        1108826385,
+        101765405,
+        136253037,
         102069303
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0iRCKT74kRL6nUlyuEACXj_46.889790_-0.234715@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"25344e095ce7ffcda61f4c0ef220cf36",
+    "wof:geomhash":"644ac22b3ed959aea458aded6d58028f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069303,
+            "empire_id":136253037,
+            "localadmin_id":404423993,
             "locality_id":101765405,
+            "macrocounty_id":404227759,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":152871909
         }
     ],
     "wof:id":152871909,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496798820,
     "wof:name":"Avenir Complexage Service (acs)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

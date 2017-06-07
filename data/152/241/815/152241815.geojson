@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.810616,45.746208,4.810616,45.746208",
     "geom:latitude":45.746208,
     "geom:longitude":4.810616,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750807,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415715,
+        85633147,
+        1108826389,
+        101750807,
+        136253037,
         102071559
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1T8y2crymeUrDZqdEiId76_45.746208_4.810616@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0f16f62762db3f464e752cd2b3280fed",
+    "wof:geomhash":"5b99a59e250eabddc1b188bfd21cc0ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071559,
+            "empire_id":136253037,
+            "localadmin_id":404415715,
             "locality_id":101750807,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152241815
         }
     ],
     "wof:id":152241815,
-    "wof:lastmodified":1473798335,
+    "wof:lastmodified":1496780321,
     "wof:name":"A.m.c. Marketing Op\u00e9rationnel S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

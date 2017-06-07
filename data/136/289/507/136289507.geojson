@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.69638,48.580238,7.69638,48.580238",
     "geom:latitude":48.580238,
     "geom:longitude":7.69638,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EM7zDnn71tNGMBliCm85M_48.580238_7.696380@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"828f1c500d460cb17b8746c52d75068c",
+    "wof:geomhash":"c4dea00ac3d159890629e89e9baec540",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":136289507
         }
     ],
     "wof:id":136289507,
-    "wof:lastmodified":1473797927,
+    "wof:lastmodified":1496784543,
     "wof:name":"Sonnendrucker Sa",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

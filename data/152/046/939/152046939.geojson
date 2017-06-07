@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361847,43.833813,4.361847,43.833813",
     "geom:latitude":43.833813,
     "geom:longitude":4.361847,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1ZcK5KgZKFmXDmJLS3Lgd1_43.833813_4.361847@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"857ed4d01945bfa873a901628a952524",
+    "wof:geomhash":"60a62d104dd00c0163bdf1a051da9757",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152046939
         }
     ],
     "wof:id":152046939,
-    "wof:lastmodified":1473797950,
+    "wof:lastmodified":1496778740,
     "wof:name":"Organisme Gestion Enseignement Catholique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

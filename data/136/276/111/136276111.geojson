@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.378547,45.466488,4.378547,45.466488",
     "geom:latitude":45.466488,
     "geom:longitude":4.378547,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750833,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404391533,
+        85633147,
+        1108826389,
+        101750833,
+        136253037,
         102068077
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_52T9HaZOznR0vduO4DsXul_45.466488_4.378547@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d27823e2fd917670f431967b0600567",
+    "wof:geomhash":"f836452f8121afeb80ee64bd30958d3a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068077,
+            "empire_id":136253037,
+            "localadmin_id":404391533,
             "locality_id":101750833,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":136276111
         }
     ],
     "wof:id":136276111,
-    "wof:lastmodified":1473797878,
+    "wof:lastmodified":1496779743,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel Loire Haute Loir (crcam Loire Haute Loire) St Etienne La ",
-    "wof:parent_id":101750833,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

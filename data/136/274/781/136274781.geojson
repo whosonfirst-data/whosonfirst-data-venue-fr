@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.663108,44.798378,-0.663108,44.798378",
     "geom:latitude":44.798378,
     "geom:longitude":-0.663108,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_31bNNtwrUuiuOi3No2XpRw_44.798378_-0.663108@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e905d3497d87a5a37e4d4e9af1c9e499",
+    "wof:geomhash":"fbd887fbb2b48290f92d7cdff9c968e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136274781
         }
     ],
     "wof:id":136274781,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496798254,
     "wof:name":"Axa Assurances Region Aquitaine",
-    "wof:parent_id":101750765,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

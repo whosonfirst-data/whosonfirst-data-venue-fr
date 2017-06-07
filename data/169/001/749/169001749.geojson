@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.802802,49.415401,2.802802,49.415401",
     "geom:latitude":49.415401,
     "geom:longitude":2.802802,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842419,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842419,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1qQpyON4SMYhpCPPvBBdU9_49.415401_2.802802@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9058bd94ecc2ba7634f47d65e617bf20",
+    "wof:geomhash":"3739b234b0c3b5312d0c5ecc682e16c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842419,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169001749
         }
     ],
     "wof:id":169001749,
-    "wof:lastmodified":1473797891,
+    "wof:lastmodified":1496795919,
     "wof:name":"Inergy Automotive Systems France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

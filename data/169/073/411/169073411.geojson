@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.105559,42.516312,3.105559,42.516312",
     "geom:latitude":42.516312,
     "geom:longitude":3.105559,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831575,
-        85633147,
         85683169,
+        102191581,
+        404227731,
+        404359079,
+        85633147,
+        1108826387,
+        101831575,
+        136253037,
         102067771
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7lDi8y8aOW75jvfSBmbELA_42.516312_3.105559@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5440b3802f4a9695ddc3b4b927943be5",
+    "wof:geomhash":"b926bbce7fbb4cd52b0fe1fe0d60aa0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067771,
+            "empire_id":136253037,
+            "localadmin_id":404359079,
             "locality_id":101831575,
+            "macrocounty_id":404227731,
+            "macroregion_id":1108826387,
             "region_id":85683169,
             "venue_id":169073411
         }
     ],
     "wof:id":169073411,
-    "wof:lastmodified":1473798051,
+    "wof:lastmodified":1496777629,
     "wof:name":"Newmag S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

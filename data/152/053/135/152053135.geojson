@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.82799,50.433029,2.82799,50.433029",
     "geom:latitude":50.433029,
     "geom:longitude":2.82799,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840497,
-        85633147,
         85683255,
+        102191581,
+        85633147,
+        404228311,
+        1108826399,
+        101840497,
+        136253037,
         102072031
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_56JluO4qT7jqOm43O42gOJ_50.433029_2.827990@1306269710"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6f48c7fab79a0fb7adba10f11823bcc1",
+    "wof:geomhash":"93a182e3eacfc1d56d907694aa6b978f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072031,
+            "empire_id":136253037,
             "locality_id":101840497,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152053135
         }
     ],
     "wof:id":152053135,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496790574,
     "wof:name":"Chambre De Commerce De Lens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

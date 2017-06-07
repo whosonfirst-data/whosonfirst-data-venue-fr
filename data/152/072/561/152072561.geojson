@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.962944,47.278824,2.962944,47.278824",
     "geom:latitude":47.278824,
     "geom:longitude":2.962944,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101843015,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404350873,
+        85633147,
+        1108826395,
+        101843015,
+        136253037,
         102067743
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5aaI9FfJzwpJ1K8CJFDzO1_47.278824_2.962944@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f84f09a38c318ebcbd74b78cb81d830e",
+    "wof:geomhash":"d80a67ef9ecd55b1e09dad070b42c095",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067743,
+            "empire_id":136253037,
+            "localadmin_id":404350873,
             "locality_id":101843015,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152072561
         }
     ],
     "wof:id":152072561,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496788290,
     "wof:name":"Domaine Tinel Blondelet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

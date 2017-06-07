@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.255366,43.341984,3.255366,43.341984",
     "geom:latitude":43.341984,
     "geom:longitude":3.255366,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749211,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404422507,
+        85633147,
+        1108826387,
+        101749211,
+        136253037,
         102072255
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0KOaNv4Cni4C9k0Y2p5lRZ_43.341984_3.255366@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8fd9f58e86ba3ac6b5a31218afd20dbb",
+    "wof:geomhash":"15058c9095e50d1d727b037ecbb039b0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072255,
+            "empire_id":136253037,
+            "localadmin_id":404422507,
             "locality_id":101749211,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152218121
         }
     ],
     "wof:id":152218121,
-    "wof:lastmodified":1473798327,
+    "wof:lastmodified":1496777715,
     "wof:name":"Beziers Equipement Auto Diesel (bead)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

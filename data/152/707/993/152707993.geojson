@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.400581,43.483414,1.400581,43.483414",
     "geom:latitude":43.483414,
     "geom:longitude":1.400581,
@@ -24,9 +25,14 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753147,
-        85633147,
         85683397,
+        102191581,
+        404227653,
+        404370755,
+        85633147,
+        1108826387,
+        101753147,
+        136253037,
         102071625
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1tkBWuBSVvSc2fFX40uwcX_43.483414_1.400581@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"96ad94647db4f0f0beb6150a85b15254",
+    "wof:geomhash":"310e47240545ee17c4015224037ad13c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071625,
+            "empire_id":136253037,
+            "localadmin_id":404370755,
             "locality_id":101753147,
+            "macrocounty_id":404227653,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152707993
         }
     ],
     "wof:id":152707993,
-    "wof:lastmodified":1473798498,
+    "wof:lastmodified":1496777792,
     "wof:name":"Rouquet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

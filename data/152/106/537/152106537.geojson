@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.1525,48.100258,5.1525,48.100258",
     "geom:latitude":48.100258,
     "geom:longitude":5.1525,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766225,
-        85633147,
         85683261,
+        102191581,
+        85633147,
+        404227699,
+        1108826391,
+        101766225,
+        136253037,
         102071879
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_3miG0ao7zShKDC2kbcD04C_48.100258_5.152500@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55a35da4e5428cf417900ad0ff592b10",
+    "wof:geomhash":"0586c157531f5f16a018bd4781a032d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071879,
+            "empire_id":136253037,
             "locality_id":101766225,
+            "macrocounty_id":404227699,
+            "macroregion_id":1108826391,
             "region_id":85683261,
             "venue_id":152106537
         }
     ],
     "wof:id":152106537,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496786169,
     "wof:name":"Aesculap Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

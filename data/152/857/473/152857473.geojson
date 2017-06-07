@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.680876,48.531807,7.680876,48.531807",
     "geom:latitude":48.531807,
     "geom:longitude":7.680876,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749751,
-        85633147,
         85683221,
+        102191581,
+        404228325,
+        404398443,
+        85633147,
+        1108826391,
+        101749751,
+        136253037,
         102065801
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5w9lRuzgRDui3d49ZQ5N6U_48.531807_7.680876@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"45f4780e50c08699d0dff55c3d86f06c",
+    "wof:geomhash":"aef08c2de2e36b86e09c72186154996c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065801,
+            "empire_id":136253037,
+            "localadmin_id":404398443,
             "locality_id":101749751,
+            "macrocounty_id":404228325,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152857473
         }
     ],
     "wof:id":152857473,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496784399,
     "wof:name":"Imprimerie Uni - Est Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.2053,43.565914,4.2053,43.565914",
     "geom:latitude":43.565914,
     "geom:longitude":4.2053,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774093,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404365857,
+        85633147,
+        1108826387,
+        101774093,
+        136253037,
         102064323
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1cHFc21stOUl8EzyqRuKQm_43.565914_4.205300@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b7c8fa64974ca7ed8e86e79d6d2eb4ea",
+    "wof:geomhash":"74c29cd40065ee9438c9c55d71d73b87",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064323,
+            "empire_id":136253037,
+            "localadmin_id":404365857,
             "locality_id":101774093,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":152072591
         }
     ],
     "wof:id":152072591,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496778711,
     "wof:name":"Domaines Listel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

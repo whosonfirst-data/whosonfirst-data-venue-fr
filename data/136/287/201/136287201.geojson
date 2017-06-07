@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.596192,48.017628,6.596192,48.017628",
     "geom:latitude":48.017628,
     "geom:longitude":6.596192,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829635,
-        85633147,
         85683223,
+        102191581,
+        404227779,
+        404353553,
+        85633147,
+        1108826391,
+        101829635,
+        136253037,
         102068567
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0U36apKE8kcOehndXpB9OI_48.017628_6.596192@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bd29993727d1a19a52a9f3a5e3abd072",
+    "wof:geomhash":"d20f0f15e6955192ff1b2a6aeb3de90f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068567,
+            "empire_id":136253037,
+            "localadmin_id":404353553,
             "locality_id":101829635,
+            "macrocounty_id":404227779,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136287201
         }
     ],
     "wof:id":136287201,
-    "wof:lastmodified":1473797896,
+    "wof:lastmodified":1496784526,
     "wof:name":"Cooperative Agricole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

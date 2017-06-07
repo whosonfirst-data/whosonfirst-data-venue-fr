@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.52697,50.35635,3.52697,50.35635",
     "geom:latitude":50.35635,
     "geom:longitude":3.52697,
@@ -29,9 +30,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840599,
-        85633147,
         85683445,
+        102191581,
+        404228303,
+        404425095,
+        85633147,
+        1108826399,
+        101840599,
+        136253037,
         102072385
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_3Dva6S1FE00hawYfrPERcG_50.356350_3.526970@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8a16a7f794f3015784e475e7950668b1",
+    "wof:geomhash":"636a580ec8699804c50975edc7f70480",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072385,
+            "empire_id":136253037,
+            "localadmin_id":404425095,
             "locality_id":101840599,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":136308911
         }
     ],
     "wof:id":136308911,
-    "wof:lastmodified":1473798030,
+    "wof:lastmodified":1496790324,
     "wof:name":"Sovac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

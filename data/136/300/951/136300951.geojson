@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.170627,44.66095,-1.170627,44.66095",
     "geom:latitude":44.66095,
     "geom:longitude":-1.170627,
@@ -29,9 +30,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830729,
-        85633147,
         85683243,
+        102191581,
+        85633147,
+        404228299,
+        1108826385,
+        101830729,
+        136253037,
         102064427
     ],
     "wof:breaches":[],
@@ -39,18 +44,22 @@
         "sg:id":"SG_2Mba5RxEQ8fdFUUrpIfrlE_44.660950_-1.170627@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"957c5dc747ac3d55ddbf06c35246602c",
+    "wof:geomhash":"96386164ecdc83e6045ed0888a706e39",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064427,
+            "empire_id":136253037,
             "locality_id":101830729,
+            "macrocounty_id":404228299,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":136300951
         }
     ],
     "wof:id":136300951,
-    "wof:lastmodified":1473798014,
+    "wof:lastmodified":1496798095,
     "wof:name":"Caisse Cr\u00e9dit Mutuel D'arcachon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

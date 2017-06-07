@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.050268,45.602062,-0.050268,45.602062",
     "geom:latitude":45.602062,
     "geom:longitude":-0.050268,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768061,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404357977,
+        85633147,
+        1108826385,
+        101768061,
+        136253037,
         102066481
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_60UbIP5X6nz1aHWLLIPtgs_45.602062_-0.050268@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"773ff29f35aeb3984ee62da5b288b04d",
+    "wof:geomhash":"6a231cf0e4d93eac4af2a812da8a6dc2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066481,
+            "empire_id":136253037,
+            "localadmin_id":404357977,
             "locality_id":101768061,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152169211
         }
     ],
     "wof:id":152169211,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496777223,
     "wof:name":"Vincent Freres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

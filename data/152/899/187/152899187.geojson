@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.656705,44.779228,-0.656705,44.779228",
     "geom:latitude":44.779228,
     "geom:longitude":-0.656705,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750765,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404389567,
+        85633147,
+        1108826385,
+        101750765,
+        136253037,
         102072149
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_49PJ6DWmxV1zxbvoyYA0VF_44.779228_-0.656705@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ad084e4bf6c65528b62222418141aa6b",
+    "wof:geomhash":"f6a879a8c08d45cbd3d9e05f699bdfcf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072149,
+            "empire_id":136253037,
+            "localadmin_id":404389567,
             "locality_id":101750765,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152899187
         }
     ],
     "wof:id":152899187,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775957,
     "wof:name":"Ns Asv Mettler Toledo Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

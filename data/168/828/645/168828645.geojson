@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.375703,45.416824,4.375703,45.416824",
     "geom:latitude":45.416824,
     "geom:longitude":4.375703,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5yh68yWQPUilkNsQ9dfwZ5_45.416824_4.375703@1306269768"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7dd8551b88a9bce489ad9dc456959968",
+    "wof:geomhash":"f85812207a284764c68f7414a9f040d2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168828645
         }
     ],
     "wof:id":168828645,
-    "wof:lastmodified":1473797885,
+    "wof:lastmodified":1496780047,
     "wof:name":"Beugnet Travaux Du Forez S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

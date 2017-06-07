@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.128837,49.440269,1.128837,49.440269",
     "geom:latitude":49.440269,
     "geom:longitude":1.128837,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751447,
-        85633147,
         85683251,
+        102191581,
+        85633147,
+        404228157,
+        1108826393,
+        101751447,
+        136253037,
         102072541
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_0RBZSsurr37MnwGKmdDCos_49.440269_1.128837@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"39dc359a6109802a53b3d1ee8fca2edd",
+    "wof:geomhash":"f0c27e237debb326f168acba3eb0b26e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072541,
+            "empire_id":136253037,
             "locality_id":101751447,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152112831
         }
     ],
     "wof:id":152112831,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496804821,
     "wof:name":"Euro Steam Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.473618,44.865353,-0.473618,44.865353",
     "geom:latitude":44.865353,
     "geom:longitude":-0.473618,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753219,
-        85633147,
         85683243,
+        102191581,
+        404227869,
+        404386081,
+        85633147,
+        1108826385,
+        101753219,
+        136253037,
         102071687
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0oZGVxTaZHICg7VkFde7dY_44.865353_-0.473618@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f50d4980afa4b1632456a2334715161",
+    "wof:geomhash":"d0fa5bcd29104b59b7f047151265916f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071687,
+            "empire_id":136253037,
+            "localadmin_id":404386081,
             "locality_id":101753219,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "region_id":85683243,
             "venue_id":152106533
         }
     ],
     "wof:id":152106533,
-    "wof:lastmodified":1473798231,
+    "wof:lastmodified":1496777129,
     "wof:name":"Actuel Dentaire Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

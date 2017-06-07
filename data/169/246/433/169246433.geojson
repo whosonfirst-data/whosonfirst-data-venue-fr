@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.544233,44.885326,-0.544233,44.885326",
     "geom:latitude":44.885326,
     "geom:longitude":-0.544233,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E8K7HQf0K6D9BUbROEtQc_44.885326_-0.544233@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"92325ba235d2382dc7f542b452afa6ca",
+    "wof:geomhash":"c1da4cbd483a036d2b4a1302cc4513ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169246433
         }
     ],
     "wof:id":169246433,
-    "wof:lastmodified":1473798284,
+    "wof:lastmodified":1496776949,
     "wof:name":"Porte Fr\u00e8res S.a",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

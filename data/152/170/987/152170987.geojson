@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.057142,49.286713,4.057142,49.286713",
     "geom:latitude":49.286713,
     "geom:longitude":4.057142,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750089,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101750089,
+        136253037,
         102068457
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_4cK59Wjyp4RVcbeERM1LG4_49.286713_4.057142@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c6d918dd74de8f8daadf481bf022f5fb",
+    "wof:geomhash":"6193e095103aa8d336d43b80c689012b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068457,
+            "empire_id":136253037,
             "locality_id":101750089,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152170987
         }
     ],
     "wof:id":152170987,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496785874,
     "wof:name":"Papeterie De Picardie Champagne Ardennes (ppca)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

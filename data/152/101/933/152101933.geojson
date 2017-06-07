@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.591095,43.610256,0.591095,43.610256",
     "geom:latitude":43.610256,
     "geom:longitude":0.591095,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772593,
-        85633147,
         85683467,
+        102191581,
+        404227655,
+        404357299,
+        85633147,
+        1108826387,
+        101772593,
+        136253037,
         102069933
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4HODjbPgnrb59dlLYoUI98_43.610256_0.591095@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"22313e1bf9cfdabf418c5739312d10b9",
+    "wof:geomhash":"6f7708fbf116a4ffb11ef3fa9b568932",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069933,
+            "empire_id":136253037,
+            "localadmin_id":404357299,
             "locality_id":101772593,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152101933
         }
     ],
     "wof:id":152101933,
-    "wof:lastmodified":1473798244,
+    "wof:lastmodified":1496778113,
     "wof:name":"Beton Chantier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

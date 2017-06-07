@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.41736,43.5508,1.41736,43.5508",
     "geom:latitude":43.5508,
     "geom:longitude":1.41736,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
-        85633147,
         85794667,
-        102071625
+        102191581,
+        85633147,
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gGLJMau1EYF7VC1EB2dfW_43.550800_1.417360@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a37ff016b4fb17ab22dd19df0a2779ce",
+    "wof:geomhash":"75be7cfe4e1464ec072f00679b7306e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071625,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794667,
             "region_id":85683397,
             "venue_id":136290621
         }
     ],
     "wof:id":136290621,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496778378,
     "wof:name":"Sefimex S.a",
     "wof:parent_id":85794667,
     "wof:placetype":"venue",

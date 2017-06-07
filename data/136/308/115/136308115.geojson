@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.72579,48.501816,3.72579,48.501816",
     "geom:latitude":48.501816,
     "geom:longitude":3.72579,
@@ -29,8 +30,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683193,
+        102191581,
         85633147,
-        85683193
+        404368925,
+        404227817,
+        1108826391,
+        136253037,
+        102072137
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -38,16 +45,23 @@
         "sg:id":"SG_2PR7Ad0UtzPivMu5YQHSGZ_48.501816_3.725790@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"248b1034405ba93b591f899cb1579f5d",
+    "wof:geomhash":"ef274bb341890a405723769cd806b0db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102072137,
+            "empire_id":136253037,
+            "localadmin_id":404368925,
+            "locality_id":-1,
+            "macrocounty_id":404227817,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":136308115
         }
     ],
     "wof:id":136308115,
-    "wof:lastmodified":1473797985,
+    "wof:lastmodified":1496786548,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

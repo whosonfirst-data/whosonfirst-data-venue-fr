@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.565846,45.164028,1.565846,45.164028",
     "geom:latitude":45.164028,
     "geom:longitude":1.565846,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830661,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404383753,
+        85633147,
+        1108826385,
+        101830661,
+        136253037,
         102070365
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4XqJZbR8W0eiBCHigEqIUJ_45.164028_1.565846@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2f8182b9d633bcb92e2ca491a01ebd37",
+    "wof:geomhash":"e488346f441c9d7ba28ee53173ef39db",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070365,
+            "empire_id":136253037,
+            "localadmin_id":404383753,
             "locality_id":101830661,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":152187499
         }
     ],
     "wof:id":152187499,
-    "wof:lastmodified":1473798316,
+    "wof:lastmodified":1496776125,
     "wof:name":"Hycamep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

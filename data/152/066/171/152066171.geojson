@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.348669,45.695053,-0.348669,45.695053",
     "geom:latitude":45.695053,
     "geom:longitude":-0.348669,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829059,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404369475,
+        85633147,
+        1108826385,
+        101829059,
+        136253037,
         102072143
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5edtYwIj64rf0wjnwF2DQZ_45.695053_-0.348669@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"308ec4659ef8dbb6a090a222d26ecdd9",
+    "wof:geomhash":"4ce0adfc12dacf79d0fcdbb9177159fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072143,
+            "empire_id":136253037,
+            "localadmin_id":404369475,
             "locality_id":101829059,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152066171
         }
     ],
     "wof:id":152066171,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496776009,
     "wof:name":"Colas Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

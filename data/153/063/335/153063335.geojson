@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.559056,47.214371,-1.559056,47.214371",
     "geom:latitude":47.214371,
     "geom:longitude":-1.559056,
@@ -22,11 +23,14 @@
     "sg:province":"Pays de Loire",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897695,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897695
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,16 +40,19 @@
     "wof:geomhash":"5e7da7d0f7c859ba50e0dcb0280de855",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897695,
             "region_id":85683233,
             "venue_id":153063335
         }
     ],
     "wof:id":153063335,
-    "wof:lastmodified":1473797960,
+    "wof:lastmodified":1491937886,
     "wof:name":"Air Afrique",
     "wof:parent_id":85897695,
     "wof:placetype":"venue",

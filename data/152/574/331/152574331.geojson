@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.796619,49.861446,3.796619,49.861446",
     "geom:latitude":49.861446,
     "geom:longitude":3.796619,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899999,
-        85633147,
         85683247,
+        102191581,
+        404228269,
+        404418567,
+        85633147,
+        1108826399,
+        101899999,
+        136253037,
         102070483
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0RljIMwwBjo0sqy862lufk_49.861446_3.796619@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"153328ac36037b6f67d4d3cbd841c5b7",
+    "wof:geomhash":"419fd9864e8d003fe70aaab8fbc53267",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070483,
+            "empire_id":136253037,
+            "localadmin_id":404418567,
             "locality_id":101899999,
+            "macrocounty_id":404228269,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":152574331
         }
     ],
     "wof:id":152574331,
-    "wof:lastmodified":1473798462,
+    "wof:lastmodified":1496795719,
     "wof:name":"Lambert S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

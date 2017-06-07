@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.79938,50.934914,1.79938,50.934914",
     "geom:latitude":50.934914,
     "geom:longitude":1.79938,
@@ -24,9 +25,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753599,
-        85633147,
         85683255,
+        102191581,
+        404228305,
+        404416443,
+        85633147,
+        1108826399,
+        101753599,
+        136253037,
         102067165
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3uLXGz7lt4bvz7uNWSUpr5_50.934914_1.799380@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"12f7d36038065b5c616df1d10569e4d5",
+    "wof:geomhash":"b6b0c651d57a88c04735127585ef0098",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067165,
+            "empire_id":136253037,
+            "localadmin_id":404416443,
             "locality_id":101753599,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152830111
         }
     ],
     "wof:id":152830111,
-    "wof:lastmodified":1473798542,
+    "wof:lastmodified":1496790504,
     "wof:name":"Transports Wellaert S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

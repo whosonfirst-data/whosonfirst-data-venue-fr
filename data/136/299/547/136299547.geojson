@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.06031,47.334435,5.06031,47.334435",
     "geom:latitude":47.334435,
     "geom:longitude":5.06031,
@@ -27,9 +28,13 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_5ZBBiEaRrkWQPtBeudyMDy_47.334435_5.060310@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6477845ecbdbe1d248cc896f40d39087",
+    "wof:geomhash":"a82f76e5f241545e4371051a2f7e4bcd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136299547
         }
     ],
     "wof:id":136299547,
-    "wof:lastmodified":1473798019,
+    "wof:lastmodified":1496788687,
     "wof:name":"Banque Populaire De Bourgogne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

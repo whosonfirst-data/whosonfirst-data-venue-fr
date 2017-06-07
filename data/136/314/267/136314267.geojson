@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.044355,47.357307,5.044355,47.357307",
     "geom:latitude":47.357307,
     "geom:longitude":5.044355,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_2ximssCcZLNwPIBTL9Ia9G_47.357307_5.044355@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"77e6685409d9eab7de8805f19e413234",
+    "wof:geomhash":"bfebe92cd78a4e225fcd632288a0b4de",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136314267
         }
     ],
     "wof:id":136314267,
-    "wof:lastmodified":1473797997,
+    "wof:lastmodified":1496788345,
     "wof:name":"Sa Cegid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

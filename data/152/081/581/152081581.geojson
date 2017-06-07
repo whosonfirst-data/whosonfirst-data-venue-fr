@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.827525,49.357147,0.827525,49.357147",
     "geom:latitude":49.357147,
     "geom:longitude":0.827525,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761625,
-        85633147,
         85683283,
+        102191581,
+        404227853,
+        404355103,
+        85633147,
+        1108826393,
+        101761625,
+        136253037,
         102069823
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4VtIkefBNi4dqotZo0akiK_49.357147_0.827525@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4bbbd07b5d8306b22fba2942d00b300a",
+    "wof:geomhash":"10cdf921a92be0545349fcbd63c9a968",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069823,
+            "empire_id":136253037,
+            "localadmin_id":404355103,
             "locality_id":101761625,
+            "macrocounty_id":404227853,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152081581
         }
     ],
     "wof:id":152081581,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496787227,
     "wof:name":"Saur France (cise)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

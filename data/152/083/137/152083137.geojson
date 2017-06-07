@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.938347,43.59058,3.938347,43.59058",
     "geom:latitude":43.59058,
     "geom:longitude":3.938347,
@@ -37,26 +38,42 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544757,
+        85683419,
+        102191581,
+        404228073,
+        404410881,
         85633147,
-        85683419
+        1108826387,
+        136253037,
+        102071489
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GeKauoYNU17OULAEBL8iN_43.590580_3.938347@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abf9a85c29e1f99647ed5dd1bdb4115e",
+    "wof:geomhash":"01330e285ba7b3f5ff1f7fdbbec55f66",
     "wof:hierarchy":[
         {
+            "campus_id":102544757,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071489,
+            "empire_id":136253037,
+            "localadmin_id":404410881,
+            "locality_id":-1,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":-1,
             "region_id":85683419,
             "venue_id":152083137
         }
     ],
     "wof:id":152083137,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496778336,
     "wof:name":"Bio-uv",
-    "wof:parent_id":-1,
+    "wof:parent_id":102544757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

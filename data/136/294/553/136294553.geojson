@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.373821,43.486725,2.373821,43.486725",
     "geom:latitude":43.486725,
     "geom:longitude":2.373821,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831835,
-        85633147,
         85683603,
+        102191581,
+        404227975,
+        404354999,
+        85633147,
+        1108826387,
+        101831835,
+        136253037,
         102072479
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5rPPSdEeOhrEoRLLii0iUN_43.486725_2.373821@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"84e59d09bfb85496f7a5f4867987a145",
+    "wof:geomhash":"8f6bc59b7cd54c0286259a4a03e8b294",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072479,
+            "empire_id":136253037,
+            "localadmin_id":404354999,
             "locality_id":101831835,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136294553
         }
     ],
     "wof:id":136294553,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496778665,
     "wof:name":"France Contentieux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

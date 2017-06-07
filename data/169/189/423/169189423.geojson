@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.084048,44.316559,0.084048,44.316559",
     "geom:latitude":44.316559,
     "geom:longitude":0.084048,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771641,
-        85633147,
         85683341,
+        102191581,
+        404228231,
+        404375709,
+        85633147,
+        1108826385,
+        101771641,
+        136253037,
         102065597
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_0IiAD22qUoXiBb0CJErP5C_44.316559_0.084048@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6bfb86943659c1aa7197fadc6bd35185",
+    "wof:geomhash":"74b5babb03f2de5437dd2fb42fd40f50",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065597,
+            "empire_id":136253037,
+            "localadmin_id":404375709,
             "locality_id":101771641,
+            "macrocounty_id":404228231,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":169189423
         }
     ],
     "wof:id":169189423,
-    "wof:lastmodified":1473798219,
+    "wof:lastmodified":1496777335,
     "wof:name":"T.a.i.s.t. Vigier S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

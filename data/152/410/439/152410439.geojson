@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.725584,46.935593,4.725584,46.935593",
     "geom:latitude":46.935593,
     "geom:longitude":4.725584,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101890775,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404356415,
+        85633147,
+        1108826395,
+        101890775,
+        136253037,
         102068525
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5tSDIBlC8DG37GfM5PUSzy_46.935593_4.725584@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7c47e166f8f2fe6a6428ac1dcbf9f401",
+    "wof:geomhash":"fc453359484e44febbf2bbfdad4a3ef3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068525,
+            "empire_id":136253037,
+            "localadmin_id":404356415,
             "locality_id":101890775,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152410439
         }
     ],
     "wof:id":152410439,
-    "wof:lastmodified":1473798403,
+    "wof:lastmodified":1496788277,
     "wof:name":"Domaine Bachelet Et Ramonet S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

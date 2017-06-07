@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.35794,44.014294,1.35794,44.014294",
     "geom:latitude":44.014294,
     "geom:longitude":1.35794,
@@ -27,9 +28,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749289,
-        85633147,
         85683217,
+        102191581,
+        404227977,
+        404360243,
+        85633147,
+        1108826387,
+        101749289,
+        136253037,
         102072481
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_5QbOsg2vBDu0p4bscWaWMk_44.014294_1.357940@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"311082835f7e321f0b0bd16b56387220",
+    "wof:geomhash":"d9d50588474f1bf61b4ca745f1ec4d37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072481,
+            "empire_id":136253037,
+            "localadmin_id":404360243,
             "locality_id":101749289,
+            "macrocounty_id":404227977,
+            "macroregion_id":1108826387,
             "region_id":85683217,
             "venue_id":136303511
         }
     ],
     "wof:id":136303511,
-    "wof:lastmodified":1473798013,
+    "wof:lastmodified":1496777659,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

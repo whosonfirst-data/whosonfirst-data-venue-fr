@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.020549,48.744114,-0.020549,48.744114",
     "geom:latitude":48.744114,
     "geom:longitude":-0.020549,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762603,
-        85633147,
         85683527,
+        102191581,
+        404227931,
+        404357711,
+        85633147,
+        1108826393,
+        101762603,
+        136253037,
         102072163
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_5AFCyTEYIBXmrs64AK5V56_48.744114_-0.020549@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f7cac9b7f5ed6cf06d15183b1a5aff98",
+    "wof:geomhash":"92a8ec0d8064257aaf300e375ece91af",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072163,
+            "empire_id":136253037,
+            "localadmin_id":404357711,
             "locality_id":101762603,
+            "macrocounty_id":404227931,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":169240065
         }
     ],
     "wof:id":169240065,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496787408,
     "wof:name":"Huis Clos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

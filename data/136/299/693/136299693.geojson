@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.731461,45.1931,5.731461,45.1931",
     "geom:latitude":45.1931,
     "geom:longitude":5.731461,
@@ -28,9 +29,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_5c8CuAWFFF5FSm9eQ08feL_45.193100_5.731461@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f8d58b0e5a554a054471e814ddae5ea3",
+    "wof:geomhash":"7bec084bd30274c3a83b0aaabbe611c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136299693
         }
     ],
     "wof:id":136299693,
-    "wof:lastmodified":1473798028,
+    "wof:lastmodified":1496782119,
     "wof:name":"Banque Populaire De Region, Dauphinoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

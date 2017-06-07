@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.890958,45.696514,5.890958,45.696514",
     "geom:latitude":45.696514,
     "geom:longitude":5.890958,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830651,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404395737,
+        85633147,
+        1108826389,
+        101830651,
+        136253037,
         102070549
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0eSBW5E8HlvLxm9dPq0Nns_45.696514_5.890958@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ee626fdf635c1f82ace2a175665f18d8",
+    "wof:geomhash":"2bc4fe81ce4b376f3ce906077636f802",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070549,
+            "empire_id":136253037,
+            "localadmin_id":404395737,
             "locality_id":101830651,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152126537
         }
     ],
     "wof:id":152126537,
-    "wof:lastmodified":1473798295,
+    "wof:lastmodified":1496801836,
     "wof:name":"Techni Poudre Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

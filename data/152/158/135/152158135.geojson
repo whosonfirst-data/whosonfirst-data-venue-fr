@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.185322,48.645836,6.185322,48.645836",
     "geom:latitude":48.645836,
     "geom:longitude":6.185322,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750119,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404382171,
+        85633147,
+        1108826391,
+        101750119,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0n6DDjnIVrvQaOtMRHzYqu_48.645836_6.185322@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cc916c1a238b1cdaacd8739b61675e36",
+    "wof:geomhash":"9d3026a4b53924b20c30862990aa200c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404382171,
             "locality_id":101750119,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152158135
         }
     ],
     "wof:id":152158135,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496793936,
     "wof:name":"Soderel Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

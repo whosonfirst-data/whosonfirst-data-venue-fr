@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.030761,50.606922,3.030761,50.606922",
     "geom:latitude":50.606922,
     "geom:longitude":3.030761,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683445,
-        85633147,
         85863287,
-        102071875
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101750277,
+        136253037,
+        102071951,
+        85683445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ND9TLJIRk7av2dvJwdKs1_50.606922_3.030761@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a117682bb69f8e7879f1731b3fa74926",
+    "wof:geomhash":"08c1694ccce8cb67c9e93acd733ee8f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071875,
+            "county_id":102071951,
+            "empire_id":136253037,
+            "locality_id":101750277,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863287,
             "region_id":85683445,
             "venue_id":168878751
         }
     ],
     "wof:id":168878751,
-    "wof:lastmodified":1473798024,
+    "wof:lastmodified":1496791810,
     "wof:name":"Cognitis S.a.",
     "wof:parent_id":85863287,
     "wof:placetype":"venue",

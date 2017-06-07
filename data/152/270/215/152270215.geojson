@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.853275,45.706181,0.853275,45.706181",
     "geom:latitude":45.706181,
     "geom:longitude":0.853275,
@@ -23,9 +24,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768249,
-        85633147,
         85683531,
+        102191581,
+        404228177,
+        404360853,
+        85633147,
+        1108826385,
+        101768249,
+        136253037,
         102068105
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4Da0Iyfau25WG19mjThEuS_45.706181_0.853275@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b8307a9192a5ede67f5c77e23dab4b51",
+    "wof:geomhash":"0772ca985b61ac06ad2e4d8eda3abe37",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068105,
+            "empire_id":136253037,
+            "localadmin_id":404360853,
             "locality_id":101768249,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152270215
         }
     ],
     "wof:id":152270215,
-    "wof:lastmodified":1473798345,
+    "wof:lastmodified":1496775925,
     "wof:name":"Antoine Morel S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

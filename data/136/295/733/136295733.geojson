@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.344763,43.816517,4.344763,43.816517",
     "geom:latitude":43.816517,
     "geom:longitude":4.344763,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7NeFNqk4XIHtQnOsOKBPZh_43.816517_4.344763@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d6e7f2fd399204d0fe81f526ab2c4c1",
+    "wof:geomhash":"bf950a94cdf1f4df37b552ed0e9c1a4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136295733
         }
     ],
     "wof:id":136295733,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496778307,
     "wof:name":"Mutualite Gardoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

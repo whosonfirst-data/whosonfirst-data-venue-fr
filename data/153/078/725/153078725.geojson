@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.368092,43.64183,1.368092,43.64183",
     "geom:latitude":43.64183,
     "geom:longitude":1.368092,
@@ -22,32 +23,55 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fJDb2gCE0QsNtUEk1clcZ_43.641830_1.368092@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a51801b6b93b9e02212554d4f4f026b3",
+    "wof:geomhash":"7f1ef31c6e391062f959b89bb59d8a15",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":153078725
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":153078725
         }
     ],
     "wof:id":153078725,
-    "wof:lastmodified":1473797992,
+    "wof:lastmodified":1496778391,
     "wof:name":"Assystem Etudes S.a.s.",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

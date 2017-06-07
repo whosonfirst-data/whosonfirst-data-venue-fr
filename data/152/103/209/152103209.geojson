@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.422333,46.124374,3.422333,46.124374",
     "geom:latitude":46.124374,
     "geom:longitude":3.422333,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829199,
-        85633147,
         85683293,
+        102191581,
+        404228011,
+        404384829,
+        85633147,
+        1108826389,
+        101829199,
+        136253037,
         102072181
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_7fEnckEyi1NNFqkyKwQQo5_46.124374_3.422333@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fd737cb6dc75133a19ae41cf71dbe183",
+    "wof:geomhash":"5b73611196d234ef13df6323d14bc5da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072181,
+            "empire_id":136253037,
+            "localadmin_id":404384829,
             "locality_id":101829199,
+            "macrocounty_id":404228011,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152103209
         }
     ],
     "wof:id":152103209,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496781904,
     "wof:name":"Foch Optic Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

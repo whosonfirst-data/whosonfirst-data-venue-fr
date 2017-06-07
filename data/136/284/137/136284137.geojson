@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.355442,48.744476,7.355442,48.744476",
     "geom:latitude":48.744476,
     "geom:longitude":7.355442,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827821,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404382531,
+        85633147,
+        1108826391,
+        101827821,
+        136253037,
         102068313
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_2xwAjmpgo9ckiwdq80sffA_48.744476_7.355442@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6eded1a59b52a2ff7b398fee1e572005",
+    "wof:geomhash":"a5f4f93cb26675df3389a21d99aa4415",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068313,
+            "empire_id":136253037,
+            "localadmin_id":404382531,
             "locality_id":101827821,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136284137
         }
     ],
     "wof:id":136284137,
-    "wof:lastmodified":1473797893,
+    "wof:lastmodified":1496784545,
     "wof:name":"Kuhn Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

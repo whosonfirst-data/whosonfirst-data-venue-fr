@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.629301,44.205193,0.629301,44.205193",
     "geom:latitude":44.205193,
     "geom:longitude":0.629301,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831905,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831905,
+        136253037,
         102072409
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1WJFAco1WwAvG3sSQLZXIe_44.205193_0.629301@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c9b41ca24159b7a43eb1e02121465bc1",
+    "wof:geomhash":"09d011d2bb51b999f501ac7980870afa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072409,
+            "empire_id":136253037,
             "locality_id":101831905,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152953635
         }
     ],
     "wof:id":152953635,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776608,
     "wof:name":"Cayrou Demenagements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

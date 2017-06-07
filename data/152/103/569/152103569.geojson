@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.895354,44.943214,4.895354,44.943214",
     "geom:latitude":44.943214,
     "geom:longitude":4.895354,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748961,
-        85633147,
         85683523,
+        102191581,
+        404228053,
+        404372845,
+        85633147,
+        1108826389,
+        101748961,
+        136253037,
         102070171
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_096XmpBdmR48MK35J6G1tG_44.943214_4.895354@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8ec4d1e5f620524a992b9e896fea3f06",
+    "wof:geomhash":"936f6e090150f367a793225b2a14507f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070171,
+            "empire_id":136253037,
+            "localadmin_id":404372845,
             "locality_id":101748961,
+            "macrocounty_id":404228053,
+            "macroregion_id":1108826389,
             "region_id":85683523,
             "venue_id":152103569
         }
     ],
     "wof:id":152103569,
-    "wof:lastmodified":1473798237,
+    "wof:lastmodified":1496780587,
     "wof:name":"Bourg Manutention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

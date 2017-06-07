@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.35252,46.598751,0.35252,46.598751",
     "geom:latitude":46.598751,
     "geom:longitude":0.35252,
@@ -33,16 +34,37 @@
         "motor-cars"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101749519,
+        136253037,
+        102068477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QZANgufQ0UYt7oup4stYc_46.598751_0.352520@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"029e7b589f86c2327a7b4bec1bbf8d6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf3cfc7c33cd369a0ad382b1b2babe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068477,
+            "empire_id":136253037,
+            "locality_id":101749519,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
+            "region_id":85683185,
+            "venue_id":152114055
+        }
+    ],
     "wof:id":152114055,
-    "wof:lastmodified":1473798254,
+    "wof:lastmodified":1496776634,
     "wof:name":"Fournitures Industrielles Auto Poitevines Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

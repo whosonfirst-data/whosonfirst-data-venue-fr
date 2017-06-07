@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.363868,43.831047,4.363868,43.831047",
     "geom:latitude":43.831047,
     "geom:longitude":4.363868,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749287,
-        85633147,
         85683431,
+        102191581,
+        85633147,
+        404227861,
+        1108826387,
+        101749287,
+        136253037,
         102072451
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_5sZl8gAFbCCWJBmQXKFEzd_43.831047_4.363868@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"af759778bce119aa4748a176347aa8d6",
+    "wof:geomhash":"ffac79452d2d9fa6aa2afcda16ee3579",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072451,
+            "empire_id":136253037,
             "locality_id":101749287,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":136274777
         }
     ],
     "wof:id":136274777,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496777759,
     "wof:name":"Axa Assurances Iard",
-    "wof:parent_id":101749287,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

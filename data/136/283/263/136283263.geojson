@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.093406,49.111324,-1.093406,49.111324",
     "geom:latitude":49.111324,
     "geom:longitude":-1.093406,
@@ -39,9 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828551,
-        85633147,
         85683489,
+        102191581,
+        85633147,
+        404228235,
+        1108826393,
+        101828551,
+        136253037,
         102072025
     ],
     "wof:breaches":[],
@@ -49,18 +54,22 @@
         "sg:id":"SG_7BlTXpgIG8Tjgh0sg1lS8t_49.111324_-1.093406@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d17d4726e87116262bbf1131e433d63",
+    "wof:geomhash":"db522d312bdfdfd3f2919eace28dfc8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072025,
+            "empire_id":136253037,
             "locality_id":101828551,
+            "macrocounty_id":404228235,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136283263
         }
     ],
     "wof:id":136283263,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496787855,
     "wof:name":"Hubert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

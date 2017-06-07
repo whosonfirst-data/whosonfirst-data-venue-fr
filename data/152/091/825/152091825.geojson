@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.414911,48.066826,7.414911,48.066826",
     "geom:latitude":48.066826,
     "geom:longitude":7.414911,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764489,
-        85633147,
         85683381,
+        102191581,
+        404227947,
+        404374313,
+        85633147,
+        1108826391,
+        101764489,
+        136253037,
         102064565
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0coym5WZWRnYpq4bsdMrPB_48.066826_7.414911@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bb3a75f83d88506772f112ccaeef7fdb",
+    "wof:geomhash":"ff95170fe361bddaee991bb0e317a9b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064565,
+            "empire_id":136253037,
+            "localadmin_id":404374313,
             "locality_id":101764489,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152091825
         }
     ],
     "wof:id":152091825,
-    "wof:lastmodified":1473798162,
+    "wof:lastmodified":1496784066,
     "wof:name":"Tolerie Chaudronnerie Serrurerie Ferronnerie Tous Metaux Husser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

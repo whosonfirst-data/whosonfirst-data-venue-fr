@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.037354,47.321217,5.037354,47.321217",
     "geom:latitude":47.321217,
     "geom:longitude":5.037354,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5GlctLhhNJwy41frHKF1Vv_47.321217_5.037354@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b734dbcc217bbd150167d9cba9ef484c",
+    "wof:geomhash":"bcde7eff5c89b242b81871b12f152801",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152099985
         }
     ],
     "wof:id":152099985,
-    "wof:lastmodified":1473798243,
+    "wof:lastmodified":1496788830,
     "wof:name":"Berthelemy Huron Et Cie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

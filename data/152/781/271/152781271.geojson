@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.292542,49.893616,2.292542,49.893616",
     "geom:latitude":49.893616,
     "geom:longitude":2.292542,
@@ -22,9 +23,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749133,
-        85633147,
         85683363,
+        102191581,
+        85633147,
+        404227973,
+        1108826399,
+        101749133,
+        136253037,
         102072477
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_7gSzpHKOin7zZHndRXv2ae_49.893616_2.292542@1306269754"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b7fd34b093b417873c2c13cc762b4f7",
+    "wof:geomhash":"425a261b8f64b6222b08209c0894ad79",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072477,
+            "empire_id":136253037,
             "locality_id":101749133,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152781271
         }
     ],
     "wof:id":152781271,
-    "wof:lastmodified":1473798525,
+    "wof:lastmodified":1496795399,
     "wof:name":"Socotec S.a. - Soci\u00e9t\u00e9 De Contr\u00f4le Technique De Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

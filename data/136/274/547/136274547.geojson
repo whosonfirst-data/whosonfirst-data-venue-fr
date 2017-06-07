@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.6162,45.859329,6.6162,45.859329",
     "geom:latitude":45.859329,
     "geom:longitude":6.6162,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829029,
-        85633147,
         85683227,
+        102191581,
+        404227961,
+        404413171,
+        85633147,
+        1108826389,
+        101829029,
+        136253037,
         102068417
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1SVFWJduQUh3rMDVjnlflb_45.859329_6.616200@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b5a7339dc7f1ca7b2e102967e8cd94bb",
+    "wof:geomhash":"a8eb32a6d9c9c0246c32e20952dc0578",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068417,
+            "empire_id":136253037,
+            "localadmin_id":404413171,
             "locality_id":101829029,
+            "macrocounty_id":404227961,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":136274547
         }
     ],
     "wof:id":136274547,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496782107,
     "wof:name":"Altitude Conseil Sa",
-    "wof:parent_id":101829029,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

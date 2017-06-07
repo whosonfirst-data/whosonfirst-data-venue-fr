@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.598724,45.975082,5.598724,45.975082",
     "geom:latitude":45.975082,
     "geom:longitude":5.598724,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768199,
-        85633147,
         85683153,
+        102191581,
+        404227585,
+        404413205,
+        85633147,
+        1108826389,
+        101768199,
+        136253037,
         102066973
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_7PMrWrOBuSFjokBp8HDzlQ_45.975082_5.598724@1306269744"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1492c07db35de809c3941464909848f4",
+    "wof:geomhash":"af139211267a85dec611e63ef3ec27f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066973,
+            "empire_id":136253037,
+            "localadmin_id":404413205,
             "locality_id":101768199,
+            "macrocounty_id":404227585,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152479707
         }
     ],
     "wof:id":152479707,
-    "wof:lastmodified":1473798424,
+    "wof:lastmodified":1496779298,
     "wof:name":"Flochon P\u00e8re Et Fils S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

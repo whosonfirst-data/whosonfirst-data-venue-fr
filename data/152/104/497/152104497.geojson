@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.78133,45.911354,4.78133,45.911354",
     "geom:latitude":45.911354,
     "geom:longitude":4.78133,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842915,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404399173,
+        85633147,
+        1108826389,
+        101842915,
+        136253037,
         102068923
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_3XiJ90tybAFbT59azmBlWu_45.911354_4.781330@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"79e805f49bdac799179ec79630d05065",
+    "wof:geomhash":"2fc87090b6d3545be33427e9b6a7aaf6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068923,
+            "empire_id":136253037,
+            "localadmin_id":404399173,
             "locality_id":101842915,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152104497
         }
     ],
     "wof:id":152104497,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1496781916,
     "wof:name":"Rhone Saone Ascenseurs (rsa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

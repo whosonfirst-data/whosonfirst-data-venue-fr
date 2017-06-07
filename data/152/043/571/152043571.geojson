@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.511843,43.864281,-0.511843,43.864281",
     "geom:latitude":43.864281,
     "geom:longitude":-0.511843,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831887,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404380875,
+        85633147,
+        1108826385,
+        101831887,
+        136253037,
         102069831
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1fMCIh3HrCGjfHKLLkeCjT_43.864281_-0.511843@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"529043124d694686e8746bb63c1c0d5b",
+    "wof:geomhash":"88b17d59dbe49841985403b92f21634a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069831,
+            "empire_id":136253037,
+            "localadmin_id":404380875,
             "locality_id":101831887,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152043571
         }
     ],
     "wof:id":152043571,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496776879,
     "wof:name":"Banque Alimentaire Des Landes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.816918,45.937832,4.816918,45.937832",
     "geom:latitude":45.937832,
     "geom:longitude":4.816918,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750857,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404368259,
+        85633147,
+        1108826389,
+        101750857,
+        136253037,
         102071189
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3H9RHLE6kbMKLTZElqIOrK_45.937832_4.816918@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09bb041cef5bf58e8a7500a912dfb1e7",
+    "wof:geomhash":"fcfd1d964b829921df2f869ce7c1c13b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071189,
+            "empire_id":136253037,
+            "localadmin_id":404368259,
             "locality_id":101750857,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152903949
         }
     ],
     "wof:id":152903949,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496782152,
     "wof:name":"Soci\u00e9t\u00e9 Des Etabs Gautheron Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

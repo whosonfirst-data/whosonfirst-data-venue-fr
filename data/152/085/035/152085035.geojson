@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.868263,41.853569,-73.868263,41.853569",
     "geom:latitude":41.853569,
     "geom:longitude":-73.868263,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
+        102191575,
+        404522219,
         85633793,
-        85688543
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,13 +48,16 @@
     "wof:geomhash":"9342c159790bc05805a66533ee11430b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102082363,
+            "localadmin_id":404522219,
             "region_id":85688543,
             "venue_id":152085035
         }
     ],
     "wof:id":152085035,
-    "wof:lastmodified":1473798112,
+    "wof:lastmodified":1492020218,
     "wof:name":"Ets Catusse Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.222871,46.221516,5.222871,46.221516",
     "geom:latitude":46.221516,
     "geom:longitude":5.222871,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829109,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404413457,
+        85633147,
+        1108826389,
+        101829109,
+        136253037,
         102072433
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_02PTULjfGY5VsPRnuSg2bB_46.221516_5.222871@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec577705fe8a9e8d45151308f4b41ca4",
+    "wof:geomhash":"81491b63abca84c90ab511ef0b18d9f5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072433,
+            "empire_id":136253037,
+            "localadmin_id":404413457,
             "locality_id":101829109,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152076181
         }
     ],
     "wof:id":152076181,
-    "wof:lastmodified":1473798122,
+    "wof:lastmodified":1496780103,
     "wof:name":"Cle Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

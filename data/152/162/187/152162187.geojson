@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.940215,49.03553,6.940215,49.03553",
     "geom:latitude":49.03553,
     "geom:longitude":6.940215,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880091,
-        85633147,
         85683271,
+        102191581,
+        404228301,
+        404367819,
+        85633147,
+        1108826391,
+        101880091,
+        136253037,
         102069597
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5LDTrRewATiWKnClKodo0y_49.035530_6.940215@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e95184c140c74f11e87adc93c8c3dc86",
+    "wof:geomhash":"c2f73d6212c99e352cbe04e25aa58fde",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069597,
+            "empire_id":136253037,
+            "localadmin_id":404367819,
             "locality_id":101880091,
+            "macrocounty_id":404228301,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152162187
         }
     ],
     "wof:id":152162187,
-    "wof:lastmodified":1473798306,
+    "wof:lastmodified":1496785792,
     "wof:name":"Zingraff (ateliers Mecaniques)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

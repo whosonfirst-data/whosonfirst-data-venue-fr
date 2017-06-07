@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.60404,44.166389,0.60404,44.166389",
     "geom:latitude":44.166389,
     "geom:longitude":0.60404,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831901,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831901,
+        136253037,
         102070725
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_5nsYfec6xYCCfDFzugAIiD_44.166389_0.604040@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e6059da85fa1f72312d88d5b0d8fdd8",
+    "wof:geomhash":"612fd5c7a92f3cb57ced60dd30894375",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070725,
+            "empire_id":136253037,
             "locality_id":101831901,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152961239
         }
     ],
     "wof:id":152961239,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496777012,
     "wof:name":"L'autoroute Du Sud De La France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

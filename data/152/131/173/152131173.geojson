@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.60874,43.119801,1.60874,43.119801",
     "geom:latitude":43.119801,
     "geom:longitude":1.60874,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831585,
-        85633147,
         85683335,
+        102191581,
+        85633147,
+        404227815,
+        1108826387,
+        101831585,
+        136253037,
         102072441
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1DmmvAvpp9AeJ8WT5UBXpg_43.119801_1.608740@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"520424742fe4a17e5ff15958fc3e279b",
+    "wof:geomhash":"2773c9680861f443c2c646707701fcca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072441,
+            "empire_id":136253037,
             "locality_id":101831585,
+            "macrocounty_id":404227815,
+            "macroregion_id":1108826387,
             "region_id":85683335,
             "venue_id":152131173
         }
     ],
     "wof:id":152131173,
-    "wof:lastmodified":1473798289,
+    "wof:lastmodified":1496778013,
     "wof:name":"Action Froid Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

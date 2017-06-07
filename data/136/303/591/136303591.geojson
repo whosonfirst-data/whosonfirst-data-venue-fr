@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.854307,47.636028,6.854307,47.636028",
     "geom:latitude":47.636028,
     "geom:longitude":6.854307,
@@ -29,9 +30,13 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749011,
-        85633147,
         85683353,
+        102191581,
+        85633147,
+        404227783,
+        1108826395,
+        101749011,
+        136253037,
         102072425
     ],
     "wof:breaches":[],
@@ -39,18 +44,22 @@
         "sg:id":"SG_5PZDdu8N63HJ7eb3fNmLE4_47.636028_6.854307@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c8b175db1e7011d02709b8e34f89e056",
+    "wof:geomhash":"86e32bf5c86269fcf8e5549852621cad",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072425,
+            "empire_id":136253037,
             "locality_id":101749011,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":136303591
         }
     ],
     "wof:id":136303591,
-    "wof:lastmodified":1473798023,
+    "wof:lastmodified":1496788589,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.345609,43.218163,2.345609,43.218163",
     "geom:latitude":43.218163,
     "geom:longitude":2.345609,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773381,
-        85633147,
         85683485,
+        102191581,
+        404227607,
+        404351021,
+        85633147,
+        1108826387,
+        101773381,
+        136253037,
         102072233
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2bW0EcyGnSaEF2ASiG5D0z_43.218163_2.345609@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b3a9b111504e06a92abce113fefdff14",
+    "wof:geomhash":"d04970014d159db1020b578ceb19e734",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072233,
+            "empire_id":136253037,
+            "localadmin_id":404351021,
             "locality_id":101773381,
+            "macrocounty_id":404227607,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":152167879
         }
     ],
     "wof:id":152167879,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496799359,
     "wof:name":"Sarl Languedoc Alu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

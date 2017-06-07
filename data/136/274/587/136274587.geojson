@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.094598,48.446682,0.094598,48.446682",
     "geom:latitude":48.446682,
     "geom:longitude":0.094598,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828045,
-        85633147,
         85683527,
+        102191581,
+        404227721,
+        404393125,
+        85633147,
+        1108826393,
+        101828045,
+        136253037,
         102072417
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_1oZwqhvykI9e6dBviHMwOu_48.446682_0.094598@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b736c818bb8513acbf94a6472a79bc89",
+    "wof:geomhash":"694bbb8a1e62627485f61cb4a20b9407",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072417,
+            "empire_id":136253037,
+            "localadmin_id":404393125,
             "locality_id":101828045,
+            "macrocounty_id":404227721,
+            "macroregion_id":1108826393,
             "region_id":85683527,
             "venue_id":136274587
         }
     ],
     "wof:id":136274587,
-    "wof:lastmodified":1473797890,
+    "wof:lastmodified":1496787179,
     "wof:name":"Ardial Fiduciaire Sa",
-    "wof:parent_id":101828045,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

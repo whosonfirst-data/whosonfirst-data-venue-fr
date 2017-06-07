@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.75978,43.583614,3.75978,43.583614",
     "geom:latitude":43.583614,
     "geom:longitude":3.75978,
@@ -24,9 +25,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773753,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404366545,
+        85633147,
+        1108826387,
+        101773753,
+        136253037,
         102071531
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_3L6Yj8sSH877ixDVCdDWXC_43.583614_3.759780@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"28959419d206e40ce3f8cdef5fb91a5b",
+    "wof:geomhash":"516a1f1c026c87c6cde3b477404df3c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071531,
+            "empire_id":136253037,
+            "localadmin_id":404366545,
             "locality_id":101773753,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":169098045
         }
     ],
     "wof:id":169098045,
-    "wof:lastmodified":1473798095,
+    "wof:lastmodified":1496777727,
     "wof:name":"Polytech S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

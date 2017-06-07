@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.342384,47.776806,7.342384,47.776806",
     "geom:latitude":47.776806,
     "geom:longitude":7.342384,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749567,
-        85633147,
         85683381,
+        102191581,
+        404228255,
+        404373017,
+        85633147,
+        1108826391,
+        101749567,
+        136253037,
         102070067
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0gdxdL7vM2wVg9Ffcxbrla_47.776806_7.342384@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"268bec316666538a14290f623cd9418b",
+    "wof:geomhash":"227630ae92003b83ee0de606823f3dca",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070067,
+            "empire_id":136253037,
+            "localadmin_id":404373017,
             "locality_id":101749567,
+            "macrocounty_id":404228255,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152859553
         }
     ],
     "wof:id":152859553,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1496786413,
     "wof:name":"Solutions Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

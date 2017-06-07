@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.745416,45.496544,0.745416,45.496544",
     "geom:latitude":45.496544,
     "geom:longitude":0.745416,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767655,
-        85633147,
         85683331,
+        102191581,
+        404227847,
+        404368919,
+        85633147,
+        1108826385,
+        101767655,
+        136253037,
         102070267
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_237VegzLwV8UUyQRHXia92_45.496544_0.745416@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dbd4c077bfc7e3393069ad343ef246be",
+    "wof:geomhash":"8e02a5ffb16db914f53e8a99af0a087a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070267,
+            "empire_id":136253037,
+            "localadmin_id":404368919,
             "locality_id":101767655,
+            "macrocounty_id":404227847,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152121473
         }
     ],
     "wof:id":152121473,
-    "wof:lastmodified":1473798285,
+    "wof:lastmodified":1496776273,
     "wof:name":"Les Tanneries De Chamont Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

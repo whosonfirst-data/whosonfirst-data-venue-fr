@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.589687,48.528137,7.589687,48.528137",
     "geom:latitude":48.528137,
     "geom:longitude":7.589687,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827803,
-        85633147,
         85683221,
+        102191581,
+        404228143,
+        404380635,
+        85633147,
+        1108826391,
+        101827803,
+        136253037,
         102066949
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0zWhqqiZpIWuP8O01FqCfV_48.528137_7.589687@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1442722db46d899ef10182f81f7bb2fb",
+    "wof:geomhash":"93ecee5671c541c3ceff7d6b42dd65ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066949,
+            "empire_id":136253037,
+            "localadmin_id":404380635,
             "locality_id":101827803,
+            "macrocounty_id":404228143,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152114215
         }
     ],
     "wof:id":152114215,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496785086,
     "wof:name":"Lohr Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

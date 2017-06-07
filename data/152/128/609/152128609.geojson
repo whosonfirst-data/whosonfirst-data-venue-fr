@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.428519,43.658497,-1.428519,43.658497",
     "geom:latitude":43.658497,
     "geom:longitude":-1.428519,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831879,
-        85633147,
         85683183,
+        102191581,
+        404227673,
+        404410367,
+        85633147,
+        1108826385,
+        101831879,
+        136253037,
         102068909
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_69C5SUbl6jxgoT5ngxzUxk_43.658497_-1.428519@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8e40259d59c286d6c5f3f43270c38793",
+    "wof:geomhash":"41f37afe2feda4dfb2d80b11e8f7ef08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068909,
+            "empire_id":136253037,
+            "localadmin_id":404410367,
             "locality_id":101831879,
+            "macrocounty_id":404227673,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":152128609
         }
     ],
     "wof:id":152128609,
-    "wof:lastmodified":1473798291,
+    "wof:lastmodified":1496776697,
     "wof:name":"Camm Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.71046,48.543736,7.71046,48.543736",
     "geom:latitude":48.543736,
     "geom:longitude":7.71046,
@@ -38,30 +39,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85794531,
+        102191581,
         85633147,
-        101751107,
-        102071231,
-        85794531
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lfH3bQLTgh0pJth1ALIz7_48.543736_7.710460@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea54f228475db24bbde662f3a873378c",
+    "wof:geomhash":"6b3320e491aa18590710bc4e66dab6a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071231,
-            "locality_id":101751107,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85794531,
             "region_id":85683221,
             "venue_id":152104951
         }
     ],
     "wof:id":152104951,
-    "wof:lastmodified":1473798252,
+    "wof:lastmodified":1496785086,
     "wof:name":"Technique Et Mecanique Des Elevateurs (tme)",
     "wof:parent_id":85794531,
     "wof:placetype":"venue",

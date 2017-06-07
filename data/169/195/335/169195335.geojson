@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.934376,50.90802,1.934376,50.90802",
     "geom:latitude":50.90802,
     "geom:longitude":1.934376,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811189,
-        85633147,
         85683255,
+        102191581,
+        404228305,
+        404353189,
+        85633147,
+        1108826399,
+        101811189,
+        136253037,
         102067363
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0tXp9k7mQkuzEQWmVCYsvB_50.908020_1.934376@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99b08a34bfa753389833165a0f756529",
+    "wof:geomhash":"74f8b0e200dec86ad5df805eb8e9f113",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067363,
+            "empire_id":136253037,
+            "localadmin_id":404353189,
             "locality_id":101811189,
+            "macrocounty_id":404228305,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":169195335
         }
     ],
     "wof:id":169195335,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496791373,
     "wof:name":"Tecma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

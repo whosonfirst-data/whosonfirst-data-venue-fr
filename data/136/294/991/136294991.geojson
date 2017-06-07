@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.844406,49.761627,1.844406,49.761627",
     "geom:latitude":49.761627,
     "geom:longitude":1.844406,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900953,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404372503,
+        85633147,
+        1108826399,
+        101900953,
+        136253037,
         102070551
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0IRGvNgyyFBQmeLQcUKuJO_49.761627_1.844406@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ade32a23307bc3fe3bb80fb7caa33aea",
+    "wof:geomhash":"a241e8030565769fa386a61b8d445487",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070551,
+            "empire_id":136253037,
+            "localadmin_id":404372503,
             "locality_id":101900953,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136294991
         }
     ],
     "wof:id":136294991,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496790426,
     "wof:name":"Tris Senoble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

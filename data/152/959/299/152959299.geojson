@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.386435,45.745972,0.386435,45.745972",
     "geom:latitude":45.745972,
     "geom:longitude":0.386435,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768077,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404405193,
+        85633147,
+        1108826385,
+        101768077,
+        136253037,
         102068333
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_5bNsK3KRDKfPhWDDYgQTxy_45.745972_0.386435@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ce79ef9c5d7a8ec6f31169100a6b9159",
+    "wof:geomhash":"48c0a5e459285568b4eddc2685957c36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068333,
+            "empire_id":136253037,
+            "localadmin_id":404405193,
             "locality_id":101768077,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152959299
         }
     ],
     "wof:id":152959299,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496798584,
     "wof:name":"Grandet Aussel Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.582594,45.177944,1.582594,45.177944",
     "geom:latitude":45.177944,
     "geom:longitude":1.582594,
@@ -22,9 +23,14 @@
     "sg:province":"Limousin",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830661,
-        85633147,
         85683209,
+        102191581,
+        404227625,
+        404383753,
+        85633147,
+        1108826385,
+        101830661,
+        136253037,
         102070365
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_49DwtDGR7DzLfCuxAYuu4T_45.177944_1.582594@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"79f0ac205b1fc7faf9b23c1f1365fed9",
+    "wof:geomhash":"9cef32009f5983bb336f929124d1968f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070365,
+            "empire_id":136253037,
+            "localadmin_id":404383753,
             "locality_id":101830661,
+            "macrocounty_id":404227625,
+            "macroregion_id":1108826385,
             "region_id":85683209,
             "venue_id":169127183
         }
     ],
     "wof:id":169127183,
-    "wof:lastmodified":1473798109,
+    "wof:lastmodified":1496776419,
     "wof:name":"S.d.e.l. Massif Central S.a.s.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

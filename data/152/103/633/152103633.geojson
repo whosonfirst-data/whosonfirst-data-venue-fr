@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.321077,43.317696,-0.321077,43.317696",
     "geom:latitude":43.317696,
     "geom:longitude":-0.321077,
@@ -38,9 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750669,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404228137,
+        1108826385,
+        101750669,
+        136253037,
         102072533
     ],
     "wof:breaches":[],
@@ -48,18 +53,22 @@
         "sg:id":"SG_2YgKFBFC3N9lZbH1cm87L5_43.317696_-0.321077@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9f239c7773feaebb8c0b1cd3b5753c03",
+    "wof:geomhash":"ecaf5da7bf6178cdcc2f0786180a7057",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072533,
+            "empire_id":136253037,
             "locality_id":101750669,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":152103633
         }
     ],
     "wof:id":152103633,
-    "wof:lastmodified":1473798239,
+    "wof:lastmodified":1496776024,
     "wof:name":"Cfa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

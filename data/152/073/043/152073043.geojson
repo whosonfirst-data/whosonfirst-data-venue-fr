@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.343753,48.952785,4.343753,48.952785",
     "geom:latitude":48.952785,
     "geom:longitude":4.343753,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828121,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828121,
+        136253037,
         102072043
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1hYyJHz9BMECh0XwIqg6vM_48.952785_4.343753@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5ea06f31d8eafaa52ae2788a0fb0cd98",
+    "wof:geomhash":"4f529ca827cfb6cf4f66ce7c001b1309",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828121,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073043
         }
     ],
     "wof:id":152073043,
-    "wof:lastmodified":1473798117,
+    "wof:lastmodified":1496784044,
     "wof:name":"Joseph Perrier Fils Et Compagnie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

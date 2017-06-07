@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.515916,44.858303,0.515916,44.858303",
     "geom:latitude":44.858303,
     "geom:longitude":0.515916,
@@ -37,9 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -47,18 +52,22 @@
         "sg:id":"SG_0Ao7lmsTEQ67rDhRejmjdj_44.858303_0.515916@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ef4a1be34cbe25900e8cd31df72ddfd9",
+    "wof:geomhash":"a0b76f2d571ca28db127256716c9c9c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152076009
         }
     ],
     "wof:id":152076009,
-    "wof:lastmodified":1473798115,
+    "wof:lastmodified":1496777021,
     "wof:name":"Omnium Electrique Du Sud Ouest Oeso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

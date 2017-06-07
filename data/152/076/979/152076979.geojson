@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.090253,48.742989,7.090253,48.742989",
     "geom:latitude":48.742989,
     "geom:longitude":7.090253,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762689,
-        85633147,
         85683271,
+        102191581,
+        404228281,
+        404360203,
+        85633147,
+        1108826391,
+        101762689,
+        136253037,
         102069759
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0TqzsgDgrhYPHYPkCwjHdD_48.742989_7.090253@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2cad608df1b376d348594302423bdb30",
+    "wof:geomhash":"743f498f44a23ba9a7a5ce12aac21e4d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069759,
+            "empire_id":136253037,
+            "localadmin_id":404360203,
             "locality_id":101762689,
+            "macrocounty_id":404228281,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152076979
         }
     ],
     "wof:id":152076979,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496785694,
     "wof:name":"Fourniture De Materiel Electrique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

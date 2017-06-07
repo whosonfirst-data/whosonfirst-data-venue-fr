@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.288017,46.955013,4.288017,46.955013",
     "geom:latitude":46.955013,
     "geom:longitude":4.288017,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768403,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227741,
+        1108826395,
+        101768403,
+        136253037,
         102072003
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_4iY8Ww47sxBYUL2QjNd0PI_46.955013_4.288017@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6b622fd70ffae0dd908a370f49541f0b",
+    "wof:geomhash":"311f03a0a3c83cf2610f594c99c2d1b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072003,
+            "empire_id":136253037,
             "locality_id":101768403,
+            "macrocounty_id":404227741,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152090515
         }
     ],
     "wof:id":152090515,
-    "wof:lastmodified":1473798205,
+    "wof:lastmodified":1496794991,
     "wof:name":"Pauchard Reservoirs X",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

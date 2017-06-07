@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.104506,49.089333,4.104506,49.089333",
     "geom:latitude":49.089333,
     "geom:longitude":4.104506,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879877,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404393249,
+        85633147,
+        1108826391,
+        101879877,
+        136253037,
         102064741
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1nm8i0g7ApTADvxOa4FVeH_49.089333_4.104506@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8766432c4455b62601e44619b78b9f1c",
+    "wof:geomhash":"2cb428eb1e804d5cb8300f8d2f46a214",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064741,
+            "empire_id":136253037,
+            "localadmin_id":404393249,
             "locality_id":101879877,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152071817
         }
     ],
     "wof:id":152071817,
-    "wof:lastmodified":1473798119,
+    "wof:lastmodified":1496785848,
     "wof:name":"Champagne Cochut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.89566,42.734383,2.89566,42.734383",
     "geom:latitude":42.734383,
     "geom:longitude":2.89566,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750645,
-        85633147,
         85683169,
+        102191581,
+        85633147,
+        404227943,
+        1108826387,
+        101750645,
+        136253037,
         102072469
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_3jGszyFQwlu0oHQ49k8C0M_42.734383_2.895660@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"34c032c0e4453e052c5a25c41a747bfc",
+    "wof:geomhash":"202ac6e4d50a13d639220640cb49b0bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072469,
+            "empire_id":136253037,
             "locality_id":101750645,
+            "macrocounty_id":404227943,
+            "macroregion_id":1108826387,
             "region_id":85683169,
             "venue_id":152953979
         }
     ],
     "wof:id":152953979,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496799427,
     "wof:name":"Consortium Des Transports Perpignanais (ctp)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

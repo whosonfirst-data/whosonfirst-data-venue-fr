@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.293171,45.130402,1.293171,45.130402",
     "geom:latitude":45.130402,
     "geom:longitude":1.293171,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830697,
-        85633147,
         85683331,
+        102191581,
+        404228213,
+        404349059,
+        85633147,
+        1108826385,
+        101830697,
+        136253037,
         102070999
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_646el0SjPqbNen1CN1IrVV_45.130402_1.293171@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"26f14b2b7726580aa720c3240a8a3564",
+    "wof:geomhash":"d4f2ab4e3741d4d33188834838635043",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070999,
+            "empire_id":136253037,
+            "localadmin_id":404349059,
             "locality_id":101830697,
+            "macrocounty_id":404228213,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152048503
         }
     ],
     "wof:id":152048503,
-    "wof:lastmodified":1473797920,
+    "wof:lastmodified":1496776562,
     "wof:name":"Hotel De Retraite Perigourdin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

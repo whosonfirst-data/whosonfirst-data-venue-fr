@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.162566,45.658592,0.162566,45.658592",
     "geom:latitude":45.658592,
     "geom:longitude":0.162566,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829067,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404384871,
+        85633147,
+        1108826385,
+        101829067,
+        136253037,
         102070497
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_3rN9mUVSojByDQM5Wqw8Ws_45.658592_0.162566@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"581345167adf8139aa82dd20f13c037b",
+    "wof:geomhash":"73a30575547a63ab71f1e729ab1430ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070497,
+            "empire_id":136253037,
+            "localadmin_id":404384871,
             "locality_id":101829067,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152447309
         }
     ],
     "wof:id":152447309,
-    "wof:lastmodified":1473798413,
+    "wof:lastmodified":1496798583,
     "wof:name":"Etablissement Principal Emballages De L'angoumois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

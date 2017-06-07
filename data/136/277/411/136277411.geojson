@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.32451,49.381992,3.32451,49.381992",
     "geom:latitude":49.381992,
     "geom:longitude":3.32451,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842473,
-        85633147,
         85683247,
+        102191581,
+        404228197,
+        404395163,
+        85633147,
+        1108826399,
+        101842473,
+        136253037,
         102072551
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_72dWjjV99HqetSrUvyGFVw_49.381992_3.324510@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e3dc26b27a1e11c46dc3926799eb504",
+    "wof:geomhash":"80cbad45fb5901aa293fef81ea61cc80",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072551,
+            "empire_id":136253037,
+            "localadmin_id":404395163,
             "locality_id":101842473,
+            "macrocounty_id":404228197,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":136277411
         }
     ],
     "wof:id":136277411,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496795331,
     "wof:name":"Fiduciaire De L Ile De France Sa",
-    "wof:parent_id":101842473,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

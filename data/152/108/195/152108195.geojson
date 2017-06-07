@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.869825,45.769257,4.869825,45.769257",
     "geom:latitude":45.769257,
     "geom:longitude":4.869825,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_5ASVk6Xi8spcWhyYP6XsjT_45.769257_4.869825@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f61c0cab5b5fae9c5c73928c15eb95a4",
+    "wof:geomhash":"b556c96c669e5b2f4d3b1e4bdc9b8f59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152108195
         }
     ],
     "wof:id":152108195,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496781262,
     "wof:name":"Radiometer Analytical Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

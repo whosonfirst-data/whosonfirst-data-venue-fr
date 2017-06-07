@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.031944,45.692478,5.031944,45.692478",
     "geom:latitude":45.692478,
     "geom:longitude":5.031944,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750779,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404355207,
+        85633147,
+        1108826389,
+        101750779,
+        136253037,
         102070729
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3iNn7nbGhRMsFfEWgdIGux_45.692478_5.031944@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"03536b921f71ea2c49a5cc40b4347465",
+    "wof:geomhash":"24120793ab887cfbff503476f631ef78",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070729,
+            "empire_id":136253037,
+            "localadmin_id":404355207,
             "locality_id":101750779,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136275247
         }
     ],
     "wof:id":136275247,
-    "wof:lastmodified":1473797881,
+    "wof:lastmodified":1496800719,
     "wof:name":"Benetti Daniel",
-    "wof:parent_id":101750779,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

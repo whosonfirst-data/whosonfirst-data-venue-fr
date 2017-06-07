@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.814135,46.795506,4.814135,46.795506",
     "geom:latitude":46.795506,
     "geom:longitude":4.814135,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749511,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101749511,
+        136253037,
         102071729
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_0rkTtmHD3k7UECdFgcjqkj_46.795506_4.814135@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0dbe7aa34924caefc99d971621e5b437",
+    "wof:geomhash":"f2bec51fb38809d04800c43db0af7c0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071729,
+            "empire_id":136253037,
             "locality_id":101749511,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152214173
         }
     ],
     "wof:id":152214173,
-    "wof:lastmodified":1473798325,
+    "wof:lastmodified":1496788567,
     "wof:name":"Inpack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

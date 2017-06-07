@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.273407,50.198421,3.273407,50.198421",
     "geom:latitude":50.198421,
     "geom:longitude":3.273407,
@@ -22,28 +23,38 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840745,
-        85633147,
         85683445,
-        102071903
+        102191581,
+        404227927,
+        404416001,
+        85633147,
+        1108826399,
+        101840745,
+        136253037,
+        102066685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X4MAM8NKt8cdl6UZnT09u_50.198421_3.273407@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2de113e0e6f52cb3d6990eab6e2e83e3",
+    "wof:geomhash":"54008d60eadb38aa600de348438ec98e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071903,
+            "county_id":102066685,
+            "empire_id":136253037,
+            "localadmin_id":404416001,
             "locality_id":101840745,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152590925
         }
     ],
     "wof:id":152590925,
-    "wof:lastmodified":1473798487,
+    "wof:lastmodified":1496792602,
     "wof:name":"Loc' Energie Nord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.433819,45.895359,4.433819,45.895359",
     "geom:latitude":45.895359,
     "geom:longitude":4.433819,
@@ -27,9 +28,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828919,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404401613,
+        85633147,
+        1108826389,
+        101828919,
+        136253037,
         102069669
     ],
     "wof:brand_id":420574555,
@@ -38,18 +44,23 @@
         "sg:id":"SG_4d5FCxTrWyyd3buhceNNAl_45.895359_4.433819@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"311f9fc1805ecd9c8fae6e58a9ec4911",
+    "wof:geomhash":"0c6d01e9cf7ff04c82b8afdc582c9ade",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069669,
+            "empire_id":136253037,
+            "localadmin_id":404401613,
             "locality_id":101828919,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136304435
         }
     ],
     "wof:id":136304435,
-    "wof:lastmodified":1473797998,
+    "wof:lastmodified":1496780820,
     "wof:name":"Cr\u00e9dit Lyonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.895379,43.902161,1.895379,43.902161",
     "geom:latitude":43.902161,
     "geom:longitude":1.895379,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831825,
-        85633147,
         85683603,
+        102191581,
+        404227763,
+        404354803,
+        85633147,
+        1108826387,
+        101831825,
+        136253037,
         102066451
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2P5SnoPqXGwUZO5LBRwrbq_43.902161_1.895379@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1045e889590409a125be164fbe3a8037",
+    "wof:geomhash":"567cf5661a6eb418d4dc07e05e884250",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066451,
+            "empire_id":136253037,
+            "localadmin_id":404354803,
             "locality_id":101831825,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":152079443
         }
     ],
     "wof:id":152079443,
-    "wof:lastmodified":1473798127,
+    "wof:lastmodified":1496803451,
     "wof:name":"Sodemt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

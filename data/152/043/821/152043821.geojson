@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.845596,45.772346,4.845596,45.772346",
     "geom:latitude":45.772346,
     "geom:longitude":4.845596,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3vMMfB1MhtmnLEKbsIaZpf_45.772346_4.845596@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a1a1e61d7dbf8e3e19a3f0ac0d91c7a4",
+    "wof:geomhash":"72a0d5c4138aa8a97e69bcb0f8c4eaf7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152043821
         }
     ],
     "wof:id":152043821,
-    "wof:lastmodified":1473797895,
+    "wof:lastmodified":1496781698,
     "wof:name":"Direction Des Anciens Combattants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

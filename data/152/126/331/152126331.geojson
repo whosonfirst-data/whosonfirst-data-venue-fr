@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.30235,50.035713,3.30235,50.035713",
     "geom:latitude":50.035713,
     "geom:longitude":3.30235,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812701,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404420591,
+        85633147,
+        1108826399,
+        101812701,
+        136253037,
         102067635
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6N9DvjsvC73YiaEwFqPNbp_50.035713_3.302350@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"55b24ab23454caa6c30841f06e6ec085",
+    "wof:geomhash":"4cad9bb9c9ee4e1f2748584dbfd5c305",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067635,
+            "empire_id":136253037,
+            "localadmin_id":404420591,
             "locality_id":101812701,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152126331
         }
     ],
     "wof:id":152126331,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496790635,
     "wof:name":"Sa Lerche Delacroix Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

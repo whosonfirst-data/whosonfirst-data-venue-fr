@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.829517,45.143093,5.829517,45.143093",
     "geom:latitude":45.143093,
     "geom:longitude":5.829517,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842853,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404416289,
+        85633147,
+        1108826389,
+        101842853,
+        136253037,
         102065831
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2HhrelEAQumAHqw8VtOjuq_45.143093_5.829517@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8bd95c00ec8d20b50f4c7a5fc4ada027",
+    "wof:geomhash":"cb13e9e37c826bf1620f3a74f2db7303",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065831,
+            "empire_id":136253037,
+            "localadmin_id":404416289,
             "locality_id":101842853,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":169022845
         }
     ],
     "wof:id":169022845,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496800130,
     "wof:name":"Laboratoires Biorga S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

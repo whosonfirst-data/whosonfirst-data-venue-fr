@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.35581,46.589787,0.35581,46.589787",
     "geom:latitude":46.589787,
     "geom:longitude":0.35581,
@@ -23,9 +24,13 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -33,18 +38,22 @@
         "sg:id":"SG_0eGnOURzOLO9S6hRqGlgN0_46.589787_0.355810@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"95b2a966033805421e94192527284968",
+    "wof:geomhash":"da75b04ab1fcc90ea0ac2e3b8f48efaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152294239
         }
     ],
     "wof:id":152294239,
-    "wof:lastmodified":1473798357,
+    "wof:lastmodified":1496776925,
     "wof:name":"B.p.v.f. - Banque Populaire Val De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

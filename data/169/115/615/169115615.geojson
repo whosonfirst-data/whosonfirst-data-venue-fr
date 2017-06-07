@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.123678,46.228828,-0.123678,46.228828",
     "geom:latitude":46.228828,
     "geom:longitude":-0.123678,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766669,
-        85633147,
         85683163,
+        102191581,
+        404227969,
+        404405747,
+        85633147,
+        1108826385,
+        101766669,
+        136253037,
         102067283
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_4tHGWFHAEbSIUQGzSqIYFo_46.228828_-0.123678@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a907eeb46dda2e4c551d59f6436f8dd3",
+    "wof:geomhash":"ba89d9d8736010c6c0d4317214a65a59",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067283,
+            "empire_id":136253037,
+            "localadmin_id":404405747,
             "locality_id":101766669,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":169115615
         }
     ],
     "wof:id":169115615,
-    "wof:lastmodified":1473798112,
+    "wof:lastmodified":1496776916,
     "wof:name":"Rhodia Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

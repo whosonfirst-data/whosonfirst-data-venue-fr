@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.313425,48.987995,4.313425,48.987995",
     "geom:latitude":48.987995,
     "geom:longitude":4.313425,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879945,
-        85633147,
         85683405,
+        102191581,
+        404227697,
+        404373525,
+        85633147,
+        1108826391,
+        101879945,
+        136253037,
         102070511
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_1QyS7PS7x9fsNBce8WjPOS_48.987995_4.313425@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"70088699939dfadf6b69ebd6bc7a6a63",
+    "wof:geomhash":"e949a94a2e599a5f1d027042f1e19b62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070511,
+            "empire_id":136253037,
+            "localadmin_id":404373525,
             "locality_id":101879945,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":136290979
         }
     ],
     "wof:id":136290979,
-    "wof:lastmodified":1473797955,
+    "wof:lastmodified":1496786562,
     "wof:name":"Alf Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

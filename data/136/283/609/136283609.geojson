@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.365417,48.230247,7.365417,48.230247",
     "geom:latitude":48.230247,
     "geom:longitude":7.365417,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764437,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404390147,
+        85633147,
+        1108826391,
+        101764437,
+        136253037,
         102068137
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_55ABo0pJ0ZaZql9qpBScls_48.230247_7.365417@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c637d3f907eff86e23608bb11506874f",
+    "wof:geomhash":"f78479cf2a1973dafe69331d20dd981b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068137,
+            "empire_id":136253037,
+            "localadmin_id":404390147,
             "locality_id":101764437,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":136283609
         }
     ],
     "wof:id":136283609,
-    "wof:lastmodified":1473797929,
+    "wof:lastmodified":1496793384,
     "wof:name":"Berger Machines Agricoles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

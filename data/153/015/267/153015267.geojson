@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.582491,47.80479,3.582491,47.80479",
     "geom:latitude":47.80479,
     "geom:longitude":3.582491,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6JccWWr1D9VbCrOkCM5eMA_47.804790_3.582491@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3cba8f72fc5a69a7cddbde46b8e21bfe",
+    "wof:geomhash":"bbb0e20a8e0dad57da51735499afb2d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":153015267
         }
     ],
     "wof:id":153015267,
-    "wof:lastmodified":1473797862,
+    "wof:lastmodified":1496788466,
     "wof:name":"Tfc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

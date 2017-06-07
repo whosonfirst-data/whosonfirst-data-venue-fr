@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.10455,50.7085,3.10455,50.7085",
     "geom:latitude":50.7085,
     "geom:longitude":3.10455,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753605,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404414497,
+        85633147,
+        1108826399,
+        101753605,
+        136253037,
         102071841
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_4QnKmmk0ErV0b81w5IBYjd_50.708500_3.104550@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20e13e9f981720e02da87e301530541a",
+    "wof:geomhash":"9dfe079ae1c20a3dbf9e5951d5c42454",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071841,
+            "empire_id":136253037,
+            "localadmin_id":404414497,
             "locality_id":101753605,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152170945
         }
     ],
     "wof:id":152170945,
-    "wof:lastmodified":1473798308,
+    "wof:lastmodified":1496791341,
     "wof:name":"Nord Faconnage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

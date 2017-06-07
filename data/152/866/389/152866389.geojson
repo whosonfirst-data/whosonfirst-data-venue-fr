@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.073825,49.511536,0.073825,49.511536",
     "geom:latitude":49.511536,
     "geom:longitude":0.073825,
@@ -32,30 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683251,
+        85794449,
+        102191581,
         85633147,
-        101750183,
-        102072319,
-        85794449
+        404227963,
+        1108826393,
+        101751441,
+        136253037,
+        102071715,
+        85683251
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57JAINZgqBnfEwRDu40cft_49.511536_0.073825@1306269757"
     },
     "wof:country":"FR",
-    "wof:geomhash":"516b4fb59d1d0ad900a858b624fa71d7",
+    "wof:geomhash":"5f49ac04a07cccd194d0ec98ca60d350",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072319,
-            "locality_id":101750183,
+            "county_id":102071715,
+            "empire_id":136253037,
+            "locality_id":101751441,
+            "macrocounty_id":404227963,
+            "macroregion_id":1108826393,
             "neighbourhood_id":85794449,
             "region_id":85683251,
             "venue_id":152866389
         }
     ],
     "wof:id":152866389,
-    "wof:lastmodified":1473798548,
+    "wof:lastmodified":1496787366,
     "wof:name":"Etablissements Bouilliaud Sa",
     "wof:parent_id":85794449,
     "wof:placetype":"venue",

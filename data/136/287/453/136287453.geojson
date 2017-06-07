@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.234185,43.612957,2.234185,43.612957",
     "geom:latitude":43.612957,
     "geom:longitude":2.234185,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831833,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227975,
+        1108826387,
+        101831833,
+        136253037,
         102072325
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_354uErdmtoeHmeIIzQ19Ad_43.612957_2.234185@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa6ff4cb9d9edbd0d1911d10c7e957d8",
+    "wof:geomhash":"482a5150de7176d987599436cf93f69c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072325,
+            "empire_id":136253037,
             "locality_id":101831833,
+            "macrocounty_id":404227975,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136287453
         }
     ],
     "wof:id":136287453,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496803550,
     "wof:name":"Societe De Production Et D'approvisionnement Du Plateau C (ragt)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

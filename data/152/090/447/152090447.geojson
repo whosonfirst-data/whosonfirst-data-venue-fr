@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.080985,45.784225,3.080985,45.784225",
     "geom:latitude":45.784225,
     "geom:longitude":3.080985,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3IxuaM5MXo12T6YADY1u68_45.784225_3.080985@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"67ea7195cbd7435e032e03577c9bf4ed",
+    "wof:geomhash":"acca41cec9c6e089752b1491dd8546ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152090447
         }
     ],
     "wof:id":152090447,
-    "wof:lastmodified":1473798201,
+    "wof:lastmodified":1496780382,
     "wof:name":"Omnium Technique Industriel (oti)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

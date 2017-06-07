@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.390353,45.417908,4.390353,45.417908",
     "geom:latitude":45.417908,
     "geom:longitude":4.390353,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6itRu3G7iewRIvWaPMi8bE_45.417908_4.390353@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b24bd5f2ab857c11d0426c07b7a0c747",
+    "wof:geomhash":"e90bf047ec5b1488b1c2aa8601ea2c1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152073399
         }
     ],
     "wof:id":152073399,
-    "wof:lastmodified":1473798131,
+    "wof:lastmodified":1496780051,
     "wof:name":"Mourier Vins Sas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

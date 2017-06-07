@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.205404,45.124851,-0.205404,45.124851",
     "geom:latitude":45.124851,
     "geom:longitude":-0.205404,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842969,
-        85633147,
         85683275,
+        102191581,
+        404227621,
+        404365033,
+        85633147,
+        1108826385,
+        101842969,
+        136253037,
         102067563
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_1t2b5QCiCzIXeSamdaXyJK_45.124851_-0.205404@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"651e223ea7fcf95cdd9cf4052ac167b7",
+    "wof:geomhash":"88497e66e14679e3e097647d60a8d827",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067563,
+            "empire_id":136253037,
+            "localadmin_id":404365033,
             "locality_id":101842969,
+            "macrocounty_id":404227621,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152950291
         }
     ],
     "wof:id":152950291,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496777432,
     "wof:name":"Ambulances Des 3 Monts Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.310819,45.395058,4.310819,45.395058",
     "geom:latitude":45.395058,
     "geom:longitude":4.310819,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749459,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404347463,
+        85633147,
+        1108826389,
+        101749459,
+        136253037,
         102064979
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_23NIiDwQsvr6qtg4DC4Nrr_45.395058_4.310819@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eb2759345995833ce30cea590f9eebab",
+    "wof:geomhash":"4acecc6989bd8bb571dd5d9c693c217a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064979,
+            "empire_id":136253037,
+            "localadmin_id":404347463,
             "locality_id":101749459,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152205781
         }
     ],
     "wof:id":152205781,
-    "wof:lastmodified":1473798323,
+    "wof:lastmodified":1496779563,
     "wof:name":"Societe D'outillage Forezien Sa (sof)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

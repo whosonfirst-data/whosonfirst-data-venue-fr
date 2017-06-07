@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.256592,48.143719,7.256592,48.143719",
     "geom:latitude":48.143719,
     "geom:longitude":7.256592,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764477,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404390435,
+        85633147,
+        1108826391,
+        101764477,
+        136253037,
         102066587
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2DpKOjVgFRkCkh9nlvS7zH_48.143719_7.256592@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61673c04a60f92ab1cae7d3bb0f8a8a6",
+    "wof:geomhash":"e147326f6f13f986c7bff85ab31a0134",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066587,
+            "empire_id":136253037,
+            "localadmin_id":404390435,
             "locality_id":101764477,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152057963
         }
     ],
     "wof:id":152057963,
-    "wof:lastmodified":1473797958,
+    "wof:lastmodified":1496785134,
     "wof:name":"Laboratoire Alcon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

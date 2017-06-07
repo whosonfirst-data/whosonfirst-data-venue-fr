@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.380763,43.594028,1.380763,43.594028",
     "geom:latitude":43.594028,
     "geom:longitude":1.380763,
@@ -32,30 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        85794569,
+        102191581,
         85633147,
-        101750693,
-        102071661,
-        85794569
+        404228067,
+        1108826387,
+        101750691,
+        136253037,
+        102072513,
+        85683397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BBuVoot6iK3WRkUJn8TY7_43.594028_1.380763@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b881f470a882af7d0d8084b79658d09d",
+    "wof:geomhash":"cf5db77e0ebea2561957f09d78fc192d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071661,
-            "locality_id":101750693,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
             "neighbourhood_id":85794569,
             "region_id":85683397,
             "venue_id":136314835
         }
     ],
     "wof:id":136314835,
-    "wof:lastmodified":1473798028,
+    "wof:lastmodified":1496777863,
     "wof:name":"Association Gestion Organismes Prives",
     "wof:parent_id":85794569,
     "wof:placetype":"venue",

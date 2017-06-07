@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.650517,46.267551,5.650517,46.267551",
     "geom:latitude":46.267551,
     "geom:longitude":5.650517,
@@ -31,9 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829119,
-        85633147,
         85683153,
+        102191581,
+        85633147,
+        404228195,
+        1108826389,
+        101829119,
+        136253037,
         102072371
     ],
     "wof:breaches":[],
@@ -41,18 +46,22 @@
         "sg:id":"SG_6c70vaEt52GcAbyk47SauH_46.267551_5.650517@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5322a94c46781053b09c591fd7bce0de",
+    "wof:geomhash":"23a0deec8f72b835fadb08e7cafea783",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072371,
+            "empire_id":136253037,
             "locality_id":101829119,
+            "macrocounty_id":404228195,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152112827
         }
     ],
     "wof:id":152112827,
-    "wof:lastmodified":1473798264,
+    "wof:lastmodified":1496781007,
     "wof:name":"Motelec Industrie Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.729401,46.105373,4.729401,46.105373",
     "geom:latitude":46.105373,
     "geom:longitude":4.729401,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828927,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404397165,
+        85633147,
+        1108826389,
+        101828927,
+        136253037,
         102065119
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1PKFuS4fB9mW1QAN3gJ12t_46.105373_4.729401@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0a25b48f2db3d1ac3086beff35e82e95",
+    "wof:geomhash":"37eae6bfd04c541a053bf929a07aae69",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065119,
+            "empire_id":136253037,
+            "localadmin_id":404397165,
             "locality_id":101828927,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152304463
         }
     ],
     "wof:id":152304463,
-    "wof:lastmodified":1473798357,
+    "wof:lastmodified":1496800118,
     "wof:name":"Berthoud Agricole S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.756375,48.600578,7.756375,48.600578",
     "geom:latitude":48.600578,
     "geom:longitude":7.756375,
@@ -35,30 +36,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
+        85897717,
+        102191581,
         85633147,
+        404228317,
+        1108826391,
         101751113,
+        136253037,
         102072577,
-        85897717
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FPTUS6hqDIz0rQn3nBmoG_48.600578_7.756375@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1512525d1ffe9f5d013805387fd42712",
+    "wof:geomhash":"5c1f381aa05b291f5640d982cce6dd96",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072577,
+            "empire_id":136253037,
             "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897717,
             "region_id":85683221,
             "venue_id":136294429
         }
     ],
     "wof:id":136294429,
-    "wof:lastmodified":1473797915,
+    "wof:lastmodified":1496793470,
     "wof:name":"Credit Mutuel",
     "wof:parent_id":85897717,
     "wof:placetype":"venue",

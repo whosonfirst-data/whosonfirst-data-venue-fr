@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.880447,50.677765,2.880447,50.677765",
     "geom:latitude":50.677765,
     "geom:longitude":2.880447,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839681,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404406293,
+        85633147,
+        1108826399,
+        101839681,
+        136253037,
         102064615
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_6alYd7NyAuIdDNmrRNHDEt_50.677765_2.880447@1306269737"
     },
     "wof:country":"FR",
-    "wof:geomhash":"56d2efa6f2daa1a8a19d8f5d6b9227e4",
+    "wof:geomhash":"5e71c3a6e765261d388aee5bd271629c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404406293,
             "locality_id":101839681,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152266811
         }
     ],
     "wof:id":152266811,
-    "wof:lastmodified":1473798347,
+    "wof:lastmodified":1496790990,
     "wof:name":"Aluplastic S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

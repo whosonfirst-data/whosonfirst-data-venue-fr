@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.349262,46.548672,3.349262,46.548672",
     "geom:latitude":46.548672,
     "geom:longitude":3.349262,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829189,
-        85633147,
         85683293,
+        102191581,
+        404227801,
+        404348903,
+        85633147,
+        1108826389,
+        101829189,
+        136253037,
         102070259
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_04ZFcRvx81bwEUhaB77XrA_46.548672_3.349262@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"27ca851b2fd24a8b5a1b4da9712732ef",
+    "wof:geomhash":"09ea4eb286f0f760c50bddc331f299c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070259,
+            "empire_id":136253037,
+            "localadmin_id":404348903,
             "locality_id":101829189,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152110919
         }
     ],
     "wof:id":152110919,
-    "wof:lastmodified":1473798262,
+    "wof:lastmodified":1496783246,
     "wof:name":"Literie Metallique Serrurerie (lms) Bourbonnais Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

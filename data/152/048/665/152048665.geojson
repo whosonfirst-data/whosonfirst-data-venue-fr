@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903932,45.748035,4.903932,45.748035",
     "geom:latitude":45.748035,
     "geom:longitude":4.903932,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749377,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101749377,
+        136253037,
         102070519
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_6XBaeFUCUjVBLPHSLxJu4b_45.748035_4.903932@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d3bde757f9be722f71b15bbc7bd1bd59",
+    "wof:geomhash":"abec6f5b473835f848b7120d4b56e780",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070519,
+            "empire_id":136253037,
             "locality_id":101749377,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152048665
         }
     ],
     "wof:id":152048665,
-    "wof:lastmodified":1473797925,
+    "wof:lastmodified":1496801613,
     "wof:name":"Hotel Ibis Monchat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

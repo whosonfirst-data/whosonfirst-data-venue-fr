@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.906302,45.76437,4.906302,45.76437",
     "geom:latitude":45.76437,
     "geom:longitude":4.906302,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4JE2nM5lTt8NBII57IZ7qd_45.764370_4.906302@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d8144c371ecfecdd5f3ced8fdca9dbd8",
+    "wof:geomhash":"36d221ca78523ace5ba84a6aa733888b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152101747
         }
     ],
     "wof:id":152101747,
-    "wof:lastmodified":1473798240,
+    "wof:lastmodified":1496780859,
     "wof:name":"Embaly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

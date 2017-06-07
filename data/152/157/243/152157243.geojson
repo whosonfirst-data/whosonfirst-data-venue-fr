@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.644058,43.291058,0.644058,43.291058",
     "geom:latitude":43.291058,
     "geom:longitude":0.644058,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101774011,
-        85633147,
         85683397,
+        102191581,
+        404227865,
+        404391183,
+        85633147,
+        1108826387,
+        101774011,
+        136253037,
         102065287
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7bg3cjcOQHEmylucYNLZLe_43.291058_0.644058@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"52711fb4c3be555f8604472c157e8822",
+    "wof:geomhash":"f3b86545484956b7604b53d611da96e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065287,
+            "empire_id":136253037,
+            "localadmin_id":404391183,
             "locality_id":101774011,
+            "macrocounty_id":404227865,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152157243
         }
     ],
     "wof:id":152157243,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496778183,
     "wof:name":"Societe D'exploitation Des Abattoirs Du Boulonnais",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

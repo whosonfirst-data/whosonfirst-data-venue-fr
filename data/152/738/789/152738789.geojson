@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.831475,50.508141,2.831475,50.508141",
     "geom:latitude":50.508141,
     "geom:longitude":2.831475,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840435,
-        85633147,
         85683255,
+        102191581,
+        404227933,
+        404380383,
+        85633147,
+        1108826399,
+        101840435,
+        136253037,
         102071857
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_05QtFVuIZD1l99YyA3Iooz_50.508141_2.831475@1306269752"
     },
     "wof:country":"FR",
-    "wof:geomhash":"06a680c225a362954c2d3ad347b45cc1",
+    "wof:geomhash":"fe39c5ea43e989a0bfed40897f51e4c3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071857,
+            "empire_id":136253037,
+            "localadmin_id":404380383,
             "locality_id":101840435,
+            "macrocounty_id":404227933,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152738789
         }
     ],
     "wof:id":152738789,
-    "wof:lastmodified":1473798517,
+    "wof:lastmodified":1496791529,
     "wof:name":"S.t.p.r. S.n.c.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

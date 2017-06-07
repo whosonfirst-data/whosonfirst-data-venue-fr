@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.026205,46.513725,6.026205,46.513725",
     "geom:latitude":46.513725,
     "geom:longitude":6.026205,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829261,
-        85633147,
         85683173,
+        102191581,
+        404228085,
+        404369267,
+        85633147,
+        1108826395,
+        101829261,
+        136253037,
         102067905
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_4so0wJWLjZrbdEiBD65cwt_46.513725_6.026205@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca09349302ebf965806fec63dfcd516a",
+    "wof:geomhash":"7257d28e3c3b719cc0060cfb847df323",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067905,
+            "empire_id":136253037,
+            "localadmin_id":404369267,
             "locality_id":101829261,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152945425
         }
     ],
     "wof:id":152945425,
-    "wof:lastmodified":1473798581,
+    "wof:lastmodified":1496788231,
     "wof:name":"Paget Diffusion Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

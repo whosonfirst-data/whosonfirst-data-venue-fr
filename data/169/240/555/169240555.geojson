@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.07444,43.203041,3.07444,43.203041",
     "geom:latitude":43.203041,
     "geom:longitude":3.07444,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773311,
-        85633147,
         85683485,
+        102191581,
+        404228023,
+        404385389,
+        85633147,
+        1108826387,
+        101773311,
+        136253037,
         102066911
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5fGtGRJeQaNz415NeSdANx_43.203041_3.074440@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"afdc2094ccd96a4f7f12fbc2c27c91c6",
+    "wof:geomhash":"6c1e903c003b4755f4564cb4e6937051",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066911,
+            "empire_id":136253037,
+            "localadmin_id":404385389,
             "locality_id":101773311,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":169240555
         }
     ],
     "wof:id":169240555,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496777671,
     "wof:name":"Languedoc Roussillon Charpente (lrc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

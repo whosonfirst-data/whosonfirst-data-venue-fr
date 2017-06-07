@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.644579,49.345364,2.644579,49.345364",
     "geom:latitude":49.345364,
     "geom:longitude":2.644579,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101878001,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404384461,
+        85633147,
+        1108826399,
+        101878001,
+        136253037,
         102066943
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4Q0s6QEgJnsjWyPI8Kf4IG_49.345364_2.644579@1306269774"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7bbf0ade33432fd7eb7da4a0a35d4e9c",
+    "wof:geomhash":"ed30ecc2d3dc470bddd71ad118f0fb09",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066943,
+            "empire_id":136253037,
+            "localadmin_id":404384461,
             "locality_id":101878001,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":168973037
         }
     ],
     "wof:id":168973037,
-    "wof:lastmodified":1473798165,
+    "wof:lastmodified":1496792043,
     "wof:name":"Ghys S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

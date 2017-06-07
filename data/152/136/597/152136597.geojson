@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.730585,50.296928,2.730585,50.296928",
     "geom:latitude":50.296928,
     "geom:longitude":2.730585,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840541,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404404273,
+        85633147,
+        1108826399,
+        101840541,
+        136253037,
         102071843
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5OvqUNoXaBokc2fznCB3U0_50.296928_2.730585@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"49f21e8ca1a34aee6091f5706f937e59",
+    "wof:geomhash":"4cb96061c89474a7ae4eede463d8b4d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071843,
+            "empire_id":136253037,
+            "localadmin_id":404404273,
             "locality_id":101840541,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152136597
         }
     ],
     "wof:id":152136597,
-    "wof:lastmodified":1473798297,
+    "wof:lastmodified":1496797090,
     "wof:name":"Distribution Sanitaire Chauffage (dsc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

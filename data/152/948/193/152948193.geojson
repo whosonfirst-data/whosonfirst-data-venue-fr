@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.701061,43.403572,3.701061,43.403572",
     "geom:latitude":43.403572,
     "geom:longitude":3.701061,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831695,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101831695,
+        136253037,
         102072199
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_1ZWur8RQOqlZDMzuLsDENd_43.403572_3.701061@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8754cfe76ab62b267c230c66ea667078",
+    "wof:geomhash":"cc5fac6f08a31190042add7542fd6ce8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072199,
+            "empire_id":136253037,
             "locality_id":101831695,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152948193
         }
     ],
     "wof:id":152948193,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496778342,
     "wof:name":"Sea Invest France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

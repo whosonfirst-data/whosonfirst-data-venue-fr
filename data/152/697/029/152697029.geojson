@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.133035,50.557724,3.133035,50.557724",
     "geom:latitude":50.557724,
     "geom:longitude":3.133035,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101811403,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404376963,
+        85633147,
+        1108826399,
+        101811403,
+        136253037,
         102071507
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3Oxxau34K78YPAxdgmcrZM_50.557724_3.133035@1306269751"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3fd762fca7a2c1182c07d808465f32e4",
+    "wof:geomhash":"126c99b0e466d68d486c7a370bf031ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071507,
+            "empire_id":136253037,
+            "localadmin_id":404376963,
             "locality_id":101811403,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152697029
         }
     ],
     "wof:id":152697029,
-    "wof:lastmodified":1473798494,
+    "wof:lastmodified":1496790196,
     "wof:name":"Recyclage De Mat\u00e9riaux Du Nord S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

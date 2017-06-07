@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.007628,43.182465,3.007628,43.182465",
     "geom:latitude":43.182465,
     "geom:longitude":3.007628,
@@ -28,9 +29,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101773353,
-        85633147,
         85683485,
+        102191581,
+        85633147,
+        404228023,
+        1108826387,
+        101773353,
+        136253037,
         102072185
     ],
     "wof:breaches":[],
@@ -38,18 +43,22 @@
         "sg:id":"SG_0a5FfgGPM3WHVzkHr4m9rE_43.182465_3.007628@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f1ef03c75e1075a104c12d28c521417e",
+    "wof:geomhash":"71cfdca4b008841afe6670492295e8cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072185,
+            "empire_id":136253037,
             "locality_id":101773353,
+            "macrocounty_id":404228023,
+            "macroregion_id":1108826387,
             "region_id":85683485,
             "venue_id":136303541
         }
     ],
     "wof:id":136303541,
-    "wof:lastmodified":1473798017,
+    "wof:lastmodified":1496799374,
     "wof:name":"Cr\u00e9dit Foncier De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

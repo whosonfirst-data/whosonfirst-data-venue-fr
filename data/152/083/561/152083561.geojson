@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.811574,43.613445,3.811574,43.613445",
     "geom:latitude":43.613445,
     "geom:longitude":3.811574,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753129,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404365657,
+        85633147,
+        1108826387,
+        101753129,
+        136253037,
         102071417
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1w0MFxmFQh09adzxPkP6xw_43.613445_3.811574@1306269719"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d56426a9fe8213ce60818949863619f",
+    "wof:geomhash":"dab7611aa344988d9649e0c2c36d0846",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071417,
+            "empire_id":136253037,
+            "localadmin_id":404365657,
             "locality_id":101753129,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152083561
         }
     ],
     "wof:id":152083561,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496799117,
     "wof:name":"Pool Technologie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

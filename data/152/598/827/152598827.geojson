@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.930891,49.702984,4.930891,49.702984",
     "geom:latitude":49.702984,
     "geom:longitude":4.930891,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840285,
-        85633147,
         85683309,
+        102191581,
+        404228017,
+        404357101,
+        85633147,
+        1108826391,
+        101840285,
+        136253037,
         102072495
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_412wdfAQL30lB3TmD8uXZG_49.702984_4.930891@1306269748"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c1a9410593299c27c682652d72360d7c",
+    "wof:geomhash":"dc27a651c55fff8e21dcd18dd02803c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072495,
+            "empire_id":136253037,
+            "localadmin_id":404357101,
             "locality_id":101840285,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152598827
         }
     ],
     "wof:id":152598827,
-    "wof:lastmodified":1473798490,
+    "wof:lastmodified":1496805305,
     "wof:name":"M.c.i. S.a.r.l. - M\u00e9ga Concept Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

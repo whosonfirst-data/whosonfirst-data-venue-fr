@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.768064,45.444927,4.768064,45.444927",
     "geom:latitude":45.444927,
     "geom:longitude":4.768064,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830587,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404395397,
+        85633147,
+        1108826389,
+        101830587,
+        136253037,
         102068821
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3vd5FMkiLEh3fRBDItzKRg_45.444927_4.768064@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"750c71fe1ad31b698904fd6ecaf4436b",
+    "wof:geomhash":"8d784f59505b38f8a410c40ee25c7d16",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068821,
+            "empire_id":136253037,
+            "localadmin_id":404395397,
             "locality_id":101830587,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136291043
         }
     ],
     "wof:id":136291043,
-    "wof:lastmodified":1473797874,
+    "wof:lastmodified":1496781044,
     "wof:name":"Ceratherm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

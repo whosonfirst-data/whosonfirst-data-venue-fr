@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.623526,46.120209,4.623526,46.120209",
     "geom:latitude":46.120209,
     "geom:longitude":4.623526,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767687,
-        85633147,
         85683569,
+        102191581,
+        404227949,
+        404366003,
+        85633147,
+        1108826389,
+        101767687,
+        136253037,
         102064935
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_3fDIgygJNkhdrewHqXhO3T_46.120209_4.623526@1306269762"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f3005c1e265d73ecac980d76a0730abb",
+    "wof:geomhash":"650793f59a3b319b43779ced0b11e920",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064935,
+            "empire_id":136253037,
+            "localadmin_id":404366003,
             "locality_id":101767687,
+            "macrocounty_id":404227949,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152965915
         }
     ],
     "wof:id":152965915,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496779362,
     "wof:name":"Roche Antonin Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

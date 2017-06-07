@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.562548,45.224709,0.562548,45.224709",
     "geom:latitude":45.224709,
     "geom:longitude":0.562548,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842885,
-        85633147,
         85683331,
+        102191581,
+        404228049,
+        404424655,
+        85633147,
+        1108826385,
+        101842885,
+        136253037,
         102069863
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6dFk4FlVkRvFjAiiVM9fjX_45.224709_0.562548@1306269770"
     },
     "wof:country":"FR",
-    "wof:geomhash":"74233298995fd790c40c339e067223cb",
+    "wof:geomhash":"a809d960819fd980faee14def424a399",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069863,
+            "empire_id":136253037,
+            "localadmin_id":404424655,
             "locality_id":101842885,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":168880971
         }
     ],
     "wof:id":168880971,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496776134,
     "wof:name":"Compagnie De Distribution S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.04831,47.30407,5.04831,47.30407",
     "geom:latitude":47.30407,
     "geom:longitude":5.04831,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4hiDGPH9mFDTVM7u3ekMpA_47.304070_5.048310@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6f77c31d9f09ad1c87ed87a56a7b3de6",
+    "wof:geomhash":"3c52ffa54fb1eed0e420059458b57bd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":136277177
         }
     ],
     "wof:id":136277177,
-    "wof:lastmodified":1473797883,
+    "wof:lastmodified":1496789068,
     "wof:name":"Expertise Comptable Et Audit Sa",
-    "wof:parent_id":101749549,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

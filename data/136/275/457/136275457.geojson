@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.348682,49.213131,-0.348682,49.213131",
     "geom:latitude":49.213131,
     "geom:longitude":-0.348682,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750163,
-        85633147,
         85683579,
+        102191581,
+        85633147,
+        404227825,
+        1108826393,
+        101750163,
+        136253037,
         102071963
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_3cQLNjaJ9joU2PUWq1TP8J_49.213131_-0.348682@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0bd2efb39dd2f61f10623e332b64019e",
+    "wof:geomhash":"b17aab18d2a3d243f24d0f04a29a6a4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071963,
+            "empire_id":136253037,
             "locality_id":101750163,
+            "macrocounty_id":404227825,
+            "macroregion_id":1108826393,
             "region_id":85683579,
             "venue_id":136275457
         }
     ],
     "wof:id":136275457,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496787285,
     "wof:name":"Cabinet D'expertise Mouret",
-    "wof:parent_id":101750163,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

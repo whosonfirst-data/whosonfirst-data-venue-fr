@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.806807,45.79985,4.806807,45.79985",
     "geom:latitude":45.79985,
     "geom:longitude":4.806807,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750795,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404377451,
+        85633147,
+        1108826389,
+        101750795,
+        136253037,
         102066055
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6bBJtSig1GyijCNrhDwcQV_45.799850_4.806807@1306269749"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d7c7f88afe2047129d96a82f1f39f733",
+    "wof:geomhash":"dd7a586fd7942a5de3dd7cf14bbb78f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066055,
+            "empire_id":136253037,
+            "localadmin_id":404377451,
             "locality_id":101750795,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152647557
         }
     ],
     "wof:id":152647557,
-    "wof:lastmodified":1473798478,
+    "wof:lastmodified":1496781690,
     "wof:name":"N\u00e9opost France S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

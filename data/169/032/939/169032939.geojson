@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.640405,43.805519,4.640405,43.805519",
     "geom:latitude":43.805519,
     "geom:longitude":4.640405,
@@ -22,9 +23,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831869,
-        85633147,
         85683431,
+        102191581,
+        404227861,
+        404382941,
+        85633147,
+        1108826387,
+        101831869,
+        136253037,
         102065911
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0jBZCiulU7IzIitHJOz89d_43.805519_4.640405@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc57e9d19f646aa7dfb2e9cf7f1bd359",
+    "wof:geomhash":"cf175a51ce2cb24694a62b7134ac61f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065911,
+            "empire_id":136253037,
+            "localadmin_id":404382941,
             "locality_id":101831869,
+            "macrocounty_id":404227861,
+            "macroregion_id":1108826387,
             "region_id":85683431,
             "venue_id":169032939
         }
     ],
     "wof:id":169032939,
-    "wof:lastmodified":1473797989,
+    "wof:lastmodified":1496799188,
     "wof:name":"Les Chais Beaucairois S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

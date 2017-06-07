@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.552425,50.119881,1.552425,50.119881",
     "geom:latitude":50.119881,
     "geom:longitude":1.552425,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101899135,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404361283,
+        85633147,
+        1108826399,
+        101899135,
+        136253037,
         102071397
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_0UAlbySv9kAshdP8m2oRYM_50.119881_1.552425@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b3750d8c681407a8ed914a3e3ae65350",
+    "wof:geomhash":"a3e31b16f4005ffa2428533b0302f328",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071397,
+            "empire_id":136253037,
+            "localadmin_id":404361283,
             "locality_id":101899135,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152089449
         }
     ],
     "wof:id":152089449,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496791298,
     "wof:name":"Ets Laigneau Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

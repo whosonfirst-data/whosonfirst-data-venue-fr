@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361478,46.671329,4.361478,46.671329",
     "geom:latitude":46.671329,
     "geom:longitude":4.361478,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829217,
-        85633147,
         85683543,
+        102191581,
+        85633147,
+        404227955,
+        1108826395,
+        101829217,
+        136253037,
         102072165
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_4uhAvEDU77yGQXZddG0lHH_46.671329_4.361478@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fedcf9272397962053240ae874029666",
+    "wof:geomhash":"d36a8c48b595d3b949c1a02da0a59c46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072165,
+            "empire_id":136253037,
             "locality_id":101829217,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":136274757
         }
     ],
     "wof:id":136274757,
-    "wof:lastmodified":1473797898,
+    "wof:lastmodified":1496788286,
     "wof:name":"Auditis Sa",
-    "wof:parent_id":101829217,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

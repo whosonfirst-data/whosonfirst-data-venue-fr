@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.151525,46.158287,-1.151525,46.158287",
     "geom:latitude":46.158287,
     "geom:longitude":-1.151525,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749503,
-        85633147,
         85683275,
+        102191581,
+        85633147,
+        404228037,
+        1108826385,
+        101749503,
+        136253037,
         102072341
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7POCSh6VrjD77CCsY2vVSA_46.158287_-1.151525@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"048392ad271ff22c3a16eb60af3db681",
+    "wof:geomhash":"c67685890646cfaa4422ec037dd89e60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072341,
+            "empire_id":136253037,
             "locality_id":101749503,
+            "macrocounty_id":404228037,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152069339
         }
     ],
     "wof:id":152069339,
-    "wof:lastmodified":1473798077,
+    "wof:lastmodified":1496775548,
     "wof:name":"La Rochelaise Des Glaces",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

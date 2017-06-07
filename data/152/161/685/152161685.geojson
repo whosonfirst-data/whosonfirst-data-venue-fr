@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.753805,48.558441,6.753805,48.558441",
     "geom:latitude":48.558441,
     "geom:longitude":6.753805,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101883833,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404364291,
+        85633147,
+        1108826391,
+        101883833,
+        136253037,
         102065313
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7Lh4pC6XV4EApncGFBDXF8_48.558441_6.753805@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"349de49f403007d9a8b87c18df407876",
+    "wof:geomhash":"bef673bfefffa7d9e8fd467264b45629",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065313,
+            "empire_id":136253037,
+            "localadmin_id":404364291,
             "locality_id":101883833,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152161685
         }
     ],
     "wof:id":152161685,
-    "wof:lastmodified":1473798307,
+    "wof:lastmodified":1496784548,
     "wof:name":"Vincent Bernard Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

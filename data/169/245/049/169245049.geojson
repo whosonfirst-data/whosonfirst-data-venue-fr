@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.62145,48.849098,7.62145,48.849098",
     "geom:latitude":48.849098,
     "geom:longitude":7.62145,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101827851,
-        85633147,
         85683221,
-        102067073
+        102191581,
+        404228253,
+        404399463,
+        85633147,
+        1108826391,
+        101827851,
+        136253037,
+        102065001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nBkeA7Q0j8fWTdG9jIXug_48.849098_7.621450@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8e26ad8835b58a2aa35e5be663e7c45c",
+    "wof:geomhash":"51500f0b70557cb12bbceeb095c087d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067073,
+            "county_id":102065001,
+            "empire_id":136253037,
+            "localadmin_id":404399463,
             "locality_id":101827851,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":169245049
         }
     ],
     "wof:id":169245049,
-    "wof:lastmodified":1473798281,
+    "wof:lastmodified":1496785807,
     "wof:name":"Ste Exploit De La Scierie Grabler Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

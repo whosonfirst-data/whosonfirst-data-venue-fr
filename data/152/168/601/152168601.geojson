@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.697522,49.556664,2.697522,49.556664",
     "geom:latitude":49.556664,
     "geom:longitude":2.697522,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901337,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404412629,
+        85633147,
+        1108826399,
+        101901337,
+        136253037,
         102070043
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_085Fc9OLDeNyxzhJQhO4Vx_49.556664_2.697522@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6fc5a274763395ee55483790d9d81cb6",
+    "wof:geomhash":"e32c438318c48614a9b22a278ff23120",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070043,
+            "empire_id":136253037,
+            "localadmin_id":404412629,
             "locality_id":101901337,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152168601
         }
     ],
     "wof:id":152168601,
-    "wof:lastmodified":1473798305,
+    "wof:lastmodified":1496790065,
     "wof:name":"Sopem Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

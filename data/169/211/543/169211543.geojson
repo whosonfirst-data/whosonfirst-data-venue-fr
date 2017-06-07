@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.370525,51.024956,2.370525,51.024956",
     "geom:latitude":51.024956,
     "geom:longitude":2.370525,
@@ -24,9 +25,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750237,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228245,
+        1108826399,
+        101750237,
+        136253037,
         102071923
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_4nlK6A1r9o7h1WoOaFtzFF_51.024956_2.370525@1306269783"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b9f1369f5a037c055950aa7aaa3e6642",
+    "wof:geomhash":"b62ffd523cecc6e615d3d8a83e97b529",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071923,
+            "empire_id":136253037,
             "locality_id":101750237,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169211543
         }
     ],
     "wof:id":169211543,
-    "wof:lastmodified":1473798240,
+    "wof:lastmodified":1496790373,
     "wof:name":"V.n.f. - Voies Navigables De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

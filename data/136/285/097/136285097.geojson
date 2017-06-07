@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.776094,43.358524,-1.776094,43.358524",
     "geom:latitude":43.358524,
     "geom:longitude":-1.776094,
@@ -34,30 +35,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753141,
-        85633147,
-        85683539,
-        102071357
+        102545785,
+        85682741,
+        102191581,
+        404336163,
+        85633129,
+        404227393,
+        101753809
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iq31w6RQr7M3LDcX2pNUW_43.358524_-1.776094@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d9e13af97a6c659e2d041fd62ad92f8",
+    "wof:geomhash":"68591b221013952ba1edfa29f4c0d060",
     "wof:hierarchy":[
         {
-            "country_id":85633147,
-            "county_id":102071357,
-            "locality_id":101753141,
-            "region_id":85683539,
+            "campus_id":102545785,
+            "continent_id":102191581,
+            "country_id":85633129,
+            "localadmin_id":404336163,
+            "locality_id":101753809,
+            "macroregion_id":404227393,
+            "neighbourhood_id":-1,
+            "region_id":85682741,
             "venue_id":136285097
         }
     ],
     "wof:id":136285097,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496776783,
     "wof:name":"Armement Tenia Societe A Responsabilite Limitee",
-    "wof:parent_id":-1,
+    "wof:parent_id":102545785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

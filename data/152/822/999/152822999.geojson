@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.548584,44.824612,-0.548584,44.824612",
     "geom:latitude":44.824612,
     "geom:longitude":-0.548584,
@@ -24,30 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897675,
+        102191581,
         85633147,
-        101749339,
-        102071639,
-        85897675
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wHqRqP2QOWnza539cuzIu_44.824612_-0.548584@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d2bcb37af6e3b61d54773e76276d699b",
+    "wof:geomhash":"bbe03ccf5f3161a529f659365c7786fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071639,
-            "locality_id":101749339,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897675,
             "region_id":85683243,
             "venue_id":152822999
         }
     ],
     "wof:id":152822999,
-    "wof:lastmodified":1473798538,
+    "wof:lastmodified":1496775379,
     "wof:name":"Touchard S.a.r.l.",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",

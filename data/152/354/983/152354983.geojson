@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.326481,45.692638,-0.326481,45.692638",
     "geom:latitude":45.692638,
     "geom:longitude":-0.326481,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829059,
-        85633147,
         85683437,
+        102191581,
+        404227831,
+        404369475,
+        85633147,
+        1108826385,
+        101829059,
+        136253037,
         102072143
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_3fUKkldDLu0dBMKcwxPcTf_45.692638_-0.326481@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e0933069e7859959722e0e14d464e414",
+    "wof:geomhash":"ec1554118ffe136faa34c6c555e98f86",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072143,
+            "empire_id":136253037,
+            "localadmin_id":404369475,
             "locality_id":101829059,
+            "macrocounty_id":404227831,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152354983
         }
     ],
     "wof:id":152354983,
-    "wof:lastmodified":1473798380,
+    "wof:lastmodified":1496798521,
     "wof:name":"Centre De Congr\u00e8s La Salamandre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

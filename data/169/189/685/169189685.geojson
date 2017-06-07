@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.37998,48.965542,4.37998,48.965542",
     "geom:latitude":48.965542,
     "geom:longitude":4.37998,
@@ -24,28 +25,36 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828103,
-        85633147,
         85683405,
-        102071239
+        102191581,
+        85633147,
+        404227697,
+        1108826391,
+        101828103,
+        136253037,
+        102072043
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o0ZkhZwX7aJ3w2HdufnVt_48.965542_4.379980@1306269782"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2aee9288e4acf17b5ab672147464b1a0",
+    "wof:geomhash":"aa553096bd60aa7320b4e19dd316c771",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071239,
+            "county_id":102072043,
+            "empire_id":136253037,
             "locality_id":101828103,
+            "macrocounty_id":404227697,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":169189685
         }
     ],
     "wof:id":169189685,
-    "wof:lastmodified":1473798221,
+    "wof:lastmodified":1496783987,
     "wof:name":"T.c.c. S.a. - Tuyauterie Chaudronnerie Champenoise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

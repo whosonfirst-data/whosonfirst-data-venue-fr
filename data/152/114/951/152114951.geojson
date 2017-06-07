@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.689079,39.636623,-74.689079,39.636623",
     "geom:latitude":39.636623,
     "geom:longitude":-74.689079,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688607,
+        102191575,
+        404477627,
         85633793,
-        85688607
+        102083869
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,13 +47,16 @@
     "wof:geomhash":"5a31a31260b30339e79a760183dc06e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102083869,
+            "localadmin_id":404477627,
             "region_id":85688607,
             "venue_id":152114951
         }
     ],
     "wof:id":152114951,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1492019165,
     "wof:name":"Gruau Lorrain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

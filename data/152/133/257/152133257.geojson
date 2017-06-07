@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.1904,45.232555,4.1904,45.232555",
     "geom:latitude":45.232555,
     "geom:longitude":4.1904,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894425,
-        85633147,
         85683413,
+        102191581,
+        404228091,
+        404363515,
+        85633147,
+        1108826389,
+        101894425,
+        136253037,
         102070573
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3dPARXtdDixHv37oyVRqTs_45.232555_4.190400@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bc3b66c43a70f28505ff468541cc58db",
+    "wof:geomhash":"d3c8cf49984884286d5be9c8d7737a06",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070573,
+            "empire_id":136253037,
+            "localadmin_id":404363515,
             "locality_id":101894425,
+            "macrocounty_id":404228091,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":152133257
         }
     ],
     "wof:id":152133257,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496806506,
     "wof:name":"Cab Mecanique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

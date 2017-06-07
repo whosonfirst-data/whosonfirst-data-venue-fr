@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.165402,49.140301,6.165402,49.140301",
     "geom:latitude":49.140301,
     "geom:longitude":6.165402,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750105,
-        85633147,
         85683271,
+        102191581,
+        404228319,
+        404367463,
+        85633147,
+        1108826391,
+        101750105,
+        136253037,
         102072579
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_3i5gbXQJ6j4Bd0FcHQKWQk_49.140301_6.165402@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"aa3a267d1eac7a5e55daf3d15f99592e",
+    "wof:geomhash":"31ae209359e94ef411aa4eec73078b58",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072579,
+            "empire_id":136253037,
+            "localadmin_id":404367463,
             "locality_id":101750105,
+            "macrocounty_id":404228319,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152081869
         }
     ],
     "wof:id":152081869,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496785798,
     "wof:name":"Cillit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

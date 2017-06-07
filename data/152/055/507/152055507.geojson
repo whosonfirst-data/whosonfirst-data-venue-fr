@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.500766,49.083797,1.500766,49.083797",
     "geom:latitude":49.083797,
     "geom:longitude":1.500766,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828365,
-        85633147,
         85683283,
+        102191581,
+        404228055,
+        404361533,
+        85633147,
+        1108826393,
+        101828365,
+        136253037,
         102072193
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2HLjVFpCuI0YdcAkhsfKGE_49.083797_1.500766@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"274708852d9d716a6365301cc63b2930",
+    "wof:geomhash":"950c0026597cc4509a0bb81816c3efcd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072193,
+            "empire_id":136253037,
+            "localadmin_id":404361533,
             "locality_id":101828365,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152055507
         }
     ],
     "wof:id":152055507,
-    "wof:lastmodified":1473797924,
+    "wof:lastmodified":1496804839,
     "wof:name":"Sea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

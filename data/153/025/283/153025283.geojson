@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.941015,45.686031,4.941015,45.686031",
     "geom:latitude":45.686031,
     "geom:longitude":4.941015,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750801,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404384273,
+        85633147,
+        1108826389,
+        101750801,
+        136253037,
         102071359
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_0SpPeocAUYj3rA1umuolo9_45.686031_4.941015@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ba71cb63a0c739be5ddb824957760bf",
+    "wof:geomhash":"45afdd83ac9b1645224da3bff1addd7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071359,
+            "empire_id":136253037,
+            "localadmin_id":404384273,
             "locality_id":101750801,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153025283
         }
     ],
     "wof:id":153025283,
-    "wof:lastmodified":1473797884,
+    "wof:lastmodified":1496800013,
     "wof:name":"Mory Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

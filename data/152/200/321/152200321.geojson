@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.06979,50.41246,3.06979,50.41246",
     "geom:latitude":50.41246,
     "geom:longitude":3.06979,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840681,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404347507,
+        85633147,
+        1108826399,
+        101840681,
+        136253037,
         102071869
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_5G8D18Ek2gU5hSqzsv2Xhm_50.412460_3.069790@1306269734"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1b81b5773f6c453153982d8f9981de3a",
+    "wof:geomhash":"631f9f2a5798bd96bb8fc02035961de7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071869,
+            "empire_id":136253037,
+            "localadmin_id":404347507,
             "locality_id":101840681,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152200321
         }
     ],
     "wof:id":152200321,
-    "wof:lastmodified":1473798320,
+    "wof:lastmodified":1496792110,
     "wof:name":"Umicore France Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

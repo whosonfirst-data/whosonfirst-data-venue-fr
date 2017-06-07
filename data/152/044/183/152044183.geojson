@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.841255,47.665302,6.841255,47.665302",
     "geom:latitude":47.665302,
     "geom:longitude":6.841255,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750887,
-        85633147,
         85683353,
+        102191581,
+        404227783,
+        404399091,
+        85633147,
+        1108826395,
+        101750887,
+        136253037,
         102065259
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0FN9YIs8m0aInUqig4GGuk_47.665302_6.841255@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a8b3367d14ac5661be960aef0fe18011",
+    "wof:geomhash":"c7f36b0afda8c3362b2f93ddc34e8d75",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065259,
+            "empire_id":136253037,
+            "localadmin_id":404399091,
             "locality_id":101750887,
+            "macrocounty_id":404227783,
+            "macroregion_id":1108826395,
             "region_id":85683353,
             "venue_id":152044183
         }
     ],
     "wof:id":152044183,
-    "wof:lastmodified":1473797899,
+    "wof:lastmodified":1496804444,
     "wof:name":"Passerelle Pour L'emploi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

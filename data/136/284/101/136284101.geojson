@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.626876,44.160385,0.626876,44.160385",
     "geom:latitude":44.160385,
     "geom:longitude":0.626876,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101850305,
-        85633147,
         85683341,
+        102191581,
+        404227689,
+        404367965,
+        85633147,
+        1108826385,
+        101850305,
+        136253037,
         102066999
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2179UOgt83KW8qfT8s7X9Q_44.160385_0.626876@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"21c0fb123a632a50b964dd6fef805833",
+    "wof:geomhash":"8ac1047c08d103f685dd2359088bfd74",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066999,
+            "empire_id":136253037,
+            "localadmin_id":404367965,
             "locality_id":101850305,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":136284101
         }
     ],
     "wof:id":136284101,
-    "wof:lastmodified":1473797888,
+    "wof:lastmodified":1496776447,
     "wof:name":"Irrigaronne Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

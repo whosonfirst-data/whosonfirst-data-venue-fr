@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.240717,48.979313,3.240717,48.979313",
     "geom:latitude":48.979313,
     "geom:longitude":3.240717,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101880587,
-        85633147,
         85683247,
+        102191581,
+        404227587,
+        404421161,
+        85633147,
+        1108826399,
+        101880587,
+        136253037,
         102065405
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1PDot2eaR3dT15Oy0EglpF_48.979313_3.240717@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"66d71afedcfac1ef1b9933f0ac149ff4",
+    "wof:geomhash":"4aad67d406ac2160836cd4db7b686175",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065405,
+            "empire_id":136253037,
+            "localadmin_id":404421161,
             "locality_id":101880587,
+            "macrocounty_id":404227587,
+            "macroregion_id":1108826399,
             "region_id":85683247,
             "venue_id":168867311
         }
     ],
     "wof:id":168867311,
-    "wof:lastmodified":1473798011,
+    "wof:lastmodified":1496792031,
     "wof:name":"Champagne Bourgeois Diffusion S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

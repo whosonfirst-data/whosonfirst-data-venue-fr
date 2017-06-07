@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.781333,50.307129,2.781333,50.307129",
     "geom:latitude":50.307129,
     "geom:longitude":2.781333,
@@ -24,9 +25,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840385,
-        85633147,
         85683255,
+        102191581,
+        404227723,
+        404420323,
+        85633147,
+        1108826399,
+        101840385,
+        136253037,
         102064675
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6m6LoyezF2aCsnz9veX0wJ_50.307129_2.781333@1306269767"
     },
     "wof:country":"FR",
-    "wof:geomhash":"859c7b0a2f0e080a37f1d152b1ee6c32",
+    "wof:geomhash":"1b04adc23e2c318009638fd5edc98d7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064675,
+            "empire_id":136253037,
+            "localadmin_id":404420323,
             "locality_id":101840385,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":153077379
         }
     ],
     "wof:id":153077379,
-    "wof:lastmodified":1473797981,
+    "wof:lastmodified":1496792620,
     "wof:name":"Artois Express S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

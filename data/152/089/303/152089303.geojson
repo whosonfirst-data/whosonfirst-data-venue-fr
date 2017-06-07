@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.27853,45.390141,4.27853,45.390141",
     "geom:latitude":45.390141,
     "geom:longitude":4.27853,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752993,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404354045,
+        85633147,
+        1108826389,
+        101752993,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2ApKRrUl4tp8JvtcELbQu5_45.390141_4.278530@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8d13e3b479ae9a6a5ed0b6f3427c3c1e",
+    "wof:geomhash":"6d3a6f88f1ef9ec10bc888be7868733e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404354045,
             "locality_id":101752993,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152089303
         }
     ],
     "wof:id":152089303,
-    "wof:lastmodified":1473798161,
+    "wof:lastmodified":1496779342,
     "wof:name":"Etablissements Pichon Et Vacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.584325,44.368019,2.584325,44.368019",
     "geom:latitude":44.368019,
     "geom:longitude":2.584325,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831897,
-        85633147,
         85683301,
+        102191581,
+        404227821,
+        404361499,
+        85633147,
+        1108826387,
+        101831897,
+        136253037,
         102071401
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2oNjKVdYJJTOmdVcdEhnOR_44.368019_2.584325@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4ee8d1d29c8a30a72d301c3f967b991c",
+    "wof:geomhash":"ad8695dbe1087ef0143b335b5f3fc15c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071401,
+            "empire_id":136253037,
+            "localadmin_id":404361499,
             "locality_id":101831897,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":136286719
         }
     ],
     "wof:id":136286719,
-    "wof:lastmodified":1473797933,
+    "wof:lastmodified":1496777947,
     "wof:name":"Office National Des Forets (onf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.027349,49.382706,1.027349,49.382706",
     "geom:latitude":49.382706,
     "geom:longitude":1.027349,
@@ -23,9 +24,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751445,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404375269,
+        85633147,
+        1108826393,
+        101751445,
+        136253037,
         102069201
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2CF6t7StXhQPREvQQkxIed_49.382706_1.027349@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ac70dd8a373c33a9b6ebac1eaf0cedd3",
+    "wof:geomhash":"9347e3fcf9344891c275ed58d59db403",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069201,
+            "empire_id":136253037,
+            "localadmin_id":404375269,
             "locality_id":101751445,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152399827
         }
     ],
     "wof:id":152399827,
-    "wof:lastmodified":1473798396,
+    "wof:lastmodified":1496787143,
     "wof:name":"Delattre Levivier S.a. - Agence De Normandie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

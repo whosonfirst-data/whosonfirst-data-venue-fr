@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.644352,49.07901,3.644352,49.07901",
     "geom:latitude":49.07901,
     "geom:longitude":3.644352,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762637,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404410435,
+        85633147,
+        1108826391,
+        101762637,
+        136253037,
         102065927
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0BGRaCAmL3sifs7wzx6VY3_49.079010_3.644352@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfa0733a94fea85c4edc8e25e5a04c95",
+    "wof:geomhash":"6d3b2847b27f3dd2c742de5a2f3861cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065927,
+            "empire_id":136253037,
+            "localadmin_id":404410435,
             "locality_id":101762637,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152066303
         }
     ],
     "wof:id":152066303,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496784737,
     "wof:name":"Dormans Travaux Publics Et Viticoles (dtpv)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

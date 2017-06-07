@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.079154,48.283028,4.079154,48.283028",
     "geom:latitude":48.283028,
     "geom:longitude":4.079154,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750981,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404405659,
+        85633147,
+        1108826391,
+        101750981,
+        136253037,
         102072497
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_0BMpSCFJRVd2aSyZ33Bl1c_48.283028_4.079154@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9803d70de3caf4d9e1ddc43ed22d9890",
+    "wof:geomhash":"e87acb98e268f9e6d4964ccceeb32e1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072497,
+            "empire_id":136253037,
+            "localadmin_id":404405659,
             "locality_id":101750981,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":153010055
         }
     ],
     "wof:id":153010055,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496786533,
     "wof:name":"Compagnie Francaise De Telecommunication Cofratel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

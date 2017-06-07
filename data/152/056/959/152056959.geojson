@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.376055,43.635399,1.376055,43.635399",
     "geom:latitude":43.635399,
     "geom:longitude":1.376055,
@@ -32,32 +33,55 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683397,
+        102544865,
+        85794645,
+        102191581,
+        404228067,
         85633147,
+        1108826387,
         101750691,
+        136253037,
         102072513,
-        85794645
+        85683397,
+        404227443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zBJIZQIYlJFBQBbnQSnqi_43.635399_1.376055@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"075230b0824be9a0f3920f5bfd815c65",
+    "wof:geomhash":"1f9e0d5b2efdeccca5acad4265201c15",
     "wof:hierarchy":[
         {
+            "campus_id":102544865,
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072513,
+            "empire_id":136253037,
+            "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "neighbourhood_id":85794645,
+            "region_id":85683397,
+            "venue_id":152056959
+        },
+        {
+            "campus_id":102544865,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072513,
             "locality_id":101750691,
+            "macrocounty_id":404228067,
+            "macroregion_id":404227443,
             "neighbourhood_id":85794645,
             "region_id":85683397,
             "venue_id":152056959
         }
     ],
     "wof:id":152056959,
-    "wof:lastmodified":1473797959,
+    "wof:lastmodified":1496777789,
     "wof:name":"Lambert Riviere Sa",
-    "wof:parent_id":85794645,
+    "wof:parent_id":102544865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

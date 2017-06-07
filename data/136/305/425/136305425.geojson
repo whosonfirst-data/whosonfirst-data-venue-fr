@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.172672,48.30201,6.172672,48.30201",
     "geom:latitude":48.30201,
     "geom:longitude":6.172672,
@@ -29,9 +30,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101884073,
-        85633147,
         85683223,
+        102191581,
+        404227991,
+        404355129,
+        85633147,
+        1108826391,
+        101884073,
+        136253037,
         102067289
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_7KGsyqdzHCf80vDGGszAuH_48.302010_6.172672@1306269706"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7b2dbe48bfce96613896df58d07932dd",
+    "wof:geomhash":"f8187c5ecc5eb2e12804ed3b86c58e46",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067289,
+            "empire_id":136253037,
+            "localadmin_id":404355129,
             "locality_id":101884073,
+            "macrocounty_id":404227991,
+            "macroregion_id":1108826391,
             "region_id":85683223,
             "venue_id":136305425
         }
     ],
     "wof:id":136305425,
-    "wof:lastmodified":1473798000,
+    "wof:lastmodified":1496793779,
     "wof:name":"D.f.i Normandie, (p.p.n.s.a)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

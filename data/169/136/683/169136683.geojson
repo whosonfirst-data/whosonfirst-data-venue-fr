@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.608214,48.254929,7.608214,48.254929",
     "geom:latitude":48.254929,
     "geom:longitude":7.608214,
@@ -24,9 +25,14 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765053,
-        85633147,
         85683221,
+        102191581,
+        404228289,
+        404359213,
+        85633147,
+        1108826391,
+        101765053,
+        136253037,
         102066585
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6R3b9KXJqAOjVAOaVwcQi2_48.254929_7.608214@1306269780"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fe734f6d82ef3c278b838a890eb53705",
+    "wof:geomhash":"43d78a43209c1be7013894b19e8d6e62",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066585,
+            "empire_id":136253037,
+            "localadmin_id":404359213,
             "locality_id":101765053,
+            "macrocounty_id":404228289,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":169136683
         }
     ],
     "wof:id":169136683,
-    "wof:lastmodified":1473798149,
+    "wof:lastmodified":1496785502,
     "wof:name":"S.n.c. Du Parc S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

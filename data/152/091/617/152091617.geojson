@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.809701,49.137405,6.809701,49.137405",
     "geom:latitude":49.137405,
     "geom:longitude":6.809701,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101756695,
-        85633147,
         85683271,
+        102191581,
+        404228121,
+        404356099,
+        85633147,
+        1108826391,
+        101756695,
+        136253037,
         102071145
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_5HM5w84nPfqvPlnlJ9fz3J_49.137405_6.809701@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b2ffbb899996b831f00dbb3958d2e01a",
+    "wof:geomhash":"2cccaeca14b209f7c0e1ce926090c1d7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071145,
+            "empire_id":136253037,
+            "localadmin_id":404356099,
             "locality_id":101756695,
+            "macrocounty_id":404228121,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152091617
         }
     ],
     "wof:id":152091617,
-    "wof:lastmodified":1473798160,
+    "wof:lastmodified":1496794118,
     "wof:name":"Ste Monas Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.063021,46.026573,4.063021,46.026573",
     "geom:latitude":46.026573,
     "geom:longitude":4.063021,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_775NYcc6nvc0Iu6QHtPsf5_46.026573_4.063021@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"af020a67053ab9511f8ab4c48d6e3ece",
+    "wof:geomhash":"2321d3cbe838f9fbadb98bc52500fdef",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152059985
         }
     ],
     "wof:id":152059985,
-    "wof:lastmodified":1473797954,
+    "wof:lastmodified":1496783275,
     "wof:name":"Cent Facons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

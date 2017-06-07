@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.903227,45.760555,4.903227,45.760555",
     "geom:latitude":45.760555,
     "geom:longitude":4.903227,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750825,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750825,
+        136253037,
         102072269
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_0toVIFg2BZAZSi9EAXPiYt_45.760555_4.903227@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1f876dd69e5a101169866811d13aad27",
+    "wof:geomhash":"22534e278a5bb9e768b471e3291336b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072269,
+            "empire_id":136253037,
             "locality_id":101750825,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152076739
         }
     ],
     "wof:id":152076739,
-    "wof:lastmodified":1473798146,
+    "wof:lastmodified":1496780862,
     "wof:name":"Alstom Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

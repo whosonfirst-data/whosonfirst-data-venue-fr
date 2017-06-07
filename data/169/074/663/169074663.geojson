@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.971143,50.642128,2.971143,50.642128",
     "geom:latitude":50.642128,
     "geom:longitude":2.971143,
@@ -24,9 +25,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750245,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404394441,
+        85633147,
+        1108826399,
+        101750245,
+        136253037,
         102064615
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4TAKXKchM4NxRu7t1CUA6Y_50.642128_2.971143@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"84d226021bc557db3748593917033f49",
+    "wof:geomhash":"d6f84f472ac386a83d7e99b3ce25a8d5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404394441,
             "locality_id":101750245,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169074663
         }
     ],
     "wof:id":169074663,
-    "wof:lastmodified":1473798069,
+    "wof:lastmodified":1496790961,
     "wof:name":"Nord Pas De Calais Bureautique S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

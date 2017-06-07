@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.292552,48.807838,2.292552,48.807838",
     "geom:latitude":48.807838,
     "geom:longitude":2.292552,
@@ -30,11 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683157,
+        85873933,
+        102191581,
         85633147,
-        101749805,
-        102066071,
-        85873933
+        404227749,
+        404227465,
+        101751119,
+        102068177,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,16 +48,19 @@
     "wof:geomhash":"593d12af71b2ced9f57074592572206d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102066071,
-            "locality_id":101749805,
+            "county_id":102068177,
+            "locality_id":101751119,
+            "macrocounty_id":404227749,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873933,
-            "region_id":85683157,
+            "region_id":85683497,
             "venue_id":152931109
         }
     ],
     "wof:id":152931109,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1491936546,
     "wof:name":"Reliure J Noblecourt",
     "wof:parent_id":85873933,
     "wof:placetype":"venue",

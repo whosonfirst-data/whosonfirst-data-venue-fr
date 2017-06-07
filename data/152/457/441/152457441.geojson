@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.976605,45.049252,0.976605,45.049252",
     "geom:latitude":45.049252,
     "geom:longitude":0.976605,
@@ -24,9 +25,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770603,
-        85633147,
         85683331,
+        102191581,
+        404228213,
+        404398435,
+        85633147,
+        1108826385,
+        101770603,
+        136253037,
         102068493
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_7NW7iHEDIkMlpiacAiGU4b_45.049252_0.976605@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7371f247c0f8a2cfd8af24825d600cd9",
+    "wof:geomhash":"3d7876c0ee4ea568fd80c124fbcb7d36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068493,
+            "empire_id":136253037,
+            "localadmin_id":404398435,
             "locality_id":101770603,
+            "macrocounty_id":404228213,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152457441
         }
     ],
     "wof:id":152457441,
-    "wof:lastmodified":1473798417,
+    "wof:lastmodified":1496776338,
     "wof:name":"Etablissements Pompougnac S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.169296,49.216148,1.169296,49.216148",
     "geom:latitude":49.216148,
     "geom:longitude":1.169296,
@@ -28,9 +29,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828377,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404359165,
+        85633147,
+        1108826393,
+        101828377,
+        136253037,
         102072247
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_7CeSXdPF0XJfLj0uKnl9OY_49.216148_1.169296@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b165398e35480cf471c5210e674f66eb",
+    "wof:geomhash":"b1388f71a52ac94d265653601c2d0ad4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072247,
+            "empire_id":136253037,
+            "localadmin_id":404359165,
             "locality_id":101828377,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136301995
         }
     ],
     "wof:id":136301995,
-    "wof:lastmodified":1473798032,
+    "wof:lastmodified":1496787263,
     "wof:name":"Cr\u00e9dit Agricole De L'eure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

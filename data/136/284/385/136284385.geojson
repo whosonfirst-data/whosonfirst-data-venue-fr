@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.0869,48.939201,7.0869,48.939201",
     "geom:latitude":48.939201,
     "geom:longitude":7.0869,
@@ -38,9 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761043,
-        85633147,
         85683221,
+        102191581,
+        404228253,
+        404386591,
+        85633147,
+        1108826391,
+        101761043,
+        136253037,
         102068131
     ],
     "wof:breaches":[],
@@ -48,18 +54,23 @@
         "sg:id":"SG_0PQYFwCepUHguJYe42ETtb_48.939201_7.086900@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1dcad0693e3f00949c508213d4240915",
+    "wof:geomhash":"cc905c4bf29c8a1b8185d1212538e735",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068131,
+            "empire_id":136253037,
+            "localadmin_id":404386591,
             "locality_id":101761043,
+            "macrocounty_id":404228253,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":136284385
         }
     ],
     "wof:id":136284385,
-    "wof:lastmodified":1473797917,
+    "wof:lastmodified":1496784957,
     "wof:name":"Renault Agriculture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

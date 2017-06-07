@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.728724,45.18578,5.728724,45.18578",
     "geom:latitude":45.18578,
     "geom:longitude":5.728724,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2loSJ4L80hK5NIh9E6OKem_45.185780_5.728724@1306269708"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9c1b7eb606d1ec983a2b41db57acba6e",
+    "wof:geomhash":"dd04b8b9fb97786061bf845fe67711f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152043661
         }
     ],
     "wof:id":152043661,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496780635,
     "wof:name":"Chambre Commerce Et Industr. Grenoble ( Groupe Formation)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

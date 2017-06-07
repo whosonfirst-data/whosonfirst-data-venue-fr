@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.109897,49.46011,1.109897,49.46011",
     "geom:latitude":49.46011,
     "geom:longitude":1.109897,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749127,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404379847,
+        85633147,
+        1108826393,
+        101749127,
+        136253037,
         102071767
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_5aPRQXX7XO4EMCcLQhKpYu_49.460110_1.109897@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"09a81393667040b2c6bd4970d974f423",
+    "wof:geomhash":"4f9aab8f481fba63fe1f3aeae1d7348d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071767,
+            "empire_id":136253037,
+            "localadmin_id":404379847,
             "locality_id":101749127,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136276403
         }
     ],
     "wof:id":136276403,
-    "wof:lastmodified":1473797913,
+    "wof:lastmodified":1496787837,
     "wof:name":"Cin (credit Industriel De Normandie)",
-    "wof:parent_id":101749127,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

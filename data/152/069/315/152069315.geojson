@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.46095,46.66806,5.46095,46.66806",
     "geom:latitude":46.66806,
     "geom:longitude":5.46095,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891519,
-        85633147,
         85683173,
+        102191581,
+        404227883,
+        404413777,
+        85633147,
+        1108826395,
+        101891519,
+        136253037,
         102067045
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6rYI9oCIL1uHwv8xUWXzo3_46.668060_5.460950@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d73d67b3d5efa9e72fd0304a8de7836f",
+    "wof:geomhash":"9a9aa4cd94a5e1fa9e102c54402773fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067045,
+            "empire_id":136253037,
+            "localadmin_id":404413777,
             "locality_id":101891519,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152069315
         }
     ],
     "wof:id":152069315,
-    "wof:lastmodified":1473798076,
+    "wof:lastmodified":1496804430,
     "wof:name":"Jura Courlaoux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

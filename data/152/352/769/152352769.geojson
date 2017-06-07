@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.022565,43.499512,3.022565,43.499512",
     "geom:latitude":43.499512,
     "geom:longitude":3.022565,
@@ -24,9 +25,14 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101896787,
-        85633147,
         85683419,
+        102191581,
+        404227659,
+        404391219,
+        85633147,
+        1108826387,
+        101896787,
+        136253037,
         102069079
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_4aqAHTvB7L63HrSd8Itlst_43.499512_3.022565@1306269740"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b626c2375776acb8bb5f7d9d2f0d8a90",
+    "wof:geomhash":"548c421a707d00aa706361d39af02200",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069079,
+            "empire_id":136253037,
+            "localadmin_id":404391219,
             "locality_id":101896787,
+            "macrocounty_id":404227659,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152352769
         }
     ],
     "wof:id":152352769,
-    "wof:lastmodified":1473798379,
+    "wof:lastmodified":1496777868,
     "wof:name":"Cave Les Vins De Roquebrun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

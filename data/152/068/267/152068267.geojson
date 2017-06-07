@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.135004,45.909035,3.135004,45.909035",
     "geom:latitude":45.909035,
     "geom:longitude":3.135004,
@@ -34,24 +35,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683471,
+        102191581,
         85633147,
-        85683471
+        404383313,
+        404228251,
+        1108826389,
+        136253037,
+        102072563
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NmllJfTDt2XycmjJ94of4_45.909035_3.135004@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec472e31397571ba956938fe691f80c8",
+    "wof:geomhash":"cb3aadee822ccdbff89f5542d4bb9b12",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102072563,
+            "empire_id":136253037,
+            "localadmin_id":404383313,
+            "locality_id":-1,
+            "macrocounty_id":404228251,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152068267
         }
     ],
     "wof:id":152068267,
-    "wof:lastmodified":1473798072,
+    "wof:lastmodified":1496780207,
     "wof:name":"Dom Composit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

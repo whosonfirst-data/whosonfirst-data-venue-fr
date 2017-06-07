@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.716007,45.184052,0.716007,45.184052",
     "geom:latitude":45.184052,
     "geom:longitude":0.716007,
@@ -22,9 +23,13 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830685,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404228049,
+        1108826385,
+        101830685,
+        136253037,
         102072189
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_165Hh7eSvHOIbaW22Vr7jC_45.184052_0.716007@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f038c1fb25f47f6a12bdbc0aac70a379",
+    "wof:geomhash":"2f7a7e0802996eec8801885da3700fc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072189,
+            "empire_id":136253037,
             "locality_id":101830685,
+            "macrocounty_id":404228049,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":152325763
         }
     ],
     "wof:id":152325763,
-    "wof:lastmodified":1473798368,
+    "wof:lastmodified":1496776533,
     "wof:name":"C.c.i. De P\u00e9rigueux - Chambre De Commerce Et D'industrie Du P\u00e9rigueux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

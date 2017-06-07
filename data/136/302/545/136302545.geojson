@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.701024,50.298279,1.701024,50.298279",
     "geom:latitude":50.298279,
     "geom:longitude":1.701024,
@@ -29,8 +30,14 @@
     "sg:province":"Bretagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683363,
+        102191581,
         85633147,
-        85683363
+        404407133,
+        404227761,
+        1108826399,
+        136253037,
+        102070943
     ],
     "wof:brand_id":420575123,
     "wof:breaches":[],
@@ -38,16 +45,23 @@
         "sg:id":"SG_62bkaTKV8fZKSioXLcB3V9_50.298279_1.701024@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0aee1c81a11d2c45184f97a3ebff805a",
+    "wof:geomhash":"5f9d44a1377bcdd3c003e43d7b00a627",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070943,
+            "empire_id":136253037,
+            "localadmin_id":404407133,
+            "locality_id":-1,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136302545
         }
     ],
     "wof:id":136302545,
-    "wof:lastmodified":1473798003,
+    "wof:lastmodified":1496795830,
     "wof:name":"Cr\u00e9dit Agricole Mutuel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

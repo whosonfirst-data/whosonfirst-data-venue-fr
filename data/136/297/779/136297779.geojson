@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.156851,44.050625,2.156851,44.050625",
     "geom:latitude":44.050625,
     "geom:longitude":2.156851,
@@ -28,9 +29,13 @@
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831837,
-        85633147,
         85683603,
+        102191581,
+        85633147,
+        404227763,
+        1108826387,
+        101831837,
+        136253037,
         102072125
     ],
     "wof:brand_id":420573859,
@@ -39,18 +44,22 @@
         "sg:id":"SG_5EtfdbqaazXBWPb95lkZsZ_44.050625_2.156851@1306269704"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ccf62fa9b010ccd708697cbe3ae2f52a",
+    "wof:geomhash":"14e80ec35bcd0196587eb42f64c2a050",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072125,
+            "empire_id":136253037,
             "locality_id":101831837,
+            "macrocounty_id":404227763,
+            "macroregion_id":1108826387,
             "region_id":85683603,
             "venue_id":136297779
         }
     ],
     "wof:id":136297779,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496803552,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

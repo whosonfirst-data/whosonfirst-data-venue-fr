@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.756404,45.162926,5.756404,45.162926",
     "geom:latitude":45.162926,
     "geom:longitude":5.756404,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750743,
-        85633147,
         85683427,
+        102191581,
+        404227669,
+        404417279,
+        85633147,
+        1108826389,
+        101750743,
+        136253037,
         102072109
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_18pxt307W1PjcBTbn9X3us_45.162926_5.756404@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"77d96221f0b21440d3f7f447036cc8bc",
+    "wof:geomhash":"cbb593b951e01f1108a408066e56c51c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072109,
+            "empire_id":136253037,
+            "localadmin_id":404417279,
             "locality_id":101750743,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":152652619
         }
     ],
     "wof:id":152652619,
-    "wof:lastmodified":1473798483,
+    "wof:lastmodified":1496779595,
     "wof:name":"Onyx Auvergne Rh\u00f4ne Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.88139,50.68301,2.88139,50.68301",
     "geom:latitude":50.68301,
     "geom:longitude":2.88139,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101839681,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404406293,
+        85633147,
+        1108826399,
+        101839681,
+        136253037,
         102064615
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2bjVr6DTZyGfjnzpUYMIs8_50.683010_2.881390@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"fecf0110ab81750770cb0a110ae4acc6",
+    "wof:geomhash":"704a953d16422a64ed3dfa7bb33ee4c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404406293,
             "locality_id":101839681,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152537227
         }
     ],
     "wof:id":152537227,
-    "wof:lastmodified":1473798452,
+    "wof:lastmodified":1496792071,
     "wof:name":"Imprimerie Express V.m.v. S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

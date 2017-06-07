@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.3722,45.404411,4.3722,45.404411",
     "geom:latitude":45.404411,
     "geom:longitude":4.3722,
@@ -22,9 +23,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749451,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404406537,
+        85633147,
+        1108826389,
+        101749451,
+        136253037,
         102064979
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6daxPBSR7ToY8Sx2dxLiaB_45.404411_4.372200@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"122d170da14b3db23d8ca51947430911",
+    "wof:geomhash":"1514cb851d80f4ba5d2f301cd81f5280",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064979,
+            "empire_id":136253037,
+            "localadmin_id":404406537,
             "locality_id":101749451,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":168938161
         }
     ],
     "wof:id":168938161,
-    "wof:lastmodified":1473798099,
+    "wof:lastmodified":1496779859,
     "wof:name":"Etablissements Jacquemond Peyron Industrie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

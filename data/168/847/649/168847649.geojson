@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.914654,45.773247,4.914654,45.773247",
     "geom:latitude":45.773247,
     "geom:longitude":4.914654,
@@ -23,9 +24,13 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750819,
-        85633147,
         85683569,
+        102191581,
+        85633147,
+        404227735,
+        1108826389,
+        101750819,
+        136253037,
         102071395
     ],
     "wof:breaches":[],
@@ -33,18 +38,22 @@
         "sg:id":"SG_6sATR12Y5xVOerPHOQeL7D_45.773247_4.914654@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80c2b27e97dac3b52fae6e6b0f50a0de",
+    "wof:geomhash":"57db0d1fcfe03d183ebd930063e1e328",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071395,
+            "empire_id":136253037,
             "locality_id":101750819,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":168847649
         }
     ],
     "wof:id":168847649,
-    "wof:lastmodified":1473797985,
+    "wof:lastmodified":1496781252,
     "wof:name":"C.g.r. S.a. - Comptoir G\u00e9n\u00e9ral Du Ressort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

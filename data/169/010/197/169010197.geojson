@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.900067,43.594593,3.900067,43.594593",
     "geom:latitude":43.594593,
     "geom:longitude":3.900067,
@@ -22,9 +23,13 @@
     "sg:province":"Languedoc-Roussillon",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749209,
-        85633147,
         85683419,
+        102191581,
+        85633147,
+        404228073,
+        1108826387,
+        101749209,
+        136253037,
         102072515
     ],
     "wof:breaches":[],
@@ -32,18 +37,22 @@
         "sg:id":"SG_04uzXWsJz9XgmI8AxVpy5I_43.594593_3.900067@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d04e4d8f67c1b008bf876b0583552913",
+    "wof:geomhash":"419b2b37aea2a66b46bd229eceac6d08",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072515,
+            "empire_id":136253037,
             "locality_id":101749209,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":169010197
         }
     ],
     "wof:id":169010197,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496778327,
     "wof:name":"Jeco Formation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

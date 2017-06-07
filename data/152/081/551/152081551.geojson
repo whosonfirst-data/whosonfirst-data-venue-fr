@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.600415,43.670925,0.600415,43.670925",
     "geom:latitude":43.670925,
     "geom:longitude":0.600415,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772589,
-        85633147,
         85683467,
+        102191581,
+        85633147,
+        404227655,
+        1108826387,
+        101772589,
+        136253037,
         102072401
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7dkJavQklmYGWrca8DP2VG_43.670925_0.600415@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4768ee6e0f7fe39a2a012f1a170d862c",
+    "wof:geomhash":"dd416c6325a196e70f5d10408f84b587",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072401,
+            "empire_id":136253037,
             "locality_id":101772589,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152081551
         }
     ],
     "wof:id":152081551,
-    "wof:lastmodified":1473798140,
+    "wof:lastmodified":1496778538,
     "wof:name":"Robert Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

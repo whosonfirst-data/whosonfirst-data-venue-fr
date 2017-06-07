@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.073854,49.458626,2.073854,49.458626",
     "geom:latitude":49.458626,
     "geom:longitude":2.073854,
@@ -34,26 +35,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683289,
+        102191581,
         85633147,
-        85683289
+        404227717,
+        1108826399,
+        136253037,
+        102072415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3brP83xYP3hQRs8VxRf5Dt_49.458626_2.073854@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3b6f3f385c8e8c702127e43bba039442",
+    "wof:geomhash":"5e789412bf7ffa6bcfd498a2bdaae4ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102072415,
+            "empire_id":136253037,
+            "locality_id":-1,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":136276295
         }
     ],
     "wof:id":136276295,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496795461,
     "wof:name":"Centre De Gestion De Comptabilite Et De Fiscalite Agr (cgcfao)",
-    "wof:parent_id":85683289,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

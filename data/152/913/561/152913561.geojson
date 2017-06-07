@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.70678,44.408909,0.70678,44.408909",
     "geom:latitude":44.408909,
     "geom:longitude":0.70678,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830423,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404228101,
+        1108826385,
+        101830423,
+        136253037,
         102072205
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_2lYWp2i8GUUJFBf1egLH1S_44.408909_0.706780@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7d3fc19e8d65f10fad074c2765a7d3ae",
+    "wof:geomhash":"6d1992c2b6df966fbafc23288f9725c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072205,
+            "empire_id":136253037,
             "locality_id":101830423,
+            "macrocounty_id":404228101,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152913561
         }
     ],
     "wof:id":152913561,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496776270,
     "wof:name":"La Depeche Et Le Petit Toulousain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

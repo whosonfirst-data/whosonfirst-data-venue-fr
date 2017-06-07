@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.296965,47.959679,7.296965,47.959679",
     "geom:latitude":47.959679,
     "geom:longitude":7.296965,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101764441,
-        85633147,
         85683381,
+        102191581,
+        404228145,
+        404383643,
+        85633147,
+        1108826391,
+        101764441,
+        136253037,
         102068291
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_1HBp2Yldxv4v0ZCHaVh8fH_47.959679_7.296965@1306269760"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1e83a3e01e0e94c12425c1fa51bccd62",
+    "wof:geomhash":"00824486bca35c5b08432d6de87c4213",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068291,
+            "empire_id":136253037,
+            "localadmin_id":404383643,
             "locality_id":101764441,
+            "macrocounty_id":404228145,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152923783
         }
     ],
     "wof:id":152923783,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496793433,
     "wof:name":"Europ Imprim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

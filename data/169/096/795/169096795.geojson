@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.550484,44.821575,-0.550484,44.821575",
     "geom:latitude":44.821575,
     "geom:longitude":-0.550484,
@@ -24,30 +25,38 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
+        85897675,
+        102191581,
         85633147,
-        101749339,
-        102071639,
-        85897675
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4of54mGQiPu0DPglL7nKgg_44.821575_-0.550484@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3732c89c8ed5fa025cd29a5dc76610a4",
+    "wof:geomhash":"23f6d04b5d974bade2e22c8b9b47e08e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071639,
-            "locality_id":101749339,
+            "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85897675,
             "region_id":85683243,
             "venue_id":169096795
         }
     ],
     "wof:id":169096795,
-    "wof:lastmodified":1473798101,
+    "wof:lastmodified":1496775376,
     "wof:name":"Point P Mat\u00e9riaux",
     "wof:parent_id":85897675,
     "wof:placetype":"venue",

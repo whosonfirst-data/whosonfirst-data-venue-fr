@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.2483,50.468971,3.2483,50.468971",
     "geom:latitude":50.468971,
     "geom:longitude":3.2483,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812665,
-        85633147,
         85683445,
+        102191581,
+        404228125,
+        404410511,
+        85633147,
+        1108826399,
+        101812665,
+        136253037,
         102071465
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0k30FRUzxv9wWHuevTURVx_50.468971_3.248300@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ab33246f7a8c0b9c92c27e52d9d11b9f",
+    "wof:geomhash":"141ba53dd620ecda0a435b900c4cb35e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071465,
+            "empire_id":136253037,
+            "localadmin_id":404410511,
             "locality_id":101812665,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":153040215
         }
     ],
     "wof:id":153040215,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496792107,
     "wof:name":"A.b.c. Organisation S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

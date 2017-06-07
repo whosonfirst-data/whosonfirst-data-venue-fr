@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.804813,47.815922,3.804813,47.815922",
     "geom:latitude":47.815922,
     "geom:longitude":3.804813,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766171,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404356717,
+        85633147,
+        1108826395,
+        101766171,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_4t4ZfsnX0koFhkiJxDVqdI_47.815922_3.804813@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a051589ed0b9c30fa0d2c3634651463c",
+    "wof:geomhash":"ea41cfdc783eab726079cd06bac3ee52",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404356717,
             "locality_id":101766171,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152072557
         }
     ],
     "wof:id":152072557,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496794786,
     "wof:name":"Domaine Servin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

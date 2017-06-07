@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.270934,45.386429,4.270934,45.386429",
     "geom:latitude":45.386429,
     "geom:longitude":4.270934,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749447,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404408829,
+        85633147,
+        1108826389,
+        101749447,
+        136253037,
         102065757
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_0FRfgh16sM2bMackxsG8GZ_45.386429_4.270934@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a865711f608c33d4e053b1e258736f2e",
+    "wof:geomhash":"3b65222fc39c3f8a0f98dac9b16bae53",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065757,
+            "empire_id":136253037,
+            "localadmin_id":404408829,
             "locality_id":101749447,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152113227
         }
     ],
     "wof:id":152113227,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496800662,
     "wof:name":"Automatismes Industriels De La Loire Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

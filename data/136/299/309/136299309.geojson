@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.487251,49.091908,1.487251,49.091908",
     "geom:latitude":49.091908,
     "geom:longitude":1.487251,
@@ -28,9 +29,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828365,
-        85633147,
         85683283,
+        102191581,
+        404228055,
+        404361533,
+        85633147,
+        1108826393,
+        101828365,
+        136253037,
         102072193
     ],
     "wof:brand_id":420573859,
@@ -39,18 +45,23 @@
         "sg:id":"SG_4FC7ZxrpYqqX16RXQaOH6W_49.091908_1.487251@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"361b0f7fc82444c2f8d87b90a2bcf822",
+    "wof:geomhash":"98c78f28628e4ccfc4970b0e7d0aff36",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072193,
+            "empire_id":136253037,
+            "localadmin_id":404361533,
             "locality_id":101828365,
+            "macrocounty_id":404228055,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":136299309
         }
     ],
     "wof:id":136299309,
-    "wof:lastmodified":1473798001,
+    "wof:lastmodified":1496804839,
     "wof:name":"Banque Nationale De Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

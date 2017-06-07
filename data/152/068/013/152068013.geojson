@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.123733,46.790211,6.123733,46.790211",
     "geom:latitude":46.790211,
     "geom:longitude":6.123733,
@@ -32,24 +33,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683173,
+        102191581,
         85633147,
-        85683173
+        404359575,
+        404227883,
+        1108826395,
+        136253037,
+        102068015
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IFFDeHNnAiqs5sKTasjo1_46.790211_6.123733@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"01c19b7b54b9931c9bf47f881ca87e70",
+    "wof:geomhash":"f729b7628f409a9242c8deffdf171aa7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102068015,
+            "empire_id":136253037,
+            "localadmin_id":404359575,
+            "locality_id":-1,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152068013
         }
     ],
     "wof:id":152068013,
-    "wof:lastmodified":1473798046,
+    "wof:lastmodified":1496789245,
     "wof:name":"Ste D'exploitation Des Etablissements Jeannin (sej)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

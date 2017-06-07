@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.077759,29.95369,-90.077759,29.95369",
     "geom:latitude":29.95369,
     "geom:longitude":-90.077759,
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688735,
+        85866107,
+        102191575,
+        1108739491,
         85633793,
         85948111,
         102086693,
-        85866107
+        85688735
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +48,18 @@
     "wof:geomhash":"fa2b1298cb512b9a8ffdc117ea9354d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086693,
             "locality_id":85948111,
+            "macrohood_id":1108739491,
             "neighbourhood_id":85866107,
             "region_id":85688735,
             "venue_id":152878843
         }
     ],
     "wof:id":152878843,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1486688494,
     "wof:name":"Orsa Granulats Franche-comt\u00e9 Sa",
     "wof:parent_id":85866107,
     "wof:placetype":"venue",

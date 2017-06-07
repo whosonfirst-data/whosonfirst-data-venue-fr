@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.51586,49.871208,1.51586,49.871208",
     "geom:latitude":49.871208,
     "geom:longitude":1.51586,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101900265,
-        85633147,
         85683251,
+        102191581,
+        404227751,
+        404410145,
+        85633147,
+        1108826393,
+        101900265,
+        136253037,
         102070383
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_1CXcNjq7aQGeQyMhqpB74U_49.871208_1.515860@1306269701"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2b7cf21326c95e0818027ac3c7ac2f98",
+    "wof:geomhash":"4e2581f5cc03b1c4f60f665a6f9c9966",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070383,
+            "empire_id":136253037,
+            "localadmin_id":404410145,
             "locality_id":101900265,
+            "macrocounty_id":404227751,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136287013
         }
     ],
     "wof:id":136287013,
-    "wof:lastmodified":1473797860,
+    "wof:lastmodified":1496804751,
     "wof:name":"Scierie Du Cabalet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

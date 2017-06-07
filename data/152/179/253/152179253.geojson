@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.601562,49.159901,1.601562,49.159901",
     "geom:latitude":49.159901,
     "geom:longitude":1.601562,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101879141,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404362765,
+        85633147,
+        1108826393,
+        101879141,
+        136253037,
         102066791
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3wpQbJb9cuETPgNYtaXh3m_49.159901_1.601562@1306269733"
     },
     "wof:country":"FR",
-    "wof:geomhash":"457f3086a06d8b9539a96b8643d80665",
+    "wof:geomhash":"caaf090024d2d5242ab7254e0529d0df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066791,
+            "empire_id":136253037,
+            "localadmin_id":404362765,
             "locality_id":101879141,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152179253
         }
     ],
     "wof:id":152179253,
-    "wof:lastmodified":1473798312,
+    "wof:lastmodified":1496786995,
     "wof:name":"Eurotec Profil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

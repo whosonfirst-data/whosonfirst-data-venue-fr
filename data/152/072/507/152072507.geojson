@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.955721,47.162411,4.955721,47.162411",
     "geom:latitude":47.162411,
     "geom:longitude":4.955721,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101889471,
-        85633147,
         85683563,
+        102191581,
+        404227627,
+        404372021,
+        85633147,
+        1108826395,
+        101889471,
+        136253037,
         102068705
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2g6vilmjbFZsG5vqDw0BdP_47.162411_4.955721@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"968e192c77468fbd56b0acf15fe498ca",
+    "wof:geomhash":"9d0aed64fe5ca803b33a4ce8de974e2a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068705,
+            "empire_id":136253037,
+            "localadmin_id":404372021,
             "locality_id":101889471,
+            "macrocounty_id":404227627,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152072507
         }
     ],
     "wof:id":152072507,
-    "wof:lastmodified":1473798101,
+    "wof:lastmodified":1496794749,
     "wof:name":"Domaine Grivot Jean (ste Civile)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

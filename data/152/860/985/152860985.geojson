@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.037474,45.690609,5.037474,45.690609",
     "geom:latitude":45.690609,
     "geom:longitude":5.037474,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750781,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404394641,
+        85633147,
+        1108826389,
+        101750781,
+        136253037,
         102070729
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7HdlMpUzIDAsUpXcOmmcnr_45.690609_5.037474@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a36c79865eb9fe076684ee373a494c70",
+    "wof:geomhash":"71579849bdcd4cfe285b272bb6fc6185",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070729,
+            "empire_id":136253037,
+            "localadmin_id":404394641,
             "locality_id":101750781,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152860985
         }
     ],
     "wof:id":152860985,
-    "wof:lastmodified":1473798545,
+    "wof:lastmodified":1496800098,
     "wof:name":"Etablissements Djian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

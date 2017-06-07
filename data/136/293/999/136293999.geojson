@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.807884,45.780491,4.807884,45.780491",
     "geom:latitude":45.780491,
     "geom:longitude":4.807884,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749431,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428859,
+        85633147,
+        1108826389,
+        101749431,
+        136253037,
         102072419
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3V9v5dk4rP8XrAJPwzphW1_45.780491_4.807884@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca55d33a9210ee3e11191ef483b075a3",
+    "wof:geomhash":"9640afa0cd4aa35a0a2ce005e71504f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072419,
+            "empire_id":136253037,
+            "localadmin_id":404428859,
             "locality_id":101749431,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136293999
         }
     ],
     "wof:id":136293999,
-    "wof:lastmodified":1473797952,
+    "wof:lastmodified":1496782672,
     "wof:name":"Credit Agricole Centre Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

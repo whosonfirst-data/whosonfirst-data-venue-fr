@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.563576,44.873791,-0.563576,44.873791",
     "geom:latitude":44.873791,
     "geom:longitude":-0.563576,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ahKLpgMMZH3IjXF0Pph8O_44.873791_-0.563576@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"69effdf525cd4acfb9d371c74b8ee0e1",
+    "wof:geomhash":"90e5b8e9ffa388cb63adf3d6a6979596",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152100147
         }
     ],
     "wof:id":152100147,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496776335,
     "wof:name":"Dige International Sa",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

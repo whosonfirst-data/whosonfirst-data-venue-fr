@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.572465,47.869335,4.572465,47.869335",
     "geom:latitude":47.869335,
     "geom:longitude":4.572465,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765683,
-        85633147,
         85683563,
+        102191581,
+        404228045,
+        404353839,
+        85633147,
+        1108826395,
+        101765683,
+        136253037,
         102065747
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_77mSOR5vEAj55hugsp0g98_47.869335_4.572465@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ed97438ae94b5bde5bb40af726118b85",
+    "wof:geomhash":"3485a348699bd30a37d72fa52a2fb2ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065747,
+            "empire_id":136253037,
+            "localadmin_id":404353839,
             "locality_id":101765683,
+            "macrocounty_id":404228045,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152088141
         }
     ],
     "wof:id":152088141,
-    "wof:lastmodified":1473798176,
+    "wof:lastmodified":1496788696,
     "wof:name":"Arthur Dandelot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

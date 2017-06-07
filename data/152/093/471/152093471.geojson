@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84616,49.875092,4.84616,49.875092",
     "geom:latitude":49.875092,
     "geom:longitude":4.84616,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101815003,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404347821,
+        85633147,
+        1108826391,
+        101815003,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_1uipDh3sKDruY3vbUmCYJT_49.875092_4.846160@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e06056d719d197e7a370c24a745fb487",
+    "wof:geomhash":"2925c0a4fc54ab69a3def7c9f65bcd5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404347821,
             "locality_id":101815003,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152093471
         }
     ],
     "wof:id":152093471,
-    "wof:lastmodified":1473798188,
+    "wof:lastmodified":1496805595,
     "wof:name":"Gerard Bertrand Et Fils S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

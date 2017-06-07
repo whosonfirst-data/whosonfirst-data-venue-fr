@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.220225,49.384659,2.220225,49.384659",
     "geom:latitude":49.384659,
     "geom:longitude":2.220225,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814929,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404412029,
+        85633147,
+        1108826399,
+        101814929,
+        136253037,
         102069283
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0IoxDk0Q2tZWinO80dmN9F_49.384659_2.220225@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d7694a4195b053c5b798fe255120582",
+    "wof:geomhash":"bf08ec06cbb067f49a2fe2bb5f5fd506",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069283,
+            "empire_id":136253037,
+            "localadmin_id":404412029,
             "locality_id":101814929,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169044783
         }
     ],
     "wof:id":169044783,
-    "wof:lastmodified":1473798021,
+    "wof:lastmodified":1496795811,
     "wof:name":"M.g. S.a. - T\u00e9nart Transports Europe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

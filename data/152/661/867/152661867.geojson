@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.434085,46.734005,0.434085,46.734005",
     "geom:latitude":46.734005,
     "geom:longitude":0.434085,
@@ -23,9 +24,14 @@
     "sg:province":"Poitou-Charentes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766937,
-        85633147,
         85683185,
+        102191581,
+        404227775,
+        404418071,
+        85633147,
+        1108826385,
+        101766937,
+        136253037,
         102069969
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_1uOOdLuWoBYY7phwg2aScA_46.734005_0.434085@1306269750"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61df65a5d2132a4a27417216ae1349ea",
+    "wof:geomhash":"eaa2189e3556fcf950b20398b2a0f1b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069969,
+            "empire_id":136253037,
+            "localadmin_id":404418071,
             "locality_id":101766937,
+            "macrocounty_id":404227775,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":152661867
         }
     ],
     "wof:id":152661867,
-    "wof:lastmodified":1473798490,
+    "wof:lastmodified":1496775603,
     "wof:name":"Papeterie Du Poitou S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

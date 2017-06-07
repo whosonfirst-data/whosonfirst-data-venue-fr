@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.829046,45.583241,-0.829046,45.583241",
     "geom:latitude":45.583241,
     "geom:longitude":-0.829046,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768345,
-        85633147,
         85683275,
+        102191581,
+        404228209,
+        404410577,
+        85633147,
+        1108826385,
+        101768345,
+        136253037,
         102065785
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_22qDUCXzQUg8X8a7mM4oz7_45.583241_-0.829046@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61b5660013388f1747fbd7e5501a461a",
+    "wof:geomhash":"ccb696d55e91124b7fd27ddd53b6342a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065785,
+            "empire_id":136253037,
+            "localadmin_id":404410577,
             "locality_id":101768345,
+            "macrocounty_id":404228209,
+            "macroregion_id":1108826385,
             "region_id":85683275,
             "venue_id":152072213
         }
     ],
     "wof:id":152072213,
-    "wof:lastmodified":1473798097,
+    "wof:lastmodified":1496776647,
     "wof:name":"Coop Agricoles Synteane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

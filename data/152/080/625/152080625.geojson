@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.167343,50.699635,3.167343,50.699635",
     "geom:latitude":50.699635,
     "geom:longitude":3.167343,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751515,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404393977,
+        85633147,
+        1108826399,
+        101751515,
+        136253037,
         102072029
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0c2kfzoNhfSDyrM9hYtbGk_50.699635_3.167343@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ea2429799f18c854ceaf94bd55faa666",
+    "wof:geomhash":"4c4b1b68ace5d80f82864851f3955da1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072029,
+            "empire_id":136253037,
+            "localadmin_id":404393977,
             "locality_id":101751515,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152080625
         }
     ],
     "wof:id":152080625,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496790735,
     "wof:name":"Nord Elec 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

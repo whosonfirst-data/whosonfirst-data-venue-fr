@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.659313,44.851357,-0.659313,44.851357",
     "geom:latitude":44.851357,
     "geom:longitude":-0.659313,
@@ -24,32 +25,41 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544671,
         85683243,
+        102191581,
+        404227869,
         85633147,
-        101748979,
-        102072453,
-        85794455
+        1108826385,
+        101749363,
+        136253037,
+        102072291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ufaEQs3bNKgvMnYBUYAwY_44.851357_-0.659313@1306269781"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6561a3d70f2ca06e3be3e137c47036fa",
+    "wof:geomhash":"ef0f551188a927834cc2dc0a2a88dda4",
     "wof:hierarchy":[
         {
+            "campus_id":102544671,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072453,
-            "locality_id":101748979,
-            "neighbourhood_id":85794455,
+            "county_id":102072291,
+            "empire_id":136253037,
+            "locality_id":101749363,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
             "region_id":85683243,
             "venue_id":169166771
         }
     ],
     "wof:id":169166771,
-    "wof:lastmodified":1473798204,
+    "wof:lastmodified":1496775725,
     "wof:name":"Soci\u00e9t\u00e9 Drill France S.a.r.l.",
-    "wof:parent_id":85794455,
+    "wof:parent_id":102544671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

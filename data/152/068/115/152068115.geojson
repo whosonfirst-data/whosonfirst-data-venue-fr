@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.658966,44.836826,-0.658966,44.836826",
     "geom:latitude":44.836826,
     "geom:longitude":-0.658966,
@@ -33,32 +34,41 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102544671,
         85683243,
+        102191581,
+        404227869,
         85633147,
-        101748979,
-        102072453,
-        85794455
+        1108826385,
+        101749363,
+        136253037,
+        102072291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Pcgvp2TllAAA1QvWJSHeU_44.836826_-0.658966@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7a6795dba4b1f14796f423baa80357f5",
+    "wof:geomhash":"dfe00320371a227d8f1c07e5cc4a7946",
     "wof:hierarchy":[
         {
+            "campus_id":102544671,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072453,
-            "locality_id":101748979,
-            "neighbourhood_id":85794455,
+            "county_id":102072291,
+            "empire_id":136253037,
+            "locality_id":101749363,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
+            "neighbourhood_id":-1,
             "region_id":85683243,
             "venue_id":152068115
         }
     ],
     "wof:id":152068115,
-    "wof:lastmodified":1473798060,
+    "wof:lastmodified":1496775433,
     "wof:name":"Temsol Atlantique Sa",
-    "wof:parent_id":85794455,
+    "wof:parent_id":102544671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

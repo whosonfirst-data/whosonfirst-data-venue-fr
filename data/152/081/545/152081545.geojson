@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.987397,49.496208,0.987397,49.496208",
     "geom:latitude":49.496208,
     "geom:longitude":0.987397,
@@ -33,24 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683251,
+        102191581,
         85633147,
-        85683251
+        404378431,
+        404228157,
+        1108826393,
+        136253037,
+        102071813
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A00so3R8YrZ3alnijL4nW_49.496208_0.987397@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dca2b5359422ec163681090de734872d",
+    "wof:geomhash":"cec2d5704b8fb9a3bf5791338cd17302",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102071813,
+            "empire_id":136253037,
+            "localadmin_id":404378431,
+            "locality_id":-1,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":152081545
         }
     ],
     "wof:id":152081545,
-    "wof:lastmodified":1473798138,
+    "wof:lastmodified":1496787365,
     "wof:name":"Reseau Transport Et Electricite (rte)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

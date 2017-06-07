@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.195347,45.69183,3.195347,45.69183",
     "geom:latitude":45.69183,
     "geom:longitude":3.195347,
@@ -34,28 +35,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828989,
-        85633147,
         85683471,
-        102071481
+        102191581,
+        404227937,
+        404390873,
+        85633147,
+        1108826389,
+        101828989,
+        136253037,
+        102071519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tDA2N7dYhQwagtTYNL2yg_45.691830_3.195347@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"7d2fbb57d9566ad4a8006535572e6b53",
+    "wof:geomhash":"481fcdc3c0689b39d314137643ccaa60",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071481,
+            "county_id":102071519,
+            "empire_id":136253037,
+            "localadmin_id":404390873,
             "locality_id":101828989,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152057957
         }
     ],
     "wof:id":152057957,
-    "wof:lastmodified":1473797953,
+    "wof:lastmodified":1496806422,
     "wof:name":"Laboratoir Biosphere 99",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

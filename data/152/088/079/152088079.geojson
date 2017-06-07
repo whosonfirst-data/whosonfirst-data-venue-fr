@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.867718,46.821926,4.867718,46.821926",
     "geom:latitude":46.821926,
     "geom:longitude":4.867718,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749513,
-        85633147,
         85683543,
+        102191581,
+        404227955,
+        404373245,
+        85633147,
+        1108826395,
+        101749513,
+        136253037,
         102071657
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6uVhq8MZwccMwM2CodPjvr_46.821926_4.867718@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2e94b91d8f449d92d1fdcb0e6a7cfb53",
+    "wof:geomhash":"f3e6b4dfbe8b5418bbd89f92af106719",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071657,
+            "empire_id":136253037,
+            "localadmin_id":404373245,
             "locality_id":101749513,
+            "macrocounty_id":404227955,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152088079
         }
     ],
     "wof:id":152088079,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496794739,
     "wof:name":"Amo Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

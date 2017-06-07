@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.829166,50.111317,1.829166,50.111317",
     "geom:latitude":50.111317,
     "geom:longitude":1.829166,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_1a5w83tQlDIUNox2NEdhWj_50.111317_1.829166@1306269778"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5204a9b334ab47a0a59fcc0f902e7520",
+    "wof:geomhash":"b1d6f47a506c58c78a724c94d64fff05",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":169085919
         }
     ],
     "wof:id":169085919,
-    "wof:lastmodified":1473798073,
+    "wof:lastmodified":1496795356,
     "wof:name":"Paillart Imprimerie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.800315,47.816174,3.800315,47.816174",
     "geom:latitude":47.816174,
     "geom:longitude":3.800315,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766171,
-        85633147,
         85683503,
+        102191581,
+        404227781,
+        404356717,
+        85633147,
+        1108826395,
+        101766171,
+        136253037,
         102065867
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7V316ibqWdx00QHUCZkzwy_47.816174_3.800315@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cfa7f8d6cbfdd51c8d5c71c3c8d8ba75",
+    "wof:geomhash":"83a3d87d03043b81f875100bc22a37ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065867,
+            "empire_id":136253037,
+            "localadmin_id":404356717,
             "locality_id":101766171,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152097863
         }
     ],
     "wof:id":152097863,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496788209,
     "wof:name":"Domaine Laroche Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.092537,47.311302,5.092537,47.311302",
     "geom:latitude":47.311302,
     "geom:longitude":5.092537,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753313,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404365881,
+        85633147,
+        1108826395,
+        101753313,
+        136253037,
         102066083
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6PzebkWD28qe3cWD9emcw7_47.311302_5.092537@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"685e37a9221c6af2b3eb45b0cb5ff3d6",
+    "wof:geomhash":"5c0e4d1ee349d6dd4f6281b222b31970",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066083,
+            "empire_id":136253037,
+            "localadmin_id":404365881,
             "locality_id":101753313,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152057609
         }
     ],
     "wof:id":152057609,
-    "wof:lastmodified":1473797935,
+    "wof:lastmodified":1496788489,
     "wof:name":"Boiron Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

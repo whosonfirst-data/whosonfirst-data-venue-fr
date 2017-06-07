@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.939068,49.246601,1.939068,49.246601",
     "geom:latitude":49.246601,
     "geom:longitude":1.939068,
@@ -22,9 +23,14 @@
     "sg:province":"Franche Comt\u00e9",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101878051,
-        85633147,
         85683289,
+        102191581,
+        404227717,
+        404419395,
+        85633147,
+        1108826399,
+        101878051,
+        136253037,
         102065451
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_0GcHusULaFY1G62M8prDRr_49.246601_1.939068@1306269742"
     },
     "wof:country":"FR",
-    "wof:geomhash":"edcf0e173958ab0c872d60562a4498a6",
+    "wof:geomhash":"2cdedb6743e0bf2f34f3db3719ae7792",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065451,
+            "empire_id":136253037,
+            "localadmin_id":404419395,
             "locality_id":101878051,
+            "macrocounty_id":404227717,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":152428457
         }
     ],
     "wof:id":152428457,
-    "wof:lastmodified":1473798403,
+    "wof:lastmodified":1496792616,
     "wof:name":"Edition De Presse Agricole S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

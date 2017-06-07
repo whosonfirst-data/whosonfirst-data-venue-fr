@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.789582,46.242195,4.789582,46.242195",
     "geom:latitude":46.242195,
     "geom:longitude":4.789582,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768423,
-        85633147,
         85683543,
+        102191581,
+        404228293,
+        404391305,
+        85633147,
+        1108826395,
+        101768423,
+        136253037,
         102065799
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2RiqDbKEdGSNY2cGnIpkHQ_46.242195_4.789582@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9d9b3a364538b6bbed4ec61893484cd5",
+    "wof:geomhash":"70c67d2228401449601db2492327968c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065799,
+            "empire_id":136253037,
+            "localadmin_id":404391305,
             "locality_id":101768423,
+            "macrocounty_id":404228293,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152096471
         }
     ],
     "wof:id":152096471,
-    "wof:lastmodified":1473798192,
+    "wof:lastmodified":1496794827,
     "wof:name":"La Conserverie Familiale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

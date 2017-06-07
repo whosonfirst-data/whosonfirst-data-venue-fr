@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.351281,45.65799,6.351281,45.65799",
     "geom:latitude":45.65799,
     "geom:longitude":6.351281,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828891,
-        85633147,
         85683265,
+        102191581,
+        404227745,
+        404375219,
+        85633147,
+        1108826389,
+        101828891,
+        136253037,
         102069793
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6lDU7s0HasTxWd3zCRnz14_45.657990_6.351281@1306269735"
     },
     "wof:country":"FR",
-    "wof:geomhash":"1eb794c2b722e5a7178d1e9e0e6bd5a3",
+    "wof:geomhash":"9f89dd1bd457933e0d3eaa499009f2aa",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069793,
+            "empire_id":136253037,
+            "localadmin_id":404375219,
             "locality_id":101828891,
+            "macrocounty_id":404227745,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152205771
         }
     ],
     "wof:id":152205771,
-    "wof:lastmodified":1473798324,
+    "wof:lastmodified":1496781184,
     "wof:name":"Societe D'exploitation Des Etablissements Perroux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

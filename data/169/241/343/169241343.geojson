@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.564719,44.859959,-0.564719,44.859959",
     "geom:latitude":44.859959,
     "geom:longitude":-0.564719,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jZ01ukaIIL5BAL7tqs5ba_44.859959_-0.564719@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0607dd56fc9675fb72f5bf834ecc1cb1",
+    "wof:geomhash":"02b44932a8d831193d5567435ed81a9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":169241343
         }
     ],
     "wof:id":169241343,
-    "wof:lastmodified":1473798280,
+    "wof:lastmodified":1496777095,
     "wof:name":"Maury Serge",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

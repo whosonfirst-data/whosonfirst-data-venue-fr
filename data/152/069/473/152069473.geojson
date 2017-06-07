@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.169446,48.152645,7.169446,48.152645",
     "geom:latitude":48.152645,
     "geom:longitude":7.169446,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101759731,
-        85633147,
         85683381,
+        102191581,
+        404228291,
+        404347935,
+        85633147,
+        1108826391,
+        101759731,
+        136253037,
         102066969
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1lsM4aF8EDO2SRqKsGE3Fx_48.152645_7.169446@1306269715"
     },
     "wof:country":"FR",
-    "wof:geomhash":"73bc6f5de0862320f03d688fa177569e",
+    "wof:geomhash":"809a9a09a1c5ee460cf11867593d00df",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066969,
+            "empire_id":136253037,
+            "localadmin_id":404347935,
             "locality_id":101759731,
+            "macrocounty_id":404228291,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152069473
         }
     ],
     "wof:id":152069473,
-    "wof:lastmodified":1473798080,
+    "wof:lastmodified":1496793414,
     "wof:name":"Maison Dodin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

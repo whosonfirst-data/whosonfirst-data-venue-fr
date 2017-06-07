@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.36636,48.10181,7.36636,48.10181",
     "geom:latitude":48.10181,
     "geom:longitude":7.36636,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749557,
-        85633147,
         85683381,
+        102191581,
+        85633147,
+        404227947,
+        1108826391,
+        101749557,
+        136253037,
         102072315
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_3Jz8H51qUnD4Rx69neeFHb_48.101810_7.366360@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2d6e93b981c972b23af0d5358114e392",
+    "wof:geomhash":"403a7647d41d05ea7ef8503dca4beafe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072315,
+            "empire_id":136253037,
             "locality_id":101749557,
+            "macrocounty_id":404227947,
+            "macroregion_id":1108826391,
             "region_id":85683381,
             "venue_id":152078525
         }
     ],
     "wof:id":152078525,
-    "wof:lastmodified":1473798135,
+    "wof:lastmodified":1496793442,
     "wof:name":"Morgan Cupex Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

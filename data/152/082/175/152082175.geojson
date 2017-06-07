@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.361157,49.513927,4.361157,49.513927",
     "geom:latitude":49.513927,
     "geom:longitude":4.361157,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840297,
-        85633147,
         85683309,
+        102191581,
+        404227813,
+        404398535,
+        85633147,
+        1108826391,
+        101840297,
+        136253037,
         102068579
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_0XGVR7UZE5PXTXkIxFF3Kp_49.513927_4.361157@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dbe1699b26d3ac076587cbe7b6b7d6ce",
+    "wof:geomhash":"30476070f16caf6e18332f64433231c5",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068579,
+            "empire_id":136253037,
+            "localadmin_id":404398535,
             "locality_id":101840297,
+            "macrocounty_id":404227813,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152082175
         }
     ],
     "wof:id":152082175,
-    "wof:lastmodified":1473798126,
+    "wof:lastmodified":1496783988,
     "wof:name":"Appareils Transformation De Vitesse (atv) Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

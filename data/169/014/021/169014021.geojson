@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.669028,48.592892,7.669028,48.592892",
     "geom:latitude":48.592892,
     "geom:longitude":7.669028,
@@ -24,28 +25,38 @@
     "sg:province":"Alsace",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683221,
-        85633147,
         85897713,
-        102071297
+        102191581,
+        85633147,
+        404228317,
+        1108826391,
+        101751113,
+        136253037,
+        102072577,
+        85683221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tzWBnurgQANqLWochsUeE_48.592892_7.669028@1306269775"
     },
     "wof:country":"FR",
-    "wof:geomhash":"eeeb83d6c8a0ba96db14ba58165bf6d1",
+    "wof:geomhash":"622bd0263b2b272195c9b2bd7742d498",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071297,
+            "county_id":102072577,
+            "empire_id":136253037,
+            "locality_id":101751113,
+            "macrocounty_id":404228317,
+            "macroregion_id":1108826391,
             "neighbourhood_id":85897713,
             "region_id":85683221,
             "venue_id":169014021
         }
     ],
     "wof:id":169014021,
-    "wof:lastmodified":1473797864,
+    "wof:lastmodified":1496793406,
     "wof:name":"Kesser S.a.",
     "wof:parent_id":85897713,
     "wof:placetype":"venue",

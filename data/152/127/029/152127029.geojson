@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.085985,48.278728,4.085985,48.278728",
     "geom:latitude":48.278728,
     "geom:longitude":4.085985,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750981,
-        85633147,
         85683193,
+        102191581,
+        404228021,
+        404405659,
+        85633147,
+        1108826391,
+        101750981,
+        136253037,
         102072497
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0FW0L5vn7nGQBhpJOk2Q90_48.278728_4.085985@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bfe0dad8b580d0ed1d61e8e387766ea4",
+    "wof:geomhash":"684e7dd256fd3e2dfec72f085f2dad9c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072497,
+            "empire_id":136253037,
+            "localadmin_id":404405659,
             "locality_id":101750981,
+            "macrocounty_id":404228021,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152127029
         }
     ],
     "wof:id":152127029,
-    "wof:lastmodified":1473798287,
+    "wof:lastmodified":1496786328,
     "wof:name":"Hallier Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

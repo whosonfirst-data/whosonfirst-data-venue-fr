@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.560831,48.729393,3.560831,48.729393",
     "geom:latitude":48.729393,
     "geom:longitude":3.560831,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762657,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404413385,
+        85633147,
+        1108826391,
+        101762657,
+        136253037,
         102066505
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_17nzgRQSzPMXOopPNw2vUT_48.729393_3.560831@1306269761"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cffaa6bb4fc74ded5d2f99af56cfc33e",
+    "wof:geomhash":"37180a0a60a6556a8c517650126d4ce1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066505,
+            "empire_id":136253037,
+            "localadmin_id":404413385,
             "locality_id":101762657,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152939171
         }
     ],
     "wof:id":152939171,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496785150,
     "wof:name":"Sarl Cooperative Ouvriere Starnacienne De Fabrication (cosf)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.587957,44.779606,-0.587957,44.779606",
     "geom:latitude":44.779606,
     "geom:longitude":-0.587957,
@@ -24,28 +25,40 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85863275,
-        102069343
+        102191581,
+        404227869,
+        404407051,
+        85633147,
+        1108826385,
+        101749353,
+        136253037,
+        102071749,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2azAUlJvJDH4jw7nwreGDq_44.779606_-0.587957@1306269745"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0392448e89ff6dd67f50072111dd8d6f",
+    "wof:geomhash":"20fc5970df98a597bd2ce26a04d06ffc",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069343,
+            "county_id":102071749,
+            "empire_id":136253037,
+            "localadmin_id":404407051,
+            "locality_id":101749353,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85863275,
             "region_id":85683243,
             "venue_id":152499777
         }
     ],
     "wof:id":152499777,
-    "wof:lastmodified":1473798432,
+    "wof:lastmodified":1496777131,
     "wof:name":"Gem Distribution S.a.",
     "wof:parent_id":85863275,
     "wof:placetype":"venue",

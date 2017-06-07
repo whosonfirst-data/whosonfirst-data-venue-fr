@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.953803,49.568306,0.953803,49.568306",
     "geom:latitude":49.568306,
     "geom:longitude":0.953803,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840351,
-        85633147,
         85683251,
+        102191581,
+        404228157,
+        404347925,
+        85633147,
+        1108826393,
+        101840351,
+        136253037,
         102071149
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_6zMfsJidQKaTURz9ouNko7_49.568306_0.953803@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f88c0abae0a0dd73ad7fd0c554086d69",
+    "wof:geomhash":"fdfe878e61e03553a553ba4ba1e15cc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071149,
+            "empire_id":136253037,
+            "localadmin_id":404347925,
             "locality_id":101840351,
+            "macrocounty_id":404228157,
+            "macroregion_id":1108826393,
             "region_id":85683251,
             "venue_id":136293811
         }
     ],
     "wof:id":136293811,
-    "wof:lastmodified":1473797941,
+    "wof:lastmodified":1496787286,
     "wof:name":"Caisse Regionale De Credit Agricole Mutuel De La Haute Norm (crcamh N)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

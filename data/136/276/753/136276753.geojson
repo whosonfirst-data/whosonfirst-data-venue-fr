@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.912397,50.416679,2.912397,50.416679",
     "geom:latitude":50.416679,
     "geom:longitude":2.912397,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840527,
-        85633147,
         85683255,
+        102191581,
+        404228311,
+        404399611,
+        85633147,
+        1108826399,
+        101840527,
+        136253037,
         102071865
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_3bcZfYFfC0TaZWnBH8slSw_50.416679_2.912397@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"766dbbd864eb3084a60ddf96f4639eb9",
+    "wof:geomhash":"898cba9f3b9083f1479de568e46b206b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071865,
+            "empire_id":136253037,
+            "localadmin_id":404399611,
             "locality_id":101840527,
+            "macrocounty_id":404228311,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":136276753
         }
     ],
     "wof:id":136276753,
-    "wof:lastmodified":1473797938,
+    "wof:lastmodified":1496790584,
     "wof:name":"Credit Du Nord",
-    "wof:parent_id":101840527,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.416921,49.24509,1.416921,49.24509",
     "geom:latitude":49.24509,
     "geom:longitude":1.416921,
@@ -22,9 +23,14 @@
     "sg:province":"Haute Normandie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101760181,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404347501,
+        85633147,
+        1108826393,
+        101760181,
+        136253037,
         102064461
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4P7uAyZbMty1nD9uTOnnun_49.245090_1.416921@1306269776"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f76b39526d236886fb5d225e5e655326",
+    "wof:geomhash":"9a06fab46adce7e3dfd4fdee26b54415",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064461,
+            "empire_id":136253037,
+            "localadmin_id":404347501,
             "locality_id":101760181,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":169024899
         }
     ],
     "wof:id":169024899,
-    "wof:lastmodified":1473797951,
+    "wof:lastmodified":1496787106,
     "wof:name":"Lain\u00e9 Minoterie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

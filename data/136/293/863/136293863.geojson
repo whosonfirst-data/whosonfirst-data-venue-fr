@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.877759,45.026684,3.877759,45.026684",
     "geom:latitude":45.026684,
     "geom:longitude":3.877759,
@@ -35,28 +36,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830481,
-        85633147,
         85683413,
-        102072457
+        102191581,
+        85633147,
+        404227891,
+        1108826389,
+        101830481,
+        136253037,
+        102070277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16JtWfdDptd1QcSKxyAVrs_45.026684_3.877759@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ac5581856ac700d28f8531491bf4f32d",
+    "wof:geomhash":"b80cc16843530baf051105ad0adcb940",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102072457,
+            "county_id":102070277,
+            "empire_id":136253037,
             "locality_id":101830481,
+            "macrocounty_id":404227891,
+            "macroregion_id":1108826389,
             "region_id":85683413,
             "venue_id":136293863
         }
     ],
     "wof:id":136293863,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496806351,
     "wof:name":"Caisse Regionale Du Credit Agricole Mutuelle De La Haute Loire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

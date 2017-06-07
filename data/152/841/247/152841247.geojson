@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.566979,50.958374,2.566979,50.958374",
     "geom:latitude":50.958374,
     "geom:longitude":2.566979,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898581,
-        85633147,
         85683445,
+        102191581,
+        404228245,
+        404392237,
+        85633147,
+        1108826399,
+        101898581,
+        136253037,
         102070063
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_3nEPheo3B2IOuJRhYH2B2Z_50.958374_2.566979@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d3dc78bb1c2de131f900a5de3c1ca9c9",
+    "wof:geomhash":"d69db42e32aa02999f874f9f99b7394e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070063,
+            "empire_id":136253037,
+            "localadmin_id":404392237,
             "locality_id":101898581,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152841247
         }
     ],
     "wof:id":152841247,
-    "wof:lastmodified":1473798543,
+    "wof:lastmodified":1496790507,
     "wof:name":"Van Robaeys Fr\u00e8res Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

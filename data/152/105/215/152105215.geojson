@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.610185,50.85025,1.610185,50.85025",
     "geom:latitude":50.85025,
     "geom:longitude":1.610185,
@@ -23,9 +24,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101898157,
-        85633147,
         85683255,
+        102191581,
+        404228131,
+        404349239,
+        85633147,
+        1108826399,
+        101898157,
+        136253037,
         102070677
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_2T4aLM9W3qYjVErOqWPMca_50.850250_1.610185@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b05aded6e154ecf125fbcaa161525b81",
+    "wof:geomhash":"8dc74c6c9ef164ba5c64b35d788a546a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070677,
+            "empire_id":136253037,
+            "localadmin_id":404349239,
             "locality_id":101898157,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152105215
         }
     ],
     "wof:id":152105215,
-    "wof:lastmodified":1473798229,
+    "wof:lastmodified":1496791440,
     "wof:name":"Sica Plants Du Cap-gris-nez",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

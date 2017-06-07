@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.917975,45.643242,5.917975,45.643242",
     "geom:latitude":45.643242,
     "geom:longitude":5.917975,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769241,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404428615,
+        85633147,
+        1108826389,
+        101769241,
+        136253037,
         102070549
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_09v6UZgvBgsoHd5VHca7Ja_45.643242_5.917975@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"342e2814e38af9056220e0d74938de75",
+    "wof:geomhash":"70bbbe79a5b6211e25524b86794b1673",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070549,
+            "empire_id":136253037,
+            "localadmin_id":404428615,
             "locality_id":101769241,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152160539
         }
     ],
     "wof:id":152160539,
-    "wof:lastmodified":1473798304,
+    "wof:lastmodified":1496780946,
     "wof:name":"Thimon Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

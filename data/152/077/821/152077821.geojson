@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.584975,47.816223,3.584975,47.816223",
     "geom:latitude":47.816223,
     "geom:longitude":3.584975,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829667,
-        85633147,
         85683503,
+        102191581,
+        85633147,
+        404227781,
+        1108826395,
+        101829667,
+        136253037,
         102072279
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_5cMjjt1bxir6SNePAl1Jt5_47.816223_3.584975@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"38028c1e54e5e49eb52941aa6f4d5868",
+    "wof:geomhash":"7dd2c58abdf21131346259e43f942c85",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072279,
+            "empire_id":136253037,
             "locality_id":101829667,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":152077821
         }
     ],
     "wof:id":152077821,
-    "wof:lastmodified":1473798151,
+    "wof:lastmodified":1496794623,
     "wof:name":"Compagnie Europeenne D'accumulateurs (ceac)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

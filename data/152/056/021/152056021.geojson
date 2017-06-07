@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.027105,47.302902,5.027105,47.302902",
     "geom:latitude":47.302902,
     "geom:longitude":5.027105,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_2jjRShSIVLGEJdRG6BkbhH_47.302902_5.027105@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d08bf68e046a731eeef6863325013099",
+    "wof:geomhash":"effa9602e5649c17127700ac5c25934e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152056021
         }
     ],
     "wof:id":152056021,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496794803,
     "wof:name":"Bollore Energie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

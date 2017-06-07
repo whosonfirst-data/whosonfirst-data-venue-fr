@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.76716,49.848049,4.76716,49.848049",
     "geom:latitude":49.848049,
     "geom:longitude":4.76716,
@@ -24,9 +25,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840269,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404348649,
+        85633147,
+        1108826391,
+        101840269,
+        136253037,
         102067175
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_6uzrC91gjzBz8zIYUXoQ9g_49.848049_4.767160@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8c0e3b3a2fd4ff82a6f6b38ca1f082c8",
+    "wof:geomhash":"c4113ec21ab5d1800a1b9f872fc1131f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067175,
+            "empire_id":136253037,
+            "localadmin_id":404348649,
             "locality_id":101840269,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":136311465
         }
     ],
     "wof:id":136311465,
-    "wof:lastmodified":1473798003,
+    "wof:lastmodified":1496805254,
     "wof:name":"Dauvin Fils Boulonnerie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

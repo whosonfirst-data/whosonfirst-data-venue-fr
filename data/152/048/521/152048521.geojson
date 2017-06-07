@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.059388,47.328701,5.059388,47.328701",
     "geom:latitude":47.328701,
     "geom:longitude":5.059388,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1JqWavaxz4vSThDImJrhIS_47.328701_5.059388@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b4170bca02892fd54412b41d5d4586c3",
+    "wof:geomhash":"3b76074ce223b950233ab8c5a1ab365c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152048521
         }
     ],
     "wof:id":152048521,
-    "wof:lastmodified":1473797921,
+    "wof:lastmodified":1496788325,
     "wof:name":"Hotel Des Congres Snc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.166234,49.23045,1.166234,49.23045",
     "geom:latitude":49.23045,
     "geom:longitude":1.166234,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828341,
-        85633147,
         85683283,
+        102191581,
+        404227641,
+        404366919,
+        85633147,
+        1108826393,
+        101828341,
+        136253037,
         102071233
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_3Aef4GZhQby8k7YuCU5dxV_49.230450_1.166234@1306269730"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a412b2330acc8d0e850b71401e5f9705",
+    "wof:geomhash":"7b48479ac64ca29c08993c03f7f1b737",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071233,
+            "empire_id":136253037,
+            "localadmin_id":404366919,
             "locality_id":101828341,
+            "macrocounty_id":404227641,
+            "macroregion_id":1108826393,
             "region_id":85683283,
             "venue_id":152133033
         }
     ],
     "wof:id":152133033,
-    "wof:lastmodified":1473798290,
+    "wof:lastmodified":1496787259,
     "wof:name":"Boust Societe Nouvelle Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

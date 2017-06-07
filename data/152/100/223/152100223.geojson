@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.087821,46.059666,4.087821,46.059666",
     "geom:latitude":46.059666,
     "geom:longitude":4.087821,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828959,
-        85633147,
         85683377,
+        102191581,
+        85633147,
+        404227889,
+        1108826389,
+        101828959,
+        136253037,
         102072301
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_1wImEnEB4wBaQyW9qZxLXb_46.059666_4.087821@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4028a5508dc67ca3b11c74037e010627",
+    "wof:geomhash":"c8df50f4960feb49b3f75ef57c04e660",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072301,
+            "empire_id":136253037,
             "locality_id":101828959,
+            "macrocounty_id":404227889,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152100223
         }
     ],
     "wof:id":152100223,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496783281,
     "wof:name":"Giat Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

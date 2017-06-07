@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.991534,49.218182,3.991534,49.218182",
     "geom:latitude":49.218182,
     "geom:longitude":3.991534,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753501,
-        85633147,
         85683405,
+        102191581,
+        85633147,
+        404228107,
+        1108826391,
+        101753501,
+        136253037,
         102070891
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_0jjq1Y0nxCXfavlgFUdZcs_49.218182_3.991534@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dcb5c533288408767d869bbef884d360",
+    "wof:geomhash":"dbca0e574aad67d863b9ca30465da7d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070891,
+            "empire_id":136253037,
             "locality_id":101753501,
+            "macrocounty_id":404228107,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152097207
         }
     ],
     "wof:id":152097207,
-    "wof:lastmodified":1473798191,
+    "wof:lastmodified":1496785887,
     "wof:name":"Les Pressoires Coquard Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

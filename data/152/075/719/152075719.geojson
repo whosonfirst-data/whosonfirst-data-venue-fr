@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.599758,43.67271,0.599758,43.67271",
     "geom:latitude":43.67271,
     "geom:longitude":0.599758,
@@ -36,9 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101772589,
-        85633147,
         85683467,
+        102191581,
+        85633147,
+        404227655,
+        1108826387,
+        101772589,
+        136253037,
         102072401
     ],
     "wof:breaches":[],
@@ -46,18 +51,22 @@
         "sg:id":"SG_5jWtPQC8087xS83tboMH6s_43.672710_0.599758@1306269717"
     },
     "wof:country":"FR",
-    "wof:geomhash":"266d4e20a77941b9b880332b885c6833",
+    "wof:geomhash":"54fb4c34629b1528fdb24e95d13cdc51",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072401,
+            "empire_id":136253037,
             "locality_id":101772589,
+            "macrocounty_id":404227655,
+            "macroregion_id":1108826387,
             "region_id":85683467,
             "venue_id":152075719
         }
     ],
     "wof:id":152075719,
-    "wof:lastmodified":1473798141,
+    "wof:lastmodified":1496778540,
     "wof:name":"Comptoire Electronique Fran\u00c7ais (cef)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

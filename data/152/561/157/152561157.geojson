@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.52711,43.529709,1.52711,43.529709",
     "geom:latitude":43.529709,
     "geom:longitude":1.52711,
@@ -21,16 +22,39 @@
     "sg:phone":"+33 5 61 39 77 43",
     "sg:province":"Midi Pyr\u00e9n\u00e9es",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85683397,
+        102191581,
+        404228067,
+        404396295,
+        85633147,
+        1108826387,
+        101749245,
+        136253037,
+        102066151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vTPvhKSTQa1YnXvliUfpO_43.529709_1.527110@1306269747"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0d67df26a136777fda18f51e0b1b276e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f859527edea06efcb34640d5c9a1b21c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102066151,
+            "empire_id":136253037,
+            "localadmin_id":404396295,
+            "locality_id":101749245,
+            "macrocounty_id":404228067,
+            "macroregion_id":1108826387,
+            "region_id":85683397,
+            "venue_id":152561157
+        }
+    ],
     "wof:id":152561157,
-    "wof:lastmodified":1473798453,
+    "wof:lastmodified":1496803722,
     "wof:name":"Kyocera Mita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

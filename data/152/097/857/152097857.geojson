@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.987559,47.26918,4.987559,47.26918",
     "geom:latitude":47.26918,
     "geom:longitude":4.987559,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749555,
-        85633147,
         85683563,
+        102191581,
+        404227839,
+        404417105,
+        85633147,
+        1108826395,
+        101749555,
+        136253037,
         102070853
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0ZIkX5klBYRv4nragOVaXf_47.269180_4.987559@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f86739dc1f24369723f40612f3de2e57",
+    "wof:geomhash":"8f01b645c90560521742c83157d7a36b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070853,
+            "empire_id":136253037,
+            "localadmin_id":404417105,
             "locality_id":101749555,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152097857
         }
     ],
     "wof:id":152097857,
-    "wof:lastmodified":1473798224,
+    "wof:lastmodified":1496788691,
     "wof:name":"Domaine Fougeray De Beauclair Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

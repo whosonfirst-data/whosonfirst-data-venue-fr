@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.596819,50.720043,1.596819,50.720043",
     "geom:latitude":50.720043,
     "geom:longitude":1.596819,
@@ -35,30 +36,40 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XQqk9jWB5U7EqPobN6ooy_50.720043_1.596819@1306269720"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b06beb03445c23e40b59e4ac1fe44976",
+    "wof:geomhash":"0927677ab92a0b7c71a2342fb7bace0e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":152088337
         }
     ],
     "wof:id":152088337,
-    "wof:lastmodified":1473798195,
+    "wof:lastmodified":1496790644,
     "wof:name":"Bisiaux Sarl",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

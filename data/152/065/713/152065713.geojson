@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.742961,50.31263,2.742961,50.31263",
     "geom:latitude":50.31263,
     "geom:longitude":2.742961,
@@ -32,28 +33,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840537,
-        85633147,
         85683255,
-        102071843
+        102191581,
+        404227723,
+        404350809,
+        85633147,
+        1108826399,
+        101840537,
+        136253037,
+        102072045
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wLsFDi8zUXNnPmJkA6MbY_50.312630_2.742961@1306269714"
     },
     "wof:country":"FR",
-    "wof:geomhash":"b69e85e015f5ee8df7f87e3ac5682059",
+    "wof:geomhash":"48ef8e0f3107c6f46d7f1060e3ffd813",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071843,
+            "county_id":102072045,
+            "empire_id":136253037,
+            "localadmin_id":404350809,
             "locality_id":101840537,
+            "macrocounty_id":404227723,
+            "macroregion_id":1108826399,
             "region_id":85683255,
             "venue_id":152065713
         }
     ],
     "wof:id":152065713,
-    "wof:lastmodified":1473798082,
+    "wof:lastmodified":1496790500,
     "wof:name":"Appia Artois Ets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

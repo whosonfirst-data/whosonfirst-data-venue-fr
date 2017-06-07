@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.795227,45.740993,4.795227,45.740993",
     "geom:latitude":45.740993,
     "geom:longitude":4.795227,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750807,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415715,
+        85633147,
+        1108826389,
+        101750807,
+        136253037,
         102071559
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_6ZtpRsfHs5uWI0urhYcC1V_45.740993_4.795227@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d3f3638e94587bbb804c6b41b2fcf370",
+    "wof:geomhash":"fc8c4983c7a1371a95f6d60bf11c9ce4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071559,
+            "empire_id":136253037,
+            "localadmin_id":404415715,
             "locality_id":101750807,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152053903
         }
     ],
     "wof:id":152053903,
-    "wof:lastmodified":1473797956,
+    "wof:lastmodified":1496799913,
     "wof:name":"Basf Agro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

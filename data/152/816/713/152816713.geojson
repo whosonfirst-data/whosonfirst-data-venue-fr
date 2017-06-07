@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.530662,50.03994,1.530662,50.03994",
     "geom:latitude":50.03994,
     "geom:longitude":1.530662,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813817,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404393443,
+        85633147,
+        1108826399,
+        101813817,
+        136253037,
         102068363
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_2wKswjnGtPXY6gOoFvJPtK_50.039940_1.530662@1306269755"
     },
     "wof:country":"FR",
-    "wof:geomhash":"80d1f6b3ed819dc01daac05efff6864c",
+    "wof:geomhash":"ce34b735f8c91813fd519bfac2719976",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068363,
+            "empire_id":136253037,
+            "localadmin_id":404393443,
             "locality_id":101813817,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152816713
         }
     ],
     "wof:id":152816713,
-    "wof:lastmodified":1473798536,
+    "wof:lastmodified":1496792279,
     "wof:name":"Ternois Electrolyse S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

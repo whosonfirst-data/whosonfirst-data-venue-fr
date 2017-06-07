@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.40936,45.454189,4.40936,45.454189",
     "geom:latitude":45.454189,
     "geom:longitude":4.40936,
@@ -24,9 +25,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_1F496kTkHYHdyWtBe3De1t_45.454189_4.409360@1306269743"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ec085fba903c3f65e9eac7f094165647",
+    "wof:geomhash":"db693da96ca1c2ad8635bb00c57c47c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152448473
         }
     ],
     "wof:id":152448473,
-    "wof:lastmodified":1473798419,
+    "wof:lastmodified":1496783358,
     "wof:name":"Etablissements Arbona S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

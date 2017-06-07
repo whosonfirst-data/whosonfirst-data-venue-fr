@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.027314,46.235649,6.027314,46.235649",
     "geom:latitude":46.235649,
     "geom:longitude":6.027314,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101753275,
-        85633147,
         85683153,
+        102191581,
+        404228005,
+        404355697,
+        85633147,
+        1108826389,
+        101753275,
+        136253037,
         102066711
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_12kHx2S8kJyOgezG5YsbHm_46.235649_6.027314@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"826d1ec5ac492741b32719a7f44c7a55",
+    "wof:geomhash":"dbd8b7521befcda91d4b85525b6c9f6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066711,
+            "empire_id":136253037,
+            "localadmin_id":404355697,
             "locality_id":101753275,
+            "macrocounty_id":404228005,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":136290741
         }
     ],
     "wof:id":136290741,
-    "wof:lastmodified":1473797945,
+    "wof:lastmodified":1496800719,
     "wof:name":"Horiba France Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

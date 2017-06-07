@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.922503,47.399406,2.922503,47.399406",
     "geom:latitude":47.399406,
     "geom:longitude":2.922503,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101765535,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404351389,
+        85633147,
+        1108826395,
+        101765535,
+        136253037,
         102072381
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5D7JmyJpMth6xifia3Yxb0_47.399406_2.922503@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a2644c6ef7189db3189d8b2d2a91cf9f",
+    "wof:geomhash":"7dcc47b86d02ab3f37b066a1b4c98899",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072381,
+            "empire_id":136253037,
+            "localadmin_id":404351389,
             "locality_id":101765535,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152137523
         }
     ],
     "wof:id":152137523,
-    "wof:lastmodified":1473798298,
+    "wof:lastmodified":1496794744,
     "wof:name":"Electrofroid Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

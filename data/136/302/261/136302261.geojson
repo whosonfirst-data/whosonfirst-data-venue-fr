@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.998755,45.732014,4.998755,45.732014",
     "geom:latitude":45.732014,
     "geom:longitude":4.998755,
@@ -27,9 +28,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101752989,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404418983,
+        85633147,
+        1108826389,
+        101752989,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_0lnIqvQMBmQC6LCbVrXsqR_45.732014_4.998755@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"85f3693161ac00799cd441064326c3cd",
+    "wof:geomhash":"13036a04c69e9fd255b806c18f26add7",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404418983,
             "locality_id":101752989,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":136302261
         }
     ],
     "wof:id":136302261,
-    "wof:lastmodified":1473797997,
+    "wof:lastmodified":1496781290,
     "wof:name":"Cr\u00e9dit Agricole Du Sud Est",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

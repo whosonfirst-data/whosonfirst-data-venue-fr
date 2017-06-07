@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.300089,50.255508,3.300089,50.255508",
     "geom:latitude":50.255508,
     "geom:longitude":3.300089,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101901073,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404392259,
+        85633147,
+        1108826399,
+        101901073,
+        136253037,
         102066883
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_68eJ6nNTxe6khnhvlKHFJf_50.255508_3.300089@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2f64b85a05a204c96b784d2bef9261f0",
+    "wof:geomhash":"31c5055f85f09acd663b345d2f1fda47",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066883,
+            "empire_id":136253037,
+            "localadmin_id":404392259,
             "locality_id":101901073,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152056229
         }
     ],
     "wof:id":152056229,
-    "wof:lastmodified":1473797904,
+    "wof:lastmodified":1496790316,
     "wof:name":"Hainaut Enrobes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

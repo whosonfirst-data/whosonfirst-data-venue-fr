@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.294521,48.622589,-1.294521,48.622589",
     "geom:latitude":48.622589,
     "geom:longitude":-1.294521,
@@ -39,9 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761723,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404364127,
+        85633147,
+        1108826393,
+        101761723,
+        136253037,
         102066617
     ],
     "wof:breaches":[],
@@ -49,18 +55,23 @@
         "sg:id":"SG_76b9or0gXjG80y39IDYsTi_48.622589_-1.294521@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c841dd2cd37996f844feb332ff0402b9",
+    "wof:geomhash":"20fe7ee8090eb08968c4772b79a302a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066617,
+            "empire_id":136253037,
+            "localadmin_id":404364127,
             "locality_id":101761723,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136283331
         }
     ],
     "wof:id":136283331,
-    "wof:lastmodified":1473797902,
+    "wof:lastmodified":1496787115,
     "wof:name":"Sarl Vadaine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

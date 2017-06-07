@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.002065,45.840061,5.002065,45.840061",
     "geom:latitude":45.840061,
     "geom:longitude":5.002065,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101748999,
-        85633147,
         85683153,
+        102191581,
+        404227797,
+        404376701,
+        85633147,
+        1108826389,
+        101748999,
+        136253037,
         102071037
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_3pWLxz2NHhMQXhDoOveDJo_45.840061_5.002065@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"581e6faaf4966a493533c01a92ca8c6c",
+    "wof:geomhash":"0f076495ec934ae828f0f983cd445014",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071037,
+            "empire_id":136253037,
+            "localadmin_id":404376701,
             "locality_id":101748999,
+            "macrocounty_id":404227797,
+            "macroregion_id":1108826389,
             "region_id":85683153,
             "venue_id":152117107
         }
     ],
     "wof:id":152117107,
-    "wof:lastmodified":1473798260,
+    "wof:lastmodified":1496780129,
     "wof:name":"Mip Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

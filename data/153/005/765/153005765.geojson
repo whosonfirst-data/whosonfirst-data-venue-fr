@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.498568,46.371193,6.498568,46.371193",
     "geom:latitude":46.371193,
     "geom:longitude":6.498568,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829009,
-        85633147,
         85683227,
+        102191581,
+        404228261,
+        404360693,
+        85633147,
+        1108826389,
+        101829009,
+        136253037,
         102072027
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2ZlEAunipqK05SluJ48yxs_46.371193_6.498568@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9ca1130ce758cfacfd9d2cb9cfb2eb9d",
+    "wof:geomhash":"bc70a8a72e09dac8665fde9e81c93bbd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072027,
+            "empire_id":136253037,
+            "localadmin_id":404360693,
             "locality_id":101829009,
+            "macrocounty_id":404228261,
+            "macroregion_id":1108826389,
             "region_id":85683227,
             "venue_id":153005765
         }
     ],
     "wof:id":153005765,
-    "wof:lastmodified":1473797875,
+    "wof:lastmodified":1496799874,
     "wof:name":"Escoffier Freres S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

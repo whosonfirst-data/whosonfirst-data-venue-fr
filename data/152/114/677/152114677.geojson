@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.513122,44.248798,2.513122,44.248798",
     "geom:latitude":44.248798,
     "geom:longitude":2.513122,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101851201,
-        85633147,
         85683301,
+        102191581,
+        404227821,
+        404350697,
+        85633147,
+        1108826387,
+        101851201,
+        136253037,
         102065511
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_1uBBR0pr8NT6MRCspcCR7l_44.248798_2.513122@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"821c892209de1252da11f1d0b3e58a4a",
+    "wof:geomhash":"d36359a0559669c01e8dfa27291046d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102065511,
+            "empire_id":136253037,
+            "localadmin_id":404350697,
             "locality_id":101851201,
+            "macrocounty_id":404227821,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152114677
         }
     ],
     "wof:id":152114677,
-    "wof:lastmodified":1473798276,
+    "wof:lastmodified":1496803784,
     "wof:name":"Trans Rouergue Manutention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

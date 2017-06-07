@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.028028,46.529789,4.028028,46.529789",
     "geom:latitude":46.529789,
     "geom:longitude":4.028028,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101891297,
-        85633147,
         85683543,
+        102191581,
+        404228147,
+        404413215,
+        85633147,
+        1108826395,
+        101891297,
+        136253037,
         102068095
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4W7QJhgUyFJSjodXTh4k4z_46.529789_4.028028@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a61e6b756168c1ddf52785575007f7fa",
+    "wof:geomhash":"95faa66afb0f29d88e79183593d1706e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068095,
+            "empire_id":136253037,
+            "localadmin_id":404413215,
             "locality_id":101891297,
+            "macrocounty_id":404228147,
+            "macroregion_id":1108826395,
             "region_id":85683543,
             "venue_id":152089967
         }
     ],
     "wof:id":152089967,
-    "wof:lastmodified":1473798185,
+    "wof:lastmodified":1496788265,
     "wof:name":"Laurent Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

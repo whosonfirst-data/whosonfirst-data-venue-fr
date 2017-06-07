@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.165142,45.643002,0.165142,45.643002",
     "geom:latitude":45.643002,
     "geom:longitude":0.165142,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829071,
-        85633147,
         85683437,
+        102191581,
+        404227619,
+        404348375,
+        85633147,
+        1108826385,
+        101829071,
+        136253037,
         102072237
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_7gV8YJnT8KMgFryYw472eZ_45.643002_0.165142@1306269713"
     },
     "wof:country":"FR",
-    "wof:geomhash":"15cbb3a615cb3f24c6fe392fa96e1541",
+    "wof:geomhash":"18495838ca188ee93e02660deee632c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072237,
+            "empire_id":136253037,
+            "localadmin_id":404348375,
             "locality_id":101829071,
+            "macrocounty_id":404227619,
+            "macroregion_id":1108826385,
             "region_id":85683437,
             "venue_id":152061881
         }
     ],
     "wof:id":152061881,
-    "wof:lastmodified":1473797958,
+    "wof:lastmodified":1496775890,
     "wof:name":"Moving Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

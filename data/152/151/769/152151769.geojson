@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.933281,47.256176,5.933281,47.256176",
     "geom:latitude":47.256176,
     "geom:longitude":5.933281,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829313,
-        85633147,
         85683239,
+        102191581,
+        404227637,
+        404360553,
+        85633147,
+        1108826395,
+        101829313,
+        136253037,
         102064459
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_6aK7s4A3ZWZ9kJoqaJ3uxw_47.256176_5.933281@1306269731"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0c53aed1ea94599ee38ca94b08b512aa",
+    "wof:geomhash":"f2ba915347fc4ae1ce909778e7ad42ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064459,
+            "empire_id":136253037,
+            "localadmin_id":404360553,
             "locality_id":101829313,
+            "macrocounty_id":404227637,
+            "macroregion_id":1108826395,
             "region_id":85683239,
             "venue_id":152151769
         }
     ],
     "wof:id":152151769,
-    "wof:lastmodified":1473798301,
+    "wof:lastmodified":1496788728,
     "wof:name":"Presse Etude Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

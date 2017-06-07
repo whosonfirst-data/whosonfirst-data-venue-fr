@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.962788,49.022675,7.962788,49.022675",
     "geom:latitude":49.022675,
     "geom:longitude":7.962788,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761061,
-        85633147,
         85683221,
+        102191581,
+        404228315,
+        404358647,
+        85633147,
+        1108826391,
+        101761061,
+        136253037,
         102070489
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2qGDOUnzdePlN8kYj0J9Nk_49.022675_7.962788@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e087a58f0c21aecfaac255172212b853",
+    "wof:geomhash":"e2f31a238085a32a552a99b2a790c1c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070489,
+            "empire_id":136253037,
+            "localadmin_id":404358647,
             "locality_id":101761061,
+            "macrocounty_id":404228315,
+            "macroregion_id":1108826391,
             "region_id":85683221,
             "venue_id":152074797
         }
     ],
     "wof:id":152074797,
-    "wof:lastmodified":1473798144,
+    "wof:lastmodified":1496784370,
     "wof:name":"Dbk France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.163166,44.50526,0.163166,44.50526",
     "geom:latitude":44.50526,
     "geom:longitude":0.163166,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830407,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227901,
+        1108826385,
+        101830407,
+        136253037,
         102072307
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7PHXTfhlNKCxFEYhpvELhE_44.505260_0.163166@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"86ee8cba8ff1ee1c1841dee12f8dad1d",
+    "wof:geomhash":"3c82669ade52d14f9044f3e7cd863d27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072307,
+            "empire_id":136253037,
             "locality_id":101830407,
+            "macrocounty_id":404227901,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152072663
         }
     ],
     "wof:id":152072663,
-    "wof:lastmodified":1473798102,
+    "wof:lastmodified":1496777007,
     "wof:name":"Elidis Aquitaine Centre De Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

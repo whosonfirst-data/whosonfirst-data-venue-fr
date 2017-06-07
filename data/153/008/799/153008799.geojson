@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.143948,50.717869,3.143948,50.717869",
     "geom:latitude":50.717869,
     "geom:longitude":3.143948,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101751541,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        101751541,
+        136253037,
         102072217
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_3wu7tl89wdgPRQfLJuwC6v_50.717869_3.143948@1306269764"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61cce4112d348e4eaaa3c819dd35d7b9",
+    "wof:geomhash":"548369e24aff086f42428a84c6c6d2a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072217,
+            "empire_id":136253037,
             "locality_id":101751541,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":153008799
         }
     ],
     "wof:id":153008799,
-    "wof:lastmodified":1473797871,
+    "wof:lastmodified":1496797126,
     "wof:name":"Alpha Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

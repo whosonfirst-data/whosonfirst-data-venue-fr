@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.399108,49.160248,5.399108,49.160248",
     "geom:latitude":49.160248,
     "geom:longitude":5.399108,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828321,
-        85633147,
         85683297,
+        102191581,
+        85633147,
+        404228117,
+        1108826391,
+        101828321,
+        136253037,
         102071969
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_6XkHFK5sEaqATxvoeINEat_49.160248_5.399108@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"20f1c722bfec10876582549320533d01",
+    "wof:geomhash":"d1720ff3829c8798f28aa1205483cc66",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071969,
+            "empire_id":136253037,
             "locality_id":101828321,
+            "macrocounty_id":404228117,
+            "macroregion_id":1108826391,
             "region_id":85683297,
             "venue_id":152094545
         }
     ],
     "wof:id":152094545,
-    "wof:lastmodified":1473798193,
+    "wof:lastmodified":1496785256,
     "wof:name":"Ste Nouvelle Des Ets Braquier Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

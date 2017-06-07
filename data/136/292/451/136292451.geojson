@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.479252,44.837017,0.479252,44.837017",
     "geom:latitude":44.837017,
     "geom:longitude":0.479252,
@@ -35,9 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101770621,
-        85633147,
         85683331,
+        102191581,
+        85633147,
+        404227635,
+        1108826385,
+        101770621,
+        136253037,
         102072037
     ],
     "wof:breaches":[],
@@ -45,18 +50,22 @@
         "sg:id":"SG_1xL0a3aU1QyzlNGL5gxCmm_44.837017_0.479252@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"348ccdd7eb1b79358132d17cffe5e551",
+    "wof:geomhash":"e98b9be7984d336705d3224757f28187",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072037,
+            "empire_id":136253037,
             "locality_id":101770621,
+            "macrocounty_id":404227635,
+            "macroregion_id":1108826385,
             "region_id":85683331,
             "venue_id":136292451
         }
     ],
     "wof:id":136292451,
-    "wof:lastmodified":1473797919,
+    "wof:lastmodified":1496798377,
     "wof:name":"Tele Faubourg Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

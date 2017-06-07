@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.391502,45.425198,4.391502,45.425198",
     "geom:latitude":45.425198,
     "geom:longitude":4.391502,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750835,
-        85633147,
         85683377,
+        102191581,
+        404228089,
+        404362947,
+        85633147,
+        1108826389,
+        101750835,
+        136253037,
         102072521
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_0E1qqEAB9IT3OOnczz9SAK_45.425198_4.391502@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3d9cc2aeca95d431769858343bdb1082",
+    "wof:geomhash":"0deac19272c851208f7ca0e32643a5cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072521,
+            "empire_id":136253037,
+            "localadmin_id":404362947,
             "locality_id":101750835,
+            "macrocounty_id":404228089,
+            "macroregion_id":1108826389,
             "region_id":85683377,
             "venue_id":152163137
         }
     ],
     "wof:id":152163137,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496800070,
     "wof:name":"Adamax France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

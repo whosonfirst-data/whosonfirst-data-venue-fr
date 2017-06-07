@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.937481,49.965389,1.937481,49.965389",
     "geom:latitude":49.965389,
     "geom:longitude":1.937481,
@@ -27,9 +28,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813833,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404398041,
+        85633147,
+        1108826399,
+        101813833,
+        136253037,
         102069159
     ],
     "wof:breaches":[],
@@ -37,18 +43,23 @@
         "sg:id":"SG_35tiI4xhQ0kNEfxqIHdt0c_49.965389_1.937481@1306269758"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9c8e61e07a7a00557d6ae9ff8636ec6",
+    "wof:geomhash":"f8a2998292cacd9f9cd8eb9dad4af2b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069159,
+            "empire_id":136253037,
+            "localadmin_id":404398041,
             "locality_id":101813833,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152890277
         }
     ],
     "wof:id":152890277,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496791299,
     "wof:name":"Etablissements Rene Lamory Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

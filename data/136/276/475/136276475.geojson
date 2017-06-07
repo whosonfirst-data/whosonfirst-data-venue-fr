@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.019286,47.176289,3.019286,47.176289",
     "geom:latitude":47.176289,
     "geom:longitude":3.019286,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101767179,
-        85633147,
         85683359,
+        102191581,
+        404228243,
+        404382937,
+        85633147,
+        1108826395,
+        101767179,
+        136253037,
         102064609
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_4De0SzFHUhWM1pqPJo9hio_47.176289_3.019286@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"43136c3d1e14b32b1134ff25b49a42f2",
+    "wof:geomhash":"ff5a0bb05a41f9593e37e310b80aba27",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064609,
+            "empire_id":136253037,
+            "localadmin_id":404382937,
             "locality_id":101767179,
+            "macrocounty_id":404228243,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":136276475
         }
     ],
     "wof:id":136276475,
-    "wof:lastmodified":1473797914,
+    "wof:lastmodified":1496788779,
     "wof:name":"Cogep Groupe D'experts Comptables Et De Commissaires Aucogep",
-    "wof:parent_id":101767179,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

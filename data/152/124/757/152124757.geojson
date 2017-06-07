@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.529791,44.899441,-0.529791,44.899441",
     "geom:latitude":44.899441,
     "geom:longitude":-0.529791,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0phCySTTyvAqSaNXoRDRV4_44.899441_-0.529791@1306269729"
     },
     "wof:country":"FR",
-    "wof:geomhash":"597d258ccd4461fd7a8c091676016deb",
+    "wof:geomhash":"5eb04a5fc43bc875183fd61d02e4c3e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152124757
         }
     ],
     "wof:id":152124757,
-    "wof:lastmodified":1473798293,
+    "wof:lastmodified":1496775475,
     "wof:name":"Manumat Sarl",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

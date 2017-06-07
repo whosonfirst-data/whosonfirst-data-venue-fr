@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.15014,49.08506,6.15014,49.08506",
     "geom:latitude":49.08506,
     "geom:longitude":6.15014,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750101,
-        85633147,
         85683271,
+        102191581,
+        404228321,
+        404399625,
+        85633147,
+        1108826391,
+        101750101,
+        136253037,
         102070345
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_1dIKZPLl7jO8AwOXMIBEvV_49.085060_6.150140@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"843797e389d97a682fef5d7877d3941c",
+    "wof:geomhash":"b5145994a0f0eeb1335def0f057c0f01",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070345,
+            "empire_id":136253037,
+            "localadmin_id":404399625,
             "locality_id":101750101,
+            "macrocounty_id":404228321,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":152107431
         }
     ],
     "wof:id":152107431,
-    "wof:lastmodified":1473798263,
+    "wof:lastmodified":1496784172,
     "wof:name":"Laboratoire De Protheses Dentaires Est Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

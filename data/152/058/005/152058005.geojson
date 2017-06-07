@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.03431,47.355621,5.03431,47.355621",
     "geom:latitude":47.355621,
     "geom:longitude":5.03431,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_1eqO4Mfr3r4LVSngsdGjLc_47.355621_5.034310@1306269712"
     },
     "wof:country":"FR",
-    "wof:geomhash":"0696a55ed04706e34611414df985410b",
+    "wof:geomhash":"c98221ba00e0ab55887e07e98e96b2a6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152058005
         }
     ],
     "wof:id":152058005,
-    "wof:lastmodified":1473797866,
+    "wof:lastmodified":1496788670,
     "wof:name":"Laboratoire Fournier Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

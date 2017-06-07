@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.48932,48.586254,6.48932,48.586254",
     "geom:latitude":48.586254,
     "geom:longitude":6.48932,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101828255,
-        85633147,
         85683343,
+        102191581,
+        404227915,
+        404361571,
+        85633147,
+        1108826391,
+        101828255,
+        136253037,
         102072161
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_6svSuGrAsCatDsktW986pG_48.586254_6.489320@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"16daa3d482dd2f6f4605b7027b04f32f",
+    "wof:geomhash":"1a723d977ef42de00fcbdecc1d92ceae",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072161,
+            "empire_id":136253037,
+            "localadmin_id":404361571,
             "locality_id":101828255,
+            "macrocounty_id":404227915,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152907497
         }
     ],
     "wof:id":152907497,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496785274,
     "wof:name":"Technopuce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

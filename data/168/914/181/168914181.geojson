@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.84989,45.501549,4.84989,45.501549",
     "geom:latitude":45.501549,
     "geom:longitude":4.84989,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830603,
-        85633147,
         85683427,
+        102191581,
+        404228083,
+        404353875,
+        85633147,
+        1108826389,
+        101830603,
+        136253037,
         102072517
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_7N2RzeUF3vaJW99EIPR0mT_45.501549_4.849890@1306269771"
     },
     "wof:country":"FR",
-    "wof:geomhash":"290f0f8a9ede399c919e712411c0ca63",
+    "wof:geomhash":"76d62ef57ac32b1fb11f03eaeeea886f",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072517,
+            "empire_id":136253037,
+            "localadmin_id":404353875,
             "locality_id":101830603,
+            "macrocounty_id":404228083,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":168914181
         }
     ],
     "wof:id":168914181,
-    "wof:lastmodified":1473798086,
+    "wof:lastmodified":1496779933,
     "wof:name":"E.d.f. Et Gaz De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

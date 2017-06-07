@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.821473,45.692898,4.821473,45.692898",
     "geom:latitude":45.692898,
     "geom:longitude":4.821473,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749423,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404428253,
+        85633147,
+        1108826389,
+        101749423,
+        136253037,
         102071477
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_2ksfUKAI7DNuIEAvnqWcjI_45.692898_4.821473@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8f18bb3291afa66603373e3f82e01959",
+    "wof:geomhash":"16bd9fe70362afd2dc000f2f9519046b",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071477,
+            "empire_id":136253037,
+            "localadmin_id":404428253,
             "locality_id":101749423,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152056249
         }
     ],
     "wof:id":152056249,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496782135,
     "wof:name":"La Mure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.933857,45.716934,4.933857,45.716934",
     "geom:latitude":45.716934,
     "geom:longitude":4.933857,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750801,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404384273,
+        85633147,
+        1108826389,
+        101750801,
+        136253037,
         102071359
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_2qZcmRKvLgLymJsZyw4238_45.716934_4.933857@1306269725"
     },
     "wof:country":"FR",
-    "wof:geomhash":"246dd46d0c598b2724f399ee279e253a",
+    "wof:geomhash":"76bffc8ce2e0d2ed3e0f23a59b5fb3c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071359,
+            "empire_id":136253037,
+            "localadmin_id":404384273,
             "locality_id":101750801,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152106933
         }
     ],
     "wof:id":152106933,
-    "wof:lastmodified":1473798233,
+    "wof:lastmodified":1496779474,
     "wof:name":"Depuy France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

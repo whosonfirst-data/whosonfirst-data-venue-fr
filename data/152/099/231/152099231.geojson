@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.020823,50.525772,3.020823,50.525772",
     "geom:latitude":50.525772,
     "geom:longitude":3.020823,
@@ -28,9 +29,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101812645,
-        85633147,
         85683445,
+        102191581,
+        404228283,
+        404384511,
+        85633147,
+        1108826399,
+        101812645,
+        136253037,
         102071507
     ],
     "wof:breaches":[],
@@ -38,18 +44,23 @@
         "sg:id":"SG_7cGJPjSWUvJfoesNMhpn8N_50.525772_3.020823@1306269723"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e0f0d1b4b5258ad186c425ed61eb1fbf",
+    "wof:geomhash":"ddbe4632ca6b7b96e1c31a97dc407828",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071507,
+            "empire_id":136253037,
+            "localadmin_id":404384511,
             "locality_id":101812645,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":152099231
         }
     ],
     "wof:id":152099231,
-    "wof:lastmodified":1473798230,
+    "wof:lastmodified":1496792173,
     "wof:name":"N.v. Verduyn France Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

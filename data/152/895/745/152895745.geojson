@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.901046,45.887379,0.901046,45.887379",
     "geom:latitude":45.887379,
     "geom:longitude":0.901046,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101768243,
-        85633147,
         85683531,
+        102191581,
+        85633147,
+        404228177,
+        1108826385,
+        101768243,
+        136253037,
         102072363
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_4nEFlNbdfvz1sqocXjD5ki_45.887379_0.901046@1306269759"
     },
     "wof:country":"FR",
-    "wof:geomhash":"97e1c0b3baaa4afee9175b0e66617d8f",
+    "wof:geomhash":"32a902e10847b2dd271f38d3f833b379",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072363,
+            "empire_id":136253037,
             "locality_id":101768243,
+            "macrocounty_id":404228177,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152895745
         }
     ],
     "wof:id":152895745,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496775405,
     "wof:name":"Pneumatic Union Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

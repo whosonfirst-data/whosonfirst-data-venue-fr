@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.733389,46.416321,5.733389,46.416321",
     "geom:latitude":46.416321,
     "geom:longitude":5.733389,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101892967,
-        85633147,
         85683173,
+        102191581,
+        404228085,
+        404350885,
+        85633147,
+        1108826395,
+        101892967,
+        136253037,
         102067309
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5wG4792lBN2Sg5nMJTVXfG_46.416321_5.733389@1306269785"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6d00aed9a68d4ab5e5bc27796485d1cd",
+    "wof:geomhash":"32192140b1c2c0cdd3bc148679209367",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067309,
+            "empire_id":136253037,
+            "localadmin_id":404350885,
             "locality_id":101892967,
+            "macrocounty_id":404228085,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":169245789
         }
     ],
     "wof:id":169245789,
-    "wof:lastmodified":1473798282,
+    "wof:lastmodified":1496788129,
     "wof:name":"Tournerie Michel Carron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

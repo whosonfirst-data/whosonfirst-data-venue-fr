@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.334603,46.565598,3.334603,46.565598",
     "geom:latitude":46.565598,
     "geom:longitude":3.334603,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829207,
-        85633147,
         85683293,
+        102191581,
+        85633147,
+        404227801,
+        1108826389,
+        101829207,
+        136253037,
         102072435
     ],
     "wof:breaches":[],
@@ -44,20 +49,24 @@
         "sg:id":"SG_0NnnBoQ4v2LGDAlFX7lJ2K_46.565598_3.334603@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"325610ce8c89026b49373827a88ab316",
+    "wof:geomhash":"f23cf090f491f500584338f86b8ab71d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072435,
+            "empire_id":136253037,
             "locality_id":101829207,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":136276459
         }
     ],
     "wof:id":136276459,
-    "wof:lastmodified":1473797918,
+    "wof:lastmodified":1496779754,
     "wof:name":"Cogep Groupe D'experts Comptables Et De Commissaires Au",
-    "wof:parent_id":101829207,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

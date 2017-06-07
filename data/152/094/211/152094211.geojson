@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.636822,49.798058,4.636822,49.798058",
     "geom:latitude":49.798058,
     "geom:longitude":4.636822,
@@ -33,9 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101846613,
-        85633147,
         85683309,
+        102191581,
+        404227601,
+        404360033,
+        85633147,
+        1108826391,
+        101846613,
+        136253037,
         102068329
     ],
     "wof:breaches":[],
@@ -43,18 +49,23 @@
         "sg:id":"SG_2WzjL3vMRFb8cvlka8TqMm_49.798058_4.636822@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"143b02c580603a02e2b965772c1b84a5",
+    "wof:geomhash":"cddfc31c6e56a2c593b134a46d8beb0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068329,
+            "empire_id":136253037,
+            "localadmin_id":404360033,
             "locality_id":101846613,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152094211
         }
     ],
     "wof:id":152094211,
-    "wof:lastmodified":1473798172,
+    "wof:lastmodified":1496785998,
     "wof:name":"Maximo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

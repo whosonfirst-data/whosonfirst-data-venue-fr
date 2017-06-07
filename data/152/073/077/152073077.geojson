@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.692996,48.655682,3.692996,48.655682",
     "geom:latitude":48.655682,
     "geom:longitude":3.692996,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101882491,
-        85633147,
         85683405,
+        102191581,
+        404227909,
+        404379789,
+        85633147,
+        1108826391,
+        101882491,
+        136253037,
         102068981
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_7EfqQFapOYQ6D6ckQx0GNt_48.655682_3.692996@1306269716"
     },
     "wof:country":"FR",
-    "wof:geomhash":"f223560c6525fa6734b9792f40da3e20",
+    "wof:geomhash":"c78f6baf832f00a8cadb850867cc309e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068981,
+            "empire_id":136253037,
+            "localadmin_id":404379789,
             "locality_id":101882491,
+            "macrocounty_id":404227909,
+            "macroregion_id":1108826391,
             "region_id":85683405,
             "venue_id":152073077
         }
     ],
     "wof:id":152073077,
-    "wof:lastmodified":1473798119,
+    "wof:lastmodified":1496786543,
     "wof:name":"La Renaudiere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

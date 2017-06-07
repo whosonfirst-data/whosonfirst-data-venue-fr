@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.999722,47.316917,4.999722,47.316917",
     "geom:latitude":47.316917,
     "geom:longitude":4.999722,
@@ -34,9 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749549,
-        85633147,
         85683563,
+        102191581,
+        85633147,
+        404227839,
+        1108826395,
+        101749549,
+        136253037,
         102072445
     ],
     "wof:breaches":[],
@@ -44,18 +49,22 @@
         "sg:id":"SG_5TcTLlQPad5OVD687CyBbg_47.316917_4.999722@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9fd7f4a2d65736b40cab62dde6aff40a",
+    "wof:geomhash":"f80444f9d3640348bf646be294a2bacb",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072445,
+            "empire_id":136253037,
             "locality_id":101749549,
+            "macrocounty_id":404227839,
+            "macroregion_id":1108826395,
             "region_id":85683563,
             "venue_id":152047761
         }
     ],
     "wof:id":152047761,
-    "wof:lastmodified":1473797937,
+    "wof:lastmodified":1496788684,
     "wof:name":"Casino Cafeteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

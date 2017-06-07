@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.535846,47.233784,-1.535846,47.233784",
     "geom:latitude":47.233784,
     "geom:longitude":-1.535846,
@@ -27,11 +28,14 @@
     "sg:province":"Centre",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683233,
+        85897697,
+        102191581,
         85633147,
+        404227893,
+        404227423,
         101749589,
         102072459,
-        85897697
+        85683233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,16 +45,19 @@
     "wof:geomhash":"db6bfc700590e17126ce8fbd5f7d2d68",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072459,
             "locality_id":101749589,
+            "macrocounty_id":404227893,
+            "macroregion_id":404227423,
             "neighbourhood_id":85897697,
             "region_id":85683233,
             "venue_id":136299503
         }
     ],
     "wof:id":136299503,
-    "wof:lastmodified":1473798018,
+    "wof:lastmodified":1491925229,
     "wof:name":"Banque Populaire Bretagne, Atlantique",
     "wof:parent_id":85897697,
     "wof:placetype":"venue",

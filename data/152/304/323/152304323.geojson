@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.947815,45.769344,4.947815,45.769344",
     "geom:latitude":45.769344,
     "geom:longitude":4.947815,
@@ -23,9 +24,14 @@
     "sg:province":"Rhone-Alpes",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749403,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404415281,
+        85633147,
+        1108826389,
+        101749403,
+        136253037,
         102071311
     ],
     "wof:breaches":[],
@@ -33,18 +39,23 @@
         "sg:id":"SG_3U5jb1pPxrdZghnGm34SCo_45.769344_4.947815@1306269738"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c130c7f455f8a9a56d7e101dd2bfc4c1",
+    "wof:geomhash":"833bd2d0fa2d4c0b00eb92758d40b0fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071311,
+            "empire_id":136253037,
+            "localadmin_id":404415281,
             "locality_id":101749403,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":152304323
         }
     ],
     "wof:id":152304323,
-    "wof:lastmodified":1473798357,
+    "wof:lastmodified":1496800102,
     "wof:name":"Berthelet Voages S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

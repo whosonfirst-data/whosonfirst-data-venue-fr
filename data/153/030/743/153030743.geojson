@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.111505,45.712326,5.111505,45.712326",
     "geom:latitude":45.712326,
     "geom:longitude":5.111505,
@@ -30,9 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769511,
-        85633147,
         85683569,
+        102191581,
+        404227735,
+        404390159,
+        85633147,
+        1108826389,
+        101769511,
+        136253037,
         102070729
     ],
     "wof:breaches":[],
@@ -40,18 +46,23 @@
         "sg:id":"SG_5XCx3n4QvQuM1ATREDiwe0_45.712326_5.111505@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"4d5340008e7aa8238448cb77ad27f69b",
+    "wof:geomhash":"6bcdce6961871756a33074404b374463",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070729,
+            "empire_id":136253037,
+            "localadmin_id":404390159,
             "locality_id":101769511,
+            "macrocounty_id":404227735,
+            "macroregion_id":1108826389,
             "region_id":85683569,
             "venue_id":153030743
         }
     ],
     "wof:id":153030743,
-    "wof:lastmodified":1473797984,
+    "wof:lastmodified":1496780941,
     "wof:name":"Magnum Cargo Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.080785,50.367939,3.080785,50.367939",
     "geom:latitude":50.367939,
     "geom:longitude":3.080785,
@@ -24,9 +25,13 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840557,
-        85633147,
         85683445,
+        102191581,
+        85633147,
+        404228125,
+        1108826399,
+        101840557,
+        136253037,
         102071911
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_0cUlYdA1gOmYkTdj30b9oS_50.367939_3.080785@1306269777"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5f85849762e484abdc873da186fe089b",
+    "wof:geomhash":"467adec36864376b2111ef06f8de1851",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071911,
+            "empire_id":136253037,
             "locality_id":101840557,
+            "macrocounty_id":404228125,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":169049725
         }
     ],
     "wof:id":169049725,
-    "wof:lastmodified":1473798026,
+    "wof:lastmodified":1496791276,
     "wof:name":"Mairie De Douai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.314377,46.560806,0.314377,46.560806",
     "geom:latitude":46.560806,
     "geom:longitude":0.314377,
@@ -30,9 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -40,18 +45,22 @@
         "sg:id":"SG_3KLUU4fXNvwipsP6xtvHSF_46.560806_0.314377@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99217337ed4d2c21ac03b946ee81fe40",
+    "wof:geomhash":"66e160da45447b9fb1cbffc9a68d972d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":153013145
         }
     ],
     "wof:id":153013145,
-    "wof:lastmodified":1473797869,
+    "wof:lastmodified":1496775779,
     "wof:name":"Ouest Communications Mobiles Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

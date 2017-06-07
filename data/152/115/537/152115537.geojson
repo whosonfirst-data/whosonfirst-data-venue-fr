@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.958438,44.163788,2.958438,44.163788",
     "geom:latitude":44.163788,
     "geom:longitude":2.958438,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101895997,
-        85633147,
         85683301,
+        102191581,
+        404227609,
+        404375125,
+        85633147,
+        1108826387,
+        101895997,
+        136253037,
         102069925
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_0v2I66pyvH2ahsyeTo9vsR_44.163788_2.958438@1306269728"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3018deac10f7bb12692498a9143415fe",
+    "wof:geomhash":"25c65b3683b55aee0164f188ffee85fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069925,
+            "empire_id":136253037,
+            "localadmin_id":404375125,
             "locality_id":101895997,
+            "macrocounty_id":404227609,
+            "macroregion_id":1108826387,
             "region_id":85683301,
             "venue_id":152115537
         }
     ],
     "wof:id":152115537,
-    "wof:lastmodified":1473798274,
+    "wof:lastmodified":1496803682,
     "wof:name":"Causse Jean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

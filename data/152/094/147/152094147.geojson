@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.552185,44.861641,-0.552185,44.861641",
     "geom:latitude":44.861641,
     "geom:longitude":-0.552185,
@@ -33,28 +34,38 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683243,
-        85633147,
         85794439,
-        102072453
+        102191581,
+        85633147,
+        404227869,
+        1108826385,
+        101748979,
+        136253037,
+        102072453,
+        85683243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k2E1G4NlvlTJAgaTYZuIX_44.861641_-0.552185@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"8778fd9de3a3ce13d0930e0ed50b0135",
+    "wof:geomhash":"e50626499f0b822e5b09d7cf0e62291c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072453,
+            "empire_id":136253037,
+            "locality_id":101748979,
+            "macrocounty_id":404227869,
+            "macroregion_id":1108826385,
             "neighbourhood_id":85794439,
             "region_id":85683243,
             "venue_id":152094147
         }
     ],
     "wof:id":152094147,
-    "wof:lastmodified":1473798169,
+    "wof:lastmodified":1496777134,
     "wof:name":"Lesieur",
     "wof:parent_id":85794439,
     "wof:placetype":"venue",

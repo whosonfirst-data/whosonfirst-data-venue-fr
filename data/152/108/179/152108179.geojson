@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.148543,43.679653,4.148543,43.679653",
     "geom:latitude":43.679653,
     "geom:longitude":4.148543,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831705,
-        85633147,
         85683419,
+        102191581,
+        404228073,
+        404375249,
+        85633147,
+        1108826387,
+        101831705,
+        136253037,
         102067509
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_662O8reTgyzClG5XiVwEYw_43.679653_4.148543@1306269726"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2d537c53a8073e85362b890126663522",
+    "wof:geomhash":"ac8c5c1bad6caf1124db5c9d73090095",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067509,
+            "empire_id":136253037,
+            "localadmin_id":404375249,
             "locality_id":101831705,
+            "macrocounty_id":404228073,
+            "macroregion_id":1108826387,
             "region_id":85683419,
             "venue_id":152108179
         }
     ],
     "wof:id":152108179,
-    "wof:lastmodified":1473798253,
+    "wof:lastmodified":1496777826,
     "wof:name":"Prothese Orthese Nimoise (pon)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

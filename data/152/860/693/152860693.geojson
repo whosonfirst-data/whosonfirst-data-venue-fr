@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.7859,45.255493,4.7859,45.255493",
     "geom:latitude":45.255493,
     "geom:longitude":4.7859,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101894365,
-        85633147,
         85683421,
+        102191581,
+        404228015,
+        404372839,
+        85633147,
+        1108826389,
+        101894365,
+        136253037,
         102068429
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0UAER6YTpVopxu3ad5Dkw1_45.255493_4.785900@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"282c37e70f256f70efbef60cfd2e0c41",
+    "wof:geomhash":"5f492d263f7b489139f7cc7bac515535",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102068429,
+            "empire_id":136253037,
+            "localadmin_id":404372839,
             "locality_id":101894365,
+            "macrocounty_id":404228015,
+            "macroregion_id":1108826389,
             "region_id":85683421,
             "venue_id":152860693
         }
     ],
     "wof:id":152860693,
-    "wof:lastmodified":1473798545,
+    "wof:lastmodified":1496799915,
     "wof:name":"Achard Emballages Logistique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

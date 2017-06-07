@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.047086,45.500103,6.047086,45.500103",
     "geom:latitude":45.500103,
     "geom:longitude":6.047086,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101769245,
-        85633147,
         85683265,
+        102191581,
+        404227959,
+        404387101,
+        85633147,
+        1108826389,
+        101769245,
+        136253037,
         102067647
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_3dtUOGkVPjb3UwRkdtgThA_45.500103_6.047086@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"61ff440bd51a451bdf41b479f21b2e1c",
+    "wof:geomhash":"d3865b4eaf0d8c6f481d66a0c8be8184",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102067647,
+            "empire_id":136253037,
+            "localadmin_id":404387101,
             "locality_id":101769245,
+            "macrocounty_id":404227959,
+            "macroregion_id":1108826389,
             "region_id":85683265,
             "venue_id":152228833
         }
     ],
     "wof:id":152228833,
-    "wof:lastmodified":1473798331,
+    "wof:lastmodified":1496781063,
     "wof:name":"Laboratoire De Biogenese Appliquee S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

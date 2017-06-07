@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.200455,49.927269,2.200455,49.927269",
     "geom:latitude":49.927269,
     "geom:longitude":2.200455,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813851,
-        85633147,
         85683363,
+        102191581,
+        404227973,
+        404422655,
+        85633147,
+        1108826399,
+        101813851,
+        136253037,
         102070423
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_4qNlY0AHufKI1dfvuFpp1s_49.927269_2.200455@1306269722"
     },
     "wof:country":"FR",
-    "wof:geomhash":"42287b439ffbe2e228ceca06f1c5ef8c",
+    "wof:geomhash":"c19b1ef760f3ef1d3109108140d13f10",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070423,
+            "empire_id":136253037,
+            "localadmin_id":404422655,
             "locality_id":101813851,
+            "macrocounty_id":404227973,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":152095055
         }
     ],
     "wof:id":152095055,
-    "wof:lastmodified":1473798163,
+    "wof:lastmodified":1496795401,
     "wof:name":"Defial Departement Magasin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

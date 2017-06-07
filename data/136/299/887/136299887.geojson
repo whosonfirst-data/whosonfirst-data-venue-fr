@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.462734,46.321163,-0.462734,46.321163",
     "geom:latitude":46.321163,
     "geom:longitude":-0.462734,
@@ -27,9 +28,13 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749515,
-        85633147,
         85683163,
+        102191581,
+        85633147,
+        404227969,
+        1108826385,
+        101749515,
+        136253037,
         102072323
     ],
     "wof:breaches":[],
@@ -37,18 +42,22 @@
         "sg:id":"SG_173NG6Qzv3tVA47RSvhofP_46.321163_-0.462734@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"68f1cdfc69ea50772421a56bc102bd7b",
+    "wof:geomhash":"e6e11b6602f1a621612ded4f3b1c39c4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072323,
+            "empire_id":136253037,
             "locality_id":101749515,
+            "macrocounty_id":404227969,
+            "macroregion_id":1108826385,
             "region_id":85683163,
             "venue_id":136299887
         }
     ],
     "wof:id":136299887,
-    "wof:lastmodified":1473798040,
+    "wof:lastmodified":1496775695,
     "wof:name":"Banque Populaire, Centre Atlantique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.286271,45.832275,1.286271,45.832275",
     "geom:latitude":45.832275,
     "geom:longitude":1.286271,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750867,
-        85633147,
         85683531,
+        102191581,
+        404227987,
+        404387187,
+        85633147,
+        1108826385,
+        101750867,
+        136253037,
         102070763
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_2DiPHXPhCvCFCOCPk0Xfb9_45.832275_1.286271@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"88d1094338bb2cad0167dddf0cbfcd01",
+    "wof:geomhash":"fe263d7b5b9d50012574169c062687f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070763,
+            "empire_id":136253037,
+            "localadmin_id":404387187,
             "locality_id":101750867,
+            "macrocounty_id":404227987,
+            "macroregion_id":1108826385,
             "region_id":85683531,
             "venue_id":152045885
         }
     ],
     "wof:id":152045885,
-    "wof:lastmodified":1473797957,
+    "wof:lastmodified":1496775938,
     "wof:name":"France Corrections Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

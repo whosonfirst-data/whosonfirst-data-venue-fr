@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.908829,44.031986,-0.908829,44.031986",
     "geom:latitude":44.031986,
     "geom:longitude":-0.908829,
@@ -29,9 +30,14 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101771529,
-        85633147,
         85683183,
+        102191581,
+        404227885,
+        404375261,
+        85633147,
+        1108826385,
+        101771529,
+        136253037,
         102066673
     ],
     "wof:breaches":[],
@@ -39,18 +45,23 @@
         "sg:id":"SG_5LiBbwmrAz7Z6OKwFOGvck_44.031986_-0.908829@1306269705"
     },
     "wof:country":"FR",
-    "wof:geomhash":"054a41b6c7f436e8e3cd36ecf335ae90",
+    "wof:geomhash":"ecde9955f1d0c096559fed722e0c1e1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066673,
+            "empire_id":136253037,
+            "localadmin_id":404375261,
             "locality_id":101771529,
+            "macrocounty_id":404227885,
+            "macroregion_id":1108826385,
             "region_id":85683183,
             "venue_id":136302397
         }
     ],
     "wof:id":136302397,
-    "wof:lastmodified":1473797999,
+    "wof:lastmodified":1496776511,
     "wof:name":"Cr\u00e9dit Agricole Du Sud Ouest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

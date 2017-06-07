@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.829956,50.105625,1.829956,50.105625",
     "geom:latitude":50.105625,
     "geom:longitude":1.829956,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101813821,
-        85633147,
         85683363,
+        102191581,
+        404227761,
+        404348639,
+        85633147,
+        1108826399,
+        101813821,
+        136253037,
         102072275
     ],
     "wof:brand_id":420574521,
@@ -45,18 +51,23 @@
         "sg:id":"SG_4lkRaZa88xiWc28jDyEEtU_50.105625_1.829956@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"e9ccca8fbabc3074c2a57efa77bbb596",
+    "wof:geomhash":"a26b12f94be948f30f6f265b9085e0e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072275,
+            "empire_id":136253037,
+            "localadmin_id":404348639,
             "locality_id":101813821,
+            "macrocounty_id":404227761,
+            "macroregion_id":1108826399,
             "region_id":85683363,
             "venue_id":136293383
         }
     ],
     "wof:id":136293383,
-    "wof:lastmodified":1473797910,
+    "wof:lastmodified":1496792009,
     "wof:name":"Banque De France",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

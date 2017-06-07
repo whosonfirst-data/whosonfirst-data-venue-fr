@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.605439,43.189369,-0.605439,43.189369",
     "geom:latitude":43.189369,
     "geom:longitude":-0.605439,
@@ -24,9 +25,13 @@
     "sg:province":"Aquitaine",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831761,
-        85633147,
         85683539,
+        102191581,
+        85633147,
+        404227939,
+        1108826385,
+        101831761,
+        136253037,
         102072313
     ],
     "wof:breaches":[],
@@ -34,18 +39,22 @@
         "sg:id":"SG_6Q49YXJ0r0RqommdU3YWqw_43.189369_-0.605439@1306269772"
     },
     "wof:country":"FR",
-    "wof:geomhash":"99973be6ec9508c2fed364572a137133",
+    "wof:geomhash":"1e0723883c581ea43862da28370f5a23",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072313,
+            "empire_id":136253037,
             "locality_id":101831761,
+            "macrocounty_id":404227939,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":168923505
         }
     ],
     "wof:id":168923505,
-    "wof:lastmodified":1473798083,
+    "wof:lastmodified":1496776246,
     "wof:name":"Emploi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

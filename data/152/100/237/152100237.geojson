@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.127015,45.760258,3.127015,45.760258",
     "geom:latitude":45.760258,
     "geom:longitude":3.127015,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_4kWZlZQ6aiH0VkQHYRpeQy_45.760258_3.127015@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"9e110bed7fccddb2a404de9e8f5771a3",
+    "wof:geomhash":"3d987a4759933db649e773debc9fe6ed",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152100237
         }
     ],
     "wof:id":152100237,
-    "wof:lastmodified":1473798235,
+    "wof:lastmodified":1496780765,
     "wof:name":"Grand Magasin Bijouterie (gmb)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

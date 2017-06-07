@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.12742,45.786278,3.12742,45.786278",
     "geom:latitude":45.786278,
     "geom:longitude":3.12742,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749467,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404375521,
+        85633147,
+        1108826389,
+        101749467,
+        136253037,
         102072311
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_1B8b3lekikbcy7HhtI34is_45.786278_3.127420@1306269732"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2e113cb12d28fd032849be6e15a82367",
+    "wof:geomhash":"60a20e7bfd0fa709df90a7f41d3ae813",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072311,
+            "empire_id":136253037,
+            "localadmin_id":404375521,
             "locality_id":101749467,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":152163051
         }
     ],
     "wof:id":152163051,
-    "wof:lastmodified":1473798303,
+    "wof:lastmodified":1496806151,
     "wof:name":"Outibois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

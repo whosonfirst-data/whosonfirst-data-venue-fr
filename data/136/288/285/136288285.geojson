@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.099357,45.830246,3.099357,45.830246",
     "geom:latitude":45.830246,
     "geom:longitude":3.099357,
@@ -35,9 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749469,
-        85633147,
         85683471,
+        102191581,
+        404227937,
+        404372261,
+        85633147,
+        1108826389,
+        101749469,
+        136253037,
         102071753
     ],
     "wof:breaches":[],
@@ -45,18 +51,23 @@
         "sg:id":"SG_3lhmqzScHqfnHjO79XNXRF_45.830246_3.099357@1306269702"
     },
     "wof:country":"FR",
-    "wof:geomhash":"2835bdd44753dde8e29d82473f079c0e",
+    "wof:geomhash":"db5190503d1dca63636cb5c4bf067917",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071753,
+            "empire_id":136253037,
+            "localadmin_id":404372261,
             "locality_id":101749469,
+            "macrocounty_id":404227937,
+            "macroregion_id":1108826389,
             "region_id":85683471,
             "venue_id":136288285
         }
     ],
     "wof:id":136288285,
-    "wof:lastmodified":1473797903,
+    "wof:lastmodified":1496806447,
     "wof:name":"Pomona",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

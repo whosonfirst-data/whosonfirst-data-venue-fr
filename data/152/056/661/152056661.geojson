@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.176609,48.647343,6.176609,48.647343",
     "geom:latitude":48.647343,
     "geom:longitude":6.176609,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750123,
-        85633147,
         85683343,
+        102191581,
+        404228113,
+        404356579,
+        85633147,
+        1108826391,
+        101750123,
+        136253037,
         102070893
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_7mOiu0T5PRNWKMn7aUmyuT_48.647343_6.176609@1306269711"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c0de3651287ea76bfb55fd5cfcf29efc",
+    "wof:geomhash":"cbdfec0efc16e6233671de380e7ebffd",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070893,
+            "empire_id":136253037,
+            "localadmin_id":404356579,
             "locality_id":101750123,
+            "macrocounty_id":404228113,
+            "macroregion_id":1108826391,
             "region_id":85683343,
             "venue_id":152056661
         }
     ],
     "wof:id":152056661,
-    "wof:lastmodified":1473797942,
+    "wof:lastmodified":1496785677,
     "wof:name":"Comptoir Lorraine Alsace De Peinture Et De Papiers Peints Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

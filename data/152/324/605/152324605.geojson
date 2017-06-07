@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.607527,50.707176,1.607527,50.707176",
     "geom:latitude":50.707176,
     "geom:longitude":1.607527,
@@ -23,30 +24,40 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683255,
+        85863289,
+        102191581,
+        404228131,
+        404409765,
         85633147,
-        101839601,
+        1108826399,
+        101839567,
+        136253037,
         102071779,
-        85863289
+        85683255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76Xhb1dw090cNr4mfzV2hi_50.707176_1.607527@1306269739"
     },
     "wof:country":"FR",
-    "wof:geomhash":"ca2a6e1b8993263046c104f5ad836f36",
+    "wof:geomhash":"3911295dd4515b4d0bcef7ae59f2ae3c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071779,
-            "locality_id":101839601,
+            "empire_id":136253037,
+            "localadmin_id":404409765,
+            "locality_id":101839567,
+            "macrocounty_id":404228131,
+            "macroregion_id":1108826399,
             "neighbourhood_id":85863289,
             "region_id":85683255,
             "venue_id":152324605
         }
     ],
     "wof:id":152324605,
-    "wof:lastmodified":1473798368,
+    "wof:lastmodified":1496790359,
     "wof:name":"C.b.i. S.a. - Comptoir Des Bois Industriels",
     "wof:parent_id":85863289,
     "wof:placetype":"venue",

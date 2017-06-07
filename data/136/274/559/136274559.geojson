@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.361617,48.685741,-1.361617,48.685741",
     "geom:latitude":48.685741,
     "geom:longitude":-1.361617,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101761719,
-        85633147,
         85683489,
+        102191581,
+        404227695,
+        404399337,
+        85633147,
+        1108826393,
+        101761719,
+        136253037,
         102064269
     ],
     "wof:breaches":[],
@@ -44,20 +50,25 @@
         "sg:id":"SG_180R4FuzjwJMCl8AYvhYre_48.685741_-1.361617@1306269698"
     },
     "wof:country":"FR",
-    "wof:geomhash":"c80c0e3a6fce841555bfb7da75fc3976",
+    "wof:geomhash":"72e5515b995ad4d43246a399a39e900c",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064269,
+            "empire_id":136253037,
+            "localadmin_id":404399337,
             "locality_id":101761719,
+            "macrocounty_id":404227695,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":136274559
         }
     ],
     "wof:id":136274559,
-    "wof:lastmodified":1473797876,
+    "wof:lastmodified":1496786924,
     "wof:name":"Anfray Guy Pierre Aime Marcel",
-    "wof:parent_id":101761719,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

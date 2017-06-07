@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.597723,44.164818,0.597723,44.164818",
     "geom:latitude":44.164818,
     "geom:longitude":0.597723,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101831901,
-        85633147,
         85683341,
+        102191581,
+        85633147,
+        404227689,
+        1108826385,
+        101831901,
+        136253037,
         102070725
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_4vwO1emVFKpPx9inzv9ApC_44.164818_0.597723@1306269727"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bb50242d48625cf2679f4e21e5e91604",
+    "wof:geomhash":"07e1d64094d5ff58b17054d84e858061",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070725,
+            "empire_id":136253037,
             "locality_id":101831901,
+            "macrocounty_id":404227689,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152111405
         }
     ],
     "wof:id":152111405,
-    "wof:lastmodified":1473798272,
+    "wof:lastmodified":1496776446,
     "wof:name":"Optimum Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

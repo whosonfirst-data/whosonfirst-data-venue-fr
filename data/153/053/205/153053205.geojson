@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.836888,49.43409,2.836888,49.43409",
     "geom:latitude":49.43409,
     "geom:longitude":2.836888,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101842435,
-        85633147,
         85683289,
+        102191581,
+        404228127,
+        404350483,
+        85633147,
+        1108826399,
+        101842435,
+        136253037,
         102072207
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_137OqPCElz5coOzNgNy7gd_49.434090_2.836888@1306269766"
     },
     "wof:country":"FR",
-    "wof:geomhash":"422564e618875062e37297d62784061c",
+    "wof:geomhash":"b08aa6e57a61acd052af58a78a135926",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072207,
+            "empire_id":136253037,
+            "localadmin_id":404350483,
             "locality_id":101842435,
+            "macrocounty_id":404228127,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":153053205
         }
     ],
     "wof:id":153053205,
-    "wof:lastmodified":1473797972,
+    "wof:lastmodified":1496795709,
     "wof:name":"A.t.i.p. S.a. - Application Des Techniques Industrielles De Peinture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

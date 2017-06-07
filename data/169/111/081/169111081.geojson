@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"2.4326,49.506294,2.4326,49.506294",
     "geom:latitude":49.506294,
     "geom:longitude":2.4326,
@@ -22,9 +23,14 @@
     "sg:province":"Picardie",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101814931,
-        85633147,
         85683289,
+        102191581,
+        404227929,
+        404390647,
+        85633147,
+        1108826399,
+        101814931,
+        136253037,
         102070281
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_6A8i9y7hRNKoI1q2OKvtB0_49.506294_2.432600@1306269779"
     },
     "wof:country":"FR",
-    "wof:geomhash":"abd73802e560e5e57453bcded4a6dc54",
+    "wof:geomhash":"869a198ba60c8934baff7a2792400032",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070281,
+            "empire_id":136253037,
+            "localadmin_id":404390647,
             "locality_id":101814931,
+            "macrocounty_id":404227929,
+            "macroregion_id":1108826399,
             "region_id":85683289,
             "venue_id":169111081
         }
     ],
     "wof:id":169111081,
-    "wof:lastmodified":1473798108,
+    "wof:lastmodified":1496790137,
     "wof:name":"Rabourdin Picardie S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

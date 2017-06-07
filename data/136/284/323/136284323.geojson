@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.726618,47.138981,5.726618,47.138981",
     "geom:latitude":47.138981,
     "geom:longitude":5.726618,
@@ -37,9 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101766621,
-        85633147,
         85683173,
+        102191581,
+        404227671,
+        404376227,
+        85633147,
+        1108826395,
+        101766621,
+        136253037,
         102066433
     ],
     "wof:breaches":[],
@@ -47,18 +53,23 @@
         "sg:id":"SG_2eUtJYRuzTOOlnhnw1IUm1_47.138981_5.726618@1306269700"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5661119f2a5ef609a1fb8dca8d607303",
+    "wof:geomhash":"d341ee2c912ecd23292eaa675ff3c49d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066433,
+            "empire_id":136253037,
+            "localadmin_id":404376227,
             "locality_id":101766621,
+            "macrocounty_id":404227671,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":136284323
         }
     ],
     "wof:id":136284323,
-    "wof:lastmodified":1473797909,
+    "wof:lastmodified":1496788440,
     "wof:name":"Racine Michel Et Fils Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

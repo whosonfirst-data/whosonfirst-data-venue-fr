@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.345215,46.616367,0.345215,46.616367",
     "geom:latitude":46.616367,
     "geom:longitude":0.345215,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750881,
-        85633147,
         85683185,
+        102191581,
+        85633147,
+        404228175,
+        1108826385,
+        101750881,
+        136253037,
         102072543
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_41KE3SOAK5Y4TPfoXGUAjD_46.616367_0.345215@1306269765"
     },
     "wof:country":"FR",
-    "wof:geomhash":"dc9d140f7989593b0ce66e813fbd09ad",
+    "wof:geomhash":"ff616cb3e731e76516fc6d24fb7f550d",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072543,
+            "empire_id":136253037,
             "locality_id":101750881,
+            "macrocounty_id":404228175,
+            "macroregion_id":1108826385,
             "region_id":85683185,
             "venue_id":153026267
         }
     ],
     "wof:id":153026267,
-    "wof:lastmodified":1473797879,
+    "wof:lastmodified":1496777198,
     "wof:name":"Sdv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

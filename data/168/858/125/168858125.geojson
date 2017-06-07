@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.215568,50.181076,3.215568,50.181076",
     "geom:latitude":50.181076,
     "geom:longitude":3.215568,
@@ -22,9 +23,14 @@
     "sg:province":"Nord Pas-de-Calais",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840729,
-        85633147,
         85683445,
+        102191581,
+        404227927,
+        404411071,
+        85633147,
+        1108826399,
+        101840729,
+        136253037,
         102066883
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_4wYXxrR4yZrDfLZfXgnGNS_50.181076_3.215568@1306269769"
     },
     "wof:country":"FR",
-    "wof:geomhash":"cdf36ae03a6168a851736f7b33ec210f",
+    "wof:geomhash":"ed948b6a2bd25f89b83469054f3b60e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066883,
+            "empire_id":136253037,
+            "localadmin_id":404411071,
             "locality_id":101840729,
+            "macrocounty_id":404227927,
+            "macroregion_id":1108826399,
             "region_id":85683445,
             "venue_id":168858125
         }
     ],
     "wof:id":168858125,
-    "wof:lastmodified":1473797966,
+    "wof:lastmodified":1496796710,
     "wof:name":"Cambrai Chrome S.a.r.l.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.728436,45.17754,5.728436,45.17754",
     "geom:latitude":45.17754,
     "geom:longitude":5.728436,
@@ -33,9 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101749307,
-        85633147,
         85683427,
+        102191581,
+        85633147,
+        404227669,
+        1108826389,
+        101749307,
+        136253037,
         102072257
     ],
     "wof:breaches":[],
@@ -43,18 +48,22 @@
         "sg:id":"SG_7UN4ph2ei4Io2DgeziAMRq_45.177540_5.728436@1306269703"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a725e0d7661df70b8351730c5d1cd4b2",
+    "wof:geomhash":"f14ce601b537860e47022a3c47753d19",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072257,
+            "empire_id":136253037,
             "locality_id":101749307,
+            "macrocounty_id":404227669,
+            "macroregion_id":1108826389,
             "region_id":85683427,
             "venue_id":136293495
         }
     ],
     "wof:id":136293495,
-    "wof:lastmodified":1473797919,
+    "wof:lastmodified":1496779778,
     "wof:name":"Banque Populaire Des Alpes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

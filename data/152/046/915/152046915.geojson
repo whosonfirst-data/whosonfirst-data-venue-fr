@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.549017,46.670677,5.549017,46.670677",
     "geom:latitude":46.670677,
     "geom:longitude":5.549017,
@@ -32,9 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829255,
-        85633147,
         85683173,
+        102191581,
+        85633147,
+        404227883,
+        1108826395,
+        101829255,
+        136253037,
         102072151
     ],
     "wof:breaches":[],
@@ -42,18 +47,22 @@
         "sg:id":"SG_7WcgytmtxzblsAgjkrSvP7_46.670677_5.549017@1306269709"
     },
     "wof:country":"FR",
-    "wof:geomhash":"3860be18d578008abf9225b60d1116f3",
+    "wof:geomhash":"a1234803b3427abb293fb423e7dc7af4",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072151,
+            "empire_id":136253037,
             "locality_id":101829255,
+            "macrocounty_id":404227883,
+            "macroregion_id":1108826395,
             "region_id":85683173,
             "venue_id":152046915
         }
     ],
     "wof:id":152046915,
-    "wof:lastmodified":1473797944,
+    "wof:lastmodified":1496804288,
     "wof:name":"Ogec Ste-marie Fenelon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

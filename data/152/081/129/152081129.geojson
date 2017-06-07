@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-1.653255,49.644161,-1.653255,49.644161",
     "geom:latitude":49.644161,
     "geom:longitude":-1.653255,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101840303,
-        85633147,
         85683489,
+        102191581,
+        404227907,
+        404352823,
+        85633147,
+        1108826393,
+        101840303,
+        136253037,
         102071567
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_2C08M9zQz1O4dR5t5vlzT4_49.644161_-1.653255@1306269718"
     },
     "wof:country":"FR",
-    "wof:geomhash":"6261b61d67682a6815cb1630c6d32d02",
+    "wof:geomhash":"124595ba2e91132d18bd8787c2a453da",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071567,
+            "empire_id":136253037,
+            "localadmin_id":404352823,
             "locality_id":101840303,
+            "macrocounty_id":404227907,
+            "macroregion_id":1108826393,
             "region_id":85683489,
             "venue_id":152081129
         }
     ],
     "wof:id":152081129,
-    "wof:lastmodified":1473798124,
+    "wof:lastmodified":1496787720,
     "wof:name":"Aux Artisans Marbriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

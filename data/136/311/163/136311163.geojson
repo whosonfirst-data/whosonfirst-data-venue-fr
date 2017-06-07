@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"7.076625,48.738983,7.076625,48.738983",
     "geom:latitude":48.738983,
     "geom:longitude":7.076625,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101762689,
-        85633147,
         85683271,
+        102191581,
+        404228281,
+        404360203,
+        85633147,
+        1108826391,
+        101762689,
+        136253037,
         102069759
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_4MYlU1n8nmboLDO912pbXq_48.738983_7.076625@1306269707"
     },
     "wof:country":"FR",
-    "wof:geomhash":"bd5644414ace61bc40bb31462403ac2e",
+    "wof:geomhash":"5313c4605ab0d8b05b351da78843f59a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102069759,
+            "empire_id":136253037,
+            "localadmin_id":404360203,
             "locality_id":101762689,
+            "macrocounty_id":404228281,
+            "macroregion_id":1108826391,
             "region_id":85683271,
             "venue_id":136311163
         }
     ],
     "wof:id":136311163,
-    "wof:lastmodified":1473797992,
+    "wof:lastmodified":1496794419,
     "wof:name":"Imprimest Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

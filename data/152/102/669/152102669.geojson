@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.905262,48.512352,3.905262,48.512352",
     "geom:latitude":48.512352,
     "geom:longitude":3.905262,
@@ -32,9 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101763341,
-        85633147,
         85683193,
+        102191581,
+        404227817,
+        404421297,
+        85633147,
+        1108826391,
+        101763341,
+        136253037,
         102066845
     ],
     "wof:breaches":[],
@@ -42,18 +48,23 @@
         "sg:id":"SG_0bPlCMWUbBzKWt1SKDsY4g_48.512352_3.905262@1306269724"
     },
     "wof:country":"FR",
-    "wof:geomhash":"a9ac4cb4f77ac39a8cae1f6bc5a27d34",
+    "wof:geomhash":"baf2beb900e34e34297d624072a11b6a",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066845,
+            "empire_id":136253037,
+            "localadmin_id":404421297,
             "locality_id":101763341,
+            "macrocounty_id":404227817,
+            "macroregion_id":1108826391,
             "region_id":85683193,
             "venue_id":152102669
         }
     ],
     "wof:id":152102669,
-    "wof:lastmodified":1473798251,
+    "wof:lastmodified":1496785514,
     "wof:name":"Ivb Champagne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"1.383668,43.529297,1.383668,43.529297",
     "geom:latitude":43.529297,
     "geom:longitude":1.383668,
@@ -31,9 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101750677,
-        85633147,
         85683397,
+        102191581,
+        404227653,
+        404388973,
+        85633147,
+        1108826387,
+        101750677,
+        136253037,
         102071625
     ],
     "wof:breaches":[],
@@ -41,18 +47,23 @@
         "sg:id":"SG_0VkK1bdkQcex2y1AbzhTNS_43.529297_1.383668@1306269763"
     },
     "wof:country":"FR",
-    "wof:geomhash":"71e47837a43a9abc2be7a55db15e7de3",
+    "wof:geomhash":"bff679155c67853067a6cd84fb1f452e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102071625,
+            "empire_id":136253037,
+            "localadmin_id":404388973,
             "locality_id":101750677,
+            "macrocounty_id":404227653,
+            "macroregion_id":1108826387,
             "region_id":85683397,
             "venue_id":152978345
         }
     ],
     "wof:id":152978345,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496803721,
     "wof:name":"Transports Rapides Joyau (trj)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

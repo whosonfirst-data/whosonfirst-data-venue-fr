@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.680934,44.403584,0.680934,44.403584",
     "geom:latitude":44.403584,
     "geom:longitude":0.680934,
@@ -34,9 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101830421,
-        85633147,
         85683341,
+        102191581,
+        404228101,
+        404375495,
+        85633147,
+        1108826385,
+        101830421,
+        136253037,
         102070985
     ],
     "wof:breaches":[],
@@ -44,18 +50,23 @@
         "sg:id":"SG_5sHvJR5x9XtNRP16gdDRd2_44.403584_0.680934@1306269736"
     },
     "wof:country":"FR",
-    "wof:geomhash":"47a800afee1fbe73807aa10e609c5fb8",
+    "wof:geomhash":"fae13a367df3b9d303d3817ff1539537",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070985,
+            "empire_id":136253037,
+            "localadmin_id":404375495,
             "locality_id":101830421,
+            "macrocounty_id":404228101,
+            "macroregion_id":1108826385,
             "region_id":85683341,
             "venue_id":152226595
         }
     ],
     "wof:id":152226595,
-    "wof:lastmodified":1473798334,
+    "wof:lastmodified":1496776549,
     "wof:name":"Villeneuve Automobile Sa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

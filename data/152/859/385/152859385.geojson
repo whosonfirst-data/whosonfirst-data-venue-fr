@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.491505,49.410755,4.491505,49.410755",
     "geom:latitude":49.410755,
     "geom:longitude":4.491505,
@@ -22,9 +23,14 @@
     "sg:province":"Champagne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101903245,
-        85633147,
         85683309,
+        102191581,
+        404228201,
+        404406849,
+        85633147,
+        1108826391,
+        101903245,
+        136253037,
         102066961
     ],
     "wof:breaches":[],
@@ -32,18 +38,23 @@
         "sg:id":"SG_5bIiwMGQzemuaDnb3bwprj_49.410755_4.491505@1306269756"
     },
     "wof:country":"FR",
-    "wof:geomhash":"d5e5532e6d0bda29dfb46669f53b5cbe",
+    "wof:geomhash":"873f3f33f1d958d3ac25054f785cb57e",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102066961,
+            "empire_id":136253037,
+            "localadmin_id":404406849,
             "locality_id":101903245,
+            "macrocounty_id":404228201,
+            "macroregion_id":1108826391,
             "region_id":85683309,
             "venue_id":152859385
         }
     ],
     "wof:id":152859385,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1496805571,
     "wof:name":"Ste Cooperative Agricole Euroluz Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

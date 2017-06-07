@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.356075,46.541767,3.356075,46.541767",
     "geom:latitude":46.541767,
     "geom:longitude":3.356075,
@@ -36,9 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829189,
-        85633147,
         85683293,
+        102191581,
+        404227801,
+        404348903,
+        85633147,
+        1108826389,
+        101829189,
+        136253037,
         102070259
     ],
     "wof:breaches":[],
@@ -46,18 +52,23 @@
         "sg:id":"SG_6ggWgTocrsgTvU126oiQXi_46.541767_3.356075@1306269721"
     },
     "wof:country":"FR",
-    "wof:geomhash":"33524d00eaeb911cbc7f19d11b03392e",
+    "wof:geomhash":"342ce6ab06b3157446604244f3ab7cce",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102070259,
+            "empire_id":136253037,
+            "localadmin_id":404348903,
             "locality_id":101829189,
+            "macrocounty_id":404227801,
+            "macroregion_id":1108826389,
             "region_id":85683293,
             "venue_id":152090467
         }
     ],
     "wof:id":152090467,
-    "wof:lastmodified":1473798197,
+    "wof:lastmodified":1496806274,
     "wof:name":"Osp (outillage Special De Precision) Sarl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

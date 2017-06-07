@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.17675,47.009998,3.17675,47.009998",
     "geom:latitude":47.009998,
     "geom:longitude":3.17675,
@@ -24,9 +25,14 @@
     "sg:province":"Bourgogne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101829425,
-        85633147,
         85683359,
+        102191581,
+        404228123,
+        404367031,
+        85633147,
+        1108826395,
+        101829425,
+        136253037,
         102072531
     ],
     "wof:breaches":[],
@@ -34,18 +40,23 @@
         "sg:id":"SG_5IoAjv4gaTOA7XW3sbzpuP_47.009998_3.176750@1306269746"
     },
     "wof:country":"FR",
-    "wof:geomhash":"5addf6d86df6457aa79f2e734060627f",
+    "wof:geomhash":"8c58ef423997685b6e843413a80f7097",
     "wof:hierarchy":[
         {
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102072531,
+            "empire_id":136253037,
+            "localadmin_id":404367031,
             "locality_id":101829425,
+            "macrocounty_id":404228123,
+            "macroregion_id":1108826395,
             "region_id":85683359,
             "venue_id":152539275
         }
     ],
     "wof:id":152539275,
-    "wof:lastmodified":1473798472,
+    "wof:lastmodified":1496788286,
     "wof:name":"Imprimerie Saviard S.a",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
