@@ -24,9 +24,12 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        101735835,
+        1108906449,
+        102191575,
+        1108833551,
         85633041,
-        85866397,
+        101735835,
+        1108833321,
         85682057
     ],
     "wof:breaches":[],
@@ -37,17 +40,20 @@
     "wof:geomhash":"a5170be4c73c44c0cf98d52e097f634e",
     "wof:hierarchy":[
         {
+            "borough_id":1108833321,
+            "continent_id":102191575,
             "country_id":85633041,
             "locality_id":101735835,
-            "neighbourhood_id":85866397,
+            "macrohood_id":1108833551,
+            "neighbourhood_id":1108906449,
             "region_id":85682057,
             "venue_id":152520995
         }
     ],
     "wof:id":152520995,
-    "wof:lastmodified":1496884491,
+    "wof:lastmodified":1498256227,
     "wof:name":"Hercules S.a.",
-    "wof:parent_id":85866397,
+    "wof:parent_id":1108906449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
