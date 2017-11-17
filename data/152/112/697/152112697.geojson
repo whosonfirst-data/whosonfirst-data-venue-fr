@@ -7,6 +7,7 @@
     "addr:postcode":"54000;54000",
     "addr:street":"Rue Guerrier De Dumast",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":6.177531,
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8, Rue Guerrier de Dumast, 54000 Nancy",
     "sg:classifiers":[],
     "sg:orig_category":"IMPRESSION NUM\u00c9RIQUE Services: Reproduction de documents, tirages de plans, copies de plans, photos ",
@@ -54,12 +55,14 @@
         }
     ],
     "wof:id":152112697,
-    "wof:lastmodified":1496883826,
+    "wof:lastmodified":1510943307,
     "wof:name":"H\u00e9lio Service S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152925025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

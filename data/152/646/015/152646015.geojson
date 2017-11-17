@@ -7,6 +7,7 @@
     "addr:postcode":"92407",
     "addr:street":"11 Av. Dubonnet;Ce\u0301Dex",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.260373,
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"11, Av. Dubonnet, 92407 Courbevoie C\u00e9dex",
     "sg:classifiers":[],
     "sg:orig_category":"Non-Classified Establishments",
@@ -45,12 +46,14 @@
         }
     ],
     "wof:id":152646015,
-    "wof:lastmodified":1496884171,
+    "wof:lastmodified":1510941910,
     "wof:name":"Novaction S.a.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152065299
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

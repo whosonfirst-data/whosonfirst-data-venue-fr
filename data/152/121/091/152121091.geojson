@@ -7,6 +7,7 @@
     "addr:postcode":"93210;67420",
     "addr:street":"Avenue Du Pre\u0301Sident Wilson;La Plaine St Denis",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":2.358803,
     "iso:country":"FR",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"132 avenue du Pr\u00e9sident Wilson 93210 LA PLAINE ST DENIS",
     "sg:city":"Plaine",
     "sg:classifiers":[],
@@ -49,12 +50,14 @@
         }
     ],
     "wof:id":152121091,
-    "wof:lastmodified":1496883987,
+    "wof:lastmodified":1510943445,
     "wof:name":"Ab Disques Video Sa",
     "wof:parent_id":85871095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        152248163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
