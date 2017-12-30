@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873787,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067017,
-        85873789
+        1158894231,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"fd4969a084eac54385643a2f837eb5a4",
     "wof:hierarchy":[
         {
+            "borough_id":1158894231,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067017,
             "locality_id":101751119,
-            "neighbourhood_id":85873789,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873787,
             "region_id":85683497,
             "venue_id":152643427
         }
     ],
     "wof:id":152643427,
-    "wof:lastmodified":1496883829,
+    "wof:lastmodified":1514653586,
     "wof:name":"Nomura France S.a.",
-    "wof:parent_id":85873789,
+    "wof:parent_id":85873787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

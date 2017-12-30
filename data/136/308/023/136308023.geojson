@@ -30,11 +30,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873825,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067977,
-        85873835
+        1158894241,
+        85683497
     ],
     "wof:brand_id":420573849,
     "wof:breaches":[],
@@ -45,18 +47,20 @@
     "wof:geomhash":"d1b2ff0c3a0d201e877261b568a379bf",
     "wof:hierarchy":[
         {
+            "borough_id":1158894241,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
-            "neighbourhood_id":85873835,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873825,
             "region_id":85683497,
             "venue_id":136308023
         }
     ],
     "wof:id":136308023,
-    "wof:lastmodified":1496882993,
+    "wof:lastmodified":1514653922,
     "wof:name":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "wof:parent_id":85873835,
+    "wof:parent_id":85873825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

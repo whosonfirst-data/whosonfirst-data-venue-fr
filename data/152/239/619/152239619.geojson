@@ -24,13 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894337,
+        1158894563,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068357,
-        85873853,
-        102069959,
-        85873985
+        1158894267,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +41,21 @@
     "wof:geomhash":"5a5a99be550ce6c35df95fed47395915",
     "wof:hierarchy":[
         {
+            "borough_id":1158894267,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
             "locality_id":101751119,
-            "neighbourhood_id":85873853,
-            "region_id":85683497,
-            "venue_id":152239619
-        },
-        {
-            "country_id":85633147,
-            "county_id":102069959,
-            "locality_id":101751119,
-            "neighbourhood_id":85873985,
+            "macroregion_id":404227465,
+            "microhood_id":1158894337,
+            "neighbourhood_id":1158894563,
             "region_id":85683497,
             "venue_id":152239619
         }
     ],
     "wof:id":152239619,
-    "wof:lastmodified":1496883389,
+    "wof:lastmodified":1514653662,
     "wof:name":"A.f.p.i. Etudes Et Pr\u00e9vention",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -24,12 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894435,
+        1158894583,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068927,
-        85873897,
-        85873893
+        1158894253,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,26 +41,21 @@
     "wof:geomhash":"1c4f8e4db67f53f8293790f76c6da4a1",
     "wof:hierarchy":[
         {
+            "borough_id":1158894253,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068927,
             "locality_id":101751119,
-            "neighbourhood_id":85873897,
-            "region_id":85683497,
-            "venue_id":152640913
-        },
-        {
-            "country_id":85633147,
-            "county_id":102068927,
-            "locality_id":101751119,
-            "neighbourhood_id":85873893,
+            "macroregion_id":404227465,
+            "microhood_id":1158894435,
+            "neighbourhood_id":1158894583,
             "region_id":85683497,
             "venue_id":152640913
         }
     ],
     "wof:id":152640913,
-    "wof:lastmodified":1496883643,
+    "wof:lastmodified":1514654422,
     "wof:name":"Nettoyage Express Id\u00e9al S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

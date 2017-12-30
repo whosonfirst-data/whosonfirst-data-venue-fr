@@ -24,11 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873823,
+        102191581,
+        1158894275,
         85633147,
+        404227465,
         101751119,
-        102067977,
-        85873829
+        1158894239,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,21 @@
     "wof:geomhash":"136279bcfb2cb9f4bc919c850f531b5f",
     "wof:hierarchy":[
         {
+            "borough_id":1158894239,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
-            "neighbourhood_id":85873829,
+            "macrohood_id":1158894275,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873823,
             "region_id":85683497,
             "venue_id":152799397
         }
     ],
     "wof:id":152799397,
-    "wof:lastmodified":1496883457,
+    "wof:lastmodified":1514653579,
     "wof:name":"Studio Vicken S.a.r.l.",
-    "wof:parent_id":85873829,
+    "wof:parent_id":85873823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873785,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067221,
-        85873799
+        1158894231,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"1203e87ea11a9f09debb9bda9cd051bf",
     "wof:hierarchy":[
         {
+            "borough_id":1158894231,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067221,
             "locality_id":101751119,
-            "neighbourhood_id":85873799,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873785,
             "region_id":85683497,
             "venue_id":152662735
         }
     ],
     "wof:id":152662735,
-    "wof:lastmodified":1496884063,
+    "wof:lastmodified":1514654374,
     "wof:name":"Parfums Kenzo S.a.",
-    "wof:parent_id":85873799,
+    "wof:parent_id":85873785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

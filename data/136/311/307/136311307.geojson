@@ -30,11 +30,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894505,
+        85873827,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067977,
-        85873837
+        1158894241,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,21 @@
     "wof:geomhash":"b86d71fa76e3b98423ba39f9ba3e8bd9",
     "wof:hierarchy":[
         {
+            "borough_id":1158894241,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
-            "neighbourhood_id":85873837,
+            "macroregion_id":404227465,
+            "microhood_id":1158894505,
+            "neighbourhood_id":85873827,
             "region_id":85683497,
             "venue_id":136311307
         }
     ],
     "wof:id":136311307,
-    "wof:lastmodified":1496882959,
+    "wof:lastmodified":1514654321,
     "wof:name":"Editions Grancher Sa",
-    "wof:parent_id":85873837,
+    "wof:parent_id":1158894505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

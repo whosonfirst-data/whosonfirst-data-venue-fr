@@ -24,11 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85874041,
+        102191581,
+        1158894293,
         85633147,
+        404227465,
         101751119,
-        102070247,
-        85874021
+        1158894273,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,21 @@
     "wof:geomhash":"746639db9d8ec415713f1773187a1d95",
     "wof:hierarchy":[
         {
+            "borough_id":1158894273,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070247,
             "locality_id":101751119,
-            "neighbourhood_id":85874021,
+            "macrohood_id":1158894293,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85874041,
             "region_id":85683497,
             "venue_id":168943051
         }
     ],
     "wof:id":168943051,
-    "wof:lastmodified":1496883239,
+    "wof:lastmodified":1514654235,
     "wof:name":"Etwa S.a.r.l.",
-    "wof:parent_id":85874021,
+    "wof:parent_id":85874041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

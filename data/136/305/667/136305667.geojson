@@ -30,11 +30,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873973,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102069797,
-        85873981
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,20 @@
     "wof:geomhash":"9e1694faf25dee13d22e9b11e86fa17c",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069797,
             "locality_id":101751119,
-            "neighbourhood_id":85873981,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873973,
             "region_id":85683497,
             "venue_id":136305667
         }
     ],
     "wof:id":136305667,
-    "wof:lastmodified":1496883081,
+    "wof:lastmodified":1514654069,
     "wof:name":"Grindlays Bank Sa",
-    "wof:parent_id":85873981,
+    "wof:parent_id":85873973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

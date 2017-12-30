@@ -36,11 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873823,
+        102191581,
+        1158894275,
         85633147,
+        404227465,
         101751119,
-        102069301,
-        85873917
+        1158894239,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +53,21 @@
     "wof:geomhash":"ea6d15bb6b9a20eeba05c53bd25f1092",
     "wof:hierarchy":[
         {
+            "borough_id":1158894239,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069301,
             "locality_id":101751119,
-            "neighbourhood_id":85873917,
+            "macrohood_id":1158894275,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873823,
             "region_id":85683497,
             "venue_id":152064485
         }
     ],
     "wof:id":152064485,
-    "wof:lastmodified":1496883379,
+    "wof:lastmodified":1514653937,
     "wof:name":"L'europenne De Donnees Sa",
-    "wof:parent_id":85873917,
+    "wof:parent_id":85873823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

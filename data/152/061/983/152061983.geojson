@@ -35,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
-        85633147,
-        101751119,
-        102070109,
         85874009,
-        102068731,
-        85873881
+        102191581,
+        85633147,
+        404227465,
+        101751119,
+        1158894269,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,26 +51,20 @@
     "wof:geomhash":"1da2872833847aab215cc67a62a107eb",
     "wof:hierarchy":[
         {
+            "borough_id":1158894269,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102070109,
             "locality_id":101751119,
+            "macroregion_id":404227465,
             "neighbourhood_id":85874009,
-            "region_id":85683497,
-            "venue_id":152061983
-        },
-        {
-            "country_id":85633147,
-            "county_id":102068731,
-            "locality_id":101751119,
-            "neighbourhood_id":85873881,
             "region_id":85683497,
             "venue_id":152061983
         }
     ],
     "wof:id":152061983,
-    "wof:lastmodified":1496883317,
+    "wof:lastmodified":1514653952,
     "wof:name":"Norki International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85874009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

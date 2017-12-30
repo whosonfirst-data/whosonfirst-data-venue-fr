@@ -29,12 +29,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894431,
+        1158894561,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068927,
-        85873891,
-        85873897
+        1158894253,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +46,21 @@
     "wof:geomhash":"41e722b526c61f634c8fe19394e244e4",
     "wof:hierarchy":[
         {
+            "borough_id":1158894253,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068927,
             "locality_id":101751119,
-            "neighbourhood_id":85873891,
-            "region_id":85683497,
-            "venue_id":153001469
-        },
-        {
-            "country_id":85633147,
-            "county_id":102068927,
-            "locality_id":101751119,
-            "neighbourhood_id":85873897,
+            "macroregion_id":404227465,
+            "microhood_id":1158894431,
+            "neighbourhood_id":1158894561,
             "region_id":85683497,
             "venue_id":153001469
         }
     ],
     "wof:id":153001469,
-    "wof:lastmodified":1496882596,
+    "wof:lastmodified":1514653472,
     "wof:name":"Federation Fran\u00c7aise Motocyclisme",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

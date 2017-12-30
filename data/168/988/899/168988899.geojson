@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873973,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068357,
-        85873853
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"4f5c54b7f7ffb237d11afd0198b347a7",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
             "locality_id":101751119,
-            "neighbourhood_id":85873853,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873973,
             "region_id":85683497,
             "venue_id":168988899
         }
     ],
     "wof:id":168988899,
-    "wof:lastmodified":1496883239,
+    "wof:lastmodified":1514653516,
     "wof:name":"Hommes Et Solutions S.a.",
-    "wof:parent_id":85873853,
+    "wof:parent_id":85873973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

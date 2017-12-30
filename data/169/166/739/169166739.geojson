@@ -24,13 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894429,
+        1158894589,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068731,
-        85873877,
-        102068927,
-        85873897
+        1158894253,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +41,21 @@
     "wof:geomhash":"9c6ebf10c54c09abf2b5d05f2267d914",
     "wof:hierarchy":[
         {
+            "borough_id":1158894253,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068731,
             "locality_id":101751119,
-            "neighbourhood_id":85873877,
-            "region_id":85683497,
-            "venue_id":169166739
-        },
-        {
-            "country_id":85633147,
-            "county_id":102068927,
-            "locality_id":101751119,
-            "neighbourhood_id":85873897,
+            "macroregion_id":404227465,
+            "microhood_id":1158894429,
+            "neighbourhood_id":1158894589,
             "region_id":85683497,
             "venue_id":169166739
         }
     ],
     "wof:id":169166739,
-    "wof:lastmodified":1496882664,
+    "wof:lastmodified":1514653966,
     "wof:name":"Soci\u00e9t\u00e9 Desp\u00e9 S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

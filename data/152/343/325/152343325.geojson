@@ -25,11 +25,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873813,
+        102191581,
+        1158894289,
         85633147,
+        404227465,
         101751119,
-        102067591,
-        85873813
+        1158894237,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,16 +42,19 @@
     "wof:geomhash":"27dcb7d0ad30c7b1bda41f001e25b151",
     "wof:hierarchy":[
         {
+            "borough_id":1158894237,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067591,
             "locality_id":101751119,
+            "macrohood_id":1158894289,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873813,
             "region_id":85683497,
             "venue_id":152343325
         }
     ],
     "wof:id":152343325,
-    "wof:lastmodified":1496883588,
+    "wof:lastmodified":1514653550,
     "wof:name":"Caf\u00e9s Amazone",
     "wof:parent_id":85873813,
     "wof:placetype":"venue",

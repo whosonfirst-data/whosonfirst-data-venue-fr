@@ -24,11 +24,15 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894475,
+        1158894541,
+        102191581,
+        1158894283,
         85633147,
+        404227465,
         101751119,
-        102068555,
-        85873871
+        1158894249,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,22 @@
     "wof:geomhash":"0ce16f70e12858c842895d7e70f4caec",
     "wof:hierarchy":[
         {
+            "borough_id":1158894249,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068555,
             "locality_id":101751119,
-            "neighbourhood_id":85873871,
+            "macrohood_id":1158894283,
+            "macroregion_id":404227465,
+            "microhood_id":1158894475,
+            "neighbourhood_id":1158894541,
             "region_id":85683497,
             "venue_id":152612513
         }
     ],
     "wof:id":152612513,
-    "wof:lastmodified":1496883398,
+    "wof:lastmodified":1514653463,
     "wof:name":"Marmara S.a.",
-    "wof:parent_id":85873871,
+    "wof:parent_id":1158894475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

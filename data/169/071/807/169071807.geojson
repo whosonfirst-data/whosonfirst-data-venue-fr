@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873981,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102069797,
-        85873975
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"ad289eb03725867a16f28551f9213106",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069797,
             "locality_id":101751119,
-            "neighbourhood_id":85873975,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873981,
             "region_id":85683497,
             "venue_id":169071807
         }
     ],
     "wof:id":169071807,
-    "wof:lastmodified":1496882844,
+    "wof:lastmodified":1514654184,
     "wof:name":"Namur - Assurances Du Cr\u00e9dit",
-    "wof:parent_id":85873975,
+    "wof:parent_id":85873981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
