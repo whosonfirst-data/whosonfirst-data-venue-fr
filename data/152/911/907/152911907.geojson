@@ -32,13 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
-        85633147,
-        101751119,
-        102067017,
         85873825,
-        102067977,
-        85873835
+        102191581,
+        85633147,
+        404227465,
+        101751119,
+        1158894241,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +48,20 @@
     "wof:geomhash":"193350d904cf0aab69d16c209ef5a4f2",
     "wof:hierarchy":[
         {
+            "borough_id":1158894241,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067017,
             "locality_id":101751119,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873825,
-            "region_id":85683497,
-            "venue_id":152911907
-        },
-        {
-            "country_id":85633147,
-            "county_id":102067977,
-            "locality_id":101751119,
-            "neighbourhood_id":85873835,
             "region_id":85683497,
             "venue_id":152911907
         }
     ],
     "wof:id":152911907,
-    "wof:lastmodified":1496884143,
+    "wof:lastmodified":1514653486,
     "wof:name":"Frisonroche",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

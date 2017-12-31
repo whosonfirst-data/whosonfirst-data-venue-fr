@@ -32,15 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683157,
+        85873969,
+        102191581,
         85633147,
-        101749067,
-        102071913,
-        85873971,
-        85683497,
+        404227465,
         101751119,
-        102069797,
-        85873969
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +48,20 @@
     "wof:geomhash":"29e8611a1cb5de1d2ea100aca440c99c",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102071913,
-            "locality_id":101749067,
-            "neighbourhood_id":85873971,
-            "region_id":85683157,
-            "venue_id":152911133
-        },
-        {
-            "country_id":85633147,
-            "county_id":102069797,
             "locality_id":101751119,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873969,
             "region_id":85683497,
             "venue_id":152911133
         }
     ],
     "wof:id":152911133,
-    "wof:lastmodified":1496884142,
+    "wof:lastmodified":1514653404,
     "wof:name":"Emi Music Publishing France Sa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

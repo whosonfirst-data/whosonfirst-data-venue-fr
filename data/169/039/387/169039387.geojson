@@ -24,13 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894461,
+        1158894565,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067017,
-        85873791,
-        102067221,
-        85873799
+        1158894233,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,26 +41,21 @@
     "wof:geomhash":"a3ae9c701e3a6f22b4a497b797dda2ae",
     "wof:hierarchy":[
         {
+            "borough_id":1158894233,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067017,
             "locality_id":101751119,
-            "neighbourhood_id":85873791,
-            "region_id":85683497,
-            "venue_id":169039387
-        },
-        {
-            "country_id":85633147,
-            "county_id":102067221,
-            "locality_id":101751119,
-            "neighbourhood_id":85873799,
+            "macroregion_id":404227465,
+            "microhood_id":1158894461,
+            "neighbourhood_id":1158894565,
             "region_id":85683497,
             "venue_id":169039387
         }
     ],
     "wof:id":169039387,
-    "wof:lastmodified":1496882923,
+    "wof:lastmodified":1514653626,
     "wof:name":"Logitech France S.a.r.l.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

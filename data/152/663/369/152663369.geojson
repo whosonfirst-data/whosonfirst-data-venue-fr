@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873973,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102069797,
-        85873981
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"1c3929703fc52d949457f37cb2bf30b8",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069797,
             "locality_id":101751119,
-            "neighbourhood_id":85873981,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873973,
             "region_id":85683497,
             "venue_id":152663369
         }
     ],
     "wof:id":152663369,
-    "wof:lastmodified":1496883897,
+    "wof:lastmodified":1514653464,
     "wof:name":"Partech International S.a.",
-    "wof:parent_id":85873981,
+    "wof:parent_id":85873973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

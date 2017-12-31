@@ -35,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894493,
+        1158894553,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067977,
-        85873837,
-        102069645,
-        85873961
+        1158894263,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,26 +52,21 @@
     "wof:geomhash":"579875a7404d363ae9c236d4ab53237d",
     "wof:hierarchy":[
         {
+            "borough_id":1158894263,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
-            "neighbourhood_id":85873837,
-            "region_id":85683497,
-            "venue_id":152065379
-        },
-        {
-            "country_id":85633147,
-            "county_id":102069645,
-            "locality_id":101751119,
-            "neighbourhood_id":85873961,
+            "macroregion_id":404227465,
+            "microhood_id":1158894493,
+            "neighbourhood_id":1158894553,
             "region_id":85683497,
             "venue_id":152065379
         }
     ],
     "wof:id":152065379,
-    "wof:lastmodified":1496883632,
+    "wof:lastmodified":1514654456,
     "wof:name":"Sagitta",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -24,12 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
-        85633147,
-        101751119,
-        102067977,
+        1158894507,
         85873827,
-        85873831
+        102191581,
+        85633147,
+        404227465,
+        101751119,
+        1158894241,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,26 +41,21 @@
     "wof:geomhash":"b3a2fb409af23ea3644a9c17c431097b",
     "wof:hierarchy":[
         {
+            "borough_id":1158894241,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
+            "macroregion_id":404227465,
+            "microhood_id":1158894507,
             "neighbourhood_id":85873827,
-            "region_id":85683497,
-            "venue_id":152746001
-        },
-        {
-            "country_id":85633147,
-            "county_id":102067977,
-            "locality_id":101751119,
-            "neighbourhood_id":85873831,
             "region_id":85683497,
             "venue_id":152746001
         }
     ],
     "wof:id":152746001,
-    "wof:lastmodified":1496883646,
+    "wof:lastmodified":1514654417,
     "wof:name":"Saqqara Systems S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

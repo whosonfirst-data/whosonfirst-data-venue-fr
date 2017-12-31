@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873931,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102069301,
-        85873917
+        1158894257,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"0e5627b4b29d5fc5d2ea1ec7b7fde32d",
     "wof:hierarchy":[
         {
+            "borough_id":1158894257,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102069301,
             "locality_id":101751119,
-            "neighbourhood_id":85873917,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873931,
             "region_id":85683497,
             "venue_id":153015985
         }
     ],
     "wof:id":153015985,
-    "wof:lastmodified":1496882567,
+    "wof:lastmodified":1514654389,
     "wof:name":"Domosystem France S.a.",
-    "wof:parent_id":85873917,
+    "wof:parent_id":85873931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

@@ -24,15 +24,14 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        1158894327,
+        1158894509,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068357,
-        85873853,
-        85683157,
-        101749809,
-        102072331,
-        85873997
+        1158894267,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,26 +41,21 @@
     "wof:geomhash":"94fd22feaf26c9802e7401caae41b210",
     "wof:hierarchy":[
         {
+            "borough_id":1158894267,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
             "locality_id":101751119,
-            "neighbourhood_id":85873853,
+            "macroregion_id":404227465,
+            "microhood_id":1158894327,
+            "neighbourhood_id":1158894509,
             "region_id":85683497,
-            "venue_id":152838145
-        },
-        {
-            "country_id":85633147,
-            "county_id":102072331,
-            "locality_id":101749809,
-            "neighbourhood_id":85873997,
-            "region_id":85683157,
             "venue_id":152838145
         }
     ],
     "wof:id":152838145,
-    "wof:lastmodified":1496884259,
+    "wof:lastmodified":1514653438,
     "wof:name":"V.a.w. Aluminium France S.a.s.",
-    "wof:parent_id":-1,
+    "wof:parent_id":1158894327,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

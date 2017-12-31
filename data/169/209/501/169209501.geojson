@@ -24,12 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873829,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067977,
-        85873835,
-        85873831
+        1158894241,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,26 +40,20 @@
     "wof:geomhash":"3449fef76f53a631d637becdaaa7955f",
     "wof:hierarchy":[
         {
+            "borough_id":1158894241,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067977,
             "locality_id":101751119,
-            "neighbourhood_id":85873835,
-            "region_id":85683497,
-            "venue_id":169209501
-        },
-        {
-            "country_id":85633147,
-            "county_id":102067977,
-            "locality_id":101751119,
-            "neighbourhood_id":85873831,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873829,
             "region_id":85683497,
             "venue_id":169209501
         }
     ],
     "wof:id":169209501,
-    "wof:lastmodified":1496882778,
+    "wof:lastmodified":1514654351,
     "wof:name":"Ulmann Et Compagnie S.a.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

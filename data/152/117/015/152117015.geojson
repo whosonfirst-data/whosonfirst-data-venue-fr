@@ -35,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873813,
+        102191581,
+        1158894289,
         85633147,
+        404227465,
         101751119,
-        102067017,
-        85873785
+        1158894237,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +52,21 @@
     "wof:geomhash":"d7e01de671ab70ab04168680a8bdbb49",
     "wof:hierarchy":[
         {
+            "borough_id":1158894237,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067017,
             "locality_id":101751119,
-            "neighbourhood_id":85873785,
+            "macrohood_id":1158894289,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873813,
             "region_id":85683497,
             "venue_id":152117015
         }
     ],
     "wof:id":152117015,
-    "wof:lastmodified":1496884052,
+    "wof:lastmodified":1514653847,
     "wof:name":"Trivium Sa",
-    "wof:parent_id":85873785,
+    "wof:parent_id":85873813,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

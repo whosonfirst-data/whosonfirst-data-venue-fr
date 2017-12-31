@@ -34,13 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873973,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102068357,
-        85873853,
-        102069797,
-        85873973
+        1158894265,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +50,20 @@
     "wof:geomhash":"e66eda0c33d9efc5090fef64544b381f",
     "wof:hierarchy":[
         {
+            "borough_id":1158894265,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102068357,
             "locality_id":101751119,
-            "neighbourhood_id":85873853,
-            "region_id":85683497,
-            "venue_id":152127259
-        },
-        {
-            "country_id":85633147,
-            "county_id":102069797,
-            "locality_id":101751119,
+            "macroregion_id":404227465,
             "neighbourhood_id":85873973,
             "region_id":85683497,
             "venue_id":152127259
         }
     ],
     "wof:id":152127259,
-    "wof:lastmodified":1496884223,
+    "wof:lastmodified":1514654005,
     "wof:name":"Spencer Stuart Sa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],

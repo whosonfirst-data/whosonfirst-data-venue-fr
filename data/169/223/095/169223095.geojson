@@ -24,11 +24,13 @@
     "sg:province":"Ile de France",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85683497,
+        85873787,
+        102191581,
         85633147,
+        404227465,
         101751119,
-        102067017,
-        85873791
+        1158894231,
+        85683497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +40,20 @@
     "wof:geomhash":"b14533bf8c704824f78aa196682e544a",
     "wof:hierarchy":[
         {
+            "borough_id":1158894231,
+            "continent_id":102191581,
             "country_id":85633147,
-            "county_id":102067017,
             "locality_id":101751119,
-            "neighbourhood_id":85873791,
+            "macroregion_id":404227465,
+            "neighbourhood_id":85873787,
             "region_id":85683497,
             "venue_id":169223095
         }
     ],
     "wof:id":169223095,
-    "wof:lastmodified":1496882892,
+    "wof:lastmodified":1514653833,
     "wof:name":"Yamato Transports Europe",
-    "wof:parent_id":85873791,
+    "wof:parent_id":85873787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-fr",
     "wof:superseded_by":[],
